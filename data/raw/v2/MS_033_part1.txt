@@ -1,0 +1,53 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00] Xin mời mọi người ổn định chỗ ngồi. Hôm nay Ban giám đốc bệnh viện triệu tập cuộc họp này để bàn về tiến độ triển khai Bệnh án điện tử (EMR). Bác sĩ Hùng cho ý kiến trước về tình hình ở khoa Nội xem sao?
+[14:02] Vâng thưa Ban giám đốc, thực sự là anh em bác sĩ chúng tôi đang thấy... ờ, hơi đuối. Hệ thống mới này nhập liệu tốn thời gian quá. Thay vì dành thời gian khám bệnh, giờ bác sĩ cứ phải ngồi gõ phím, click chuột chọn từng danh mục.
+[14:04] Tôi cũng nghe phản hồi tương tự từ khoa Ngoại. Đặc biệt là mấy bác sĩ lớn tuổi, họ không quen dùng máy tính nhanh, thao tác cứ bị lúng túng, dẫn đến bệnh nhân phải chờ đợi rất lâu ở khâu kê đơn và cho chỉ định xét nghiệm.
+[14:06] Chỗ này em xin giải thích một chút. Hệ thống EMR mình đang dùng là bản chuẩn của Bộ Y tế, nó yêu cầu dữ liệu phải đầy đủ và chính xác để sau này liên thông bảo hiểm. Lúc đầu chưa quen thì thấy chậm, chứ sau này có sẵn lịch sử bệnh án thì tra cứu nhanh lắm chị ạ.
+[14:08] Nhanh thì chưa thấy, nhưng hiện tại là đang làm ùn ứ ở phòng khám. Có hôm hệ thống bị treo 15 phút, cả bệnh viện như bị tê liệt. Anh em IT cần xem lại hạ tầng server chứ thế này thì chết.
+[14:10] Về vấn đề server, đúng là đợt rồi có lúc quá tải do lượng truy cập đồng thời tăng cao. Em đang đề xuất nâng cấp RAM và ổ cứng SSD cho hệ thống máy chủ trung tâm.
+[14:12] Ngoài ra, tôi thấy cái giao diện nó rối quá. Nhiều thông tin thừa thãi mà bác sĩ lâm sàng không cần đến. Team IT có thể tùy chỉnh lại cho gọn nhẹ hơn được không? Kiểu như bác sĩ chỉ cần nhìn thấy những thông số quan trọng nhất thôi ấy.
+[14:14] Dạ được ạ, tụi em có thể tạo các mẫu (template) bệnh án theo từng chuyên khoa. Bác sĩ chỉ cần chọn mẫu rồi điền số liệu thôi, không phải nhập từ đầu nữa. Cái này chắc chắn sẽ giảm được 50% thời gian nhập liệu.
+[14:16] Thế thì tốt quá, đề nghị triển khai ngay cái template này cho khoa Nội và khoa Ngoại trước để đánh giá hiệu quả. Bác sĩ Hùng thấy sao?
+
+<|output|>
+# Triển khai hệ thống Bệnh án điện tử (EMR) tại bệnh viện
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá những khó khăn, vướng mắc trong giai đoạn đầu triển khai Bệnh án điện tử (EMR).
+- Tìm giải pháp khắc phục tình trạng nhập liệu chậm, quá tải server.
+
+### 2. Các vấn đề đã thảo luận
+- Bác sĩ phàn nàn về việc nhập liệu tốn thời gian, gây ùn tắc tại phòng khám.
+- Hạ tầng server chưa ổn định, thỉnh thoảng bị treo khi lượng truy cập lớn.
+- Giao diện phần mềm phức tạp, chưa tối ưu cho công tác lâm sàng.
+
+### 3. Kết luận và quyết định
+- Team IT thực hiện nâng cấp hạ tầng server (RAM, SSD) để đảm bảo tốc độ xử lý.
+- Xây dựng các mẫu bệnh án (template) theo từng chuyên khoa để rút ngắn thời gian nhập liệu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nâng cấp phần cứng máy chủ trung tâm | Team IT | 25/11/2024 |
+| Thiết kế template bệnh án khoa Nội, Ngoại | Team IT | 30/11/2024 |

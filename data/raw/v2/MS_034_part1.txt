@@ -1,0 +1,57 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:30] Chào phòng kế toán, hôm nay chúng ta ngồi lại sớm để rà soát cái quyết toán thuế năm nay. Còn hơn một tháng nữa là hết năm rồi, mọi người thấy tình hình hóa đơn chứng từ thế nào?
+[08:32] Dạ chị, hiện tại em đang kẹt ở chỗ mấy cái hóa đơn tiếp khách bên bộ phận kinh doanh gửi về. Nhiều cái không có danh sách đính kèm, hoặc là thông tin xuất hóa đơn bị sai tên công ty. Em nhắc mãi mà họ cứ ậm ừ.
+[08:34] Lại là vụ tiếp khách à? Chỗ này... ừm, chị đã nói bao nhiêu lần rồi, hóa đơn không hợp lệ thì mình gạt ra, không hạch toán nữa. Cứ để họ chịu trách nhiệm trước sếp xem có làm lại được không.
+[08:36] Nhưng mà doanh thu năm nay của mình cao, nếu không có mấy cái chi phí đó để offset thì tiền thuế thu nhập doanh nghiệp phải đóng sẽ rất lớn đấy chị ạ.
+[08:38] Đúng thế, nên mình phải tìm cách hợp thức hóa chi phí một cách đúng luật chứ không phải làm liều. Em rà soát lại các hợp đồng thuê kho bãi với chi phí vận chuyển xem đã đủ chứng từ thanh toán chưa?
+[08:40] Chi phí vận chuyển thì em đang đối chiếu với bên Logistics. Vấn đề là có một số đợt hàng đi lẻ, mình thuê ngoài theo chuyến, họ không xuất hóa đơn đỏ mà chỉ có biên nhận thôi. Chỗ này xử lý sao chị?
+[08:42] Biên nhận thì làm sao mà đưa vào chi phí hợp lý được? Em phải yêu cầu họ cung cấp hóa đơn hoặc ít nhất là bảng kê có xác nhận của địa phương nếu là cá nhân kinh doanh. Nếu không được thì phải loại ra ngay.
+[08:44] Còn vụ hoàn thuế GTGT đợt xuất khẩu hàng sang Nhật thì sao rồi Lan? Sếp đang hỏi cái đấy để lấy dòng tiền về xoay vòng vốn cuối năm.
+[08:46] Dạ hồ sơ em nộp rồi, nhưng bên thuế họ đang yêu cầu giải trình về việc thanh toán qua ngân hàng của đối tác Nhật. Có một số giao dịch bị lệch ngày so với tờ khai hải quan.
+[08:48] Lệch ngày à? Kiểu như là tiền về trước hay về sau? Phải giải trình rõ là do độ trễ của hệ thống Swift ngân hàng quốc tế chứ không phải là thanh toán sai đối tượng. Cái này em làm việc lại với bên ngân hàng để lấy cái điện chuyển tiền có xác nhận nhé.
+
+<|output|>
+# Quyết toán thuế năm và xử lý chứng từ kế toán
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tình hình hóa đơn, chứng từ cuối năm để chuẩn bị cho quyết toán thuế.
+- Giải quyết các tồn đọng về chi phí không hợp lệ từ bộ phận kinh doanh.
+- Đẩy nhanh tiến độ hoàn thuế GTGT.
+
+### 2. Các vấn đề đã thảo luận
+- Hóa đơn tiếp khách từ bộ phận kinh doanh bị sai thông tin hoặc thiếu bảng kê đính kèm.
+- Thiếu hóa đơn đỏ cho các chuyến vận chuyển thuê ngoài lẻ.
+- Hồ sơ hoàn thuế GTGT bị vướng do lệch ngày thanh toán qua ngân hàng quốc tế.
+
+### 3. Kết luận và quyết định
+- Kiên quyết loại bỏ các hóa đơn không hợp lệ nếu không thể bổ sung chứng từ.
+- Yêu cầu bên vận chuyển cung cấp hóa đơn hoặc lập bảng kê theo đúng quy định pháp luật.
+- Liên hệ ngân hàng để lấy xác nhận điện chuyển tiền giải trình cho hồ sơ hoàn thuế.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý hóa đơn tiếp khách của bộ phận kinh doanh | Nam | 10/12/2024 |
+| Rà soát hồ sơ vận chuyển thuê ngoài | Nam | 12/12/2024 |
+| Làm việc với ngân hàng về điện chuyển tiền (Swift) | Lan | 05/12/2024 |

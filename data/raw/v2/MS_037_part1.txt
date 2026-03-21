@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00] Chào team Nhân sự, hôm nay chúng ta họp để thảo luận về một vấn đề cực kỳ quan trọng: Cải thiện gói phúc lợi cho nhân viên trong năm tới. Tình hình là tỉ lệ nhân viên nghỉ việc (turnover rate) của quý vừa rồi tăng lên 15%, đặc biệt là ở khối công nghệ và kinh doanh.
+[14:02] Dạ chị, em cũng có làm khảo sát nhỏ với các bạn nghỉ việc. Đa số đều nói là lương của mình vẫn ổn nhưng phúc lợi thì chưa hấp dẫn bằng các công ty startup mới nổi. Họ có chế độ làm việc linh hoạt, bảo hiểm sức khỏe cao cấp cho cả người thân.
+[14:04] Bảo hiểm sức khỏe cho người thân à? Cái này chi phí sẽ đội lên rất nhiều đấy. Hiện tại mình đang đóng bảo hiểm xã hội đầy đủ và có gói bảo hiểm tai nạn 24/7 rồi mà?
+[14:06] Vâng, nhưng bảo hiểm tai nạn nó khác với bảo hiểm sức khỏe (Private Health Insurance) chị ạ. Các bạn trẻ bây giờ họ quan tâm đến việc đi khám ở các bệnh viện quốc tế như Vinmec hay Việt Pháp mà không phải lo về chi phí.
+[14:08] Ờm... tôi thấy ý kiến này cũng đáng cân nhắc. Nếu mình không giữ chân được người giỏi thì chi phí tuyển dụng và đào tạo người mới còn tốn kém hơn nhiều. Tuy nhiên, mình cần phân cấp gói bảo hiểm theo thâm niên hoặc cấp bậc để cân đối ngân sách.
+[14:10] Em đề xuất mình mua gói bảo hiểm sức khỏe cao cấp cho nhân viên có thâm niên từ 2 năm trở lên. Còn dưới 2 năm thì dùng gói cơ bản hơn. Ngoài ra, việc hỗ trợ 50% phí bảo hiểm cho 01 người thân cũng là một điểm cộng rất lớn.
+[14:12] Được rồi, Lan ghi lại để làm việc với bên các đơn vị bảo hiểm lấy báo giá nhé. Còn vấn đề làm việc linh hoạt (Flexible Working) thì sao?
+
+<|output|>
+# Cải thiện chính sách phúc lợi và chế độ đãi ngộ nhân viên năm 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân tỉ lệ nhân viên nghỉ việc tăng cao và tìm giải pháp giữ chân nhân tài.
+- Thảo luận và thống nhất các hạng mục phúc lợi mới nhằm tăng tính cạnh tranh của công ty trên thị trường lao động.
+
+### 2. Các vấn đề đã thảo luận
+- Tỉ lệ nghỉ việc ở khối Tech và Kinh doanh tăng do phúc lợi chưa hấp dẫn bằng các đối thủ.
+- Nhu cầu về bảo hiểm sức khỏe cao cấp (PVI/Bảo Việt) cho nhân viên và hỗ trợ cho người thân.
+
+### 3. Kết luận và quyết định
+- Triển khai gói bảo hiểm sức khỏe tư nhân phân cấp theo thâm niên (ưu tiên nhân viên trên 2 năm).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ lấy báo giá các gói bảo hiểm sức khỏe phân cấp | Lan | 25/11/2024 |

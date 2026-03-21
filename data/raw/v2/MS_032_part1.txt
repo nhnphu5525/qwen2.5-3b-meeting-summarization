@@ -1,0 +1,54 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào mọi người, hôm nay chúng ta họp về dự án số hóa giáo trình của Nhà xuất bản Giáo dục. Team IT và Ban biên tập ngồi lại để xem tiến độ đến đâu rồi nhé.
+[09:02] Dạ báo cáo chị, phần scan và nhận dạng chữ (OCR) cho bộ sách Toán và Tiếng Việt lớp 1 đến lớp 5 đã xong khoảng 80%. Tuy nhiên, ừm... cái khó nhất hiện nay là mấy cái công thức toán học phức tạp ấy, máy nó nhận dạng hay bị lỗi font hoặc nhảy ký tự lắm.
+[09:04] Lỗi font à? Sao mình không dùng mấy cái thư viện chuyên dụng như MathJax hay gì đó để xử lý? Chứ sách toán mà sai dấu cộng thành dấu trừ thì chết dở.
+[09:06] Vấn đề không phải là hiển thị chị ạ, mà là lúc quét từ bản cứng sang bản mềm ấy. Nhiều cuốn sách cũ, giấy nó hơi vàng, mực mờ nên OCR nó đọc không ra. Team em đang phải ngồi sửa tay từng trang một đây.
+[09:08] Sửa tay thì đến bao giờ mới xong? Mình có hàng ngàn đầu sách mà. Anh thấy kiểu này không ổn. Có cách nào tự động hóa hơn không?
+[09:10] Hay là mình chỉ số hóa các phần văn bản thôi, còn công thức thì mình cắt ảnh chèn vào? Kiểu như là giữ nguyên định dạng hình ảnh cho nó chính xác tuyệt đối.
+[09:12] Nếu làm thế thì sau này học sinh muốn copy công thức để làm bài tập hay tìm kiếm nội dung trong file PDF/Ebook thì làm sao? Mục tiêu của mình là tạo ra giáo trình số tương tác mà, chứ có phải file PDF tĩnh đâu.
+[09:14] Chị Lan nói đúng đấy. Chúng ta cần dữ liệu text 'sạch' để sau này còn tích hợp vào ứng dụng học tập trực tuyến nữa.
+[09:16] Vậy bây giờ thế này, Team IT thử nghiên cứu mấy cái tool OCR AI mới xem sao. Nghe nói mấy con model gần đây của Google hay Amazon nó xử lý chữ viết tay với công thức tốt lắm.
+[09:18] Dạ, để em cho anh em test thử API của Google Vision xem sao. Nhưng mà chi phí nó cũng hơi chát đấy anh ạ, tính theo trang thì cũng bộn tiền đấy.
+
+<|output|>
+# Dự án số hóa giáo trình Nhà xuất bản Giáo dục
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tiến độ dự án số hóa giáo trình từ lớp 1 đến lớp 5.
+- Giải quyết các khó khăn kỹ thuật trong quá trình OCR (nhận dạng chữ) công thức toán học.
+
+### 2. Các vấn đề đã thảo luận
+- Tiến độ OCR đạt 80% nhưng gặp lỗi nghiêm trọng ở các công thức toán học do sách cũ, mực mờ.
+- Tranh luận giữa việc sử dụng ảnh chụp công thức (tĩnh) hay text (tương tác). Quyết định chọn hướng text để hỗ trợ tìm kiếm và tích hợp ứng dụng.
+- Chi phí sử dụng các API OCR cao cấp (Google/Amazon).
+
+### 3. Kết luận và quyết định
+- Team IT nghiên cứu và thử nghiệm các công cụ OCR AI (như Google Vision) để cải thiện độ chính xác cho công thức.
+- Ưu tiên chất lượng 'dữ liệu sạch' thay vì làm nhanh nhưng chỉ có file tĩnh.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thử nghiệm API Google Vision OCR cho công thức toán | Team IT | 25/11/2024 |
+| Báo cáo chi phí dự kiến cho API OCR mới | Team IT | 24/11/2024 |
