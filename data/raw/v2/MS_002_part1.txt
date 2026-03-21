@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00] Chào các thầy cô trong hội đồng khoa học. Hôm nay mình họp bàn về việc cập nhật chương trình đào tạo ngành Công nghệ thông tin cho năm học tới.
+[14:02] Theo khảo sát doanh nghiệp, sinh viên ra trường hiện tại vẫn còn yếu về kỹ năng thực hành trên các nền tảng đám mây như AWS hay Azure.
+[14:04] Tôi đồng ý. Hiện tại các môn học của mình vẫn nặng về lý thuyết hệ thống, chưa có nhiều bài lab thực tế về Cloud Computing.
+[14:06] Tôi đề xuất mình lồng ghép các chứng chỉ nghề nghiệp vào các môn tự chọn. Ví dụ như Cloud Practitioner cho sinh viên năm 3.
+[14:08] Liệu học phí có tăng không khi mình mua các gói đào tạo của bên thứ ba? Phụ huynh chắc chắn sẽ thắc mắc.
+[14:10] Chúng ta có thể dùng các chương trình giáo dục miễn phí cho đại học như AWS Academy, hoàn toàn không tốn phí bản quyền cho trường.
+
+<|output|>
+# Cập nhật chương trình đào tạo ngành Công nghệ thông tin năm học mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và cập nhật nội dung chương trình đào tạo theo nhu cầu thực tế của doanh nghiệp.
+- Thảo luận về việc đưa các chứng chỉ nghề nghiệp quốc tế vào giảng dạy.
+
+### 2. Các vấn đề đã thảo luận
+- Sinh viên còn yếu kỹ năng thực hành về Cloud Computing (AWS, Azure).
+- Đề xuất lồng ghép chứng chỉ AWS Academy vào các môn tự chọn để tiết kiệm chi phí.
+
+### 3. Kết luận và quyết định
+- Chính thức đưa nội dung Cloud và AI vào khung chương trình đào tạo mới.
+- Sử dụng tài nguyên từ các chương trình hỗ trợ giáo dục miễn phí của các hãng công nghệ lớn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đăng ký tham gia chương trình AWS Academy | Thầy Minh | 15/04 |

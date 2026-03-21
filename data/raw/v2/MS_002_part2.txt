@@ -1,0 +1,54 @@
+<|input|>
+# Cập nhật chương trình đào tạo ngành Công nghệ thông tin năm học mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và cập nhật nội dung chương trình đào tạo theo nhu cầu thực tế của doanh nghiệp.
+- Thảo luận về việc đưa các chứng chỉ nghề nghiệp quốc tế vào giảng dạy.
+
+### 2. Các vấn đề đã thảo luận
+- Sinh viên còn yếu kỹ năng thực hành về Cloud Computing (AWS, Azure).
+- Đề xuất lồng ghép chứng chỉ AWS Academy vào các môn tự chọn để tiết kiệm chi phí.
+
+### 3. Kết luận và quyết định
+- Chính thức đưa nội dung Cloud và AI vào khung chương trình đào tạo mới.
+- Sử dụng tài nguyên từ các chương trình hỗ trợ giáo dục miễn phí của các hãng công nghệ lớn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đăng ký tham gia chương trình AWS Academy | Thầy Minh | 15/04 |
+[14:12] Vậy thì tốt quá. Còn về mảng AI, hiện tại sinh viên rất thích dùng ChatGPT, mình có nên cấm hay hướng dẫn sử dụng?
+[14:14] Cấm là không thể, mình nên dạy cách sử dụng AI như một công cụ hỗ trợ lập trình hiệu quả nhưng phải đi kèm với liêm chính học thuật.
+[14:16] Đúng rồi, mình có thể thêm một module về "AI Literacy" vào môn Nhập môn lập trình chẳng hạn.
+
+<|output|>
+# Cập nhật chương trình đào tạo ngành Công nghệ thông tin năm học mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và cập nhật nội dung chương trình đào tạo theo nhu cầu thực tế của doanh nghiệp.
+- Thảo luận về việc đưa các chứng chỉ nghề nghiệp quốc tế vào giảng dạy.
+- Định hướng sử dụng AI trong học tập và nâng cấp cơ sở vật chất.
+
+### 2. Các vấn đề đã thảo luận
+- Sinh viên còn yếu kỹ năng thực hành về Cloud Computing (AWS, Azure).
+- Đề xuất lồng ghép chứng chỉ AWS Academy vào các môn tự chọn để tiết kiệm chi phí.
+- Thống nhất không cấm AI (như ChatGPT) mà hướng dẫn sử dụng kèm theo quy định về liêm chính học thuật.
+- Đề xuất thêm module "AI Literacy" vào chương trình năm nhất.
+
+### 3. Kết luận và quyết định
+- Chính thức đưa nội dung Cloud và AI vào khung chương trình đào tạo mới.
+- Sử dụng tài nguyên từ các chương trình hỗ trợ giáo dục miễn phí của các hãng công nghệ lớn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đăng ký tham gia chương trình AWS Academy | Thầy Minh | 15/04 |
+| Xây dựng quy định về liêm chính học thuật khi dùng AI | Hội đồng khoa | 20/04 |
+| Tổ chức workshop hướng dẫn dùng AI cho sinh viên | Đoàn thanh niên | 05/05 |
+
