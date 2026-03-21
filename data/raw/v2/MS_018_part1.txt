@@ -1,0 +1,42 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[09:00] Chào mọi người, hôm nay chúng ta họp về chiến lược đa dạng hóa nguồn cung ứng để giảm thiểu rủi ro từ biến động địa chính trị.
+[09:02] Hiện tại 70% nguyên liệu chính của mình đang phụ thuộc vào một nhà cung cấp duy nhất tại thị trường Trung Quốc.
+[09:04] Việc này cực kỳ nguy hiểm nếu có bất kỳ sự cố nào về vận tải biển hoặc chính sách xuất nhập khẩu thay đổi.
+[09:06] Tôi đề xuất mình tìm kiếm thêm ít nhất 2 nhà cung cấp dự phòng tại khu vực Đông Nam Á, ví dụ như Thái Lan hoặc Malaysia.
+
+<|output|>
+# Chiến lược đa dạng hóa nguồn cung ứng và quản trị rủi ro chuỗi cung ứng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giảm thiểu sự phụ thuộc quá lớn vào một nhà cung cấp duy nhất.
+- Đảm bảo tính liên tục của hoạt động sản xuất trước các biến động địa chính trị toàn cầu.
+- Đánh giá và tìm kiếm các nguồn cung ứng thay thế tại khu vực Đông Nam Á.
+
+### 2. Các vấn đề đã thảo luận
+- Rủi ro khi 70% nguyên liệu phụ thuộc vào một đối tác Trung Quốc.
+- Đề xuất mở rộng nguồn cung sang Thái Lan và Malaysia dù chi phí cao hơn.
+
+### 3. Kết luận và quyết định
+- Nhất trí chủ trương đa dạng hóa nhà cung cấp tại Đông Nam Á.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tìm kiếm và liên hệ các đối tác tại Thái Lan | Phòng Thu mua | 05/04/2026 |

@@ -1,0 +1,44 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[14:00] Chào anh chị em, hôm nay chúng ta họp để bàn về việc triển khai hệ thống quản lý học tập (LMS) cho toàn công ty.
+[14:02] Hiện tại các buổi đào tạo nội bộ của mình vẫn làm theo kiểu truyền thống, rất khó để theo dõi tiến độ và đánh giá kết quả của từng nhân viên.
+[14:04] Tôi thấy dùng LMS sẽ giúp mình tiết kiệm được rất nhiều thời gian tổ chức lớp học trực tiếp. Nhân viên có thể chủ động học mọi lúc mọi nơi.
+[14:06] Nhưng quan trọng là nội dung bài giảng. Nếu chỉ đưa file PDF lên thì chắc chắn không ai muốn học đâu.
+[14:08] Đúng vậy, mình cần đầu tư vào các bài giảng dạng video, scorm hoặc gamification để tăng tính tương tác.
+
+<|output|>
+# Triển khai hệ thống quản lý học tập (LMS) nội bộ
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chuyển đổi mô hình đào tạo từ truyền thống sang trực tuyến (E-learning).
+- Đa dạng hóa hình thức học tập thông qua video và gamification.
+
+### 2. Các vấn đề đã thảo luận
+- Sự bất cập của việc đào tạo trực tiếp (khó quản lý, tốn thời gian).
+- Yêu cầu về chất lượng nội dung bài giảng (không chỉ là file PDF).
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương triển khai hệ thống LMS toàn công ty.
+- Ưu tiên đầu tư vào nội dung video tương tác cao cho các khóa học cốt lõi.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lựa chọn nhà cung cấp nền tảng LMS | Phòng IT | 15/04/2026 |
+| Thuê đơn vị sản xuất 10 bài giảng video | Chị Lan (HR) | 20/05/2026 |

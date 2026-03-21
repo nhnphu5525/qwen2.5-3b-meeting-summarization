@@ -1,0 +1,42 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[11:00] Chào team Tech, hôm nay chúng ta họp để chốt yêu cầu cho tính năng "Phản hồi khách hàng 360" trên ứng dụng di động.
+[11:02] Mục tiêu là cho phép khách hàng gửi đánh giá kèm hình ảnh và video trực tiếp sau khi mua hàng.
+[11:04] Em thấy mình nên thêm tính năng chatbot hỗ trợ ngay trong khung feedback để xử lý các khiếu nại đơn giản tự động.
+[11:06] Chatbot thì tốt nhưng đừng làm phiền khách hàng quá nhiều. Chỉ hiện lên khi khách hàng đánh giá dưới 3 sao thôi.
+
+<|output|>
+# Phát triển tính năng "Phản hồi khách hàng 360" trên ứng dụng di động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng tính năng thu thập phản hồi khách hàng đa phương tiện (hình ảnh, video).
+- Tối ưu hóa quy trình xử lý khiếu nại thông qua chatbot.
+
+### 2. Các vấn đề đã thảo luận
+- Cho phép tải lên media kèm đánh giá sau mua hàng.
+- Chiến lược sử dụng chatbot hỗ trợ có chọn lọc (chỉ với đánh giá thấp).
+
+### 3. Kết luận và quyết định
+- Phê duyệt phát triển tính năng phản hồi đa phương tiện.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế giao diện UI/UX cho tính năng mới | Team Mobile | 05/04/2026 |
+| Thiết lập kịch bản chatbot cho feedback thấp | Team CSKH | 12/04/2026 |
