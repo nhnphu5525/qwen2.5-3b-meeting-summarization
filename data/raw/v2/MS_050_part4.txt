@@ -1,0 +1,57 @@
+<|input|>
+# Nghiên cứu và phát triển dòng sữa hạt dinh dưỡng thế hệ mới "Green Nutri 2025"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt phương pháp kiểm soát nguyên liệu đóng vương nhãn mác.
+- Thống nhất quy trình kiểm soát chất lượng (QA/QC) nghiêm ngặt từ khâu nguyên liệu đầu vào đến vệ sinh đường ống đóng hộp.
+
+### 2. Các vấn đề đã thảo luận
+- **Marketing & Bao bì:** Sử dụng hộp giấy SIG Combibloc có nắp vặn màu organic, tích hợp QR Code truy xuất nguồn gốc.
+- **Kiểm soát nguyên liệu:** Sàng lọc kỹ vùng nguyên liệu ở Đắk Lắk và nhập khẩu Mỹ chuẩn Global GAP, kiểm soát dư lượng bảo vệ thực vật, hóa chất kim loại nặng và nấm mốc 100%. 
+- **Kỹ thuật sản xuất & QA/QC:**
+    - Khả năng duy trì Aseptic filling cho 10.000 hộp/giờ với máy Tetra Pak.
+    - CIP (Cleaning in Place) với mức chỉ số nước rửa cuối để tránh tồn dư hóa chất làm mất hương vì và lây nhiễm khuẩn. Các ca sản xuất đều áp dụng đúng luật (SOP).
+
+### 3. Kết luận và quyết định
+- Phê duyệt hình thức thiết kế bao bì cho sản phẩm.
+- Thực hiện nghiêm ngặt quy trình làm sạch CIP.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[10:40] Tốt. Còn vấn đề xử lý nước thải thì sao? Dịch sữa hạt dư thừa có hàm lượng hữu cơ (BOD/COD) rất cao, hệ thống xử lý nước thải của nhà máy mình chịu nổi không?
+[10:45] Cái này đúng là một thách thức ạ. Em đã cho lắp thêm bộ lọc tách béo sơ bộ trước khi đưa nước thải vào bể vi sinh. Đồng thời, mình cũng tận dụng bã hạt sau khi ép để bán cho các trang trại chăn nuôi gia súc làm thức ăn gia súc chất lượng cao, vừa giảm tải cho hệ thống xử lý nước thải, vừa có thêm một khoản thu phụ.
+[10:50] Ờ... bã hạt làm thức ăn gia súc là giải pháp kinh tế tuần hoàn rất tốt. Tiền bán bã hạt đó cứ đưa vào quỹ công đoàn cho anh em nhé.
+[10:55] Dạ, thay mặt anh em nhà máy em cảm ơn sếp! À, còn một chuyện nữa là kế hoạch chạy thử nghiệm dài ngày (Shelf-life test). Để khẳng định sản phẩm ổn định trong 9 tháng, mình cần ít nhất 3 tháng theo dõi trong phòng ổn định nhiệt (Incubation room) ở các mức nhiệt độ 25, 35 và 45 độ C.
+[11:00] 3 tháng theo dõi thì lâu quá, Marketing có đợi được không Tiên? Mình định launch vào tháng 3 năm sau mà.
+[11:05] Dạ, thực ra mình có thể dùng phương pháp thử nghiệm cấp tốc (Accelerated shelf-life testing) ở 45 độ C trong 1 tháng để dự đoán cho 6 tháng. Song song đó mình vẫn làm Real-time test. Đến tháng 3 mình launch là vừa đẹp sếp ạ.
+[11:10] OK, vậy chốt phương án Accelerated test. Tiên lên kế hoạch truyền thông tích hợp (IMC Plan) đi. Anh muốn có một buổi Event ra mắt hoành tráng tại Gem Center, có các bác sĩ dinh dưỡng đầu ngành và các hot mom nổi tiếng tham gia để bảo chứng cho chất lượng sản phẩm.
+[11:15] Vâng anh, em đã lên layout cho Event rồi. Chủ đề là "Hành trình hạt ngọc – Trao gửi yêu thương". Mình sẽ có các khu vực trải nghiệm công nghệ UHT qua kính thực tế ảo VR để khách hàng thấy được sự hiện đại và sạch sẽ của nhà máy mình.
+
+<|output|>
+# Nghiên cứu và phát triển dòng sữa hạt dinh dưỡng thế hệ mới "Green Nutri 2025"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết vấn đề xử lý nước thải và kinh tế phụ phẩm (Real-time economy).
+- Quyết định kế hoạch Shelf-life test (Thử nghiệm hạn sử dụng) và kế hoạch Launch.
+
+### 2. Các vấn đề đã thảo luận
+- **Môi trường & Tuần hoàn:** Nước thải dịch hạt có chỉ số BOD/COD rất cao. Khắc phục bằng bể vi sinh và tận dụng bán bã hạt cho ngành chăn nuôi, góp chi phí vào quỹ công đoàn nhân viên. 
+- **Shelf-life Test:** Chốt phương án thử nghiệm cấp tốc ở độ cao 45 độ C trong 1 tháng thay vì đợi 3 tháng ổn định nhiệt.
+- **Marketing:** Đề xuất IMC Plan và Event Launch hoành tráng tại Gem Center với sự góp mặt của các influencer, ứng dụng VR cho khách mời thấy quy trình UHT.
+
+### 3. Kết luận và quyết định
+- Thông qua phương án xử lí tuần hoàn bán bã hạt phụ vào quỹ công đoàn.
+- Thống nhất phướng án thử nghiệm giới hạn cấp tốc và đồng ý tổ chức Event ra mắt hoành tráng theo layout. 
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

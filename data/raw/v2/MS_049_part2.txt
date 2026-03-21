@@ -1,0 +1,56 @@
+<|input|>
+# Xử lý khủng hoảng truyền thông khẩn cấp: Phát ngôn sai lệch của Đại sứ thương hiệu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Ngăn chặn sự lan truyền tiêu cực của cuộc khủng hoảng tẩy chay thương hiệu do phát ngôn phân biệt vùng miền của KOL T.H.
+- Thống nhất thông điệp truyền thông và các hành động pháp lý ngay trong đêm để giảm thiểu thiệt hại.
+
+### 2. Các vấn đề đã thảo luận
+- **Phân tích tình hình:** Hashtag tẩy chay đang top trending, hơn 50.000 thảo luận tiêu cực trong 3 giờ. 
+- **Hợp đồng & Pháp lý:** KOL vi phạm điều khoản đạo đức và giữ gìn hình ảnh (Điều 8.2). Nhãn hàng có quyền chấm dứt hợp đồng và yêu cầu bồi thường.
+- **Phản ứng truyền thông:** Quyết định ra thông cáo báo chí (Press Release) khẳng định lập trường tôn trọng đa dạng vùng miền và đình chỉ ngay lập tức mọi hoạt động quảng bá có mặt KOL rạch ròi, mạnh mẽ bảo vệ người tiêu dùng.
+
+### 3. Kết luận và quyết định
+- Ngừng mọi hoạt động hợp tác với KOL T.H và làm việc với pháp lý.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[02:18] Ờ... nhưng còn mấy cái TVC và Banner quảng cáo đã phủ khắp các trung tâm thương mại và các kênh truyền hình thì sao? Thay thế trong một sớm một chiều sao được?
+[02:20] Cái đó là bài toán khó nhất sếp ạ. Em đã gọi cho bên Agency quảng cáo, họ nói nhanh nhất cũng phải 48 tiếng mới gỡ hết banner ngoài trời được. Còn quảng cáo trên Facebook và YouTube thì mình có thể tắt ngay lập tức trong vòng 5 phút.
+[02:22] Vậy thì Nam cho tắt hết toàn bộ các chiến dịch quảng cáo có mặt T.H trên môi trường số ngay bây giờ. Đừng tiếc tiền Ads lúc này. Mai liên hệ với các Admin của các Group lớn, gửi cho họ lập trường của mình và nhờ họ hỗ trợ kiểm soát comment tiêu cực, tránh để thông tin bị bóp méo thêm.
+[02:24] Vâng thưa anh, em đang soạn thảo nội dung Press Release đây. Anh xem qua cái draft này nhé: "Thương hiệu X luôn tôn trọng sự đa dạng và đoàn kết dân tộc. Chúng tôi rất lấy làm tiếc về phát ngôn cá nhân của bạn T.H. Đây là hành động đi ngược lại giá trị cốt lõi của chúng tôi. Chúng tôi quyết định đình chỉ vai trò đại sứ của T.H và đang làm việc với bộ phận pháp lý để xử lý các bước tiếp theo..."
+[02:26] Ờ... sửa lại chỗ "đình chỉ vai trò đại sứ" thành "ngưng mọi hoạt động quảng bá có sự góp mặt của bạn T.H". Như vậy nó bao quát hơn.
+[02:28] Còn cái vụ "bồi thường gấp 3 lần" thì sao hả sếp? Có nên đưa vào Press Release luôn để chứng tỏ mình nghiêm minh không?
+[02:30] Không, cái đó là chuyện nội bộ. Đưa vào lúc này họ lại bảo mình chỉ biết đến tiền. Hãy tập trung vào trách nhiệm xã hội và sự tôn trọng khách hàng. Mai gọi điện trực tiếp cho quản lý của T.H chưa? Phía họ phản ứng thế nào?
+[02:32] Dạ em gọi từ nãy đến giờ mà máy bận liên tục, chắc cũng đang cháy máy vì các nhãn hàng khác rồi. À, vừa có thông tin là một nhãn hàng mỹ phẩm khác cũng đã gỡ hình ảnh của bạn này rồi anh ạ. Mình không nhanh là mình sẽ là người cuối cùng, lúc đó dư luận sẽ dồn hết mũi dùi vào mình.
+[02:34] Đúng, tốc độ là mấu chốt. Nam check lại xem trên TikTok có mấy cái clip "reaction" hay "duet" chửi mình chưa?
+[02:36] Dạ bắt đầu có rồi ạ. Có mấy bạn TikToker đang cắt ghép cảnh T.H cầm sản phẩm của mình rồi vứt vào sọt rác. Những clip này đang lên xu hướng rất nhanh. Em đang gửi báo cáo vi phạm (report) cho TikTok Việt Nam nhờ họ can thiệp vì đây là hành vi phá hoại thương hiệu.
+
+<|output|>
+# Xử lý khủng hoảng truyền thông khẩn cấp: Phát ngôn sai lệch của Đại sứ thương hiệu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Ngăn chặn sự lan truyền tiêu cực của cuộc khủng hoảng tẩy chay thương hiệu do phát ngôn phân biệt vùng miền của KOL T.H.
+- Thống nhất thông điệp truyền thông và các hành động kỹ thuật ngay trong đêm để giảm thiểu thiệt hại.
+
+### 2. Các vấn đề đã thảo luận
+- **Phân tích tình hình:** Hashtag tẩy chay đang top trending. Clip reaction vứt sản phẩm vào sọt rác đang lan truyền mạnh trên TikTok.
+- **Phản ứng truyền thông:** Thảo luận nội dung Press Release đanh thép, không công bố việc bồi thường lên báo chí để tránh phản cảm.
+- **Xử lý kỹ thuật:** Tắt toàn bộ chiến dịch quảng cáo số (Facebook, YouTube, TikTok Ads). Liên hệ Agency tháo dỡ banner ngoài trời và TVC trong vòng 48 giờ.
+
+### 3. Kết luận và quyết định
+- Đăng Press Release chính thức khẳng định ngưng mọi hoạt động quảng bá có bạn T.H.
+- Ưu tiên bảo vệ hình ảnh nhãn hàng tại các Group cộng đồng và báo cáo vi phạm trên TikTok.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

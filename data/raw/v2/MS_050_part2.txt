@@ -1,0 +1,56 @@
+<|input|>
+# Nghiên cứu và phát triển dòng sữa hạt dinh dưỡng thế hệ mới "Green Nutri 2025"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt công thức phối trộn (Formula) cho 3 dòng sản phẩm sữa hạt chủ đạo: Hạnh nhân óc chó, Hạt sen yến mạch và Macca hạt điều.
+- Giải quyết các thách thức kỹ thuật trong quy trình tiệt trùng UHT để đảm bảo độ ổn định sản phẩm.
+
+### 2. Các vấn đề đã thảo luận
+- **Công thức & Dinh dưỡng:** Hàm lượng hạt nguyên chất đạt ít nhất 15% (rất cao so với mặt bằng chung). 
+- **Kỹ thuật sản xuất:** 
+    - Công nghệ nghiền siêu mịn (Ultra-fine grinding) để đạt mouthfeel tối ưu, không lắng cặn.
+    - Xử lý hiện tượng "Burn-on" (cháy sém) khi tiệt trùng UHT ở nhiệt độ cao (140 độ C).
+
+### 3. Kết luận và quyết định
+- Phê duyệt tỷ lệ hạt và nghiên cứu giải pháp khả thi để giữ vững hàm lượng hạt khi tiệt trùng UHT.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[09:30] Ờ... vậy mình có giải pháp gì không? Hay là mình giảm nhiệt độ tiệt trùng xuống?
+[09:35] Nếu giảm nhiệt độ thì không đảm bảo vô trùng tuyệt đối cho sản phẩm bảo quản ở nhiệt độ thường trong 6-9 tháng được ạ. Em đề xuất mình bổ sung thêm hệ ổn định (Stabilizer system) nguồn gốc tự nhiên như Carrageenan chiết xuất từ rong biển hoặc Pectin từ vỏ trái cây. Ngoài ra, mình cần điều chỉnh áp suất đồng hóa (Homogenization pressure) lên mức 250 bar để các hạt béo được xé nhỏ li ti, bao bọc bởi protein, tránh hiện tượng tách béo.
+[09:40] Dùng phụ gia tự nhiên thì anh duyệt, nhưng phải ghi rõ trên nhãn là "Clean Label" để Marketing còn làm truyền thông. Tiên bên Marketing thấy sao về cái vị hiện tại? Đã cho người dùng dùng thử (Sensory Test) chưa?
+[09:45] Dạ, tụi em đã tổ chức 3 buổi Blind Test (thử mù) với 500 khách hàng mục tiêu tại TP.HCM và Hà Nội. Kết quả khá khả quan: 85% người dùng đánh giá cao độ thơm của hạt và vị ngọt thanh từ đường cỏ ngọt (Stevia) thay vì đường tinh luyện. Tuy nhiên, có khoảng 15% khách hàng nam giới phản hồi là vị hạt sen yến mạch hơi "ngấy" nếu uống hết cả hộp 180ml.
+[09:50] Ờ... hơi ngấy à? Minh xem lại cái tỷ lệ yến mạch nhé. Có thể giảm bớt yến mạch và thay bằng một chút dịch chiết từ gạo lứt để tăng độ thanh và dễ tiêu hóa hơn không?
+[09:55] Dạ được anh, gạo lứt sẽ giúp trung hòa độ béo của hạt sen tốt lắm. Em sẽ cho làm lại mẫu thử dòng này ngay chiều nay. À, còn cái vụ bổ sung Vitamin và Khoáng chất. Marketing muốn bổ sung Canxi hữu cơ từ tảo biển và Vitamin D3, K2 để đánh vào phân khúc mẹ và bé. Nhưng canxi tảo biển thường có vị hơi "tanh" nhẹ của biển. Tụi em đang phải dùng hương vani tự nhiên để át mùi này đi.
+[10:00] Bổ sung D3 và K2 là hướng đi rất đúng đắn, vì nó giúp hấp thụ canxi vào xương hiệu quả hơn. Cái vị tanh đó Minh phải xử lý triệt để nhé, trẻ con nó tinh lắm, hơi có mùi lạ là nó không uống đâu. Tiên lưu ý khâu thiết kế bao bì, phải làm sao bật lên được các thông số dinh dưỡng này (Nutrition Facts) ngay mặt tiền hộp sữa.
+
+<|output|>
+# Nghiên cứu và phát triển dòng sữa hạt dinh dưỡng thế hệ mới "Green Nutri 2025"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt công thức phối trộn (Formula) cho dòng sản phẩm sữa hạt thế hệ mới, giải quyết các thách thức kỹ thuật tiệt trùng UHT và đồng hóa.
+- Thống nhất các cải tiến về mùi vị và bổ sung dưỡng chất theo kết quả thử nghiệm người dùng (Sensory Test).
+
+### 2. Các vấn đề đã thảo luận
+- **Kỹ thuật sản xuất:** 
+    - Giải quyết hiện tượng "Burn-on" khi tiệt trùng UHT bằng hệ ổn định tự nhiên (Carrageenan, Pectin) và đồng hóa áp suất mức 250 bar để tránh tách lớp/béo.
+- **Công thức & Dinh dưỡng:** 
+    - Đề xuất bổ sung tinh chất gạo lứt vào dòng hạt sen yến mạch để trung hòa độ ngấy sau thử nghiệm Test với 500 khách hàng.
+    - Bổ sung Canxi hữu cơ từ tảo biển, Vitamin D3, K2 cho đối tượng mẹ và bé. Sử dụng hương vani tự nhiên át đi vị tanh nhẹ của tảo biển. Thành phần "Clean Label".
+
+### 3. Kết luận và quyết định
+- Duyệt hệ ổn định đạt chuẩn "Clean Label".
+- Thử nghiệm lại mẫu dòng hạt sen yến mạch với phụ gia gạo lứt và xử lý hương vị tanh của canxi tảo biển. 
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

@@ -1,0 +1,49 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00] Chào team Design, Marketing và Sản xuất. Hôm nay chúng ta họp để chốt kế hoạch ra mắt bộ sưu tập (BST) Thu Đông 2024. Đây là BST mang tính bước ngoặt vì mình sẽ chuyển sang sử dụng 70% chất liệu bền vững (sustainable fabrics). Mọi người cho biết tình hình đến đâu rồi?
+[14:02] Dạ thưa sếp, bên Design tụi em đã hoàn thiện 30 mẫu thiết kế cuối cùng. Chủ đề là "Eco-Chic: Giao thoa giữa thiên nhiên và đô thị". Tụi em dùng vải sợi tre (bamboo), vải lanh (linen) và đặc biệt là loại vải mới chiết xuất từ bã cà phê. Cảm giác mặc rất mát nhưng giữ form tốt lắm ạ.
+[14:04] Ờ... vải bã cà phê nghe lạ đấy. Chi phí đầu vào thế nào hả Ly? Anh nhớ là mấy loại vải eco này thường đắt hơn vải cotton thường khoảng 30-40%.
+[14:06] Vâng anh, đúng là nó đắt hơn. Nhưng em đã làm việc với nhà cung cấp ở Đài Loan, nếu mình cam kết số lượng cho cả 3 BST tới thì họ giảm giá cho mình 15%. Tính ra giá vốn sản phẩm sẽ tăng khoảng 20% so với năm ngoái.
+[14:08] 20% là một con số cần cân nhắc kỹ. Chị Mai bên Marketing thấy mức giá này có khó bán không? Khách hàng của mình hiện tại đã sẵn sàng trả thêm tiền cho yếu tố "bền vững" chưa?
+[14:10] Theo khảo sát gần nhất của em, phân khúc khách hàng Gen Z và Millennials của mình cực kỳ quan tâm đến môi trường. Họ sẵn sàng chi thêm 15-20% nếu mình chứng minh được quy trình sản xuất sạch và minh bạch. Vì vậy, em đề xuất chiến dịch Marketing lần này sẽ tập trung mạnh vào "Storytelling" – kể về hành trình từ bã cà phê đến chiếc áo sơ mi.
+[14:12] Ờ... ý tưởng Storytelling hay đấy. Mình có định mời Influencer nào tham gia không? Anh muốn những người có lối sống xanh (green lifestyle) thực sự, chứ không phải chỉ là mấy bạn mẫu chỉ biết tạo dáng.
+
+<|output|>
+# Kế hoạch ra mắt Bộ sưu tập Thu Đông 2024: "Eco-Chic - Sống bền vững"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt kế hoạch sản xuất và ra mắt BST Thu Đông 2024 với định hướng thời trang bền vững (Sustainable Fashion).
+- Thống nhất chiến lược Marketing.
+- Duyệt các ý tưởng sáng tạo: Chất liệu vải bã cà phê.
+
+### 2. Các vấn đề đã thảo luận
+- **Chất liệu:** Sử dụng 70% vải bền vững (sợi tre, lanh, bã cà phê). Giá vốn tăng 20%, cần đàm phán hợp đồng dài hạn với nhà cung cấp Đài Loan để giảm chi phí.
+- **Marketing:** Tập trung vào Storytelling (hành trình chất liệu) để đánh vào phân khúc Gen Z và Millennials, sử dụng Influencer có lối sống xanh.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ đề "Eco-Chic".
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

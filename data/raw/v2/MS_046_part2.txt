@@ -1,0 +1,57 @@
+<|input|>
+# Họp giao ban tiến độ và an toàn công trường dự án The Grand Elite - Tuần 48
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng chậm tiến độ 10 ngày tại khối tháp A.
+- Thống nhất phương án xử lý vật tư không đạt chất lượng (đá Granite).
+
+### 2. Các vấn đề đã thảo luận
+- **Tiến độ:** Khối tháp A chậm 10 ngày do thời tiết xấu và sự cố vận chuyển thép từ nhà cung cấp.
+- **Vật tư:** 15% đá Granite mặt ngoài không đồng nhất về vân đá. Yêu cầu nhà thầu thay mới, tuyệt đối không cho phép lắp đặt hàng lỗi để tránh rủi ro nghiệm thu.
+
+### 3. Kết luận và quyết định
+- Yêu cầu nhà thầu đá phân loại lại và bù hàng mẫu chuẩn mới trong tuần.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[08:16] Thành thật xin lỗi anh và chị. Đội thợ đó là thầu phụ mới vào. Tôi đã lập biên bản đình chỉ công tác 2 ngày đối với nhóm đó và phạt tiền tổ trưởng. Công trường mình đang ở giai đoạn cao điểm, thợ ra vào đông nên khâu kiểm soát thẻ an toàn và bảo hộ lao động (PPE) đôi lúc bị sót.
+[08:18] Không được để sót anh Hùng ạ. Chỉ cần một tai nạn nhỏ xảy ra là toàn bộ công trình sẽ bị đình chỉ thi công để điều tra. Lúc đó thiệt hại không chỉ là 10 ngày đâu mà là cả tháng trời đấy. Tôi đề nghị anh cho tăng cường thêm 2 cán bộ an toàn (HSE) túc trực 24/7 ở các vị trí trọng yếu.
+[08:20] Vâng, tôi sẽ điều động thêm nhân sự HSE từ dự án khác sang ngay ngày mai. Quay lại vụ tiến độ, để bù lại 10 ngày chậm, tôi đề xuất phương án "cuốn chiếu". Tức là khi sàn tầng 25 vừa tháo cốp pha xong là đội cơ điện (MEP) và đội hoàn thiện xây trát vào ngay tầng 23-24 luôn, không đợi xong thô cả tháp mới làm hoàn thiện.
+[08:22] Phương án này khả thi, nhưng anh Hùng phải đảm bảo việc vận chuyển vật liệu lên tầng cao bằng vận thăng không bị nghẽn. Hiện tại mình có 4 vận thăng, tôi thấy lúc nào cũng trong tình trạng quá tải.
+[08:24] Dạ, tôi sẽ sắp xếp lại lịch trình vận hành vận thăng. Ưu tiên ban ngày cho thợ di chuyển và vật liệu nhẹ, ban đêm sẽ dành riêng cho vật liệu nặng như gạch, cát, đá ốp. Tôi cũng đã thuê thêm một cần trục tháp loại nhỏ để hỗ trợ lắp đặt thiết bị cơ điện ở mặt ngoài.
+[08:26] Ờ... còn cái vụ nợ đọng thanh toán cho đội thợ nề tầng thấp. Tôi nghe họ xì xào là công ty mình chậm lương 2 tuần rồi. Anh check lại xem, đừng để họ đình công lúc này là hỏng hết việc đấy.
+[08:28] Về vụ lương, tôi đã kiến toán phòng tài chính ở tổng công ty rồi. Do đợt này mình đang làm thủ tục giải ngân đợt 5 với ngân hàng nên hơi chậm một chút. Chậm nhất là thứ 6 này tiền sẽ về tài khoản của các tổ thợ. Anh cứ yên tâm, tôi đã trực tiếp xuống giải thích và cam kết với anh em rồi.
+
+<|output|>
+# Họp giao ban tiến độ và an toàn công trường dự án The Grand Elite - Tuần 48
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng chậm tiến độ 10 ngày tại khối tháp A.
+- Rà soát công tác an toàn lao động sau các phản ánh tiêu cực.
+- Thống nhất phương án xử lý vật tư không đạt chất lượng (đá Granite).
+- Giải quyết các vấn đề về nhân sự và tài chính (lương thợ).
+
+### 2. Các vấn đề đã thảo luận
+- **Tiến độ:** Chậm 10 ngày do thời tiết xấu và chậm cung ứng thép. Đề xuất thi công "cuốn chiếu" hoàn thiện song song với phần thô.
+- **Vật tư:** 15% đá Granite mặt ngoài lỗi vân. Quyết định: Yêu cầu nhà thầu thay mới.
+- **An toàn lao động (HSE):** Phát hiện công nhân thầu phụ vi phạm quy định thắt dây an toàn và hút thuốc. Đã phạt tổ trưởng và đình chỉ công nhân.
+- **Vận thăng:** Tình trạng quá tải; cần phân bổ lại lịch trình ưu tiên vật liệu nặng vào ban đêm.
+- **Tài chính:** Chậm lương thợ nề do thủ tục giải ngân ngân hàng; cam kết thanh toán vào thứ 6 tuần này để tránh đình công.
+
+### 3. Kết luận và quyết định
+- Áp dụng ngay phương án thi công cuốn chiếu để bù tiến độ, đảm bảo mốc cất nóc.
+- Tăng cường thêm 02 cán bộ HSE túc trực 24/7 ở các vị trí trọng yếu.
+- Cam kết thanh toán lương cho công nhân đúng hạn thứ 6 tuần này để ổn định tâm lý làm việc.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

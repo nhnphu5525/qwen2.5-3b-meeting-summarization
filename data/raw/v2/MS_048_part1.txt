@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào chị Thảo (Trưởng phòng Nhân sự) và anh Minh (Đại diện công ty bảo hiểm PVI). Hôm nay chúng ta họp để rà soát và thiết kế lại gói bảo hiểm sức khỏe cho hơn 2.000 nhân viên của tập đoàn mình trong năm tới. Mục tiêu của Ban Giám đốc là muốn tăng tính cạnh tranh của gói phúc lợi để giữ chân nhân tài.
+[09:02] Dạ chào anh. Hiện tại gói cũ của mình đang bộc lộ một số hạn chế, đặc biệt là hạn mức ngoại trú (Outpatient) hơi thấp, chỉ 10 triệu/năm, và chưa có quyền lợi nha khoa hay thai sản cho các bạn nhân viên nữ.
+[09:04] Ờ... thai sản là vấn đề rất được quan tâm đấy chị Thảo. Năm nay tập đoàn mình có rất nhiều bạn trẻ lập gia đình. Anh Minh xem có gói nào tích hợp thai sản với mức chi phí hợp lý không?
+[09:06] Vâng thưa anh. Bên PVI tụi em có thể thiết kế một gói tùy chỉnh (Tailor-made). Riêng quyền lợi thai sản, tụi em đề xuất hạn mức 20-30 triệu cho sinh thường và 40-50 triệu cho sinh mổ. Quyền lợi này sẽ có thời gian chờ (waiting period) là 270 ngày để đảm bảo tính bền vững của quỹ bảo hiểm.
+[09:08] 270 ngày là chuẩn rồi. Còn nha khoa (Dental) thì sao? Nhiều bạn than phiền là chi phí lấy cao răng, nhổ răng khôn ở các phòng khám quốc tế đắt quá.
+[09:10] Dạ, nha khoa thì mình có thể thêm vào như một Option bổ sung. Hạn mức khoảng 5 triệu/năm là đủ cho các dịch vụ cơ bản như lấy cao răng, trám răng, nhổ răng sâu. Nếu tập đoàn mua cho toàn bộ 2.000 nhân viên thì phí sẽ rất rẻ, chỉ khoảng 300-400 ngàn/người/năm thôi ạ.
+[09:12] Ờ... 400 ngàn mà đổi lại nhân viên thấy được quan tâm thì cũng đáng. Chị Thảo thấy sao về việc phân cấp các hạng mức bảo hiểm? Mình nên chia làm mấy hạng?
+[09:14] Em đề xuất chia làm 3 hạng: Hạng Kim cương (cho Ban Giám đốc và C-level), Hạng Vàng (cho cấp Quản lý/Manager) và Hạng Bạc (cho nhân viên khối văn phòng và nhà máy). Mỗi hạng sẽ có hạn mức nằm viện và phẫu thuật khác nhau. Ví dụ hạng Kim cương có thể lên đến 500 triệu/năm và được đi tất cả các bệnh viện quốc tế như Vinmec hay FV mà không cần trả tiền trước (Direct Billing).
+
+<|output|>
+# Thiết kế gói bảo hiểm sức khỏe toàn diện cho nhân viên tập đoàn năm 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát gói bảo hiểm sức khỏe hiện tại và nâng cấp các quyền lợi để tăng tính cạnh tranh cho phúc lợi nhân viên.
+- Thống nhất các quyền lợi mới: Thai sản, Nha khoa.
+
+### 2. Các vấn đề đã thảo luận
+- **Phân cấp quyền lợi:** Đề xuất chia làm 3 hạng (Kim cương, Vàng, Bạc) tương ứng với cấp bậc chức vụ.
+- **Quyền lợi mới:** 
+    - Thai sản: Hạn mức 20-50 triệu, thời gian chờ 270 ngày.
+    - Nha khoa: Hạn mức 5 triệu/năm, phí bổ sung thấp (300-400 ngàn/người/năm).
+
+### 3. Kết luận và quyết định
+- Ưu tiên cập nhật hạn mức thai sản và thiết kế bảo hiểm thành 3 hạng mục.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

@@ -1,0 +1,55 @@
+<|input|>
+# Kế hoạch ra mắt Bộ sưu tập Thu Đông 2024: "Eco-Chic - Sống bền vững"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt kế hoạch sản xuất và ra mắt BST Thu Đông 2024 với định hướng thời trang bền vững (Sustainable Fashion).
+- Thống nhất chiến lược Marketing.
+- Duyệt các ý tưởng sáng tạo: Chất liệu vải bã cà phê.
+
+### 2. Các vấn đề đã thảo luận
+- **Chất liệu:** Sử dụng 70% vải bền vững (sợi tre, lanh, bã cà phê). Giá vốn tăng 20%, cần đàm phán hợp đồng dài hạn với nhà cung cấp Đài Loan để giảm chi phí.
+- **Marketing:** Tập trung vào Storytelling (hành trình chất liệu) để đánh vào phân khúc Gen Z và Millennials, sử dụng Influencer có lối sống xanh.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ đề "Eco-Chic".
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[14:14] Dạ em đã lên danh sách 3 gương mặt tiềm năng: chị Helly Tống, bạn Giang Ơi và anh Quang Đại. Họ đều là những người có tầm ảnh hưởng lớn trong cộng đồng sống bền vững. Em định sẽ mời họ đi thăm xưởng may và trải nghiệm quy trình nhuộm vải tự nhiên của mình luôn để làm Vlog.
+[14:16] Helly Tống với Giang Ơi thì quá tốt rồi, nhưng chi phí booking chắc không rẻ. Mai check lại ngân sách xem nhé. À, còn cái vụ bao bì (packaging) thì sao? Áo eco mà đựng trong túi nilon thì kỳ lắm.
+[14:18] Bao bì tụi em sẽ dùng giấy kraft tái chế và túi tinh bột ngô (biodegradable). Thậm chí cái thẻ bài (tag) đính trên áo cũng làm bằng giấy có chứa hạt mầm. Khách mua về có thể đem cái tag đó đi trồng thành cây hoa hoặc rau mầm.
+[14:20] Cái tag chứa hạt mầm này sáng tạo đấy! Anh duyệt. Còn khâu sản xuất thì sao hả Nam? Liệu máy móc của mình có xử lý được mấy loại vải đặc thù này không? Anh nghe nói vải sợi tre dễ bị sạt đường may lắm.
+[14:22] Đúng là có khó khăn anh ạ. Vải sợi tre trơn và mềm nên thợ may phải có tay nghề cao và mình phải thay toàn bộ kim may loại siêu nhỏ để không làm xước vải. Em đang cho chạy thử nghiệm 100 mẫu đầu tiên để căn chỉnh lại đường kim mũi chỉ. Dự kiến sẽ tốn công hơn khoảng 15% so với hàng thường.
+[14:24] Ly lưu ý phối hợp với Nam để kiểm soát chất lượng (QC) thật kỹ nhé. Hàng cao cấp mà đường may lệch hay vải bị nhăn là hỏng hết hình ảnh thương hiệu mình đang xây dựng.
+[14:26] Dạ em rõ rồi anh. À, còn vụ Lookbook cho BST. Em định chụp ở vùng cao nguyên Lâm Đồng, nơi có mấy đồi cà phê bạt ngàn để gắn liền với câu chuyện chất liệu vải bã cà phê. Chị Mai thấy sao?
+
+<|output|>
+# Kế hoạch ra mắt Bộ sưu tập Thu Đông 2024: "Eco-Chic - Sống bền vững"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt kế hoạch sản xuất và ra mắt BST Thu Đông 2024 với định hướng thời trang bền vững (Sustainable Fashion).
+- Thống nhất chiến lược Marketing, Influencer và bao bì thân thiện môi trường.
+- Duyệt các ý tưởng sáng tạo: Chất liệu vải bã cà phê, thẻ bài chứa hạt mầm.
+
+### 2. Các vấn đề đã thảo luận
+- **Chất liệu:** Sử dụng 70% vải bền vững (sợi tre, lanh, bã cà phê). Giá vốn tăng 20%, cần đàm phán hợp đồng dài hạn với nhà cung cấp Đài Loan để giảm chi phí.
+- **Marketing:** Tập trung vào Storytelling (hành trình chất liệu). Booking KOLs sống xanh (Helly Tống, Giang Ơi, Quang Đại) tham gia trải nghiệm thực tế tại xưởng.
+- **Sản xuất:** Vải sợi tre khó may, cần thay kim chuyên dụng và thợ tay nghề cao. Nam đang chạy thử nghiệm 100 mẫu để QC.
+- **Sáng tạo:** Bao bì giấy kraft tái chế và thẻ bài (Tag) chứa hạt mầm có thể trồng cây. Lookbook chụp tại đồi cà phê Lâm Đồng.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ đề "Eco-Chic".
+- Đồng ý chi phí bao bì tái chế và thẻ bài mầm cây.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

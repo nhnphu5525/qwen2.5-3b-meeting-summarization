@@ -1,0 +1,76 @@
+<|input|>
+# Nghiên cứu và phát triển dòng sữa hạt dinh dưỡng thế hệ mới "Green Nutri 2025"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết vấn đề xử lý nước thải và kinh tế phụ phẩm (Real-time economy).
+- Quyết định kế hoạch Shelf-life test (Thử nghiệm hạn sử dụng) và kế hoạch Launch.
+
+### 2. Các vấn đề đã thảo luận
+- **Môi trường & Tuần hoàn:** Nước thải dịch hạt có chỉ số BOD/COD rất cao. Khắc phục bằng bể vi sinh và tận dụng bán bã hạt cho ngành chăn nuôi, góp chi phí vào quỹ công đoàn nhân viên. 
+- **Shelf-life Test:** Chốt phương án thử nghiệm cấp tốc ở độ cao 45 độ C trong 1 tháng thay vì đợi 3 tháng ổn định nhiệt.
+- **Marketing:** Đề xuất IMC Plan và Event Launch hoành tráng tại Gem Center với sự góp mặt của các influencer, ứng dụng VR cho khách mời thấy quy trình UHT.
+
+### 3. Kết luận và quyết định
+- Thông qua phương án xử lí tuần hoàn bán bã hạt phụ vào quỹ công đoàn.
+- Thống nhất phướng án thử nghiệm giới hạn cấp tốc và đồng ý tổ chức Event ra mắt hoành tráng theo layout. 
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[11:20] VR à? Nghe có vẻ tốn kém nhưng ấn tượng đấy. Em cứ làm dự toán chi tiết đi. À, Minh lưu ý cái vụ nhãn mác. Phải ghi rõ là "Không chứa biến đổi gen (Non-GMO)" và "Không chứa Gluten" nhé. Xu hướng bây giờ người ta sợ mấy cái đó lắm.
+[11:25] Dạ, em đã chuẩn bị đầy đủ các chứng nhận từ nhà cung cấp hạt để chứng minh Non-GMO rồi ạ. Còn Gluten thì bản chất các loại hạt này không có, nhưng mình phải kiểm soát khâu sản xuất để tránh lây nhiễm chéo từ các dòng sữa ngũ cốc khác. Tụi em sẽ chạy dây chuyền sữa hạt vào các ngày riêng biệt sau khi đã CIP tổng lực.
+[11:30] Rất bài bản. Anh rất hài lòng với sự chuẩn bị của các team. Dự án này thành công hay không phụ thuộc 90% vào khâu R&D và QA hôm nay đấy. Chúng kế hoạch không chỉ bán một hộp sữa, chúng ta bán niềm tin về sức khỏe cho cộng đồng.
+[11:35] Vâng sếp, tụi em sẽ nỗ lực hết mình vì màu cờ sắc áo của công ty.
+[11:40] Còn một vấn đề nhỏ cuối cùng, đó là giá bán lẻ đề xuất (RSP). Với hàm lượng hạt 15% và công nghệ này, em sợ giá sẽ cao hơn đối thủ khoảng 5.000đ/hộp. Tiên thấy sao?
+[11:45] Dạ, đúng là cao hơn, nhưng phân khúc mình nhắm đến là khách hàng trung lưu, những người sẵn sàng chi trả cho chất lượng thực sự. Em sẽ nhấn mạnh vào thông điệp "Tiền nào của nấy" và "Hàm lượng dinh dưỡng gấp 3 lần". Ngoài ra, mình sẽ có các chương trình khuyến mãi mua 1 lốc tặng 1 hộp hoặc tích điểm đổi quà để kích cầu giai đoạn đầu.
+[11:50] Ờ... cao hơn 5.000đ mà chất lượng gấp 3 thì khách hàng thông thái họ sẽ hiểu thôi. Anh duyệt khung giá đó.
+[11:55] OK, buổi họp hôm nay kết thúc ở đây. Minh hoàn thiện mẫu thử dòng hạt sen yến mạch (phiên bản ít ngấy) gửi anh duyệt vào thứ 2 tới. Tiên gửi dự toán Event và kế hoạch IMC vào thứ 4. QA tiếp tục giám sát đợt chạy thử Pilot lần 2.
+[12:00] Dạ vâng ạ. Chúng em chào sếp.
+[12:05] Chào mọi người. Chúc cuối tuần vui vẻ nhưng đừng quên deadline nhé!
+
+<|output|>
+# Nghiên cứu và phát triển dòng sữa hạt dinh dưỡng thế hệ mới "Green Nutri 2025"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt công thức phối trộn (Formula) cho 3 dòng sản phẩm sữa hạt chủ đạo: Hạnh nhân óc chó, Hạt sen yến mạch và Macca hạt điều.
+- Giải quyết các thách thức kỹ thuật trong quy trình tiệt trùng UHT và đồng hóa áp suất cao để đảm bảo độ ổn định sản phẩm.
+- Thống nhất chiến lược Marketing, bao bì, giá bán và lộ trình ra mắt sản phẩm (Launch Plan).
+- Thiết lập quy trình kiểm soát chất lượng (QA/QC) nghiêm ngặt từ khâu nguyên liệu đầu vào đến khâu xử lý nước thải và phụ phẩm.
+
+### 2. Các vấn đề đã thảo luận
+- **Công thức & Dinh dưỡng:** Hàm lượng hạt nguyên chất đạt 15% (cao nhất thị trường). Bổ sung Canxi tảo biển, Vitamin D3, K2. Thay thế đường tinh luyện bằng đường cỏ ngọt Stevia. Điều chỉnh dòng hạt sen yến mạch để giảm độ ngấy theo phản hồi từ Sensory Test.
+- **Kỹ thuật sản xuất:** 
+    - Công nghệ nghiền siêu mịn (Ultra-fine grinding) để đạt mouthfeel tối ưu.
+    - Xử lý hiện tượng "Burn-on" khi tiệt trùng UHT bằng hệ ổn định tự nhiên (Carrageenan, Pectin).
+    - Đồng hóa ở áp suất 250 bar để tránh tách béo/tách lớp.
+    - Quy trình CIP (Cleaning in Place) nghiêm cụ để đảm bảo vô trùng tuyệt đối.
+- **Quản lý chất lượng:** Kiểm soát 100% dư lượng thuốc BVTV, nấm mốc (Aflatoxin) và Non-GMO. Thực hiện thử nghiệm hạn sử dụng cấp tốc (Accelerated shelf-life test) trong 1 tháng.
+- **Marketing & Bao bì:** Sử dụng hộp giấy SIG Combibloc có nắp vặn, tích hợp QR Code truy xuất nguồn gốc. Chiến dịch IMC tập trung vào Storytelling và trải nghiệm VR tại nhà máy.
+- **Tài chính & Kinh tế tuần hoàn:** Giá bán dự kiến cao hơn đối thủ 5.000đ/hộp do chất lượng vượt trội. Tận dụng bã hạt làm thức ăn gia súc để tối ưu chi phí và bảo vệ môi trường.
+
+### 3. Kết luận và quyết định
+- Phê duyệt khung công thức và các giải pháp kỹ thuật tiệt trùng UHT.
+- Chốt lộ trình Launch sản phẩm vào tháng 03/2025.
+- Đồng ý mức giá bán lẻ cao cấp đi kèm chiến lược truyền thông nhấn mạnh vào hàm lượng dinh dưỡng.
+- QA/QC chịu trách nhiệm giám sát đợt chạy thử Pilot lần 2 và quy trình CIP tổng lực.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hiệu chỉnh công thức dòng Hạt sen yến mạch (giảm ngấy) | Minh (R&D) | 02/12/2024 |
+| Chốt dự toán ngân sách Event ra mắt và kế hoạch IMC | Tiên (Marketing) | 04/12/2024 |
+| Thực hiện đợt chạy thử Pilot lần 2 trên dây chuyền Tetra Pak | Team Sản xuất | 10/12/2024 |
+| Bắt đầu thử nghiệm Shelf-life cấp tốc (Incubation) | Team QA/QC | 05/12/2024 |
+| Thiết kế chi tiết bao bì và QR Code truy xuất nguồn gốc | Team Design | 15/12/2024 |
+| Kiểm tra năng lực cung ứng và chứng chỉ Non-GMO của đối tác | Phòng Thu mua | 08/12/2024 |
+| Hoàn thiện SOP cho quy trình CIP và xử lý phụ phẩm bã hạt | Team QA/QC | 20/12/2024 |
+| Tuyển chọn các Hot Moms và Bác sĩ dinh dưỡng cho chiến dịch | Mai (PR) | 25/12/2024 |
+| Đăng ký bản quyền công thức và công bố chất lượng sản phẩm | Phòng Pháp chế | 15/01/2025 |
+| Xây dựng hệ thống báo cáo sản lượng và tồn kho Real-time | Team IT | 30/12/2024 |

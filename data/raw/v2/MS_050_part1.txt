@@ -1,0 +1,49 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào buổi sáng team R&D, Lab, Quản lý chất lượng (QA/QC) và Marketing. Hôm nay chúng ta có một buổi họp cực kỳ quan trọng, có thể coi là buổi "Hội nghị Diên Hồng" của dự án phát triển dòng sữa hạt dinh dưỡng thế hệ mới – dự án "Green Nutri 2025". Như mọi người đã biết, mục tiêu của chúng ta là tạo ra một dòng sản phẩm sữa hạt không chỉ ngon mà còn phải đạt chuẩn dinh dưỡng vàng, sử dụng công nghệ tiệt trùng UHT hiện đại nhất để giữ trọn vẹn tinh túy từ hạt.
+[09:05] Dạ thưa sếp, thay mặt team R&D, em xin báo cáo về công thức (Formula) của 3 dòng chủ đạo: Hạnh nhân óc chó, Hạt sen yến mạch và Macca hạt điều. Sau 50 lần thử nghiệm tại phòng Lab, tụi em đã tìm ra tỷ lệ phối trộn tối ưu để đạt độ béo ngậy tự nhiên mà không cần dùng quá nhiều phụ gia.
+[09:10] Ờ... tỷ lệ hạt trong mỗi hộp 180ml là bao nhiêu hả Minh? Anh muốn nó phải "thật", chứ đừng có kiểu 90% là nước và hương liệu như mấy dòng giá rẻ trên thị trường nhé.
+[09:15] Dạ, tụi em cam kết hàm lượng hạt nguyên chất chiếm ít nhất 15% tổng trọng lượng. Đây là con số rất cao so với mặt bằng chung (thường chỉ 3-5%). Để làm được điều này, tụi em phải dùng công nghệ nghiền siêu mịn (Ultra-fine grinding) để dịch sữa hạt không bị lắng cặn và có cảm giác mịn mượt (mouthfeel) khi uống.
+[09:20] Nghiền siêu mịn thì tốt, nhưng vấn đề là khi hàm lượng protein và chất béo từ hạt cao như vậy, khâu tiệt trùng UHT (Ultra-High Temperature) sẽ rất khó khăn. Nhiệt độ cao dễ làm biến tính protein và gây hiện tượng kết tủa hoặc tách lớp sau khi đóng hộp. Bên QA/QC thấy sao về vụ này?
+[09:25] Vâng thưa anh, đúng như anh lo ngại. Trong đợt chạy thử nghiệm trên dây chuyền Pilot tuần trước, khi nâng nhiệt độ lên 140 độ C trong 4 giây, mẫu sữa hạnh nhân đã xuất hiện hiện tượng "Burn-on" (cháy sém) nhẹ ở bộ trao đổi nhiệt. Điều này không chỉ làm ảnh hưởng đến mùi vị (có mùi khét) mà còn làm giảm hiệu suất truyền nhiệt của máy.
+
+<|output|>
+# Nghiên cứu và phát triển dòng sữa hạt dinh dưỡng thế hệ mới "Green Nutri 2025"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt công thức phối trộn (Formula) cho 3 dòng sản phẩm sữa hạt chủ đạo: Hạnh nhân óc chó, Hạt sen yến mạch và Macca hạt điều.
+- Giải quyết các thách thức kỹ thuật trong quy trình tiệt trùng UHT để đảm bảo độ ổn định sản phẩm.
+
+### 2. Các vấn đề đã thảo luận
+- **Công thức & Dinh dưỡng:** Hàm lượng hạt nguyên chất đạt ít nhất 15% (rất cao so với mặt bằng chung). 
+- **Kỹ thuật sản xuất:** 
+    - Công nghệ nghiền siêu mịn (Ultra-fine grinding) để đạt mouthfeel tối ưu, không lắng cặn.
+    - Xử lý hiện tượng "Burn-on" (cháy sém) khi tiệt trùng UHT ở nhiệt độ cao (140 độ C).
+
+### 3. Kết luận và quyết định
+- Phê duyệt tỷ lệ hạt và nghiên cứu giải pháp khả thi để giữ vững hàm lượng hạt khi tiệt trùng UHT.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

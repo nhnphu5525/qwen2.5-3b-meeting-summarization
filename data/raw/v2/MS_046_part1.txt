@@ -1,0 +1,49 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00] Chào anh Hùng (Chỉ huy trưởng), chào chị Vy (Giám sát chủ đầu tư) và các anh em nhà thầu phụ. Buổi họp giao ban tuần này của công trường dự án The Grand Elite chúng ta có rất nhiều vấn đề nóng cần giải quyết. Đặc biệt là tiến độ thi công khối tháp A đang chậm 10 ngày so với kế hoạch.
+[08:02] Vâng thưa anh, tôi biết là chậm, nhưng thực sự là do bất khả kháng. Tuần vừa rồi mưa liên tục 3 ngày, công tác đổ bê tông sàn tầng 25 phải hoãn lại. Chưa kể, lô thép cường độ cao mình đặt từ Hòa Phát bị giao chậm 5 ngày do xe tải kẹt ở cửa ngõ thành phố.
+[08:04] Ờ... mưa thì mình phải có phương án che chắn hoặc làm bù đêm chứ anh Hùng. Dự án này mình đã cam kết với khách hàng là cất nóc đúng ngày 30/12 rồi. Chậm 10 ngày là cả một vấn đề lớn đấy.
+[08:06] Chị Vy ơi, làm bù đêm thì tụi em vẫn đang làm, nhưng dạo này dân cư xung quanh họ khiếu nại về tiếng ồn dữ quá. Sau 10 giờ đêm là thanh tra xây dựng họ vào kiểm tra, tụi em không dám cho máy chạy công suất lớn. Còn vụ thép chậm thì thực sự là do bên cung ứng, tôi đã gọi điện thúc giục hàng ngày rồi.
+[08:08] Vậy còn vấn đề đá Granite ốp mặt ngoài thì sao? Tôi thấy container hàng về cả tuần nay rồi mà vẫn chưa thấy đội thợ cho ốp?
+[08:10] Dạ, cái đó lại vướng một chuyện khác. Lô đá này khi khui ra thì có khoảng 15% bị vân không đều, không đúng với mẫu (mock-up) mà chủ đầu tư đã duyệt ban đầu. Tôi đang bắt nhà thầu đá phải phân loại lại và bù hàng mới. Nếu mình cứ cố tình ốp lên thì sau này khâu nghiệm thu thẩm mỹ chắc chắn chị Vy sẽ không cho qua.
+[08:12] Đúng! Tôi sẽ không duyệt nếu vân đá không đồng nhất. Đây là dự án hạng sang, khách hàng họ soi rất kỹ. Anh Hùng phải làm việc gắt với bên cung cấp đá, yêu cầu họ đổi ngay trong tuần này.
+[08:14] Ờ... tôi muốn nhắc nhở thêm về vấn đề an toàn lao động. Hôm qua tôi đi kiểm tra đột xuất thì thấy mấy công nhân ở đội giàn giáo tầng 18 không thắt dây an toàn và vẫn hút thuốc trong khu vực dễ cháy nổ. Anh Hùng quản lý thế nào vậy?
+
+<|output|>
+# Họp giao ban tiến độ và an toàn công trường dự án The Grand Elite - Tuần 48
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng chậm tiến độ 10 ngày tại khối tháp A.
+- Thống nhất phương án xử lý vật tư không đạt chất lượng (đá Granite).
+
+### 2. Các vấn đề đã thảo luận
+- **Tiến độ:** Khối tháp A chậm 10 ngày do thời tiết xấu và sự cố vận chuyển thép từ nhà cung cấp.
+- **Vật tư:** 15% đá Granite mặt ngoài không đồng nhất về vân đá. Yêu cầu nhà thầu thay mới, tuyệt đối không cho phép lắp đặt hàng lỗi để tránh rủi ro nghiệm thu.
+
+### 3. Kết luận và quyết định
+- Yêu cầu nhà thầu đá phân loại lại và bù hàng mẫu chuẩn mới trong tuần.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
