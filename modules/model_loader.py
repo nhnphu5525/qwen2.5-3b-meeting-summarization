@@ -1,11 +1,11 @@
 """
-Module tải base model Qwen2.5-3B từ Hugging Face.
+Module for loading the Qwen2.5-3B base model from Hugging Face.
 
-Hỗ trợ:
-  - Tải model và tokenizer với cấu hình mặc định hoặc tùy chỉnh
-  - Chọn dtype (float16 / bfloat16 / float32)
-  - Chọn device (auto / cpu / cuda)
-  - Tải model theo chế độ 4-bit quantization (BitsAndBytes) để tiết kiệm VRAM
+Supports:
+  - Loading model and tokenizer with default or custom configuration
+  - Selecting dtype (float16 / bfloat16 / float32)
+  - Selecting device (auto / cpu / cuda)
+  - Loading model with 4-bit quantization (BitsAndBytes) to save VRAM
 """
 
 import logging
@@ -24,20 +24,20 @@ from transformers import (
 
 logger = logging.getLogger(__name__)
 
-# ── Hằng số mặc định ────────────────────────────────────────────────────────
+# ── Default constants ────────────────────────────────────────────────────────
 DEFAULT_MODEL_NAME = "Qwen/Qwen2.5-3B"
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_CACHE_DIR = PROJECT_ROOT / "models"
 
-# Ép buộc Hugging Face dùng thư mục models/ thay vì ~/.cache/huggingface mặc định
+# Force Hugging Face to use the local models/ directory instead of ~/.cache/huggingface
 os.environ["HF_HOME"] = str(DEFAULT_CACHE_DIR)
 os.environ["HUGGINGFACE_HUB_CACHE"] = str(DEFAULT_CACHE_DIR)
 os.environ["TRANSFORMERS_CACHE"] = str(DEFAULT_CACHE_DIR)
 
 
 def resolve_model_path(model_name: str) -> str:
-    """Trả về đường dẫn tuyệt đối nếu model_name là thư mục con trong models/.
-    Nếu không có, giữ nguyên model_name để tải từ Hugging Face."""
+    """Return the absolute path if model_name is a subdirectory inside models/.
+    Otherwise, keep model_name as-is to load from Hugging Face Hub."""
     path_direct = Path(model_name)
     if path_direct.exists() and path_direct.is_dir():
         return str(path_direct.resolve())
@@ -47,17 +47,17 @@ def resolve_model_path(model_name: str) -> str:
     local_path_name_only = DEFAULT_CACHE_DIR / name_only
 
     if local_path.exists() and local_path.is_dir():
-        logger.info("Sử dụng model local (chỉ định chính xác): %s", local_path)
+        logger.info("Using local model (exact path): %s", local_path)
         return str(local_path.resolve())
     elif local_path_name_only.exists() and local_path_name_only.is_dir():
-        logger.info("Sử dụng model local (theo tên thư mục rút gọn): %s", local_path_name_only)
+        logger.info("Using local model (short directory name): %s", local_path_name_only)
         return str(local_path_name_only.resolve())
 
     return model_name
 
 
 def _resolve_dtype(dtype_str: str) -> torch.dtype:
-    """Chuyển chuỗi dtype thành torch.dtype."""
+    """Convert a dtype string to a torch.dtype."""
     mapping = {
         "float16": torch.float16,
         "fp16": torch.float16,
@@ -69,8 +69,8 @@ def _resolve_dtype(dtype_str: str) -> torch.dtype:
     dtype_str = dtype_str.lower().strip()
     if dtype_str not in mapping:
         raise ValueError(
-            f"dtype '{dtype_str}' không hợp lệ. "
-            f"Các giá trị hỗ trợ: {list(mapping.keys())}"
+            f"Invalid dtype '{dtype_str}'. "
+            f"Supported values: {list(mapping.keys())}"
         )
     return mapping[dtype_str]
 
@@ -81,16 +81,16 @@ def get_quantization_config(
     bnb_4bit_quant_type: str = "nf4",
     bnb_4bit_use_double_quant: bool = True,
 ) -> BitsAndBytesConfig:
-    """Tạo cấu hình quantization 4-bit (BitsAndBytes).
+    """Create a 4-bit BitsAndBytes quantization config.
 
     Args:
-        load_in_4bit: Bật chế độ 4-bit.
-        bnb_4bit_compute_dtype: Kiểu dữ liệu tính toán (tự động theo phần cứng).
-        bnb_4bit_quant_type: Phương pháp quantize (nf4 / fp4).
-        bnb_4bit_use_double_quant: Sử dụng double quantization để tiết kiệm thêm bộ nhớ.
+        load_in_4bit: Enable 4-bit loading.
+        bnb_4bit_compute_dtype: Compute dtype (auto-detected from hardware if None).
+        bnb_4bit_quant_type: Quantization scheme (nf4 / fp4).
+        bnb_4bit_use_double_quant: Use double quantization to save additional memory.
 
     Returns:
-        BitsAndBytesConfig đã được cấu hình.
+        A configured BitsAndBytesConfig instance.
     """
     if bnb_4bit_compute_dtype is None:
         bnb_4bit_compute_dtype = "bfloat16" if (torch.cuda.is_available() and torch.cuda.is_bf16_supported()) else "float16"
@@ -109,19 +109,19 @@ def load_tokenizer(
     trust_remote_code: bool = True,
     padding_side: str = "right",
 ) -> PreTrainedTokenizerBase:
-    """Tải tokenizer của Qwen2.5-3B.
+    """Load the tokenizer for Qwen2.5-3B.
 
     Args:
-        model_name: Tên model trên Hugging Face Hub.
-        cache_dir: Thư mục cache (None = mặc định HF).
-        trust_remote_code: Cho phép chạy code từ model repo.
-        padding_side: Hướng padding ("right" hoặc "left").
+        model_name: Model name on Hugging Face Hub.
+        cache_dir: Cache directory (None = HF default).
+        trust_remote_code: Allow executing code from the model repository.
+        padding_side: Padding side ("right" or "left").
 
     Returns:
-        Tokenizer đã được cấu hình.
+        A configured tokenizer instance.
     """
     resolved_model_name = resolve_model_path(model_name)
-    logger.info("Đang tải tokenizer: %s", resolved_model_name)
+    logger.info("Loading tokenizer: %s", resolved_model_name)
 
     tokenizer = AutoTokenizer.from_pretrained(
         resolved_model_name,
@@ -131,12 +131,12 @@ def load_tokenizer(
 
     tokenizer.padding_side = padding_side
 
-    # Đảm bảo có pad_token (một số model không có sẵn)
+    # Ensure pad_token exists (some models do not include one by default)
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
-        logger.info("pad_token chưa có, đã gán bằng eos_token.")
+        logger.info("pad_token was missing; assigned eos_token as pad_token.")
 
-    logger.info("Tải tokenizer thành công. Vocab size: %d", tokenizer.vocab_size)
+    logger.info("Tokenizer loaded successfully. Vocab size: %d", tokenizer.vocab_size)
     return tokenizer
 
 
@@ -149,22 +149,22 @@ def load_model(
     quantization_config: Optional[BitsAndBytesConfig] = None,
     attn_implementation: Optional[str] = None,
 ) -> PreTrainedModel:
-    """Tải base model Qwen2.5-3B.
+    """Load the Qwen2.5-3B base model.
 
     Args:
-        model_name: Tên model trên Hugging Face Hub.
-        cache_dir: Thư mục cache (None = mặc định HF).
-        trust_remote_code: Cho phép chạy code từ model repo.
-        torch_dtype: Kiểu dữ liệu (float16 / bfloat16 / float32).
-        device_map: Cách phân bổ device ("auto" / "cpu" / "cuda").
-        quantization_config: Cấu hình BitsAndBytes (None = không quantize).
-        attn_implementation: Attention implementation ("flash_attention_2", "sdpa", …).
+        model_name: Model name on Hugging Face Hub.
+        cache_dir: Cache directory (None = HF default).
+        trust_remote_code: Allow executing code from the model repository.
+        torch_dtype: Data type (float16 / bfloat16 / float32).
+        device_map: Device placement strategy ("auto" / "cpu" / "cuda").
+        quantization_config: BitsAndBytes config (None = no quantization).
+        attn_implementation: Attention backend ("flash_attention_2", "sdpa", …).
 
     Returns:
-        Model đã được tải lên device.
+        The model loaded onto the target device.
     """
     resolved_model_name = resolve_model_path(model_name)
-    logger.info("Đang tải model: %s", resolved_model_name)
+    logger.info("Loading model: %s", resolved_model_name)
     logger.info(
         "  dtype=%s | device_map=%s | quantized=%s",
         torch_dtype,
@@ -188,11 +188,11 @@ def load_model(
 
     model = AutoModelForCausalLM.from_pretrained(**kwargs)
 
-    # Log thông tin cơ bản
+    # Log basic model info
     total_params = sum(p.numel() for p in model.parameters())
     trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
     logger.info(
-        "Tải model thành công. Tổng params: %s | Trainable: %s",
+        "Model loaded successfully. Total params: %s | Trainable: %s",
         f"{total_params:,}",
         f"{trainable_params:,}",
     )
@@ -210,20 +210,20 @@ def load_model_and_tokenizer(
     attn_implementation: Optional[str] = None,
     padding_side: str = "right",
 ) -> tuple[PreTrainedModel, PreTrainedTokenizerBase]:
-    """Tải cả model và tokenizer trong một lời gọi duy nhất.
+    """Load both the model and tokenizer in a single call.
 
     Args:
-        model_name: Tên model trên Hugging Face Hub.
-        cache_dir: Thư mục cache.
-        trust_remote_code: Cho phép chạy code từ model repo.
-        torch_dtype: Kiểu dữ liệu.
-        device_map: Cách phân bổ device.
-        use_4bit: Bật quantization 4-bit (tiết kiệm ~60 % VRAM).
-        attn_implementation: Attention implementation.
-        padding_side: Hướng padding cho tokenizer.
+        model_name: Model name on Hugging Face Hub.
+        cache_dir: Cache directory.
+        trust_remote_code: Allow executing code from the model repository.
+        torch_dtype: Data type.
+        device_map: Device placement strategy.
+        use_4bit: Enable 4-bit quantization (saves ~60% VRAM).
+        attn_implementation: Attention backend.
+        padding_side: Tokenizer padding side.
 
     Returns:
-        Tuple (model, tokenizer).
+        A tuple of (model, tokenizer).
     """
     quantization_config = get_quantization_config() if use_4bit else None
 
@@ -247,7 +247,7 @@ def load_model_and_tokenizer(
     return model, tokenizer
 
 
-# ── CLI nhanh để test ────────────────────────────────────────────────────────
+# ── Quick CLI test ────────────────────────────────────────────────────────
 if __name__ == "__main__":
     logging.basicConfig(
         level=logging.INFO,
@@ -256,7 +256,7 @@ if __name__ == "__main__":
 
     model, tokenizer = load_model_and_tokenizer(use_4bit=True)
 
-    # Sinh thử một đoạn text ngắn
+    # Generate a short text sample to verify the model works
     prompt = "Meeting summary:"
     inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
     outputs = model.generate(**inputs, max_new_tokens=64)
