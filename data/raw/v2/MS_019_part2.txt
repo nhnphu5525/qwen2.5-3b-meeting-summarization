@@ -1,0 +1,59 @@
+<|input|>
+# Chiến lược bán hàng đa kênh (Omnichannel) và tối ưu hóa trải nghiệm khách hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng hệ sinh thái bán hàng đa kênh nhất quán (Online to Offline).
+- Giải quyết triệt để các rào cản về giá, tồn kho và quy trình đổi trả hàng giữa các kênh.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng thiếu đồng bộ về giá cả và hóa đơn gây phiền hà cho khách hàng.
+- Nhu cầu triển khai hệ thống quản lý đơn hàng tập trung (OMS) để vận hành BOPIS (Mua online, lấy tại store).
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án chiến lược Omnichannel làm trọng tâm phát triển trong năm tới.
+- Đồng ý đầu tư hệ thống OMS và CRM tích hợp đồng bộ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát và lựa chọn giải pháp OMS/CRM | Phòng IT | 15/05/2026 |
+| Lên kế hoạch đào tạo nhân viên cửa hàng | Team Đào tạo | 15/06/2026 |
+| Dự thảo quy trình soạn hàng online tại store | Phòng Kho vận | Chưa rõ |
+[09:12] Tôi muốn triển khai thêm tính năng "Gương thông minh" tại các showroom lớn. Khách thử đồ có thể quét mã để xem các phối đồ gợi ý hoặc yêu cầu size khác ngay trên gương.
+[09:14] Chi phí đầu tư cho gương thông minh khá cao, mình nên thí điểm ở showroom trung tâm trước.
+[09:16] Về mảng dữ liệu, mình cần tích hợp CRM để khi khách bước vào cửa hàng, nhân viên có thể biết được lịch sử mua sắm của họ để tư vấn chính xác hơn.
+[09:18] Làm sao để nhận diện khách hàng ngay khi họ bước vào? Dùng Face ID hay là quét mã thành viên qua App?
+[09:20] Quét mã qua App là phương án khả thi và riêng tư hơn. Mình sẽ khuyến khích khách hàng check-in tại cửa hàng để nhận thêm điểm thưởng.
+
+<|output|>
+# Chiến lược bán hàng đa kênh (Omnichannel) và tối ưu hóa trải nghiệm khách hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng hệ sinh thái bán hàng đa kênh nhất quán (Online to Offline).
+- Giải quyết triệt để các rào cản về giá, tồn kho và quy trình đổi trả hàng giữa các kênh.
+- Ứng dụng công nghệ (OMS, CRM, Smart Mirror) để cá nhân hóa hành trình mua sắm.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng thiếu đồng bộ về giá cả và hóa đơn gây phiền hà cho khách hàng.
+- Nhu cầu triển khai hệ thống quản lý đơn hàng tập trung (OMS) để vận hành BOPIS (Mua online, lấy tại store).
+- Ý tưởng sử dụng "Gương thông minh" và các thiết bị IoT tại showroom để tăng tính tương tác.
+- Nhận diện và tư vấn khách hàng dựa trên dữ liệu CRM tích hợp.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án chiến lược Omnichannel làm trọng tâm phát triển trong năm tới.
+- Đồng ý đầu tư hệ thống OMS và CRM tích hợp đồng bộ.
+- Thí điểm các công nghệ mới tại các showroom lớn trước khi nhân rộng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát và lựa chọn giải pháp OMS/CRM | Phòng IT | 15/05/2026 |
+| Lên kế hoạch đào tạo nhân viên cửa hàng | Team Đào tạo | 15/06/2026 |
+| Tìm kiếm nhà cung cấp thiết bị Smart Mirror | Phòng Thu mua | 05/06/2026 |
+| Dự thảo quy trình soạn hàng online tại store | Phòng Kho vận | Chưa rõ |

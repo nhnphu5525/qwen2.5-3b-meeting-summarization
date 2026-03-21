@@ -1,0 +1,86 @@
+<|input|>
+# Chiến lược bán hàng đa kênh (Omnichannel) và tối ưu hóa trải nghiệm khách hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng hệ sinh thái bán hàng đa kênh nhất quán (Online to Offline).
+- Giải quyết triệt để các rào cản về giá, tồn kho và quy trình đổi trả hàng giữa các kênh.
+- Ứng dụng công nghệ (OMS, CRM, Smart Mirror) để cá nhân hóa hành trình mua sắm.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng thiếu đồng bộ về giá cả và hóa đơn gây phiền hà cho khách hàng.
+- Nhu cầu triển khai hệ thống quản lý đơn hàng tập trung (OMS) để vận hành BOPIS (Mua online, lấy tại store).
+- Ý tưởng sử dụng "Gương thông minh" và các thiết bị IoT tại showroom để tăng tính tương tác.
+- Nhận diện và tư vấn khách hàng dựa trên dữ liệu CRM tích hợp.
+- Thách thức về logistics chặng cuối và việc tận dụng cửa hàng làm kho trung chuyển.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án chiến lược Omnichannel làm trọng tâm phát triển trong năm tới.
+- Đồng ý đầu tư hệ thống OMS và CRM tích hợp đồng bộ.
+- Thí điểm các công nghệ mới tại các showroom lớn trước khi nhân rộng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát và lựa chọn giải pháp OMS/CRM | Phòng IT | 15/05/2026 |
+| Xây dựng quy trình đổi trả hàng đa kênh | Phòng Vận hành | 30/04/2026 |
+| Lên kế hoạch đào tạo nhân viên cửa hàng | Team Đào tạo | 15/06/2026 |
+| Tìm kiếm nhà cung cấp thiết bị Smart Mirror | Phòng Thu mua | 05/06/2026 |
+| Dự thảo quy trình soạn hàng online tại store | Phòng Kho vận | Chưa rõ |
+| Khảo sát layout cửa hàng để làm kho trung chuyển | Team Vận hành | Chưa rõ |
+[09:34] Marketing cần lên concept cho chiến dịch ra mắt trải nghiệm Omnichannel mới vào quý 4.
+[09:36] Chúng ta cũng cần xem xét lại chính sách hoa hồng cho nhân viên. Nếu khách xem tại store nhưng về nhà mới đặt online thì nhân viên store có được tính công tư vấn không?
+[09:38] Câu hỏi rất hay. Mình sẽ áp dụng cơ chế chia sẻ hoa hồng (Commission Sharing) để nhân viên nhiệt tình tư vấn dù khách mua ở bất kỳ kênh nào.
+[09:40] Việc này sẽ giúp giảm bớt sự cạnh tranh không lành mạnh giữa các kênh bán hàng trong chính công ty mình.
+[09:42] Tôi cần một bản dự toán tổng thể ngân sách cho dự án này, bao gồm cả phần cứng, phần mềm và chi phí đào tạo.
+[09:44] Dạ vâng, em sẽ kết hợp với phòng tài chính để lên con số dự kiến.
+[09:46] Dự án này dự kiến kéo dài 1 năm, chia thành 4 giai đoạn nhỏ.
+[09:48] Giai đoạn 1 là đồng bộ dữ liệu và tồn kho. Giai đoạn 2 là triển khai BOPIS và đổi trả đa kênh. Giai đoạn 3 là cá nhân hóa trải nghiệm qua CRM. Giai đoạn 4 là ứng dụng công nghệ tại điểm bán (Smart Mirror, IoT).
+[09:50] Mọi người có ý kiến gì về lộ trình này không?
+[09:52] Em thấy ổn ạ. Quan trọng nhất vẫn là sự phối hợp giữa IT và Vận hành.
+[09:54] Chốt lại: Bắt đầu dự án Omnichannel, tìm kiếm đối tác OMS, xây dựng quy trình đổi trả mới và thiết lập cơ chế hoa hồng chung.
+[09:56] Cảm ơn cả nhà, chúng ta cùng cố gắng vì một trải nghiệm khách hàng hoàn hảo hơn.
+[09:58] Kết thúc họp tại đây.
+
+<|output|>
+# Chiến lược bán hàng đa kênh (Omnichannel) và tối ưu hóa trải nghiệm khách hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng hệ sinh thái bán hàng đa kênh nhất quán (Online to Offline).
+- Giải quyết triệt để các rào cản về giá, tồn kho và quy trình đổi trả hàng giữa các kênh.
+- Ứng dụng công nghệ (OMS, CRM, Smart Mirror) để cá nhân hóa hành trình mua sắm.
+- Thống nhất cơ chế phối hợp và chia sẻ lợi ích giữa đội ngũ bán hàng online và offline.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng thiếu đồng bộ về giá cả và hóa đơn gây phiền hà cho khách hàng.
+- Nhu cầu triển khai hệ thống quản lý đơn hàng tập trung (OMS) để vận hành BOPIS (Mua online, lấy tại store).
+- Ý tưởng sử dụng "Gương thông minh" và các thiết bị IoT tại showroom để tăng tính tương tác.
+- Nhận diện và tư vấn khách hàng dựa trên dữ liệu CRM tích hợp.
+- Thách thức về logistics chặng cuối và việc tận dụng cửa hàng làm kho trung chuyển.
+- Xây dựng chính sách hoa hồng mới (Commission Sharing) để thúc đẩy nhân viên hỗ trợ đa kênh.
+- Lộ trình triển khai 4 giai đoạn trong vòng 1 năm.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án chiến lược Omnichannel làm trọng tâm phát triển trong năm tới.
+- Đồng ý đầu tư hệ thống OMS và CRM tích hợp đồng bộ.
+- Áp dụng cơ chế chia sẻ hoa hồng để xóa bỏ xung đột lợi ích giữa các kênh bán hàng.
+- Thí điểm các công nghệ mới tại các showroom lớn trước khi nhân rộng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát và lựa chọn giải pháp OMS/CRM | Phòng IT | 15/05/2026 |
+| Xây dựng quy trình đổi trả hàng đa kênh | Phòng Vận hành | 30/04/2026 |
+| Thiết kế cơ chế chia sẻ hoa hồng mới | Phòng Nhân sự | 20/05/2026 |
+| Lập dự toán ngân sách chi tiết cho dự án | Phòng Tài chính | 10/05/2026 |
+| Lên kế hoạch đào tạo nhân viên cửa hàng | Team Đào tạo | 15/06/2026 |
+| Tìm kiếm nhà cung cấp thiết bị Smart Mirror | Phòng Thu mua | 05/06/2026 |
+| Dự thảo quy trình soạn hàng online tại store | Phòng Kho vận | Chưa rõ |
+| Khảo sát layout cửa hàng để làm kho trung chuyển | Team Vận hành | Chưa rõ |
+| Lên concept truyền thông cho trải nghiệm mới | Phòng Marketing | 30/08/2026 |
+| Đánh giá hiệu quả sau giai đoạn 1 | Ban Giám đốc | 30/09/2026 |

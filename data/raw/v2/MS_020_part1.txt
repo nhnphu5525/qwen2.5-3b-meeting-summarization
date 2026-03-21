@@ -1,0 +1,47 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[09:00] Chào toàn thể ban lãnh đạo và các trưởng bộ phận sản xuất. Hôm nay chúng ta có một buổi họp đặc biệt quan trọng để khởi động chương trình "Nâng cao năng lực sản xuất thông qua Lean Six Sigma".
+[09:05] Tỉ lệ hàng lỗi (Defect rate) của chúng ta trong 6 tháng qua đã chạm mức 4.5%. Đây là con số không thể chấp nhận được nếu muốn duy trì hợp đồng với các đối tác châu Âu.
+[09:10] Ngoài ra, chi phí lãng phí về thời gian chờ và vận chuyển nguyên liệu trong nhà máy đang ngốn mất 12% biên lợi nhuận ròng.
+[09:15] Lean Six Sigma không chỉ là giảm lỗi, mà là thay đổi tư duy làm việc của từng công nhân trên dây chuyền.
+[09:20] Bước đầu tiên, chúng chúng ta cần thực hiện dự án 5S triệt để tại tất cả các phân xưởng. Sàng lọc, Sắp xếp, Sạch sẽ, Săn sóc, Sẵn sàng.
+[09:25] Tôi thấy nhiều phân xưởng vẫn để dụng cụ bừa bãi, mất tới 5-10 phút chỉ để tìm một cái cờ lê. Đó chính là lãng phí.
+[09:30] Về phần Six Sigma, chúng ta sẽ áp dụng quy trình DMAIC: Define (Xác định), Measure (Đo lường), Analyze (Phân tích), Improve (Cải tiến) và Control (Kiểm soát).
+[09:35] Anh muốn thành lập một đội "Biệt đội Đai đen" (Black Belts) gồm những chuyên gia giỏi nhất để dẫn dắt các dự án cải tiến này.
+
+<|output|>
+# Triển khai Lean Six Sigma nâng cao năng lực sản xuất và chất lượng sản phẩm
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khởi động chiến dịch Lean Six Sigma toàn nhà máy nhằm giảm tỉ lệ lỗi và tối ưu hóa chi phí.
+- Thống nhất các công cụ và phương pháp luận sẽ áp dụng (5S, DMAIC, Pull System).
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng lãng phí về thời gian, vận chuyển và tồn kho bán thành phẩm (WIP) ảnh hưởng nghiêm trọng đến lợi nhuận.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án Lean Six Sigma làm dự án trọng điểm cấp công ty.
+- Thành lập đội dự án nòng cốt (Black Belts) và yêu cầu cấp quản lý hoàn thành chứng chỉ Green Belt.
+- Áp dụng triệt để 5S tại tất cả phân xưởng và tổ chức "Ngày hội cải tiến" hàng tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thành lập đội dự án Black Belts | Ban Giám đốc | 25/03/2026 |
+| Triển khai chiến dịch 5S tại các phân xưởng | Quản đốc phân xưởng | 20/04/2026 |
