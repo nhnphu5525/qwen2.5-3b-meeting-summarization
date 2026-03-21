@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[11:00] Chào ban giám đốc và team đầu tư, hôm nay chúng ta họp rà soát danh mục cổ phiếu quý 1 và định hướng quý 2.
+[11:02] Thị trường chứng khoán dạo này biến động mạnh do ảnh hưởng từ lãi suất Fed và tình hình kinh tế vĩ mô trong nước.
+[11:04] Danh mục hiện tại của mình đang tập trung quá nhiều vào nhóm Bất động sản và Ngân hàng, trong khi nhóm Công nghệ và Năng lượng tái tạo lại đang có đà tăng tốt.
+[11:06] Em đề xuất mình cơ cấu lại, giảm tỷ trọng nhóm Bất động sản xuống 15% để tránh rủi ro thanh khoản.
+[11:08] Liệu nhóm Năng lượng tái tạo có bền vững không khi chính sách về giá điện (FIT) vẫn chưa thực sự rõ ràng?
+[11:10] Chúng ta nên chọn các doanh nghiệp có nền tảng tài chính mạnh và đang có dự án sắp vận hành để đảm bảo dòng tiền.
+
+<|output|>
+# Rà soát danh mục đầu tư quý 1 và chiến lược tái cơ cấu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả hoạt động của danh mục đầu tư trong bối cảnh thị trường biến động.
+- Tái cơ cấu tỷ trọng các nhóm ngành để tối ưu hóa lợi nhuận và giảm thiểu rủi ro.
+
+### 2. Các vấn đề đã thảo luận
+- Sự phụ thuộc quá mức vào nhóm ngành Bất động sản đang gặp khó khăn về thanh khoản.
+- Tiềm năng của nhóm ngành Công nghệ và Năng lượng tái tạo trong xu hướng vĩ mô mới.
+- Rủi ro về chính sách giá điện ảnh hưởng đến định giá các công ty năng lượng.
+
+### 3. Kết luận và quyết định
+- Phê duyệt việc giảm tỷ trọng nhóm Bất động sản xuống mức 15%.
+- Bổệ sung các mã cổ phiếu tiềm năng thuộc nhóm Công nghệ vào danh sách theo dõi mua.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thực hiện lệnh bán cơ cấu nhóm BĐS | Team Trading | 20/03/2026 |
+| Phân tích chi tiết chính sách giá điện mới | Anh Minh (Phân tích) | 28/03/2026 |
+| Đề xuất danh mục cổ phiếu Công nghệ tiềm năng | Team Phân tích | 05/04/2026 |

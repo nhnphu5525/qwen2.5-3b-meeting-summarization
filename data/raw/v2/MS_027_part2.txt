@@ -1,0 +1,66 @@
+<|input|>
+# Rà soát danh mục đầu tư quý 1 và chiến lược tái cơ cấu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả hoạt động của danh mục đầu tư trong bối cảnh thị trường biến động.
+- Tái cơ cấu tỷ trọng các nhóm ngành để tối ưu hóa lợi nhuận và giảm thiểu rủi ro.
+
+### 2. Các vấn đề đã thảo luận
+- Sự phụ thuộc quá mức vào nhóm ngành Bất động sản đang gặp khó khăn về thanh khoản.
+- Tiềm năng của nhóm ngành Công nghệ và Năng lượng tái tạo trong xu hướng vĩ mô mới.
+- Rủi ro về chính sách giá điện ảnh hưởng đến định giá các công ty năng lượng.
+
+### 3. Kết luận và quyết định
+- Phê duyệt việc giảm tỷ trọng nhóm Bất động sản xuống mức 15%.
+- Bổ sung các mã cổ phiếu tiềm năng thuộc nhóm Công nghệ vào danh sách theo dõi mua.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thực hiện lệnh bán cơ cấu nhóm BĐS | Team Trading | 20/03/2026 |
+| Phân tích chi tiết chính sách giá điện mới | Anh Minh (Phân tích) | 28/03/2026 |
+| Đề xuất danh mục cổ phiếu Công nghệ tiềm năng | Team Phân tích | 05/04/2026 |
+[11:12] Về mảng trái phiếu doanh nghiệp, mình cần rà soát lại xếp hạng tín nhiệm của các tổ chức phát hành trong danh mục.
+[11:14] Anh Minh (Phân tích) chuẩn bị báo cáo chi tiết về tình hình sức khỏe tài chính của 5 mã cổ phiếu trụ cột mình đang nắm giữ.
+[11:16] Cần tận dụng các nhịp hồi của thị trường để chốt lời bớt các mã đã đạt kỳ vọng nhằm bảo vệ thành quả.
+[11:18] Tôi muốn bộ phận quản trị rủi ro thiết lập các ngưỡng cắt lỗ (stop-loss) nghiêm ngặt hơn cho giai đoạn tới.
+[11:20] Ngoài ra, nên dành 20% tiền mặt để chờ đợi cơ hội khi thị trường có những cú sụt giảm sâu bất ngờ.
+[11:22] Chốt lại: Giảm tỷ trọng BĐS, tăng mảng Công nghệ/Năng lượng, siết chặt quản trị rủi ro và giữ tỷ lệ tiền mặt hợp lý.
+
+<|output|>
+# Rà soát danh mục đầu tư quý 1 và chiến lược tái cơ cấu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả hoạt động của danh mục đầu tư trong bối cảnh thị trường biến động.
+- Tái cơ cấu tỷ trọng các nhóm ngành để tối ưu hóa lợi nhuận và giảm thiểu rủi ro.
+- Thống nhất các quy tắc quản trị rủi ro và ngưỡng cắt lỗ cho quý 2.
+
+### 2. Các vấn đề đã thảo luận
+- Sự phụ thuộc quá mức vào nhóm ngành Bất động sản đang gặp khó khăn về thanh khoản.
+- Tiềm năng của nhóm ngành Công nghệ và Năng lượng tái tạo trong xu hướng vĩ mô mới.
+- Rủi ro về chính sách giá điện ảnh hưởng đến định giá các công ty năng lượng.
+- Tình hình sức khỏe tài chính của các đơn vị phát hành trái phiếu doanh nghiệp.
+- Chiến lược "chốt lời" và duy trì tỷ lệ tiền mặt dự phòng (20%).
+
+### 3. Kết luận và quyết định
+- Phê duyệt việc giảm tỷ trọng nhóm Bất động sản xuống mức 15%.
+- Bổ sung các mã cổ phiếu tiềm năng thuộc nhóm Công nghệ vào danh sách theo dõi mua.
+- Yêu cầu bộ phận Quản trị rủi ro cập nhật các ngưỡng Stop-loss cho từng mã cụ thể.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thực hiện lệnh bán cơ cấu nhóm BĐS | Team Trading | 20/03/2026 |
+| Phân tích chi tiết chính sách giá điện mới | Anh Minh (Phân tích) | 28/03/2026 |
+| Đề xuất danh mục cổ phiếu Công nghệ tiềm năng | Team Phân tích | 05/04/2026 |
+| Báo cáo sức khỏe tài chính 5 mã trụ cột | Anh Minh (Phân tích) | 25/03/2026 |
+| Thiết lập ngưỡng Stop-loss cho danh mục mới | Phòng Quản trị rủi ro | 22/03/2026 |
+| Rà soát hồ sơ trái phiếu trong danh mục | Phòng Pháp chế | 30/03/2026 |
+| Theo dõi biến động lãi suất Fed hàng tuần | Chưa rõ | 30/06/2026 |
+| Cập nhật báo cáo dòng tiền đầu tư | Phòng Tài chính | 01/04/2026 |

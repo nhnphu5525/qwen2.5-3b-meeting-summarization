@@ -1,0 +1,63 @@
+<|input|>
+# Lựa chọn đại sứ thương hiệu và kế hoạch quay TVC xe điện mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Quyết định gương mặt đại diện cho dòng xe điện mới của công ty.
+
+### 2. Các vấn đề đã thảo luận
+- So sánh giữa sức ảnh hưởng của nghệ sĩ hạng A và tính nhất quán hình ảnh của vận động viên.
+- Rủi ro về sự chân thật của đại sứ đối với cộng đồng người dùng xe điện.
+- Đề xuất mô hình kết hợp (Nghệ sĩ ra mắt + KOC duy trì) để tối ưu hóa hiệu quả.
+
+### 3. Kết luận và quyết định
+- Chốt phương án mời nghệ sĩ hạng A cho giai đoạn ra mắt chiến dịch.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ và đàm phán hợp đồng với nghệ sĩ hạng A | Phòng Marketing | 25/03/2026 |
+| Lập danh sách KOC lối sống xanh tiềm năng | Team Social | 28/03/2026 |
+[09:12] Ý tưởng hay đó. Về phần quay TVC, đạo diễn muốn mình thực hiện tại các cung đường ven biển miền Trung để làm nổi bật tính năng tự lái.
+[09:14] Cần xin giấy phép quay phim và chặn đường tại một số khu vực, Lan (Pháp chế) xem thủ tục này mất bao lâu nhé.
+[09:16] Marketing cần chuẩn bị bộ ảnh "Life with EV" để chạy banner trên các trang tin ô tô lớn.
+[09:18] Ngân sách cho đại sứ thương hiệu không được vượt quá 3 tỷ đồng cho năm đầu tiên.
+[09:20] Anh muốn xem kịch bản chi tiết của TVC vào thứ Tư tới để kịp tiến độ casting.
+[09:22] Chốt lại: Chọn nghệ sĩ hạng A cho launch, thuê KOC duy trì, quay TVC ven biển và kiểm soát ngân sách dưới 3 tỷ.
+
+<|output|>
+# Lựa chọn đại sứ thương hiệu và kế hoạch quay TVC xe điện mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Quyết định gương mặt đại diện cho dòng xe điện mới của công ty.
+- Thống nhất concept quay phim quảng cáo (TVC) và chiến dịch truyền thông đa kênh.
+- Phân bổ ngân sách Marketing cho các hoạt động booking và sản xuất nội dung.
+
+### 2. Các vấn đề đã thảo luận
+- So sánh giữa sức ảnh hưởng của nghệ sĩ hạng A và tính nhất quán hình ảnh của vận động viên.
+- Rủi ro về sự chân thật của đại sứ đối với cộng đồng người dùng xe điện.
+- Đề xuất mô hình kết hợp (Nghệ sĩ ra mắt + KOC duy trì) để tối ưu hóa hiệu quả.
+- Bối cảnh quay TVC tại ven biển miền Trung và các thách thức về pháp lý quay phim.
+- Giới hạn ngân sách 3 tỷ đồng cho hoạt động đại sứ thương hiệu.
+
+### 3. Kết luận và quyết định
+- Chốt phương án mời nghệ sĩ hạng A cho giai đoạn ra mắt chiến dịch.
+- Phê duyệt concept quay TVC tại các cung đường ven biển miền Trung.
+- Giao bộ phận Marketing hoàn thiện kịch bản và tiến hành casting diễn viên phụ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ và đàm phán hợp đồng với nghệ sĩ hạng A | Phòng Marketing | 25/03/2026 |
+| Hoàn thiện kịch bản TVC chi tiết | Team Sáng tạo | 22/03/2026 |
+| Xin giấy phép quay phim tại các cung đường biển | Lan (Pháp chế) | 30/03/2026 |
+| Lập danh sách KOC lối sống xanh tiềm năng | Team Social | 28/03/2026 |
+| Khảo sát địa điểm quay phim (Recce) | Team Sản xuất | 05/04/2026 |
+| Dự thảo bảng phân bổ ngân sách chi tiết | Phòng Tài chính | 26/03/2026 |
+| Chụp bộ ảnh banner "Life with EV" | Team Design | 10/04/2026 |
+| Tìm kiếm đơn vị sản xuất TVC (Production House) | Chưa rõ | 01/04/2026 |
