@@ -9,6 +9,7 @@ Hỗ trợ:
 """
 
 import logging
+import os
 from pathlib import Path
 from typing import Optional
 
@@ -25,7 +26,34 @@ logger = logging.getLogger(__name__)
 
 # ── Hằng số mặc định ────────────────────────────────────────────────────────
 DEFAULT_MODEL_NAME = "Qwen/Qwen2.5-3B"
-DEFAULT_CACHE_DIR = Path("models")
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+DEFAULT_CACHE_DIR = PROJECT_ROOT / "models"
+
+# Ép buộc Hugging Face dùng thư mục models/ thay vì ~/.cache/huggingface mặc định
+os.environ["HF_HOME"] = str(DEFAULT_CACHE_DIR)
+os.environ["HUGGINGFACE_HUB_CACHE"] = str(DEFAULT_CACHE_DIR)
+os.environ["TRANSFORMERS_CACHE"] = str(DEFAULT_CACHE_DIR)
+
+
+def resolve_model_path(model_name: str) -> str:
+    """Trả về đường dẫn tuyệt đối nếu model_name là thư mục con trong models/.
+    Nếu không có, giữ nguyên model_name để tải từ Hugging Face."""
+    path_direct = Path(model_name)
+    if path_direct.exists() and path_direct.is_dir():
+        return str(path_direct.resolve())
+
+    local_path = DEFAULT_CACHE_DIR / model_name
+    name_only = model_name.split("/")[-1]
+    local_path_name_only = DEFAULT_CACHE_DIR / name_only
+
+    if local_path.exists() and local_path.is_dir():
+        logger.info("Sử dụng model local (chỉ định chính xác): %s", local_path)
+        return str(local_path.resolve())
+    elif local_path_name_only.exists() and local_path_name_only.is_dir():
+        logger.info("Sử dụng model local (theo tên thư mục rút gọn): %s", local_path_name_only)
+        return str(local_path_name_only.resolve())
+
+    return model_name
 
 
 def _resolve_dtype(dtype_str: str) -> torch.dtype:
@@ -49,7 +77,7 @@ def _resolve_dtype(dtype_str: str) -> torch.dtype:
 
 def get_quantization_config(
     load_in_4bit: bool = True,
-    bnb_4bit_compute_dtype: str = "bfloat16",
+    bnb_4bit_compute_dtype: Optional[str] = None,
     bnb_4bit_quant_type: str = "nf4",
     bnb_4bit_use_double_quant: bool = True,
 ) -> BitsAndBytesConfig:
@@ -57,13 +85,16 @@ def get_quantization_config(
 
     Args:
         load_in_4bit: Bật chế độ 4-bit.
-        bnb_4bit_compute_dtype: Kiểu dữ liệu tính toán (float16 / bfloat16).
+        bnb_4bit_compute_dtype: Kiểu dữ liệu tính toán (tự động theo phần cứng).
         bnb_4bit_quant_type: Phương pháp quantize (nf4 / fp4).
         bnb_4bit_use_double_quant: Sử dụng double quantization để tiết kiệm thêm bộ nhớ.
 
     Returns:
         BitsAndBytesConfig đã được cấu hình.
     """
+    if bnb_4bit_compute_dtype is None:
+        bnb_4bit_compute_dtype = "bfloat16" if (torch.cuda.is_available() and torch.cuda.is_bf16_supported()) else "float16"
+        
     return BitsAndBytesConfig(
         load_in_4bit=load_in_4bit,
         bnb_4bit_compute_dtype=_resolve_dtype(bnb_4bit_compute_dtype),
@@ -74,7 +105,7 @@ def get_quantization_config(
 
 def load_tokenizer(
     model_name: str = DEFAULT_MODEL_NAME,
-    cache_dir: Optional[str] = None,
+    cache_dir: Optional[str] = str(DEFAULT_CACHE_DIR),
     trust_remote_code: bool = True,
     padding_side: str = "right",
 ) -> PreTrainedTokenizerBase:
@@ -89,10 +120,11 @@ def load_tokenizer(
     Returns:
         Tokenizer đã được cấu hình.
     """
-    logger.info("Đang tải tokenizer: %s", model_name)
+    resolved_model_name = resolve_model_path(model_name)
+    logger.info("Đang tải tokenizer: %s", resolved_model_name)
 
     tokenizer = AutoTokenizer.from_pretrained(
-        model_name,
+        resolved_model_name,
         cache_dir=cache_dir,
         trust_remote_code=trust_remote_code,
     )
@@ -110,7 +142,7 @@ def load_tokenizer(
 
 def load_model(
     model_name: str = DEFAULT_MODEL_NAME,
-    cache_dir: Optional[str] = None,
+    cache_dir: Optional[str] = str(DEFAULT_CACHE_DIR),
     trust_remote_code: bool = True,
     torch_dtype: str = "bfloat16",
     device_map: str = "auto",
@@ -131,7 +163,8 @@ def load_model(
     Returns:
         Model đã được tải lên device.
     """
-    logger.info("Đang tải model: %s", model_name)
+    resolved_model_name = resolve_model_path(model_name)
+    logger.info("Đang tải model: %s", resolved_model_name)
     logger.info(
         "  dtype=%s | device_map=%s | quantized=%s",
         torch_dtype,
@@ -140,7 +173,7 @@ def load_model(
     )
 
     kwargs: dict = {
-        "pretrained_model_name_or_path": model_name,
+        "pretrained_model_name_or_path": resolved_model_name,
         "cache_dir": cache_dir,
         "trust_remote_code": trust_remote_code,
         "torch_dtype": _resolve_dtype(torch_dtype),
@@ -169,7 +202,7 @@ def load_model(
 
 def load_model_and_tokenizer(
     model_name: str = DEFAULT_MODEL_NAME,
-    cache_dir: Optional[str] = None,
+    cache_dir: Optional[str] = str(DEFAULT_CACHE_DIR),
     trust_remote_code: bool = True,
     torch_dtype: str = "bfloat16",
     device_map: str = "auto",

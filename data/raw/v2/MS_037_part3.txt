@@ -1,0 +1,82 @@
+<|input|>
+# Cải thiện chính sách phúc lợi và chế độ đãi ngộ nhân viên năm 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân tỉ lệ nhân viên nghỉ việc tăng cao và tìm giải pháp giữ chân nhân tài.
+- Thảo luận và thống nhất các hạng mục phúc lợi mới nhằm tăng tính cạnh tranh của công ty trên thị trường lao động.
+
+### 2. Các vấn đề đã thảo luận
+- Tỉ lệ nghỉ việc ở khối Tech và Kinh doanh tăng do phúc lợi chưa hấp dẫn bằng các đối thủ.
+- Nhu cầu về bảo hiểm sức khỏe cao cấp (PVI/Bảo Việt) cho nhân viên và hỗ trợ cho người thân.
+- Xu hướng làm việc linh hoạt (Work from home) để giảm stress và tăng năng suất.
+- Cải thiện không gian làm việc (Pantry) và các hoạt động chăm sóc sức khỏe tinh thần.
+- Thay đổi hình thức thưởng sinh nhật và quà Tết để thiết thực hơn với nhu cầu nhân viên.
+
+### 3. Kết luận và quyết định
+- Triển khai gói bảo hiểm sức khỏe tư nhân phân cấp theo thâm niên (ưu tiên nhân viên trên 2 năm).
+- Thử nghiệm chính sách làm việc từ xa (WFH) 4 ngày/tháng cho toàn bộ nhân viên trong 3 tháng.
+- Cải tạo khu vực Pantry thành không gian thư giãn với đồ ăn nhẹ và cà phê miễn phí.
+- Tăng tiền thưởng sinh nhật lên 1.000.000 VNĐ và tặng thêm 01 ngày nghỉ hưởng lương cho nhân viên trong ngày sinh nhật.
+- Chuyển đổi quà Tết từ hiện vật sang voucher mua sắm điện tử hoặc tiền mặt.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ lấy báo giá các gói bảo hiểm sức khỏe phân cấp | Lan | 25/11/2024 |
+| Soạn thảo quy định thử nghiệm chính sách WFH | Nam | 22/11/2024 |
+| Tổ chức buổi nói chuyện về sức khỏe tinh thần | Phòng HR | 15/12/2024 |
+| Lên bản vẽ và dự toán cải tạo khu vực Pantry | Phòng Hành chính | 10/12/2024 |
+| Cập nhật quy chế thưởng sinh nhật và ngày nghỉ lễ | Lan | 01/12/2024 |
+| Khảo sát ý kiến nhân viên về hình thức quà Tết | Nam | 30/11/2024 |
+| Làm việc với nhà cung cấp voucher Shopee/Tiki | Lan | 15/12/2024 |
+| Báo cáo kết quả thử nghiệm WFH sau tháng đầu tiên | Quản lý các bộ phận | 05/01/2025 |
+[14:38] Tổng kết lại nhé: 1. Báo giá bảo hiểm sức khỏe phân cấp. 2. Soạn chính sách WFH thử nghiệm. 3. Lên phương án cải tạo Pantry. 4. Cập nhật chính sách thưởng sinh nhật và quà Tết.
+[14:40] Chị cho em hỏi về ngân sách dự kiến cho tất cả những thay đổi này là khoảng bao nhiêu ạ để em còn tính toán?
+[14:42] Tổng chi phí phúc lợi không được vượt quá 10% quỹ lương hiện tại. Em tự cân đối giữa các hạng mục nhé. Cái nào thực sự cần thiết và mang lại hiệu quả giữ chân nhân sự cao nhất thì ưu tiên.
+[14:44] Dạ vâng, em rõ rồi. Em sẽ gửi bản kế hoạch chi tiết vào thứ Sáu tuần này.
+[14:46] Cố gắng làm cho khéo, đừng để nhân viên thấy mình tăng cái này mà cắt cái kia của họ nhé. Phúc lợi là phải mang tính chất cộng thêm.
+[14:48] Vâng chị yên tâm.
+[14:50] OK, tan họp. Cảm ơn mọi người.
+
+<|output|>
+# Cải thiện chính sách phúc lợi và chế độ đãi ngộ nhân viên năm 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân tỉ lệ nhân viên nghỉ việc tăng cao và tìm giải pháp giữ chân nhân tài.
+- Thảo luận và thống nhất các hạng mục phúc lợi mới nhằm tăng tính cạnh tranh của công ty trên thị trường lao động.
+- Cân đối ngân sách phúc lợi để đảm bảo hài hòa giữa lợi ích nhân viên và chi phí vận hành doanh nghiệp.
+
+### 2. Các vấn đề đã thảo luận
+- Tỉ lệ nghỉ việc ở khối Tech và Kinh doanh tăng do phúc lợi chưa hấp dẫn bằng các đối thủ.
+- Nhu cầu về bảo hiểm sức khỏe cao cấp (PVI/Bảo Việt) cho nhân viên và hỗ trợ cho người thân.
+- Xu hướng làm việc linh hoạt (Work from home) để giảm stress và tăng năng suất.
+- Cải thiện không gian làm việc (Pantry) và các hoạt động chăm sóc sức khỏe tinh thần.
+- Thay đổi hình thức thưởng sinh nhật và quà Tết để thiết thực hơn với nhu cầu nhân viên.
+
+### 3. Kết luận và quyết định
+- Triển khai gói bảo hiểm sức khỏe tư nhân phân cấp theo thâm niên (ưu tiên nhân viên trên 2 năm).
+- Thử nghiệm chính sách làm việc từ xa (WFH) 4 ngày/tháng cho toàn bộ nhân viên trong 3 tháng.
+- Cải tạo khu vực Pantry thành không gian thư giãn với đồ ăn nhẹ và cà phê miễn phí.
+- Tăng tiền thưởng sinh nhật lên 1.000.000 VNĐ và tặng thêm 01 ngày nghỉ hưởng lương cho nhân viên trong ngày sinh nhật.
+- Chuyển đổi quà Tết từ hiện vật sang voucher mua sắm điện tử hoặc tiền mặt.
+- Tổng ngân sách phúc lợi mới không vượt quá 10% quỹ lương.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ lấy báo giá các gói bảo hiểm sức khỏe phân cấp | Lan | 25/11/2024 |
+| Soạn thảo quy định thử nghiệm chính sách WFH | Nam | 22/11/2024 |
+| Lên bản vẽ và dự toán cải tạo khu vực Pantry | Phòng Hành chính | 10/12/2024 |
+| Cập nhật quy chế thưởng sinh nhật và ngày nghỉ lễ | Lan | 01/12/2024 |
+| Tổng hợp bảng dự toán ngân sách phúc lợi năm 2025 | Lan | 20/12/2024 |
+| Khảo sát ý kiến nhân viên về hình thức quà Tết | Nam | 30/11/2024 |
+| Báo cáo kết quả thử nghiệm WFH sau tháng đầu tiên | Quản lý các bộ phận | 05/01/2025 |
+| Tổ chức buổi nói chuyện về sức khỏe tinh thần | Phòng HR | 15/12/2024 |
+| Làm việc với nhà cung cấp voucher Shopee/Tiki | Lan | 15/12/2024 |
+| Hoàn thiện báo cáo trình Ban giám đốc phê duyệt | Trưởng phòng HR | 25/12/2024 |

@@ -1,0 +1,55 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào mọi người, hôm nay chúng ta họp để chốt kế hoạch mở bán phân khu "The Flora" thuộc dự án Green City. Đây là phân khu đẹp nhất dự án với view sông và mật độ cây xanh cao, nên tôi kỳ vọng sẽ tạo được cú hích cho thị trường cuối năm.
+[09:02] Dạ sếp, hiện tại hạ tầng của phân khu The Flora đã hoàn thiện được 90% rồi. Đường nội khu đã trải nhựa, hệ thống chiếu sáng và công viên cảnh quan đang trong giai đoạn dọn dẹp cuối cùng. Dự kiến đầu tháng sau là có thể cho khách vào tham quan thực tế.
+[09:04] Tốt, hạ tầng xong sớm là một lợi thế lớn để chốt cọc. Còn về rổ hàng thì sao? Lan báo cáo tình hình booking đợt 1 xem?
+[09:06] Báo cáo anh, hiện tại lượng giữ chỗ không thưởng (booking) đã đạt gấp 3 lần số lượng căn hộ mở bán đợt này. Khách hàng quan tâm chủ yếu là các căn 2 phòng ngủ và shophouse khối đế.
+[09:08] Gấp 3 lần à? Vậy thì mình phải xem xét lại mức giá trần. Tôi thấy mức giá dự kiến 60 triệu/m2 có vẻ hơi thấp so với tiềm năng của phân khu này. Mọi người nghĩ sao nếu mình tăng lên 65 triệu?
+[09:10] Em thấy 65 triệu thì hơi mạo hiểm anh ạ. Dù booking nhiều nhưng đa số là khách đầu tư, họ rất nhạy cảm về giá. Hơn nữa, ngân hàng vừa rồi lại tăng lãi suất cho vay mua nhà, khách hàng sẽ đắn đo hơn khi giải ngân.
+[09:12] Đúng đấy sếp. Nếu mình đẩy giá lên quá cao thì tỷ lệ chuyển đổi từ booking sang cọc chính thức sẽ thấp. Thay vì tăng giá trực tiếp, mình nên giữ giá 62-63 triệu nhưng áp dụng chính sách thanh toán giãn cách hoặc hỗ trợ lãi suất 0% trong 24 tháng.
+[09:14] Chính sách hỗ trợ lãi suất thì mình phải làm việc chặt chẽ với phía ngân hàng đối tác. Đợt này ngân hàng nào đứng ra bảo lãnh và cho vay cho phân khu The Flora vậy em?
+[09:16] Dạ là Techcombank và Vietcombank anh ạ. Họ đồng ý cho vay lên tới 70% giá trị căn hộ, thời hạn 35 năm. Tuy nhiên, họ yêu cầu mình phải ký quỹ một khoản khá lớn để đảm bảo việc hỗ trợ lãi suất.
+
+<|output|>
+# Kế hoạch mở bán phân khu "The Flora" - Dự án Green City
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tiến độ hoàn thiện hạ tầng và chuẩn bị rổ hàng cho phân khu The Flora.
+- Thống nhất mức giá bán chính thức và các chính sách hỗ trợ tài chính để kích cầu.
+
+### 2. Các vấn đề đã thảo luận
+- Hạ tầng đạt 90% tiến độ, sẵn sàng cho khách tham quan vào tháng sau.
+- Lượng booking đang gấp 3 lần số lượng mở bán, phản ánh sức nóng của thị trường.
+- Tranh luận về giá bán: Tăng lên 65 triệu/m2 hay giữ ở mức 62-63 triệu/m2 kèm chính sách hỗ trợ.
+- Ngân hàng Techcombank và Vietcombank hỗ trợ vay 70%, thời hạn 35 năm.
+
+### 3. Kết luận và quyết định
+- Chốt giá bán chính thức ở mức 62-63 triệu/m2 để đảm bảo tỷ lệ chuyển đổi cao.
+- Áp dụng chính sách hỗ trợ lãi suất 0% trong 24 tháng và giãn tiến độ thanh toán.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hạ tầng cảnh quan và dọn dẹp vệ sinh | Ban Quản lý dự án | 01/12/2024 |
+| Làm việc với ngân hàng chốt văn bản hỗ trợ lãi suất | Team Tài chính | 25/11/2024 |
+| Lập danh sách khách hàng booking chính thức | Team Admin Sales | 12/12/2024 |
