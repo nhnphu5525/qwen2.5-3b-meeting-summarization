@@ -1,0 +1,44 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00] Chào bác sĩ Hùng, bác sĩ Lan và bộ phận IT. Hôm nay chúng ta họp bàn về lộ trình triển khai hệ thống Bệnh án điện tử (EMR) cho toàn bệnh viện.
+[10:02] Việc này là bắt buộc theo quy định của Bộ Y tế, nhưng tôi lo ngại các bác sĩ lớn tuổi sẽ gặp khó khăn khi thao tác trên máy tính thay vì viết tay như trước.
+[10:04] Tôi đồng ý. Hiện tại một ca khám bệnh chỉ có 15 phút, nếu nhập liệu quá chậm sẽ gây ùn tắc ở phòng chờ.
+[10:06] Chúng tôi đã thiết kế các form nhập liệu thông minh, có sẵn các mẫu chẩn đoán và đơn thuốc phổ biến để bác sĩ chỉ cần chọn thay vì gõ văn bản.
+
+<|output|>
+# Triển khai hệ thống Bệnh án điện tử (EMR) tại bệnh viện
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận lộ trình triển khai hệ thống Bệnh án điện tử (EMR) theo quy định của Bộ Y tế.
+- Giải quyết các khó khăn về thao tác kỹ thuật và tốc độ nhập liệu của đội ngũ y bác sĩ.
+
+### 2. Các vấn đề đã thảo luận
+- Lo ngại về tốc độ nhập liệu và sự thay đổi thói quen từ viết tay sang máy tính của các bác sĩ.
+- Đề xuất sử dụng các biểu mẫu thông minh và mẫu chẩn đoán có sẵn để tối ưu thời gian.
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện các mẫu chẩn đoán và đơn thuốc | BS Hùng, BS Lan | 26/03 |
