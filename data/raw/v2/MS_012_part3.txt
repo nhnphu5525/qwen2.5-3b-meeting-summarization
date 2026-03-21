@@ -1,0 +1,60 @@
+<|input|>
+# Công tác chuẩn bị thi học kỳ và tư vấn hướng nghiệp khối 12
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất phương án ra đề thi học kỳ và tổ chức thi thử cho học sinh.
+- Cập nhật các phương thức xét tuyển đại học mới nhất.
+- Triển khai hoạt động tư vấn hướng nghiệp chuyên sâu cho học sinh cuối cấp.
+
+### 2. Các vấn đề đã thảo luận
+- Yêu cầu ra đề thi bám sát cấu trúc của Bộ Giáo dục và tổ chức thi thử để rèn luyện kỹ năng cho học sinh.
+- Sự thay đổi trong phương thức xét tuyển đại học (ưu tiên đánh giá năng lực).
+- Đề xuất tổ chức buổi trắc nghiệm tâm lý Holland và mời chuyên gia tư vấn về trường.
+
+### 3. Kết luận và quyết định
+- Tổ chức thi thử lần 1 vào tuần sau.
+- Tổ chức buổi tư vấn hướng nghiệp tập trung vào Chủ nhật tới.
+- Áp dụng các công cụ trắc nghiệm tâm lý để hỗ trợ học sinh chọn ngành.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện ngân hàng câu hỏi thi học kỳ | Các Tổ chuyên môn | 22/03/2026 |
+| Liên hệ mời chuyên gia tư vấn hướng nghiệp | Ban Giám hiệu | 20/03/2026 |
+| Chuẩn bị cơ sở vật chất cho kỳ thi thử | Tổ Hành chính | 23/03/2026 |
+| Gửi thông báo cho phụ huynh về buổi tư vấn | Giáo viên chủ nhiệm | 19/03/2026 |
+[14:16] Thầy Nam liên hệ với bên công ty hướng nghiệp để xin bản quyền bộ test này nhé.
+[14:18] Dạ, để em hỏi lại bên đó xem họ có hỗ trợ miễn phí cho trường mình không.
+
+<|output|>
+# Công tác chuẩn bị thi học kỳ và tư vấn hướng nghiệp khối 12
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất phương án ra đề thi học kỳ và tổ chức thi thử cho học sinh.
+- Cập nhật các phương thức xét tuyển đại học mới nhất.
+- Triển khai hoạt động tư vấn hướng nghiệp chuyên sâu cho học sinh cuối cấp.
+
+### 2. Các vấn đề đã thảo luận
+- Yêu cầu ra đề thi bám sát cấu trúc của Bộ Giáo dục và tổ chức thi thử để rèn luyện kỹ năng cho học sinh.
+- Sự thay đổi trong phương thức xét tuyển đại học (ưu tiên đánh giá năng lực).
+- Đề xuất tổ chức buổi trắc nghiệm tâm lý Holland và mời chuyên gia tư vấn về trường.
+
+### 3. Kết luận và quyết định
+- Tổ chức thi thử lần 1 vào tuần sau.
+- Tổ chức buổi tư vấn hướng nghiệp tập trung vào Chủ nhật tới.
+- Áp dụng các công cụ trắc nghiệm tâm lý để hỗ trợ học sinh chọn ngành.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện ngân hàng câu hỏi thi học kỳ | Các Tổ chuyên môn | 22/03/2026 |
+| Liên hệ mời chuyên gia tư vấn hướng nghiệp | Ban Giám hiệu | 20/03/2026 |
+| Đăng ký bản quyền bộ test Holland | Thầy Nam | 21/03/2026 |
+| Chuẩn bị cơ sở vật chất cho kỳ thi thử | Tổ Hành chính | 23/03/2026 |
+| Gửi thông báo cho phụ huynh về buổi tư vấn | Giáo viên chủ nhiệm | 19/03/2026 |

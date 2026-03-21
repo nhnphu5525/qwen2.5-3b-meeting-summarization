@@ -1,0 +1,40 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[14:00] Chào các thầy cô, hôm nay chúng ta bàn về việc chuẩn bị cho kỳ thi học kỳ sắp tới và công tác tư vấn hướng nghiệp cho học sinh khối 12.
+[14:02] Về đề thi, đề nghị các tổ chuyên môn bám sát ma trận đề thi của Bộ Giáo dục, tránh ra đề quá khó hoặc quá đánh đố học sinh.
+[14:04] Chúng em đã hoàn thành 80% ngân hàng câu hỏi, dự kiến tuần sau sẽ cho học sinh thi thử lần 1.
+[14:06] Việc thi thử là cần thiết để các em làm quen với áp lực phòng thi và cách tô phiếu trả lời trắc nghiệm.
+
+<|output|>
+# Công tác chuẩn bị thi học kỳ và tư vấn hướng nghiệp khối 12
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất phương án ra đề thi học kỳ và tổ chức thi thử cho học sinh.
+
+### 2. Các vấn đề đã thảo luận
+- Yêu cầu ra đề thi bám sát cấu trúc của Bộ Giáo dục và tổ chức thi thử để rèn luyện kỹ năng cho học sinh.
+
+### 3. Kết luận và quyết định
+- Tổ chức thi thử lần 1 vào tuần sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện ngân hàng câu hỏi thi học kỳ | Các Tổ chuyên môn | 22/03/2026 |
+| Chuẩn bị cơ sở vật chất cho kỳ thi thử | Tổ Hành chính | 23/03/2026 |
