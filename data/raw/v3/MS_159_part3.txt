@@ -1,0 +1,67 @@
+<|input|>
+# Xây dựng bộ chỉ số KPI cho toàn công ty
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai kế hoạch xây dựng và áp dụng bộ chỉ số đánh giá hiệu quả công việc (KPI) cho toàn bộ nhân viên công ty.
+- Khắc phục tình trạng đánh giá cảm tính, thiếu minh bạch trong công tác khen thưởng và thúc đẩy động lực làm việc.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Đánh giá nhân viên hiện tại còn mang tính chủ quan của quản lý trực tiếp, dẫn đến sự bất mãn và thiếu công bằng.
+- Nguyên tắc xây dựng: KPI phải định lượng được bằng số liệu thực tế, lấy trực tiếp từ các hệ thống quản trị (CRM, ERP, phần mềm chuyên dụng) để đảm bảo tính khách quan.
+- Phân cấp KPI: Chia làm 3 cấp (Công ty, Phòng ban, Cá nhân) với các trọng số (Weight) khác nhau tùy theo mức độ quan trọng của chỉ số.
+- Chỉ số đánh giá: Kết hợp giữa kết quả cuối cùng (Lagging) và các hoạt động dẫn dắt (Leading). Đối với khối hỗ trợ (Back office), cần xác định rõ sản phẩm đầu ra (output) để thiết lập chỉ số phù hợp.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng hệ thống KPI toàn diện và tự động hóa khâu tính toán, báo cáo qua Dashboard.
+- Phân công phòng Nhân sự làm đầu mối xây dựng bộ chỉ số và phối hợp với các Trưởng phòng ban để chốt chỉ số cụ thể.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo danh sách chỉ số KPI dự kiến cho từng phòng ban | Lan (HR) | 25/10/2023 |
+| Thiết kế biểu mẫu đánh giá và xây dựng Dashboard theo dõi KPI | Phương (IT/Data) | 30/10/2023 |
+| Làm việc với các Trưởng phòng để thống nhất chỉ số và trọng số | Lan & Anh Long | 10/11/2023 |
+| Lên kế hoạch truyền thông nội bộ và nội dung workshop | Bộ phận HR | 05/11/2023 |
+[10:19:45] Dạ vầy nè, em đề xuất mình làm thí điểm cho 2 bộ phận trước là Sale với Sản xuất trong quý 1 đi anh. Vừa làm vừa rút kinh nghiệm rồi mới áp dụng đại trà cho toàn công ty từ quý 2. Chứ làm một lèo hết cả mấy trăm người là rối lắm.
+[10:21:10] Anh thấy phương án thí điểm của Lan là hợp lý nè. Mà mình cũng phải truyền thông cho kỹ nha. Đừng để anh em hiểu lầm là công ty dùng KPI để "ép" hay để cắt giảm lương thưởng. Phải giải thích cho họ hiểu là KPI giúp họ biết mình cần làm gì để thành công và giúp công ty trả thưởng công bằng hơn.
+[10:22:35] Dạ đúng, cái vụ tư tưởng là quan trọng nhất. Để em chuẩn bị một chuỗi bài viết trên nhóm nội bộ và tổ chức mấy buổi workshop giải thích về KPI cho anh em. Mình phải cho họ thấy là làm tốt KPI thì thu nhập của họ sẽ tăng xứng đáng.
+[10:24:00] À, còn một cái nữa anh muốn nhắc. KPI không phải là "bất di bất dịch" nha. Trong quá trình làm, nếu thị trường thay đổi hay chiến lược công ty thay đổi thì mình cũng phải linh hoạt điều chỉnh KPI cho nó phù hợp thực tế. Đừng có cứng nhắc quá mà giết chết sự sáng tạo.
+[10:25:25] Dạ em ghi nhận ý này của anh. Vậy giờ em sẽ lên danh sách các chỉ số dự kiến cho từng phòng ban nha. Sau đó em sẽ ngồi lại với từng Trưởng phòng để thống nhất bộ chỉ số cụ thể và trọng số cho từng món.
+[10:26:50] Ừ, Lan làm vụ đó đi. Phương hỗ trợ Lan vụ xây dựng các biểu mẫu đánh giá và hướng dẫn cách tính toán số liệu trên Excel hoặc phần mềm nha. Anh muốn mọi thứ phải tự động hóa tối đa, chứ cuối tháng mà Nhân sự ngồi bấm máy tính tay cho cả công ty là xỉu luôn đó.
+
+<|output|>
+# Xây dựng bộ chỉ số KPI cho toàn công ty
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai kế hoạch xây dựng và áp dụng bộ chỉ số đánh giá hiệu quả công việc (KPI) cho toàn bộ nhân viên công ty.
+- Khắc phục tình trạng đánh giá cảm tính, thiếu minh bạch trong công tác khen thưởng và thúc đẩy động lực làm việc.
+- Đảm bảo sự thống nhất giữa mục tiêu cá nhân, mục tiêu phòng ban và mục tiêu chiến lược của công ty.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Đánh giá nhân viên hiện tại còn mang tính chủ quan của quản lý trực tiếp, dẫn đến sự bất mãn và thiếu công bằng.
+- Nguyên tắc xây dựng: KPI phải định lượng được bằng số liệu thực tế, lấy trực tiếp từ các hệ thống quản trị (CRM, ERP, phần mềm chuyên dụng) để đảm bảo tính khách quan.
+- Phân cấp KPI: Chia làm 3 cấp (Công ty, Phòng ban, Cá nhân) với các trọng số (Weight) khác nhau tùy theo mức độ quan trọng của chỉ số.
+- Chỉ số đánh giá: Kết hợp giữa kết quả cuối cùng (Lagging) và các hoạt động dẫn dắt (Leading). Đối với khối hỗ trợ (Back office), cần xác định rõ sản phẩm đầu ra (output) để thiết lập chỉ số phù hợp.
+- Quy trình đánh giá: Áp dụng đánh giá 360 độ bao gồm tự đánh giá, đồng nghiệp đánh giá và quản lý đánh giá dựa trên bộ KPI đã chốt.
+- Lộ trình triển khai: Thí điểm tại bộ phận Kinh doanh và Sản xuất trong Quý 1 trước khi áp dụng đại trà từ Quý 2.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng hệ thống KPI toàn diện và tự động hóa khâu tính toán, báo cáo qua Dashboard.
+- Phân công phòng Nhân sự làm đầu mối xây dựng bộ chỉ số và phối hợp với các Trưởng phòng ban để chốt chỉ số cụ thể.
+- Yêu cầu xây dựng các kịch bản truyền thông và tổ chức workshop đào tạo về KPI cho nhân viên.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo danh sách chỉ số KPI dự kiến cho từng phòng ban | Lan (HR) | 25/10/2023 |
+| Thiết kế biểu mẫu đánh giá và xây dựng Dashboard theo dõi KPI | Phương (IT/Data) | 30/10/2023 |
+| Làm việc với các Trưởng phòng để thống nhất chỉ số và trọng số | Lan & Anh Long | 10/11/2023 |
+| Lên kế hoạch truyền thông nội bộ và nội dung workshop | Bộ phận HR | 05/11/2023 |
+| Hoàn thiện quy chế lương thưởng mới dựa trên kết quả KPI | Anh Long | 20/11/2023 |
+| Chạy thí điểm tại bộ phận Kinh doanh và Sản xuất | Toàn bộ các bộ phận liên quan | 01/01/2024 |

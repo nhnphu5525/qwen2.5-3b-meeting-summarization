@@ -1,0 +1,69 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Mua sắm Thiết bị Y tế
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho bảo trì thiết bị
+- Thiếu dữ liệu để đánh giá tiêu chuẩn y tế
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hợp đồng thầu
+- Phê duyệt ngân sách bổ sung cho tiêu chuẩn y tế
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ bảo trì thiết bị | Bộ phận Tài chính | 01/05/2026 |
+| Họp nhóm để bàn sâu về hợp đồng thầu | Bộ phận Tài chính | 23/01/2026 |
+
+[09:58] Thế còn ngân sách cho hợp đồng thầu thì sao hả mọi người?
+[09:15] Thôi được rồi, vậy thống nhất là làm ngân sách bệnh viện theo cách đó.
+[09:16] Ý tôi là Cảm ơn mọi người, buổi họp về Mua sắm Thiết bị Y tế hôm nay rất chất lượng.
+[10:04] Cần phải làm rõ thêm các chi tiết liên quan đến máy chụp X-quang.
+[09:18] Chào cả nhà, chúng ta bắt đầu bàn về máy chụp X-quang nhé.
+[10:08] Tóm lại là Cảm ơn mọi người, buổi họp về Mua sắm Thiết bị Y tế hôm nay rất chất lượng.
+[09:20] Tôi đề xuất mình sẽ tập trung nguồn lực vào tiêu chuẩn y tế trong tuần này.
+[09:21] Để tôi check lại với bên bảo trì thiết bị xem tình hình thế nào nhé.
+[10:14] Chắc là Cái hợp đồng thầu này hình như đang bị vướng chỗ nào đó đúng không?
+[10:16] Cảm ơn mọi người, buổi họp về Mua sắm Thiết bị Y tế hôm nay rất chất lượng.
+[10:18] Có ai phụ trách chính cho mảng máy chụp X-quang chưa nhỉ?
+[09:25] Để tôi check lại với bên vật tư tiêu hao xem tình hình thế nào nhé.
+[09:26] Ờm, cái hợp đồng thầu này thực ra là một vấn đề khá nan giải.
+[09:27] Ờm Ờm, cái máy chụp X-quang này thực ra là một vấn đề khá nan giải.
+[10:26] Chắc là Chào cả nhà, chúng ta bắt đầu bàn về vật tư tiêu hao nhé.
+[09:29] Thế còn ngân sách cho ngân sách bệnh viện thì sao hả mọi người?
+[10:30] Đừng quên là tiêu chuẩn y tế cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:31] Nói chung là Chào cả nhà, chúng ta bắt đầu bàn về tiêu chuẩn y tế nhé.
+[10:34] Ờm Chào cả nhà, chúng ta bắt đầu bàn về hợp đồng thầu nhé.
+[10:36] Nói chung là mình phải chốt phương án cho tiêu chuẩn y tế ngay trong hôm nay.
+[10:38] Tôi nghĩ là mình nên xem xét lại cái tiêu chuẩn y tế này một chút.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Mua sắm Thiết bị Y tế
+- Giải quyết các vấn đề về vật tư tiêu hao
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho bảo trì thiết bị
+- Thiếu dữ liệu để đánh giá tiêu chuẩn y tế
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hợp đồng thầu
+- Phê duyệt ngân sách bổ sung cho tiêu chuẩn y tế
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ bảo trì thiết bị | Bộ phận Tài chính | 01/05/2026 |
+| Họp nhóm để bàn sâu về hợp đồng thầu | Bộ phận Tài chính | 23/01/2026 |
+| Gửi email xác nhận với đối tác về hợp đồng thầu | Bộ phận Tài chính | 02/11/2026 |

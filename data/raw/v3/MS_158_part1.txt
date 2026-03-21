@@ -1,0 +1,50 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00:10] Chào team Marketing nha. Hôm nay mình ngồi lại để chốt cái danh sách Influencer cho chiến dịch ra mắt dòng mỹ phẩm thuần chay mới của mình nè. Cái trend này đang hot, mình phải làm cho tới mới ăn thua được.
+[14:01:25] Dạ đúng rồi chị Vy, em thấy dạo này mấy bạn trẻ chuộng đồ thuần chay (vegan) dữ lắm. Em có lọc ra một danh sách khoảng 20 bạn, từ Mega cho đến Micro Influencer luôn. Chị xem qua cái file em mới share nha.
+[14:02:40] Anh thấy trong danh sách này có mấy bạn Beauty Blogger nổi tiếng nè, nhưng mà hình như giá "book" mấy bạn này chát quá Vy ơi. Một post Instagram mà đòi cả trăm triệu thì có vẻ hơi quá sức với ngân sách đợt này của mình.
+[14:04:05] Dạ vầy nè anh, em đề xuất mình không nên đánh quá mạnh vào Mega. Thay vào đó, mình tập trung vào dàn Micro Influencer và KOC (Key Opinion Consumer) á. Mấy bạn này tuy lượng follow không khủng bằng nhưng tỉ lệ tương tác và độ tin tưởng của fan lại cao hơn nhiều.
+[14:05:30] Ý của Linh hay đó. Vy cũng đang nghĩ vậy nè. Mình chọn khoảng 2-3 bạn tầm trung (Macro) để làm gương mặt đại diện chính, còn lại mình đổ ngân sách cho khoảng 30-50 bạn KOC để tạo hiệu ứng "phủ sóng" trên khắp các mặt trận TikTok với Facebook.
+[14:06:55] Em thấy bạn "An Nhiên Beauty" này hợp nè chị. Bạn này chuyên review mỹ phẩm thiên nhiên, phong cách nhẹ nhàng, mộc mạc đúng chất thuần chay của mình luôn. Follower của bạn này cũng toàn là những người quan tâm đến lối sống xanh.
+[14:08:20] Ừ, "An Nhiên Beauty" duyệt nha. Còn mấy bạn TikToker thì sao? Anh thấy dạo này mấy bạn hay làm clip biến hình hay là review thực tế (get ready with me) thu hút view kinh khủng. Mình có nên yêu cầu các bạn làm theo hướng đó không?
+
+<|output|>
+# Hợp tác Influencer quảng bá mỹ phẩm mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất chiến lược hợp tác với Influencer để ra mắt dòng mỹ phẩm thuần chay (Vegan Cosmetics).
+
+### 2. Các vấn đề đã thảo luận
+- Đối tượng Influencer: Ưu tiên dàn Micro Influencer và KOC thay vì quá tập trung vào Mega Influencer để tối ưu chi phí và tăng độ tin cậy.
+- Tiêu chí lựa chọn: Phải có phong cách sống xanh, mộc mạc, quan tâm đến môi trường và có tệp khán giả phù hợp với sản phẩm.
+- Hình thức triển khai: Gửi Seed box trải nghiệm thực tế trước khi ký hợp đồng; khuyến khích sáng tạo nội dung chân thực (GRWM, vlog trải nghiệm).
+
+### 3. Kết luận và quyết định
+- Chốt phương án kết hợp giữa Macro Influencer (làm đại diện) và Micro Influencer/KOC (phủ sóng).
+- Duyệt kế hoạch tổ chức workshop trải nghiệm tại Quận 2 hoặc Quận 7.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ, check lịch và xin báo giá từ các Influencer trong danh sách | Linh (Marketing) | 16/10/2023 |
+| Khảo sát địa điểm tổ chức workshop và báo giá dịch vụ | Anh Nam | 18/10/2023 |

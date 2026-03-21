@@ -1,0 +1,58 @@
+<|input|>
+# Review tiến độ nâng cấp bảo mật hệ thống thanh toán
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tiến độ dự án nâng cấp bảo mật Gateway 2.0 sau đợt kiểm toán (Audit).
+
+### 2. Các vấn đề đã thảo luận
+- Mã hóa dữ liệu: Đã hoàn thành 70% việc chuyển đổi từ RSA sang AES-256 kết hợp chuẩn PCI-DSS.
+- Khó khăn tích hợp: 3 ngân hàng đối tác chưa hỗ trợ chuẩn AES mới, cần giải pháp duy trì song song (dual-stack) kèm bảo vệ bằng WAF.
+
+### 3. Kết luận và quyết định
+- Duy trì chuẩn mã hóa cũ cho 3 ngân hàng đối tác trong tối đa 6 tháng, yêu cầu ký cam kết lộ trình nâng cấp.
+- Áp dụng cơ chế xác thực linh hoạt cho MFA tùy theo khả năng của thiết bị người dùng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện backend và cơ chế dual-stack | Tuấn - Security Lead | 18/06/2024 |
+| Làm việc với 3 ngân hàng về lộ trình nâng cấp | Hương - Project Manager | 20/06/2024 |
+[14:15:45] Dạ em ghi nhận ạ. Còn một vấn đề nữa là vụ xác thực đa yếu tố (MFA) cho người dùng cuối. Tuấn dự kiến khi nào thì mình roll-out cái này lên production được?
+[14:18:00] Phần MFA thì team Dev đã xong code cho OTP qua SMS và Email rồi anh. Nhưng em đang muốn đẩy mạnh cái FIDO2 để dùng sinh trắc học (vân tay, khuôn mặt) cho nó bảo mật hơn. Khổ nỗi là test trên mấy dòng điện thoại Android đời cũ nó cứ bị crash hoài.
+[14:20:15] Crash hả? Tuấn coi có thể fallback về phương thức khác nếu thiết bị không hỗ trợ không? Mình không thể vì mấy cái máy cũ mà làm chậm tiến độ chung được. Sếp tổng đang hối tháng sau phải xong để còn chạy chiến dịch khuyến mãi lớn nhất năm đó.
+[14:22:30] Dạ em đang cho team viết lại đoạn check device capability. Nếu máy nào không có sinh trắc học hoặc version OS thấp quá thì mình tự động chuyển sang OTP truyền thống. Hương ơi, em nhắc team QA test kỹ chỗ này trên nhiều dòng máy giúp anh nha.
+[14:24:45] Ok anh Tuấn. Em đã lên plan test cho tuần tới rồi. Tiện thể anh Quốc ơi, ngân sách cho đợt nâng cấp server HSM (Hardware Security Module) đợt này Nam bên Tài chính bảo đang chờ anh ký duyệt lần cuối đó. Không có cái HSM mới này thì tốc độ xử lý mã hóa AES-256 sẽ bị chậm đáng kể khi traffic tăng cao đó anh.
+[14:27:00] Ờ, cái HSM đó anh duyệt rồi. Chắc chiều nay hoặc sáng mai là bên văn phòng gạch tên cho thôi. Tuấn nhớ liên hệ bên vendor để họ chuẩn bị hàng, ký hợp đồng xong là ship hỏa tốc về lắp đặt luôn nhé.
+[14:29:15] Dạ vâng anh. Có HSM mới thì em tự tin hệ thống mình sẽ chịu được mức tải gấp 5 lần hiện tại mà vẫn đảm bảo an toàn tuyệt đối. À, còn cái vụ logging với monitoring, em định dùng thêm giải pháp SIEM của Splunk để phát hiện tấn công realtime, anh thấy sao?
+
+<|output|>
+# Review tiến độ nâng cấp bảo mật hệ thống thanh toán
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tiến độ dự án nâng cấp bảo mật Gateway 2.0 sau đợt kiểm toán (Audit).
+- Giải quyết các vướng mắc về tích hợp với ngân hàng đối tác và lỗi kỹ thuật trong triển khai MFA.
+
+### 2. Các vấn đề đã thảo luận
+- Mã hóa dữ liệu: Đã hoàn thành 70% việc chuyển đổi từ RSA sang AES-256 kết hợp chuẩn PCI-DSS.
+- Khó khăn tích hợp: 3 ngân hàng đối tác chưa hỗ trợ chuẩn AES mới, cần giải pháp duy trì song song (dual-stack) kèm bảo vệ bằng WAF.
+- Xác thực đa yếu tố (MFA): Gặp lỗi crash trên các thiết bị Android cũ khi dùng FIDO2 sinh trắc học; giải pháp là xây dựng cơ chế fallback về OTP truyền thống.
+- Hạ tầng: Chờ ký duyệt mua server HSM mới để đảm bảo tốc độ xử lý mã hóa.
+
+### 3. Kết luận và quyết định
+- Duy trì chuẩn mã hóa cũ cho 3 ngân hàng đối tác trong tối đa 6 tháng, yêu cầu ký cam kết lộ trình nâng cấp.
+- Áp dụng cơ chế xác thực linh hoạt cho MFA tùy theo khả năng của thiết bị người dùng.
+- Duyệt mua HSM hỏa tốc để kịp tiến độ vận hành.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện backend và cơ chế dual-stack | Tuấn - Security Lead | 18/06/2024 |
+| Làm việc với 3 ngân hàng về lộ trình nâng cấp | Hương - Project Manager | 20/06/2024 |
+| Sửa lỗi MFA và xây dựng logic fallback | Team Dev | 16/06/2024 |
+| Thực hiện kiểm thử (QA) hệ thống MFA mới | Hương - Project Manager | 25/06/2024 |

@@ -1,0 +1,74 @@
+<|input|>
+# Xây dựng và Lan tỏa Văn hóa Doanh nghiệp trong Kỷ nguyên số
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hình các giá trị cốt lõi của công ty trong giai đoạn chuyển đổi số và phát triển bền vững.
+- Đề xuất các giải pháp thực tiễn để đưa văn hóa doanh nghiệp vào đời sống hàng ngày của nhân viên.
+
+### 2. Các vấn đề đã thảo luận
+- Giá trị cốt lõi: Nhấn mạnh tinh thần học tập suốt đời, đổi mới sáng tạo, minh bạch và trách nhiệm cá nhân.
+- Quản trị mục tiêu: Áp dụng OKR để đảm bảo sự minh bạch trong đánh giá và gắn kết nỗ lực cá nhân với mục tiêu chung của tập đoàn.
+- Truyền thông nội bộ: Tổ chức các buổi đối thoại định kỳ (Town Hall) và ứng dụng khen thưởng (Kudos) giữa đồng nghiệp.
+- Đào tạo và Phát triển: Xây dựng hệ thống E-learning và chính sách hỗ trợ 100% học phí cho các chứng chỉ quốc tế.
+- Chế độ làm việc: Đề xuất áp dụng thời gian làm việc linh hoạt (Flexible hours) để nâng cao chỉ số hạnh phúc của nhân viên.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng văn hóa doanh nghiệp dựa trên 4 trụ cột: Học tập - Sáng tạo - Minh bạch - Trách nhiệm.
+- Triển khai thí điểm hệ thống OKR tại bộ phận Kinh doanh và IT trước khi nhân rộng toàn công ty.
+- Ban hành chính sách hỗ trợ đào tạo chuyên môn và khuyến khích học tập qua nền tảng số.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật Nội quy lao động và Thỏa ước lao động | Chị Lan (HR) & Anh Tú | 15/04/2025 |
+| Xây dựng và hướng dẫn triển khai OKR thí điểm | Anh Mạnh (Kinh doanh) | 30/03/2025 |
+| Lên kế hoạch tổ chức Town Hall Meeting đầu tiên | Chị Phương (Truyền thông) | 05/04/2025 |
+| Hoàn thiện hạ tầng E-learning và thư viện số | Anh Sơn (IT) | 10/04/2025 |
+| Xây dựng dự toán ngân sách đào tạo và team-building | Chị Hồng (Tài chính) | 02/04/2025 |
+| Thiết kế quy trình sử dụng app Kudos nội bộ | Chị Phương (Truyền thông) | 08/04/2025 |
+
+[09:40] Chào anh Vinh, tôi là Tú bên bộ phận Pháp chế. Chúng ta cần cập nhật lại Nội quy lao động và Thỏa ước lao động tập thể để đưa các giá trị văn hóa và chính sách mới này vào khung pháp lý của công ty. Việc này giúp bảo vệ quyền lợi cho cả công ty và người lao động. Chào Lan, chị phối hợp với em để hoàn thiện các văn bản này nhé.
+[09:45] Vâng thưa anh Vinh, thưa cả team. Vậy kế hoạch của chúng ta là: Lan và Tú cập nhật nội quy; Mạnh triển khai OKR thí điểm; Phương lên kế hoạch Town Hall và app Kudos; Sơn hoàn thiện hệ thống E-learning; Hồng dự toán ngân sách đào tạo và team-building.
+[09:50] Chào mọi người, văn hóa là linh hồn của doanh nghiệp. Tôi hy vọng mỗi chúng ta sẽ là một sứ giả lan tỏa những giá trị tốt đẹp này. Buổi họp hôm nay rất chất lượng, cảm ơn sự đóng góp của tất cả các anh chị.
+[09:55] Chào tạm biệt mọi người. Chúc cả nhà một ngày làm việc tràn đầy cảm hứng.
+
+<|output|>
+# Xây dựng và Lan tỏa Văn hóa Doanh nghiệp trong Kỷ nguyên số
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hình các giá trị cốt lõi của công ty trong giai đoạn chuyển đổi số và phát triển bền vững.
+- Đề xuất các giải pháp thực tiễn để đưa văn hóa doanh nghiệp vào đời sống hàng ngày của nhân viên.
+- Thống nhất các chính sách về đào tạo, chế độ làm việc linh hoạt và hệ thống đánh giá hiệu quả.
+
+### 2. Các vấn đề đã thảo luận
+- Giá trị cốt lõi: Nhấn mạnh tinh thần học tập suốt đời, đổi mới sáng tạo, minh bạch và trách nhiệm cá nhân.
+- Quản trị mục tiêu: Áp dụng OKR để đảm bảo sự minh bạch trong đánh giá và gắn kết nỗ lực cá nhân với mục tiêu chung của tập đoàn.
+- Truyền thông nội bộ: Tổ chức các buổi đối thoại định kỳ (Town Hall) và ứng dụng khen thưởng (Kudos) giữa đồng nghiệp.
+- Đào tạo và Phát triển: Xây dựng hệ thống E-learning và chính sách hỗ trợ 100% học phí cho các chứng chỉ quốc tế.
+- Chế độ làm việc: Đề xuất áp dụng thời gian làm việc linh hoạt (Flexible hours) để nâng cao chỉ số hạnh phúc của nhân viên.
+- Gắn kết đội ngũ: Tổ chức team-building để tránh sự xa cách khi làm việc từ xa hoặc làm việc linh hoạt.
+- Pháp lý: Cập nhật nội quy lao động để luật hóa các giá trị văn hóa và chính sách mới.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng văn hóa doanh nghiệp dựa trên 4 trụ cột: Học tập - Sáng tạo - Minh bạch - Trách nhiệm.
+- Triển khai thí điểm hệ thống OKR tại bộ phận Kinh doanh và IT trước khi nhân rộng toàn công ty.
+- Ban hành chính sách hỗ trợ đào tạo chuyên môn và khuyến khích học tập qua nền tảng số.
+- Thử nghiệm chế độ làm việc linh hoạt kèm theo hệ thống giám sát kết quả đầu ra nghiêm ngặt.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật Nội quy lao động và Thỏa ước lao động | Chị Lan (HR) & Anh Tú | 15/04/2025 |
+| Xây dựng và hướng dẫn triển khai OKR thí điểm | Anh Mạnh (Kinh doanh) | 30/03/2025 |
+| Lên kế hoạch tổ chức Town Hall Meeting đầu tiên | Chị Phương (Truyền thông) | 05/04/2025 |
+| Hoàn thiện hạ tầng E-learning và thư viện số | Anh Sơn (IT) | 10/04/2025 |
+| Xây dựng dự toán ngân sách đào tạo và team-building | Chị Hồng (Tài chính) | 02/04/2025 |
+| Thiết kế quy trình sử dụng app Kudos nội bộ | Chị Phương (Truyền thông) | 08/04/2025 |
+| Soạn thảo hướng dẫn làm việc linh hoạt (Flexible work) | Chị Lan (HR) | 12/04/2025 |
+| Chỉ đạo và lan tỏa thông điệp văn hóa từ lãnh đạo | Anh Vinh (Giám đốc) | Định kỳ |

@@ -1,0 +1,54 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00] Chào mọi người, hôm nay chúng ta tập trung thảo luận về dự án nâng cấp kho trung tâm thành kho bãi thông minh (Smart Warehouse). Như các bạn đã biết, tốc độ xử lý đơn hàng của chúng ta hiện đang bị nghẽn ở khâu picking.
+[08:02] Dạ đúng rồi anh. Hiện tại nhân viên kho vẫn đang phải cầm bảng kê giấy chạy đi chạy lại khắp các kệ hàng. Nhiều khi hàng vừa nhập về chưa kịp cập nhật vị trí là coi như đi tìm mờ mắt luôn.
+[08:04] Ờ... tôi bổ sung thêm là hệ thống WMS hiện tại nó cũng hơi "cổ lỗ sĩ" rồi. Nó không tối ưu được đường đi cho nhân viên. Có khi lấy 2 món hàng sát nhau mà hệ thống bắt đi một vòng trái đất mới quay lại được.
+[08:06] Thì là vậy nên tôi mới muốn đưa robot AGV (Automated Guided Vehicle) vào. Robot nó sẽ tự động di chuyển đến kệ hàng, lấy khay hàng mang ra cho nhân viên. Nhân viên chỉ cần đứng một chỗ thôi.
+[08:08] Em thấy giải pháp này hay, nhưng mà sếp ơi, cái sàn kho của mình nó có nhiều chỗ lồi lõm lắm. Robot chạy vào có khi nó lại "lật bánh" thì khổ.
+[08:10] Đúng rồi, với cả hạ tầng mạng Wifi trong kho hiện nay rất chập chờn. Nếu robot mất kết nối giữa chừng thì sao? Liệu nó có đứng im một chỗ gây tắc nghẽn không?
+[08:12] Những vấn đề đó chúng ta sẽ phải xử lý trong giai đoạn chuẩn bị hạ tầng. Sàn kho sẽ được cán lại phẳng và sơn epoxy chuyên dụng. Về mạng, chúng ta sẽ lắp thêm các bộ phát Wifi công nghiệp phủ sóng 100%.
+[08:15] Dạ, vậy còn cái WMS thì sao sếp? Nếu đưa robot vào thì WMS phải có module điều khiển (MCS) để nó điều phối robot chứ nhỉ? WMS cũ của mình chắc không gánh nổi đâu.
+
+<|output|>
+# Dự án triển khai hệ thống kho bãi thông minh (Smart Warehouse)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận giải pháp nâng cấp kho trung tâm nhằm tăng tốc độ xử lý đơn hàng và khắc phục sự cố tại khâu lấy hàng (picking).
+- Đánh giá tính khả thi của việc ứng dụng robot tự hành AGV và nâng cấp hệ thống WMS 4.0.
+
+### 2. Các vấn đề đã thảo luận
+- Hiệu suất vận hành thấp do quy trình thủ công và hệ thống WMS cũ không tối ưu được đường đi lấy hàng.
+- Khó khăn về hạ tầng hiện tại: Sàn kho không phẳng và hệ thống mạng Wifi công nghiệp chưa đáp ứng yêu cầu vận hành của robot.
+- Sự cần thiết của việc tích hợp module điều khiển (MCS) vào WMS để điều phối robot linh hoạt.
+
+### 3. Kết luận và quyết định
+- Tiến hành cải tạo hạ tầng bao gồm: Cán lại sàn kho bằng sơn epoxy và lắp đặt hệ thống Wifi công nghiệp phủ sóng toàn bộ diện tích kho.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |

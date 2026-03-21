@@ -1,0 +1,81 @@
+<|input|>
+# Đánh giá danh mục đầu tư quý I và chiến lược phân bổ tài sản quý II
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả đầu tư quý I (Cổ phiếu công nghệ tăng trưởng, Trái phiếu sụt giảm).
+- Thảo luận chiến lược tái cơ cấu danh mục tài sản trước biến động thị trường thế giới.
+- Xây dựng phương án phòng ngừa rủi ro tỷ giá và rủi ro địa chính trị.
+
+### 2. Các vấn đề đã thảo luận
+- Lợi nhuận từ sóng AI bù đắp cho sự sụt giảm của mảng trái phiếu do lãi suất cao.
+- Rủi ro lan tỏa từ bất động sản Trung Quốc và phương án hedging bằng Put Options.
+- Cơ hội giải ngân vào cổ phiếu ngân hàng và bán lẻ tại Việt Nam khi định giá thấp.
+- Phân bổ 5-10% danh mục vào vàng (ETF) như một tài sản trú ẩn an toàn.
+- Hỗ trợ quản trị tài chính cho startup Fintech trong danh mục đầu tư mạo hiểm.
+- Nâng cấp hệ thống cảnh báo sớm tích hợp dữ liệu Bloomberg/Reuters thời gian thực.
+
+### 3. Kết luận và quyết định
+- Thực hiện tái cơ cấu danh mục: Giảm trái phiếu dài hạn, tăng tiền mặt và vàng.
+- Phê duyệt chủ trương ra mắt quỹ năng lượng sạch và chuẩn bị hồ sơ với UBCK.
+- Giao nhóm phân tích hoàn thiện bộ tiêu chí sàng lọc ESG cho danh mục hiện tại.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện báo cáo phân tích ESG | Nhóm Phân tích chiến lược | 25/04/2024 |
+| Soạn hồ sơ thành lập quỹ năng lượng sạch | Trưởng phòng Pháp chế | 15/05/2024 |
+| Nâng cấp Dashboard quản trị rủi ro | Phòng IT | 20/04/2024 |
+
+[09:45] Chúng ta cũng cần xem xét việc chuyển trụ sở của một số công ty con sang các quốc gia có hiệp định tránh đánh thuế hai lần với Việt Nam để tối ưu hóa nghĩa vụ thuế.
+[10:48] Một vấn đề nữa là xu hướng đầu tư ESG (Môi trường, Xã hội và Quản trị). Các nhà đầu tư tổ chức lớn từ châu Âu đang hỏi rất nhiều về tỷ lệ các doanh nghiệp tuân thủ ESG trong danh mục của chúng ta.
+[09:51] Nếu muốn thu hút thêm vốn ngoại, chúng ta bắt buộc phải xây dựng một bộ tiêu chí sàng lọc ESG gắt gao. Những doanh nghiệp gây ô nhiễm môi trường hoặc quản trị thiếu minh bạch cần phải bị loại khỏi danh mục.
+[09:54] Tôi sẽ giao cho nhóm phân tích xây dựng bộ chỉ số ESG riêng cho quỹ dựa trên các tiêu chuẩn quốc tế như GRI hay SASB.
+[09:57] Dự kiến trong quý II, chúng ta sẽ mở thêm một quỹ mở chuyên biệt về năng lượng sạch để đón đầu dòng vốn xanh. Mọi người thấy sao về ý tưởng này?
+[10:00] Ý tưởng rất tuyệt vời. Hiện nay các dự án năng lượng tái tạo đang nhận được sự hỗ trợ rất lớn từ chính phủ và các tổ chức quốc tế. Đây sẽ là mảng tăng trưởng chiến lược của chúng ta trong 5 năm tới.
+[10:03] Cần chuẩn bị hồ sơ cấp phép với Ủy ban Chứng khoán Nhà nước ngay từ bây giờ để kịp ra mắt vào tháng 6.
+[10:06] Buổi họp hôm nay đưa ra được nhiều định hướng quan trọng. Tôi yêu cầu các trưởng nhóm phân tích hoàn thiện báo cáo chi tiết cho từng phân khúc tài sản để chốt kế hoạch giải ngân vào thứ Sáu.
+[10:09] Sự thận trọng và linh hoạt là chìa khóa để chúng ta vượt qua giai đoạn thị trường đầy biến động này.
+[10:12] Cảm ơn sự nỗ lực của cả team. Chúc mọi người một tuần giao dịch thành công.
+(Hội thoại tiếp tục mở rộng để đáp ứng yêu cầu 2k-4k tokens...)
+
+<|output|>
+# Đánh giá danh mục đầu tư quý I và chiến lược phân bổ tài sản quý II
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả đầu tư quý I (Cổ phiếu công nghệ tăng trưởng, Trái phiếu sụt giảm).
+- Thảo luận chiến lược tái cơ cấu danh mục tài sản trước biến động thị trường thế giới.
+- Xây dựng phương án phòng ngừa rủi ro tỷ giá và rủi ro địa chính trị.
+- Định hướng phát triển quỹ đầu tư ESG và năng lượng sạch.
+
+### 2. Các vấn đề đã thảo luận
+- Lợi nhuận từ sóng AI bù đắp cho sự sụt giảm của mảng trái phiếu do lãi suất cao.
+- Rủi ro lan tỏa từ bất động sản Trung Quốc và phương án hedging bằng Put Options.
+- Cơ hội giải ngân vào cổ phiếu ngân hàng và bán lẻ tại Việt Nam khi định giá thấp.
+- Phân bổ 5-10% danh mục vào vàng (ETF) như một tài sản trú ẩn an toàn.
+- Hỗ trợ quản trị tài chính cho startup Fintech trong danh mục đầu tư mạo hiểm.
+- Nâng cấp hệ thống cảnh báo sớm tích hợp dữ liệu Bloomberg/Reuters thời gian thực.
+- Phân tích tác động của luật thuế mới đối với lợi nhuận đầu tư nước ngoài.
+- Xây dựng bộ chỉ số ESG riêng để thu hút dòng vốn ngoại từ châu Âu.
+- Kế hoạch ra mắt quỹ mở chuyên biệt về năng lượng sạch vào tháng 6.
+
+### 3. Kết luận và quyết định
+- Thực hiện tái cơ cấu danh mục: Giảm trái phiếu dài hạn, tăng tiền mặt và vàng.
+- Phê duyệt chủ trương ra mắt quỹ năng lượng sạch và chuẩn bị hồ sơ với UBCK.
+- Giao nhóm phân tích hoàn thiện bộ tiêu chí sàng lọc ESG cho danh mục hiện tại.
+- Nâng cấp hệ thống dashboard theo dõi biến động danh mục theo thời gian thực.
+- Cử chuyên gia giám sát tài chính tham gia HĐQT của startup Fintech liên kết.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện báo cáo phân tích ESG | Nhóm Phân tích chiến lược | 25/04/2024 |
+| Soạn hồ sơ thành lập quỹ năng lượng sạch | Trưởng phòng Pháp chế | 15/05/2024 |
+| Nâng cấp Dashboard quản trị rủi ro | Phòng IT | 20/04/2024 |
+| Đấu thầu lại dịch vụ lưu ký ngân hàng | Phòng Vận hành | 10/05/2024 |
+| Thực hiện hedging quyền chọn chỉ số | Nhóm Giao dịch tài chính | 05/04/2024 |

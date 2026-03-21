@@ -1,0 +1,61 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00] Dạ chào anh Bình và mọi người ạ. Hôm nay team mình họp nhanh về cái vụ xuất khẩu lô xoài cát và nhãn sang bên EU á anh.
+[08:02] Ừ, cái chứng chỉ GlobalGAP với lại mấy cái test dư lượng thuốc bảo vệ thực vật sao rồi em? Bên đối tác Đức họ hối dữ lắm.
+[08:04] Dạ... ờ thì... hiện tại là mình đã xong cái khâu kiểm định mẫu cho 50 tấn xoài rồi. Còn nhãn thì đang vướng một chút ở chỗ mã số vùng trồng bên Đồng Tháp á.
+[08:06] Sao lại vướng? Là do thủ tục hay sao em?
+[08:07] Dạ là do đợt rồi mưa nhiều quá nên một số hộ nông dân họ chưa cập nhật kịp cái nhật ký canh tác điện tử á. Nên bên Chi cục Trồng trọt họ đang yêu cầu mình phải rà soát lại kỹ hơn trước khi cấp mã xuất khẩu.
+[08:09] Trời ơi, cái này phải làm gắt nha. EU họ soi kỹ lắm, sai một li là đi cả lô hàng chứ chẳng chơi.
+[08:11] Dạ em biết ạ. Em đã cử người xuống trực tiếp hỗ trợ bà con ghi chép lại rồi. Chắc tầm thứ Tư là xong thôi ạ.
+[08:13] Còn vụ vận chuyển thì sao? Logistics đợt này giá cước có biến động gì không?
+[08:15] Dạ... cái này thì... hiện tại cước hàng không đi Frankfurt đang tăng nhẹ tầm 5% do giá nhiên liệu. Em đang đàm phán với bên đại lý để giữ giá cũ cho mình cho đến hết tháng này.
+[08:17] Ừ, cố gắng chốt sớm đi. Với lại kiểm tra kỹ cái khâu đóng gói nha, nhãn dễ bị dập lắm đó.
+[08:19] Dạ vâng, em sẽ đốc thúc bộ phận kho kiểm soát chặt chẽ ạ.
+[08:20] Ok, vậy chốt thế đi.
+
+<|output|>
+# Xuất khẩu trái cây sang thị trường EU
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Cập nhật tiến độ xuất khẩu xoài cát và nhãn sang thị trường EU (đặc biệt là đối tác Đức).
+- Giải quyết các vướng mắc về chứng chỉ và mã số vùng trồng.
+- Kiểm soát chi phí logistics và chất lượng đóng gói.
+
+### 2. Các vấn đề đã thảo luận
+- Xoài cát: Đã hoàn thành kiểm định mẫu cho 50 tấn, đảm bảo tiêu chuẩn dư lượng.
+- Nhãn: Đang gặp khó khăn tại vùng trồng Đồng Tháp do nhật ký canh tác điện tử chưa được cập nhật kịp thời.
+- Chi phí vận chuyển: Cước hàng không đi Frankfurt tăng 5%, đang trong quá trình đàm phán giữ giá.
+- Rủi ro chất lượng: Nhãn dễ bị hư hỏng trong quá trình vận chuyển nếu đóng gói không kỹ.
+
+### 3. Kết luận và quyết định
+- Tập trung hỗ trợ nông dân hoàn thiện hồ sơ mã số vùng trồng nhãn trước thứ Tư.
+- Đàm phán chốt giá cước vận chuyển trước khi kết thúc tháng.
+- Tăng cường kiểm soát quy trình đóng gói tại kho để tránh dập nát hàng hóa.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hỗ trợ nông dân cập nhật nhật ký canh tác | Phòng Thu mua | 22/05/2024 |
+| Hoàn thiện mã số vùng trồng nhãn | Bộ phận Pháp chế | 24/05/2024 |
+| Đàm phán giữ giá cước vận chuyển hàng không | Phòng Logistics | 31/05/2024 |
+| Kiểm tra quy trình đóng gói nhãn | Bộ phận Kho | 25/05/2024 |

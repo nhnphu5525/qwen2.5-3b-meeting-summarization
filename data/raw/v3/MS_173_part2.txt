@@ -1,0 +1,65 @@
+<|input|>
+# Triển khai chương trình đào tạo song ngữ tại cơ sở mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng kế hoạch triển khai chương trình song ngữ tại cơ sở Quận 7.
+- Thống nhất về giáo trình, nhân sự và cơ sở vật chất.
+
+### 2. Các vấn đề đã thảo luận
+- Tăng tính cạnh tranh bằng cách tích hợp chương trình kỹ năng sống Phần Lan vào hệ thống song ngữ.
+- Vấn đề nhân sự: Cần cân đối giữa giáo viên Philippines và giáo viên bản ngữ (Anh/Mỹ/Úc) để đảm bảo chất lượng và uy tín.
+- Chọn giáo trình: Thống nhất sử dụng bộ sách của National Geographic thay vì Oxford.
+
+### 3. Kết luận và quyết định
+- Sử dụng giáo trình National Geographic cho toàn bộ hệ thống song ngữ tại cơ sở mới.
+- Tuyển dụng tối thiểu 2 giáo viên bản xứ cho khối tiểu học; khối mầm non có thể sử dụng giáo viên Philippines.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đặt mua giáo trình National Geographic | Chị Mai | 20/12/2024 |
+| Tuyển dụng và phỏng vấn giáo viên bản ngữ | Bộ phận Nhân sự | 10/01/2025 |
+| Làm việc với nhà thầu về tiến độ phòng Lab | Nam | 25/12/2024 |
+
+[14:04:50] Trễ 1 tuần thì sát nút quá, tại mình còn phải tổ chức ngày hội Open Day cho phụ huynh tham quan nữa mà. Nam thúc giục họ giùm thầy, bảo là nếu không xong đúng hạn thì trừ tiền hợp đồng.
+[14:05:20] Dạ để em gọi điện chửi... à nhầm, thúc ép họ liền. À, còn vụ xe đưa đón học sinh nữa, mình tự mua xe hay thuê dịch vụ bên ngoài thầy nhỉ?
+[14:05:50] Thuê đi cho nhẹ đầu em ơi. Tự vận hành xe cộ rồi tài xế, bảo trì mệt lắm. Tìm đơn vị nào uy tín, xe mới tí, có app theo dõi lộ trình cho phụ huynh yên tâm.
+[14:06:20] Dạ rõ ạ. Em sẽ tìm 3 đơn vị rồi làm bảng báo giá so sánh gửi thầy duyệt trong tuần sau.
+[14:06:50] Ok, vậy chốt thế nhé. Mọi người cố gắng, cơ sở này là trọng điểm của mình trong năm tới đó.
+[14:07:20] Dạ tụi em quyết tâm ạ!
+
+<|output|>
+# Triển khai chương trình đào tạo song ngữ tại cơ sở mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng kế hoạch triển khai chương trình song ngữ tại cơ sở Quận 7.
+- Thống nhất về giáo trình, nhân sự và cơ sở vật chất.
+- Đảm bảo tiến độ khai giảng vào tháng 2 năm sau.
+
+### 2. Các vấn đề đã thảo luận
+- Tăng tính cạnh tranh bằng cách tích hợp chương trình kỹ năng sống Phần Lan vào hệ thống song ngữ.
+- Vấn đề nhân sự: Cần cân đối giữa giáo viên Philippines và giáo viên bản ngữ (Anh/Mỹ/Úc) để đảm bảo chất lượng và uy tín.
+- Chọn giáo trình: Thống nhất sử dụng bộ sách của National Geographic thay vì Oxford.
+- Cơ sở vật chất: Nhà thầu đang chậm tiến độ lắp đặt phòng Lab và thư viện do thiếu linh kiện.
+- Dịch vụ đưa đón: Quyết định thuê đơn vị vận tải chuyên nghiệp có app theo dõi thay vì tự vận hành xe.
+
+### 3. Kết luận và quyết định
+- Sử dụng giáo trình National Geographic cho toàn bộ hệ thống song ngữ tại cơ sở mới.
+- Tuyển dụng tối thiểu 2 giáo viên bản xứ cho khối tiểu học; khối mầm non có thể sử dụng giáo viên Philippines.
+- Thúc ép nhà thầu hoàn thiện thiết bị Lab đúng hạn để phục vụ ngày hội Open Day.
+- Tìm kiếm và báo giá 3 đơn vị cung cấp dịch vụ xe đưa đón học sinh.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đặt mua giáo trình National Geographic | Chị Mai | 20/12/2024 |
+| Tuyển dụng và phỏng vấn giáo viên bản ngữ | Bộ phận Nhân sự | 10/01/2025 |
+| Làm việc với nhà thầu về tiến độ phòng Lab | Nam | 25/12/2024 |
+| Gửi báo giá dịch vụ xe đưa đón học sinh | Nam | 22/12/2024 |
+| Chuẩn bị nội dung cho ngày hội Open Day | Team Marketing | 05/01/2025 |

@@ -1,0 +1,62 @@
+<|input|>
+# **Dự án nâng cấp và hiện đại hóa đội tàu vận tải biển giai đoạn 2025-2030**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào ban dự án Logistics và đội kỹ thuật tàu biển. Hôm nay chúng ta họp về một dự án cực kỳ "khủng" và tốn kém: Nâng cấp và hiện đại hóa đội tàu vận tải biển của tập đoàn. 
+[09:03] Dạ thưa sếp, đúng là đội tàu của mình hiện nay đã khá già cỗi. Ờ... tuổi đời trung bình của 5 con tàu container mình đang có là 18 năm. Chi phí bảo trì, bảo dưỡng định kỳ (Dry-docking) đang tăng vọt, mà hiệu suất tiêu thụ nhiên liệu thì quá kém so với các dòng tàu đời mới.
+[09:06] Ờ... tôi cũng thấy vậy. Chỉ số EEXI (Energy Efficiency Existing Ship Index) của mình đang ở mức báo động đỏ theo chuẩn mới của IMO. Nếu không nâng cấp thì sang năm mình không được phép vào các cảng lớn ở Châu Âu đâu.
+[09:09] Thưa anh, em đề xuất mình thanh lý 2 con tàu cũ nhất và đặt đóng mới 2 tàu chạy bằng nhiên liệu kép (Dual-fuel) LNG. Ờ... LNG giúp giảm 25% lượng phát thải CO2 và gần như loại bỏ hoàn toàn khí SOx.
+[09:12] Đóng mới tàu LNG thì tốt, nhưng mà hạ tầng trạm nạp (Bunkering) LNG trên tuyến đường mình chạy hiện nay đã phủ khắp chưa? Ờ... hay là mình lại phải chạy bằng dầu DO truyền thống thì coi như phí tiền đầu tư Dual-fuel.
+[09:15] Dạ, theo khảo sát của em thì các cảng chính như Singapore, Rotterdam hay Thượng Hải đều đã có dịch vụ nạp LNG rồi ạ. Ờ... tuyến nội địa thì mình có thể làm việc với PV Gas để thuê sà lan nạp LNG lưu động.
+[09:18] Ờ... vậy còn 3 con tàu còn lại thì sao? Mình không có đủ tiền đóng mới cả 5 con một lúc đâu. 
+[09:21] Dạ, 3 con tàu còn lại thì mình thực hiện giải pháp cải hoán (Retrofitting). Ờ... mình sẽ lắp thêm hệ thống làm sạch khí thải (Scrubber) và bộ cánh quạt tiết kiệm năng lượng (Energy Saving Devices). Ờ... đồng thời sơn lại vỏ tàu bằng loại sơn chống hà công nghệ nano để giảm lực cản của nước.
+[09:24] Lắp Scrubber thì tốn khoảng bao nhiêu một con tàu? Và thời gian dừng tàu để thi công là bao lâu?
+[09:27] Thưa anh, chi phí tầm 3 triệu USD một tàu. Ờ... thời gian thi công tại ụ tàu khoảng 45 ngày. Nếu mình sắp xếp khéo léo vào kỳ Dry-dock định kỳ thì sẽ giảm thiểu được thời gian tàu nằm không (Down-time).
+[09:30] 45 ngày là mất 1.5 tháng doanh thu đấy. Ờ... Nam bên Sales tính toán xem nếu mình dừng tàu 1.5 tháng thì có phải thuê tàu ngoài (Chartering) để chạy thay không? Hay là mình dồn hàng qua các tàu khác được?
+[09:33] Dạ thưa sếp, hiện tại công suất đội tàu mình đang chạy 95% rồi, nên chắc chắn phải thuê tàu ngoài để giữ slot cho khách hàng thân thiết ạ. Ờ... giá thuê tàu (Charter rate) dạo này cũng đang neo ở mức cao nên mình phải cân nhắc kỹ.
+[09:36] Ờ... thà tốn tiền thuê tàu còn hơn mất khách. Vậy còn khâu số hóa (Digitalization) thì sao? Tôi muốn các tàu phải được trang bị hệ thống giám sát hành trình và tiêu thụ nhiên liệu Real-time. Không thể để tình trạng thuyền trưởng báo cáo số liệu "ma" như trước đây được.
+[09:39] Dạ, em đang làm việc với đối tác Inmarsat để lắp đặt hệ thống vệ tinh băng thông rộng. Ờ... mình sẽ cài phần mềm tối ưu hóa lộ trình (Weather Routing) để giúp tàu tránh vùng biển xấu và tiết kiệm thêm được khoảng 5% nhiên liệu mỗi chuyến.
+[09:42] Ờ... cái này phải làm ngay. Dữ liệu từ tàu phải được truyền thẳng về trung tâm điều hành ở văn phòng 24/7. 
+
+<|output|>
+# Dự án nâng cấp và hiện đại hóa đội tàu vận tải biển giai đoạn 2025-2030
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiện trạng đội tàu vận tải (già cỗi, tiêu hao nhiên liệu cao, không đạt chuẩn môi trường IMO).
+- Thống nhất phương án đầu tư đóng mới và cải hoán đội tàu để đáp ứng các tiêu chuẩn quốc tế về phát thải (EEXI, CII).
+
+### 2. Các vấn đề đã thảo luận
+- **Đóng mới tàu:** Quyết định thanh lý 2 tàu cũ (18 năm tuổi) và đặt đóng mới 2 tàu container sử dụng nhiên liệu kép (Dual-fuel) LNG để giảm phát thải và tăng hiệu suất cạnh tranh.
+- **Cải hoán (Retrofitting):** Đối với 3 tàu còn lại, thực hiện lắp hệ thống làm sạch khí thải Scrubber, bộ cánh quạt tiết kiệm năng lượng và sơn Nano chống hà để kéo dài thời gian khai thác.
+- **Số hóa & Tối ưu hóa:** Lắp đặt hệ thống vệ tinh băng thông rộng và phần mềm Weather Routing để giám sát tiêu thụ nhiên liệu Real-time và tối ưu hóa lộ trình.
+- **Logistic:** Phương án thuê tàu ngoài (Chartering) để duy trì dịch vụ trong thời gian các tàu nằm ụ cải hoán.
+
+### 3. Kết luận và quyết định
+- Giao phòng Kỹ thuật làm việc với các xưởng đóng tàu tại Hàn Quốc/Trung Quốc để giữ chỗ (Slot).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập báo cáo khả thi (FS) chi tiết cho dự án đóng mới tàu LNG | Phòng Kỹ thuật | 25/03/2025 |
+| Đàm phán thanh lý 2 tàu cũ với các đối tác thu mua | Phòng Kinh doanh | 15/03/2025 |
+| Tìm kiếm và đặt lịch ụ tàu (Dry-dock) cho việc lắp Scrubber | Phòng Vật tư | 20/03/2025 |
+| Đàm phán giá thuê tàu ngoài cho giai đoạn cao điểm | Team Logistics | 18/03/2025 |
+| Khảo sát và lựa chọn đối tác cung cấp hệ thống vệ tinh | Phòng IT | 12/03/2025 |

@@ -1,0 +1,67 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào cả nhà, hôm nay mình cùng bàn về việc xây dựng tour du lịch sinh thái bền vững tại khu vực Tây Nguyên cho mùa hè này nhé.
+[09:03] Tôi thấy khách quốc tế bây giờ họ không thích đi mấy chỗ xô bồ đâu, họ muốn trải nghiệm văn hóa bản địa thật sự cơ.
+[09:06] Đúng đó anh Hùng, em nghĩ mình nên kết hợp cho khách ở homestay tại buôn làng và cùng bà con đi làm rẫy hoặc dệt thổ cẩm.
+[09:09] Ý tưởng hay đấy Mai, nhưng mình phải đảm bảo việc này không làm ảnh hưởng đến đời sống riêng tư và phong tục của người dân địa phương.
+[09:12] Chúng ta cần tổ chức một buổi họp với già làng và đại diện các hộ dân để thống nhất cách làm và tỷ lệ chia sẻ lợi ích.
+[09:15] Về phần bảo vệ môi trường, tour này mình tuyệt đối không dùng nhựa dùng một lần. Bình nước sẽ là loại dùng nhiều lần cho khách mượn.
+[10:18] Ngoài ra, việc xử lý rác thải tại các điểm dừng chân cũng phải cực kỳ nghiêm ngặt, không để lại dấu vết gì sau khi khách đi.
+[10:21] Anh Hùng ơi, anh xem lại giúp em vấn đề an toàn cho khách khi đi trekking trong rừng, nhất là vào mùa mưa dễ trơn trượt.
+[10:24] Tôi sẽ đi khảo sát lại các cung đường và thuê thêm porter là người bản địa thông thạo địa hình để hỗ trợ đoàn.
+[10:27] Mai phụ trách soạn nội dung giới thiệu tour, nhấn mạnh vào yếu tố "Du lịch có trách nhiệm" để thu hút đúng đối tượng khách hàng nhé.
+[10:30] Vâng, em cũng sẽ liên hệ với các bên báo chí mảng du lịch xanh để làm truyền thông cho đợt ra mắt này.
+[10:33] Hạn chót để hoàn thiện khung chương trình và giá tour là ngày 20 tới để mình kịp chào hàng cho đối tác bên Châu Âu.
+[10:36] Mọi người cố gắng, nếu tour này thành công mình sẽ mở rộng sang các vùng khác.
+
+<|output|>
+# Phát triển sản phẩm du lịch sinh thái bền vững tại Tây Nguyên
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng sản phẩm du lịch mới tập trung vào trải nghiệm văn hóa bản địa và bảo vệ môi trường.
+- Đảm bảo sự tham gia và hưởng lợi bền vững của cộng đồng địa phương.
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng du lịch trải nghiệm thực tế và du lịch xanh của khách quốc tế.
+- Xây dựng hoạt động homestay và trải nghiệm đời sống cùng người dân tộc thiểu số.
+- Vấn đề bảo tồn văn hóa và tôn trọng phong tục tập quán địa phương.
+- Chính sách nói không với nhựa dùng một lần trong suốt hành trình tour.
+- Đảm bảo an toàn cho du khách trong các hoạt động trekking, mạo hiểm.
+- Vai trò của người bản địa trong việc dẫn đoàn và bảo vệ môi trường.
+
+### 3. Kết luận và quyết định
+- Tổ chức tham vấn cộng đồng tại địa phương trước khi triển khai chính thức.
+- Lựa chọn đội ngũ hướng dẫn viên và porter là người địa phương để tăng tính trải nghiệm.
+- Tập trung truyền thông vào thông điệp "Du lịch có trách nhiệm".
+- Hoàn thiện sản phẩm trước ngày 20/03/2026 để kịp mùa cao điểm khách quốc tế.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát thực địa và chốt cung đường trekking | Anh Hùng | 15/03/2026 |
+| Làm việc với cộng đồng buôn làng về dịch vụ homestay | Phòng Sản phẩm | 18/03/2026 |
+| Soạn thảo nội dung marketing và báo giá tour | Mai | 20/03/2026 |
+| Chuẩn bị bộ kit du lịch bền vững cho khách | Tổ Hành chính | 25/03/2026 |
+| Ký hợp đồng với các đơn vị vận chuyển địa phương | Anh Hùng | 30/03/2026 |
+| Chạy chiến dịch truyền thông "Du lịch xanh" | Mai | 05/04/2026 |

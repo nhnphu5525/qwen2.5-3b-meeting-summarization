@@ -1,0 +1,63 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00] Chào ban chiến lược và lãnh đạo các phòng ban. Buổi họp hôm nay cực kỳ quan trọng, chúng ta sẽ thảo luận về tầm nhìn ESG (Môi trường - Xã hội - Quản trị) của tập đoàn mình nhé.
+[14:02] Dạ sếp, em thấy cái này bây giờ không còn là trào lưu nữa mà là... ờ... điều kiện bắt buộc nếu mình muốn gọi vốn từ các quỹ đầu tư quốc tế sếp ạ.
+[14:04] Đúng rồi, thì là... mình phải làm sao để cái báo cáo phát triển bền vững của mình nó thật sự chất lượng, chứ không phải chỉ là "tô hồng" (greenwashing) đâu.
+[14:06] Em đề xuất là mình bắt đầu từ cái khâu tiết kiệm năng lượng tại các nhà máy trước. Ờ... lắp hệ thống giám sát điện năng realtime để giảm lãng phí ạ.
+[14:08] Ờ cái đó tốt. Còn vấn đề "Social" (Xã hội) thì sao hả Lan? Mình có định làm gì cho cộng đồng không nhỉ?
+[14:10] Dạ có sếp ơi, dạ... mình sẽ tập trung vào việc đào tạo kỹ năng số cho thanh niên ở các địa phương mình có nhà máy vận hành sếp ạ.
+[14:12] Tôi muốn mình phải minh bạch hóa cái khâu quản trị (Governance). Hội đồng quản trị phải có thêm các thành viên độc lập để giám sát tốt hơn.
+[14:14] Vâng, cái đó là cần thiết để bảo vệ quyền lợi cổ đông nhỏ lẻ sếp ạ.
+[14:16] Ngoài ra, mình cũng cần phải yêu cầu các nhà cung cấp của mình cũng phải đạt các chuẩn về ESG nữa. Nếu họ vi phạm... ờ... ví dụ như dùng lao động trẻ em là mình phải cắt hợp đồng ngay.
+[14:18] OK, chốt thế đi. Nam lo phần lập chỉ số KPI cho mảng Môi trường. Lan tập trung vào mảng Xã hội và Quản trị nhé.
+[14:20] Dạ sếp, em sẽ báo cáo tiến độ vào tuần sau ạ.
+[14:22] Tốt, mọi người chú ý cái deadline nộp báo cáo ESG năm nay là vào tháng 3 năm sau nhé.
+
+<|output|>
+# Tầm nhìn chiến lược phát triển bền vững ESG giai đoạn 2025-2030
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hình tầm nhìn chiến lược ESG và tầm quan trọng của nó trong việc thu hút đầu tư quốc tế.
+- Thảo luận các hành động cụ thể cho ba trụ cột: Môi trường (Environmental), Xã hội (Social) và Quản trị (Governance).
+- Thống nhất các chỉ tiêu đo lường và cam kết minh bạch hóa dữ liệu phát triển bền vững.
+
+### 2. Các vấn đề đã thảo luận
+- Sự dịch chuyển từ xu hướng sang yêu cầu pháp lý và tài chính bắt buộc đối với các tập đoàn lớn.
+- Nguy cơ "Greenwashing" và sự cần thiết của các hành động thực chất có đo lường được bằng dữ liệu.
+- Các giải pháp kỹ thuật để tối ưu hóa tiêu thụ năng lượng tại nhà máy bằng công nghệ giám sát thời gian thực.
+- Chiến lược trách nhiệm xã hội tập trung vào giáo dục và đào tạo kỹ năng số cho cộng đồng địa phương.
+- Nâng cao tính chuyên nghiệp và minh bạch của Hội đồng quản trị thông qua việc bổ sung các thành viên độc lập.
+- Thiết lập bộ tiêu chuẩn ESG dành cho nhà cung cấp để đảm bảo tính bền vững xuyên suốt chuỗi cung ứng.
+
+### 3. Kết luận và quyết định
+- Phê duyệt lộ trình tích hợp ESG vào các hoạt động kinh doanh cốt lõi của tập đoàn.
+- Thành lập Ban ESG chuyên trách để theo dõi và công bố báo cáo phát triển bền vững hàng năm.
+- Áp dụng các chế tài nghiêm khắc đối với nhà cung cấp không tuân thủ các chuẩn mực đạo đức và môi trường.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xây dựng bộ chỉ số KPI môi trường cho khối sản xuất | Anh Nam | 15/12/2024 |
+| Thiết kế chương trình đào tạo kỹ năng số cho cộng đồng | Chị Lan | 20/12/2024 |
+| Rà soát và cập nhật quy chế quản trị công ty | Ban Pháp chế | 05/01/2025 |
+| Soạn thảo bộ tiêu chuẩn ESG cho nhà cung cấp | Phòng Thu mua | 10/01/2025 |

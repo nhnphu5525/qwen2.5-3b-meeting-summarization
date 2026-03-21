@@ -1,0 +1,54 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào tất cả các anh chị quản lý sản phẩm, quản lý phân xưởng và đội ngũ IT. Hôm nay chúng ta tập trung tại đây để thảo luận về một dự án mang tính sống còn cho sự phát triển của nhà máy mình trong 5 năm tới: Triển khai hệ thống ERP toàn diện cho quản lý sản xuất.
+[09:05] Như mọi người đã biết, cách làm việc hiện tại với các file Excel rời rạc đã bộc lộ quá nhiều yếu điểm. Dữ liệu từ phân xưởng A sang phân xưởng B bị lệch, bộ phận kế toán thì phải chờ đến cuối tuần mới có số liệu thực tế, gây khó khăn cho việc ra quyết định.
+[09:10] Tôi hoàn toàn nhất trí. Tuần trước, chúng ta đã bị lỡ một đơn hàng lớn từ đối tác Nhật Bản chỉ vì không kiểm tra được chính xác lượng nguyên liệu tồn kho trong thời gian thực.
+[09:15] Hệ thống ERP mới này sẽ giải quyết triệt để vấn đề đó chứ? Tôi nghe nói nhiều công ty triển khai ERP xong còn rối hơn lúc chưa làm.
+[09:20] Đó là do họ chọn phần mềm không phù hợp hoặc quy trình nội bộ chưa chuẩn hóa. Vì vậy, bước đầu tiên của mình là phải rà soát lại toàn bộ quy trình từ khâu nhập kho, sản xuất đến đóng gói.
+[09:25] Về phía phân xưởng, tôi lo ngại việc công nhân phải nhập liệu quá nhiều trên máy tính sẽ làm giảm năng suất sản xuất của họ.
+[09:30] Chúng ta sẽ không bắt công nhân gõ phím đâu anh Hùng. Thay vào đó, mỗi công đoạn sẽ được trang bị máy quét mã vạch (Barcode/QR code). Công nhân chỉ cần quét mã trên lệnh sản xuất, hệ thống sẽ tự động ghi nhận thời gian bắt đầu và kết thúc.
+[09:35] Vậy thì tốt quá. Nhưng hệ thống có tích hợp được với các máy CNC và cánh tay robot hiện có không? Dữ liệu từ máy móc trả về trực tiếp ERP thì mới gọi là tự động hóa thật sự.
+[09:40] Đó chính là mục tiêu của module MES (Manufacturing Execution System) mà chúng ta sẽ tích hợp vào ERP. Nó sẽ lấy dữ liệu về số vòng quay, nhiệt độ, và lỗi sản phẩm từ máy móc theo thời gian thực.
+[09:45] Về vấn đề bảo trì máy móc, hiện tại chúng ta vẫn làm theo kiểu "hỏng đâu sửa đấy". ERP có giúp mình chuyển sang bảo trì dự phòng được không?
+[09:50] Chắc chắn rồi. Hệ thống sẽ dựa trên số giờ chạy thực tế của máy để cảnh báo khi nào cần thay dầu, thay linh kiện trước khi nó kịp hỏng. Việc này sẽ giảm thiểu thời gian "downtime" vô ích.
+
+<|output|>
+# Triển khai hệ thống ERP toàn diện cho quản lý sản xuất nhà máy
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chuyển đổi mô hình quản lý từ thủ công sang hệ thống ERP để tối ưu hóa vận hành nhà máy.
+- Thống nhất các tính năng cốt lõi cần triển khai: Quản lý kho, Sản xuất (MES), Bảo trì, Thu mua và Chất lượng (QA/QC).
+
+### 2. Các vấn đề đã thảo luận
+- Sự bất cập của việc quản lý bằng Excel dẫn đến sai lệch dữ liệu và chậm trễ trong ra quyết định.
+- Giải pháp nhập liệu bằng máy quét mã vạch để giảm tải cho công nhân và tăng độ chính xác.
+- Tích hợp hệ thống MES để lấy dữ liệu trực tiếp từ máy móc (CNC, Robot) theo thời gian thực.
+- Chuyển đổi từ bảo trì khắc phục sang bảo trì dự phòng dựa trên dữ liệu vận hành.
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Rà soát và chuẩn hóa quy trình sản xuất hiện tại | Quản đốc nhà máy | 30/04 |
+| Khảo sát lắp đặt hệ thống mã vạch tại các phân xưởng | Team Kỹ thuật | 15/05 |

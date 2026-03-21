@@ -1,0 +1,59 @@
+<|input|>
+# Đề án Tự chủ Đại học và Cải cách Mô hình Quản trị
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về lộ trình và các giải pháp thực hiện tự chủ đại học toàn diện (tài chính, học thuật, nhân sự).
+
+### 2. Các vấn đề đã thảo luận
+- Tự chủ học thuật: Mở rộng các ngành học liên ngành, liên kết quốc tế; duy trì các ngành khoa học cơ bản làm nền tảng.
+- Tự chủ tài chính: Đa dạng hóa nguồn thu từ học phí, nghiên cứu chuyển giao và mô hình doanh nghiệp Spin-off. Cần cơ chế học bổng mạnh mẽ để hỗ trợ sinh viên nghèo.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng quỹ học bổng "Thắp sáng tài năng" cho sinh viên khó khăn khi thực hiện tự chủ tài chính.
+- Triển khai xây dựng hệ thống KPI và đề án vị trí việc làm mới cho toàn bộ cán bộ, giảng viên.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo khung tự chủ học thuật và đào tạo | Thầy Dũng & Thầy Thành | 20/04/2025 |
+| Xây dựng hệ thống KPI và chính sách đãi ngộ mới | Cô Hương (TCCB) | 30/04/2025 |
+| Dự thảo phương án tài chính và quỹ học bổng | Cô Lan (Tài chính) | 15/04/2025 |
+
+[14:20] Chào thầy Dũng, tôi là Hương bên bộ phận Tổ chức cán bộ. Tự chủ nhân sự là một "bài toán khó". Chúng ta cần xây dựng bộ chỉ số KPI chi tiết cho từng giảng viên. Ai nghiên cứu tốt thì giảm giờ dạy, ai dạy tốt thì tập trung vào đào tạo. Việc chuyển đổi từ cơ chế biên chức sang hợp đồng lao động sẽ gây tâm lý lo ngại cho một bộ phận giảng viên lâu năm. Chúng ta cần có lộ trình truyền thông và các chính sách đãi ngộ thỏa đáng để giữ chân hiền tài.
+[14:25] Chào các thầy cô, tôi là Minh bên bộ phận Đảm bảo chất lượng. Để tự chủ thành công, chúng ta phải đạt được các chứng nhận kiểm định chất lượng quốc tế như AUN-QA hay ABET. Đây là "giấy thông hành" để chúng ta khẳng định uy tín với xã hội và các đối tác nước ngoài. Tôi đề nghị trong năm tới, trường cần ưu tiên kinh phí cho việc kiểm định 5 chương trình đào tạo mũi nhọn.
+[14:30] Chào thầy Hiệu trưởng, tôi là Bình, đại diện Hội sinh viên. Sinh viên chúng em rất ủng hộ việc tự chủ nếu đi kèm với việc nâng cấp cơ sở vật chất, thư viện và các dịch vụ hỗ trợ việc làm. Chúng em cũng mong muốn có tiếng nói hơn trong các quyết định liên quan đến đời sống và học tập. Nhà trường nên cân nhắc việc mời đại diện sinh viên tham gia một số phiên họp của Hội đồng trường.
+[14:35] Ý kiến của Bình rất đáng ghi nhận. Một môi trường đại học hiện đại phải lấy người học làm trung tâm. Chào cô Lan, cô giúp tôi rà soát lại quỹ phát triển hoạt động sự nghiệp để dành ra một khoản ngân sách đáng kể cho quỹ học bổng "Thắp sáng tài năng" dành cho sinh viên khó khăn. Chào thầy Dũng, thầy lên kế hoạch rà soát lại toàn bộ chương trình đào tạo, tinh gọn những phần lạc hậu.
+
+<|output|>
+# Đề án Tự chủ Đại học và Cải cách Mô hình Quản trị
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về lộ trình và các giải pháp thực hiện tự chủ đại học toàn diện (tài chính, học thuật, nhân sự).
+- Giải quyết các thách thức về nguồn thu, chất lượng đào tạo và tâm lý cán bộ giảng viên khi chuyển đổi cơ chế.
+
+### 2. Các vấn đề đã thảo luận
+- Tự chủ học thuật: Mở rộng các ngành học liên ngành, liên kết quốc tế; duy trì các ngành khoa học cơ bản làm nền tảng.
+- Tự chủ tài chính: Đa dạng hóa nguồn thu từ học phí, nghiên cứu chuyển giao và mô hình doanh nghiệp Spin-off. Cần cơ chế học bổng mạnh mẽ để hỗ trợ sinh viên nghèo.
+- Tự chủ nhân sự: Áp dụng KPI, thay đổi từ cơ chế biên chế sang hợp đồng lao động; thu hút và giữ chân nhân tài bằng chính sách đãi ngộ dựa trên năng lực.
+- Kiểm định chất lượng: Ưu tiên đạt chuẩn quốc tế (AUN-QA, ABET) để khẳng định uy tín.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng quỹ học bổng "Thắp sáng tài năng" cho sinh viên khó khăn khi thực hiện tự chủ tài chính.
+- Triển khai xây dựng hệ thống KPI và đề án vị trí việc làm mới cho toàn bộ cán bộ, giảng viên.
+- Ưu tiên kinh phí kiểm định chất lượng cho 5 chương trình đào tạo mũi nhọn trong năm học tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo khung tự chủ học thuật và đào tạo | Thầy Dũng & Thầy Thành | 20/04/2025 |
+| Xây dựng hệ thống KPI và chính sách đãi ngộ mới | Cô Hương (TCCB) | 30/04/2025 |
+| Dự thảo phương án tài chính và quỹ học bổng | Cô Lan (Tài chính) | 15/04/2025 |
+| Kế hoạch kiểm định chất lượng 5 ngành mũi nhọn | Cô Minh (ĐBCL) | 10/04/2025 |
+| Kết nối doanh nghiệp thành lập trung tâm R&D | Cô Phương (Đối ngoại) | 25/04/2025 |
+| Tổ chức hội thảo lấy ý kiến CB-GV toàn trường | Ban Giám hiệu | 15/05/2025 |

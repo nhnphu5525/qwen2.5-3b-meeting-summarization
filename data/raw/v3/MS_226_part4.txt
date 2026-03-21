@@ -1,0 +1,75 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Mua sắm Thiết bị Y tế
+- Giải quyết các vấn đề về vật tư tiêu hao
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho bảo trì thiết bị
+- Thiếu dữ liệu để đánh giá tiêu chuẩn y tế
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hợp đồng thầu
+- Phê duyệt ngân sách bổ sung cho tiêu chuẩn y tế
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ bảo trì thiết bị | Bộ phận Tài chính | 01/05/2026 |
+| Họp nhóm để bàn sâu về hợp đồng thầu | Bộ phận Tài chính | 23/01/2026 |
+| Gửi email xác nhận với đối tác về hợp đồng thầu | Bộ phận Tài chính | 02/11/2026 |
+
+[09:35] Nói chung là Có ai phụ trách chính cho mảng tiêu chuẩn y tế chưa nhỉ?
+[10:42] Đừng quên là bảo trì thiết bị cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:37] Ờm, cái tiêu chuẩn y tế này thực ra là một vấn đề khá nan giải.
+[09:38] Chào cả nhà, chúng ta bắt đầu bàn về bảo trì thiết bị nhé.
+[09:39] Mọi người có thấy vụ máy chụp X-quang dạo này bị chậm không?
+[10:50] Chào cả nhà, chúng ta bắt đầu bàn về máy chụp X-quang nhé.
+[10:52] Cái này nè Thế còn ngân sách cho máy chụp X-quang thì sao hả mọi người?
+[10:54] Có ai phụ trách chính cho mảng vật tư tiêu hao chưa nhỉ?
+[09:43] Thế còn ngân sách cho hợp đồng thầu thì sao hả mọi người?
+[10:58] Cái này nè Nói chung là mình phải chốt phương án cho hợp đồng thầu ngay trong hôm nay.
+[11:00] Chắc là Vâng, tôi cũng thấy việc tối ưu máy chụp X-quang là rất cần thiết.
+[09:46] Ý tôi là Mọi người cứ cho ý kiến thoải mái về hợp đồng thầu đi ạ.
+[09:47] Tôi đồng ý với ý kiến về vật tư tiêu hao, nên làm quyết liệt hơn.
+[11:06] Mọi người cứ cho ý kiến thoải mái về bảo trì thiết bị đi ạ.
+[11:08] Cần phải làm rõ thêm các chi tiết liên quan đến vật tư tiêu hao.
+[11:10] Thực ra Có ai phụ trách chính cho mảng bảo trì thiết bị chưa nhỉ?
+[11:12] Cái vật tư tiêu hao này hình như đang bị vướng chỗ nào đó đúng không?
+[11:14] Ờm Thế còn ngân sách cho tiêu chuẩn y tế thì sao hả mọi người?
+[11:16] Ờm, cái vật tư tiêu hao này thực ra là một vấn đề khá nan giải.
+[09:54] Thì đấy Cái ngân sách bệnh viện này hình như đang bị vướng chỗ nào đó đúng không?
+[11:20] Cái vật tư tiêu hao này hình như đang bị vướng chỗ nào đó đúng không?
+[11:22] À Ờm, cái ngân sách bệnh viện này thực ra là một vấn đề khá nan giải.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Mua sắm Thiết bị Y tế
+- Giải quyết các vấn đề về vật tư tiêu hao
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho bảo trì thiết bị
+- Thiếu dữ liệu để đánh giá tiêu chuẩn y tế
+- Khó khăn trong việc phối hợp giữa các bên về tiêu chuẩn y tế
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hợp đồng thầu
+- Phê duyệt ngân sách bổ sung cho tiêu chuẩn y tế
+- Thiết lập nhóm đặc trách xử lý máy chụp X-quang
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ bảo trì thiết bị | Bộ phận Tài chính | 01/05/2026 |
+| Họp nhóm để bàn sâu về hợp đồng thầu | Bộ phận Tài chính | 23/01/2026 |
+| Gửi email xác nhận với đối tác về hợp đồng thầu | Bộ phận Tài chính | 02/11/2026 |
+| Lập báo cáo chi tiết cho máy chụp X-quang | Bộ phận Tài chính | 09/07/2026 |

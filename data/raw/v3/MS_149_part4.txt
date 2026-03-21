@@ -1,0 +1,62 @@
+<|input|>
+# Đề án Tái cấu trúc Hệ thống Kho bãi Khu vực Miền Bắc
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả vận hành của hệ thống 3 kho hiện tại (Hà Nội, Bắc Ninh, Hải Phòng).
+- Thảo luận phương án hợp nhất các kho nhỏ lẻ thành một Hub trung tâm (Consolidation Hub) quy mô lớn để tối ưu chi phí và nâng cao năng lực cạnh tranh.
+
+### 2. Các vấn đề đã thảo luận
+- **Thực trạng hệ thống cũ:**
+- **Phương án tái cấu trúc:**
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng Consolidation Hub tại miền Bắc.
+- Đặt mục tiêu hoàn tất việc chọn mặt bằng và lắp đặt thiết bị trong Quý 3/2024; bắt đầu vận hành thử nghiệm trong Quý 4/2024.
+- Giao Lan hoàn thiện Business Case chi tiết và phân tích ROI trình Hội đồng quản trị.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập Business Case và phân tích tài chính dự án | Chị Lan (CFO) | 15/10/2024 |
+| Khảo sát thực địa và chốt địa điểm thuê Hub | Nam (Logistics) | 25/10/2024 |
+| Xây dựng sơ đồ Layout kho và thông số kỹ thuật kệ | Nam & Đội kỹ thuật | 30/10/2024 |
+| Lập kế hoạch di dời hàng hóa chi tiết (Phase-out) | Anh Hùng (COO) | 05/11/2024 |
+[09:38:30] Dạ đúng rồi anh Hùng. Nhân tiện đợt này tái cấu trúc, em đề xuất mình đầu tư luôn cái hệ thống barcode/RFID cho toàn bộ kho. Mỗi kiện hàng vào kho là được định danh ngay lập tức, vị trí trên kệ cũng được quản lý chính xác trên app luôn. Như vậy thì khi lấy hàng (picking), nhân viên chỉ cần cầm cái máy handheld đi quét là xong, không phải chạy lòng vòng tìm hàng như bây giờ nữa. Năng suất picking chắc chắn sẽ tăng ít nhất 30% đó anh.
+[09:42:00] Nghe Nam nói mà anh thấy ham quá. Nhưng mà Lan ơi, cái khoản đầu tư cho công nghệ với lại hệ thống kệ kệ trung tải, kệ cao tầng cho Hub mới này cũng không hề nhỏ đâu nha. Chị có dự trù được khoảng bao nhiêu không? Để em còn trình Ban giám đốc phê duyệt ngân sách.
+[09:45:30] Dạ, em có lấy báo giá sơ bộ từ mấy đơn vị cung cấp kệ với giải pháp phần mềm rồi. Tổng chi phí đầu tư ban đầu (CAPEX) cho cái Hub 15.000m2 này, bao gồm cả tiền cọc kho, lắp đặt hệ thống kệ, nâng cấp phần mềm và thiết bị đầu cuối tầm khoảng 15 đến 18 tỷ đồng anh ạ. Đây là một khoản đầu tư lớn, nhưng xét về dài hạn 5-10 năm thì nó là cái nền tảng cực kỳ vững chắc để mình mở rộng quy mô kinh doanh. Anh Minh thấy sao? Mình có nên chơi lớn một phen không?
+[09:49:00] 18 tỷ... Thực sự là một con số cần phải cân nhắc kỹ. Nhưng mà nhìn vào cái bức tranh tăng trưởng của mình, nếu không làm đợt này thì sang năm khi doanh số tăng gấp đôi, hệ thống kho bãi cũ sẽ trở thành cái "nút thắt cổ chai" bóp chết sự phát triển của công ty mình luôn. Anh quyết định là mình sẽ làm! Nhưng Lan phải lập cho anh một cái Business Case thật chi tiết, có phân tích ROI (tỷ suất hoàn vốn) rõ ràng để anh thuyết phục Hội đồng quản trị nha.
+
+<|output|>
+# Đề án Tái cấu trúc Hệ thống Kho bãi Khu vực Miền Bắc
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả vận hành của hệ thống 3 kho hiện tại (Hà Nội, Bắc Ninh, Hải Phòng).
+- Thảo luận phương án hợp nhất các kho nhỏ lẻ thành một Hub trung tâm (Consolidation Hub) quy mô lớn để tối ưu chi phí và nâng cao năng lực cạnh tranh.
+- Xác định lộ trình di dời hàng hóa, kế hoạch đầu tư công nghệ và phương án xử lý nhân sự, hợp đồng cũ.
+
+### 2. Các vấn đề đã thảo luận
+- **Thực trạng hệ thống cũ:**
+- **Phương án tái cấu trúc:**
+- **Đầu tư công nghệ & Hạ tầng:**
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng Consolidation Hub tại miền Bắc.
+- Đặt mục tiêu hoàn tất việc chọn mặt bằng và lắp đặt thiết bị trong Quý 3/2024; bắt đầu vận hành thử nghiệm trong Quý 4/2024.
+- Giao Lan hoàn thiện Business Case chi tiết và phân tích ROI trình Hội đồng quản trị.
+- Giao Nam khảo sát địa điểm tại các KCN Phố Nối (Hưng Yên) và lên sơ đồ layout kho.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập Business Case và phân tích tài chính dự án | Chị Lan (CFO) | 15/10/2024 |
+| Khảo sát thực địa và chốt địa điểm thuê Hub | Nam (Logistics) | 25/10/2024 |
+| Xây dựng sơ đồ Layout kho và thông số kỹ thuật kệ | Nam & Đội kỹ thuật | 30/10/2024 |
+| Lập kế hoạch di dời hàng hóa chi tiết (Phase-out) | Anh Hùng (COO) | 05/11/2024 |
+| Rà soát nhân sự và làm việc với các chủ kho cũ | Anh Minh & Anh Hùng | 10/11/2024 |
+| Tìm kiếm và báo giá đơn vị cung cấp giải pháp WMS/RFID | Nam | 15/11/2024 |

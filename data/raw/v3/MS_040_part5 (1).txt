@@ -1,0 +1,84 @@
+<|input|>
+# Chiến lược tối ưu hóa chuỗi cung ứng quốc tế và ứng phó biến động địa chính trị
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tác động của khủng hoảng Biển Đỏ và các biến động địa chính trị đến thời gian và chi phí vận chuyển quốc tế.
+- Thống nhất các phương thức vận chuyển thay thế và chiến lược quản trị tồn kho mới.
+- Rà soát các rào cản kỹ thuật mới của thị trường EU (CBAM) và Mỹ (Trucking, Port selection).
+- Thúc đẩy số hóa và Logistics xanh để đáp ứng yêu cầu của các đối tác lớn như Amazon.
+
+### 2. Các vấn đề đã thảo luận
+- Khủng hoảng Biển Đỏ kéo dài làm tăng transit time và cước phí tàu biển do phải đi vòng qua Mũi Hảo Vọng.
+- Giải pháp Sea-Air qua Dubai cho hàng gấp và chuyển từ 'Just-in-Time' sang 'Just-in-Case'.
+- Tối ưu hóa lựa chọn cảng tại Mỹ (bờ Đông vs bờ Tây) để giảm chi phí vận tải nội địa và tránh kẹt cảng.
+- Đáp ứng các tiêu chuẩn bao bì xanh FSC và cơ chế CBAM của EU để duy trì vị thế nhà cung cấp.
+- Nâng cao tính minh bạch thông qua Dashboard Tracking thời gian thực.
+
+### 3. Kết luận và quyết định
+- Phân bổ linh hoạt luồng hàng đi Mỹ qua cảng bờ Đông (Savannah/New York) cho các đơn hàng khu vực phía Đông và Trung Tây.
+- Ký hợp đồng dài hạn với nhà cung cấp bao bì đạt chuẩn FSC để đảm bảo yêu cầu của đối tác quốc tế.
+- Team IT hoàn thiện Dashboard Tracking bản demo vào cuối tháng sau, ưu tiên hàng đầu.
+- Mua bảo hiểm hàng hóa mức 110%, bao gồm rủi ro chiến tranh và cướp biển trên các tuyến mới.
+- Thiết lập cơ chế báo cáo nóng 24h đối với các Forwarder chiến lược.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập bảng SKU phân loại phương thức vận chuyển (Sea vs Sea-Air) | Lan (Tài chính) + Logistics | 05/12/2024 |
+| Làm việc với đơn vị tư vấn CBAM rà soát quy trình sản xuất | Phòng Sản xuất | 20/12/2024 |
+| Tìm kiếm 03 nhà cung cấp nguyên liệu phụ trợ tại Đông Nam Á | Phòng Thu mua | 15/02/2025 |
+| Đàm phán Service Contract với Maersk và ONE | Team Logistics | 15/12/2024 |
+| Xây dựng Dashboard Tracking thời gian thực (Bản Demo) | Team IT | 30/01/2025 |
+| Cập nhật hợp đồng bảo hiểm hàng hóa quốc tế mới | Lan (Tài chính) | 10/12/2024 |
+| Thiết lập kênh báo cáo nóng 24/7 với các Forwarder | Team Logistics | 01/12/2024 |
+| Báo cáo kết quả thử nghiệm Dashboard và lộ trình mới | Team Logistics | 20/02/2025 |
+[10:04] Ngoài ra, chúng ta cần thảo luận thêm về thị trường Bắc Mỹ. Hiện tại tình trạng kẹt cảng tại Los Angeles và Long Beach tuy đã giảm nhưng chi phí vận tải nội địa (trucking) tại Mỹ đang tăng phi mã do thiếu tài xế.
+[10:06] Vâng anh, phí bãi (demurrage và detention) tại các cảng Mỹ cũng là một gánh nặng lớn. Em đề xuất mình nên chuyển một phần hàng sang các cảng ở bờ Đông như Savannah hoặc New York để giảm tải cho bờ Tây, mặc dù thời gian đi tàu sẽ lâu hơn một chút nhưng chi phí trucking từ đó về các kho ở trung tâm sẽ rẻ hơn.
+[10:08] Ý kiến này hay. Lan check lại giá cước đi bờ Đông so với bờ Tây xem chênh lệch thế nào? Và đừng quên tính cả phí cầu đường và thuế bang nữa nhé.
+[10:10] Dạ, cước đi bờ Đông hiện cao hơn khoảng 1500 USD mỗi container 40ft. Nhưng nếu tính tổng chi phí (Total Landed Cost) thì đi bờ Đông lại tiết kiệm được khoảng 500 USD do quãng đường trucking ngắn hơn cho các đơn hàng ở khu vực phía Đông và Trung Tây.
+[10:12] Vậy thì mình sẽ phân bổ rổ hàng theo khu vực địa lý của khách hàng cuối cùng. Khách ở đâu thì mình cho tàu cập cảng gần đó nhất. Tiếp theo, về mảng Logistics xanh, phía đối tác Amazon đang yêu cầu mình phải sử dụng bao bì tái chế 100% và có chứng chỉ FSC. Team Thu mua đã làm việc với các nhà cung cấp bao bì chưa?
+[10:14] Dạ tụi em đã tìm được 2 nhà cung cấp ở Việt Nam đáp ứng được tiêu chuẩn FSC. Tuy nhiên giá thành bao bì này cao hơn 20% so với loại hiện tại. Em đang đàm phán để họ giảm giá nếu mình cam kết sản lượng lớn trong 2 năm tới.
+[10:16] Phải chấp nhận thôi, vì đây là yêu cầu bắt buộc để giữ chân các 'ông lớn' như Amazon. Nếu không có chứng chỉ xanh, họ sẽ đánh tụt hạng nhà cung cấp của mình ngay.
+
+<|output|>
+# Chiến lược tối ưu hóa chuỗi cung ứng quốc tế và ứng phó biến động địa chính trị
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tác động của khủng hoảng Biển Đỏ và các biến động địa chính trị đến thời gian và chi phí vận chuyển quốc tế.
+- Thống nhất các phương thức vận chuyển thay thế và chiến lược quản trị tồn kho mới.
+- Rà soát các rào cản kỹ thuật mới của thị trường EU (CBAM) và Mỹ (Trucking, Port selection).
+- Thúc đẩy số hóa và Logistics xanh để đáp ứng yêu cầu của các đối tác lớn như Amazon.
+
+### 2. Các vấn đề đã thảo luận
+- Khủng hoảng Biển Đỏ kéo dài làm tăng transit time và cước phí tàu biển do phải đi vòng qua Mũi Hảo Vọng.
+- Giải pháp Sea-Air qua Dubai cho hàng gấp và chuyển từ 'Just-in-Time' sang 'Just-in-Case'.
+- Tối ưu hóa lựa chọn cảng tại Mỹ (bờ Đông vs bờ Tây) để giảm chi phí vận tải nội địa và tránh kẹt cảng.
+- Đáp ứng các tiêu chuẩn bao bì xanh FSC và cơ chế CBAM của EU để duy trì vị thế nhà cung cấp.
+- Nâng cao tính minh bạch thông qua Dashboard Tracking thời gian thực.
+
+### 3. Kết luận và quyết định
+- Phân bổ linh hoạt luồng hàng đi Mỹ qua cảng bờ Đông (Savannah/New York) cho các đơn hàng khu vực phía Đông và Trung Tây.
+- Ký hợp đồng dài hạn với nhà cung cấp bao bì đạt chuẩn FSC để đảm bảo yêu cầu của đối tác quốc tế.
+- Team IT hoàn thiện Dashboard Tracking bản demo vào cuối tháng sau, ưu tiên hàng đầu.
+- Mua bảo hiểm hàng hóa mức 110%, bao gồm rủi ro chiến tranh và cướp biển trên các tuyến mới.
+- Thiết lập cơ chế báo cáo nóng 24h đối với các Forwarder chiến lược.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập bảng SKU phân loại phương thức vận chuyển (Sea vs Sea-Air) | Lan (Tài chính) + Logistics | 05/12/2024 |
+| Làm việc với đơn vị tư vấn CBAM rà soát quy trình sản xuất | Phòng Sản xuất | 20/12/2024 |
+| Tìm kiếm 03 nhà cung cấp nguyên liệu phụ trợ tại Đông Nam Á | Phòng Thu mua | 15/02/2025 |
+| Đàm phán Service Contract với Maersk và ONE | Team Logistics | 15/12/2024 |
+| Xây dựng Dashboard Tracking thời gian thực (Bản Demo) | Team IT | 30/01/2025 |
+| Cập nhật hợp đồng bảo hiểm hàng hóa quốc tế mới | Lan (Tài chính) | 10/12/2024 |
+| Thiết lập kênh báo cáo nóng 24/7 với các Forwarder | Team Logistics | 01/12/2024 |
+| Báo cáo kết quả thử nghiệm Dashboard và lộ trình mới | Team Logistics | 20/02/2025 |
+| Chốt hợp đồng cung ứng bao bì chuẩn FSC | Phòng Thu mua | 15/12/2024 |
+| Phân tích lộ trình vận tải nội địa Mỹ qua cảng bờ Đông | Team Logistics | 20/12/2024 |

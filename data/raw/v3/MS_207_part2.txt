@@ -1,0 +1,67 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Nhân sự
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Nhân sự hiện nay
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Nhân sự
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý tuyển dụng | Bộ phận Kỹ thuật | 06/10/2026 |
+
+[10:12] Mong là lần này đào tạo sẽ ổn thỏa hơn mấy lần trước.
+[10:15] Để tôi check lại mấy cái số liệu của đào tạo rồi báo lại cả nhà sau.
+[09:52] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về phúc lợi.
+[10:21] Hiện tại cái giữ chân nhân tài đang bị chậm tiến độ một chút vì thiếu người.
+[09:56] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về đào tạo.
+[09:58] À Tôi thấy vấn đề lương thưởng này quan trọng phết, cần xử lý sớm.
+[10:00] Bên khách hàng họ cứ hối thúc vụ văn hóa công ty suốt.
+[10:02] Nhưng mà còn cái tuyển dụng thì tính sao đây? Sắp hết hạn rồi.
+[10:36] Tôi lo là giữ chân nhân tài sẽ tốn nhiều chi phí hơn dự kiến.
+[10:39] Bên đối tác họ cứ hối thúc vụ giữ chân nhân tài suốt.
+[10:08] À Mọi người cứ thoải mái đóng góp ý kiến về giữ chân nhân tài đi.
+[10:10] Tôi lo là giữ chân nhân tài sẽ tốn nhiều chi phí hơn dự kiến.
+[10:12] Mọi người nghĩ sao nếu mình đổi phương án cho phúc lợi?
+[09:37] Bên phòng ban họ cứ hối thúc vụ đào tạo suốt.
+[09:38] À Về phần đào tạo ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[09:39] Bên đối tác họ cứ hối thúc vụ giữ chân nhân tài suốt.
+[10:20] Nhưng mà còn cái giữ chân nhân tài thì tính sao đây? Sắp hết hạn rồi.
+[09:41] Thực ra Về phần lương thưởng ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[11:06] À Mong là lần này đánh giá KPI sẽ ổn thỏa hơn mấy lần trước.
+[10:26] Tuần tới mình tập trung dứt điểm cái phúc lợi đi cho xong.
+[11:12] Không sao, mình có thể tối ưu lại phần đánh giá KPI mà.
+[10:30] Ờm Để tôi check lại mấy cái số liệu của văn hóa công ty rồi báo lại cả nhà sau.
+[10:32] Để tôi check lại mấy cái số liệu của văn hóa công ty rồi báo lại cả nhà sau.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Nhân sự
+- Giải quyết các vướng mắc về đào tạo, giữ chân nhân tài
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Nhân sự hiện nay
+- Khó khăn trong việc xử lý giữ chân nhân tài
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Nhân sự
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý tuyển dụng | Bộ phận Kỹ thuật | 06/10/2026 |
+| Xử lý phúc lợi | Ban Giám đốc | 10/05/2026 |

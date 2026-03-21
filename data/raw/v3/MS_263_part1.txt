@@ -1,0 +1,47 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào anh Quang, chị Mai và đại diện các phòng ban. Hôm nay chúng ta họp để chốt ngân sách hoạt động cho năm tài chính 2025. Như mọi người đã biết, mục tiêu chiến lược năm tới của tập đoàn là mở rộng thị phần ra khu vực Đông Nam Á, do đó việc phân bổ nguồn vốn cần cực kỳ tập trung và hiệu quả. Chị Mai, chị có thể tóm tắt các đề xuất ngân sách từ các bộ phận không?
+[14:05] Chào anh Sơn, chào mọi người. Tôi là Mai, Trưởng phòng Tài chính. Tổng hợp từ các bộ phận, tổng nhu cầu vốn đang vượt 20% so với hạn mức dự kiến của Ban quản trị. Đặc biệt là bộ phận Marketing đề xuất tăng ngân sách lên gấp đôi để thực hiện các chiến dịch branding tại Thái Lan và Indonesia. Bộ phận R&D cũng xin thêm kinh phí để phát triển dòng sản phẩm mới thích nghi với thị trường nước ngoài.
+[14:10] Chào chị Mai, tôi là Quang bên bộ phận Marketing. Việc tăng ngân sách là bắt buộc nếu chúng ta muốn "đánh" vào các thị trường mới. Chi phí quảng cáo trên các nền tảng số tại Thái Lan cao hơn Việt Nam khoảng 40%. Nếu chúng ta giữ nguyên ngân sách cũ, thông điệp của chúng ta sẽ bị chìm nghỉm giữa các đối thủ nội địa. Chúng tôi cam kết mức tăng trưởng doanh thu từ thị trường ngoại sẽ bù đắp lại khoản đầu tư này sau 18 tháng.
+[14:15] Chào anh Quang, tôi là Bình bên bộ phận Sản xuất. Tôi hiểu áp lực của Marketing, nhưng nếu anh đẩy mạnh bán hàng mà bộ phận Sản xuất không được đầu tư nâng cấp dây chuyền để đáp ứng các tiêu chuẩn chất lượng quốc tế, chúng ta sẽ tự đánh mất uy tín. Tôi đề xuất cắt giảm một phần ngân sách event của Marketing để dồn cho việc mua sắm máy kiểm định tự động.
+
+<|output|>
+# Chốt Ngân sách hoạt động năm tài chính 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và phê duyệt ngân sách hoạt động năm 2025 của các bộ phận.
+
+### 2. Các vấn đề đã thảo luận
+- Tổng mức đầu tư: Đề xuất hiện tại vượt 20% hạn mức; áp lực từ Marketing (quảng cáo nước ngoài) và R&D.
+- Sản xuất: Cần nâng cấp dây chuyền để đạt tiêu chuẩn quốc tế, tránh rủi ro về chất lượng sản phẩm.
+
+### 3. Kết luận và quyết định
+- Phân bổ ngân sách tăng thêm theo tỷ lệ 40% cho Sản xuất và 60% cho Marketing.
+- Cắt giảm 10% chi phí quản lý hành chính tại tất cả các phòng ban trụ sở.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cân đối lại dòng tiền Marketing và Sản xuất | Chị Mai (Tài chính) | 28/03/2025 |
+| Lập danh sách cắt giảm chi phí hành chính 10% | Đại diện các phòng ban | 26/03/2025 |

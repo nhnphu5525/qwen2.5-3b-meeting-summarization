@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00:00] Chào mọi người, hôm nay team thiết kế mình ngồi lại để chốt cái concept cho bộ sưu tập (BST) Thu Đông 2024 nha. Ly nè, em là lead designer đợt này, em trình bày cái moodboard cho anh xem thử đi.
+[10:03:30] Dạ vầy nè anh Hoàng, năm nay em muốn đi theo hướng "Modern Heritage" - tức là mình lấy những cái form dáng cổ điển của áo dài với áo tứ thân nhưng mà mình cách tân lại bằng chất liệu len (wool) với lại dạ (tweed) để phù hợp với mùa đông. Màu chủ đạo em chọn là màu nâu đất, xanh rêu đậm với lại màu đỏ rượu chát.
+[10:06:45] Ờ, nghe cũng lạ đó. Nhưng mà Ly ơi, anh lo là cái chất liệu dạ nó hơi cứng, nếu mình làm form áo dài thì nó có bị mất đi cái sự mềm mại vốn có không em?
+[10:10:00] Cái đó em tính rồi anh. Em sẽ phối thêm lụa tơ tằm ở những phần như cổ áo với tay áo để tạo điểm nhấn mềm mại. Với lại mình sẽ dùng kỹ thuật cắt laser để tạo ra mấy cái họa tiết hoa văn cổ truyền trên nền vải dạ, trông nó sẽ rất là hiện đại và sang trọng.
+[10:13:15] Nam ơi, bên mảng sản xuất thì sao? Cái vụ cắt laser trên vải dạ mình có làm chủ được công nghệ chưa hay phải đi thuê ngoài? Với lại chi phí nguyên liệu đợt này thấy vải dạ xịn giá cũng chát lắm đó.
+[10:16:30] Báo cáo anh Hoàng, xưởng mình mới nhập cái máy laser mới hồi tháng trước nên vụ này mình tự làm được, không cần thuê ngoài đâu. Còn về vải, em đã liên hệ với mấy nhà cung cấp bên Hàn Quốc, họ có loại vải dạ pha sợi tự nhiên giá cũng ổn mà bề mặt đẹp lắm. Nếu mình đặt số lượng lớn cho cả BST thì họ giảm cho mình 15%.
+[10:19:45] Được đó Nam. Ly nè, BST này em tính ra bao nhiêu mẫu? Anh muốn mình có cả đồ nam và đồ nữ để làm thành mấy cái combo cho các cặp đôi luôn, mùa thu đông khách họ thích mặc đồ đôi đi chụp hình lắm.
+
+<|output|>
+# Chốt Concept và Kế hoạch Triển khai Bộ sưu tập Thời trang Thu Đông 2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất concept, chất liệu và màu sắc chủ đạo cho bộ sưu tập (BST) Thu Đông 2024.
+- Phân chia nhiệm vụ cho các bộ phận Thiết kế, Sản xuất và Marketing.
+
+### 2. Các vấn đề đã thảo luận
+- **Concept chủ đạo:** "Modern Heritage" - Sự giao thoa giữa form dáng trang phục truyền thống Việt Nam (áo dài, áo tứ thân) và phong cách hiện đại phương Tây.
+- **Chất liệu & Màu sắc:** Sử dụng vải dạ (tweed), len (wool) cao cấp phối với lụa tơ tằm. Màu sắc chủ đạo: Nâu đất, xanh rêu đậm, đỏ rượu chát.
+
+### 3. Kết luận và quyết định
+- Phê duyệt concept "Modern Heritage" và tên dự kiến "Ký ức Đông Dương".
+- Chốt timeline: Ra mắt sản phẩm vào tháng 8/2024.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện 25 bản vẽ kỹ thuật chi tiết | Ly (Thiết kế) | 15/05/2024 |
+| Đặt vải mẫu và lên mẫu prototype đầu tiên | Nam (Sản xuất) | 30/05/2024 |
+| Liên hệ và đặt hàng gia công tại làng nghề Nam Định | Ly | 20/05/2024 |

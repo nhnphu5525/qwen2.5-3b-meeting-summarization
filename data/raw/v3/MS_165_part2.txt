@@ -1,0 +1,58 @@
+<|input|>
+# Triển khai hệ thống bệnh án điện tử (EMR) cho khoa Khám bệnh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch chi tiết triển khai hệ thống bệnh án điện tử (EMR) tại khoa Khám bệnh.
+
+### 2. Các vấn đề đã thảo luận
+- **Giao diện và thao tác:** Bác sĩ lo ngại việc nhập liệu tốn thời gian gây ùn tắc. Bộ phận CNTT đề xuất giao diện "one-click", danh mục có sẵn và tích hợp Speech-to-Text để tối ưu hóa tốc độ.
+- **Bảo mật:** Sử dụng mã hóa đầu cuối và phân quyền chặt chẽ theo vai trò (bác sĩ điều trị, nhân viên nhà thuốc, điều dưỡng).
+
+### 3. Kết luận và quyết định
+- Chạy thử nghiệm (pilot) tại 3 phòng khám nội trú từ ngày 01/12/2024.
+- Triển khai đại trà cho toàn khoa Khám bệnh từ ngày 15/12/2024 sau khi đánh giá kết quả pilot.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn tất cấp tài khoản chữ ký số cho bác sĩ | Nam - Phòng CNTT | 28/11/2024 |
+| Tổ chức tập huấn sử dụng phần mềm EMR | Bác sĩ Hùng - Trưởng khoa | 30/11/2024 |
+[08:17:55] Dạ anh yên tâm, hệ thống bên em dùng công nghệ mã hóa đầu cuối và có phân quyền cực kỳ chặt chẽ. Chỉ có bác sĩ đang điều trị cho bệnh nhân đó mới có quyền xem bệnh án đầy đủ thôi. Ngay cả nhân viên phòng thuốc cũng chỉ thấy được đơn thuốc chứ không xem được lịch sử khám chữa bệnh chi tiết đâu ạ.
+[08:20:10] Chị Lan ơi, bên phòng điều dưỡng đã chuẩn bị tinh thần cho việc hướng dẫn bệnh nhân quét mã QR để lấy số thứ tự chưa? Tại vì khi dùng EMR thì mọi thứ phải đồng bộ từ khâu tiếp đón luôn.
+[08:22:25] Dạ tụi em cũng đang lo cái này nè anh. Đa số bệnh nhân đi khám bảo hiểm y tế là người lớn tuổi, họ không rành công nghệ đâu. Nếu bắt họ tự quét mã thì chắc chắn sẽ loạn lên hết.
+[08:24:40] Ừ cái này là cái khó nè. Hay là đợt đầu mình vẫn duy trì song song cả hai hình thức đi? Những người trẻ thì khuyến khích dùng app, còn người già thì vẫn có nhân viên hỗ trợ in phiếu như cũ. Nhưng mà dữ liệu sau đó phải được nhân viên tiếp đón đẩy lên hệ thống ngay lập tức.
+[08:26:55] Ờ phương án đó hợp lý đó anh. Mình không thể thay đổi thói quen của bệnh nhân ngay lập tức được. Phải có lộ trình từ từ.
+[08:29:10] Bác sĩ Hùng ơi, còn về cái chữ ký số thì sao bác? Khi xuất viện hay chuyển viện thì bệnh nhân cần bản in có chữ ký bác sĩ, mình đã chốt được phương án dùng chữ ký số cho toàn bệnh viện chưa?
+[08:31:25] Cái này tôi thấy cần phải quyết liệt nè. Nếu đã làm EMR mà vẫn phải ký tay rồi đóng dấu đỏ lên từng tờ giấy thì nó mất đi cái ý nghĩa của việc chuyển đổi số. Tôi đề nghị là bệnh viện mình phải làm việc với bên cung cấp dịch vụ chữ ký số để cấp tài khoản cho từng bác sĩ có chứng chỉ hành nghề luôn.
+
+<|output|>
+# Triển khai hệ thống bệnh án điện tử (EMR) cho khoa Khám bệnh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch chi tiết triển khai hệ thống bệnh án điện tử (EMR) tại khoa Khám bệnh.
+- Giải quyết các lo ngại về khâu nhập liệu, bảo mật thông tin và thói quen sử dụng công nghệ của bệnh nhân.
+
+### 2. Các vấn đề đã thảo luận
+- **Giao diện và thao tác:** Bác sĩ lo ngại việc nhập liệu tốn thời gian gây ùn tắc. Bộ phận CNTT đề xuất giao diện "one-click", danh mục có sẵn và tích hợp Speech-to-Text để tối ưu hóa tốc độ.
+- **Bảo mật:** Sử dụng mã hóa đầu cuối và phân quyền chặt chẽ theo vai trò (bác sĩ điều trị, nhân viên nhà thuốc, điều dưỡng).
+- **Hỗ trợ bệnh nhân:** Người lớn tuổi gặp khó khăn với mã QR. Thống nhất duy trì song song hình thức truyền thống và công nghệ trong giai đoạn đầu, có điều dưỡng hỗ trợ tại sảnh.
+- **Pháp lý và vận hành:** Triển khai chữ ký số để thay thế ký tay và đóng dấu đỏ truyền thống. Cần cấp tài khoản chữ ký số cho tất cả bác sĩ có chứng chỉ hành nghề.
+
+### 3. Kết luận và quyết định
+- Chạy thử nghiệm (pilot) tại 3 phòng khám nội trú từ ngày 01/12/2024.
+- Triển khai đại trà cho toàn khoa Khám bệnh từ ngày 15/12/2024 sau khi đánh giá kết quả pilot.
+- Tổ chức buổi tập huấn sử dụng phần mềm cho toàn bộ bác sĩ vào thứ Bảy (30/11/2024).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn tất cấp tài khoản chữ ký số cho bác sĩ | Nam - Phòng CNTT | 28/11/2024 |
+| Tổ chức tập huấn sử dụng phần mềm EMR | Bác sĩ Hùng - Trưởng khoa | 30/11/2024 |
+| Sắp xếp nhân sự hỗ trợ bệnh nhân tại sảnh chờ | Chị Lan - Phòng Điều dưỡng | 01/12/2024 |
+| Kiểm tra hạ tầng server và hệ thống backup | Nam - Phòng CNTT | 25/11/2024 |

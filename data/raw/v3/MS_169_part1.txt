@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00:10] Chào anh chị em phòng Kinh doanh nha. Sáng nay mình dành trọn buổi để bàn về cái đề án "Chinh phục miền Trung" – mở rộng hệ thống đại lý tại khu vực này trong năm 2025. Đây là thị trường trọng điểm mà sếp tổng đang rất kỳ vọng đó.
+[09:03:15] Dạ chào anh. Em đã làm một cái khảo sát sơ bộ về thị trường miền Trung rồi. Nhìn chung thì khu vực từ Thanh Hóa đổ vào tới Bình Thuận mình đang bị hổng khá nhiều ở mảng đại lý cấp 1. Hiện tại mình chỉ mới mạnh ở Đà Nẵng với Nha Trang thôi ạ.
+[09:06:30] Ờ thì đúng rồi, mấy tỉnh như Quảng Bình, Quảng Trị hay Phú Yên là mình gần như chưa có sự hiện diện đáng kể nào. Nam thấy cái rào cản lớn nhất ở đây là gì?
+[09:09:45] Dạ vầy nè anh, khó nhất vẫn là chi phí vận chuyển á. Kho trung tâm mình đặt ở TP.HCM với Hà Nội, chuyển hàng ra miền Trung thì phí ship nó đội lên cao quá, làm cho giá bán lẻ của mình khó cạnh tranh với mấy thương hiệu địa phương hoặc hàng Trung Quốc đi đường tiểu ngạch.
+[09:12:00] Cái này em thấy anh Nam nói đúng nè. Đợt rồi em ra Nghệ An, mấy đại lý họ bảo là họ rất thích mẫu mã của mình nhưng mà nếu mình không hỗ trợ phí vận chuyển hoặc có kho trung chuyển ở miền Trung thì họ khó mà cam kết doanh số lớn được.
+[09:15:15] Vậy thì phương án xây dựng một kho trung chuyển tại Đà Nẵng hoặc Quy Nhơn là bắt buộc rồi. Theo Lan thì mình nên chọn địa điểm nào để tối ưu hóa việc phân phối cho cả khu vực?
+[09:18:30] Em nghiêng về Đà Nẵng hơn anh ạ. Hạ tầng giao thông ở đó cực tốt, mình có thể tỏa đi các tỉnh phía Bắc miền Trung và Tây Nguyên cũng dễ. Nếu đặt ở Quy Nhơn thì chỉ mạnh cho mảng Nam Trung Bộ thôi.
+
+<|output|>
+# Chiến lược mở rộng hệ thống đại lý khu vực miền Trung năm 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng đề án tổng thể để mở rộng thị phần tại khu vực miền Trung, tập trung vào việc thiết lập hệ thống đại lý cấp 1 tại các tỉnh còn trống.
+
+### 2. Các vấn đề đã thảo luận
+- **Hạ tầng kho vận:** Khoảng cách địa lý từ hai đầu đất nước khiến phí vận chuyển cao. Thống nhất xây dựng kho trung chuyển tại Đà Nẵng để phục vụ toàn bộ khu vực miền Trung và Tây Nguyên.
+- **Chính sách đại lý:** Áp dụng mức chiết khấu ưu đãi 32-35% cho các đại lý mới trong quý I/2025. Hỗ trợ kinh phí trang trí showroom theo 3 cấp độ (Diamond, Gold, Silver) để tăng tính chuyên nghiệp và cam kết.
+
+### 3. Kết luận và quyết định
+- Chốt Đà Nẵng là địa điểm đặt kho trung chuyển và trạm kỹ thuật chính của khu vực miền Trung.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tìm kiếm mặt bằng và báo giá kho trung chuyển tại Đà Nẵng | Nam - Phòng Kinh doanh | 15/12/2024 |
+| Hoàn thiện Media Plan và kịch bản Hội nghị khách hàng | Lan - Phòng Marketing | 10/12/2024 |

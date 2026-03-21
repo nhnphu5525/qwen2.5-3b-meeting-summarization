@@ -1,0 +1,74 @@
+<|input|>
+# Kế hoạch phát triển Ứng dụng Ngân hàng số dành cho Gen Z
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận chiến lược và các tính năng cốt lõi cho ứng dụng ngân hàng số dành riêng cho Gen Z.
+- Giải quyết các thách thức về bảo mật eKYC và tuân thủ pháp lý cho các tính năng tài chính mới.
+
+### 2. Các vấn đề đã thảo luận
+- Nghiên cứu khách hàng: Gen Z ưa chuộng sự tối giản ("3 cú chạm"), tính cá nhân hóa và các tính năng xã hội (chia hóa đơn, lì xì).
+- Công nghệ: Áp dụng eKYC Video Call AI, giao diện tùy biến (Customizable UI) và Chatbot AI thân thiện.
+- Bảo mật: Đối phó với rủi ro Deepfake bằng Liveness Detection và sinh trắc học tích hợp Soft OTP.
+- Marketing: Tập trung vào kênh TikTok/YouTube thông qua Influencer và thông điệp "Tài chính thông minh".
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương phát triển ứng dụng ngân hàng số với trải nghiệm người dùng là trọng tâm.
+- Tích hợp công nghệ bảo mật sinh trắc học đa lớp để đảm bảo an toàn tuyệt đối cho eKYC.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Prototype giao diện tùy biến (UI) | Anh Tuấn (IT/UX) | 15/04/2025 |
+| Ký kết hợp tác với các đối tác Loyalty (Trà sữa, Phim) | Chị Linh (Sản phẩm) | 30/03/2025 |
+| Thử nghiệm giải pháp Liveness Detection chống Deepfake | Chị Mai (Security) | 10/04/2025 |
+| Xây dựng kịch bản chiến dịch Marketing TikTok | Anh Hoàng (Marketing) | 05/04/2025 |
+
+[14:20] Chào chị Mai, anh Tuấn. Tôi là Hoàng bên bộ phận Marketing. Để thu hút Gen Z, chúng ta không nên quảng cáo theo cách truyền thống. Tôi đề xuất chiến dịch "Tài chính không khoảng cách", hợp tác với các Influencer trên TikTok và YouTube để hướng dẫn các bạn trẻ cách tiết kiệm và đầu tư thông minh ngay trên ứng dụng của chúng ta. Tính năng "Social Banking" cho phép người dùng gửi tiền lì xì hoặc quà tặng kèm lời nhắn sinh động sẽ là điểm nhấn thu hút người dùng trẻ.
+[14:25] Chào anh Hoàng, tôi là Hồng bên bộ phận Tài chính. Việc tặng quà và hoàn tiền (cashback) cho Gen Z sẽ tốn một khoản ngân sách lớn. Chúng ta cần tính toán xem tỷ lệ giữ chân khách hàng (Retention rate) và giá trị vòng đời khách hàng (LTV) như thế nào. Nếu các bạn trẻ chỉ mở thẻ để lấy quà rồi bỏ thì sẽ rất lãng phí. Tôi đề nghị các gói ưu đãi nên được mở khóa dần theo mức độ chi tiêu và sử dụng các tính năng của ứng dụng.
+[14:30] Chào chị Hồng, đó là mô hình "Gamification" mà chúng ta đang hướng tới. Người dùng càng sử dụng nhiều sẽ càng lên "cấp" và nhận được nhiều đặc quyền hơn. Chào mọi người, tôi là Nam. Tôi muốn hỏi thêm về tính năng "Micro-investment". Liệu chúng ta có thể cho phép khách hàng đầu tư vào chứng chỉ quỹ hoặc vàng với số tiền lẻ chỉ từ 10.000 đồng không? Gen Z rất thích tích tiểu thành đại.
+[14:35] Chào anh Nam, về mặt kỹ thuật thì hoàn toàn làm được qua kết nối API với các công ty chứng khoán và quỹ đầu tư. Chào chị Phương bên bộ phận Pháp chế, chị thấy mô hình Micro-investment này có vướng mắc gì về mặt quy định hiện hành không? Chào mọi người, hiện tại khung pháp lý cho Fintech vẫn đang trong quá trình hoàn thiện, nhưng chúng ta có thể triển khai dưới dạng hợp tác đại lý phân phối sản phẩm tài chính. Em cần rà soát kỹ các điều khoản về bảo vệ quyền lợi nhà đầu tư nhỏ lẻ.
+[14:40] Rất tốt. Vậy kế hoạch của chúng ta là: Tuấn hoàn thiện bản Prototype giao diện Customizable UI; Linh chốt danh sách các đối tác Loyalty; Mai rà soát công nghệ chống Deepfake; Hoàng lên kế hoạch marketing TikTok; Phương lo khung pháp lý cho Micro-investment.
+[14:45] Chào anh Nam, em mong đợi ngày ứng dụng này lên sàn. Đây chắc chắn sẽ là một cú hích lớn cho mảng bán lẻ của ngân hàng chúng ta. Chào mọi người, buổi họp hôm nay rất sôi nổi. Chúc cả team hoàn thành đúng tiến độ.
+[14:50] Cảm ơn cả team. Buổi họp kết thúc.
+[14:55] Chào tạm biệt mọi người.
+
+<|output|>
+# Kế hoạch phát triển Ứng dụng Ngân hàng số dành cho Gen Z
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận chiến lược và các tính năng cốt lõi cho ứng dụng ngân hàng số dành riêng cho Gen Z.
+- Giải quyết các thách thức về bảo mật eKYC và tuân thủ pháp lý cho các tính năng tài chính mới.
+- Thống nhất kế hoạch marketing và mô hình Gamification để tăng tỷ lệ giữ chân khách hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Nghiên cứu khách hàng: Gen Z ưa chuộng sự tối giản ("3 cú chạm"), tính cá nhân hóa và các tính năng xã hội (chia hóa đơn, lì xì).
+- Công nghệ: Áp dụng eKYC Video Call AI, giao diện tùy biến (Customizable UI) và Chatbot AI thân thiện.
+- Bảo mật: Đối phó với rủi ro Deepfake bằng Liveness Detection và sinh trắc học tích hợp Soft OTP.
+- Marketing: Tập trung vào kênh TikTok/YouTube thông qua Influencer và thông điệp "Tài chính thông minh".
+- Tài chính: Cân đối ngân sách hoàn tiền và quà tặng bằng mô hình Gamification (mở khóa ưu đãi theo cấp độ người dùng).
+- Sản phẩm mới: Đề xuất tính năng đầu tư nhỏ lẻ (Micro-investment) từ số tiền lẻ tích lũy.
+- Pháp lý: Rà soát quy định về đại lý phân phối sản phẩm tài chính và bảo vệ nhà đầu tư cá nhân.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương phát triển ứng dụng ngân hàng số với trải nghiệm người dùng là trọng tâm.
+- Tích hợp công nghệ bảo mật sinh trắc học đa lớp để đảm bảo an toàn tuyệt đối cho eKYC.
+- Triển khai mô hình Gamification để gắn kết khách hàng lâu dài thay vì chỉ tặng quà một lần.
+- Thử nghiệm tính năng Micro-investment thông qua hợp tác với các quỹ đầu tư uy tín.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Prototype giao diện tùy biến (UI) | Anh Tuấn (IT/UX) | 15/04/2025 |
+| Ký kết hợp tác với các đối tác Loyalty (Trà sữa, Phim) | Chị Linh (Sản phẩm) | 30/03/2025 |
+| Thử nghiệm giải pháp Liveness Detection chống Deepfake | Chị Mai (Security) | 10/04/2025 |
+| Xây dựng kịch bản chiến dịch Marketing TikTok | Anh Hoàng (Marketing) | 05/04/2025 |
+| Rà soát hợp đồng hợp tác đầu tư Micro-investment | Chị Phương (Pháp chế) | 20/04/2025 |
+| Dự thảo cơ chế tính điểm và cấp bậc Gamification | Chị Linh (Sản phẩm) | 12/04/2025 |
+| Phân tích hiệu quả kinh tế (LTV vs CAC) | Chị Hồng (Tài chính) | 25/04/2025 |
+| Chỉ đạo tổng thể và báo cáo Hội đồng quản trị | Anh Nam (Giám đốc) | Định kỳ |

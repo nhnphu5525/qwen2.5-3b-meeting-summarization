@@ -1,0 +1,49 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00:00] Chào chị Hồng, chào Nam. Hôm nay chúng ta họp bàn về kế hoạch đấu thầu vật tư tiêu hao cho quý III tới của bệnh viện mình. Tình hình quý II vừa rồi có vẻ hơi căng thẳng về nguồn cung, nên quý này tôi muốn chúng ta phải chuẩn bị thật kỹ, tránh tình trạng thiếu hụt găng tay hay bơm kim tiêm như đợt trước.
+[08:02:15] Dạ báo cáo bác sĩ Tuấn, đúng là quý II mình bị "vướng" chỗ nhà cung cấp cũ họ bị đứt chuỗi cung ứng nên hàng về chậm. Rút kinh nghiệm, đợt này phòng Vật tư đã chủ động tìm thêm 3-4 đơn vị tiềm năng khác nữa rồi ạ.
+[08:04:30] Anh Nam bên Tài chính đã cân đối được nguồn vốn cho đợt thầu này chưa? Tôi nghe nói giá vật tư y tế trên thị trường đang có xu hướng tăng nhẹ đó.
+[08:06:45] Dạ vầy nè bác sĩ Tuấn, em đã xem qua dự toán của chị Hồng gửi sang. Tổng kinh phí dự kiến tăng khoảng 15% so với cùng kỳ năm ngoái. Một phần là do giá nguyên liệu đầu vào tăng, phần nữa là do mình có thêm 2 khoa mới đi vào hoạt động nên nhu cầu cũng cao hơn.
+[08:09:00] 15% là con số không nhỏ đâu nha. Chị Hồng ơi, mình có thể tối ưu hóa chỗ nào không? Ví dụ như gộp các gói thầu nhỏ lại thành gói lớn để ép giá nhà cung cấp xuống chẳng hạn?
+[08:11:15] Dạ cái này em cũng đã tính tới rồi bác sĩ. Em đang dự kiến chia làm 3 nhóm chính: Nhóm vật tư tiêu hao thông thường, Nhóm hóa chất xét nghiệm và Nhóm vật tư thay thế kỹ thuật cao. Việc gộp gói thầu thì mình phải làm đúng theo Luật Đấu thầu mới nhất, em cũng đang nhờ bên tư vấn hỗ trợ soạn thảo hồ sơ mời thầu cho nó chuẩn xác ạ.
+[08:13:30] Nhắc tới Luật Đấu thầu mới, Nam nhớ kiểm tra kỹ các quy định về chỉ định thầu trong trường hợp khẩn cấp nha. Đừng để vướng vào mấy cái lùm xùm pháp lý mệt lắm.
+
+<|output|>
+# Kế hoạch đấu thầu vật tư tiêu hao Quý III
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai công tác chuẩn bị đấu thầu vật tư tiêu hao cho Quý III/2024.
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình cung ứng Quý II: Gặp khó khăn do chuỗi cung ứng bị đứt gãy, cần tìm thêm các nhà cung cấp dự phòng.
+- Ngân sách Quý III: Dự kiến tăng 15% do biến động giá thị trường và nhu cầu từ 2 khoa mới thành lập.
+
+### 3. Kết luận và quyết định
+- Thống nhất danh mục và dự toán kinh phí cho đợt thầu Quý III.
+- Giao phòng Vật tư hoàn thiện hồ sơ mời thầu và đăng thông báo trước ngày 20/06.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện cấu hình kỹ thuật vật tư và hóa chất | Chị Hồng - Phòng Vật tư | 15/06/2024 |
+| Soạn thảo hồ sơ mời thầu và tờ trình | Chị Hồng - Phòng Vật tư | 18/06/2024 |

@@ -1,0 +1,67 @@
+<|input|>
+# Phân tích nguyên nhân chi phí vận hành (OPEX) tăng cao
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân chi phí vận hành (OPEX) tăng 20% so với ngân sách dự kiến trong tháng vừa qua.
+- Đề xuất các giải pháp cắt giảm chi phí và tối ưu hóa hiệu quả vận hành các phòng ban.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân tăng chi phí:
+- Giải pháp đề xuất:
+
+### 3. Kết luận và quyết định
+- Duyệt thay mới gioăng cửa kho lạnh ngay trong tuần tới.
+- Giao phòng Tài chính hoàn thiện báo cáo phân tích lợi ích thuê ngoài dịch vụ vận tải.
+- Triển khai bộ định mức chi phí mới áp dụng từ tháng sau, gắn liền với quỹ thưởng của các phòng ban.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thay mới gioăng cao su cửa kho lạnh | Chị Loan - Phòng Tài chính (phối hợp Kỹ thuật) | 18/06/2024 |
+| Hoàn thiện báo cáo so sánh outsourcing vận tải | Minh - Chuyên viên phân tích | 21/06/2024 |
+| Xây dựng bộ định mức chi phí cho các phòng ban | Chị Loan - Trưởng phòng Tài chính | 25/06/2024 |
+| Tối ưu hóa Database và rà soát gói Cloud IT | Minh & Team IT | 28/06/2024 |
+[15:27:00] Dạ vụ đó em có hỏi anh Tuấn bên IT rồi ạ. Họ bảo là do dữ liệu khách hàng tăng nhanh quá nên gói cũ không chịu nổi nhiệt. Nhưng em đã làm việc lại và yêu cầu họ tối ưu hóa database trước, nếu vẫn không ổn thì mình mới nâng cấp từng phần thay vì nâng cấp nguyên gói lớn anh ạ.
+[15:29:15] Hay lắm Minh. Phải có tinh thần phản biện như vậy mới được. Chị Loan nè, cuối tháng này mình làm một buổi workshop nhỏ chia sẻ về tinh thần tiết kiệm chi phí cho toàn thể nhân viên công ty luôn nha. Để mọi người hiểu là công ty tiết kiệm là để đảm bảo lương thưởng cho chính họ.
+[15:31:30] Dạ ý kiến này hay quá anh Khánh. Em sẽ nhờ bên nhân sự hỗ trợ khâu tổ chức ạ. Em nghĩ mình nên có thêm giải thưởng cho phòng ban nào có sáng kiến tiết kiệm chi phí hiệu quả nhất tháng nữa anh.
+[15:33:45] Duyệt! Thưởng nóng luôn. Thôi, tóm lại là: Chị Loan lo vụ gioăng cửa kho lạnh và định mức chi phí; Minh lo báo cáo outsourcing đội xe và làm việc tiếp với IT. Thứ Sáu mình chốt số liệu lần cuối nhé.
+[15:36:00] Dạ em rõ rồi ạ. Em sẽ hoàn thiện báo cáo đúng hạn.
+[15:38:15] Dạ em cũng triển khai ngay vụ kho bãi đây ạ.
+[15:40:30] Ừ, mọi người cố gắng nhé. Cân đối được OPEX là mình đã cứu được một phần lợi nhuận cho công ty rồi đó. Chào hai đứa nha.
+[15:42:45] Dạ chào anh ạ.
+[15:45:00] Chào anh, chào Minh nhé.
+
+<|output|>
+# Phân tích nguyên nhân chi phí vận hành (OPEX) tăng cao
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân chi phí vận hành (OPEX) tăng 20% so với ngân sách dự kiến trong tháng vừa qua.
+- Đề xuất các giải pháp cắt giảm chi phí và tối ưu hóa hiệu quả vận hành các phòng ban.
+- Thống nhất kế hoạch xây dựng định mức chi tiêu mới và tuyên truyền tinh thần tiết kiệm trong công ty.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân tăng chi phí:
+- Giải pháp đề xuất:
+- Truyền thông: Tổ chức workshop về tiết kiệm chi phí và phát động phong trào sáng kiến tiết kiệm có thưởng.
+
+### 3. Kết luận và quyết định
+- Duyệt thay mới gioăng cửa kho lạnh ngay trong tuần tới.
+- Giao phòng Tài chính hoàn thiện báo cáo phân tích lợi ích thuê ngoài dịch vụ vận tải.
+- Triển khai bộ định mức chi phí mới áp dụng từ tháng sau, gắn liền với quỹ thưởng của các phòng ban.
+- Tổ chức workshop tuyên truyền và khen thưởng sáng kiến tiết kiệm vào cuối tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thay mới gioăng cao su cửa kho lạnh | Chị Loan - Phòng Tài chính (phối hợp Kỹ thuật) | 18/06/2024 |
+| Hoàn thiện báo cáo so sánh outsourcing vận tải | Minh - Chuyên viên phân tích | 21/06/2024 |
+| Xây dựng bộ định mức chi phí cho các phòng ban | Chị Loan - Trưởng phòng Tài chính | 25/06/2024 |
+| Tối ưu hóa Database và rà soát gói Cloud IT | Minh & Team IT | 28/06/2024 |
+| Tổ chức Workshop tiết kiệm chi phí | Chị Loan & Phòng Nhân sự | 30/06/2024 |
+| Trình Hội đồng quản trị kế hoạch tối ưu OPEX | Anh Khánh - CFO | 05/07/2024 |

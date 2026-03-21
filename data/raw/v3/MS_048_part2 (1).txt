@@ -1,0 +1,59 @@
+<|input|>
+# Thiết kế gói bảo hiểm sức khỏe toàn diện cho nhân viên tập đoàn năm 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát gói bảo hiểm sức khỏe hiện tại và nâng cấp các quyền lợi để tăng tính cạnh tranh cho phúc lợi nhân viên.
+- Thống nhất các quyền lợi mới: Thai sản, Nha khoa.
+
+### 2. Các vấn đề đã thảo luận
+- **Phân cấp quyền lợi:** Đề xuất chia làm 3 hạng (Kim cương, Vàng, Bạc) tương ứng với cấp bậc chức vụ.
+- **Quyền lợi mới:** 
+    - Thai sản: Hạn mức 20-50 triệu, thời gian chờ 270 ngày.
+    - Nha khoa: Hạn mức 5 triệu/năm, phí bổ sung thấp (300-400 ngàn/người/năm).
+
+### 3. Kết luận và quyết định
+- Ưu tiên cập nhật hạn mức thai sản và thiết kế bảo hiểm thành 3 hạng mục.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[09:16] Direct Billing là tính năng cực kỳ quan trọng anh Minh nhé. Nhân viên họ ngại nhất là phải thu thập hóa đơn rồi chờ đợi thanh toán (Reimbursement) lâu la. Danh sách bệnh viện liên kết (Network) của PVI hiện nay thế nào?
+[09:18] Anh yên tâm, hệ thống Direct Billing của PVI hiện đang lớn nhất Việt Nam với hơn 200 bệnh viện và phòng khám trải dài từ Bắc vào Nam. Đặc biệt, tụi em vừa ký kết thêm với một số bệnh viện công chất lượng cao như BV Đại học Y Dược và BV Tâm Anh để đa dạng hóa lựa chọn cho nhân viên.
+[09:20] Tốt! À, anh Minh lưu ý cho tôi vụ bảo hiểm cho người thân. Nhiều nhân viên họ muốn mua thêm cho con cái hoặc bố mẹ với giá ưu đãi theo đoàn của công ty. PVI có hỗ trợ vụ này không?
+[09:22] Dạ có chứ anh. Tụi em có chương trình "Family Cover". Nhân viên có thể đăng ký mua thêm cho người thân với mức phí ưu đãi giảm 20-30% so với mua lẻ bên ngoài, và đặc biệt là được hưởng chung mạng lưới Direct Billing với nhân viên luôn. Công ty chỉ cần đứng ra thu tiền hộ và chuyển cho bên em thôi.
+[09:24] Chị Thảo ghi lại điểm này nhé. Đây là một điểm cộng rất lớn trong mắt nhân viên mà công ty không tốn thêm chi phí đóng bảo hiểm.
+[09:26] Ờ... còn vụ bồi thường qua App (E-claim) thì sao anh Minh? Dạo này xu hướng chuyển đổi số mà, mình vẫn dùng giấy tờ thủ công thì lạc hậu quá.
+[09:28] Anh nói đúng ạ. PVI đã có App "PVI Care". Nhân viên chỉ cần chụp ảnh đơn thuốc, hóa đơn rồi up lên app. Trong vòng 5 ngày làm việc là tiền sẽ về tài khoản. Tụi em cam kết tỷ lệ xử lý hồ sơ tự động (Auto-adjudication) đạt trên 70%.
+[09:30] 5 ngày là tiến bộ hơn trước rồi. Trước đây có khi nhân viên đợi cả tháng trời. Thảo check lại quy trình này xem có thực sự nhanh như anh Minh nói không nhé.
+[09:32] Dạ, em sẽ xin danh sách các doanh nghiệp đang dùng PVI để hỏi thăm (reference check). À, anh Minh cho em hỏi về bảo hiểm tử kỳ và tai nạn (Personal Accident). Mình có nên gộp chung vào gói sức khỏe luôn không?
+
+<|output|>
+# Thiết kế gói bảo hiểm sức khỏe toàn diện cho nhân viên tập đoàn năm 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát gói bảo hiểm sức khỏe hiện tại và nâng cấp các quyền lợi để tăng tính cạnh tranh cho phúc lợi nhân viên.
+- Thống nhất các quyền lợi mới: Thai sản, Nha khoa và bảo hiểm cho người thân (Family Cover).
+
+### 2. Các vấn đề đã thảo luận
+- **Phân cấp quyền lợi:** Chia làm 3 hạng (Kim cương, Vàng, Bạc) tương ứng với cấp bậc chức vụ.
+- **Quyền lợi mới:** 
+    - Thai sản: Hạn mức 20-50 triệu, thời gian chờ 270 ngày.
+    - Nha khoa: Hạn mức 5 triệu/năm, phí bổ sung thấp.
+- **Trải nghiệm người dùng:** Ưu tiên khám không cần trả tiền trước (Direct Billing) qua mạng lưới bệnh viện rộng khắp (Vinmec, FV, BV Đại học Y Dược, BV Tâm Anh...) và bồi thường online qua E-claim.
+- **Bảo hiểm cho người thân:** Chương trình "Family Cover" giúp nhân viên mua thêm cho gia đình với mức giảm phí 20-30%.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương mua chương trình Family cho người thân.
+- Thực hiện Reference Check với các khách hàng hiện tại của PVI về tốc độ xử lý E-claim qua App PVI Care.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

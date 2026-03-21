@@ -1,0 +1,118 @@
+<|input|>
+# Dự án mở rộng nhà máy lắp ráp linh kiện điện tử giai đoạn 2 (Rising Sun)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khởi động chi tiết dự án mở rộng nhà máy giai đoạn 2 nhằm nâng cao năng lực sản xuất, đáp ứng đơn hàng xuất khẩu.
+- Giải quyết các vướng mắc về mặt bằng, hạ tầng kỹ thuật và thống nhất phương án công nghệ (Automation, Smart Factory).
+
+### 2. Các vấn đề đã thảo luận
+- **Hạ tầng xây dựng:** 
+    - Xử lý việc di dời đường ống nước ngầm cũ phát sinh tại khu phía Tây để đảm bảo tiến độ ép cọc.
+    - Áp dụng tiêu chuẩn LEED cho thiết kế nhà xưởng; sử dụng vật liệu panel cách nhiệt nội địa đạt chuẩn PCCC để tối ưu chi phí.
+- **Công nghệ & Tự động hóa:**
+    - Thiết lập phòng sạch (Cleanroom) Class 1.000 và Class 10.000 với hệ thống lọc HEPA nhập khẩu.
+    - Lựa chọn Robot Fanuc (Nhật Bản) đi kèm gói đào tạo chuyên sâu cho kỹ sư tại nước ngoài.
+- **Logistic & Chuỗi cung ứng:**
+    - Chuyển hướng nhập khẩu hàng hóa từ cảng Cát Lái sang Cái Mép - Thị Vải để tránh ùn tắc và rút ngắn thời gian quay vòng container.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án thi công cuốn chiếu (ép cọc phía Đông trước) để không gián đoạn tiến độ tổng thể.
+- Đồng ý chủ trương dùng vật liệu nội địa và robot Nhật Bản.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Di dời đường ống nước ngầm khu phía Tây | Ban Quản lý KCN | 10/03/2025 |
+| Đàm phán chốt hợp đồng robot Fanuc & Gói đào tạo | Phòng Thu mua | 15/03/2025 |
+| Hoàn thiện thiết kế chi tiết nhà xưởng chuẩn LEED | Đơn vị Tư vấn | 25/03/2025 |
+| Ký hợp đồng nguyên tắc vận chuyển với đối tác Cái Mép | Team Logistics | 22/03/2025 |
+| Kiểm định mẫu panel cách nhiệt nội địa tại Cục PCCC | Phòng QA/QC | 14/03/2025 |
+| Xây dựng chính sách giữ chân kỹ sư sau đào tạo tại Nhật | Phòng Nhân sự | 16/03/2025 |
+| Chuẩn bị hồ sơ nghiệm thu ép cọc đợt 1 | Team Giám sát | 10/04/2025 |
+| Khảo sát nhà cung cấp hệ thống phòng sạch (Cleanroom) | Phòng Vật tư | 15/04/2025 |
+[09:40] Ờ... 90% có đạt chuẩn PCCC mới của Bộ Công an không? Dạo này vụ phòng cháy chữa cháy làm gắt lắm, không đạt là không nghiệm thu được nhà xưởng đâu.
+[09:45] Dạ đạt ạ, hàng của họ có đầy đủ chứng chỉ kiểm định của Cục PCCC. Ờ... tụi em sẽ cho test thử mẫu thực tế trước khi đặt hàng đại trà.
+[09:50] Vậy thì dùng hàng nội cho nó kinh tế. Ờ... một vấn đề nữa là nguồn điện. Nhà máy mở rộng thì trạm biến áp hiện tại không chịu tải nổi đâu. Ờ... mình đã làm việc với Điện lực (EVN) để nâng cấp chưa?
+[09:55] Dạ thưa sếp, em đã nộp hồ sơ xin tăng công suất thêm 5MW rồi ạ. Ờ... EVN họ yêu cầu mình phải đầu tư xây dựng một trạm biến áp 110kV riêng bên trong khuôn viên nhà máy thì họ mới cấp tải được. Ờ... chi phí này tầm 5 tỷ đồng.
+[10:00] 5 tỷ là phải làm thôi, không có điện thì robot chạy bằng niềm tin à? Ờ... nhưng mà nhớ ép bên điện lực cam kết về độ ổn định của nguồn điện. Chỉ cần sụt áp nhẹ là hệ thống máy SMT nó dừng, lỗi sản phẩm hàng loạt ngay. Ờ... cần phải có hệ thống UPS (bộ lưu điện) dự phòng cho các máy trọng yếu nữa.
+[10:05] Vâng thưa anh, em đã đưa hệ thống UPS công suất lớn vào hạng mục M&E rồi ạ. Ờ... thưa sếp, còn vụ xử lý rác thải điện tử (E-waste). Lượng linh kiện hỏng, bảng mạch lỗi khi vận hành quy mô lớn sẽ rất nhiều. Mình định xử lý thế nào ạ?
+[10:10] Ờ... rác thải điện tử chứa nhiều kim loại quý nhưng cũng cực kỳ độc hại. Ờ... tuyệt đối không được bán cho mấy bên ve chai hay cơ sở lậu. Phải ký hợp đồng với đơn vị có chức năng tiêu hủy và thu hồi kim loại chuyên nghiệp. Ờ... nếu mình có thể bóc tách và phân loại ngay tại chỗ thì giá trị bán lại cho các đơn vị xử lý sẽ cao hơn.
+[10:15] Dạ, em sẽ cho thiết lập một khu vực thu gom rác thải nguy hại đúng chuẩn trong thiết kế nhà kho mới ạ. Ờ... thưa sếp, còn về khâu nhân sự sản xuất. Mình cần thêm khoảng 500 công nhân kỹ thuật cao cho giai đoạn mới. Ờ... nguồn lao động tại địa phương đang cạn kiệt do các nhà máy xung quanh cũng đang mở rộng.
+[10:20] Ờ... nan giải đấy. Phải liên hệ với các trường cao đẳng nghề ở các tỉnh lân cận như Bình Phước, Tây Ninh, thậm chí là dưới miền Tây. Ờ... mình phải xây thêm ký túc xá cho công nhân ở xa thì họ mới gắn bó được. Ờ... phòng Nhân sự lên kế hoạch tuyển dụng và đãi ngộ đi.
+[10:25] Dạ, dự án ký túc xá giai đoạn 2 tụi em cũng đã lên layout rồi ạ. Ờ... sẽ có đầy đủ khu căn tin, sân bóng đá, wifi miễn phí để anh em giải trí sau giờ làm.
+[10:30] Tốt, phải coi công nhân là tài sản của công ty. Ờ... còn khâu IT, hệ thống ERP hiện tại có tích hợp được các dây chuyền robot mới không? Tôi muốn ngồi ở văn phòng tổng công ty cũng thấy được hiệu suất (OEE) của từng con robot đang chạy dưới nhà máy.
+[10:35] Thưa anh, mình sẽ triển khai giải pháp Smart Factory trên nền tảng IoT. Ờ... các máy móc sẽ được kết nối qua giao thức OPC UA và truyền dữ liệu về Dashboard trung tâm. Ờ... hệ thống này sẽ cảnh báo bảo trì dự báo (Predictive Maintenance) giúp mình biết trước khi nào máy sắp hỏng để thay thế linh kiện, tránh dừng máy đột ngột.
+[10:40] Tuyệt vời, đó mới là cách quản lý hiện đại. Ờ... tổng kết lại nhé: 
+1. Xử lý vụ ống nước ngầm để ép cọc đúng tiến độ.
+2. Thiết kế nhà xưởng chuẩn LEED, dùng vật liệu nội địa đạt chuẩn PCCC.
+3. Chốt phương án robot Fanuc với gói đào tạo kỹ sư.
+4. Chuyển hướng Logistic sang Cái Mép - Thị Vải.
+5. Đầu tư trạm biến áp 110kV và hệ thống UPS dự phòng.
+6. Xây dựng Smart Factory kết nối IoT.
+7. Lên kế hoạch tuyển dụng 500 nhân sự và xây ký túc xá.
+[10:45] Ngân sách tổng thể cho giai đoạn này là bao nhiêu? Nam bên Tài chính chốt số cuối cùng cho tôi xem nào.
+[10:50] Dạ thưa sếp, tổng dự toán là 25 triệu USD, tương đương khoảng 625 tỷ đồng Việt Nam ạ. Ờ... trong đó 15 triệu là cho xây dựng và hạ tầng, 10 triệu là cho máy móc, robot và hệ thống IT ạ.
+[10:55] Ờ... 25 triệu đô. Một con số không hề nhỏ. Ờ... mình sẽ giải ngân theo tiến độ 4 đợt. Đợt 1 là 20% ngay sau khi ký hợp đồng với các nhà thầu chính. Ờ... Nam chuẩn bị hồ sơ vay vốn từ ngân hàng Phát triển Việt Nam (VDB) và các ngân hàng thương mại lớn nhé.
+[11:00] Vâng thưa sếp, em đã chuẩn bị xong bộ hồ sơ dự án (Project Profile) rồi ạ. Tuần sau em sẽ đi làm việc với các ngân hàng. 
+[11:05] OK, buổi họp hôm nay rất hiệu quả. Tôi muốn mọi người giữ tinh thần "quyết chiến quyết thắng" này xuyên suốt dự án. Ờ... dự án "Rising Sun" phải thành công để nâng tầm tập đoàn mình lên một vị thế mới.
+[11:10] Dạ vâng! Chúng em quyết tâm hoàn thành nhiệm vụ ạ!
+[11:15] Được rồi, giải tán thôi. Anh Nam ở lại trao đổi riêng với tôi một chút về vụ thầu robot nhé.
+[11:20] Dạ vâng ạ. 
+[11:25] Chào sếp, chào mọi người. 
+
+<|output|>
+# Dự án mở rộng nhà máy lắp ráp linh kiện điện tử giai đoạn 2 (Rising Sun)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khởi động chi tiết dự án mở rộng nhà máy giai đoạn 2 nhằm nâng cao năng lực sản xuất, đáp ứng đơn hàng xuất khẩu.
+- Giải quyết các vướng mắc về mặt bằng, hạ tầng kỹ thuật và thống nhất phương án công nghệ (Automation, Smart Factory).
+- Chốt ngân sách đầu tư, lộ trình giải ngân và kế hoạch nhân sự, logistic dài hạn.
+
+### 2. Các vấn đề đã thảo luận
+- **Hạ tầng xây dựng:** 
+    - Xử lý việc di dời đường ống nước ngầm cũ phát sinh tại khu phía Tây để đảm bảo tiến độ ép cọc.
+    - Áp dụng tiêu chuẩn LEED cho thiết kế nhà xưởng; sử dụng vật liệu panel cách nhiệt nội địa đạt chuẩn PCCC để tối ưu chi phí.
+    - Đầu tư trạm biến áp 110kV riêng (5 tỷ VNĐ) và hệ thống UPS công suất lớn để đảm bảo nguồn điện ổn định cho dây chuyền SMT.
+- **Công nghệ & Tự động hóa:**
+    - Lựa chọn Robot Fanuc (Nhật Bản) đi kèm gói đào tạo chuyên sâu cho kỹ sư tại nước ngoài.
+    - Triển khai mô hình Smart Factory trên nền tảng IoT để giám sát hiệu suất (OEE) và bảo trì dự báo (Predictive Maintenance).
+    - Thiết lập phòng sạch (Cleanroom) Class 1.000 và Class 10.000 với hệ thống lọc HEPA nhập khẩu.
+- **Logistic & Chuỗi cung ứng:**
+    - Chuyển hướng nhập khẩu hàng hóa từ cảng Cát Lái sang Cái Mép - Thị Vải để tránh ùn tắc và rút ngắn thời gian quay vòng container.
+    - Ký hợp đồng xử lý rác thải điện tử (E-waste) với đơn vị chuyên nghiệp để thu hồi kim loại và bảo vệ môi trường.
+- **Nhân sự & Đãi ngộ:**
+    - Tuyển dụng mới 500 nhân sự kỹ thuật cao; xây dựng ký túc xá công nhân với đầy đủ tiện ích (căn tin, khu thể thao) để thu hút lao động từ các tỉnh xa.
+- **Tài chính:**
+    - Tổng mức đầu tư dự kiến 25 triệu USD (625 tỷ VNĐ), giải ngân theo 4 đợt.
+    - Tiếp cận nguồn vốn vay từ ngân hàng VDB và các ngân hàng thương mại lớn.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án thi công cuốn chiếu (ép cọc phía Đông trước) để không gián đoạn tiến độ tổng thể.
+- Đồng ý chủ trương dùng vật liệu nội địa và robot Nhật Bản.
+- Yêu cầu các bộ phận hoàn thiện hồ sơ vay vốn và hồ sơ mời thầu thiết bị trong vòng 2 tuần tới.
+- Giao phòng IT và Kỹ thuật phối hợp xây dựng khung kiến trúc cho Smart Factory.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Di dời đường ống nước ngầm khu phía Tây | Ban Quản lý KCN | 10/03/2025 |
+| Đàm phán chốt hợp đồng robot Fanuc & Gói đào tạo | Phòng Thu mua | 15/03/2025 |
+| Nộp hồ sơ vay vốn dự án Rising Sun lên các ngân hàng | Phòng Tài chính | 12/03/2025 |
+| Hoàn thiện thiết kế chi tiết nhà xưởng chuẩn LEED | Đơn vị Tư vấn | 25/03/2025 |
+| Làm việc với EVN về phương án trạm biến áp 110kV | Phòng Kỹ thuật | 20/03/2025 |
+| Lên kế hoạch tuyển dụng và truyền thông tại các trường nghề | Phòng Nhân sự | 18/03/2025 |
+| Ký hợp đồng nguyên tắc vận chuyển với đối tác Cái Mép | Team Logistics | 22/03/2025 |
+| Thiết lập hệ thống Dashboard giám sát IoT (Demo) | Team IT | 05/04/2025 |
+| Kiểm định mẫu panel cách nhiệt nội địa tại Cục PCCC | Phòng QA/QC | 14/03/2025 |
+| Lập phương án thu gom và phân loại E-waste tại chỗ | Phòng Môi trường | 28/03/2025 |
+| Xây dựng chính sách giữ chân kỹ sư sau đào tạo tại Nhật | Phòng Nhân sự | 16/03/2025 |
+| Chuẩn bị hồ sơ nghiệm thu ép cọc đợt 1 | Team Giám sát | 10/04/2025 |
+| Khảo sát nhà cung cấp hệ thống phòng sạch (Cleanroom) | Phòng Vật tư | 15/04/2025 |
+| Tính toán chi phí vận hành (OPEX) cho Smart Factory | Phòng Tài chính | 20/04/2025 |
+| Soạn thảo hợp đồng thi công xây dựng (EPC Contract) | Phòng Pháp chế | 30/04/2025 |

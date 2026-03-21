@@ -1,0 +1,62 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:30] Đừng quên là khóa học trực tuyến cũng ảnh hưởng nhiều đến kết quả chung đó.
+[08:32] Mọi người có thấy vụ tương tác học viên dạo này bị chậm không?
+[08:34] Chào cả nhà, chúng ta bắt đầu bàn về giao diện người dùng nhé.
+[08:36] Thực ra Cần phải làm rõ thêm các chi tiết liên quan đến giao diện người dùng.
+[08:38] Thực ra Có ai phụ trách chính cho mảng bản quyền bài giảng chưa nhỉ?
+[08:40] Cái giao diện người dùng này hình như đang bị vướng chỗ nào đó đúng không?
+[08:36] Liệu mình có thể đẩy nhanh tiến độ cho bản quyền bài giảng được không?
+[08:37] Thì Ờm, cái khóa học trực tuyến này thực ra là một vấn đề khá nan giải.
+[08:46] Liệu mình có thể đẩy nhanh tiến độ cho nội dung số được không?
+[08:48] Về phần hệ thống LMS thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[08:50] Để tôi check lại với bên khóa học trực tuyến xem tình hình thế nào nhé.
+[08:52] Về phần giao diện người dùng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[08:42] Chắc là Tôi đồng ý với ý kiến về hệ thống LMS, nên làm quyết liệt hơn.
+[08:56] Tóm lại là Thôi được rồi, vậy thống nhất là làm nội dung số theo cách đó.
+[08:44] Ờm, cái nội dung số này thực ra là một vấn đề khá nan giải.
+[09:00] Thực ra Cảm ơn mọi người, buổi họp về Phát triển E-learning hôm nay rất chất lượng.
+[09:02] Thế còn ngân sách cho nội dung số thì sao hả mọi người?
+[09:04] Chào cả nhà, chúng ta bắt đầu bàn về tương tác học viên nhé.
+[09:06] Nói chung là Mọi người có thấy vụ tương tác học viên dạo này bị chậm không?
+[08:49] Cảm ơn mọi người, buổi họp về Phát triển E-learning hôm nay rất chất lượng.
+[08:50] Thực ra Thế còn ngân sách cho tương tác học viên thì sao hả mọi người?
+[08:51] Đừng quên là giao diện người dùng cũng ảnh hưởng nhiều đến kết quả chung đó.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Phát triển E-learning
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho hệ thống LMS
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện khóa học trực tuyến
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ hệ thống LMS | Phòng Kỹ thuật | 04/11/2026 |

@@ -1,0 +1,83 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào cả nhà, chúng ta họp để chuẩn bị cho chiến dịch lớn nhất năm: Black Friday.
+[09:02] Mục tiêu năm nay là doanh số phải tăng gấp rưỡi so với năm ngoái, đạt mốc 100 tỷ đồng trong 3 ngày vàng.
+[09:04] Để đạt được con số đó, chúng ta cần danh mục sản phẩm cực kỳ hấp dẫn.
+[09:06] Phòng thu mua đã làm việc với các nhà cung cấp chưa? Mức giảm giá sâu nhất là bao nhiêu?
+[09:08] Đa số các nhãn hàng điện tử đồng ý giảm từ 30-50%, riêng các mặt hàng thời trang có thể lên tới 70% để đẩy hàng tồn.
+[09:10] Lưu ý là phải kiểm soát chất lượng hàng hóa, không được để hàng lỗi, hàng kém chất lượng trà trộn vào làm mất uy tín sàn.
+[09:12] Về mặt hạ tầng CNTT, tôi lo nhất là hệ thống bị sập vào lúc 0h ngày bắt đầu.
+[10:14] Năm ngoái chúng ta đã bị nghẽn thanh toán trong 15 phút đầu, năm nay cần chuẩn bị kỹ hơn.
+[10:16] Team kỹ thuật đã nâng cấp server lên cụm cluster mới, có khả năng chịu tải gấp 5 lần ngày thường.
+[10:18] Chúng ta cũng cần test stress hệ thống liên tục từ giờ đến lúc đó.
+[10:20] Về phía logistics, đơn hàng dự kiến sẽ tăng đột biến, kho bãi đã sẵn sàng chưa?
+[10:22] Chúng tôi đã thuê thêm 2 kho tạm thời và ký hợp đồng với 3 đơn vị vận chuyển dự phòng.
+[10:24] Ngoài ra, bộ phận đóng gói sẽ phải làm việc 3 ca liên tục để đảm bảo đơn hàng đi ngay trong vòng 24h.
+[10:26] Marketing cần chuẩn bị các kịch bản Livestream liên tục từ 8h sáng đến 12h đêm.
+[10:28] Mời thêm các hot streamer để kéo traffic nhé. Ngân sách cho KOL đợt này khá lớn đấy.
+[10:30] Phải có các trò chơi nhận voucher (gamification) để giữ chân người dùng ở lại app lâu hơn.
+[10:32] Đừng quên khâu chăm sóc khách hàng, số lượng khiếu nại về giao chậm hoặc sai hàng chắc chắn sẽ tăng.
+[10:34] Đã huy động thêm 50 nhân sự Part-time để hỗ trợ trực chat và hotline.
+[10:36] Về thanh toán, nên khuyến khích dùng ví điện tử hoặc thẻ tín dụng bằng các mã giảm giá độc quyền.
+[10:38] Việc này cũng giúp giảm tỷ lệ hoàn hàng (COD) cho bên logistics.
+[10:40] Ok, kế hoạch chi tiết từng ngày phải gửi cho Ban giám đốc trước thứ 6 này.
+[10:42] Mọi người cố gắng nhé, đây là trận đánh lớn cuối năm của chúng ta.
+[10:44] Chúng tôi sẽ nỗ lực hết sức để đạt mục tiêu.
+[10:46] Cần lưu ý thêm về việc bảo mật thông tin khách hàng, các cuộc tấn công mạng thường nhắm vào các dịp này.
+[10:48] Team Security sẽ giám sát 24/7 trong suốt tuần lễ Black Friday.
+[10:50] Buổi họp tạm dừng tại đây.
+
+<|output|>
+# Chiến dịch khuyến mãi Black Friday 2026
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch tổng thể cho chiến dịch bán hàng Black Friday với mục tiêu doanh thu 100 tỷ đồng.
+- Đảm bảo tính sẵn sàng của hạ tầng kỹ thuật, nguồn hàng và hệ thống logistics.
+- Thống nhất các kịch bản Marketing, Livestream và chăm sóc khách hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Nguồn hàng: Thương lượng mức giảm giá sâu (30-70%) cho các ngành hàng điện tử và thời trang.
+- Hạ tầng kỹ thuật: Nâng cấp server cluster, thực hiện stress test để chịu tải gấp 5 lần.
+- Logistics: Thuê kho tạm, bổ sung đơn vị vận chuyển dự phòng và tăng ca đóng gói 24/7.
+- Truyền thông: Tổ chức Livestream liên tục với KOLs, áp dụng Gamification để tăng tương tác.
+- Chăm sóc khách hàng: Tăng cường nhân sự part-time để xử lý khiếu nại và tư vấn.
+- Thanh toán và bảo mật: Đẩy mạnh thanh toán không tiền mặt và giám sát an ninh mạng 24/7.
+
+### 3. Kết luận và quyết định
+- Phòng Thu mua chốt danh mục sản phẩm giảm giá trước ngày 15.
+- Phòng CNTT hoàn thành nâng cấp hệ thống và kiểm tra tải lần cuối.
+- Phòng Logistics đảm bảo nhân lực và phương tiện vận chuyển dự phòng sẵn sàng.
+- Team Marketing hoàn thiện kịch bản Livestream và làm việc với các Streamer.
+- Thiết lập trung tâm điều hành chiến dịch (War room) để xử lý sự cố realtime.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Chốt danh sách sản phẩm và mức giảm giá | Phòng Thu mua | 15/11/2026 |
+| Hoàn tất Stress test hệ thống website/app | Phòng CNTT | 20/11/2026 |
+| Ký hợp đồng kho bãi và vận chuyển bổ sung | Phòng Logistics | 10/11/2026 |
+| Hoàn thiện kịch bản Livestream và mời KOL | Phòng Marketing | 18/11/2026 |
+| Tuyển dụng và đào tạo nhân sự trực chat | Phòng Nhân sự | 12/11/2026 |
+| Thiết lập hệ thống giám sát an ninh mạng | Team Security | 22/11/2026 |
+| Gửi báo cáo chi tiết chiến dịch hàng ngày | Phòng Kinh doanh | 28/11/2026 |

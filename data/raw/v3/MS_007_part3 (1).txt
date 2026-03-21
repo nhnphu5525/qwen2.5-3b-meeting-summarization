@@ -1,0 +1,68 @@
+<|input|>
+# Kế hoạch chuyển đổi sang Cloud Infrastructure (AWS)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận việc thay thế hệ thống server vật lý (On-premise) bằng hạ tầng điện toán đám mây.
+- Đánh giá các nhà cung cấp dịch vụ Cloud hàng đầu (AWS, Azure, GCP).
+- Xây dựng lộ trình dịch chuyển dữ liệu (Migration) và đào tạo nhân sự.
+
+### 2. Các vấn đề đã thảo luận
+- Hệ thống cũ thường xuyên gặp sự cố phần cứng và chi phí bảo trì cao.
+- So sánh AWS và Azure: AWS được ưu tiên nhờ hệ sinh thái dịch vụ đa dạng và tốc độ truy cập ổn định tại khu vực.
+- Quan ngại về việc kiểm soát chi phí hàng tháng trên Cloud và vấn đề bảo mật dữ liệu khách hàng.
+- Chiến lược migration: Quyết định không chuyển toàn bộ ngay lập tức (Lift and Shift) mà sẽ thực hiện refactor từng module (Microservices).
+
+### 3. Kết luận và quyết định
+- Triển khai bản thử nghiệm (PoC) với module Tin tức trước khi áp dụng cho các module nhạy cảm (Thanh toán).
+- Thành lập nhóm FinOps để giám sát và tối ưu hóa chi phí sử dụng hàng tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thực hiện PoC module Tin tức trên AWS | Team Dev | 15/04 |
+| Thiết lập hệ thống giám sát chi phí (FinOps) | Team Tài chính | 20/04 |
+[11:36] Về nhân sự, team mình hiện tại chưa có ai có chứng chỉ AWS Solution Architect. Mình có cần thuê chuyên gia tư vấn bên ngoài không?
+[11:38] Có thể thuê tư vấn trong giai đoạn thiết kế kiến trúc ban đầu, còn vận hành thì mình sẽ đào tạo nhân sự nội bộ.
+[11:40] Anh sẽ duyệt kinh phí cho 3 bạn đi học và thi chứng chỉ AWS trong tháng sau.
+[11:42] Rất tốt ạ, tụi em sẽ đăng ký ngay.
+[11:44] Chốt lại: Chọn AWS, làm PoC module tin tức, thuê tư vấn kiến trúc và đào tạo nhân sự nội bộ.
+[11:46] Kế hoạch cụ thể trình anh vào thứ Hai tuần sau nhé.
+[11:48] Vâng ạ, chúng em sẽ chuẩn bị kỹ.
+[11:50] Cảm ơn mọi người, buổi họp kết thúc.
+
+<|output|>
+# Kế hoạch chuyển đổi sang Cloud Infrastructure (AWS)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận việc thay thế hệ thống server vật lý (On-premise) bằng hạ tầng điện toán đám mây.
+- Đánh giá các nhà cung cấp dịch vụ Cloud hàng đầu (AWS, Azure, GCP).
+- Xây dựng lộ trình dịch chuyển dữ liệu (Migration) và đào tạo nhân sự.
+
+### 2. Các vấn đề đã thảo luận
+- Hệ thống cũ thường xuyên gặp sự cố phần cứng và chi phí bảo trì cao.
+- So sánh AWS và Azure: AWS được ưu tiên nhờ hệ sinh thái dịch vụ đa dạng và tốc độ truy cập ổn định tại khu vực.
+- Quan ngại về việc kiểm soát chi phí hàng tháng trên Cloud và vấn đề bảo mật dữ liệu khách hàng.
+- Chiến lược migration: Quyết định không chuyển toàn bộ ngay lập tức (Lift and Shift) mà sẽ thực hiện refactor từng module (Microservices).
+- Sự thiếu hụt nhân sự có chuyên môn sâu về kiến trúc Cloud.
+
+### 3. Kết luận và quyết định
+- Chính thức lựa chọn Amazon Web Services (AWS) làm đối tác cung cấp hạ tầng.
+- Triển khai bản thử nghiệm (PoC) với module Tin tức trước khi áp dụng cho các module nhạy cảm (Thanh toán).
+- Thuê chuyên gia tư vấn kiến trúc bên ngoài để thiết kế hệ thống tối ưu ngay từ đầu.
+- Tài trợ kinh phí đào tạo và thi chứng chỉ AWS cho 3 nhân sự cốt lõi của team kỹ thuật.
+- Thành lập nhóm FinOps để giám sát và tối ưu hóa chi phí sử dụng hàng tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập báo cáo kiến trúc hạ tầng Cloud dự kiến | Team Kỹ thuật | 25/03 |
+| Liên hệ đơn vị tư vấn AWS để xin báo giá | Team Mua sắm | 28/03 |
+| Đăng ký khóa học AWS cho 3 nhân sự | Team HR | 05/04 |
+| Thực hiện PoC module Tin tức trên AWS | Team Dev | 15/04 |
+| Thiết lập hệ thống giám sát chi phí (FinOps) | Team Tài chính | 20/04 |

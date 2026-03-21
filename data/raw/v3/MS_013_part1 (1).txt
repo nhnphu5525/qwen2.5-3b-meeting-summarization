@@ -1,0 +1,41 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[10:00] Chào mọi người, hôm nay chúng ta họp về việc cải thiện quy trình tiếp đón bệnh nhân tại khoa Khám bệnh.
+[10:02] Hiện tại thời gian chờ đợi để lấy số và làm thủ tục đang quá lâu, trung bình khoảng 45 phút vào giờ cao điểm.
+[10:04] Tôi thấy vấn đề nằm ở chỗ khâu thanh toán bảo hiểm y tế còn làm thủ công nhiều, máy móc thỉnh thoảng lại treo.
+[10:06] Đề xuất mình lắp thêm 2 máy lấy số tự động và triển khai đặt lịch khám qua ứng dụng điện thoại.
+
+<|output|>
+# Cải thiện quy trình tiếp đón bệnh nhân tại khoa Khám bệnh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rút ngắn thời gian chờ đợi làm thủ tục tại khoa Khám bệnh.
+- Hiện đại hóa quy trình đăng ký và thanh toán thông qua công nghệ.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng ùn tắc vào giờ cao điểm do khâu bảo hiểm y tế chậm.
+- Giải pháp sử dụng máy lấy số tự động và ứng dụng đặt lịch khám online.
+
+### 3. Kết luận và quyết định
+- Lắp đặt thêm máy lấy số tự động trong tuần tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lắp đặt và cấu hình máy lấy số mới | Phòng IT | 25/03/2026 |

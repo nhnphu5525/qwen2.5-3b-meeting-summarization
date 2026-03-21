@@ -1,0 +1,76 @@
+<|input|>
+# Review kết quả kiểm toán nội bộ quý 3 và phương hướng khắc phục
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Review các sai sót và tồn tại được phát hiện trong đợt kiểm toán nội bộ quý 3.
+- Truy cứu trách nhiệm của các cá nhân, bộ phận liên quan đến việc vi phạm quy trình kiểm soát.
+- Thiết lập các biện pháp kiểm soát chặt chẽ hơn để tối ưu chi phí và hạn chế rủi ro thất thoát tài sản.
+
+### 2. Các vấn đề đã thảo luận
+- **Quản lý chi phí:** Chi phí quản lý doanh nghiệp vượt 20% định mức; quy trình phê duyệt chi sau (hợp thức hóa chứng từ) còn phổ biến.
+- **Kiểm soát nợ xấu:** Phát hiện tình trạng Sales lách luật bằng cách tạo mã khách hàng mới để xuất hàng cho đại lý nợ quá hạn (1.5 tỷ đồng).
+- **Thất thoát tài sản:** Chênh lệch thiếu 200 triệu đồng tại kho tổng không có lý do chính đáng và biên bản hợp lệ.
+
+### 3. Kết luận và quyết định
+- Áp dụng cơ chế phê duyệt dự toán trước khi chi cho tất cả các khoản chi trên 5 triệu đồng.
+- Yêu cầu IT nâng cấp hệ thống ERP để chặn mã khách hàng nợ xấu theo mã số thuế/CCCD.
+- Giao kiểm toán nội bộ phối hợp bảo vệ điều tra vụ mất hàng 200 triệu qua hệ thống camera.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn văn bản quy định về dự toán chi phí và hoàn ứng | Kế toán trưởng | 10/03/2025 |
+| Nâng cấp tính năng chặn nợ xấu trên phần mềm ERP | Phòng IT | 15/03/2025 |
+| Trích xuất camera và làm việc với tổ kho về vụ mất hàng | Team Kiểm toán NB | 12/03/2025 |
+| Làm việc với bộ phận Sales về nợ quá hạn miền Trung | Ban Giám đốc | 12/03/2025 |
+[10:37] Dạ, tụi em sẽ triển khai ngay. À, còn một điểm nữa là các khoản tạm ứng (Advance) của nhân viên đi thị trường. Hiện tại còn khoảng 500 triệu chưa được hoàn ứng mặc dù dự án đã kết thúc cả quý rồi.
+[10:40] Quy định là sau 7 ngày kết thúc công việc phải hoàn ứng. Ờ... kế toán thông báo một lần cuối, nếu sau 5 ngày nữa không hoàn ứng thì cứ trừ thẳng vào lương tháng này cho tôi. Không có ngoại lệ.
+[10:43] Vâng thưa anh. Còn về các chứng từ thuế. Quý này mình bị loại khoảng 50 triệu tiền thuế GTGT đầu vào do hóa đơn của các nhà cung cấp đã bỏ địa chỉ kinh doanh. Ờ... khâu kiểm tra đối tác đầu vào của mình đang có vấn đề.
+[10:46] Cái này là do bộ phận Thu mua không kiểm tra tình trạng hoạt động của doanh nghiệp trên cổng thông tin thuế trước khi ký hợp đồng. Từ nay, kế toán chỉ thanh toán cho các hóa đơn nào có kết quả tra cứu "đang hoạt động".
+[10:49] Dạ, tụi em sẽ cập nhật quy trình này vào SOP của phòng Thu mua luôn ạ.
+[10:52] Ờ... còn khâu hạch toán tài sản cố định (Fixed assets). Em thấy mình vẫn còn dùng phương pháp khấu hao cũ cho các máy móc mới nhập. Theo thông tư mới thì mình có thể áp dụng khấu hao nhanh để tối ưu thuế. Kế toán xem lại chỗ này nhé.
+[10:55] Dạ, em đã nắm thông tin và sẽ điều chỉnh lại bảng tính khấu hao cho kỳ báo cáo năm nay luôn ạ.
+[10:58] Chốt lại buổi review hôm nay: 1. Siết chặt dự toán chi phí; 2. Khóa mã khách hàng nợ xấu theo mã số thuế; 3. Truy cứu trách nhiệm vụ mất hàng 200 triệu; 4. Trừ lương các trường hợp chậm hoàn ứng.
+[11:01] Mọi người có ý kiến gì về các biện pháp mạnh tay này không?
+[11:04] Dạ không ạ, làm nghiêm vậy thì bộ máy mới sạch được sếp ạ.
+[11:07] OK, làm biên bản cuộc họp và gửi cho tất cả các phòng ban liên quan ngay chiều nay. Giải tán.
+
+<|output|>
+# Review kết quả kiểm toán nội bộ quý 3 và phương hướng khắc phục
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Review các sai sót và tồn tại được phát hiện trong đợt kiểm toán nội bộ quý 3.
+- Truy cứu trách nhiệm của các cá nhân, bộ phận liên quan đến việc vi phạm quy trình kiểm soát.
+- Thiết lập các biện pháp kiểm soát chặt chẽ hơn để tối ưu chi phí và hạn chế rủi ro thất thoát tài sản.
+
+### 2. Các vấn đề đã thảo luận
+- **Quản lý chi phí:** Chi phí quản lý doanh nghiệp vượt 20% định mức; quy trình phê duyệt chi sau (hợp thức hóa chứng từ) còn phổ biến.
+- **Kiểm soát nợ xấu:** Phát hiện tình trạng Sales lách luật bằng cách tạo mã khách hàng mới để xuất hàng cho đại lý nợ quá hạn (1.5 tỷ đồng).
+- **Thất thoát tài sản:** Chênh lệch thiếu 200 triệu đồng tại kho tổng không có lý do chính đáng và biên bản hợp lệ.
+- **Tạm ứng & Hoàn ứng:** Tồn đọng 500 triệu đồng tạm ứng chưa hoàn mặc dù dự án đã kết thúc lâu.
+- **Rủi ro về thuế:** Bị loại 50 triệu tiền thuế GTGT do hóa đơn từ các doanh nghiệp không còn hoạt động.
+- **Hạch toán kế toán:** Cần cập nhật phương pháp khấu hao nhanh cho tài sản cố định mới theo thông tư hiện hành để tối ưu thuế.
+
+### 3. Kết luận và quyết định
+- Áp dụng cơ chế phê duyệt dự toán trước khi chi cho tất cả các khoản chi trên 5 triệu đồng.
+- Yêu cầu IT nâng cấp hệ thống ERP để chặn mã khách hàng nợ xấu theo mã số thuế/CCCD.
+- Giao kiểm toán nội bộ phối hợp bảo vệ điều tra vụ mất hàng 200 triệu qua hệ thống camera.
+- Thực hiện trừ lương đối với nhân viên chậm hoàn ứng sau 5 ngày kể từ thông báo cuối cùng.
+- Quy định bắt buộc tra cứu tình trạng nhà cung cấp trên cổng thông tin thuế trước khi ký hợp đồng/thanh toán.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn văn bản quy định về dự toán chi phí và hoàn ứng | Kế toán trưởng | 10/03/2025 |
+| Nâng cấp tính năng chặn nợ xấu trên phần mềm ERP | Phòng IT | 15/03/2025 |
+| Trích xuất camera và làm việc với tổ kho về vụ mất hàng | Team Kiểm toán NB | 12/03/2025 |
+| Rà soát và gửi thông báo hoàn ứng cho từng nhân viên | Phòng Kế toán | 08/03/2025 |
+| Cập nhật lại bảng khấu hao tài sản cố định quý 3 & 4 | Kế toán tổng hợp | 20/03/2025 |
+| Kiểm tra lại toàn bộ danh sách nhà cung cấp hiện tại | Phòng Thu mua | 25/03/2025 |
+| Làm việc với bộ phận Sales về nợ quá hạn miền Trung | Ban Giám đốc | 12/03/2025 |

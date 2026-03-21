@@ -1,0 +1,85 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Pháp lý
+- Giải quyết các vướng mắc về hợp đồng, luật doanh nghiệp
+- Đưa ra kế hoạch triển khai cho giai đoạn tới
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Pháp lý hiện nay
+- Khó khăn trong việc xử lý bảo mật dữ liệu
+- Đề xuất cải thiện quy trình tranh chấp
+- Đánh giá tác động của các yếu tố ngoại cảnh
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Pháp lý
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+- Phân công trách nhiệm cụ thể cho các đơn vị liên quan
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý luật doanh nghiệp | Bộ phận Kỹ thuật | 13/05/2026 |
+| Xử lý tuân thủ | Chị Lan | 25/06/2026 |
+| Xử lý bảo mật dữ liệu | Anh Nam | 19/02/2026 |
+| Xử lý giấy phép | Ban Giám đốc | 03/07/2026 |
+| Xử lý tranh chấp | Ban Giám đốc | 07/12/2026 |
+
+[28:30] Tôi đề xuất chốt hạn chót cho giấy phép là cuối tháng này được không?
+[22:02] Nhưng mà còn cái luật doanh nghiệp thì tính sao đây? Sắp hết hạn rồi.
+[22:04] Tôi lo là hợp đồng sẽ tốn nhiều chi phí hơn dự kiến.
+[22:06] Ờm Tôi thấy vấn đề bảo mật dữ liệu này quan trọng phết, cần xử lý sớm.
+[22:08] Nhưng mà còn cái bảo mật dữ liệu thì tính sao đây? Sắp hết hạn rồi.
+[28:45] Tuần tới mình tập trung dứt điểm cái tranh chấp đi cho xong.
+[15:36] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về tuân thủ.
+[28:51] Mọi người cứ thoải mái đóng góp ý kiến về tranh chấp đi.
+[22:16] Mong là lần này tuân thủ sẽ ổn thỏa hơn mấy lần trước.
+[28:57] Tôi thấy vấn đề tuân thủ này quan trọng phết, cần xử lý sớm.
+[15:40] Không sao, mình có thể tối ưu lại phần bảo mật dữ liệu mà.
+[29:03] À còn một việc nữa là cái luật doanh nghiệp, mọi người thấy ổn chưa?
+[15:42] Mong là lần này quyền sở hữu trí tuệ sẽ ổn thỏa hơn mấy lần trước.
+[22:26] Mong là lần này tuân thủ sẽ ổn thỏa hơn mấy lần trước.
+[22:28] À còn một việc nữa là cái tuân thủ, mọi người thấy ổn chưa?
+[22:30] Về phần bảo mật dữ liệu ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[22:32] Về phần hợp đồng ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[29:21] À còn một việc nữa là cái quyền sở hữu trí tuệ, mọi người thấy ổn chưa?
+[29:24] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[22:38] Tôi thấy vấn đề hợp đồng này quan trọng phết, cần xử lý sớm.
+[22:40] Thì Tôi lo là quyền sở hữu trí tuệ sẽ tốn nhiều chi phí hơn dự kiến.
+[22:42] Tôi thấy vấn đề quyền sở hữu trí tuệ này quan trọng phết, cần xử lý sớm.
+[29:36] Ờm Nhưng mà còn cái bảo mật dữ liệu thì tính sao đây? Sắp hết hạn rồi.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Pháp lý
+- Giải quyết các vướng mắc về hợp đồng, luật doanh nghiệp
+- Đưa ra kế hoạch triển khai cho giai đoạn tới
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Pháp lý hiện nay
+- Khó khăn trong việc xử lý bảo mật dữ liệu
+- Đề xuất cải thiện quy trình tranh chấp
+- Đánh giá tác động của các yếu tố ngoại cảnh
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Pháp lý
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+- Phân công trách nhiệm cụ thể cho các đơn vị liên quan
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý luật doanh nghiệp | Bộ phận Kỹ thuật | 13/05/2026 |
+| Xử lý tuân thủ | Chị Lan | 25/06/2026 |
+| Xử lý bảo mật dữ liệu | Anh Nam | 19/02/2026 |
+| Xử lý giấy phép | Ban Giám đốc | 03/07/2026 |
+| Xử lý tranh chấp | Ban Giám đốc | 07/12/2026 |

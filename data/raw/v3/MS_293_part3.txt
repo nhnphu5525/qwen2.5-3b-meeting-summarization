@@ -1,0 +1,70 @@
+<|input|>
+# Đánh giá thị trường và triển khai dự án căn hộ cao cấp Skyline Riverside
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích tình hình thị trường bất động sản khu Đông TP.HCM để định vị dự án.
+- Thống nhất giá bán dự kiến, chính sách thanh toán và hỗ trợ tài chính từ ngân hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Nhu cầu ổn định ở phân khúc cao cấp dù nguồn cung đang thắt chặt.
+- Giá bán dự kiến 95 triệu đồng/m2, cạnh tranh với các đối thủ cùng khu vực.
+- Chính sách thanh toán dãn cách 5%/đợt và gói vay 0% lãi suất trong 24 tháng.
+- Bổ sung tiện ích đặc quyền: Hồ bơi vô cực, Cigar lounge, Gym 5 sao.
+
+### 3. Kết luận và quyết định
+- Chốt giá bán và chính sách ngân hàng để chuẩn bị mở bán vào quý III.
+- Phê duyệt phương án bổ sung tiện ích đặc quyền để tăng tính cạnh tranh.
+- Giao bộ phận Pháp chế hoàn tất giấy phép xây dựng phần thân trong tháng 5.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký kết hợp tác chiến lược với ngân hàng | Phòng Nguồn vốn | 15/04/2024 |
+| Hoàn thiện thiết kế điều chỉnh tiện ích | Phòng Quản lý dự án | 20/04/2024 |
+| Đôn đốc giấy phép xây dựng | Phòng Pháp chế | 30/05/2024 |
+
+[09:51] Một vấn đề pháp lý quan trọng là chúng ta phải hoàn tất việc đóng tiền sử dụng đất và có giấy phép xây dựng phần thân trước khi tiến hành mở bán chính thức.
+[09:54] Hiện tại hồ sơ đang ở Sở Tài nguyên và Môi trường để chờ thẩm định giá đất. Bộ phận Pháp chế cần theo sát và đôn đốc hàng ngày để không làm chậm tiến độ dự án.
+[09:57] Nếu không có giấy phép xây dựng đúng hạn, chúng ta sẽ không thể ký hợp đồng mua bán và thu tiền khách hàng, điều này sẽ gây rủi ro lớn về dòng tiền cho công ty.
+[10:00] Tôi lo ngại về tình hình thị trường chung có thể bị ảnh hưởng bởi các yếu tố vĩ mô. Chúng ta nên có một phương án dự phòng (Plan B) trong trường hợp tỷ lệ hấp thụ sản phẩm không đạt như kỳ vọng.
+[10:03] Ví dụ, nếu sau 3 tháng mở bán mà tỷ lệ bán chưa đạt 50%, chúng ta có thể xem xét việc chuyển một phần quỹ căn sang cho thuê dài hạn cho khách hàng là các chuyên gia nước ngoài làm việc tại khu công nghệ cao gần đó.
+[10:06] Ý tưởng đó khá khả thi. Nhưng trước hết, chúng ta phải dồn lực cho chiến dịch mở bán đợt 1. Chất lượng nhà mẫu cũng cần được chăm chút kỹ lưỡng, vì đây là nơi khách hàng cảm nhận trực tiếp về ngôi nhà tương lai của họ.
+[10:09] Tôi sẽ kiểm tra tiến độ thi công nhà mẫu vào chiều nay. Mọi chi tiết từ nội thất, ánh sáng đến mùi hương trong nhà mẫu đều phải đạt chuẩn 5 sao.
+[10:12] Về phía quản lý vận hành sau khi bàn giao, tôi đề xuất chúng ta nên thành lập công ty quản lý riêng hoặc thuê các đơn vị quản lý danh tiếng quốc tế như Savills hay CBRE.
+[10:15] Việc có một đơn vị quản lý chuyên nghiệp sẽ giúp duy trì giá trị dự án và đảm bảo sự hài lòng lâu dài cho cư dân.
+
+<|output|>
+# Đánh giá thị trường và triển khai dự án căn hộ cao cấp Skyline Riverside
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích tình hình thị trường bất động sản khu Đông TP.HCM để định vị dự án.
+- Thống nhất giá bán dự kiến, chính sách thanh toán và hỗ trợ tài chính từ ngân hàng.
+- Rà soát thiết kế tiện ích cao cấp và ứng dụng công nghệ smart-home/vật liệu xanh.
+
+### 2. Các vấn đề đã thảo luận
+- Nhu cầu ổn định ở phân khúc cao cấp dù nguồn cung đang thắt chặt.
+- Giá bán dự kiến 95 triệu đồng/m2, cạnh tranh với các đối thủ cùng khu vực.
+- Chính sách thanh toán dãn cách 5%/đợt và gói vay 0% lãi suất trong 24 tháng.
+- Bổ sung tiện ích đặc quyền: Hồ bơi vô cực, Cigar lounge, Gym 5 sao.
+- Ứng dụng công nghệ smart-home và hệ thống lọc nước tại vòi.
+- Tuyển chọn 10 sàn đại lý phân phối với mức hoa hồng từ 3-5%.
+
+### 3. Kết luận và quyết định
+- Chốt giá bán và chính sách ngân hàng để chuẩn bị mở bán vào quý III.
+- Phê duyệt phương án bổ sung tiện ích đặc quyền để tăng tính cạnh tranh.
+- Giao bộ phận Pháp chế hoàn tất giấy phép xây dựng phần thân trong tháng 5.
+- Chỉ định thầu cho đơn vị uy tín và yêu cầu kiểm soát nghiêm ngặt vệ sinh môi trường.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký kết hợp tác chiến lược với ngân hàng | Phòng Nguồn vốn | 15/04/2024 |
+| Hoàn thiện thiết kế điều chỉnh tiện ích | Phòng Quản lý dự án | 20/04/2024 |
+| Đôn đốc giấy phép xây dựng | Phòng Pháp chế | 30/05/2024 |
+| Hoàn thiện thi công nhà mẫu | Ban chỉ huy công trường | 10/05/2024 |

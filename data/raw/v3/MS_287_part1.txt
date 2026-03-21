@@ -1,0 +1,56 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào buổi sáng team Marketing, hôm nay chúng ta sẽ cùng brainstorm cho chiến dịch ra mắt dòng sản phẩm chăm sóc da hữu cơ mới vào mùa hè này.
+[09:03] Mục tiêu của chiến dịch này không chỉ là doanh số mà còn là định vị thương hiệu của chúng ta như một đơn vị dẫn đầu về xu hướng sống xanh.
+[09:06] Tôi thấy rằng hiện nay khách hàng Gen Z đang cực kỳ quan tâm đến các sản phẩm không thử nghiệm trên động vật và bao bì có thể tái chế.
+[09:09] Đúng vậy, thông điệp chủ đạo của chúng ta nên xoay quanh "Vẻ đẹp thuần khiết từ thiên nhiên". Tôi đề xuất sử dụng tone màu xanh lá pastel và trắng làm chủ đạo cho tất cả các ấn phẩm truyền thông.
+[09:12] Về kênh truyền thông, tôi nghĩ TikTok và Instagram sẽ là hai mặt trận chính. Chúng ta cần những video ngắn, bắt mắt và có tính viral cao.
+[09:15] Chúng ta nên hợp tác với các KOC (Key Opinion Consumers) thay vì các Celeb lớn. Tiếng nói của họ thường mang tính chân thực và dễ chạm đến người tiêu dùng hơn.
+[09:18] Tôi đã lên danh sách khoảng 50 KOC chuyên về mảng làm đẹp và lối sống bền vững. Chúng ta có thể gửi sản phẩm dùng thử và yêu cầu họ làm video review thực tế.
+[09:21] Còn về phần sự kiện ra mắt, thay vì tổ chức tại khách sạn sang trọng, tại sao chúng ta không tổ chức một "Green Day" tại công viên hoặc một không gian mở có nhiều cây xanh?
+[09:24] Ý tưởng đó tuyệt đấy. Khách tham gia có thể trải nghiệm sản phẩm trực tiếp và tham gia các workshop về tái chế bao bì mỹ phẩm.
+[09:27] Về ngân sách, chi phí cho KOC và quảng cáo số (Facebook Ads, Google Ads) dự kiến chiếm khoảng 60% tổng ngân sách chiến dịch.
+[09:30] Chúng ta cần tối ưu hóa landing page để tăng tỷ lệ chuyển đổi. Hiện tại tốc độ tải trang trên di động vẫn còn hơi chậm.
+
+<|output|>
+# Chiến lược Marketing ra mắt dòng sản phẩm chăm sóc da hữu cơ
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên ý tưởng và thống nhất thông điệp chủ đạo cho chiến dịch ra mắt sản phẩm mới.
+- Xác định các kênh truyền thông mục tiêu và phương thức tiếp cận khách hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng sống xanh và nhu cầu của khách hàng Gen Z đối với mỹ phẩm sạch.
+- Thông điệp "Vẻ đẹp thuần khiết từ thiên nhiên" và bộ nhận diện màu xanh pastel.
+- Sử dụng KOC (Key Opinion Consumers) trên TikTok và Instagram để tăng tính chân thực.
+
+### 3. Kết luận và quyết định
+- Chốt kế hoạch truyền thông tập trung vào TikTok, Instagram và KOC.
+- Phê duyệt ngân sách quảng cáo chiếm 60% tổng chi phí chiến dịch.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Storyboard video TikTok | Team Content | 09/04/2024 |
+| Thiết kế bộ Banner và Layout Social | Team Design | 12/04/2024 |

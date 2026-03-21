@@ -1,0 +1,10 @@
+# Ignore everything inside this folder
+*
+
+# But keep this .gitignore file itself
+!.gitignore
+
+# And keep the .gitkeep placeholder file
+!.gitkeep
+
+

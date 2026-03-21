@@ -1,0 +1,50 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[13:30:10] Chào mọi người. Hôm nay mình ngồi lại bàn vụ tối ưu quy trình QC xíu nha. Dạo này hàng bị trả về do lỗi ngoại quan nhiều quá, khách hàng họ than phiền dữ lắm. Cứ đà này là mình mất uy tín hết.
+[13:31:25] Dạ đúng rồi anh Thắng, em kiểm tra dữ liệu tháng rồi thấy tỷ lệ hàng lỗi (NG) lọt ra ngoài tới tận 2%. Con số này là quá cao so với mục tiêu 0.5% của mình luôn á.
+[13:32:40] Anh thấy cái khâu kiểm tra cuối (Final Inspection) đang có vấn đề nè. Nhân viên mình có vẻ làm việc hơi bị máy móc, kiểm tra cho có lệ chứ không thực sự chú tâm vào mấy cái lỗi nhỏ nhỏ.
+[13:34:05] Dạ vầy nè anh, em thấy lỗi không hoàn toàn do nhân viên đâu. Cái điều kiện ánh sáng ở khu vực QC hiện tại tệ quá, bóng đèn thì mờ mà lại bố trí không hợp lý, làm anh em nhìn mỏi mắt rồi sót lỗi là chuyện bình thường hà.
+[13:35:30] Ờ, cái này Sơn nói đúng nè. Đợt trước anh có ghé qua thấy mấy bạn phải dùng đèn pin điện thoại soi soi nhìn tội nghiệp ghê. Để anh duyệt cho lắp thêm hệ thống đèn LED chuyên dụng cho khu vực đó luôn.
+[13:36:55] Với lại em thấy cái bảng tiêu chuẩn lỗi (Limit Sample) của mình cũ quá rồi, nhiều mẫu lỗi mới phát sinh mà không có trong bảng hướng dẫn làm anh em mới vào cứ lúng túng, không biết cái này là đạt (OK) hay không đạt (NG).
+[13:38:20] Đúng rồi, mình phải cập nhật lại bộ mẫu chuẩn ngay. Sơn phụ trách gom mấy cái mẫu lỗi thực tế gần đây lại, chụp hình rõ nét rồi làm thành cái bảng hướng dẫn trực quan dán ngay tại bàn làm việc cho anh em dễ đối chiếu.
+[13:39:45] Em có ý kiến là mình nên áp dụng thêm máy kiểm tra ngoại quan tự động (AOI) ở mấy công đoạn quan trọng đi anh. Chứ cứ dựa vào mắt người hoài thì năng suất vừa thấp mà sai sót là khó tránh khỏi, nhất là mấy ca đêm anh em mệt mỏi nữa.
+
+<|output|>
+# Tối ưu quy trình kiểm soát chất lượng (QC)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng hàng lỗi lọt ra ngoài và bị khách hàng trả về với tỷ lệ cao (2%).
+
+### 2. Các vấn đề đã thảo luận
+- Điều kiện ánh sáng tại khu vực QC không đạt chuẩn, gây mỏi mắt và dễ bỏ sót lỗi cho nhân viên.
+- Bảng mẫu chuẩn (Limit Sample) đã lỗi thời, không cập nhật các loại lỗi mới phát sinh.
+
+### 3. Kết luận và quyết định
+- Lắp đặt hệ thống đèn LED chuyên dụng ngay lập tức để cải thiện ánh sáng tại khu vực QC.
+- Cập nhật lại bộ mẫu lỗi chuẩn bằng hình ảnh trực quan và dán tại các vị trí làm việc.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Mua và lắp đặt hệ thống đèn LED mới cho khu vực QC | Bộ phận Bảo trì/Hành chính | 18/10/2023 |
+| Thu thập mẫu lỗi thực tế và làm bảng hướng dẫn trực quan | Sơn (QC Lead) | 20/10/2023 |

@@ -1,0 +1,64 @@
+<|input|>
+# Định hướng chiến lược ESG và phát triển bền vững tập đoàn giai đoạn 2025-2035
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác lập tầm nhìn chiến lược dài hạn về ESG (Môi trường - Xã hội - Quản trị) cho toàn tập đoàn.
+- Thống nhất các hạng mục đầu tư trọng điểm và lộ trình thực hiện để đạt được các tiêu chuẩn bền vững quốc tế.
+
+### 2. Các vấn đề đã thảo luận
+- **Trụ cột Môi trường (Environmental):** 
+- **Trụ cột Xã hội (Social):**
+
+### 3. Kết luận và quyết định
+- Phê duyệt lộ trình 10 năm phát triển bền vững 2025-2035.
+- Năm 2025 tập trung vào 3 nhiệm vụ chính: Hoàn thiện khung quản trị ESG, khởi công dự án nhà máy xanh và ra mắt báo cáo bền vững theo chuẩn GRI.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập phương án vay vốn xanh cho dự án nhà máy Bình Dương | Hùng - Khối Sản xuất | 15/12/2024 |
+| Soạn thảo khung chỉ số KPI liên quan đến ESG | Mai - Khối Nhân sự | 20/12/2024 |
+| Triển khai POC Blockchain cho chuỗi cung ứng xuất khẩu | Nam - Khối CNTT | 30/01/2025 |
+| Liên hệ đơn vị kiểm toán báo cáo bền vững (Big4) | Phòng Tài chính | 10/12/2024 |
+[09:05:15] Dạ em đề xuất mình nên áp dụng công nghệ Blockchain vào quản lý chuỗi cung ứng (Supply Chain) để đảm bảo tính minh bạch từ nguồn nguyên liệu cho đến tay người tiêu dùng. Khách hàng họ chỉ cần quét mã là biết sản phẩm này có gây hại môi trường hay không, công nhân làm ra nó có được trả lương công bằng không.
+[09:10:30] Blockchain nghe thì hiện đại nhưng chi phí vận hành và tính tương thích với hệ thống ERP hiện tại có ổn không Nam? Đừng để nó thành cái "vẽ voi" rồi bỏ xó nha.
+[09:15:45] Dạ em đã làm việc với bên đối tác công nghệ rồi, mình sẽ làm thí điểm cho dòng sản phẩm xuất khẩu đi Mỹ trước. Nếu hiệu quả thì mới mở rộng. Cái này nó giúp mình vượt qua các rào cản kỹ thuật của phía bạn cực tốt luôn anh ạ.
+[09:20:00] Tốt, tôi ủng hộ việc thí điểm. Các anh chị ạ, phát triển bền vững không phải là làm cho vui, mà là để bảo vệ tương lai của chính chúng ta. Tôi muốn mỗi nhân viên trong tập đoàn này, từ bác bảo vệ đến anh giám đốc, đều phải thấm nhuần tư duy ESG.
+[09:25:15] Dạ em sẽ lên kế hoạch truyền thông nội bộ và tổ chức các buổi Workshop cho anh em. Mình cũng nên đưa các chỉ số ESG vào tiêu chí đánh giá KPI hàng năm của các trưởng bộ phận luôn anh nhỉ?
+[09:30:30] Ờ, ý kiến này rất hay. Ai làm tốt mảng xanh, mảng sạch thì thưởng đậm, ai vi phạm về môi trường hay đạo đức kinh doanh thì xử lý nghiêm, thậm chí là hạ bậc lương.
+[09:35:45] Anh Tổng Giám đốc ơi, còn cái vụ báo cáo bền vững (Sustainability Report). Mình có nên thuê Big4 họ vào kiểm toán và xác nhận cho mình không? Chứ mình tự viết tự khen thì sợ thiên hạ họ không tin.
+[09:40:00] Chắc chắn rồi, mình sẽ mời một đơn vị độc lập uy tín vào thẩm định hàng năm. Đó là cách duy nhất để khẳng định uy tín của mình trên thị trường chứng khoán quốc tế.
+
+<|output|>
+# Định hướng chiến lược ESG và phát triển bền vững tập đoàn giai đoạn 2025-2035
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác lập tầm nhìn chiến lược dài hạn về ESG (Môi trường - Xã hội - Quản trị) cho toàn tập đoàn.
+- Thống nhất các hạng mục đầu tư trọng điểm và lộ trình thực hiện để đạt được các tiêu chuẩn bền vững quốc tế.
+- Phân công trách nhiệm và thiết lập cơ chế giám sát cho các khối chuyên môn.
+
+### 2. Các vấn đề đã thảo luận
+- **Trụ cột Môi trường (Environmental):** 
+- **Trụ cột Xã hội (Social):**
+- **Trụ cột Quản trị (Governance):**
+
+### 3. Kết luận và quyết định
+- Phê duyệt lộ trình 10 năm phát triển bền vững 2025-2035.
+- Năm 2025 tập trung vào 3 nhiệm vụ chính: Hoàn thiện khung quản trị ESG, khởi công dự án nhà máy xanh và ra mắt báo cáo bền vững theo chuẩn GRI.
+- Giao khối Sản xuất, Nhân sự và CNTT phối hợp triển khai các dự án thành phần theo phân công.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập phương án vay vốn xanh cho dự án nhà máy Bình Dương | Hùng - Khối Sản xuất | 15/12/2024 |
+| Soạn thảo khung chỉ số KPI liên quan đến ESG | Mai - Khối Nhân sự | 20/12/2024 |
+| Triển khai POC Blockchain cho chuỗi cung ứng xuất khẩu | Nam - Khối CNTT | 30/01/2025 |
+| Liên hệ đơn vị kiểm toán báo cáo bền vững (Big4) | Phòng Tài chính | 10/12/2024 |
+| Xây dựng nội dung Workshop truyền thông ESG nội bộ | Mai - Khối Nhân sự | 25/12/2024 |
+| Tổng hợp và trình ký Nghị quyết chiến lược ESG | Thư ký Hội đồng Quản trị | 01/12/2024 |

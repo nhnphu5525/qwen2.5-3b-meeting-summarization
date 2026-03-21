@@ -1,0 +1,79 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Kiểm toán Nội bộ Bán lẻ
+- Giải quyết các vấn đề về kiểm kê định kỳ
+- Thống nhất kế hoạch triển khai chống gian lận
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho chống gian lận
+- Thiếu dữ liệu để đánh giá chống gian lận
+- Khó khăn trong việc phối hợp giữa các bên về quản lý tồn kho
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hiệu quả hoạt động
+- Phê duyệt ngân sách bổ sung cho hiệu quả hoạt động
+- Thiết lập nhóm đặc trách xử lý kiểm kê định kỳ
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thất thoát hàng hóa | Anh Quốc | 25/06/2026 |
+| Họp nhóm để bàn sâu về thất thoát hàng hóa | Phòng Kỹ thuật | 03/09/2026 |
+| Gửi email xác nhận với đối tác về chống gian lận | Anh Quốc | 27/04/2026 |
+| Lập báo cáo chi tiết cho quy trình bán hàng | Phòng Kỹ thuật | 10/03/2026 |
+
+[03:28] Dạ Có ai phụ trách chính cho mảng hiệu quả hoạt động chưa nhỉ?
+[03:30] Cái chống gian lận này hình như đang bị vướng chỗ nào đó đúng không?
+[03:32] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[03:34] Thì đấy Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[03:36] Về phần quản lý tồn kho thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[18:04] Thì đấy Mọi người có thấy vụ quản lý tồn kho dạo này bị chậm không?
+[03:40] Chào cả nhà, chúng ta bắt đầu bàn về thất thoát hàng hóa nhé.
+[03:42] Về phần kiểm kê định kỳ thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[03:44] Mọi người có thấy vụ thất thoát hàng hóa dạo này bị chậm không?
+[18:08] Thì đấy Tôi nghĩ là mình nên xem xét lại cái hiệu quả hoạt động này một chút.
+[18:09] Ờm, cái thất thoát hàng hóa này thực ra là một vấn đề khá nan giải.
+[03:50] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[18:11] Mọi người có thấy vụ chống gian lận dạo này bị chậm không?
+[18:12] Cái quản lý tồn kho này hình như đang bị vướng chỗ nào đó đúng không?
+[18:13] À Tôi nghĩ là mình nên xem xét lại cái kiểm kê định kỳ này một chút.
+[03:58] Chắc là Đừng quên là chống gian lận cũng ảnh hưởng nhiều đến kết quả chung đó.
+[04:00] Thì đấy Tôi nghĩ là mình nên xem xét lại cái kiểm kê định kỳ này một chút.
+[18:16] Thực ra thì quản lý tồn kho không phải là mục tiêu duy nhất của mình.
+[18:17] Hình như Chào cả nhà, chúng ta bắt đầu bàn về hiệu quả hoạt động nhé.
+[18:18] Vâng Chào cả nhà, chúng ta bắt đầu bàn về kiểm kê định kỳ nhé.
+[18:19] Chào cả nhà, chúng ta bắt đầu bàn về kiểm kê định kỳ nhé.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Kiểm toán Nội bộ Bán lẻ
+- Giải quyết các vấn đề về kiểm kê định kỳ
+- Thống nhất kế hoạch triển khai chống gian lận
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho chống gian lận
+- Thiếu dữ liệu để đánh giá chống gian lận
+- Khó khăn trong việc phối hợp giữa các bên về quản lý tồn kho
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hiệu quả hoạt động
+- Phê duyệt ngân sách bổ sung cho hiệu quả hoạt động
+- Thiết lập nhóm đặc trách xử lý kiểm kê định kỳ
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thất thoát hàng hóa | Anh Quốc | 25/06/2026 |
+| Họp nhóm để bàn sâu về thất thoát hàng hóa | Phòng Kỹ thuật | 03/09/2026 |
+| Gửi email xác nhận với đối tác về chống gian lận | Anh Quốc | 27/04/2026 |
+| Lập báo cáo chi tiết cho quy trình bán hàng | Phòng Kỹ thuật | 10/03/2026 |

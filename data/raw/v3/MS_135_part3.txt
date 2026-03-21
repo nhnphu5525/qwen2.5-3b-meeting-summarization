@@ -1,0 +1,73 @@
+<|input|>
+# Kế hoạch đấu thầu vật tư tiêu hao Quý III
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai công tác chuẩn bị đấu thầu vật tư tiêu hao cho Quý III/2024.
+- Đảm bảo nguồn cung ổn định, không để xảy ra tình trạng thiếu hụt vật tư y tế thiết yếu.
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình cung ứng Quý II: Gặp khó khăn do chuỗi cung ứng bị đứt gãy, cần tìm thêm các nhà cung cấp dự phòng.
+- Ngân sách Quý III: Dự kiến tăng 15% do biến động giá thị trường và nhu cầu từ 2 khoa mới thành lập.
+- Danh mục vật tư: Đồng ý cập nhật loại dây truyền dịch có lọc khuẩn cho khoa Hồi sức cấp cứu để nâng cao chất lượng điều trị.
+- Hình thức đấu thầu: Ưu tiên đấu thầu rộng rãi qua mạng; áp dụng quy trình riêng cho các hóa chất độc quyền.
+
+### 3. Kết luận và quyết định
+- Thống nhất danh mục và dự toán kinh phí cho đợt thầu Quý III.
+- Giao phòng Vật tư hoàn thiện hồ sơ mời thầu và đăng thông báo trước ngày 20/06.
+- Phòng Tài chính cam kết xử lý nhanh hồ sơ liên quan trong vòng 24 giờ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện cấu hình kỹ thuật vật tư và hóa chất | Chị Hồng - Phòng Vật tư | 15/06/2024 |
+| Soạn thảo hồ sơ mời thầu và tờ trình | Chị Hồng - Phòng Vật tư | 18/06/2024 |
+| Thẩm định dự toán và duyệt ngân sách | Anh Nam - Phòng Tài chính | 19/06/2024 |
+| Đăng thông báo mời thầu trên hệ thống quốc gia | Chị Hồng - Phòng Vật tư | 20/06/2024 |
+[08:31:30] Dạ em tiếp thu ý kiến của bác sĩ. Em sẽ cho áp dụng phần mềm quản lý kho mới vào đợt nhập hàng quý III này luôn. Hệ thống sẽ tự động cảnh báo khi hàng còn hạn dưới 6 tháng để mình kịp thời điều phối giữa các khoa.
+[08:33:45] Được vậy thì tốt quá. Còn về mốc thời gian, khi nào thì mình bắt đầu mở thầu được hả Hồng?
+[08:36:00] Dạ dự kiến là ngày 20 tháng này mình sẽ đăng thông báo mời thầu trên hệ thống mạng đấu thầu quốc gia. Sau 20 ngày thì mở thầu, rồi mất khoảng 2 tuần để chấm thầu và thẩm định. Nếu mọi chuyện suôn sẻ thì đầu tháng 8 mình sẽ có hàng về kho anh ạ.
+[08:38:15] Vậy là cũng hơi sát nút đó. Nam cố gắng duyệt các chứng từ liên quan thật nhanh giúp chị Hồng nhé. Bệnh viện mà thiếu vật tư là coi như "liệt" luôn, không làm ăn gì được đâu.
+[08:40:30] Dạ anh yên tâm, phòng Tài chính sẽ ưu tiên xử lý hồ sơ thầu này trong vòng 24 giờ kể từ khi nhận được tờ trình ạ.
+[08:42:45] OK, thống nhất vậy nhé. Hồng tập trung hoàn thiện danh mục kỹ thuật và cấu hình vật tư đi. Cần bác sĩ chuyên khoa nào tư vấn thêm thì cứ báo tôi để tôi điều động hỗ trợ.
+[08:45:00] Dạ em cảm ơn bác sĩ Tuấn. Em sẽ làm việc thêm với trưởng khoa Xét nghiệm để chốt các thông số hóa chất trong chiều nay ạ.
+[08:47:15] Ừ, thôi mình kết thúc họp ở đây. Chúc hai phòng phối hợp nhịp nhàng để quý tới bệnh viện mình vận hành trơn tru nhé.
+[08:49:30] Dạ chào bác sĩ Tuấn ạ.
+[08:51:45] Chào anh, chào chị Hồng nhé.
+
+<|output|>
+# Kế hoạch đấu thầu vật tư tiêu hao Quý III
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai công tác chuẩn bị đấu thầu vật tư tiêu hao cho Quý III/2024.
+- Đảm bảo nguồn cung ổn định, không để xảy ra tình trạng thiếu hụt vật tư y tế thiết yếu.
+- Cân đối ngân sách, tối ưu hóa chi phí và tuân thủ các quy định pháp luật về đấu thầu.
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình cung ứng Quý II: Gặp khó khăn do chuỗi cung ứng bị đứt gãy, cần tìm thêm các nhà cung cấp dự phòng.
+- Ngân sách Quý III: Dự kiến tăng 15% do biến động giá thị trường và nhu cầu từ 2 khoa mới thành lập.
+- Danh mục vật tư: Đồng ý cập nhật loại dây truyền dịch có lọc khuẩn cho khoa Hồi sức cấp cứu để nâng cao chất lượng điều trị.
+- Hình thức đấu thầu: Ưu tiên đấu thầu rộng rãi qua mạng; áp dụng quy trình riêng cho các hóa chất độc quyền.
+- Quản lý kho: Áp dụng phần mềm mới để kiểm soát hạn dùng (cảnh báo trước 6 tháng).
+- Các điều khoản hợp đồng: Bổ sung chế tài phạt chậm giao hàng để ràng buộc trách nhiệm nhà thầu.
+
+### 3. Kết luận và quyết định
+- Thống nhất danh mục và dự toán kinh phí cho đợt thầu Quý III.
+- Giao phòng Vật tư hoàn thiện hồ sơ mời thầu và đăng thông báo trước ngày 20/06.
+- Phòng Tài chính cam kết xử lý nhanh hồ sơ liên quan trong vòng 24 giờ.
+- Áp dụng hệ thống quản lý kho mới ngay sau khi nhập lô hàng Quý III.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện cấu hình kỹ thuật vật tư và hóa chất | Chị Hồng - Phòng Vật tư | 15/06/2024 |
+| Soạn thảo hồ sơ mời thầu và tờ trình | Chị Hồng - Phòng Vật tư | 18/06/2024 |
+| Thẩm định dự toán và duyệt ngân sách | Anh Nam - Phòng Tài chính | 19/06/2024 |
+| Đăng thông báo mời thầu trên hệ thống quốc gia | Chị Hồng - Phòng Vật tư | 20/06/2024 |
+| Mở thầu và tiến hành chấm thầu | Hội đồng đấu thầu | 10/07/2024 |
+| Công bố kết quả thầu và ký kết hợp đồng | Ban Giám đốc | 25/07/2024 |

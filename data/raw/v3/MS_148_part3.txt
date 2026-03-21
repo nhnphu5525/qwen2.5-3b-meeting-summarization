@@ -1,0 +1,70 @@
+<|input|>
+# Review Kết quả Casting Diễn viên Phim ngắn "Nắng cuối thềm"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá năng lực diễn xuất và mức độ phù hợp của các ứng viên sau buổi casting đầu tiên.
+- Lựa chọn diễn viên cho các vai chính (Nam chính, Nữ chính) và vai thứ chính.
+- Thảo luận về các vấn đề sản xuất liên quan: Phục trang, bối cảnh và lịch quay của diễn viên gạo cội.
+
+### 2. Các vấn đề đã thảo luận
+- **Vai Nữ chính (Lan):** Diễn xuất tốt, đôi mắt giàu cảm xúc, phù hợp với dòng phim indie. Tuy nhiên, đài từ còn yếu, cần được đào tạo thêm trước khi bấm máy.
+- **Vai Nam chính:** 
+- **Vai Bà mẹ (Cô Hồng):** Đã nhận lời tham gia vì yêu thích kịch bản. Yêu cầu đặc biệt: Hạn chế quay đêm để đảm bảo sức khỏe.
+- **Phục trang & Thiết kế:** 
+
+### 3. Kết luận và quyết định
+- Tổ chức buổi Screen test giữa Lan và Đức vào lúc 15:00 cùng ngày để chốt cặp đôi chính.
+- Phê duyệt mời cô Hồng vào vai bà mẹ và điều chỉnh lịch quay ưu tiên ban ngày cho cô.
+- Thuê stylist chuyên về phong cách retro để phụ trách mảng phục trang.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Chuẩn bị kịch bản và tổ chức Screen test Lan - Đức | Vy (Trợ lý Đạo diễn) | 15:00 05/10/2024 |
+| Điều chỉnh Shooting Schedule theo yêu cầu cô Hồng | Vy | 07/10/2024 |
+| Tìm kiếm và ký hợp đồng với Stylist | Vy | 10/10/2024 |
+| Khảo sát kỹ hiện trạng nhà cổ quận 5 và ký cam kết | Art Team | 08/10/2024 |
+[14:43:20] Họ đồng ý rồi, nhưng họ ra điều kiện là mình không được đóng đinh hay làm hỏng sơn tường của họ. Vy nhắc bên tổ thiết kế (art team) là khi set up bối cảnh phải cực kỳ cẩn thận, dùng keo chuyên dụng hoặc giá đỡ chứ đừng có làm bừa là đền tiền chết bỏ đó.
+[14:46:40] Dạ em rõ rồi. Vậy chiều nay 3 giờ mình gặp Lan với Đức nha anh. Em sẽ chuẩn bị sẵn một đoạn thoại mới để hai bạn ấy tương tác với nhau. Hy vọng là mình sẽ chốt được cặp đôi chính trong hôm nay để kịp lịch tập (rehearsal) tuần sau.
+[14:50:00] Ok, chốt vậy đi. Anh cũng mong là tìm được "linh hồn" cho bộ phim sớm. Cố lên Vy nha, dự án này anh đặt nhiều tâm huyết lắm đó.
+[14:53:20] Dạ, em cũng vậy anh. Thôi em đi chuẩn bị đây. Chào anh Quân nha.
+[14:56:40] Ừ, chào em. Hẹn gặp lại lúc 3 giờ nha.
+[15:00:00] Dạ vâng ạ!
+
+<|output|>
+# Review Kết quả Casting Diễn viên Phim ngắn "Nắng cuối thềm"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá năng lực diễn xuất và mức độ phù hợp của các ứng viên sau buổi casting đầu tiên.
+- Lựa chọn diễn viên cho các vai chính (Nam chính, Nữ chính) và vai thứ chính.
+- Thảo luận về các vấn đề sản xuất liên quan: Phục trang, bối cảnh và lịch quay của diễn viên gạo cội.
+- Thống nhất kế hoạch cho buổi diễn thử (screen test) cặp đôi.
+
+### 2. Các vấn đề đã thảo luận
+- **Vai Nữ chính (Lan):** Diễn xuất tốt, đôi mắt giàu cảm xúc, phù hợp với dòng phim indie. Tuy nhiên, đài từ còn yếu, cần được đào tạo thêm trước khi bấm máy.
+- **Vai Nam chính:** 
+- **Vai Bà mẹ (Cô Hồng):** Đã nhận lời tham gia vì yêu thích kịch bản. Yêu cầu đặc biệt: Hạn chế quay đêm để đảm bảo sức khỏe.
+- **Phục trang & Thiết kế:** 
+- **Sản xuất:** Art team cần lưu ý các biện pháp thi công bối cảnh không xâm lấn; Vy chịu trách nhiệm điều chỉnh Shooting Schedule phù hợp với lịch của cô Hồng.
+
+### 3. Kết luận và quyết định
+- Tổ chức buổi Screen test giữa Lan và Đức vào lúc 15:00 cùng ngày để chốt cặp đôi chính.
+- Phê duyệt mời cô Hồng vào vai bà mẹ và điều chỉnh lịch quay ưu tiên ban ngày cho cô.
+- Thuê stylist chuyên về phong cách retro để phụ trách mảng phục trang.
+- Giao Vy liên hệ các shop đồ cũ và kho phục trang để tìm kiếm đạo cụ phù hợp bối cảnh năm 2000.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Chuẩn bị kịch bản và tổ chức Screen test Lan - Đức | Vy (Trợ lý Đạo diễn) | 15:00 05/10/2024 |
+| Điều chỉnh Shooting Schedule theo yêu cầu cô Hồng | Vy | 07/10/2024 |
+| Tìm kiếm và ký hợp đồng với Stylist | Vy | 10/10/2024 |
+| Khảo sát kỹ hiện trạng nhà cổ quận 5 và ký cam kết | Art Team | 08/10/2024 |
+| Liên hệ trung tâm đào tạo đài từ cho diễn viên Lan | Vy | 12/10/2024 |
+| Lên danh sách các vật dụng cần thuê từ kho phục trang | Art Team & Stylist | 15/10/2024 |

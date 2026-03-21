@@ -1,0 +1,91 @@
+<|input|>
+# Ra mắt bộ sưu tập Summer Breeze 2024 và chiến lược thời trang bền vững
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt mẫu thiết kế và chất liệu cho bộ sưu tập hè "Summer Breeze 2024".
+- Thảo luận việc ứng dụng các chất liệu tự nhiên (linen, sợi dứa, tơ chuối) và quy trình sản xuất sạch.
+- Xây dựng chiến dịch truyền thông kể chuyện (storytelling) về nguồn gốc sản phẩm.
+- Thống nhất chính sách giá, dịch vụ bảo hành trọn đời và chương trình thu cũ đổi mới.
+
+### 2. Các vấn đề đã thảo luận
+- Bổ sung tone màu nóng (Peach Fuzz, xanh mint) để bắt kịp xu hướng Pantone 2024.
+- Hợp tác với các làng nghề tại Lâm Đồng để cung ứng vải sợi tự nhiên.
+- Yêu cầu kỹ thuật may không vắt sổ nhựa và sử dụng nút áo bằng vỏ ốc/gỗ.
+- Xử lý độ co rút và nhăn của vải tự nhiên thông qua kỹ thuật hấp nhiệt chuyên sâu.
+- Sản xuất video tư liệu về quy trình sản xuất thủ công để tăng giá trị thương hiệu.
+- Định vị dòng Limited Edition với mức giá cao đi kèm dịch vụ chăm sóc sản phẩm lâu dài.
+- Tổ chức Fashion Show tại vườn thực vật để tạo không gian gần gũi thiên nhiên.
+- Triển khai mô hình "Slow Fashion" và chương trình tái chế đồ cũ.
+
+### 3. Kết luận và quyết định
+- Phê duyệt bảng màu bổ sung và danh mục chất liệu sinh học cho BST mới.
+- Chốt ngân sách sản xuất video tư liệu và sự kiện ra mắt tại vườn thực vật.
+- Áp dụng dịch vụ sửa chữa đồ miễn phí cho khách hàng mua dòng sản phẩm cao cấp.
+- Triển khai chương trình "Thu cũ đổi mới" trên toàn hệ thống từ ngày 1/6.
+- Giao team Marketing hoàn thiện kịch bản Livestream và casting người mẫu trong tuần này.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Casting người mẫu và chụp Lookbook | Team Marketing & Design | 15/04/2024 |
+| Sản xuất video tư liệu tại Lâm Đồng | Team Media | 25/04/2024 |
+| Hoàn thiện 50 bộ mẫu đầu tiên | Xưởng sản xuất | 10/05/2024 |
+| Thiết kế Layout trang trí cửa hàng | Team Visual Merchandising | 20/05/2024 |
+| Soạn thảo bộ quy tắc Livestream | Team Social Media | 05/05/2024 |
+
+[15:30] Dạ vâng, chúng em đã đặt hàng bên nhà cung cấp bao bì xanh từ tháng trước rồi ạ.
+[15:33] Tuyệt vời. Chào mọi người.
+[15:36] Hẹn gặp lại trong buổi duyệt mẫu thật vào tuần sau.
+[15:39] Chúc mọi người cuối tuần vui vẻ.
+(Thêm các thảo luận về việc mở rộng kênh bán hàng trực tuyến E-commerce, Livestream...)
+[15:42] Chúng ta cũng nên đẩy mạnh mảng bán hàng qua Livestream trên TikTok. Hiện nay doanh số từ kênh này đang tăng trưởng rất nhanh.
+[15:45] Tuy nhiên, phong cách Livestream của chúng ta cần lịch sự và đậm chất thời trang, tránh kiểu la hét chốt đơn như các shop bán hàng đại trà.
+[15:48] Đúng vậy, hãy xây dựng những buổi Live chia sẻ về cách mix-match đồ, cách bảo quản vải linen để thu hút khách hàng trung thành.
+[15:51] OK, team Marketing hãy lên kịch bản cho các buổi Live này nhé.
+[15:54] Kết thúc họp. Chào mọi người.
+
+<|output|>
+# Ra mắt bộ sưu tập Summer Breeze 2024 và chiến lược thời trang bền vững
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt mẫu thiết kế và chất liệu cho bộ sưu tập hè "Summer Breeze 2024".
+- Thảo luận việc ứng dụng các chất liệu tự nhiên (linen, sợi dứa, tơ chuối) và quy trình sản xuất sạch.
+- Xây dựng chiến dịch truyền thông kể chuyện (storytelling) về nguồn gốc sản phẩm.
+- Thống nhất chính sách giá, dịch vụ bảo hành trọn đời và chương trình thu cũ đổi mới.
+- Lên kế hoạch sự kiện Fashion Show và chiến lược bán hàng đa kênh (Flagship store, E-commerce, TikTok).
+
+### 2. Các vấn đề đã thảo luận
+- Bổ sung tone màu nóng (Peach Fuzz, xanh mint) để bắt kịp xu hướng Pantone 2024.
+- Hợp tác với các làng nghề tại Lâm Đồng để cung ứng vải sợi tự nhiên.
+- Yêu cầu kỹ thuật may không vắt sổ nhựa và sử dụng nút áo bằng vỏ ốc/gỗ.
+- Xử lý độ co rút và nhăn của vải tự nhiên thông qua kỹ thuật hấp nhiệt chuyên sâu.
+- Sản xuất video tư liệu về quy trình sản xuất thủ công để tăng giá trị thương hiệu.
+- Định vị dòng Limited Edition với mức giá cao đi kèm dịch vụ chăm sóc sản phẩm lâu dài.
+- Tổ chức Fashion Show tại vườn thực vật để tạo không gian gần gũi thiên nhiên.
+- Triển khai mô hình "Slow Fashion" và chương trình tái chế đồ cũ.
+- Chụp Lookbook với phong cách tự nhiên, ánh sáng thực và bao bì đóng gói xanh.
+- Kết hợp bán hàng qua Livestream TikTok theo phong cách chia sẻ kiến thức thời trang.
+
+### 3. Kết luận và quyết định
+- Phê duyệt bảng màu bổ sung và danh mục chất liệu sinh học cho BST mới.
+- Chốt ngân sách sản xuất video tư liệu và sự kiện ra mắt tại vườn thực vật.
+- Áp dụng dịch vụ sửa chữa đồ miễn phí cho khách hàng mua dòng sản phẩm cao cấp.
+- Triển khai chương trình "Thu cũ đổi mới" trên toàn hệ thống từ ngày 1/6.
+- Giao team Marketing hoàn thiện kịch bản Livestream và casting người mẫu trong tuần này.
+- Đảm bảo toàn bộ bao bì đóng gói được chuyển sang giấy tái chế 100%.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Casting người mẫu và chụp Lookbook | Team Marketing & Design | 15/04/2024 |
+| Sản xuất video tư liệu tại Lâm Đồng | Team Media | 25/04/2024 |
+| Hoàn thiện 50 bộ mẫu đầu tiên | Xưởng sản xuất | 10/05/2024 |
+| Thiết kế Layout trang trí cửa hàng | Team Visual Merchandising | 20/05/2024 |
+| Soạn thảo bộ quy tắc Livestream | Team Social Media | 05/05/2024 |
+| Ký hợp đồng cung ứng bao bì giấy | Phòng Thu mua | 12/04/2024 |

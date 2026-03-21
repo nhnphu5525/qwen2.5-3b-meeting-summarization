@@ -1,0 +1,60 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào mọi người, hôm nay ban dự án họp để đẩy nhanh tiến độ cấp phép và triển khai thi công dự án khu phức hợp căn hộ cao cấp "The Horizon".
+[14:03] Hiện tại, vướng mắc lớn nhất vẫn là thủ tục phê duyệt quy hoạch 1/500 điều chỉnh do có thay đổi về mật độ xây dựng ở khối đế.
+[14:06] Bên Sở Quy hoạch - Kiến trúc đang yêu cầu mình giải trình rõ hơn về giải pháp giao thông tĩnh và diện tích cây xanh bù đắp.
+[14:09] Tôi đã làm việc với đơn vị tư vấn thiết kế, họ sẽ bổ sung thêm hai tầng hầm đỗ xe thông minh để giải quyết vấn đề giao thông.
+[14:12] Về phần diện tích xanh, mình có thể đưa các mảng xanh lên sân thượng và ban công căn hộ (vertical garden) để tối ưu không gian.
+[14:15] Phương án này rất ổn, vừa đáp ứng yêu cầu nhà nước vừa tăng giá trị thẩm mỹ cho dự án, giúp Sale dễ bán hàng hơn.
+[14:18] Chuyển sang phần giải phóng mặt bằng, hiện còn 2 hộ dân ở phía góc dự án vẫn chưa đồng ý mức đền bù và yêu cầu hỗ trợ tái định cư tại chỗ.
+[14:21] Ban bồi thường cần kiên trì thuyết phục, có thể cân nhắc phương án đổi căn hộ tương đương trong dự án cho họ nếu họ thực sự có nhu cầu ở lại.
+[14:24] Về tiến độ thi công, nhà thầu chính đang báo cáo khó khăn về việc huy động máy móc hạng nặng vào công trường do vướng quy định giờ cấm xe tải.
+[14:27] Chúng ta cần xin giấy phép lưu thông đặc biệt hoặc điều chỉnh lịch đổ bê tông vào khung giờ từ 22h đêm đến 5h sáng.
+[14:30] Làm đêm thì phải chú ý vấn đề tiếng ồn ảnh hưởng đến khu dân cư xung quanh, tránh bị khiếu nại dẫn đến đình chỉ thi công.
+[14:33] Team Marketing đã hoàn thiện bộ tài liệu bán hàng (Sales Kit) và nhà mẫu chưa? Khách hàng đang hỏi rất nhiều về tiến độ mở bán.
+
+<|output|>
+# Triển khai dự án khu phức hợp căn hộ cao cấp The Horizon
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Tháo gỡ các vướng mắc pháp lý về quy hoạch và giải phóng mặt bằng.
+- Thống nhất phương án thi công và kế hoạch marketing cho đợt mở bán đầu tiên.
+
+### 2. Các vấn đề đã thảo luận
+- Thủ tục điều chỉnh quy hoạch 1/500 liên quan đến mật độ xây dựng và bãi đỗ xe.
+- Giải pháp giao thông tĩnh (hầm đỗ xe thông minh) và mảng xanh thẳng đứng (vertical garden).
+- Khó khăn trong bồi thường giải phóng mặt bằng cho 2 hộ dân cuối cùng.
+- Hạn chế giờ lưu thông xe tải hạng nặng ảnh hưởng đến tiến độ thi công móng.
+
+### 3. Kết luận và quyết định
+- Hoàn thiện hồ sơ giải trình quy hoạch 1/500 với giải pháp đỗ xe thông minh.
+- Đề xuất phương án tái định cư tại chỗ để giải quyết dứt điểm việc bồi thường.
+- Đăng ký giấy phép lưu thông đặc biệt cho xe bồn đổ bê tông ban đêm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nộp hồ sơ giải trình quy hoạch 1/500 | Phòng Pháp lý dự án | 25/03/2026 |
+| Đàm phán phương án đền bù với 2 hộ dân | Ban Bồi thường | 30/03/2026 |
+| Xin giấy phép lưu thông xe tải giờ cấm | Phòng Hành chính | 22/03/2026 |

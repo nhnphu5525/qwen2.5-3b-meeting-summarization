@@ -1,0 +1,55 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Dạ chào anh chị, hôm nay mình họp gấp để xử lý cái vụ tranh chấp bên mặt bằng quận 1 nhé. 
+[09:02] Thì bên chủ nhà họ đang đòi tăng giá thuê lên tận 20% trong khi hợp đồng cũ vẫn còn 1 năm nữa mới hết hạn. 
+[09:04] Ờ... theo điều khoản 5.2 trong hợp đồng thì mình được quyền giữ nguyên giá mà, sao họ lại làm khó thế nhỉ?
+[09:06] Họ lấy lý do là trượt giá với cả giá thị trường khu đó tăng cao quá. Nhưng mà mình đã đầu tư sửa sang hết cả tỷ bạc vào đấy rồi.
+[09:08] Dạ, bên pháp lý đã xem kỹ rồi ạ. Việc họ đơn phương đòi tăng giá là sai quy định. Nếu họ không thỏa hiệp, mình có thể đưa ra trọng tài.
+[09:10] Nhưng mà kiện cáo thì mất thời gian lắm, ảnh hưởng đến việc kinh doanh nữa. Có cách nào thương lượng không?
+[09:12] Thì mình cứ gửi cái công văn cảnh báo trước đã, nêu rõ các điều khoản vi phạm. Nếu họ vẫn căng thì mình mới tính tiếp. 
+[09:14] Ok, vậy nhờ bên Pháp lý soạn thảo gấp cái công văn gửi cho họ trong chiều nay nhé. Nhớ nhấn mạnh việc mình đã đầu tư hạ tầng vào đó.
+[09:16] Dạ vâng, em sẽ hoàn thành và gửi anh duyệt trước 4h chiều nay ạ.
+
+<|output|>
+# Giải quyết tranh chấp hợp đồng thuê mặt bằng Quận 1
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận phương án xử lý việc chủ nhà đòi tăng giá thuê mặt bằng trái quy định hợp đồng.
+- Thống nhất các bước pháp lý để bảo vệ quyền lợi của công ty.
+
+### 2. Các vấn đề đã thảo luận
+- Chủ nhà yêu cầu tăng 20% giá thuê với lý do trượt giá thị trường dù hợp đồng còn hiệu lực 1 năm.
+- Rà soát điều khoản 5.2 trong hợp đồng hiện tại khẳng định quyền được giữ nguyên giá của công ty.
+- Đánh giá thiệt hại nếu phải di dời do công ty đã đầu tư chi phí lớn vào hạ tầng mặt bằng.
+- Cân nhắc giữa việc thương lượng hòa giải và đưa vụ việc ra trọng tài kinh tế.
+
+### 3. Kết luận và quyết định
+- Phản đối yêu cầu tăng giá đơn phương của chủ nhà dựa trên các căn cứ pháp lý đã ký kết.
+- Ưu tiên phương án gửi công văn cảnh báo chính thức trước khi thực hiện các biện pháp mạnh hơn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo công văn cảnh báo vi phạm hợp đồng | Phòng Pháp lý | 15/10/2023 |
+| Kiểm kê chi phí đầu tư hạ tầng tại mặt bằng | Bộ phận Kế toán | 17/10/2023 |
+| Hẹn gặp trực tiếp chủ nhà để đàm phán lần cuối | Giám đốc điều hành | 20/10/2023 |

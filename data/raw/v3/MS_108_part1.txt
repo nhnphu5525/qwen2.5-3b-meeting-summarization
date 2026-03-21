@@ -1,0 +1,58 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00] Chào anh em giám sát và chỉ huy trưởng. Hôm nay mình bàn về an toàn lao động tại công trường dự án River Side nhé.
+[14:01] Dạ anh, dạo này em thấy một số công nhân thầu phụ vẫn còn chủ quan, không đội mũ bảo hiểm với đeo dây an toàn khi làm việc trên cao.
+[14:03] Cái này là tuyệt đối không được nha. Xảy ra tai nạn một cái là đình chỉ thi công cả tháng, thiệt hại không biết bao nhiêu mà kể.
+[14:04] Ờ... chú Nam xem lại đội bảo vệ trực cổng xem, ai không đủ đồ bảo hộ (PPE) là không cho vào công trường.
+[14:06] Dạ em đã quán triệt rồi, nhưng nhiều ông vào trong rồi mới tháo ra cho mát sếp ạ.
+[14:07] Vậy thì phải phạt thật nặng vào. Cứ bắt được một trường hợp là phạt tổ đội đó 2 triệu đồng.
+[14:09] Phạt lần 2 là đuổi thẳng cổ luôn, không nể nang gì hết.
+[14:10] Vâng, em sẽ thông báo quy định này trong buổi họp giao ban sáng mai với các nhà thầu phụ.
+[14:12] Ngoài ra, em thấy hệ thống lưới bao che ở phía mặt ngoài tầng 15 đang bị rách một mảng lớn.
+[14:13] Trời ơi, rách sao không cho thay ngay đi? Gió thổi một cái là vật liệu rơi xuống dưới thì sao?
+[14:15] Dạ, em đã cho thợ đặt hàng lưới mới rồi, sáng mai hàng về là cho thay luôn sếp ạ.
+[14:16] Phải kiểm tra lại toàn bộ giàn giáo nữa nhé. Mấy hôm nay mưa nhiều, nền đất có chỗ hơi bị lún đấy.
+[14:18] Em đã cho gia cố thêm tấm lót chân giàn giáo bằng gỗ pallet rồi, đảm bảo ổn định ạ.
+
+<|output|>
+# Đảm bảo an toàn lao động tại công trường dự án River Side
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Rà soát tình hình thực hiện an toàn lao động tại công trường.
+- Xử lý các vi phạm về đồ bảo hộ và rủi ro kỹ thuật hạ tầng.
+- Tăng cường ý thức chấp hành quy định an toàn của công nhân và nhà thầu phụ.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng công nhân thầu phụ không tuân thủ đeo mũ và dây an toàn khi làm việc trên cao.
+- Kiểm soát nghiêm ngặt đồ bảo hộ (PPE) ngay từ cổng ra vào và tuần tra đột xuất.
+- Chế tài xử phạt: Phạt tiền 2 triệu đồng/vi phạm và trục xuất vĩnh viễn nếu tái phạm lần 2.
+- Hạ tầng an toàn: Lưới bao che tầng 15 bị rách, giàn giáo có nguy cơ lún do mưa kéo dài.
+
+### 3. Kết luận và quyết định
+- Phê duyệt mức phạt và yêu cầu thông báo rộng rãi đến các đơn vị thầu phụ.
+- Thay mới lưới bao che ngay vào sáng mai.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thông báo quy định xử phạt mới đến các thầu phụ | Chỉ huy trưởng | 12/01/2026 |
+| Thay mới hệ thống lưới bao che mặt ngoài tầng 15 | Giám sát hiện trường | 11/01/2026 |
+| Gia cố chân giàn giáo tại các khu vực đất mềm | Tổ thợ cơ khí | 12/01/2026 |

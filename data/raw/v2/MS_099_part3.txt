@@ -1,0 +1,82 @@
+<|input|>
+# Rà soát và cập nhật mẫu hợp đồng lao động mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Cập nhật mẫu hợp đồng lao động theo Bộ luật Lao động mới nhất.
+- Thống nhất các điều khoản về bảo mật (NDA), phụ cấp, làm thêm giờ và kỷ luật lao động.
+
+### 2. Các vấn đề đã thảo luận
+- Cập nhật thời gian thử việc cho vị trí quản lý (tối đa 6 tháng) và thời gian báo trước khi nghỉ việc.
+- Tách biệt thỏa thuận bảo mật và không cạnh tranh (NDA & Non-compete) thành văn bản riêng để đảm bảo tính pháp lý.
+- Cơ cấu lương thưởng: Giữ nguyên các khoản phụ cấp (xăng xe, điện thoại) tách biệt với lương cơ bản để tối ưu chi phí bảo hiểm.
+- Quy định về làm thêm giờ (OT): Áp dụng theo pháp luật và yêu cầu có quy trình phê duyệt chặt chẽ trong nội quy.
+- Kỷ luật sa thải: Cần liệt kê chi tiết các hành vi vi phạm nghiêm trọng để tránh rủi ro kiện tụng khi đơn phương chấm dứt hợp đồng.
+
+### 3. Kết luận và quyết định
+- Giao bộ phận Pháp chế hoàn thiện tính pháp lý của các điều khoản NDA và kỷ luật lao động.
+- Giao bộ phận Nhân sự cập nhật cơ cấu phụ cấp và quy trình OT vào nội quy lao động mới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản dự thảo hợp đồng lao động mới | Bộ phận Pháp chế | 20/12/2025 |
+| Cập nhật nội quy lao động và danh mục hành vi vi phạm | Phòng Nhân sự | 22/12/2025 |
+| Soạn thảo thỏa thuận bảo mật thông tin (NDA) riêng | Bộ phận Pháp chế | 20/12/2025 |
+| Đăng ký nội quy lao động với cơ quan chức năng | Phòng Nhân sự | 05/01/2026 |
+| | | |
+[09:45] À, thêm một cái nữa là cái chữ ký điện tử, mình có chấp nhận ký hợp đồng online không sếp?
+[09:47] Luật cho phép rồi, nhưng mà mình phải dùng cái phần mềm nào nó có chứng thực uy tín một tí.
+[09:49] Em thấy dùng FPT hay Viettel CA đều ổn cả, mình nên triển khai cái này cho mấy bạn làm việc từ xa (Remote).
+[09:51] Ok, chốt vậy đi. Vậy là Pháp chế rà soát tính pháp lý, Nhân sự rà soát lương thưởng và phụ cấp.
+[09:53] Em sẽ gửi bản dự thảo cuối cùng cho mọi người xem qua một lượt trước khi mình ban hành chính thức.
+[09:55] Cố gắng xong trong tuần tới nhé, để còn kịp áp dụng cho đợt tuyển dụng lớn vào tháng sau.
+[09:57] Dạ vâng, bọn em sẽ cố gắng hết sức ạ.
+[09:58] À... sếp ơi, còn cái vụ nghỉ phép năm của nhân viên cũ thâm niên cao thì mình tính sao?
+[10:00] Cứ đúng luật mà làm em, mỗi 5 năm thâm niên được cộng thêm 1 ngày phép đấy.
+[10:02] Vâng ạ, cái đó em đã đưa vào phần mềm quản lý nhân sự rồi, giờ chỉ cần ghi vào hợp đồng cho chắc thôi.
+[10:04] Okay, buổi họp hôm nay thế là khá chi tiết rồi đấy.
+[10:05] Dạ em cảm ơn sếp và các anh chị.
+[10:07] Chào cả nhà nhé.
+[10:08] Chào sếp ạ.
+[10:10] Chào mọi người.
+[10:12] Anh đi trước nhé.
+[10:14] Vâng ạ.
+
+<|output|>
+# Rà soát và cập nhật mẫu hợp đồng lao động mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Cập nhật mẫu hợp đồng lao động theo Bộ luật Lao động mới nhất.
+- Thống nhất các điều khoản về bảo mật (NDA), phụ cấp, làm thêm giờ và kỷ luật lao động.
+- Triển khai hình thức ký hợp đồng điện tử để tối ưu quy trình.
+
+### 2. Các vấn đề đã thảo luận
+- Cập nhật thời gian thử việc cho vị trí quản lý (tối đa 6 tháng) và thời gian báo trước khi nghỉ việc.
+- Tách biệt thỏa thuận bảo mật và không cạnh tranh (NDA & Non-compete) thành văn bản riêng để đảm bảo tính pháp lý.
+- Cơ cấu lương thưởng: Giữ nguyên các khoản phụ cấp (xăng xe, điện thoại) tách biệt với lương cơ bản để tối ưu chi phí bảo hiểm.
+- Quy định về làm thêm giờ (OT): Áp dụng theo pháp luật và yêu cầu có quy trình phê duyệt chặt chẽ trong nội quy.
+- Kỷ luật sa thải: Cần liệt kê chi tiết các hành vi vi phạm nghiêm trọng để tránh rủi ro kiện tụng khi đơn phương chấm dứt hợp đồng.
+- Chấp nhận sử dụng chữ ký điện tử (FPT/Viettel CA) cho nhân viên làm việc từ xa.
+- Chế độ nghỉ phép năm theo thâm niên (cộng 1 ngày cho mỗi 5 năm làm việc).
+
+### 3. Kết luận và quyết định
+- Giao bộ phận Pháp chế hoàn thiện tính pháp lý của các điều khoản NDA và kỷ luật lao động.
+- Giao bộ phận Nhân sự cập nhật cơ cấu phụ cấp và quy trình OT vào nội quy lao động mới.
+- Phê duyệt triển khai phần mềm ký hợp đồng điện tử cho các vị trí phù hợp.
+- Yêu cầu hoàn thiện bản dự thảo cuối cùng trong tuần tới để kịp áp dụng cho đợt tuyển dụng tháng sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản dự thảo hợp đồng lao động mới | Bộ phận Pháp chế | 20/12/2025 |
+| Cập nhật nội quy lao động và danh mục hành vi vi phạm | Phòng Nhân sự | 22/12/2025 |
+| Soạn thảo thỏa thuận bảo mật thông tin (NDA) riêng | Bộ phận Pháp chế | 20/12/2025 |
+| Đăng ký nội quy lao động với cơ quan chức năng | Phòng Nhân sự | 05/01/2026 |
+| Lựa chọn và cài đặt phần mềm chữ ký điện tử | Team IT | 25/12/2025 |
+| Rà soát lại danh sách thâm niên nhân viên để tính phép | Chị Lan (Nhân sự) | Chưa rõ |

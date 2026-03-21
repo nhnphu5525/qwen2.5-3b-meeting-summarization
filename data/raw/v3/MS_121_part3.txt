@@ -1,0 +1,75 @@
+<|input|>
+# Cải thiện chất lượng phục vụ tại chuỗi quán cà phê
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết các khiếu nại của khách hàng về thái độ phục vụ và tốc độ lên món.
+- Chuẩn hóa quy trình đào tạo nhân viên và quản lý chất lượng tại các chi nhánh.
+
+### 2. Các vấn đề đã thảo luận
+- Khách hàng phản hồi tiêu cực về thái độ của nhân viên (sử dụng điện thoại, thiếu chào hỏi) tại quận 1 và quận 3.
+- Tốc độ lên món chậm (đợi 15-20 phút), nguyên nhân do quy trình quầy bar chưa tối ưu và nhân viên mới thiếu kỹ năng.
+- Vấn đề vệ sinh, đặc biệt là khu vực nhà vệ sinh chưa được dọn dẹp thường xuyên.
+- Hạ tầng wifi tại một số chi nhánh yếu, ảnh hưởng đến khách hàng làm việc tại quán.
+
+### 3. Kết luận và quyết định
+- Xây dựng lại bộ quy chuẩn đào tạo nhân sự, bổ sung kỹ năng mềm và tình huống thực tế.
+- Thiết kế lại quầy bar theo mô hình dây chuyền một chiều để tối ưu hóa thao tác.
+- Triển khai hệ thống đánh giá qua mã QR tại mỗi bàn để ghi nhận phản hồi của khách hàng và khen thưởng nhân viên.
+- Áp dụng checklist vệ sinh định kỳ mỗi 30 phút.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn lại giáo trình đào tạo kỹ năng mềm cho nhân viên | Chị Lan (Phòng Nhân sự) | 25/05/2024 |
+| Thiết kế lại sơ đồ quầy bar và báo giá thi công | Chị Mai (Phòng Vận hành) | 28/05/2024 |
+| Xây dựng hệ thống đánh giá qua mã QR và form khảo sát | Team IT | 30/05/2024 |
+| Liên hệ nhà mạng nâng cấp băng thông wifi | Anh chủ chuỗi | 24/05/2024 |
+[08:40] Ừm, mình cũng cần xem lại cái vụ trang phục nữa, nhiều bạn mặc đồng phục mà nhăn nhúm nhìn nó không có thiện cảm chút nào.
+[08:42] Dạ để em nhắc bên kho cấp thêm đồng phục mới cho mấy chi nhánh luôn, nhiều khi đồ cũ quá rồi các bạn giặt nó cũng không còn phẳng phiu nữa.
+[08:44] Ừ, làm cho tới nơi tới chốn nha mấy đứa. Mình bán cà phê không chỉ là bán nước mà còn là bán cái sự trải nghiệm nữa, mà trải nghiệm tệ là khách họ đi luôn á, không có quay lại đâu.
+[08:46] Dạ tụi em hiểu mà, đợt này quyết tâm thay đổi toàn diện luôn để khách họ hài lòng hơn.
+[08:48] À, còn cái vụ wifi nữa anh ơi, nhiều khách than là wifi yếu xìu, vô làm việc không được cái họ cũng bực mình.
+[08:50] Ờ, cái này để anh gọi bên nhà mạng xuống kiểm tra rồi nâng cấp băng thông lên cho mấy chi nhánh luôn. Chứ thời buổi này mà wifi yếu là thua rồi.
+[08:52] Dạ vâng anh. Vậy sáng nay mình thống nhất vậy đi ha, để tụi em bắt tay vô làm luôn.
+[08:54] Ok, Lan với Mai triển khai sớm cho anh nha. Có khó khăn gì thì cứ hú anh một tiếng.
+[08:56] Dạ anh, tụi em đi làm đây. Chào anh nha.
+[08:58] Ừ, đi đi, làm cho tốt nha.
+
+<|output|>
+# Cải thiện chất lượng phục vụ tại chuỗi quán cà phê
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết các khiếu nại của khách hàng về thái độ phục vụ và tốc độ lên món.
+- Chuẩn hóa quy trình đào tạo nhân viên và quản lý chất lượng tại các chi nhánh.
+- Nâng cấp cơ sở vật chất và ứng dụng công nghệ để cải thiện trải nghiệm khách hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Khách hàng phản hồi tiêu cực về thái độ của nhân viên (sử dụng điện thoại, thiếu chào hỏi) tại quận 1 và quận 3.
+- Tốc độ lên món chậm (đợi 15-20 phút), nguyên nhân do quy trình quầy bar chưa tối ưu và nhân viên mới thiếu kỹ năng.
+- Vấn đề vệ sinh, đặc biệt là khu vực nhà vệ sinh chưa được dọn dẹp thường xuyên.
+- Hạ tầng wifi tại một số chi nhánh yếu, ảnh hưởng đến khách hàng làm việc tại quán.
+- Đồng phục nhân viên cũ và không phẳng phiu, gây mất thiện cảm.
+
+### 3. Kết luận và quyết định
+- Xây dựng lại bộ quy chuẩn đào tạo nhân sự, bổ sung kỹ năng mềm và tình huống thực tế.
+- Thiết kế lại quầy bar theo mô hình dây chuyền một chiều để tối ưu hóa thao tác.
+- Triển khai hệ thống đánh giá qua mã QR tại mỗi bàn để ghi nhận phản hồi của khách hàng và khen thưởng nhân viên.
+- Áp dụng checklist vệ sinh định kỳ mỗi 30 phút.
+- Nghiêm cấm sử dụng điện thoại cá nhân trong giờ làm việc và cấp mới đồng phục cho nhân viên.
+- Nâng cấp băng thông wifi tại toàn bộ hệ thống chi nhánh.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn lại giáo trình đào tạo kỹ năng mềm cho nhân viên | Chị Lan (Phòng Nhân sự) | 25/05/2024 |
+| Thiết kế lại sơ đồ quầy bar và báo giá thi công | Chị Mai (Phòng Vận hành) | 28/05/2024 |
+| Xây dựng hệ thống đánh giá qua mã QR và form khảo sát | Team IT | 30/05/2024 |
+| Liên hệ nhà mạng nâng cấp băng thông wifi | Anh chủ chuỗi | 24/05/2024 |
+| Cấp phát đồng phục mới và triển khai quy định kỷ luật | Chị Lan (Phòng Nhân sự) | 01/06/2024 |
+| Triển khai checklist vệ sinh tại các chi nhánh | Quản lý các chi nhánh | 22/05/2024 |

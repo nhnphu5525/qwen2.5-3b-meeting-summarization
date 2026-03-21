@@ -1,0 +1,59 @@
+<|input|>
+# Đánh giá kết quả thử việc - Nhân viên Thiết kế đồ họa
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá năng lực chuyên môn và thái độ làm việc của nhân viên thử việc (Nguyễn Anh Tuấn) sau 2 tháng.
+- Xem xét khả năng hòa nhập văn hóa và phối hợp làm việc nhóm.
+
+### 2. Các vấn đề đã thảo luận
+- Chuyên môn: Gu thẩm mỹ tốt, nắm bắt xu hướng nhanh, xử lý công việc nhanh chóng và đạt KPI đề ra (tháng thứ 2 đạt 102%).
+- Kỹ năng mềm: Làm việc độc lập tốt nhưng ban đầu còn gặp khó khăn khi phối hợp với bộ phận Nội dung (Content) do tính cách hơi bảo thủ. Tuy nhiên, đã có sự cầu thị và cải thiện rõ rệt sau khi được góp ý.
+
+### 3. Kết luận và quyết định
+- Chốt kết quả thử việc: Đạt. Quyết định ký hợp đồng lao động chính thức với mức lương theo thỏa thuận ban đầu.
+- Thời gian áp dụng các chế độ bảo hiểm và phúc lợi: Từ ngày 01 của tháng kế tiếp.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn hợp đồng lao động chính thức cho Tuấn | Linh - Phòng Nhân sự | 24/11/2024 |
+| Nhắc nhân viên bổ sung bằng tốt nghiệp công chứng | Linh - Phòng Nhân sự | 22/11/2024 |
+[09:14:35] Em đồng ý ký chính thức chị ạ. Về lương thì cứ theo mức thỏa thuận ban đầu trong thư mời nhận việc thôi, nhưng em nghĩ nên cho bạn ấy tham gia thêm một khóa học về UI/UX để bổ trợ cho mảng Web sắp tới của mình.
+[09:16:00] Ờ cái này hay nè, công ty mình đang cần mảng đó. Linh note lại cái này vô phần đào tạo sau thử việc nha.
+[09:17:25] Dạ em ghi nhận rồi chị. Còn về bảo hiểm với các chế độ phúc lợi khác thì mình áp dụng từ ngày 1 tháng sau luôn chị nhỉ?
+[09:18:40] Đúng rồi, em làm thủ tục nhanh để Tuấn yên tâm công tác. À, nhớ nhắc Tuấn nộp nốt cái bằng tốt nghiệp bản sao công chứng để hoàn thiện hồ sơ nhân sự nha, thấy vẫn còn thiếu đó.
+[09:20:00] Dạ để chiều nay em nhắn Tuấn luôn ạ. Chúc mừng team mình có thêm một nhân sự chất lượng.
+[09:21:20] Ok, vậy chốt kết quả thử việc của Tuấn là Đạt nhé. Cảm ơn hai em.
+
+<|output|>
+# Đánh giá kết quả thử việc - Nhân viên Thiết kế đồ họa
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá năng lực chuyên môn và thái độ làm việc của nhân viên thử việc (Nguyễn Anh Tuấn) sau 2 tháng.
+- Xem xét khả năng hòa nhập văn hóa và phối hợp làm việc nhóm.
+- Đưa ra quyết định cuối cùng về việc ký hợp đồng lao động chính thức.
+
+### 2. Các vấn đề đã thảo luận
+- Chuyên môn: Gu thẩm mỹ tốt, nắm bắt xu hướng nhanh, xử lý công việc nhanh chóng và đạt KPI đề ra (tháng thứ 2 đạt 102%).
+- Kỹ năng mềm: Làm việc độc lập tốt nhưng ban đầu còn gặp khó khăn khi phối hợp với bộ phận Nội dung (Content) do tính cách hơi bảo thủ. Tuy nhiên, đã có sự cầu thị và cải thiện rõ rệt sau khi được góp ý.
+- Văn hóa: Hòa nhập tốt, nhiệt tình tham gia các hoạt động chung và hỗ trợ đồng nghiệp.
+- Hồ sơ nhân sự: Còn thiếu bản sao công chứng bằng tốt nghiệp.
+
+### 3. Kết luận và quyết định
+- Chốt kết quả thử việc: Đạt. Quyết định ký hợp đồng lao động chính thức với mức lương theo thỏa thuận ban đầu.
+- Thời gian áp dụng các chế độ bảo hiểm và phúc lợi: Từ ngày 01 của tháng kế tiếp.
+- Định hướng phát triển: Đề xuất cho nhân viên tham gia khóa đào tạo chuyên sâu về UI/UX để phục vụ các dự án sắp tới của công ty.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn hợp đồng lao động chính thức cho Tuấn | Linh - Phòng Nhân sự | 24/11/2024 |
+| Nhắc nhân viên bổ sung bằng tốt nghiệp công chứng | Linh - Phòng Nhân sự | 22/11/2024 |
+| Đăng ký khóa học UI/UX cho nhân viên | Hiếu - Trưởng nhóm Thiết kế | 05/12/2024 |
+| Hoàn tất thủ tục đóng bảo hiểm xã hội | Linh - Phòng Nhân sự | 30/11/2024 |

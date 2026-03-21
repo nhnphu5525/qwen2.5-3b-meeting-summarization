@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[02:00] Chào mọi người. Xin lỗi vì phải triệu tập cuộc họp khẩn cấp vào lúc nửa đêm thế này. Chắc mọi người cũng đã thấy cái "biến" trên mạng xã hội từ 11 giờ đêm nay rồi đúng không? KOL đại diện cho dòng sản phẩm mới của mình – bạn T.H – vừa có một phát ngôn cực kỳ nhạy cảm và sai lệch về vấn đề phân biệt vùng miền trên trang cá nhân. Hiện tại hashtag tẩy chay hãng mình đang leo lên top trending TikTok và Facebook rồi.
+[02:02] Dạ thưa sếp, em đã theo dõi từ lúc nó mới chớm. Tốc độ lan truyền kinh khủng quá. Chỉ sau 3 tiếng mà đã có hơn 50.000 lượt thảo luận tiêu cực liên quan trực tiếp đến thương hiệu. Nhiều Group lớn như "Hóng Biến", "The Showbiz" đã đăng tải lại ảnh chụp màn hình phát ngôn đó và gắn logo của mình vào.
+[02:04] Ờ... T.H nó nghĩ cái gì mà lại phát ngôn như vậy trong lúc đang cầm hợp đồng đại diện của mình hả Mai? Hợp đồng mình ký với nó có điều khoản về đạo đức và giữ gìn hình ảnh không?
+[02:06] Có chứ anh. Điều khoản 8.2 ghi rõ là trong thời gian thực hiện hợp đồng, bên B (KOL) không được có bất kỳ phát ngôn hay hành động nào gây tổn hại đến uy tín thương hiệu hoặc trái với thuần phong mỹ tục. Vi phạm điều này mình có quyền đơn phương chấm dứt hợp đồng và yêu cầu bồi thường gấp 3 lần giá trị hợp đồng.
+[02:08] Bồi thường thì tính sau, cái quan trọng nhất bây giờ là dập lửa. Nếu không xử lý ngay trong đêm nay, sáng mai khi các trang báo điện tử vào cuộc thì mình sẽ không kiểm soát nổi nữa. Mọi người đề xuất phương án đi.
+[02:10] Em nghĩ đầu tiên mình phải yêu cầu T.H gỡ bài đó ngay lập tức. Sau đó bạn ấy phải có một bài xin lỗi công khai nhưng không được nhắc đến tên thương hiệu mình để tránh "đổ thêm dầu vào lửa".
+[02:12] Không được Mai ơi! Bây giờ mà bảo nó xin lỗi theo kiểu đó cộng đồng mạng sẽ nói mình "tẩy trắng". Em thấy mình nên ra một thông cáo báo chí chính thức (Press Release) ngay trên Fanpage của hãng. Nội dung là mình phản đối mọi hành vi phân biệt vùng miền và chính thức tạm dừng mọi hoạt động hợp tác với T.H kể từ lúc này. Mình phải tách mình ra khỏi nó càng sớm càng tốt.
+[02:14] "Tạm dừng" hay "Chấm dứt" luôn hả Nam?
+[02:16] Em nghĩ là "Tạm dừng để xác minh" sẽ an toàn hơn về mặt pháp lý, nhưng ngôn ngữ truyền thông thì phải cực kỳ đanh thép để làm xoa dịu đám đông. Mình phải cho họ thấy mình đứng về phía người tiêu dùng.
+
+<|output|>
+# Xử lý khủng hoảng truyền thông khẩn cấp: Phát ngôn sai lệch của Đại sứ thương hiệu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Ngăn chặn sự lan truyền tiêu cực của cuộc khủng hoảng tẩy chay thương hiệu do phát ngôn phân biệt vùng miền của KOL T.H.
+- Thống nhất thông điệp truyền thông và các hành động pháp lý ngay trong đêm để giảm thiểu thiệt hại.
+
+### 2. Các vấn đề đã thảo luận
+- **Phân tích tình hình:** Hashtag tẩy chay đang top trending, hơn 50.000 thảo luận tiêu cực trong 3 giờ. 
+- **Hợp đồng & Pháp lý:** KOL vi phạm điều khoản đạo đức và giữ gìn hình ảnh (Điều 8.2). Nhãn hàng có quyền chấm dứt hợp đồng và yêu cầu bồi thường.
+- **Phản ứng truyền thông:** Quyết định ra thông cáo báo chí (Press Release) khẳng định lập trường tôn trọng đa dạng vùng miền và đình chỉ ngay lập tức mọi hoạt động quảng bá có mặt KOL rạch ròi, mạnh mẽ bảo vệ người tiêu dùng.
+
+### 3. Kết luận và quyết định
+- Ngừng mọi hoạt động hợp tác với KOL T.H và làm việc với pháp lý.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

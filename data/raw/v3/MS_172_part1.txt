@@ -1,0 +1,55 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:15:00] Chào chị Thảo, chào cả phòng kế toán mình nha. Sáng nay em muốn bàn kỹ vụ hoàn thuế VAT cho mấy cái đơn hàng xuất khẩu hồi tháng 10 nè.
+[09:15:30] Ừ, cái này đang gấp đó Hùng ơi. Bên thuế họ mới gửi công văn nhắc mình bổ sung hồ sơ chứng từ thanh toán qua ngân hàng của 3 lô hàng đi Nhật đó.
+[09:16:00] Dạ, em biết mà. Cái khó là có một lô bên khách hàng Nhật họ thanh toán trễ, tới tận tháng 12 mới tiền mới về tài khoản công ty. Không biết vậy có bị loại ra khỏi đợt hoàn thuế này không chị?
+[09:16:30] Theo quy định thì chứng từ thanh toán không dùng tiền mặt phải có trước khi nộp hồ sơ hoàn thuế. Nếu tiền về muộn vậy thì mình phải tách lô đó ra, nộp sau chứ gộp vô bây giờ là họ bác cả bộ hồ sơ luôn đó.
+[09:17:00] Ôi trời, vậy là lại phải làm lại mớ tờ khai hải quan với hóa đơn hả chị? Oải quá vậy.
+[09:17:30] Chứ sao nữa, làm kế toán là phải kỹ từng li từng tí. Em check lại xem mấy cái vận đơn (Bill of Lading) có khớp với số lượng trên hóa đơn không? Đợt trước bị lệch vài thùng là họ cũng hành mình lên xuống rồi.
+[09:18:00] Dạ em check rồi, lần này khớp đét luôn chị. Chỉ có cái vụ hợp đồng ngoại thương, bên kia họ ký bằng chữ ký số nhưng định dạng hơi lạ, không biết cơ quan thuế có chấp nhận không đây.
+[09:18:30] Em phải in ra rồi đóng dấu treo của công ty mình vô, kèm theo cái bản dịch thuật công chứng nữa cho chắc cú. Chứ mấy ổng mà thấy cái gì lạ lạ là ổng bắt bẻ liền à.
+[09:19:00] Dạ vâng. Còn cái vụ nợ đọng thuế môn bài của chi nhánh Bình Dương thì sao chị? Nó có ảnh hưởng gì tới việc hoàn thuế của tổng công ty không?
+[09:19:30] Có chứ, quy tắc là phải hoàn thành nghĩa vụ thuế thì mới được xét hoàn. Em báo bên Bình Dương nộp ngay đi, rồi gửi cái biên lai nộp tiền qua đây để chị kẹp vô hồ sơ luôn.
+
+<|output|>
+# Xử lý hoàn thuế VAT cho các đơn hàng xuất khẩu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và hoàn thiện hồ sơ hoàn thuế VAT cho các đơn hàng xuất khẩu tháng 10.
+- Giải quyết các vướng mắc về chứng từ thanh toán và hợp đồng ngoại thương.
+
+### 2. Các vấn đề đã thảo luận
+- Lô hàng đi Nhật thanh toán muộn (tháng 12 mới về tiền) cần được tách ra khỏi đợt hoàn thuế này để tránh rủi ro bị bác hồ sơ.
+- Kiểm tra tính khớp số giữa vận đơn (B/L) và hóa đơn thương mại.
+- Vấn đề chữ ký số trên hợp đồng ngoại thương: Cần in ấn, đóng dấu treo và đính kèm bản dịch công chứng.
+
+### 3. Kết luận và quyết định
+- Tách lô hàng thanh toán muộn ra khỏi bộ hồ sơ hiện tại.
+- Yêu cầu chi nhánh Bình Dương nộp ngay thuế môn bài và gửi biên lai xác nhận.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nộp thuế môn bài chi nhánh Bình Dương và gửi biên lai | Kế toán chi nhánh Bình Dương | 16/12/2024 |
+| Hoàn thiện bản dịch công chứng hợp đồng ngoại thương | Hùng - Phòng Kế toán | 18/12/2024 |

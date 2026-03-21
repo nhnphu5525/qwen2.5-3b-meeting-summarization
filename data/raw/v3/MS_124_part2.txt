@@ -1,0 +1,62 @@
+<|input|>
+# Xử lý khủng hoảng khiếu nại khách hàng về giao hàng chậm
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng ùn ứ đơn hàng và xử lý khủng hoảng truyền thông do giao hàng chậm sau đợt khuyến mãi.
+
+### 2. Các vấn đề đã thảo luận
+- Lượng đơn hàng tăng đột biến (gấp 5 lần) dẫn đến quá tải kho bãi và vận chuyển.
+- Đối tác vận chuyển hiện tại thiếu nhân sự, không đáp ứng được tiến độ lấy và giao hàng.
+
+### 3. Kết luận và quyết định
+- Huy động toàn bộ nhân viên văn phòng hỗ trợ đóng gói tại kho, làm thêm ca đêm để hoàn tất đơn hàng trong 2 ngày.
+- Tìm kiếm và ký kết bổ sung các đơn vị vận chuyển dự phòng (GHTK, Viettel Post) để đẩy hàng đi ngay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Huy động nhân sự đóng gói và giải phóng 3000 đơn tồn | Anh Tuấn (Phòng Vận hành) | 25/05/2024 |
+| Soạn và đăng bài xin lỗi công khai, gửi email cho khách | Chị Linh (Phòng Marketing/CSKH) | 23/05/2024 |
+[10:18] Dạ, em sẽ phối hợp với Tuấn để cập nhật lộ trình đơn hàng chính xác nhất cho khách. Những đơn nào quá lâu mà khách muốn hủy thì mình cũng phải giải quyết hoàn tiền nhanh cho họ luôn anh ạ.
+[10:20] Đúng rồi, đừng có làm khó khách lúc này. Càng làm khó họ càng điên tiết lên đó. Tuấn nè, em huy động toàn bộ nhân viên văn phòng xuống hỗ trợ đóng gói dưới kho luôn đi, làm cả ca đêm để clear hết đống đơn đó trong 2 ngày tới cho anh.
+[10:22] Dạ vâng sếp, để em thông báo cho mọi người luôn. Tinh thần là chiến đấu hết mình để cứu vớt uy tín công ty thôi ạ.
+[10:24] À Linh, em nhớ trực hotline 24/7 luôn nha, đừng để khách gọi mà không ai nghe máy, lúc đó họ còn bực hơn nữa.
+[10:26] Dạ em biết rồi ạ, em đã chia ca cho team CSKH rồi, đảm bảo không sót cuộc gọi nào của khách đâu sếp.
+[10:28] Còn cái vụ đối tác vận chuyển kia, sau đợt này Tuấn làm việc lại với họ đi. Nếu họ không đảm bảo được cam kết thì mình cắt hợp đồng luôn, không có nể nang gì hết. Làm ăn kiểu này chết mình rồi.
+[10:30] Dạ em rõ rồi anh. Em cũng đang làm việc với bên pháp chế để xem các điều khoản bồi thường thiệt hại do giao chậm của bên họ đây ạ.
+[10:32] Ừ, làm cho ra ngô ra khoai nha. Mà này, mình cũng nên có một cái email gửi riêng cho từng khách hàng có đơn bị chậm để xin lỗi chân thành, chứ đăng fanpage không thì nhiều người họ không đọc được đâu.
+[10:34] Dạ ý kiến hay đó sếp. Để em soạn mẫu email rồi gửi qua hệ thống tự động luôn cho nhanh.
+[10:36] Ok làm đi. À, mấy bạn CSKH cũng cần được hướng dẫn cách trả lời khéo léo nha Linh. Tránh cãi vã với khách, dù khách có nặng lời thì mình cũng phải nhẫn nhịn xin lỗi và tìm cách giải quyết.
+
+<|output|>
+# Xử lý khủng hoảng khiếu nại khách hàng về giao hàng chậm
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng ùn ứ đơn hàng và xử lý khủng hoảng truyền thông do giao hàng chậm sau đợt khuyến mãi.
+- Thống nhất phương án đền bù và chăm sóc khách hàng để giữ uy tín thương hiệu.
+
+### 2. Các vấn đề đã thảo luận
+- Lượng đơn hàng tăng đột biến (gấp 5 lần) dẫn đến quá tải kho bãi và vận chuyển.
+- Đối tác vận chuyển hiện tại thiếu nhân sự, không đáp ứng được tiến độ lấy và giao hàng.
+- Khách hàng phản ứng gay gắt trên mạng xã hội, có xu hướng kêu gọi tẩy chay.
+- Kho còn tồn đọng hơn 3000 đơn hàng chưa được xử lý.
+
+### 3. Kết luận và quyết định
+- Huy động toàn bộ nhân viên văn phòng hỗ trợ đóng gói tại kho, làm thêm ca đêm để hoàn tất đơn hàng trong 2 ngày.
+- Tìm kiếm và ký kết bổ sung các đơn vị vận chuyển dự phòng (GHTK, Viettel Post) để đẩy hàng đi ngay.
+- Đăng bài xin lỗi công khai trên Fanpage và gửi email xin lỗi riêng tới từng khách hàng bị ảnh hưởng.
+- Tặng voucher giảm giá 20% cho các khách hàng có đơn hàng bị chậm để xoa dịu và giữ chân khách.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Huy động nhân sự đóng gói và giải phóng 3000 đơn tồn | Anh Tuấn (Phòng Vận hành) | 25/05/2024 |
+| Soạn và đăng bài xin lỗi công khai, gửi email cho khách | Chị Linh (Phòng Marketing/CSKH) | 23/05/2024 |
+| Liên hệ và ký hợp đồng gấp với các đối tác vận chuyển mới | Anh Tuấn (Phòng Vận hành) | 23/05/2024 |
+| Trực hotline và xử lý các yêu cầu hủy đơn/hoàn tiền | Team CSKH | Duy trì 24/7 |

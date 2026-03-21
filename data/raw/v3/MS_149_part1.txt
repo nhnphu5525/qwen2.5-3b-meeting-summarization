@@ -1,0 +1,43 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00:00] Chào anh Hùng, chào chị Lan với lại em Nam nha. Sáng nay mình ngồi lại để thảo luận một vấn đề cực kỳ quan trọng và cũng khá là "căng" cho công ty mình trong giai đoạn này, đó là việc tái cấu trúc lại toàn bộ hệ thống kho bãi ở khu vực miền Bắc. Anh Hùng, với tư cách là Giám đốc vận hành, anh đánh giá thế nào về hiệu quả của 3 cái kho hiện tại mình đang thuê ở Bắc Ninh, Hà Nội với Hải Phòng?
+[09:03:30] Ờ, chào Minh, chào Lan và Nam. Nói thiệt là anh cũng đang nhức đầu vụ này mấy tháng nay rồi. Hiện tại, cái kho ở Hà Nội mình thuê ở khu vực Thanh Trì nó quá chật chội, xe container vào ra cực kỳ khó khăn, nhất là vào giờ cao điểm là coi như đứng hình luôn. Còn cái kho ở Hải Phòng thì lại quá xa các khu công nghiệp trọng điểm mà mình đang phục vụ, dẫn đến chi phí vận chuyển chặng đầu (first-mile) nó đội lên kinh khủng. Duy chỉ có cái kho ở Bắc Ninh là còn tạm ổn về mặt vị trí, nhưng mà diện tích hiện tại cũng đã lấp đầy 95% rồi, không còn chỗ để chứa hàng cho các dự án mới vào quý 4 này đâu.
+[09:07:00] Dạ vầy nè anh Hùng, em có làm một cái bảng phân tích chi phí vận hành cho 3 kho này trong 6 tháng đầu năm. Kết quả cho thấy chi phí lưu kho trên mỗi đơn vị sản phẩm (unit cost) của mình đang cao hơn trung bình ngành tới 12%. Nguyên nhân chủ yếu là do sự phân tán hàng hóa. Nhiều khi một đơn hàng của khách mà mình phải lấy hàng từ cả 3 kho rồi mới gom lại giao được, vừa tốn thời gian mà lại vừa tốn thêm một mớ tiền xe trung chuyển nội bộ nữa.
+
+<|output|>
+# Đề án Tái cấu trúc Hệ thống Kho bãi Khu vực Miền Bắc
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả vận hành của hệ thống 3 kho hiện tại (Hà Nội, Bắc Ninh, Hải Phòng).
+
+### 2. Các vấn đề đã thảo luận
+- **Thực trạng hệ thống cũ:**
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng Consolidation Hub tại miền Bắc.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập Business Case và phân tích tài chính dự án | Chị Lan (CFO) | 15/10/2024 |
+| Khảo sát thực địa và chốt địa điểm thuê Hub | Nam (Logistics) | 25/10/2024 |

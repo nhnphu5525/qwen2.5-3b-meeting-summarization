@@ -1,0 +1,67 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[11:00] Chào mọi người. Hôm nay mình ngồi lại để review cái tiến độ cho con game mobile "Vương Quốc Thần Thoại" sắp tới nha.
+[11:02] Ừ, cái phần đồ họa 3D cho các nhân vật chính sao rồi em? Anh thấy đợt trước mẫu thiết kế chưa được mượt lắm.
+[11:04] Dạ... ờ thì... bên team Art đã hoàn thiện lại bộ khung xương và animation cho 10 nhân vật đầu tiên rồi ạ. Bây giờ chuyển động đã mượt hơn 50% so với bản cũ. Tuy nhiên, cái phần hiệu ứng kỹ năng (vfx) thì đang hơi nặng, chạy trên mấy dòng máy cũ là bị giật lag kinh khủng.
+[11:06] Thế thì... là... mình phải tối ưu lại ngay. Game mobile mà không tối ưu cho máy tầm trung thì mất một lượng lớn người chơi đó.
+[11:08] Dạ, em đang cho team kỹ thuật viết lại bộ lọc shader để giảm bớt gánh nặng cho GPU. Dự kiến cuối tuần sau là ổn ạ.
+[11:10] Tốt. Còn cái phần gameplay, cơ chế gacha mình đã cân bằng lại tỷ lệ rớt đồ chưa? Anh không muốn người chơi phàn nàn là hút máu quá đâu.
+[11:12] Dạ, em đã điều chỉnh lại tỷ lệ rồi ạ. Mình sẽ có cơ chế "bảo hiểm" sau mỗi 50 lần quay thì chắc chắn ra tướng hiếm. Như vậy sẽ kích thích người chơi nạp thẻ hơn mà không gây ức chế.
+[11:14] Ừ, cái đó hợp lý. Còn về chiến dịch marketing thì sao? Mình đã làm việc với các streamer nổi tiếng chưa?
+[11:16] Dạ, em đã liên hệ được với 3 streamer lớn chuyên dòng game RPG rồi ạ. Họ đã đồng ý livestream chơi thử bản Alpha vào tháng sau. Ngoài ra, mình cũng đã đặt trước các vị trí banner trên App Store và Google Play.
+[11:18] Vậy là khá ổn. Thế còn cái vụ bảo mật server thì sao? Đợt rồi con game cũ của mình bị hack tưng bừng đó.
+[11:20] Dạ... dạ... cái này em đã đặc biệt lưu ý rồi ạ. Team Backend đang triển khai hệ thống mã hóa dữ liệu mới và thiết lập các lớp tường lửa chống DDoS mạnh hơn. Mình cũng sẽ thuê bên thứ ba để audit bảo mật trước khi ra mắt chính thức.
+[11:22] Tuyệt vời. Vậy kế hoạch là đầu tháng 8 mình sẽ mở bản Alpha test cho một nhóm nhỏ người chơi đúng không?
+[11:24] Dạ đúng rồi ạ. Sau đó mình sẽ thu thập feedback để hoàn thiện bản Beta vào tháng 10.
+[11:26] OK, chốt thế đi. Mọi người nỗ lực hoàn thành đúng hạn nha.
+
+<|output|>
+# Tiến độ phát triển game mobile "Vương Quốc Thần Thoại"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tiến độ thiết kế đồ họa và hiệu ứng nhân vật.
+- Thảo luận về tối ưu hóa hiệu năng game trên các thiết bị cấu hình thấp.
+- Kiểm tra các cơ chế gameplay (gacha) và chiến dịch marketing.
+- Đảm bảo an ninh hệ thống và kế hoạch thử nghiệm (Alpha/Beta test).
+
+### 2. Các vấn đề đã thảo luận
+- Đồ họa: Đã hoàn thiện animation cho 10 nhân vật chính, nhưng VFX vẫn còn gây giật lag trên máy cũ.
+- Tối ưu hóa: Team kỹ thuật đang viết lại shader để giảm tải GPU.
+- Gameplay: Thiết lập cơ chế "bảo hiểm" trong tính năng gacha để cân bằng lợi ích người chơi và doanh thu.
+- Marketing: Đã chốt hợp tác với 3 streamer lớn và đặt chỗ banner trên các kho ứng dụng.
+- Bảo mật: Triển khai mã hóa dữ liệu, chống DDoS và lên kế hoạch thuê đơn vị audit độc lập.
+
+### 3. Kết luận và quyết định
+- Hoàn tất tối ưu hóa shader trước cuối tuần sau.
+- Chuẩn bị sẵn sàng cho đợt Alpha test vào đầu tháng 8.
+- Thực hiện audit bảo mật hệ thống server trước ngày ra mắt chính thức.
+- Theo dõi phản hồi từ nhóm người chơi thử nghiệm để điều chỉnh gameplay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tối ưu hóa hiệu ứng shader | Phòng Kỹ thuật | 31/05/2024 |
+| Chuẩn bị bản Alpha test | Team Phát triển | 15/07/2024 |
+| Chốt kịch bản livestream với streamer | Phòng Marketing | 20/06/2024 |
+| Thuê đơn vị audit bảo mật | Phòng Kỹ thuật | 01/07/2024 |
+| Phân tích dữ liệu phản hồi người chơi | Team Nội dung | 15/08/2024 |

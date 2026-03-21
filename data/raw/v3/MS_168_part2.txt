@@ -1,0 +1,74 @@
+<|input|>
+# Xử lý các vướng mắc về hóa đơn điện tử và chứng từ thuế quý IV/2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết các sai sót liên quan đến hóa đơn điện tử đầu vào từ nhà thầu.
+- Cập nhật phần mềm kế toán để tương thích với chuẩn dữ liệu mới của Tổng cục Thuế.
+
+### 2. Các vấn đề đã thảo luận
+- **Sai sót hóa đơn:** Nhà thầu xây dựng xuất sai mã số thuế công ty nhưng không chịu hủy/thay thế. Quyết định: Gửi công văn chính thức và tạm dừng thanh toán nếu không phối hợp.
+- **Kỹ thuật phần mềm:** Lỗi định dạng XML khi tải hóa đơn điện tử. Giải pháp: Nâng cấp phiên bản phần mềm kế toán trong chiều nay.
+- **Chứng từ khấu trừ thuế TNCN:** Ngừng sử dụng phôi giấy mẫu cũ, thực hiện thủ tục hủy và đăng ký sử dụng mẫu điện tử theo quy định mới.
+
+### 3. Kết luận và quyết định
+- Ưu tiên hoàn thiện hồ sơ hoàn thuế GTGT dự án Long An trước ngày 30/11/2024.
+- Triển khai ngay việc đăng ký chứng từ khấu trừ thuế TNCN điện tử để thay thế viết tay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Gửi công văn yêu cầu điều chỉnh hóa đơn cho nhà thầu | Vy - Kế toán | 22/11/2024 |
+| Giám sát cập nhật phần mềm kế toán | Minh - Kế toán | 21/11/2024 |
+| Làm thủ tục hủy phôi chứng từ cũ và đăng ký mẫu điện tử | Minh - Kế toán | 25/11/2024 |
+[14:15:45] Dạ em cũng định đề xuất vụ này. Chứ mỗi lần có cộng tác viên nghỉ là lại phải viết tay rồi đóng dấu, cực quá trời luôn.
+[14:17:30] Vy ơi, cái vụ quyết toán thuế cho chuyên gia nước ngoài đợt rồi sao rồi em? Có vướng mắc gì về hồ sơ chứng minh quan hệ phụ thuộc không?
+[14:19:15] Dạ đang vướng chỗ ông Smith á chị. Giấy khai sinh của con ổng gửi qua chỉ là bản scan, chưa có hợp pháp hóa lãnh sự nên chi cục thuế họ chưa chấp nhận cho giảm trừ gia cảnh.
+[14:21:00] Ờ cái này là quy định bắt buộc mà. Em nhắn ông Smith là phải gửi bản gốc hoặc bản sao có công chứng và hợp pháp hóa lãnh sự của đại sứ quán về thì mình mới làm kịp đợt quyết toán này.
+[14:22:45] Dạ em có nhắn rồi, ổng bảo đang nhờ người nhà bên Anh làm thủ tục, chắc tuần sau mới gửi về tới Việt Nam được chị ạ.
+[14:24:30] Vậy thì hối ổng làm nhanh đi, chứ để quá hạn là ổng bị truy thu thuế mệt lắm đó. À, còn vụ hoàn thuế GTGT cho dự án đầu tư ở Long An thì sao? Hồ sơ nộp chưa?
+[14:26:15] Dạ tụi em đang tập hợp chứng từ thanh toán không dùng tiền mặt. Đang thiếu mấy cái xác nhận chuyển khoản của ngân hàng đối với mấy đơn hàng mua máy móc thiết bị nhập khẩu á chị.
+[14:28:00] Cái đó Minh liên hệ ngân hàng lấy sổ phụ với lệnh chuyển khoản về đi. Hồ sơ hoàn thuế là phải chuẩn chỉ từng tờ một, sai một ly đi một dặm là bị loại ngay cái hóa đơn đó đó.
+[14:29:45] Dạ em rõ rồi chị. Em sẽ cố gắng hoàn thiện bộ hồ sơ này trong tuần tới để kịp nộp trước ngày 30.
+[14:31:30] Ok, chốt vậy nha. Vy lo vụ hóa đơn nhà thầu với quyết toán thuế TNCN. Minh lo vụ phần mềm hóa đơn điện tử với hồ sơ hoàn thuế GTGT. Chị sẽ kiểm tra lại một lượt cuối cùng trước khi ký nộp.
+[14:33:15] Dạ chị yên tâm, tụi em sẽ làm kỹ ạ. Mà chị ơi, cuối tháng này phòng mình có được đi ăn liên hoan giải ngố tí không chị? Làm thuế đợt này căng não quá.
+[14:35:00] Rồi rồi, làm xong cái đống hồ sơ này đi rồi chị xin sếp duyệt cho đi ăn lẩu. Nhớ là phải xong việc mới có ăn nha.
+[14:36:45] Dạ yeaa, tụi em có động lực rồi chị ơi. Chào chị ạ.
+[14:38:30] Chào mấy đứa nha. Cố lên!
+
+<|output|>
+# Xử lý các vướng mắc về hóa đơn điện tử và chứng từ thuế quý IV/2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết các sai sót liên quan đến hóa đơn điện tử đầu vào từ nhà thầu.
+- Cập nhật phần mềm kế toán để tương thích với chuẩn dữ liệu mới của Tổng cục Thuế.
+- Thống nhất quy trình chuyển đổi sang chứng từ khấu trừ thuế TNCN điện tử.
+- Tháo gỡ khó khăn trong hồ sơ quyết toán thuế TNCN cho chuyên gia nước ngoài và hồ sơ hoàn thuế GTGT dự án.
+
+### 2. Các vấn đề đã thảo luận
+- **Sai sót hóa đơn:** Nhà thầu xây dựng xuất sai mã số thuế công ty nhưng không chịu hủy/thay thế. Quyết định: Gửi công văn chính thức và tạm dừng thanh toán nếu không phối hợp.
+- **Kỹ thuật phần mềm:** Lỗi định dạng XML khi tải hóa đơn điện tử. Giải pháp: Nâng cấp phiên bản phần mềm kế toán trong chiều nay.
+- **Chứng từ khấu trừ thuế TNCN:** Ngừng sử dụng phôi giấy mẫu cũ, thực hiện thủ tục hủy và đăng ký sử dụng mẫu điện tử theo quy định mới.
+- **Quyết toán thuế cho người nước ngoài:** Thiếu hồ sơ hợp pháp hóa lãnh sự cho người phụ thuộc. Cần yêu cầu nhân sự bổ sung bản gốc/bản công chứng đúng quy định.
+- **Hoàn thuế GTGT:** Hồ sơ đang thiếu chứng từ thanh toán không dùng tiền mặt (sổ phụ ngân hàng) cho các lô hàng nhập khẩu.
+
+### 3. Kết luận và quyết định
+- Ưu tiên hoàn thiện hồ sơ hoàn thuế GTGT dự án Long An trước ngày 30/11/2024.
+- Triển khai ngay việc đăng ký chứng từ khấu trừ thuế TNCN điện tử để thay thế viết tay.
+- Giao các cá nhân phụ trách bám sát các đầu việc: Vy xử lý hóa đơn sai và quyết toán thuế TNCN; Minh xử lý kỹ thuật phần mềm và hồ sơ hoàn thuế.
+- Trưởng phòng sẽ kiểm soát lại toàn bộ hồ sơ trước khi nộp cơ quan thuế.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Gửi công văn yêu cầu điều chỉnh hóa đơn cho nhà thầu | Vy - Kế toán | 22/11/2024 |
+| Giám sát cập nhật phần mềm kế toán | Minh - Kế toán | 21/11/2024 |
+| Làm thủ tục hủy phôi chứng từ cũ và đăng ký mẫu điện tử | Minh - Kế toán | 25/11/2024 |
+| Đôn đốc chuyên gia Smith nộp hồ sơ hợp pháp hóa lãnh sự | Vy - Kế toán | 28/11/2024 |
+| Tập hợp lệnh chuyển khoản và sổ phụ ngân hàng cho hồ sơ hoàn thuế | Minh - Kế toán | 24/11/2024 |
+| Kiểm tra cuối cùng và ký nộp hồ sơ hoàn thuế | Trưởng phòng Kế toán | 29/11/2024 |

@@ -1,0 +1,50 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[07:00:00] Chào anh Hùng, chào chú Sáu với lại mấy anh em tổ trưởng. Sáng nay mình họp giao ban sớm đầu giờ để chấn chỉnh lại cái vụ an toàn lao động (ATLĐ) trên công trường mình nha. Đợt kiểm tra nội bộ chiều qua anh thấy nhiều cái còn lỏng lẻo quá đó anh Hùng.
+[07:03:15] Ờ, anh biết rồi Minh. Cái vụ mấy anh em thợ sắt không đeo dây an toàn khi làm việc ở tầng 15 hôm qua là anh đã khiển trách rồi. Nhưng mà tụi nó cứ kêu là dây nó vướng víu, khó thao tác quá nên tụi nó lười móc vào.
+[07:06:30] Dạ vầy nè anh Hùng, vướng thì vướng nhưng mà lỡ sảy chân một cái là hết đường cứu luôn đó anh. Công trường mình đang ở giai đoạn hoàn thiện, máy móc thiết bị ngổn ngang, chỉ cần một phút lơ là là hậu quả khôn lường. Chú Sáu nè, tổ thợ nề của chú có ai chưa được cấp phát đầy đủ bảo hộ lao động (BHLĐ) không chú?
+[07:09:45] Báo cáo anh Minh, đồ thì cấp đủ rồi, nhưng mà cái vụ giày bảo hộ ấy, mấy đứa trẻ nó cứ thích đi dép tổ ong cho nó nhẹ chân. Tôi nhắc hoài mà tụi nó không nghe, cứ bảo là đi dép quen rồi. Hôm nọ có thằng Suýt tí nữa là dẫm phải đinh đó anh.
+[07:13:00] Đấy, chú thấy chưa! Dẫm phải đinh là còn nhẹ, chứ nhiễm trùng uốn ván là nằm viện cả tháng trời. Anh Hùng ơi, em đề nghị mình áp dụng chế tài mạnh tay đi. Đứa nào không mang giày bảo hộ, không đội mũ cứng là đuổi ra khỏi công trường ngay lập tức, không cho làm ngày hôm đó luôn.
+[07:16:15] Ờ, anh cũng tính vậy. Minh nè, em kiểm tra lại cái hệ thống lưới an toàn xung quanh mấy cái hố thang máy giùm anh cái. Anh thấy có mấy chỗ lưới nó bị rách với lại thanh chắn nó hơi bị lỏng lẻo đó.
+
+<|output|>
+# Giao ban Đầu giờ về Công tác An toàn Lao động (ATLĐ) tại Công trường
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chấn chỉnh các hành vi vi phạm quy định về an toàn lao động tại công trường.
+- Rà soát các khu vực nguy hiểm và thiết bị máy móc có nguy cơ mất an toàn.
+
+### 2. Các vấn đề đã thảo luận
+- **Vi phạm phổ biến:** Công nhân làm việc trên cao không thắt dây an toàn, không mang giày bảo hộ (đi dép tổ ong), không đội mũ cứng.
+- **Khu vực nguy hiểm:** 
+
+### 3. Kết luận và quyết định
+- Phê duyệt áp dụng chế tài mạnh tay đối với các vi phạm về BHLĐ và nồng độ cồn.
+- Giao Minh chỉ đạo gia cố ngay hố thang máy và xử lý dứt điểm các lỗi về điện trong sáng nay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Gia cố lưới an toàn và thanh chắn hố thang máy | Minh & Đội bảo trì | 05/10/2024 |
+| Sửa chữa và che chắn các tủ điện bị hở dây | Thợ điện (Tổ chú Sáu) | 05/10/2024 |
+| Làm việc với tổ cẩu tháp về an toàn khi gió mạnh | Anh Hùng | 06/10/2024 |

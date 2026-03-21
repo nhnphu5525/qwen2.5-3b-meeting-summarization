@@ -1,0 +1,68 @@
+<|input|>
+# Cải tiến quy trình xử lý khiếu nại và đổi trả sản phẩm
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Rút ngắn thời gian phản hồi khiếu nại để nâng cao chỉ số hài lòng của khách hàng (CSAT).
+- Tối ưu hóa phối hợp giữa bộ phận CSKH và Kỹ thuật.
+
+### 2. Các vấn đề đã thảo luận
+- Quy trình hiện tại gây chậm trễ (trung bình 3 ngày) do chờ xác minh từ bộ phận kỹ thuật.
+- Phân loại khiếu nại: Đơn hàng dưới 2 triệu và trên 2 triệu đồng để có cơ chế xử lý khác nhau.
+- Cơ chế tự quyết: Nhân viên CSKH được quyền duyệt đổi trả ngay cho đơn dưới 2 triệu nếu khách hàng cung cấp đầy đủ bằng chứng (video, ảnh chụp lỗi).
+- Ràng buộc thời gian cho bộ phận kỹ thuật: Cam kết phản hồi trong vòng 24h đối với các đơn hàng giá trị cao.
+
+### 3. Kết luận và quyết định
+- Đồng ý bổ sung 2 nhân sự kỹ thuật chuyên trách xử lý hàng lỗi.
+- Yêu cầu ban hành bộ tiêu chí đổi trả nhanh cho nhân viên CSKH áp dụng từ tuần tới.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo bộ tiêu chí đổi trả nhanh cho đơn < 2 triệu | Chú Nam | 14/01/2026 |
+| Tuyển dụng/Điều động 2 kỹ thuật viên chuyên trách | Phòng Nhân sự | 18/01/2026 |
+| Cập nhật quy trình phản hồi 24h vào SLA nội bộ | Quản lý vận hành | 15/01/2026 |
+[08:52] Ngoài ra, anh muốn mình áp dụng hệ thống Ticket để theo dõi trạng thái từng ca khiếu nại.
+[08:54] Khách hàng có thể tự vào web xem xem khiếu nại của mình đang ở bước nào rồi.
+[08:55] Cái này hay quá, giúp khách yên tâm hơn và cũng giảm bớt lượng cuộc gọi hỏi thăm tình hình.
+[08:57] IT đã sẵn sàng tích hợp cái này vào hệ thống chưa?
+[08:58] Dạ, bên IT bảo là mất khoảng 1 tuần để code và test sếp ạ.
+[09:00] Tốt, triển khai ngay đi. À, nhớ đào tạo lại thái độ phục vụ cho anh em nữa nhé.
+[09:01] Nhiều lúc khách đang nóng mà mình trả lời máy móc quá là họ càng bực thêm đấy.
+[09:03] Dạ vâng, tuần tới em sẽ tổ chức một buổi workshop về kỹ năng xử lý khủng hoảng tâm lý khách hàng.
+[09:04] Ok, anh rất mong chờ sự thay đổi này. Doanh thu có tăng hay không là nhờ vào sự hài lòng của khách hết đấy.
+[09:06] Dạ tụi em sẽ cố gắng hết sức ạ.
+[09:07] Thôi, mọi người bắt tay vào việc đi nhé.
+[09:09] Chào sếp.
+
+<|output|>
+# Cải tiến quy trình xử lý khiếu nại và đổi trả sản phẩm
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Rút ngắn thời gian phản hồi khiếu nại để nâng cao chỉ số hài lòng của khách hàng (CSAT).
+- Tối ưu hóa phối hợp giữa bộ phận CSKH và Kỹ thuật.
+- Áp dụng công nghệ để khách hàng chủ động theo dõi trạng thái xử lý đơn hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Quy trình hiện tại gây chậm trễ (trung bình 3 ngày) do chờ xác minh từ bộ phận kỹ thuật.
+- Phân loại khiếu nại: Đơn hàng dưới 2 triệu và trên 2 triệu đồng để có cơ chế xử lý khác nhau.
+- Cơ chế tự quyết: Nhân viên CSKH được quyền duyệt đổi trả ngay cho đơn dưới 2 triệu nếu khách hàng cung cấp đầy đủ bằng chứng (video, ảnh chụp lỗi).
+- Ràng buộc thời gian cho bộ phận kỹ thuật: Cam kết phản hồi trong vòng 24h đối với các đơn hàng giá trị cao.
+- Triển khai hệ thống Ticket trực tuyến giúp khách hàng tự tra cứu tiến độ khiếu nại.
+- Tầm quan trọng của thái độ phục vụ và kỹ năng tâm lý khi giao tiếp với khách hàng đang bức xúc.
+
+### 3. Kết luận và quyết định
+- Đồng ý bổ tương 2 nhân sự kỹ thuật chuyên trách xử lý hàng lỗi.
+- Phê duyệt triển khai tính năng theo dõi Ticket trên website/ứng dụng.
+- Yêu cầu ban hành bộ tiêu chí đổi trả nhanh cho nhân viên CSKH áp dụng từ tuần tới.
+- Tổ chức workshop đào tạo kỹ năng mềm cho toàn bộ đội ngũ front-line.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo bộ tiêu chí đổi trả nhanh cho đơn < 2 triệu | Chú Nam | 14/01/2026 |
+| Xây dựng và kiểm thử hệ thống Ticket trực tuyến | Bộ phận IT | 20/01/2026 |
+| Tuyển dụng/Điều động 2 kỹ thuật viên chuyên trách | Phòng Nhân sự | 18/01/2026 |
+| Tổ chức Workshop kỹ năng xử lý khủng hoảng tâm lý | Trưởng bộ phận CSKH | 22/01/2026 |
+| Cập nhật quy trình phản hồi 24h vào SLA nội bộ | Quản lý vận hành | 15/01/2026 |

@@ -1,0 +1,79 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Marketing
+- Giải quyết các vướng mắc về thương hiệu, chiến dịch quảng cáo
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Marketing hiện nay
+- Khó khăn trong việc xử lý thương hiệu
+- Đề xuất cải thiện quy trình phân tích thị trường
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Marketing
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý mạng xã hội | Bộ phận Kỹ thuật | 17/04/2026 |
+| Xử lý doanh số | Phòng Marketing | 13/09/2026 |
+| Xử lý mạng xã hội | Bộ phận Kỹ thuật | 23/05/2026 |
+
+[10:07] Mọi người cứ thoải mái đóng góp ý kiến về thương hiệu đi.
+[11:16] Bên khách hàng họ cứ hối thúc vụ phân tích thị trường suốt.
+[12:27] Tôi đề xuất chốt hạn chót cho thương hiệu là cuối tháng này được không?
+[12:30] Để tôi check lại mấy cái số liệu của doanh số rồi báo lại cả nhà sau.
+[12:33] Tuần tới mình tập trung dứt điểm cái thương hiệu đi cho xong.
+[11:24] Tôi lo là doanh số sẽ tốn nhiều chi phí hơn dự kiến.
+[10:13] Vâng Bên khách hàng họ cứ hối thúc vụ khách hàng mục tiêu suốt.
+[12:42] À Cảm ơn mọi người, buổi họp hôm nay về Marketing rất hiệu quả.
+[11:30] Tôi lo là chiến dịch quảng cáo sẽ tốn nhiều chi phí hơn dự kiến.
+[11:32] Tôi đề xuất chốt hạn chót cho chiến dịch quảng cáo là cuối tháng này được không?
+[10:17] Không sao, mình có thể tối ưu lại phần doanh số mà.
+[11:36] Thì đấy Để tôi check lại mấy cái số liệu của thương hiệu rồi báo lại cả nhà sau.
+[10:19] Đúng rồi, tôi cũng nghĩ thế, cái doanh số nên được ưu tiên.
+[11:40] Mong là lần này thương hiệu sẽ ổn thỏa hơn mấy lần trước.
+[11:42] Hiện tại cái doanh số đang bị chậm tiến độ một chút vì thiếu người.
+[13:06] Nói chung là Cảm ơn mọi người, buổi họp hôm nay về Marketing rất hiệu quả.
+[13:09] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về thương hiệu.
+[11:48] Ờm Mong là lần này mạng xã hội sẽ ổn thỏa hơn mấy lần trước.
+[10:25] Tôi đề xuất chốt hạn chót cho chiến dịch quảng cáo là cuối tháng này được không?
+[13:18] Cảm ơn mọi người, buổi họp hôm nay về Marketing rất hiệu quả.
+[13:21] Tuần tới mình tập trung dứt điểm cái phân tích thị trường đi cho xong.
+[10:28] Chào mọi người, chúng ta tiếp tục bàn về chiến dịch quảng cáo nhé.
+[11:58] Tuần tới mình tập trung dứt điểm cái thương hiệu đi cho xong.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Marketing
+- Giải quyết các vướng mắc về thương hiệu, chiến dịch quảng cáo
+- Đưa ra kế hoạch triển khai cho giai đoạn tới
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Marketing hiện nay
+- Khó khăn trong việc xử lý thương hiệu
+- Đề xuất cải thiện quy trình phân tích thị trường
+- Đánh giá tác động của các yếu tố ngoại cảnh
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Marketing
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+- Phân công trách nhiệm cụ thể cho các đơn vị liên quan
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý mạng xã hội | Bộ phận Kỹ thuật | 17/04/2026 |
+| Xử lý doanh số | Phòng Marketing | 13/09/2026 |
+| Xử lý mạng xã hội | Bộ phận Kỹ thuật | 23/05/2026 |
+| Xử lý thương hiệu | Anh Nam | 26/02/2026 |

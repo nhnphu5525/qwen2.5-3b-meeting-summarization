@@ -1,0 +1,70 @@
+<|input|>
+# Đảm bảo an toàn lao động tại công trường dự án River Side
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Rà soát tình hình thực hiện an toàn lao động tại công trường.
+- Xử lý các vi phạm về đồ bảo hộ và rủi ro kỹ thuật hạ tầng.
+- Tăng cường ý thức chấp hành quy định an toàn của công nhân và nhà thầu phụ.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng công nhân thầu phụ không tuân thủ đeo mũ và dây an toàn khi làm việc trên cao.
+- Kiểm soát nghiêm ngặt đồ bảo hộ (PPE) ngay từ cổng ra vào và tuần tra đột xuất.
+- Chế tài xử phạt: Phạt tiền 2 triệu đồng/vi phạm và trục xuất vĩnh viễn nếu tái phạm lần 2.
+- Hạ tầng an toàn: Lưới bao che tầng 15 bị rách, giàn giáo có nguy cơ lún do mưa kéo dài.
+
+### 3. Kết luận và quyết định
+- Phê duyệt mức phạt và yêu cầu thông báo rộng rãi đến các đơn vị thầu phụ.
+- Thay mới lưới bao che ngay vào sáng mai.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thông báo quy định xử phạt mới đến các thầu phụ | Chỉ huy trưởng | 12/01/2026 |
+| Thay mới hệ thống lưới bao che mặt ngoài tầng 15 | Giám sát hiện trường | 11/01/2026 |
+| Gia cố chân giàn giáo tại các khu vực đất mềm | Tổ thợ cơ khí | 12/01/2026 |
+[14:19] Ờ... còn cái vụ an toàn điện thì sao? Dây nhợ lằng nhằng quá, anh đi kiểm tra thấy nhiều chỗ hở cả lõi đồng ra kìa.
+[14:21] Dạ, cái đó do xe rùa cán qua sếp ạ. Em sẽ cho anh em kỹ thuật điện đi bọc lại và treo dây lên cao hết.
+[14:22] Tuyệt đối không để dây điện nằm dưới đất, nhất là chỗ có nước đọng nhé.
+[14:24] Vâng ạ, em ghi nhận. Tiện đây em cũng đề xuất mình tổ chức diễn tập phòng cháy chữa cháy cho công nhân luôn.
+[14:25] Đồng ý, phối hợp với bên PCCC địa phương làm một buổi diễn tập thật nghiêm túc vào cuối tháng này.
+[14:27] Kinh phí diễn tập thì chú cứ làm đề xuất, anh duyệt ngay.
+[14:28] Dạ, cảm ơn sếp đã quan tâm đến an toàn của anh em.
+[14:30] An toàn là trên hết, không có gì quan trọng bằng tính mạng con người cả.
+[14:31] Nhớ ghi chép nhật ký an toàn đầy đủ mỗi ngày nhé.
+[14:33] Dạ vâng, tụi em luôn tuân thủ ạ.
+[14:34] Thôi mọi người ra hiện trường kiểm soát đi.
+[14:36] Rõ ạ!
+
+<|output|>
+# Đảm bảo an toàn lao động tại công trường dự án River Side
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Rà soát tình hình thực hiện an toàn lao động tại công trường.
+- Xử lý các vi phạm về đồ bảo hộ và rủi ro kỹ thuật hạ tầng.
+- Tăng cường ý thức chấp hành quy định an toàn của công nhân và nhà thầu phụ.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng công nhân thầu phụ không tuân thủ đeo mũ và dây an toàn khi làm việc trên cao.
+- Kiểm soát nghiêm ngặt đồ bảo hộ (PPE) ngay từ cổng ra vào và tuần tra đột xuất.
+- Chế tài xử phạt: Phạt tiền 2 triệu đồng/vi phạm và trục xuất vĩnh viễn nếu tái phạm lần 2.
+- Hạ tầng an toàn: Lưới bao che tầng 15 bị rách, giàn giáo có nguy cơ lún do mưa kéo dài.
+- An toàn điện: Dây điện bị hở, nằm dưới đất gây nguy hiểm, cần bọc lại và treo cao.
+- Đề xuất diễn tập phòng cháy chữa cháy (PCCC) thực tế cho toàn bộ lực lượng công nhân.
+
+### 3. Kết luận và quyết định
+- Phê duyệt mức phạt và yêu cầu thông báo rộng rãi đến các đơn vị thầu phụ.
+- Thay mới lưới bao che ngay vào sáng mai.
+- Giao bộ phận kỹ thuật điện xử lý dứt điểm các điểm hở điện và đi dây an toàn trong ngày.
+- Đồng ý kế hoạch tổ chức diễn tập PCCC vào cuối tháng.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thông báo quy định xử phạt mới đến các thầu phụ | Chỉ huy trưởng | 12/01/2026 |
+| Thay mới hệ thống lưới bao che mặt ngoài tầng 15 | Giám sát hiện trường | 11/01/2026 |
+| Kiểm tra, bọc lại và treo cao toàn bộ hệ thống dây điện | Bộ phận Kỹ thuật điện | 11/01/2026 |
+| Gia cố chân giàn giáo tại các khu vực đất mềm | Tổ thợ cơ khí | 12/01/2026 |
+| Liên hệ bên PCCC địa phương lên lịch diễn tập | Chú Nam | 15/01/2026 |
+| Cập nhật nhật ký an toàn lao động mỗi ca | Cán bộ An toàn | Hàng ngày |

@@ -1,0 +1,65 @@
+<|input|>
+# Kế hoạch tổ chức đại nhạc hội cuối năm Vũ khúc giao thừa 2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất concept thiết kế, kịch bản chương trình và phương án kỹ thuật cho đại nhạc hội cuối năm.
+
+### 2. Các vấn đề đã thảo luận
+- Concept sân khấu 360 độ đặt tại trung tâm sân vận động để tăng tương tác.
+- Sử dụng hệ thống loa Line Array (Singapore) và 500 drone trình diễn ánh sáng.
+- Ngân sách dự kiến cao, cần đẩy mạnh tìm kiếm nhà tài trợ (Hãng bia X, Điện thoại Y).
+
+### 3. Kết luận và quyết định
+- Phê duyệt thiết kế sân khấu 360 độ và phương án drone light show.
+- Triển khai thủ tục xin phép biểu diễn với Sở Văn hóa chậm nhất vào tuần tới (trước 30/05/2024).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nộp hồ sơ xin phép biểu diễn lên Sở Văn hóa | Chị Lan (Phòng Hành chính) | 28/05/2024 |
+| Ký hợp đồng tài trợ với nhãn hàng bia X và Y | Chị Lan (Phòng Tài chính) | 05/06/2024 |
+| Chốt danh sách nghệ sĩ và ký hợp đồng | Anh Hùng (Phòng Sự kiện) | 15/06/2024 |
+[14:18] Dạ vâng sếp. À sếp ơi, về dàn nghệ sĩ, em định mời 2 ca sĩ quốc tế từ Hàn Quốc với Mỹ, kết hợp với mấy gương mặt đang hot trong nước như Sơn Tùng hay Đen Vâu á anh.
+[14:20] Mời nghệ sĩ ngoại thì phải làm thủ tục xin phép biểu diễn sớm nha Lan. Cái vụ này dạo này gắt lắm, không khéo là bị tuýt còi lúc sát giờ G là coi như xong phim luôn đó.
+[14:22] Dạ em biết rồi ạ, em đang chuẩn bị hồ sơ gửi Sở Văn hóa đây. Còn cái vụ an ninh cho 30.000 khán giả thì sao Hùng? Anh lo nhất là tình trạng chen lấn xô đẩy lúc kết thúc chương trình á.
+[14:24] Dạ em đã lên phương án chia 5 cửa ra vào, mỗi cửa đều có lực lượng bảo vệ và máy quét QR code để soát vé. Ngoài ra em cũng thuê thêm 200 vệ sĩ chuyên nghiệp để túc trực quanh khu vực sân khấu và khán đài VIP. Đội ngũ y tế cũng sẽ có 3 trạm sơ cứu lưu động trực chiến 24/24.
+[14:26] Tốt, an toàn là trên hết. Mà này, vé mình bán khi nào? Anh thấy fan họ bắt đầu hỏi trên page nhiều lắm rồi đó.
+[14:28] Dạ dự kiến là đầu tháng sau mình sẽ mở bán đợt 1 (Early Bird) với giá ưu đãi giảm 20%. Sau đó mình mới mở bán chính thức. Năm nay mình dùng hệ thống vé điện tử hoàn toàn, khách chỉ cần quét mã QR trên điện thoại là vô cổng được luôn, không cần in vé giấy cho đỡ tốn kém và bảo vệ môi trường.
+[14:30] Ok, duyệt phương án vé điện tử. Mà Lan nè, em nhớ kiểm soát cái vụ vé chợ đen nha. Đừng để tụi nó ôm vé rồi đẩy giá lên cao, tội nghiệp fan tụi nhỏ không có tiền mua.
+[14:32] Dạ em sẽ yêu cầu bên đơn vị bán vé tích hợp tính năng định danh số điện thoại, mỗi tài khoản chỉ được mua tối đa 2 vé thôi anh ạ. Làm vậy sẽ hạn chế được phần nào dân phe vé.
+
+<|output|>
+# Kế hoạch tổ chức đại nhạc hội cuối năm Vũ khúc giao thừa 2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất concept thiết kế, kịch bản chương trình và phương án kỹ thuật cho đại nhạc hội cuối năm.
+- Rà soát ngân sách, công tác vận động tài trợ và kế hoạch mời nghệ sĩ.
+
+### 2. Các vấn đề đã thảo luận
+- Concept sân khấu 360 độ đặt tại trung tâm sân vận động để tăng tương tác.
+- Sử dụng hệ thống loa Line Array (Singapore) và 500 drone trình diễn ánh sáng.
+- Ngân sách dự kiến cao, cần đẩy mạnh tìm kiếm nhà tài trợ (Hãng bia X, Điện thoại Y).
+- Kế hoạch mời nghệ sĩ hạng A trong nước và 02 nghệ sĩ quốc tế (Hàn Quốc, Mỹ).
+- Phương án an ninh: Chia 5 cửa soát vé QR code, 200 vệ sĩ, 3 trạm y tế lưu động.
+- Hệ thống bán vé điện tử định danh số điện thoại để hạn chế vé chợ đen.
+
+### 3. Kết luận và quyết định
+- Phê duyệt thiết kế sân khấu 360 độ và phương án drone light show.
+- Triển khai thủ tục xin phép biểu diễn với Sở Văn hóa chậm nhất vào tuần tới (trước 30/05/2024).
+- Mở bán vé đợt 1 (Early Bird) giảm giá 20% vào đầu tháng sau.
+- Chốt danh sách nghệ sĩ và ký hợp đồng nguyên tắc trước ngày 15/06/2024.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nộp hồ sơ xin phép biểu diễn lên Sở Văn hóa | Chị Lan (Phòng Hành chính) | 28/05/2024 |
+| Ký hợp đồng tài trợ với nhãn hàng bia X và Y | Chị Lan (Phòng Tài chính) | 05/06/2024 |
+| Chốt danh sách nghệ sĩ và ký hợp đồng | Anh Hùng (Phòng Sự kiện) | 15/06/2024 |
+| Thiết kế hệ thống bán vé điện tử và soát vé | Team IT | 01/06/2024 |
+| Xây dựng kịch bản chi tiết và làm việc với đạo diễn | Anh Hùng (Phòng Sự kiện) | 10/06/2024 |

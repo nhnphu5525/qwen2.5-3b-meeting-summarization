@@ -1,0 +1,94 @@
+<|input|>
+# Triển khai thi công phần thân dự án Diamond Plaza và quản lý chất lượng xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch thi công phần thân tòa nhà sau khi hoàn thành móng và hầm.
+- Triển khai các biện pháp ứng phó với mùa mưa và đảm bảo an toàn lao động (HSE).
+- Thống nhất phương án chốt giá vật tư xây dựng để phòng ngừa biến động thị trường.
+- Giải quyết bài toán thiếu hụt nhân công tay nghề cao và quản lý thầu phụ.
+
+### 2. Các vấn đề đã thảo luận
+- Kế hoạch đổ bê tông và che chắn công trường trong điều kiện thời tiết mưa lớn.
+- Chốt giá thép và xi măng với các nhà cung cấp lớn thông qua thanh toán trước.
+- Điều chỉnh chính sách lương thưởng và cải thiện điều kiện lán trại cho công nhân.
+- Khắc phục lỗi thẩm mỹ bề mặt bê tông tầng hầm và siết chặt quy trình giám sát đầm dùi.
+- Tăng cường kiểm tra thắt dây an toàn trên cao và bảo trì cần trục tháp, vận thăng.
+- Sử dụng mô hình BIM để giảm thiểu 15% sai sót lắp đặt hệ thống cơ điện.
+- Xử lý vấn đề vệ sinh môi trường, tiếng ồn và quan hệ với cư dân lân cận.
+- Đảm bảo tiến độ giải ngân nhanh (7 ngày) để duy trì ổn định dòng tiền cho nhà thầu phụ.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án chốt giá vật tư phần thân với Hòa Phát và Insee.
+- Tăng 10% phụ cấp thợ giỏi và áp dụng chính sách thưởng tiến độ cho các tổ đội.
+- Giao đội HSE thực hiện kiểm tra đột xuất và xử phạt nghiêm các vi phạm an toàn.
+- Triển khai ứng dụng màng chống thấm cao cấp cho toàn bộ dự án.
+- Tổ chức buổi gặp mặt và hỗ trợ cộng đồng cư dân xung quanh dự án.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký hợp đồng chốt giá thép và xi măng | Phòng Vật tư & Kế toán | 15/04/2024 |
+| Kiểm tra toàn bộ hệ thống điện tạm | Đội HSE | 10/04/2024 |
+| Hoàn thiện mô hình BIM tầng 11-20 | Đội kỹ thuật BIM | 30/05/2024 |
+| Tổ chức họp dân cư xung quanh dự án | Ban đối ngoại | 20/04/2024 |
+| Mua sắm bạt che và máy bơm dự phòng | Ban chỉ huy công trường | 12/04/2024 |
+
+[09:21] Dạ, bên em đã ký hợp đồng bảo trì định kỳ với nhà cung cấp thiết bị và có đội kỹ thuật túc trực 24/7 tại công trường để xử lý sự cố ạ.
+[09:24] Tốt lắm. Hãy đảm bảo nhật ký thiết bị được ghi chép đầy đủ mỗi ngày.
+[09:27] Còn vấn đề phòng cháy chữa cháy (PCCC) tại kho bãi và lán trại công nhân cũng không được lơ là. Cần trang bị đầy đủ bình chữa cháy và tổ chức diễn tập phương án thoát nạn định kỳ.
+[09:30] Tôi sẽ giao cho đội HSE kiểm tra lại toàn bộ hệ thống điện tạm thời tại công trường để tránh nguy cơ chập cháy.
+[09:33] Đồng ý. Chào mọi người.
+[09:36] Hẹn gặp lại trong buổi kiểm tra thực tế tại tầng hầm vào chiều nay.
+[09:39] Chúc mọi người sức khỏe.
+(Tiếp tục thêm các thảo luận về việc sử dụng bê tông tính năng cao, phụ gia chống thấm...)
+[09:42] Về việc chống thấm cho các khu vực ban công và nhà vệ sinh, tôi đề nghị sử dụng các loại màng chống thấm thế hệ mới có độ đàn hồi cao thay vì chỉ quét sika như truyền thống.
+[09:45] Chi phí sẽ tăng một chút nhưng sẽ giải quyết triệt để tình trạng thấm dột sau này, giúp giảm chi phí bảo hành và nâng cao uy tín cho công ty.
+[09:48] Tôi sẽ yêu cầu bộ phận vật tư lấy mẫu thử nghiệm và báo giá của 2 đơn vị cung cấp màng chống thấm hàng đầu hiện nay.
+[09:51] Rất tốt. Chất lượng từ những chi tiết nhỏ nhất sẽ tạo nên giá trị bền vững cho công trình.
+[09:54] OK. Kết thúc họp thực sự.
+
+<|output|>
+# Triển khai thi công phần thân dự án Diamond Plaza và quản lý chất lượng xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch thi công phần thân tòa nhà sau khi hoàn thành móng và hầm.
+- Triển khai các biện pháp ứng phó với mùa mưa và đảm bảo an toàn lao động (HSE).
+- Thống nhất phương án chốt giá vật tư xây dựng để phòng ngừa biến động thị trường.
+- Giải quyết bài toán thiếu hụt nhân công tay nghề cao và quản lý thầu phụ.
+- Ứng dụng công nghệ BIM vào quản lý xung đột MEP và nâng cao chất lượng hoàn thiện.
+
+### 2. Các vấn đề đã thảo luận
+- Kế hoạch đổ bê tông và che chắn công trường trong điều kiện thời tiết mưa lớn.
+- Chốt giá thép và xi măng với các nhà cung cấp lớn thông qua thanh toán trước.
+- Điều chỉnh chính sách lương thưởng và cải thiện điều kiện lán trại cho công nhân.
+- Khắc phục lỗi thẩm mỹ bề mặt bê tông tầng hầm và siết chặt quy trình giám sát đầm dùi.
+- Tăng cường kiểm tra thắt dây an toàn trên cao và bảo trì cần trục tháp, vận thăng.
+- Sử dụng mô hình BIM để giảm thiểu 15% sai sót lắp đặt hệ thống cơ điện.
+- Xử lý vấn đề vệ sinh môi trường, tiếng ồn và quan hệ với cư dân lân cận.
+- Đảm bảo tiến độ giải ngân nhanh (7 ngày) để duy trì ổn định dòng tiền cho nhà thầu phụ.
+- Ứng dụng màng chống thấm thế hệ mới cho các khu vực xung yếu.
+- Công tác phòng cháy chữa cháy và kiểm tra hệ thống điện tạm thời tại công trường.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án chốt giá vật tư phần thân với Hòa Phát và Insee.
+- Tăng 10% phụ cấp thợ giỏi và áp dụng chính sách thưởng tiến độ cho các tổ đội.
+- Giao đội HSE thực hiện kiểm tra đột xuất và xử phạt nghiêm các vi phạm an toàn.
+- Triển khai ứng dụng màng chống thấm cao cấp cho toàn bộ dự án.
+- Tổ chức buổi gặp mặt và hỗ trợ cộng đồng cư dân xung quanh dự án.
+- Yêu cầu đội kỹ thuật hoàn thiện mô hình BIM cho toàn bộ tòa nhà trước quý III.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký hợp đồng chốt giá thép và xi măng | Phòng Vật tư & Kế toán | 15/04/2024 |
+| Kiểm tra toàn bộ hệ thống điện tạm | Đội HSE | 10/04/2024 |
+| Hoàn thiện mô hình BIM tầng 11-20 | Đội kỹ thuật BIM | 30/05/2024 |
+| Tổ chức họp dân cư xung quanh dự án | Ban đối ngoại | 20/04/2024 |
+| Mua sắm bạt che và máy bơm dự phòng | Ban chỉ huy công trường | 12/04/2024 |
+| Báo cáo thử nghiệm màng chống thấm mới | Phòng Quản lý chất lượng | 25/04/2024 |

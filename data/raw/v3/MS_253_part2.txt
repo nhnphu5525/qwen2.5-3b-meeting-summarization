@@ -1,0 +1,66 @@
+<|input|>
+# Cập nhật Chương trình Đào tạo ngành Khoa học dữ liệu 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và cập nhật giáo trình ngành Khoa học dữ liệu nhằm tăng tính thực hành.
+- Giải quyết vấn đề khoảng cách giữa lý thuyết học thuật và yêu cầu thực tế của doanh nghiệp.
+
+### 2. Các vấn đề đã thảo luận
+- Điểm yếu của sinh viên: Giỏi lý thuyết nhưng thiếu kỹ năng xử lý dữ liệu thực tế và triển khai model (MLOps).
+- Hợp tác doanh nghiệp: Doanh nghiệp sẵn sàng cung cấp dữ liệu thực tế để sinh viên thực hành.
+- Hạ tầng kỹ thuật: Phòng lab hiện tại chưa đáp ứng được yêu cầu chạy mô hình phức tạp; cần phương án Cloud hoặc nâng cấp server.
+
+### 3. Kết luận và quyết định
+- Xây dựng môn học tự chọn mới về MLOps và đưa các bài toán thực tế vào giảng dạy từ năm thứ 3.
+- Tận dụng các nền tảng Cloud (AWS, Google Cloud) để giải quyết vấn đề hạ tầng trước mắt.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Biên soạn đề cương môn học MLOps | Thầy Hiển & Thầy Dũng | 15/04/2025 |
+| Lập đề xuất kỹ thuật về tài nguyên Cloud | Thầy Dũng (Bộ môn Máy học) | 05/04/2025 |
+| Kết nối doanh nghiệp và chốt danh sách chuyên gia | Cô Hương (Đối ngoại) | 10/04/2025 |
+
+[14:25] Vâng cô Minh, tôi sẽ chuẩn bị bản đề xuất kỹ thuật trong tuần tới. Ngoài ra, tôi đề xuất chúng ta nên mời các chuyên gia từ doanh nghiệp về dạy một số buổi chuyên đề. Sinh viên sẽ rất hào hứng khi nghe những chia sẻ về "nỗi đau" thực tế khi làm nghề.
+[14:30] Chào các thầy cô, tôi là Mai bên bộ phận Đảm bảo chất lượng. Tôi muốn nhắc lại là dù điều chỉnh theo hướng thực hành, chúng ta vẫn phải đảm bảo số lượng tín chỉ và các chuẩn đầu ra theo quy định của Bộ Giáo dục. Việc thêm các học phần mới như MLOps cần phải được cân nhắc kỹ để không làm quá tải chương trình học của sinh viên. Có thể chúng ta nên tích hợp nó vào các môn tự chọn hoặc các khóa học ngắn hạn có cấp chứng chỉ.
+[14:35] Ý kiến của cô Mai rất quan trọng để đảm bảo tính pháp lý của chương trình. Chào cô, tôi nghĩ phương án tích hợp vào môn tự chọn là hợp lý nhất. Thầy Hiển và thầy Dũng có thể phối hợp để biên soạn đề cương cho môn "Ứng dụng MLOps trong doanh nghiệp" không? Chúng ta cần có đề cương chi tiết để kịp trình Hội đồng Khoa học vào tháng sau.
+[14:40] Chúng tôi sẽ cố gắng hoàn thành đúng hạn. Tuy nhiên, để môn học này hiệu quả, chúng ta cần có đội ngũ trợ giảng (TA) chất lượng để hỗ trợ sinh viên trong các giờ thực hành lab. Tôi đề nghị tuyển chọn các bạn sinh viên năm cuối xuất sắc hoặc học viên cao học làm TA cho môn này.
+[14:45] Đồng ý với thầy Hiển. Cô Hương giúp liên hệ với phía doanh nghiệp để chốt danh sách các chuyên gia có thể tham gia giảng dạy chuyên đề nhé. Cô Mai rà soát lại khung chương trình tổng thể để xem có thể cắt giảm hoặc gộp các phần lý thuyết trùng lặp nào không để nhường chỗ cho thực hành.
+[14:50] Cảm ơn các thầy cô. Buổi họp hôm nay đã mở ra nhiều hướng đi mới cho ngành Khoa học dữ liệu của chúng ta. Hy vọng với sự nỗ lực của cả team, chất lượng đào tạo sẽ được nâng lên một tầm cao mới. Chúc mọi người sức khỏe và làm việc tốt.
+
+<|output|>
+# Cập nhật Chương trình Đào tạo ngành Khoa học dữ liệu 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và cập nhật giáo trình ngành Khoa học dữ liệu nhằm tăng tính thực hành.
+- Giải quyết vấn đề khoảng cách giữa lý thuyết học thuật và yêu cầu thực tế của doanh nghiệp.
+- Thống nhất phương án nâng cấp hạ tầng kỹ thuật và đội ngũ hỗ trợ giảng dạy.
+
+### 2. Các vấn đề đã thảo luận
+- Điểm yếu của sinh viên: Giỏi lý thuyết nhưng thiếu kỹ năng xử lý dữ liệu thực tế và triển khai model (MLOps).
+- Hợp tác doanh nghiệp: Doanh nghiệp sẵn sàng cung cấp dữ liệu thực tế để sinh viên thực hành.
+- Hạ tầng kỹ thuật: Phòng lab hiện tại chưa đáp ứng được yêu cầu chạy mô hình phức tạp; cần phương án Cloud hoặc nâng cấp server.
+- Khung chương trình: Cần cân đối việc thêm học phần mới với quy định về số tín chỉ của Bộ Giáo dục.
+- Nhân sự: Đề xuất mời chuyên gia doanh nghiệp dạy chuyên đề và tuyển dụng trợ giảng (TA) cho các giờ thực hành.
+
+### 3. Kết luận và quyết định
+- Xây dựng môn học tự chọn mới về MLOps và đưa các bài toán thực tế vào giảng dạy từ năm thứ 3.
+- Tận dụng các nền tảng Cloud (AWS, Google Cloud) để giải quyết vấn đề hạ tầng trước mắt.
+- Mời chuyên gia từ các tập đoàn công nghệ tham gia giảng dạy các buổi chuyên đề thực tế.
+- Rà soát, tinh gọn các phần lý thuyết trùng lặp để tăng thời lượng thực hành lab.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Biên soạn đề cương môn học MLOps | Thầy Hiển & Thầy Dũng | 15/04/2025 |
+| Lập đề xuất kỹ thuật về tài nguyên Cloud | Thầy Dũng (Bộ môn Máy học) | 05/04/2025 |
+| Kết nối doanh nghiệp và chốt danh sách chuyên gia | Cô Hương (Đối ngoại) | 10/04/2025 |
+| Rà soát khung chương trình và chuẩn đầu ra | Cô Mai (Đảm bảo chất lượng) | 20/04/2025 |
+| Làm việc với Ban giám hiệu về kinh phí hạ tầng | Cô Minh (Trưởng khoa) | 12/04/2025 |
+| Tuyển chọn và đào tạo đội ngũ TA | Thầy Hiển (Bộ môn DS) | 30/04/2025 |

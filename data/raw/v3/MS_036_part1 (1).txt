@@ -1,0 +1,57 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00] Chào anh em Team IT và Security. Hôm nay chúng ta có một cuộc họp khẩn vì hệ thống giám sát SIEM vừa cảnh báo một loạt các truy cập bất thường vào vùng server chứa dữ liệu nhân sự và tài chính vào lúc 2 giờ sáng nay.
+[10:02] Vâng anh, em đã kiểm tra log ban đầu. Có vẻ như có một tài khoản Admin của một bạn bên phòng vận hành đã bị leak. Kẻ tấn công sử dụng IP từ nước ngoài nhưng lại bypass được lớp MFA.
+[10:04] Sao lại bypass được MFA? Mình dùng Microsoft Authenticator cơ mà? Chẳng lẽ là tấn công dạng MFA Fatigue (spam yêu cầu xác thực)?
+[10:06] Chính xác là nó đấy anh. Bạn nhân viên kia khai là lúc đó đang ngủ, thấy điện thoại báo liên tục nên cứ bấm 'Approve' cho nó đỡ phiền, ai ngờ là dâng chìa khóa cho trộm.
+[10:08] Trời đất ơi! Đào tạo nhận thức bảo mật (Security Awareness) bao nhiêu lần rồi mà vẫn cứ thế. Vấn đề bây giờ là kẻ tấn công đã đi sâu đến đâu trong hệ thống rồi?
+[10:10] Hiện tại em đã cô lập vùng server đó và reset toàn bộ credentials của các tài khoản có đặc quyền (Privileged Accounts). Tuy nhiên, em phát hiện có dấu hiệu của Web Shell trên con server web nội bộ. Có vẻ chúng đã tận dụng lỗ hổng Log4j chưa được vá hết ở các ứng dụng legacy.
+[10:12] Log4j? Cái đó mình đã có chiến dịch vá lỗi từ năm ngoái rồi cơ mà? Sao vẫn còn sót lại?
+[10:14] Dạ, do mấy cái ứng dụng cũ của bên đối tác viết, họ dùng thư viện đóng gói sẵn nên mình không can thiệp sâu vào code được. Đợt đó mình chỉ chặn ở mức WAF (Web Application Firewall) thôi, nhưng có vẻ kẻ tấn công đã tìm ra cách lách qua các rule hiện tại.
+[10:16] Anh thấy tình hình này nghiêm trọng đấy. Nếu chúng đã cài được Web Shell thì có khả năng đã thực hiện 'Lateral Movement' (di chuyển ngang) sang các vùng khác. Mọi người phải rà soát lại toàn bộ hệ thống file hệ thống, tìm các tiến trình lạ đang chạy.
+[10:18] Em đang dùng tool EDR để quét toàn bộ endpoint trong mạng. Bước đầu thấy có 3 máy tính của nhân viên phòng kế toán có dấu hiệu cài mã độc gián điệp (Spyware). Khả năng cao là chúng định lấy cắp thông tin chuyển khoản ngân hàng.
+[10:20] Nguy hiểm quá. Ngắt kết nối internet của 3 máy đó ngay lập tức! Bên cạnh đó, anh muốn Team Security triển khai ngay chính sách 'Zero Trust'. Không có chuyện chỉ cần vào được mạng nội bộ là có quyền truy cập mọi thứ. Phải phân tách mạng (Network Segmentation) triệt để hơn nữa.
+
+<|output|>
+# Xử lý sự cố truy cập bất thường và thắt chặt bảo mật hệ thống nội bộ
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân và mức độ ảnh hưởng của cuộc tấn công xâm nhập vào vùng server dữ liệu lúc 2 giờ sáng.
+- Đưa ra các biện pháp khắc phục khẩn cấp và ngăn chặn kẻ tấn công di chuyển ngang trong mạng.
+- Thiết lập kế hoạch bảo mật dài hạn theo mô hình Zero Trust để tránh các lỗi tương tự.
+
+### 2. Các vấn đề đã thảo luận
+- Tài khoản Admin bị rò rỉ và kẻ tấn công bypass MFA thông qua kỹ thuật MFA Fatigue (người dùng bấm duyệt do bị spam thông báo).
+- Phát hiện Web Shell trên server web do lỗ hổng Log4j chưa được vá triệt để trong các ứng dụng cũ của đối tác.
+- Dấu hiệu di chuyển ngang (Lateral Movement) và mã độc gián điệp trên máy tính phòng kế toán.
+- Sự cần thiết của việc phân tách mạng (Network Segmentation) và đầu tư giải pháp IAM mạnh hơn.
+
+### 3. Kết luận và quyết định
+- Cô lập vùng server bị ảnh hưởng, ngắt kết nối internet các máy tính nghi nhiễm mã độc.
+- Reset toàn bộ thông tin đăng nhập và yêu cầu xác thực lại cho các tài khoản đặc quyền.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Reset credentials và thiết lập lại MFA cho Team Admin | Team Security | 18/11/2024 |
+| Rà soát và gỡ bỏ Web Shell, vá lỗi Log4j | Team IT | 20/11/2024 |

@@ -1,0 +1,64 @@
+<|input|>
+# Báo cáo cuộc họp về Xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Xây dựng hiện tại
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý vật liệu
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho an toàn lao động
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ an toàn lao động | Phòng Kế hoạch | 13/05/2026 |
+
+[09:42] À Về dài hạn thì ngân sách dự án sẽ là trọng tâm của năm nay.
+[09:44] Hình như Về phần ngân sách cho an toàn lao động, sếp đã duyệt chưa nhỉ?
+[09:46] Đừng quên vụ vật liệu cũng quan trọng không kém nhé.
+[09:48] Thế thì mình chốt phương án cho an toàn lao động luôn đi, đừng kéo dài nữa.
+[09:50] Vâng Tôi thấy nhà thầu hiện tại là cơ hội tốt để mình bứt phá.
+[09:52] Nói chung là Tôi lo nhất là cái ngân sách dự án, tiến độ đang bị khựng lại.
+[09:27] Hình như Bên đối tác họ cứ hỏi mãi về thiết kế cơ điện, mình phải trả lời sao đây?
+[09:28] Thôi được rồi, vậy thống nhất là triển khai tiến độ thi công theo hướng đó.
+[09:58] Ờm Về phần ngân sách cho nhà thầu, sếp đã duyệt chưa nhỉ?
+[09:30] Để tôi check lại lịch của bên thiết kế cơ điện xem họ rảnh khi nào.
+[09:31] À Tôi sẽ phụ trách kiểm tra lại ngân sách dự án rồi báo lại cả team vào chiều mai.
+[09:32] Tôi sẽ phụ trách kiểm tra lại thiết kế cơ điện rồi báo lại cả team vào chiều mai.
+[10:06] Vấn đề tiến độ thi công thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[10:08] À Cần phải làm rõ hơn về thiết kế cơ điện trong hợp đồng mới.
+[09:35] Dạ Vấn đề nhà thầu thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[10:12] Bên đối tác họ cứ hỏi mãi về ngân sách dự án, mình phải trả lời sao đây?
+[09:37] Ai sẽ chịu trách nhiệm chính cho mảng an toàn lao động nhỉ?
+[10:16] Cảm ơn mọi người, cuộc họp về Xây dựng tạm dừng tại đây.
+[09:39] Thì đấy Thôi được rồi, vậy thống nhất là triển khai thiết kế cơ điện theo hướng đó.
+[09:40] Đúng rồi, cái nhà thầu cần được ưu tiên xử lý trước thứ Sáu này.
+[10:22] Ờm Mọi người nghe rõ không? Về cái thiết kế cơ điện này tôi thấy có vẻ hơi vướng.
+
+<|output|>
+# Báo cáo cuộc họp về Xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Xây dựng hiện tại
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý vật liệu
+- Thiếu hụt nguồn lực cho nhà thầu
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho an toàn lao động
+- Phân bổ thêm 2 nhân sự cho mảng vật liệu
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ an toàn lao động | Phòng Kế hoạch | 13/05/2026 |
+| Liên hệ đối tác về thiết kế cơ điện | Team Technical | 03/08/2026 |

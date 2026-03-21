@@ -1,0 +1,68 @@
+<|input|>
+# Chiến lược bán hàng đa kênh (Omnichannel) và tối ưu hóa trải nghiệm khách hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng hệ sinh thái bán hàng đa kênh nhất quán (Online to Offline).
+- Giải quyết triệt để các rào cản về giá, tồn kho và quy trình đổi trả hàng giữa các kênh.
+- Ứng dụng công nghệ (OMS, CRM, Smart Mirror) để cá nhân hóa hành trình mua sắm.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng thiếu đồng bộ về giá cả và hóa đơn gây phiền hà cho khách hàng.
+- Nhu cầu triển khai hệ thống quản lý đơn hàng tập trung (OMS) để vận hành BOPIS (Mua online, lấy tại store).
+- Ý tưởng sử dụng "Gương thông minh" và các thiết bị IoT tại showroom để tăng tính tương tác.
+- Nhận diện và tư vấn khách hàng dựa trên dữ liệu CRM tích hợp.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án chiến lược Omnichannel làm trọng tâm phát triển trong năm tới.
+- Đồng ý đầu tư hệ thống OMS và CRM tích hợp đồng bộ.
+- Thí điểm các công nghệ mới tại các showroom lớn trước khi nhân rộng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát và lựa chọn giải pháp OMS/CRM | Phòng IT | 15/05/2026 |
+| Lên kế hoạch đào tạo nhân viên cửa hàng | Team Đào tạo | 15/06/2026 |
+| Tìm kiếm nhà cung cấp thiết bị Smart Mirror | Phòng Thu mua | 05/06/2026 |
+| Dự thảo quy trình soạn hàng online tại store | Phòng Kho vận | Chưa rõ |
+[09:22] Một vấn đề nữa là chiến dịch marketing. Đôi khi team Online chạy campaign riêng mà team Store không hề biết, dẫn đến việc khách ra cửa hàng hỏi khuyến mãi thì nhân viên ngơ ngác.
+[09:24] Từ nay, mọi kế hoạch campaign phải được duyệt qua một bộ phận điều phối chung để đảm bảo tính nhất quán trên mọi điểm chạm.
+[09:26] Về logistics, mình cần tối ưu hóa khâu giao hàng chặng cuối (Last-mile delivery). Có thể tận dụng chính các cửa hàng làm kho trung chuyển để giao hàng nhanh trong vòng 2h.
+[09:28] Nếu dùng cửa hàng làm kho thì diện tích trưng bày sẽ bị thu hẹp. Mình cần tính toán lại layout cửa hàng sao cho hợp lý.
+[09:30] Anh muốn team IT bắt đầu tìm kiếm đối tác cung cấp giải pháp OMS/CRM tích hợp ngay trong tháng này.
+[09:32] Song song đó, team Vận hành phải xây dựng bộ quy trình chuẩn cho việc đổi trả hàng đa kênh.
+
+<|output|>
+# Chiến lược bán hàng đa kênh (Omnichannel) và tối ưu hóa trải nghiệm khách hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng hệ sinh thái bán hàng đa kênh nhất quán (Online to Offline).
+- Giải quyết triệt để các rào cản về giá, tồn kho và quy trình đổi trả hàng giữa các kênh.
+- Ứng dụng công nghệ (OMS, CRM, Smart Mirror) để cá nhân hóa hành trình mua sắm.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng thiếu đồng bộ về giá cả và hóa đơn gây phiền hà cho khách hàng.
+- Nhu cầu triển khai hệ thống quản lý đơn hàng tập trung (OMS) để vận hành BOPIS (Mua online, lấy tại store).
+- Ý tưởng sử dụng "Gương thông minh" và các thiết bị IoT tại showroom để tăng tính tương tác.
+- Nhận diện và tư vấn khách hàng dựa trên dữ liệu CRM tích hợp.
+- Thách thức về logistics chặng cuối và việc tận dụng cửa hàng làm kho trung chuyển.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án chiến lược Omnichannel làm trọng tâm phát triển trong năm tới.
+- Đồng ý đầu tư hệ thống OMS và CRM tích hợp đồng bộ.
+- Thí điểm các công nghệ mới tại các showroom lớn trước khi nhân rộng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát và lựa chọn giải pháp OMS/CRM | Phòng IT | 15/05/2026 |
+| Xây dựng quy trình đổi trả hàng đa kênh | Phòng Vận hành | 30/04/2026 |
+| Lên kế hoạch đào tạo nhân viên cửa hàng | Team Đào tạo | 15/06/2026 |
+| Tìm kiếm nhà cung cấp thiết bị Smart Mirror | Phòng Thu mua | 05/06/2026 |
+| Dự thảo quy trình soạn hàng online tại store | Phòng Kho vận | Chưa rõ |
+| Khảo sát layout cửa hàng để làm kho trung chuyển | Team Vận hành | Chưa rõ |

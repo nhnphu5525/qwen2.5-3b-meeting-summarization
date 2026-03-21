@@ -1,0 +1,47 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00:00] Chào anh Bảy, chào chị Hồng với lại Tuấn nha. Sáng nay mình ngồi lại ở văn phòng HTX để bàn kỹ cái vụ xuất khẩu sầu riêng sang Trung Quốc đợt tới nè. Tình hình mã số vùng trồng của mình tới đâu rồi anh Bảy?
+[08:03:15] Ờ, chào chú Minh, chào cô Hồng. Cái vụ mã số vùng trồng thì HTX mình mới được phía Tổng cục Hải quan Trung Quốc họ phê duyệt thêm 20 héc-ta nữa rồi đó. Tổng cộng là mình có 50 héc-ta đạt chuẩn rồi. Nhưng mà tôi lo là lo cái khâu đóng gói kìa. Năm nay họ kiểm soát gắt cái vụ rệp sáp với lại dư lượng thuốc bảo vệ thực vật dữ lắm.
+[08:06:30] Dạ vầy nè anh Bảy, hôm qua em mới đi tập huấn bên Chi cục Kiểm dịch thực vật về. Họ nhấn mạnh là chỉ cần phát hiện một con rệp sáp sống trong lô hàng thôi là họ trả về nguyên cả container luôn, thậm chí là đình chỉ mã số vùng trồng của mình luôn đó. Nên khâu rửa trái với xịt áp lực cao là phải làm cực kỳ kỹ.
+[08:09:45] Tuấn nói đúng đó. Chị Hồng ơi, bên khâu thu mua của chị, chị dặn bà con nông dân mình sao? Chứ tôi thấy mấy vườn họ vẫn còn thói quen xịt thuốc kích chín cho nó nhanh để kịp chuyến hàng là chết cả lũ đó nha.
+[08:13:00] Anh Minh yên tâm, em đã đi từng vườn, bắt họ ký cam kết rồi. Năm nay mình thu mua giá cao hơn thị trường 5 giá cho những vườn đạt chuẩn VietGAP mà, nên họ cũng phấn khởi làm theo lắm. Chỉ có điều là cái vụ kích cỡ trái kìa, phía Trung Quốc họ chuộng loại từ 2 ký rưỡi tới 4 ký rưỡi, mà vườn ông Năm bên kia trái to quá trời, toàn 5-6 ký không hà. Cái đó mình xử lý sao anh?
+
+<|output|>
+# Kế hoạch Xuất khẩu Sầu riêng sang Thị trường Trung Quốc - Vụ mùa 2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát công tác chuẩn bị cho chiến dịch xuất khẩu sầu riêng chính ngạch sang Trung Quốc.
+
+### 2. Các vấn đề đã thảo luận
+- **Mã số vùng trồng:** Đã được phê duyệt thêm 20 ha, nâng tổng diện tích đạt chuẩn lên 50 ha. Cần duy trì nhật ký vườn nghiêm ngặt để sẵn sàng kiểm tra đột xuất.
+- **Kiểm soát chất lượng:** 
+
+### 3. Kết luận và quyết định
+- Bắt đầu chiến dịch thu hoạch và xuất khẩu lứa đầu tiên vào tuần tới.
+- Giao chị Hồng chịu trách nhiệm thu mua và điều phối nhân sự tại vườn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký hợp đồng thuê 10 xe container lạnh/tuần | Tuấn | 10/10/2024 |
+| Hoàn thiện hồ sơ vay vốn ngắn hạn ngân hàng | Chị Hồng | 12/10/2024 |

@@ -1,0 +1,52 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00] Dạ, chào anh chị, sáng nay mình ngồi lại chút xíu để bàn về cái vụ chất lượng phục vụ ở mấy cái quán cà phê của mình á.
+[08:02] Ừm, anh thấy dạo này trên mấy cái hội nhóm review đồ ăn thức uống, khách họ than phiền hơi nhiều về thái độ nhân viên bên mình, đặc biệt là ở mấy chi nhánh quận 1 với quận 3.
+[08:04] Dạ đúng rồi anh, em cũng có đọc mấy cái đó, vầy nè, đa số họ nói là nhân viên mình dạo này hay bấm điện thoại, rồi lúc khách vào không có chào hỏi niềm nở gì hết trơn.
+[08:06] À, mà không chỉ thái độ đâu nha, chị thấy cái vụ lên món cũng chậm nữa, có khách đợi tận 15-20 phút mới có ly cà phê đen đá, thiệt sự là quá lâu luôn đó.
+[08:08] Ờ, vụ này anh cũng biết, chắc là do quy trình pha chế của mình có vấn đề, hay là do nhân viên mới chưa thạo việc ta?
+[08:10] Em nghĩ là cả hai á anh. Nhân viên mới thì mình tuyển đợt vừa rồi cũng nhiều, mà hình như khâu training của bên bộ phận nhân sự nó còn hơi bị hời hợt, chưa có sát sao.
+[08:12] Chắc chắn là vậy rồi, Lan ơi, em xem lại cái giáo trình đào tạo của bên em đi, xem có cần bổ sung thêm mấy cái kỹ năng mềm như giao tiếp với giải quyết khiếu nại không.
+[08:14] Dạ vâng anh, để em về soạn lại cái bộ quy chuẩn mới, lần này em sẽ cho thêm mấy cái tình huống thực tế vô để mấy bạn thực hành luôn cho quen.
+[08:16] À, còn cái vụ lên món chậm, em thấy chỗ quầy bar của mấy chi nhánh lớn nó hơi bị lộn xộn á chị Mai. Các bạn cứ va chạm nhau hoài nên thao tác nó không có nhanh được.
+[08:18] Ừ, chị cũng thấy vậy, hay là mình thử thiết kế lại cái quầy bar theo kiểu dây chuyền một chiều thử xem sao, để bạn này làm xong là chuyển qua cho bạn kia luôn, khỏi phải đi tới đi lui nhiều.
+
+<|output|>
+# Cải thiện chất lượng phục vụ tại chuỗi quán cà phê
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết các khiếu nại của khách hàng về thái độ phục vụ và tốc độ lên món.
+
+### 2. Các vấn đề đã thảo luận
+- Khách hàng phản hồi tiêu cực về thái độ của nhân viên (sử dụng điện thoại, thiếu chào hỏi) tại quận 1 và quận 3.
+- Tốc độ lên món chậm (đợi 15-20 phút), nguyên nhân do quy trình quầy bar chưa tối ưu và nhân viên mới thiếu kỹ năng.
+
+### 3. Kết luận và quyết định
+- Xây dựng lại bộ quy chuẩn đào tạo nhân sự, bổ sung kỹ năng mềm và tình huống thực tế.
+- Thiết kế lại quầy bar theo mô hình dây chuyền một chiều để tối ưu hóa thao tác.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn lại giáo trình đào tạo kỹ năng mềm cho nhân viên | Chị Lan (Phòng Nhân sự) | 25/05/2024 |
+| Thiết kế lại sơ đồ quầy bar và báo giá thi công | Chị Mai (Phòng Vận hành) | 28/05/2024 |

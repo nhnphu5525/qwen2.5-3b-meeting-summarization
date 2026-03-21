@@ -1,0 +1,50 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00] Chào anh Bình, chào Linh. Dự án lắp điện mặt trời cho mái nhà xưởng số 2 ở Bình Dương của mình tiến triển đến đâu rồi? Sếp tổng đang hỏi bao giờ thì có điện "sạch" để dùng đây.
+[10:02] Dạ thưa anh, em đã nhận được báo giá của 3 bên thầu rồi. Hiện tại phương án khả thi nhất là lắp hệ thống 1MWp. Tổng mức đầu tư rơi vào khoảng 12 tỷ đồng.
+[10:04] 12 tỷ à? Ờ... Linh tính toán hộ anh cái thời gian hoàn vốn (ROI) xem. Với giá điện sản xuất hiện tại thì bao lâu mình gỡ được vốn?
+[10:06] Dạ, em đã chạy mô hình tài chính rồi ạ. Nếu mình tự dùng 100% lượng điện tạo ra thì thời gian hoàn vốn là khoảng 4.5 năm. Nhưng nếu mình dùng không hết và bán lại cho EVN thì... hiện tại chính sách mua điện dư (feed-in tariff) vẫn chưa rõ ràng nên em chưa tính phần đó vào.
+[10:08] Ừ, cái vụ chính sách mua điện dư đúng là đang bị kẹt. Vậy nên mình cứ thiết kế hệ thống sao cho vừa đủ dùng cho nhà xưởng thôi, đừng có tham lắp quá nhiều rồi thừa ra không bán được cho ai thì phí.
+[10:10] Dạ đúng anh. Em đề xuất mình lắp hệ thống "Zero-Export" (không phát ngược lên lưới). Mình sẽ lắp thêm thiết bị để khi điện mặt trời dư thì nó tự động giảm công suất inverter xuống, đảm bảo không có chữ nào chạy ra ngoài lưới điện quốc gia cả.
+[10:12] Làm vậy thì có ảnh hưởng đến hiệu suất chung không Bình?
+[10:14] Không đâu anh, nó chỉ là một bộ điều khiển thông minh thôi. Quan trọng nhất là mình phải chọn loại tấm pin (solar panels) loại tốt, hiệu suất cao và bảo hành dài hạn. Em đang nhắm dòng N-type của Jinko hoặc Longi. Bảo hành hiệu suất lên đến 25 năm lận.
+
+<|output|>
+# Dự án lắp đặt hệ thống điện mặt trời áp mái 1MWp cho nhà xưởng số 2
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xem xét báo giá và phương án kỹ thuật lắp đặt hệ thống điện mặt trời.
+- Đánh giá hiệu quả đầu tư (ROI) và giải pháp kỹ thuật phù hợp.
+
+### 2. Các vấn đề đã thảo luận
+- Quy mô hệ thống: 1MWp với tổng mức đầu tư dự kiến 12 tỷ đồng.
+- ROI: Hoàn vốn sau 4.5 năm nếu tự dùng toàn bộ điện; áp dụng giải pháp Zero-Export do chính sách bán điện dư chưa rõ ràng.
+- Kỹ thuật: Đề xuất sử dụng pin N-type (Jinko/Longi) bảo hành 25 năm và bộ điều khiển thông minh tự động giảm công suất.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương đầu tư hệ thống 1MWp theo phương thức Zero-Export.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

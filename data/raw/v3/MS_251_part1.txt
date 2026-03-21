@@ -1,0 +1,54 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:30] Chào mọi người, hôm nay chúng ta tập trung thảo luận về tiến độ dự án Mobile Banking phiên bản 2.0. Anh Nam ơi, anh có thể báo cáo nhanh về phần backend không?
+[08:32] Chào cả team, về phần backend thì chúng tôi đã hoàn thành xong các API cốt lõi cho phần thanh toán QR code và chuyển khoản nhanh 24/7. Tuy nhiên, hiện tại đang gặp chút vấn đề về hiệu năng khi truy vấn lịch sử giao dịch của những khách hàng có dữ liệu lớn.
+[08:35] Vấn đề hiệu năng đó cụ thể là sao hả anh Nam? Có phải do cấu trúc database chưa tối ưu không? Chào chị Lan, đúng là một phần do index chưa được thiết lập chính xác cho các trường ngày tháng và loại giao dịch. Chúng tôi đang xem xét việc chuyển bớt dữ liệu cũ sang cold storage.
+[08:38] Tôi nghĩ phương án cold storage là hợp lý đấy. Chào mọi người, tôi là Minh bên team Infra. Nếu chuyển sang cold storage thì chúng ta cần đảm bảo tốc độ truy xuất khi khách hàng thực sự cần xem lại lịch sử cũ không bị quá chậm. Anh Nam cần phối hợp với bên tôi để cấu hình lại Elasticsearch nhé.
+[08:42] Vâng anh Minh, tôi sẽ cử một bạn sang làm việc trực tiếp với anh vào chiều nay. Còn về phần frontend thì sao hả Lan?
+[08:45] Frontend thì cơ bản đã xong phần UI/UX cho các màn hình chính. Tuy nhiên, bộ phận thiết kế vừa gửi thêm yêu cầu về việc tích hợp chế độ Dark Mode. Việc này có thể làm chậm tiến độ khoảng 3 ngày để điều chỉnh lại toàn bộ hệ thống màu sắc và asset.
+[08:48] Dark Mode hiện nay là xu hướng bắt buộc rồi, chúng ta không thể bỏ qua được. Chào chị Lan, anh Nam, tôi là Hoàng bên bộ phận Sản phẩm. Tôi đề xuất chúng ta ưu tiên hoàn thiện luồng thanh toán trước, còn Dark Mode có thể cho chạy song song và cập nhật sau nếu quá gấp.
+
+<|output|>
+# Dự án Mobile Banking 2.0 - Tiến độ và Kỹ thuật
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tiến độ dự án Mobile Banking 2.0
+- Giải quyết các vấn đề về hiệu năng backend và lỗi frontend trên Android
+
+### 2. Các vấn đề đã thảo luận
+- Backend: Đã hoàn thành API thanh toán và chuyển khoản, nhưng gặp lỗi hiệu năng khi truy vấn lịch sử giao dịch lớn do index chưa tối ưu.
+- Hạ tầng: Đề xuất chuyển dữ liệu cũ sang cold storage và sử dụng Elasticsearch để tăng tốc độ tìm kiếm.
+- Frontend: Hoàn thành UI chính nhưng cần tích hợp thêm Dark Mode theo yêu cầu mới từ thiết kế.
+
+### 3. Kết luận và quyết định
+- Ưu tiên tối ưu hóa database và triển khai giải pháp cold storage ngay trong tuần này.
+- Tạm hoãn ưu tiên Dark Mode để tập trung vào luồng thanh toán và sửa lỗi bảo mật trên Android.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tối ưu Index database và cấu hình Cold Storage | Anh Nam (Backend) | 26/03/2025 |
+| Phối hợp cấu hình Elasticsearch | Anh Minh (Infra) | 26/03/2025 |
+| Fix lỗi crash sinh trắc học trên Android | Chị Lan (Frontend) | 25/03/2025 |
+| Hoàn thiện UI/UX Dark Mode (song song) | Chị Lan (Frontend) | 30/03/2025 |

@@ -1,0 +1,63 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào mọi người, hôm nay chúng ta bắt đầu thảo luận về bộ sưu tập thời trang Thu - Đông 2026 cho thương hiệu của mình nhé.
+[09:02] Xu hướng năm tới theo tôi thấy là sự lên ngôi của phong cách "Quiet Luxury" – sang trọng nhưng tối giản, không phô trương.
+[09:04] Tôi đồng ý, khách hàng giờ họ chuộng chất lượng vải và đường cắt may tinh tế hơn là các logo to bản.
+[09:06] Về bảng màu, mình nên tập trung vào các tông màu đất như nâu hạt dẻ, be sáng, xanh rêu đậm và ghi xám.
+[09:08] Ngoài ra, cần có một vài màu điểm xuyết nổi bật như đỏ rượu vang (burgundy) để tạo điểm nhấn cho bộ sưu tập.
+[09:10] Về chất liệu, tôi đề xuất ưu tiên dùng len cashmere, dạ lông cừu và các loại vải sinh học thân thiện môi trường.
+[09:12] Vải sinh học thì tốt nhưng giá thành hơi cao, mình phải cân đối số lượng mẫu dùng vải này để đảm bảo mức giá bán lẻ cạnh tranh.
+[09:14] Hay là mình làm một dòng sản phẩm "Eco-line" riêng trong bộ sưu tập này? Để khách hàng có thêm lựa chọn sống xanh.
+[09:16] Ý hay đó, dòng này có thể tập trung vào các thiết kế cơ bản (basic) dễ phối đồ.
+[09:18] Đối với dòng sản phẩm nam, áo khoác măng tô dáng dài và áo len cổ lọ vẫn sẽ là những item chủ đạo.
+[09:20] Còn đồ nữ, tôi muốn thấy sự xuất hiện của các set đồ tweed phối với chân váy midi, nhìn rất sang trọng và thanh lịch.
+[09:22] Mọi người lưu ý về kích cỡ (sizing), đợt vừa rồi khách phàn nàn là size M của mình hơi bị chật so với chuẩn thông thường.
+[09:24] Đúng rồi, cần phải điều chỉnh lại bảng thông số size cho khớp với thể trạng thực tế của khách hàng khu vực mình nhắm tới.
+[09:26] Về sản xuất, lần này mình sẽ siết chặt khâu kiểm soát đường may, không để tình trạng chỉ thừa hay lệch tà xảy ra nữa.
+
+<|output|>
+# Định hướng thiết kế và sản xuất bộ sưu tập Thu - Đông 2026
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định phong cách chủ đạo, bảng màu và chất liệu cho bộ sưu tập Thu - Đông 2026.
+- Thống nhất kế hoạch sản xuất, kiểm soát chất lượng và chiến lược hình ảnh cho thương hiệu.
+
+### 2. Các vấn đề đã thảo luận
+- Lựa chọn phong cách "Quiet Luxury" (Sang trọng tối giản) làm kim chỉ nam cho thiết kế.
+- Bảng màu chủ đạo: Tông màu đất (nâu, be, xám) kết hợp điểm nhấn đỏ rượu vang.
+- Ưu tiên chất liệu cao cấp (Cashmere, dạ) và thử nghiệm dòng vải sinh học "Eco-line".
+- Cơ cấu sản phẩm: Tập trung áo măng tô, áo len cổ lọ cho nam và set tweed, váy midi cho nữ.
+
+### 3. Kết luận và quyết định
+- Thống nhất triển khai bộ sưu tập theo phong cách sang trọng, tối giản và bền vững.
+- Team Thiết kế hoàn thiện các bản phác thảo chi tiết và bảng thông số size mới.
+- Team Marketing lập kế hoạch sản xuất hình ảnh và liên hệ nhân sự chụp Lookbook.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện phác thảo thiết kế chi tiết | Team Thiết kế | 28/03/2026 |
+| Điều chỉnh và ban hành bảng size mới | Phòng Kỹ thuật | 05/04/2026 |
+| Tìm nguồn cung ứng vải Cashmere và vải sinh học | Phòng Thu mua | 15/04/2026 |
+| Liên hệ Studio và người mẫu chụp Lookbook | Phòng Marketing | 10/04/2026 |

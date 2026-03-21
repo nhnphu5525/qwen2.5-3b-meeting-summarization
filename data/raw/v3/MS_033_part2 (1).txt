@@ -1,0 +1,64 @@
+<|input|>
+# Triển khai hệ thống Bệnh án điện tử (EMR) tại bệnh viện
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá những khó khăn, vướng mắc trong giai đoạn đầu triển khai Bệnh án điện tử (EMR).
+- Tìm giải pháp khắc phục tình trạng nhập liệu chậm, quá tải server.
+
+### 2. Các vấn đề đã thảo luận
+- Bác sĩ phàn nàn về việc nhập liệu tốn thời gian, gây ùn tắc tại phòng khám.
+- Hạ tầng server chưa ổn định, thỉnh thoảng bị treo khi lượng truy cập lớn.
+- Giao diện phần mềm phức tạp, chưa tối ưu cho công tác lâm sàng.
+
+### 3. Kết luận và quyết định
+- Team IT thực hiện nâng cấp hạ tầng server (RAM, SSD) để đảm bảo tốc độ xử lý.
+- Xây dựng các mẫu bệnh án (template) theo từng chuyên khoa để rút ngắn thời gian nhập liệu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nâng cấp phần cứng máy chủ trung tâm | Team IT | 25/11/2024 |
+| Thiết kế template bệnh án khoa Nội, Ngoại | Team IT | 30/11/2024 |
+[14:18] Nếu có template thì tốt, nhưng cũng cần trang bị thêm máy tính cho phòng trực nữa. Hiện tại có 2 máy mà 5 bác sĩ dùng chung, cứ phải xếp hàng đợi nhau để nhập bệnh án thì vẫn chậm thôi anh.
+[14:20] Được rồi, phần thiết bị Ban giám đốc sẽ phê duyệt mua thêm 20 bộ máy tính mới. Nhưng tôi yêu cầu Team IT phải tổ chức thêm một buổi training nữa, cầm tay chỉ việc cho các bác sĩ lớn tuổi nhé. Đừng có phát tài liệu rồi để họ tự bơi.
+[14:22] Vâng, em sẽ sắp xếp cử người xuống tận khoa hỗ trợ trong tuần sau. À, còn vấn đề bảo mật dữ liệu nữa, mọi người lưu ý tuyệt đối không cho mượn tài khoản đăng nhập nhé. Mọi thao tác trên EMR đều có log lại hết đấy.
+[14:24] Cái này quan trọng, bác sĩ lưu ý. Chốt lại: IT nâng cấp server và làm template bệnh án, Ban quản lý mua thêm máy tính, bác sĩ phối hợp đi training.
+[14:26] Vâng, chúng tôi sẽ cố gắng. Hy vọng hệ thống sớm chạy mượt để chúng tôi tập trung chuyên môn.
+[14:28] Cảm ơn mọi người. Kết thúc họp tại đây.
+
+<|output|>
+# Triển khai hệ thống Bệnh án điện tử (EMR) tại bệnh viện
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá những khó khăn, vướng mắc trong giai đoạn đầu triển khai Bệnh án điện tử (EMR).
+- Tìm giải pháp khắc phục tình trạng nhập liệu chậm, quá tải server và thiếu thiết bị.
+- Thống nhất kế hoạch nâng cấp hạ tầng và đào tạo nhân sự.
+
+### 2. Các vấn đề đã thảo luận
+- Bác sĩ phàn nàn về việc nhập liệu tốn thời gian, gây ùn tắc tại phòng khám.
+- Hạ tầng server chưa ổn định, thỉnh thoảng bị treo khi lượng truy cập lớn.
+- Giao diện phần mềm phức tạp, chưa tối ưu cho công tác lâm sàng.
+- Thiếu hụt máy tính tại các phòng trực khoa.
+- Kỹ năng sử dụng máy tính của một số bác sĩ lớn tuổi còn hạn chế.
+
+### 3. Kết luận và quyết định
+- Team IT thực hiện nâng cấp hạ tầng server (RAM, SSD) để đảm bảo tốc độ xử lý.
+- Xây dựng các mẫu bệnh án (template) theo từng chuyên khoa để rút ngắn thời gian nhập liệu.
+- Trang bị thêm 20 bộ máy tính mới cho các khoa lâm sàng.
+- Tổ chức tập huấn thực tế, hỗ trợ trực tiếp tại khoa cho đội ngũ y bác sĩ.
+- Nghiêm cấm việc chia sẻ tài khoản đăng nhập để đảm bảo an toàn thông tin.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nâng cấp phần cứng máy chủ trung tâm | Team IT | 25/11/2024 |
+| Thiết kế template bệnh án khoa Nội, Ngoại | Team IT | 30/11/2024 |
+| Mua sắm và lắp đặt 20 bộ máy tính mới | Phòng Quản trị | 10/12/2024 |
+| Tổ chức đào tạo và hỗ trợ trực tiếp tại khoa | Team IT | 05/12/2024 |
+| Rà soát và phân quyền tài khoản EMR | Team IT | 22/11/2024 |

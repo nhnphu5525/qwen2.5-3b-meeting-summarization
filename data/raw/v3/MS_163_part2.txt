@@ -1,0 +1,64 @@
+<|input|>
+# Kế hoạch bảo trì định kỳ hệ thống máy phát điện dự phòng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch chi tiết cho việc bảo trì định kỳ hệ thống máy phát điện dự phòng (quý IV/2024).
+- Kiểm tra tình trạng vật tư, thiết bị thay thế và phân công trách nhiệm cụ thể.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng thiết bị: Máy số 2 cần thay bộ lọc dầu và lọc gió; ắc quy máy số 3 bị chai, khó khởi động và cần thay mới.
+- Vật tư trong kho: Lọc dầu còn 2 bộ (đủ dùng), lọc gió đã hết, cần mua bổ sung gấp.
+- Vệ sinh bồn dầu: Bồn dầu dự phòng có dấu hiệu đóng cặn, cần súc rửa và lọc lại dầu.
+
+### 3. Kết luận và quyết định
+- Chốt lịch bảo trì vào ngày Chủ nhật (01/12/2024).
+- Thay thế toàn bộ lọc gió cho máy số 2 và ắc quy mới cho máy số 3.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Làm đề xuất mua lọc gió và ắc quy mới | Thắng - Phòng Kỹ thuật | 22/11/2024 |
+| Liên hệ nhà thầu cung cấp dầu chốt lịch xe bồn | Thắng - Phòng Kỹ thuật | 22/11/2024 |
+| Soạn thông báo bảo trì gửi các bộ phận | Bộ phận Hành chính | 25/11/2024 |
+[14:13:55] Ừ, thay luôn đi Thắng. Chú Hùng nhớ giám sát kỹ cái quy trình xả tải thử nghiệm sau khi bảo trì xong nha, đừng để xảy ra sai sót gì.
+[14:15:10] Dạ anh yên tâm, tôi sẽ trực tiếp đứng đó kiểm tra từng bước một, từ điện áp đến tần số luôn.
+[14:16:25] Ok, vậy thống nhất lịch bảo trì là ngày Chủ nhật tuần sau nhé. Thắng lo vụ vật tư, chú Hùng lo nhân sự với chuyên môn kỹ thuật.
+[14:17:40] Dạ vâng anh, để em báo bên hành chính làm thông báo cho toàn nhà máy biết luôn ạ.
+[14:18:55] Nhớ nhắc bên nhà thầu cung cấp dầu là phải mang xe bồn đến đúng giờ nha Thắng, đừng để anh em chờ lâu tốn thời gian.
+[14:20:10] Dạ em rõ rồi anh, em sẽ liên hệ chốt lịch cụ thể với họ luôn chiều nay.
+
+<|output|>
+# Kế hoạch bảo trì định kỳ hệ thống máy phát điện dự phòng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch chi tiết cho việc bảo trì định kỳ hệ thống máy phát điện dự phòng (quý IV/2024).
+- Kiểm tra tình trạng vật tư, thiết bị thay thế và phân công trách nhiệm cụ thể.
+- Đảm bảo hệ thống luôn trong trạng thái sẵn sàng hoạt động, tránh rủi ro mất điện ảnh hưởng đến sản xuất.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng thiết bị: Máy số 2 cần thay bộ lọc dầu và lọc gió; ắc quy máy số 3 bị chai, khó khởi động và cần thay mới.
+- Vật tư trong kho: Lọc dầu còn 2 bộ (đủ dùng), lọc gió đã hết, cần mua bổ sung gấp.
+- Vệ sinh bồn dầu: Bồn dầu dự phòng có dấu hiệu đóng cặn, cần súc rửa và lọc lại dầu.
+- Thời gian thực hiện: Ban đầu dự định làm vào thứ Bảy, nhưng để đảm bảo an toàn tuyệt đối cho các dây chuyền đang chạy bù, cuộc họp thống nhất chuyển sang Chủ nhật.
+- Chi phí: Duyệt chi thêm tiền lương tăng ca cho đội ngũ kỹ thuật làm việc vào ngày nghỉ.
+
+### 3. Kết luận và quyết định
+- Chốt lịch bảo trì vào ngày Chủ nhật (01/12/2024).
+- Thay thế toàn bộ lọc gió cho máy số 2 và ắc quy mới cho máy số 3.
+- Thực hiện súc rửa bồn dầu dự phòng và kiểm tra thông số kỹ thuật (điện áp, tần số) sau bảo trì.
+- Thông báo cho toàn bộ nhà máy về lịch bảo trì và phối hợp với nhà thầu cung cấp dầu để đảm bảo tiến độ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Làm đề xuất mua lọc gió và ắc quy mới | Thắng - Phòng Kỹ thuật | 22/11/2024 |
+| Liên hệ nhà thầu cung cấp dầu chốt lịch xe bồn | Thắng - Phòng Kỹ thuật | 22/11/2024 |
+| Soạn thông báo bảo trì gửi các bộ phận | Bộ phận Hành chính | 25/11/2024 |
+| Trực tiếp giám sát quy trình xả tải thử nghiệm | Chú Hùng - Quản đốc | 01/12/2024 |
+| Tổng hợp báo cáo kết quả bảo trì | Thắng - Phòng Kỹ thuật | 03/12/2024 |

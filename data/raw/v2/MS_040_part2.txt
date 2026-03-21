@@ -1,0 +1,50 @@
+<|input|>
+# Chiến lược tối ưu hóa chuỗi cung ứng quốc tế và ứng phó biến động địa chính trị
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tác động của khủng hoảng Biển Đỏ và các biến động địa chính trị đến thời gian và chi phí vận chuyển quốc tế.
+
+### 2. Các vấn đề đã thảo luận
+- Khủng hoảng Biển Đỏ kéo dài làm tăng transit time và cước phí tàu biển do phải đi vòng qua Mũi Hảo Vọng.
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+[09:12] Vậy còn đường hàng không (Air Freight) thì sao? Đối với những đơn hàng linh kiện điện tử giá trị cao và cần gấp, mình có thể chuyển một phần sang đi máy bay không?
+[09:14] Đi máy bay thì nhanh thật, chỉ mất 3-5 ngày, nhưng cước phí thì... ôi thôi, nó gấp 10-15 lần đường biển. Nếu mình đi Air cho các lô hàng lớn thì chi phí Logistics sẽ chiếm đến 40% giá thành sản phẩm, không thể bán được. Em đề xuất mình nên dùng phương án 'Sea-Air' (kết hợp biển và hàng không). Tức là đi tàu biển từ Việt Nam sang Dubai, sau đó bay từ Dubai sang các nước châu Âu. Cách này sẽ cân bằng được giữa thời gian và chi phí.
+[09:16] Sea-Air nghe cũng có vẻ khả thi. Lan bên Tài chính thấy phương án này thế nào? Mình có thể trích quỹ dự phòng rủi ro để bù đắp phần chênh lệch chi phí này không?
+[09:18] Em nghĩ là có thể, nhưng mình phải tính toán cực kỳ chi tiết cho từng SKU (mã hàng). Những mặt hàng nào có vòng đời ngắn, tính thời vụ cao thì mình đi Sea-Air, còn hàng tiêu dùng cơ bản thì vẫn phải kiên trì đi đường biển và chấp nhận dự trữ tồn kho lớn hơn.
+[09:20] Nói đến tồn kho, tôi thấy mình cần thay đổi chiến lược từ 'Just-in-Time' (vừa kịp lúc) sang 'Just-in-Case' (phòng hờ). Việc phụ thuộc vào nguồn cung ứng tức thời bây giờ quá nguy hiểm. Tôi đề nghị bộ phận Thu mua tìm thêm các nhà cung cấp thay thế ở khu vực Đông Nam Á hoặc Ấn Độ để giảm bớt sự phụ thuộc vào Trung Quốc.
+[09:22] Tìm nhà cung cấp mới không phải chuyện một sớm một chiều anh ạ. Riêng khâu đánh giá chất lượng và làm mẫu cũng mất 6 tháng rồi. Chưa kể, hệ thống logistics từ Ấn Độ về Việt Nam cũng không hề rẻ và thuận tiện như từ Trung Quốc. Tuy nhiên, tụi em cũng đang tích cực tìm kiếm các đối tác ở Thái Lan và Indonesia cho các nguyên liệu phụ trợ.
+[09:24] Còn vấn đề thủ tục hải quan thì sao? Tôi nghe nói dạo này các quy định về quy tắc xuất xứ (C/O) và các rào cản kỹ thuật của EU (như cơ chế điều chỉnh biên giới carbon - CBAM) đang thắt chặt rất gắt gao.
+[09:26] Vâng, đúng là như vậy ạ. Phía EU họ yêu cầu mình phải chứng minh được quy trình sản xuất xanh, giảm phát thải. Nếu mình không chuẩn bị hồ sơ kỹ từ bây giờ thì hàng sang đến cảng Rotterdam cũng bị kẹt lại không thông quan được. Em đã thuê một đơn vị tư vấn về CBAM để rà soát lại toàn bộ quy trình sản xuất và đóng gói của mình.
+
+<|output|>
+# Chiến lược tối ưu hóa chuỗi cung ứng quốc tế và ứng phó biến động địa chính trị
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tác động của khủng hoảng Biển Đỏ và các biến động địa chính trị đến thời gian và chi phí vận chuyển quốc tế.
+- Thống nhất các phương thức vận chuyển thay thế và chiến lược quản trị tồn kho mới.
+- Rà soát các rào cản kỹ thuật mới của thị trường EU (CBAM).
+
+### 2. Các vấn đề đã thảo luận
+- Khủng hoảng Biển Đỏ kéo dài làm tăng transit time và cước phí tàu biển do phải đi vòng qua Mũi Hảo Vọng.
+- Giải pháp Sea-Air qua Dubai cho hàng gấp và chuyển từ 'Just-in-Time' sang 'Just-in-Case'.
+- Đáp ứng cơ chế CBAM của EU để duy trì vị thế nhà cung cấp.
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập bảng SKU phân loại phương thức vận chuyển (Sea vs Sea-Air) | Lan (Tài chính) + Logistics | 05/12/2024 |
+| Làm việc với đơn vị tư vấn CBAM rà soát quy trình sản xuất | Phòng Sản xuất | 20/12/2024 |
+| Tìm kiếm 03 nhà cung cấp nguyên liệu phụ trợ tại Đông Nam Á | Phòng Thu mua | 15/02/2025 |

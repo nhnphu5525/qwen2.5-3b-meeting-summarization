@@ -1,0 +1,74 @@
+<|input|>
+# Kế hoạch triển khai dự án khu dân cư Quận 9
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hướng thiết kế kiến trúc và tiện ích cho dự án khu dân cư mới.
+- Thảo luận phương án cạnh tranh về giá và hỗ trợ tài chính cho khách hàng.
+- Rà soát công tác quản lý chi phí xây dựng trong bối cảnh giá vật liệu biến động.
+
+### 2. Các vấn đề đã thảo luận
+- Tận dụng lợi thế hạ tầng (Vành đai 3) để đẩy mạnh phân khúc trung cao cấp.
+- Thiết kế tích hợp Smart Home và chú trọng không gian xanh (20% diện tích cảnh quan + vườn treo).
+- Áp lực tăng giá vật liệu xây dựng và yêu cầu chốt hợp đồng sớm với nhà thầu.
+- Hỗ trợ tài chính qua các ngân hàng liên kết với lãi suất ưu đãi và thủ tục nhanh.
+
+### 3. Kết luận và quyết định
+- Thống nhất phong cách kiến trúc hiện đại, tích hợp Smart Home cho tất cả căn hộ.
+- Duy trì tỉ lệ mảng xanh tối ưu kết hợp vườn treo để tạo sự khác biệt thương hiệu.
+- Đàm phán và chốt hợp đồng giữ giá với các đơn vị cung ứng vật liệu xây dựng trong tháng này.
+- Lựa chọn ngân hàng hỗ trợ vay vốn tốt nhất để tích hợp vào chương trình bán hàng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đàm phán giữ giá vật liệu với nhà thầu | Anh Nam | 28/03 |
+| Ký kết hợp đồng liên kết với Ngân hàng | Team Tài chính | 05/04 |
+| Trình dự toán chi phí đầu tư dự án | Ban Giám đốc | 30/03 |
+| Hoàn thiện bản vẽ kiến trúc và phối cảnh 3D | Team Kiến trúc | 25/03 |
+[16:30] Có một vấn đề là khu đất của mình hơi xa trung tâm, khách hàng lo ngại về việc di chuyển.
+[16:32] Mình có thể cam kết triển khai 2 tuyến xe bus đưa đón cư dân miễn phí vào trung tâm trong 2 năm đầu tiên để họ yên tâm.
+[16:34] Ý kiến này rất thực tế, hãy đưa vào gói tiện ích mở rộng của dự án luôn.
+[16:36] Tổng kết lại: Chốt phương án thiết kế 20% mảng xanh kèm vườn treo, Smart Home cơ bản, liên kết ngân hàng và triển khai xe bus đưa đón.
+[16:38] Kế hoạch chi tiết và bản vẽ sơ bộ trình Ban giám đốc vào cuối tháng nhé.
+[16:40] Vâng ạ, team kiến trúc sẽ tập trung hoàn thiện bản vẽ ngay.
+[16:42] Kết thúc họp, chúc mọi người tuần làm việc hiệu quả.
+
+<|output|>
+# Kế hoạch triển khai dự án khu dân cư Quận 9
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hướng thiết kế kiến trúc và tiện ích cho dự án khu dân cư mới.
+- Thảo luận phương án cạnh tranh về giá và hỗ trợ tài chính cho khách hàng.
+- Xây dựng chiến lược marketing và giải quyết các lo ngại về vị trí địa lý của dự án.
+- Rà soát công tác quản lý chi phí xây dựng trong bối cảnh giá vật liệu biến động.
+
+### 2. Các vấn đề đã thảo luận
+- Tận dụng lợi thế hạ tầng (Vành đai 3) để đẩy mạnh phân khúc trung cao cấp.
+- Thiết kế tích hợp Smart Home và chú trọng không gian xanh (20% diện tích cảnh quan + vườn treo).
+- Áp lực tăng giá vật liệu xây dựng và yêu cầu chốt hợp đồng sớm với nhà thầu.
+- Hỗ trợ tài chính qua các ngân hàng liên kết với lãi suất ưu đãi và thủ tục nhanh.
+- Giải pháp xe bus đưa đón cư dân miễn phí để xóa bỏ rào cản về khoảng cách tới trung tâm.
+- Chiến dịch marketing tập trung vào thông điệp "Sống xanh" và "Tiện ích hiện đại".
+
+### 3. Kết luận và quyết định
+- Thống nhất phong cách kiến trúc hiện đại, tích hợp Smart Home cho tất cả căn hộ.
+- Duy trì tỉ lệ mảng xanh tối ưu kết hợp vườn treo để tạo sự khác biệt thương hiệu.
+- Đàm phán và chốt hợp đồng giữ giá với các đơn vị cung ứng vật liệu xây dựng trong tháng này.
+- Lựa chọn ngân hàng hỗ trợ vay vốn tốt nhất để tích hợp vào chương trình bán hàng.
+- Phê duyệt triển khai tuyến xe bus riêng phục vụ cư dân trong giai đoạn đầu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xây dựng kịch bản truyền thông và teaser | Team Marketing | 10/04 |
+| Khảo sát và lập phương án tuyến xe bus cư dân | Team Vận hành | 15/04 |
+| Đàm phán giữ giá vật liệu với nhà thầu | Anh Nam | 28/03 |
+| Ký kết hợp đồng liên kết với Ngân hàng | Team Tài chính | 05/04 |
+| Trình dự toán chi phí đầu tư dự án | Ban Giám đốc | 30/03 |
+| Hoàn thiện bản vẽ kiến trúc và phối cảnh 3D | Team Kiến trúc | 25/03 |

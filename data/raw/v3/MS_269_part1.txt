@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào các thầy cô trong Hội đồng Khoa học và Ban Giám hiệu. Hôm nay chúng ta họp để thảo luận về đề án cải cách mô hình quản trị đại học theo hướng tự chủ toàn diện. Đây là một bước ngoặt lớn để nâng cao vị thế và chất lượng đào tạo của nhà trường. Giáo sư Thành, thầy có thể chia sẻ kinh nghiệm về việc thực hiện tự chủ tại các trường đại học quốc tế không?
+[14:05] Chào thầy Hiệu trưởng, chào các đồng nghiệp. Tôi là Thành. Tự chủ đại học không chỉ là tự lo về tài chính mà quan trọng nhất là tự chủ về học thuật và nhân sự. Ở các nước phát triển, nhà trường được quyền tự quyết định chương trình đào tạo, phương thức tuyển sinh và đặc biệt là cơ chế trả lương dựa trên năng lực và đóng góp khoa học thay vì theo thâm niên hay ngạch bậc công chức. Tuy nhiên, thách thức lớn nhất khi tự chủ là làm sao để duy trì được các ngành khoa học cơ bản vốn ít người học nhưng lại là nền tảng của tri thức.
+[14:10] Chào thầy Thành, tôi là Lan bên bộ phận Tài chính - Kế hoạch. Khi chuyển sang tự chủ 100% chi thường xuyên, nguồn thu của trường sẽ phụ thuộc chủ yếu vào học phí và các dự án nghiên cứu chuyển giao công nghệ. Tôi lo ngại rằng nếu tăng học phí quá cao để bù đắp chi phí, chúng ta sẽ làm mất cơ hội tiếp cận giáo dục của những sinh viên nghèo học giỏi. Chúng ta cần một cơ chế học bổng và tín dụng sinh viên nội bộ thật mạnh mẽ.
+[14:15] Chào cô Lan, thầy Thành. Tôi là Dũng, Trưởng phòng Đào tạo. Về tự chủ học thuật, tôi đề xuất chúng ta nên mở rộng các chương trình liên kết quốc tế và các ngành học mới mang tính liên ngành (interdisciplinary). Ví dụ như ngành "Kinh tế số" hay "Luật công nghệ". Việc này sẽ giúp đa dạng hóa nguồn thu và đáp ứng đúng nhu cầu thị trường lao động. Tuy nhiên, chúng ta cần một quy trình thẩm định nội bộ cực kỳ khắt khe để đảm bảo chất lượng.
+
+<|output|>
+# Đề án Tự chủ Đại học và Cải cách Mô hình Quản trị
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về lộ trình và các giải pháp thực hiện tự chủ đại học toàn diện (tài chính, học thuật, nhân sự).
+
+### 2. Các vấn đề đã thảo luận
+- Tự chủ học thuật: Mở rộng các ngành học liên ngành, liên kết quốc tế; duy trì các ngành khoa học cơ bản làm nền tảng.
+- Tự chủ tài chính: Đa dạng hóa nguồn thu từ học phí, nghiên cứu chuyển giao và mô hình doanh nghiệp Spin-off. Cần cơ chế học bổng mạnh mẽ để hỗ trợ sinh viên nghèo.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng quỹ học bổng "Thắp sáng tài năng" cho sinh viên khó khăn khi thực hiện tự chủ tài chính.
+- Triển khai xây dựng hệ thống KPI và đề án vị trí việc làm mới cho toàn bộ cán bộ, giảng viên.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo khung tự chủ học thuật và đào tạo | Thầy Dũng & Thầy Thành | 20/04/2025 |
+| Xây dựng hệ thống KPI và chính sách đãi ngộ mới | Cô Hương (TCCB) | 30/04/2025 |
+| Dự thảo phương án tài chính và quỹ học bổng | Cô Lan (Tài chính) | 15/04/2025 |

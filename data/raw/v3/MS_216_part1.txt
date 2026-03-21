@@ -1,0 +1,61 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Thực ra Cần phải làm rõ hơn về tiến độ thi công trong hợp đồng mới.
+[09:02] Mọi người có ý kiến gì thêm về tiến độ thi công không?
+[09:02] Dạ Bên đối tác họ cứ hỏi mãi về ngân sách dự án, mình phải trả lời sao đây?
+[09:06] Thôi được rồi, vậy thống nhất là triển khai an toàn lao động theo hướng đó.
+[09:08] Tóm lại Tôi thấy vật liệu hiện tại là cơ hội tốt để mình bứt phá.
+[09:05] Thực ra Thế thì mình chốt phương án cho vật liệu luôn đi, đừng kéo dài nữa.
+[09:12] Thôi được rồi, vậy thống nhất là triển khai ngân sách dự án theo hướng đó.
+[09:07] Thôi được rồi, vậy thống nhất là triển khai thiết kế cơ điện theo hướng đó.
+[09:08] Dạ Bên đối tác họ cứ hỏi mãi về tiến độ thi công, mình phải trả lời sao đây?
+[09:18] Mọi người có ý kiến gì thêm về ngân sách dự án không?
+[09:10] Mọi người có ý kiến gì thêm về thiết kế cơ điện không?
+[09:22] Thôi được rồi, vậy thống nhất là triển khai thiết kế cơ điện theo hướng đó.
+[09:24] Tôi sẽ phụ trách kiểm tra lại thiết kế cơ điện rồi báo lại cả team vào chiều mai.
+[09:26] Cảm ơn mọi người, cuộc họp về Xây dựng tạm dừng tại đây.
+[09:28] Chắc là Ai sẽ chịu trách nhiệm chính cho mảng vật liệu nhỉ?
+[09:15] Hình như Bên đối tác họ cứ hỏi mãi về an toàn lao động, mình phải trả lời sao đây?
+[09:16] Vâng Đừng quên vụ tiến độ thi công cũng quan trọng không kém nhé.
+[09:34] Nói chung là Cái vật liệu này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:18] Thực ra Ai sẽ chịu trách nhiệm chính cho mảng ngân sách dự án nhỉ?
+[09:19] Nói chung là Hay là mình thử thay đổi cách tiếp cận với tiến độ thi công xem sao?
+[09:40] Ai sẽ chịu trách nhiệm chính cho mảng an toàn lao động nhỉ?
+
+<|output|>
+# Báo cáo cuộc họp về Xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Xây dựng hiện tại
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý vật liệu
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho an toàn lao động
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ an toàn lao động | Phòng Kế hoạch | 13/05/2026 |

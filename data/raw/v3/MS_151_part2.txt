@@ -1,0 +1,63 @@
+<|input|>
+# Kiểm soát chi phí tiếp khách và công tác phí
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xem xét lại thực trạng chi phí tiếp khách và công tác phí đang có dấu hiệu tăng cao và thiếu minh bạch.
+- Thống nhất các biện pháp siết chặt quản lý chi phí để đảm bảo ngân sách công ty.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí tiếp khách của bộ phận kinh doanh tăng vọt, nhiều hóa đơn không rõ mục đích hoặc không tương xứng với quy mô đối tác.
+- Chi phí đi lại (taxi) khi công tác khó kiểm soát, dễ xảy ra tình trạng kê khai không trung thực.
+
+### 3. Kết luận và quyết định
+- Phân loại hạn mức tiếp khách dựa trên quy mô và tầm quan trọng của đối tác (Khách VIP vs Khách nhỏ).
+- Ưu tiên sử dụng các ứng dụng gọi xe có giá minh bạch (Grab) và hóa đơn điện tử cho các chuyến công tác tại thành phố.
+- Ký hợp đồng nguyên tắc với các đơn vị lữ hành hoặc chuỗi khách sạn để lấy giá ưu đãi cố định và thống nhất danh sách nơi lưu trú theo cấp bậc nhân viên.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo quy trình quản lý chi phí tiếp khách và công tác phí mới | Phòng Kế toán (Phương) | 15/10/2023 |
+| Tìm kiếm và đàm phán hợp đồng với các đối tác khách sạn/dịch vụ lữ hành | Phòng Hành chính (Anh Nam) | 20/10/2023 |
+[08:39:45] Anh đồng ý. Mình chốt một danh sách các khách sạn được phép ở theo từng cấp bậc nhân viên đi. Đi công tác mà toàn lựa khách sạn 4-5 sao trong khi mục tiêu công việc chưa chắc đã cần thiết đến mức đó.
+[08:41:10] Dạ, vậy để em soạn lại cái quy trình mới nha. Quy định rõ là tiếp khách mức nào, đi lại bằng gì, ở đâu. Ai làm sai quy trình là kế toán mình "vịn" lại không thanh toán luôn cho chừa.
+[08:42:35] Ừ, phải làm gắt vậy mới được. Chứ cứ nể nang là cuối năm kiểm toán nó gõ đầu chị đầu tiên đó. À, nhớ bổ sung thêm vụ hóa đơn nha, phải là hóa đơn đỏ chuẩn chỉnh, thông tin công ty rõ ràng chứ không có chuyện ghi tay loằng ngoằng rồi đem về đòi tiền đâu.
+[08:44:00] Dạ em nhớ rồi chị. Để em làm cái mẫu báo cáo chi phí mới luôn, yêu cầu đính kèm ảnh chụp hóa đơn ngay lúc phát sinh luôn cho nó chắc, chứ để lâu là mất hay lại quên.
+[08:45:25] Tốt đó. Vậy chốt vậy nha. Tuần sau em gửi chị bản thảo để chị duyệt rồi mình gửi thông báo cho toàn công ty luôn. Mấy anh bên sale chắc sẽ la ó dữ lắm đây nhưng mà phải làm thôi, vì lợi ích chung mà.
+[08:46:50] Dạ vâng, chuyện này cứ để em "đóng vai ác" cho, chị yên tâm. Cứ đúng luật mà làm thôi hà.
+[08:48:15] OK, vậy thôi giải tán đi làm việc tiếp đi mấy đứa. Cảm ơn anh Nam, cảm ơn Phương nha.
+
+<|output|>
+# Kiểm soát chi phí tiếp khách và công tác phí
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xem xét lại thực trạng chi phí tiếp khách và công tác phí đang có dấu hiệu tăng cao và thiếu minh bạch.
+- Thống nhất các biện pháp siết chặt quản lý chi phí để đảm bảo ngân sách công ty.
+- Xây dựng quy trình thanh toán mới rõ ràng và nghiêm ngặt hơn.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí tiếp khách của bộ phận kinh doanh tăng vọt, nhiều hóa đơn không rõ mục đích hoặc không tương xứng với quy mô đối tác.
+- Chi phí đi lại (taxi) khi công tác khó kiểm soát, dễ xảy ra tình trạng kê khai không trung thực.
+- Việc nhân viên tự đặt khách sạn dẫn đến giá cả không đồng nhất và thường cao hơn mức cần thiết.
+- Tình trạng hóa đơn chứng từ không đạt chuẩn, thiếu thông tin hoặc là phiếu thu viết tay dễ bị làm giả.
+
+### 3. Kết luận và quyết định
+- Phân loại hạn mức tiếp khách dựa trên quy mô và tầm quan trọng của đối tác (Khách VIP vs Khách nhỏ).
+- Ưu tiên sử dụng các ứng dụng gọi xe có giá minh bạch (Grab) và hóa đơn điện tử cho các chuyến công tác tại thành phố.
+- Ký hợp đồng nguyên tắc với các đơn vị lữ hành hoặc chuỗi khách sạn để lấy giá ưu đãi cố định và thống nhất danh sách nơi lưu trú theo cấp bậc nhân viên.
+- Áp dụng mẫu báo cáo chi phí mới, yêu cầu đính kèm ảnh chụp hóa đơn ngay tại thời điểm phát sinh.
+- Chỉ thanh toán khi có hóa đơn giá trị gia tăng (hóa đơn đỏ) đầy đủ thông tin công ty theo đúng quy định pháp luật.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo quy trình quản lý chi phí tiếp khách và công tác phí mới | Phòng Kế toán (Phương) | 15/10/2023 |
+| Tìm kiếm và đàm phán hợp đồng với các đối tác khách sạn/dịch vụ lữ hành | Phòng Hành chính (Anh Nam) | 20/10/2023 |
+| Thiết kế mẫu báo cáo chi phí mới và hướng dẫn sử dụng phần mềm/ứng dụng | Phòng Kế toán | 18/10/2023 |
+| Gửi thông báo chính thức và phổ biến quy định mới đến toàn công ty | Chị Linh (Kế toán trưởng) | 22/10/2023 |

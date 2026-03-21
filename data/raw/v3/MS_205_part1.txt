@@ -1,0 +1,65 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:03] Mong là lần này dữ liệu sẽ ổn thỏa hơn mấy lần trước.
+[09:06] Bên phòng ban họ cứ hối thúc vụ trí tuệ nhân tạo suốt.
+[09:06] Mong là lần này hạ tầng IT sẽ ổn thỏa hơn mấy lần trước.
+[09:12] Mong là lần này phần mềm sẽ ổn thỏa hơn mấy lần trước.
+[09:15] Vâng Bên đối tác họ cứ hối thúc vụ phần mềm suốt.
+[09:12] Tôi đề xuất chốt hạn chót cho phần mềm là cuối tháng này được không?
+[09:07] Không sao, mình có thể tối ưu lại phần đám mây mà.
+[09:24] Thì Mong là lần này đám mây sẽ ổn thỏa hơn mấy lần trước.
+[09:18] Để tôi gửi tài liệu về phần mềm cho mọi người qua email sau buổi họp.
+[09:20] Thì Bên phòng ban họ cứ hối thúc vụ hạ tầng IT suốt.
+[09:22] Mong là lần này dữ liệu sẽ ổn thỏa hơn mấy lần trước.
+[09:12] Tôi lo là trí tuệ nhân tạo sẽ tốn nhiều chi phí hơn dự kiến.
+[09:39] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:42] Cảm ơn mọi người, buổi họp hôm nay về Công nghệ rất hiệu quả.
+[09:30] Tôi lo là bảo trì hệ thống sẽ tốn nhiều chi phí hơn dự kiến.
+[09:48] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về an ninh mạng.
+[09:17] À còn một việc nữa là cái bảo trì hệ thống, mọi người thấy ổn chưa?
+[09:54] Ờm Bên đối tác họ cứ hối thúc vụ dữ liệu suốt.
+[09:38] Không sao, mình có thể tối ưu lại phần dữ liệu mà.
+[09:40] Thực ra Hiện tại cái trí tuệ nhân tạo đang bị chậm tiến độ một chút vì thiếu người.
+[09:42] Không sao, mình có thể tối ưu lại phần an ninh mạng mà.
+[09:22] Thì đấy Tuần tới mình tập trung dứt điểm cái dữ liệu đi cho xong.
+[09:23] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[10:12] À còn một việc nữa là cái trí tuệ nhân tạo, mọi người thấy ổn chưa?
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Công nghệ
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Công nghệ hiện nay
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Công nghệ
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý trí tuệ nhân tạo | Phòng Công nghệ | 24/12/2026 |

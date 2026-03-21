@@ -1,0 +1,67 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Hôm nay chúng ta họp để chốt kế hoạch quyết toán thuế và kiểm kê tài sản cuối năm.
+[09:02] Theo quy định mới, các chứng từ chi phí liên quan đến xe công cần được rà soát rất kỹ.
+[09:04] Tôi thấy phần hóa đơn điện tử hiện tại còn một số mã bị lỗi, chưa khớp với dữ liệu của tổng cục thuế.
+[09:06] Bên kế toán thuế cần kiểm tra lại danh sách nhà cung cấp, xem có đơn vị nào thuộc diện rủi ro không.
+[09:08] Về việc kiểm kê kho, chúng ta sẽ bắt đầu vào ngày 25 tháng này.
+[09:10] Các phòng ban cần cử người đại diện tham gia cùng đoàn kiểm kê để đối chiếu số liệu tại chỗ.
+[10:12] Có một số tài sản cố định đã hư hỏng nhưng vẫn còn trên sổ sách, đợt này phải làm thủ tục thanh lý luôn.
+[10:14] Đúng rồi, việc thanh lý cần phải có biên bản đánh giá tình trạng và phê duyệt của Ban giám đốc.
+[10:16] Còn khoản nợ khó đòi từ đối tác Alpha, chúng ta đã trích lập dự phòng đầy đủ chưa?
+[10:18] Đã trích lập 50% rồi, nhưng tôi đề nghị team pháp chế gửi công văn nhắc nợ lần cuối trước khi chốt số liệu.
+[10:20] Báo cáo tài chính sơ bộ phải có trước ngày 15 tháng sau để gửi cho kiểm toán độc lập.
+[10:22] Mọi người lưu ý thời gian nhé, năm nay kiểm toán sẽ làm rất gắt phần giá vốn hàng bán.
+[10:24] Ok, chúng tôi sẽ tăng cường nhân sự để hoàn thành đúng tiến độ.
+
+<|output|>
+# Quyết toán thuế và kiểm kê tài sản cuối năm
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lập kế hoạch chi tiết cho công tác quyết toán thuế và kiểm kê tài sản.
+- Xử lý các tồn đọng về hóa đơn, tài sản hư hỏng và công nợ khó đòi.
+- Chuẩn bị dữ liệu cho đợt kiểm toán độc lập sắp tới.
+
+### 2. Các vấn đề đã thảo luận
+- Rà soát chứng từ chi phí xe công theo quy định mới.
+- Lỗi sai lệch dữ liệu hóa đơn điện tử với cơ quan thuế.
+- Sàng lọc danh sách nhà cung cấp có rủi ro về thuế.
+- Lịch trình kiểm kê kho và phối hợp giữa các phòng ban.
+- Thủ tục thanh lý tài sản cố định đã hỏng.
+- Xử lý khoản nợ khó đòi và trích lập dự phòng rủi ro.
+
+### 3. Kết luận và quyết định
+- Thực hiện kiểm kê toàn bộ kho và tài sản bắt đầu từ ngày 25.
+- Phòng Kế toán rà soát và đối chiếu lại toàn bộ hóa đơn điện tử lỗi.
+- Phòng Pháp chế thực hiện gửi công văn nhắc nợ cho các đối tác nợ quá hạn.
+- Hoàn thiện báo cáo tài chính nội bộ để phục vụ kiểm toán vào giữa tháng sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm kê kho và tài sản cố định | Đoàn kiểm kê | 30/03/2026 |
+| Đối chiếu hóa đơn điện tử với Tổng cục Thuế | Phòng Kế toán | 28/03/2026 |
+| Gửi công văn nhắc nợ cho đối tác Alpha | Phòng Pháp chế | 24/03/2026 |
+| Lập hồ sơ thanh lý tài sản hỏng | Phòng Hành chính | 05/04/2026 |
+| Hoàn thiện báo cáo tài chính sơ bộ | Phòng Kế toán | 15/04/2026 |

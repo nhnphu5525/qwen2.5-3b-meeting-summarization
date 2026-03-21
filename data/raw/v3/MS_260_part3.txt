@@ -1,0 +1,61 @@
+<|input|>
+# Đánh giá Dự án Đầu tư Năng lượng Tái tạo Ninh Thuận
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tính khả thi về tài chính, kỹ thuật và pháp lý của dự án điện gió kết hợp điện mặt trời tại Ninh Thuận.
+- Nhận diện các rủi ro về truyền tải điện, giải phóng mặt bằng và huy động vốn.
+
+### 2. Các vấn đề đã thảo luận
+- Hiệu quả tài chính: IRR dự kiến 12-14% nhưng có nguy cơ tụt giảm nếu bị cắt giảm công suất do quá tải lưới điện quốc gia.
+- Giải pháp kỹ thuật: Đề xuất lắp đặt hệ thống lưu trữ pin (BESS) để tối ưu hóa dòng tiền và giá bán điện, dù làm tăng vốn đầu tư (CAPEX).
+- Pháp lý và Quy hoạch: Cần xác minh dự án có nằm trong danh mục ưu tiên của Quy hoạch điện VIII hay không.
+
+### 3. Kết luận và quyết định
+- Yêu cầu team phân tích chạy lại mô hình tài chính với kịch bản tích hợp BESS, chi phí vận hành thực tế và chi phí phòng vệ tỷ giá.
+- Cử đoàn công tác đi thực địa tại Ninh Thuận để kiểm tra thực trạng giải phóng mặt bằng và làm việc với chính quyền địa phương.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật mô hình tài chính (BESS, OPEX, Hedging) | Anh Long (Phân tích) | 15/04/2025 |
+| Khảo sát thực địa và xác minh pháp lý tại Ninh Thuận | Chị Lan & Anh Minh | 10/04/2025 |
+| Làm việc với các quỹ xanh quốc tế về nguồn vốn ESG | Anh Bình (Nguồn vốn) | 20/04/2025 |
+
+[14:35] Chào mọi người, tôi là Bình bên bộ phận Nguồn vốn. Về phương án huy động vốn, hiện tại các ngân hàng thương mại trong nước đang thắt chặt tín dụng cho lĩnh vực này. Tôi đang liên hệ với một số quỹ tín dụng xanh quốc tế (như ADB hoặc các quỹ của Đức) để tìm nguồn vốn vay lãi suất thấp. Nếu vay được nguồn này, chi phí tài chính sẽ giảm đáng kể, giúp tăng IRR lên thêm khoảng 1-1.5%. Tuy nhiên, họ đòi hỏi các tiêu chuẩn về môi trường và xã hội (ESG) cực kỳ khắt khe.
+[14:40] Cảm ơn Bình. Chào anh Tuấn, anh đánh giá thế nào về công nghệ turbine mà dự án dự kiến sử dụng? Có phải là các dòng máy đời mới tiết kiệm chi phí bảo trì không? Chào anh Quang, họ đang chọn turbine của Vestas, một thương hiệu hàng đầu thế giới. Hiệu suất rất tốt nhưng chi phí bảo trì định kỳ sau khi hết hạn bảo hành là khá cao. Chúng ta cần tính toán chi phí OPEX (chi phí vận hành) một cách thận trọng hơn trong mô hình của Long.
+[14:45] Chào anh Tuấn, anh Long. Tôi muốn hỏi thêm về vấn đề tỷ giá. Vốn vay bằng ngoại tệ từ các quỹ quốc tế sẽ mang lại rủi ro tỷ giá rất lớn khi doanh thu của chúng ta là tiền đồng (VND). Chúng ta có phương án hedging (phòng vệ) tỷ giá nào không? Chào chị Thủy, chúng ta có thể sử dụng các hợp đồng hoán đổi (swap) hoặc quyền chọn, nhưng chi phí hedging cũng sẽ làm giảm bớt hiệu quả tài chính. Đây là một sự đánh đổi cần cân nhắc.
+
+<|output|>
+# Đánh giá Dự án Đầu tư Năng lượng Tái tạo Ninh Thuận
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tính khả thi về tài chính, kỹ thuật và pháp lý của dự án điện gió kết hợp điện mặt trời tại Ninh Thuận.
+- Nhận diện các rủi ro về truyền tải điện, giải phóng mặt bằng và huy động vốn.
+- Thống nhất các kịch bản tài chính cần tái thẩm định trước khi quyết định đầu tư.
+
+### 2. Các vấn đề đã thảo luận
+- Hiệu quả tài chính: IRR dự kiến 12-14% nhưng có nguy cơ tụt giảm nếu bị cắt giảm công suất do quá tải lưới điện quốc gia.
+- Giải pháp kỹ thuật: Đề xuất lắp đặt hệ thống lưu trữ pin (BESS) để tối ưu hóa dòng tiền và giá bán điện, dù làm tăng vốn đầu tư (CAPEX).
+- Pháp lý và Quy hoạch: Cần xác minh dự án có nằm trong danh mục ưu tiên của Quy hoạch điện VIII hay không.
+- Giải phóng mặt bằng: Còn 10 hộ dân chưa đồng ý đền bù, ảnh hưởng đến vị trí các trụ turbine quan trọng.
+- Nguồn vốn: Khó khăn trong tiếp cận tín dụng trong nước; đề xuất vay vốn từ các quỹ xanh quốc tế với điều kiện ESG khắt khe.
+
+### 3. Kết luận và quyết định
+- Yêu cầu team phân tích chạy lại mô hình tài chính với kịch bản tích hợp BESS, chi phí vận hành thực tế và chi phí phòng vệ tỷ giá.
+- Cử đoàn công tác đi thực địa tại Ninh Thuận để kiểm tra thực trạng giải phóng mặt bằng và làm việc với chính quyền địa phương.
+- Thuê đơn vị tư vấn kỹ thuật độc lập để thẩm định lại dữ liệu khí tượng (gió, bức xạ) và năng lực của chủ đầu tư.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật mô hình tài chính (BESS, OPEX, Hedging) | Anh Long (Phân tích) | 15/04/2025 |
+| Khảo sát thực địa và xác minh pháp lý tại Ninh Thuận | Chị Lan & Anh Minh | 10/04/2025 |
+| Làm việc với các quỹ xanh quốc tế về nguồn vốn ESG | Anh Bình (Nguồn vốn) | 20/04/2025 |
+| Thuê đơn vị tư vấn thẩm định kỹ thuật độc lập | Anh Tuấn (Kỹ thuật) | 05/04/2025 |
+| Rà soát kịch bản cắt giảm công suất lưới điện | Chị Thủy (Rủi ro) | 12/04/2025 |

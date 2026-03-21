@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00:05] Chào anh em team Infra với Security nha. Hôm nay mình ngồi lại để chốt cái giải pháp bảo mật dữ liệu đám mây cho hệ thống ERP mới sắp chuyển lên Cloud của công ty mình.
+[10:01:45] Dạ chào anh. Đợt này mình chuyển từ On-premise lên AWS hoàn toàn nên cái mô hình bảo mật Shared Responsibility là mình phải nắm cực kỳ kỹ đó anh. Phần hạ tầng AWS lo, nhưng phần dữ liệu với cấu hình là trách nhiệm của mình hoàn toàn.
+[10:03:30] Ờ thì đúng rồi, bởi vậy tôi mới gọi mấy ông qua đây. Nam thấy cái phương án dùng CASB (Cloud Access Security Broker) có khả thi cho mình không?
+[10:05:15] Dạ vầy nè anh, CASB thì nó quản lý tốt mấy cái app SaaS, nhưng mình đang làm mảng IaaS với PaaS nhiều hơn. Em đề xuất mình nên tập trung vào cái CSPM (Cloud Security Posture Management) để nó quét mấy cái lỗi cấu hình sai (misconfiguration) trên AWS á anh.
+[10:07:00] CSPM thì hay đó, nhưng mà dữ liệu của mình lưu trên S3 thì sao? Đợt rồi tôi thấy có mấy công ty bị lộ dữ liệu do để S3 bucket public kìa, nhìn mà hãi.
+[10:08:45] Dạ cái đó thì mình dùng IAM policy siết lại là xong thôi anh. Em sẽ áp dụng nguyên tắc "Least Privilege", tức là ai cần gì mới cấp nấy. Ngoài ra, em sẽ bật cái AWS Macie lên để nó tự động dùng AI quét xem có dữ liệu nhạy cảm nào bị để hớ không.
+[10:10:30] Macie thì tốn phí theo dung lượng quét đó nha. Ông phải cân đối ngân sách cho tôi, chứ không sếp tổng soi là mệt lắm.
+[10:12:15] Dạ cái đó em tính rồi, mình chỉ quét mấy cái bucket quan trọng chứa thông tin khách hàng thôi, còn mấy cái chứa log hay ảnh sản phẩm thì không cần đâu anh.
+[10:14:00] Còn vụ mã hóa dữ liệu (Encryption) thì sao? Mình dùng Key của AWS hay mình tự quản lý Key (BYOK)?
+
+<|output|>
+# Giải pháp bảo mật dữ liệu đám mây (Cloud Security) cho hệ thống ERP
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt các giải pháp bảo mật cần thiết khi chuyển đổi hệ thống ERP từ On-premise lên nền tảng đám mây AWS.
+
+### 2. Các vấn đề đã thảo luận
+- **Trách nhiệm bảo mật:** Xác định rõ mô hình Shared Responsibility trên AWS.
+- **Quản lý cấu hình:** Sử dụng CSPM để quét lỗi cấu hình sai và IAM để thực thi nguyên tắc "Least Privilege".
+
+### 3. Kết luận và quyết định
+- Thống nhất bộ khung bảo mật gồm: CSPM, IAM, AWS Macie, AWS KMS, AWS WAF và ZTNA.
+- Lựa chọn giải pháp KMS của AWS thay vì tự quản lý Key (BYOK) để giảm thiểu rủi ro vận hành.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn tài liệu giải pháp bảo mật chi tiết | Nam - Team Security | 22/11/2024 |
+| Khảo sát báo giá giải pháp ZTNA (Zscaler, Cloudflare) | Nam - Team Security | 25/11/2024 |

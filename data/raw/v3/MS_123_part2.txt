@@ -1,0 +1,65 @@
+<|input|>
+# Triển khai mô hình trồng rau thủy canh công nghệ cao
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất kế hoạch triển khai 500m2 mô hình trồng rau thủy canh công nghệ cao.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí đầu tư dự kiến 1,2 tỷ đồng cho 500m2 (bao gồm nhà màng, cảm biến Israel, đèn LED, hệ thống lọc RO).
+- Đề xuất tận dụng nguyên vật liệu trong nước (khung nhà, ống nhựa) để giảm giá thành nhưng vẫn giữ chất lượng cho hệ thống điều khiển.
+- Lựa chọn xà lách (Romaine, Lollo Rosa) và dưa leo baby làm sản phẩm chủ lực do giá trị cao và vòng đời ngắn.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương đầu tư hệ thống thủy canh công nghệ cao với sự kết hợp giữa thiết bị ngoại nhập và gia công nội địa.
+- Cử 02 kỹ thuật viên đi tập huấn chuyên sâu về vận hành hệ thống.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện dự toán chi tiết và báo giá thiết bị | Anh Nam (Phòng Kỹ thuật) | 24/05/2024 |
+| Liên hệ đào tạo nhân sự kỹ thuật | Chị Lan (Phòng Nhân sự) | 28/05/2024 |
+[14:18] Dạ chị, em đã đem mẫu nước đi xét nghiệm rồi. Kết quả cho thấy hàm lượng kim loại nặng hơi cao, nên chắc chắn mình phải lắp thêm hệ thống lọc RO tổng trước khi đưa nước vào bồn chứa dinh dưỡng á.
+[14:20] Ờ, nhớ tính thêm cái chi phí lọc nước đó vô dự toán luôn nha. Chứ rau sạch mà nước không sạch là coi như bỏ đi luôn đó.
+[14:22] Dạ em ghi nhận ạ. Còn về nhân sự, em định cử 2 bạn kỹ thuật viên giỏi nhất của mình đi tập huấn ở trung tâm nông nghiệp công nghệ cao trong vòng 2 tuần để các bạn nắm rõ quy trình vận hành hệ thống.
+[14:24] Ý kiến hay đó Nam. Phải có người hiểu rõ công nghệ thì mới vận hành tốt được. Mà Lan nè, em xem sắp xếp lịch cho mấy bạn đi sớm nha.
+[14:26] Dạ sếp, để em làm việc với bên trung tâm đào tạo xem lịch khóa tới là khi nào rồi báo lại cho Nam.
+[14:28] À còn cái đầu ra nữa sếp ơi. Mình trồng ra rau rồi thì bán ở đâu cho được giá? Chứ đem ra chợ đầu mối thì không cạnh tranh nổi với rau trồng đất đâu.
+[14:30] Về cái này, anh định là mình sẽ ký hợp đồng cung cấp trực tiếp cho 3 chuỗi siêu thị lớn với mấy cửa hàng thực phẩm hữu cơ cao cấp ở trung tâm. Anh đã có trao đổi sơ bộ với họ rồi, họ rất hứng thú với mô hình của mình.
+[14:32] Dạ vầy thì tốt quá rồi anh. Nếu có đầu ra ổn định thì mình yên tâm sản xuất thôi.
+[14:34] Mà Nam nè, em nhớ chú ý cái vụ kiểm soát nhiệt độ trong nhà màng nha. Mùa hè miền mình nóng lắm, nếu không có hệ thống phun sương hay quạt đối lưu tốt là rau nó héo hết đó.
+[14:36] Dạ anh, trong dự toán của em đã bao gồm hệ thống lưới cắt nắng tự động với quạt hút rồi ạ. Khi nhiệt độ lên quá 32 độ là hệ thống sẽ tự kích hoạt quạt với phun sương luôn.
+
+<|output|>
+# Triển khai mô hình trồng rau thủy canh công nghệ cao
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất kế hoạch triển khai 500m2 mô hình trồng rau thủy canh công nghệ cao.
+- Rà soát ngân sách đầu tư, lựa chọn công nghệ và loại cây trồng chủ đạo.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí đầu tư dự kiến 1,2 tỷ đồng cho 500m2 (bao gồm nhà màng, cảm biến Israel, đèn LED, hệ thống lọc RO).
+- Đề xuất tận dụng nguyên vật liệu trong nước (khung nhà, ống nhựa) để giảm giá thành nhưng vẫn giữ chất lượng cho hệ thống điều khiển.
+- Lựa chọn xà lách (Romaine, Lollo Rosa) và dưa leo baby làm sản phẩm chủ lực do giá trị cao và vòng đời ngắn.
+- Nguồn nước giếng khoan cần được xử lý qua hệ thống RO do nhiễm kim loại nặng.
+- Cần đào tạo nhân sự kỹ thuật vận hành hệ thống tại các trung tâm chuyên nghiệp.
+- Chiến lược bán hàng tập trung vào chuỗi siêu thị và cửa hàng thực phẩm hữu cơ cao cấp.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương đầu tư hệ thống thủy canh công nghệ cao với sự kết hợp giữa thiết bị ngoại nhập và gia công nội địa.
+- Cử 02 kỹ thuật viên đi tập huấn chuyên sâu về vận hành hệ thống.
+- Hoàn thiện dự toán chi tiết và gửi duyệt vào thứ Sáu tuần này (24/05/2024).
+- Triển khai lắp đặt hệ thống lọc nước RO tổng cho trang trại.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện dự toán chi tiết và báo giá thiết bị | Anh Nam (Phòng Kỹ thuật) | 24/05/2024 |
+| Liên hệ đào tạo nhân sự kỹ thuật | Chị Lan (Phòng Nhân sự) | 28/05/2024 |
+| Khảo sát và đặt hàng hệ thống lọc nước RO | Anh Nam (Phòng Kỹ thuật) | 30/05/2024 |
+| Làm việc với siêu thị về hợp đồng nguyên tắc | Sếp (Giám đốc) | 05/06/2024 |

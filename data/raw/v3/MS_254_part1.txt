@@ -1,0 +1,53 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:00] Chào các anh chị trong Ban quản lý bệnh viện, hôm nay chúng ta họp để bàn về việc cải thiện quy trình khám chữa bệnh và ứng dụng hồ sơ bệnh án điện tử (EMR) một cách toàn diện. Bác sĩ Thành, ông có thể cho biết tình hình triển khai tại khoa Nội tổng quát hiện nay thế nào không?
+[08:05] Chào Giám đốc Sơn, chào mọi người. Tại khoa Nội, chúng tôi đã bắt đầu nhập dữ liệu trực tiếp lên hệ thống EMR thay vì viết tay. Tuy nhiên, phần mềm hiện tại vẫn còn khá chậm, đặc biệt là vào giờ cao điểm từ 9 giờ đến 11 giờ sáng khi lượng bệnh nhân đông. Việc này khiến các bác sĩ mất nhiều thời gian thao tác máy tính hơn là thăm khám cho bệnh nhân.
+[08:10] Vấn đề này tôi cũng đã nghe phản ánh từ các khoa khác. Chào mọi người, tôi là Hùng bên bộ phận IT. Nguyên nhân là do server hiện tại đang phải xử lý quá nhiều yêu cầu đồng thời, và đường truyền mạng wifi tại một số khu vực trong khoa chưa được ổn định. Chúng tôi đang có kế hoạch nâng cấp băng thông và lắp thêm các bộ phát wifi chuyên dụng trong tháng tới.
+[08:15] Chào anh Hùng, tôi là Tuyết bên bộ phận Điều dưỡng. Ngoài vấn đề tốc độ, tôi thấy giao diện của phần mềm EMR hiện nay chưa thật sự thân thiện với các điều dưỡng khi thực hiện y lệnh. Các nút bấm quá nhỏ và quy trình xác nhận thuốc qua nhiều bước không cần thiết. Chúng tôi cần một giao diện đơn giản hơn, có thể tích hợp quét mã vạch trên vòng tay bệnh nhân để đảm bảo an toàn.
+[08:20] Ý kiến của chị Tuyết rất thực tế. Chào bác sĩ Thành, anh Hùng, chị Tuyết, tôi là Nam bên bộ phận Quản lý chất lượng. Việc tích hợp mã vạch là bắt buộc để giảm thiểu sai sót y khoa. Anh Hùng xem lại khả năng tích hợp phần cứng này vào hệ thống hiện có nhé. Còn về quy trình, bác sĩ Thành và chị Tuyết có thể giúp tôi chuẩn hóa lại các bước thực hiện y lệnh để bộ phận IT chỉnh sửa phần mềm không?
+
+<|output|>
+# Cải tiến quy trình và Triển khai Hồ sơ bệnh án điện tử (EMR)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá thực trạng triển khai hồ sơ bệnh án điện tử (EMR) tại các khoa.
+- Giải quyết các bất cập về hạ tầng kỹ thuật, giao diện phần mềm và quy trình làm việc.
+
+### 2. Các vấn đề đã thảo luận
+- Hiệu suất hệ thống: Phần mềm EMR bị chậm vào giờ cao điểm do quá tải server và sóng wifi yếu.
+- Giao diện người dùng: Giao diện hiện tại khó thao tác đối với điều dưỡng, quy trình thực hiện y lệnh còn rườm rà.
+- An toàn người bệnh: Cần tích hợp công nghệ quét mã vạch trên vòng tay bệnh nhân để kiểm soát việc dùng thuốc.
+
+### 3. Kết luận và quyết định
+- Chọn khoa Nội tổng quát làm đơn vị thí điểm nâng cấp hệ thống và quy trình mới.
+- Nâng cấp băng thông và hệ thống wifi tại các khu vực khám chữa bệnh ngay trong tháng tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nâng cấp hạ tầng Wifi và băng thông mạng | Anh Hùng (IT) | 15/04/2025 |
+| Chuẩn hóa quy trình thực hiện y lệnh | BS Thành & Chị Tuyết | 05/04/2025 |
+| Chỉnh sửa giao diện và tích hợp tính năng mã vạch | Anh Hùng (IT) | 25/04/2025 |
+| Xây dựng kịch bản ứng phó sự cố (DRP) | Anh Hùng (IT) | 10/04/2025 |
+| Soạn tài liệu hướng dẫn quy trình mới cho điều dưỡng | Chị Tuyết (Điều dưỡng) | 20/04/2025 |

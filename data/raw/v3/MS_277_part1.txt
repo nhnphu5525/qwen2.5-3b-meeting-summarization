@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào mọi người, hôm nay Ban quản lý dự án môi trường họp cùng đại diện các đơn vị thu gom rác và chuyên gia kỹ thuật để thảo luận về Đề án phân loại rác tại nguồn và xử lý rác thải bền vững cho khu đô thị phía Nam. Tôi là Hùng, trưởng dự án. Anh Bình, anh có thể tóm tắt thực trạng thu gom rác hiện nay tại khu vực này không?
+[14:05] Chào anh Hùng, chào cả team. Tôi là Bình, đại diện đơn vị vận chuyển. Hiện tại, rác thải tại khu đô thị vẫn đang bị đổ đống hỗn hợp. Mặc dù chúng ta đã bố trí các thùng rác có màu sắc khác nhau, nhưng người dân vẫn chưa có thói quen phân loại. Xe thu gom của chúng tôi cũng là xe chuyên dùng một ngăn, nên dù người dân có phân loại thì khi đổ lên xe cũng lại bị trộn lẫn. Đây là một sự lãng phí tài nguyên rất lớn vì rác hữu cơ chiếm tới 60% tổng lượng rác.
+[14:10] Chào anh Bình, tôi là Lan, chuyên gia về công nghệ môi trường. Nếu chúng ta tách được 60% rác hữu cơ đó ra, chúng ta có thể sản xuất phân bón vi sinh ngay tại trạm xử lý trung gian thay vì mang đi chôn lấp. Chào anh Hùng, tôi đề xuất chúng ta nên thay thế đội xe thu gom bằng loại xe có hai ngăn hoặc chia lịch thu gom rác hữu cơ và rác vô cơ vào các ngày khác nhau trong tuần. Như vậy sẽ tạo ra áp lực buộc người dân phải phân loại đúng ngày.
+[14:15] Chào chị Lan, anh Bình. Tôi là Nam bên bộ phận Truyền thông cộng đồng. Việc thay đổi thói quen của người dân là khó nhất. Tôi đề xuất chiến dịch "Rác là tài nguyên". Chúng ta sẽ phát túi rác chuyên dụng có màu sắc khác nhau cho từng hộ gia đình và tặng quà (như nước rửa chén, khăn giấy) cho những hộ thực hiện tốt việc phân loại. Ngoài ra, cần có sự tham gia của các tổ dân phố và đoàn thanh niên để trực tiếp hướng dẫn tại các điểm tập kết rác.
+
+<|output|>
+# Đề án Phân loại rác tại nguồn và Xử lý rác thải bền vững
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng lộ trình triển khai phân loại rác thải tại nguồn cho khu đô thị phía Nam.
+- Đề xuất các giải pháp kỹ thuật xử lý rác hữu cơ (compost) và tái chế rác vô cơ.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Rác thải bị đổ hỗn hợp gây lãng phí tài nguyên và khó khăn cho xử lý; hạ tầng thu gom (xe một ngăn) chưa phù hợp.
+- Kỹ thuật: Đề xuất thay đổi lịch thu gom riêng biệt cho từng loại rác; lắp đặt trạm ủ phân compost công nghệ khí hóa để xử lý rác hữu cơ tại chỗ.
+- Truyền thông: Chiến dịch "Rác là tài nguyên", phát túi rác chuyên dụng và tặng quà khuyến khích hộ gia đình phân loại đúng.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng trạm ủ phân compost thí điểm tại khu vực công viên khu đô thị.
+- Thay đổi lịch trình và phương thức thu gom: Chia ngày thu gom rác hữu cơ và rác vô cơ riêng biệt.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập dự toán và thiết kế trạm compost khí hóa | Anh Sơn (Kỹ thuật) | 15/04/2025 |
+| Xây dựng lộ trình và lịch thu gom rác riêng biệt | Anh Bình (Vận chuyển) | 01/04/2025 |
+| Lập kế hoạch truyền thông và danh mục quà tặng | Anh Nam (Truyền thông) | 05/04/2025 |
+| Kết nối đối tác doanh nghiệp tái chế xã hội hóa | Chị Thảo (Tài chính) | 10/04/2025 |

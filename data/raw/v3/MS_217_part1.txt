@@ -1,0 +1,62 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Dạ Thôi được rồi, vậy thống nhất là triển khai chuyển đổi số theo hướng đó.
+[09:01] Vụ lãi suất tiền gửi thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:04] Ai sẽ chịu trách nhiệm chính cho mảng tín dụng nhỉ?
+[09:03] Tóm lại Để tôi check lại lịch của bên thẻ tín dụng xem họ rảnh khi nào.
+[09:04] Cái bảo hiểm này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:05] Cần phải làm rõ hơn về thẻ tín dụng trong hợp đồng mới.
+[09:06] Thôi được rồi, vậy thống nhất là triển khai nợ xấu theo hướng đó.
+[09:07] Dạ Đúng rồi, cái lãi suất tiền gửi cần được ưu tiên xử lý trước thứ Sáu này.
+[09:08] Cảm ơn mọi người, cuộc họp về Ngân hàng tạm dừng tại đây.
+[09:18] Thực ra Đúng rồi, cái thẻ tín dụng cần được ưu tiên xử lý trước thứ Sáu này.
+[09:20] Tóm lại Mọi người nghe rõ không? Về cái chuyển đổi số này tôi thấy có vẻ hơi vướng.
+[09:22] Hay là mình thử thay đổi cách tiếp cận với nợ xấu xem sao?
+[09:24] Thôi được rồi, vậy thống nhất là triển khai lãi suất tiền gửi theo hướng đó.
+[09:13] Bên đối tác họ cứ hỏi mãi về nợ xấu, mình phải trả lời sao đây?
+[09:28] Tóm lại Mọi người có ý kiến gì thêm về nợ xấu không?
+[09:15] Mọi người nghe rõ không? Về cái lãi suất tiền gửi này tôi thấy có vẻ hơi vướng.
+[09:32] Ờm Thế thì mình chốt phương án cho tín dụng luôn đi, đừng kéo dài nữa.
+[09:17] Dạ Mọi người nghe rõ không? Về cái tín dụng này tôi thấy có vẻ hơi vướng.
+[09:18] Ai sẽ chịu trách nhiệm chính cho mảng huy động vốn nhỉ?
+[09:38] Mọi người có ý kiến gì thêm về chuyển đổi số không?
+[09:20] Nói chung là Tôi lo nhất là cái chuyển đổi số, tiến độ đang bị khựng lại.
+[09:21] Hình như Về phần ngân sách cho chuyển đổi số, sếp đã duyệt chưa nhỉ?
+
+<|output|>
+# Báo cáo cuộc họp về Ngân hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Ngân hàng hiện tại
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý tín dụng
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho bảo hiểm
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ thẻ tín dụng | Team Technical | 10/04/2026 |

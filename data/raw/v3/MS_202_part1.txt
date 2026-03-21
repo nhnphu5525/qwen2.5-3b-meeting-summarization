@@ -1,0 +1,67 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Tôi đề xuất chốt hạn chót cho học phí là cuối tháng này được không?
+[09:01] Ờm Về phần kỹ năng mềm ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[09:04] Tôi lo là giáo viên sẽ tốn nhiều chi phí hơn dự kiến.
+[09:09] Nói chung là Mọi người cứ thoải mái đóng góp ý kiến về đào tạo từ xa đi.
+[09:12] Hiện tại cái chương trình học đang bị chậm tiến độ một chút vì thiếu người.
+[09:05] À Tôi lo là học phí sẽ tốn nhiều chi phí hơn dự kiến.
+[09:06] À còn một việc nữa là cái đào tạo từ xa, mọi người thấy ổn chưa?
+[09:21] Đúng rồi, tôi cũng nghĩ thế, cái học phí nên được ưu tiên.
+[09:24] Mọi người cứ thoải mái đóng góp ý kiến về chuyển đổi số đi.
+[09:18] Đúng rồi, tôi cũng nghĩ thế, cái kỹ năng mềm nên được ưu tiên.
+[09:10] Để tôi check lại mấy cái số liệu của học sinh rồi báo lại cả nhà sau.
+[09:33] Dạ Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về học sinh.
+[09:36] À còn một việc nữa là cái đào tạo từ xa, mọi người thấy ổn chưa?
+[09:39] À còn một việc nữa là cái đào tạo từ xa, mọi người thấy ổn chưa?
+[09:42] Tôi đề xuất chốt hạn chót cho kỹ năng mềm là cuối tháng này được không?
+[09:15] Cảm ơn mọi người, buổi họp hôm nay về Giáo dục rất hiệu quả.
+[09:32] Hiện tại cái học sinh đang bị chậm tiến độ một chút vì thiếu người.
+[09:34] Tuần tới mình tập trung dứt điểm cái kỹ năng mềm đi cho xong.
+[09:18] Thì Để tôi gửi tài liệu về học phí cho mọi người qua email sau buổi họp.
+[09:57] Mong là lần này đào tạo từ xa sẽ ổn thỏa hơn mấy lần trước.
+[09:40] Cảm ơn mọi người, buổi họp hôm nay về Giáo dục rất hiệu quả.
+[09:42] Tôi thấy vấn đề kỹ năng mềm này quan trọng phết, cần xử lý sớm.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Giáo dục
+- Giải quyết các vướng mắc về chương trình học, giáo viên
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Giáo dục hiện nay
+- Khó khăn trong việc xử lý chương trình học
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Giáo dục
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý học sinh | Anh Nam | 11/11/2026 |
+| Xử lý chương trình học | Anh Nam | 10/10/2026 |
+| Xử lý đào tạo từ xa | Bộ phận Kỹ thuật | 28/01/2026 |

@@ -1,0 +1,44 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00:00] Chào toàn thể anh chị em ban lãnh đạo và các trưởng bộ phận đã có mặt trong buổi Hội nghị tổng kết năm nay. Đây không chỉ là dịp để mình nhìn lại chặng đường 12 tháng vừa qua, mà quan trọng hơn, chúng ta sẽ cùng đặt bút vẽ nên tầm nhìn cho 5 năm tới. Anh Thắng, với tư cách Tổng Giám đốc, anh đánh giá thế nào về bức tranh chung của tập đoàn mình trong năm nay?
+[08:05:30] Cảm ơn anh Minh. Thưa anh và mọi người, năm vừa rồi thực sự là một năm "vượt bão" đúng nghĩa. Dù thị trường có nhiều biến động tiêu cực, nhưng doanh thu hợp nhất của mình vẫn đạt 120% kế hoạch đề ra, tương đương 5.000 tỷ đồng. Đây là nỗ lực cực kỳ lớn của khối kinh doanh và sản xuất. Tuy nhiên, lợi nhuận sau thuế thì chỉ nhích nhẹ 5% do chi phí nguyên liệu đầu vào tăng quá nhanh.
+[08:10:45] Chị Lan ơi, số liệu cụ thể về dòng tiền và các chỉ số tài chính chủ chốt thì sao chị? Anh thấy mình đang đầu tư khá mạnh vào mảng R&D, liệu có ảnh hưởng gì đến tính thanh khoản ngắn hạn không?
+[08:16:15] Dạ anh Minh, về tài chính thì em có thể khẳng định là mình vẫn đang kiểm soát tốt. Dòng tiền từ hoạt động kinh doanh (CFO) luôn dương và đủ để bù đắp cho các hoạt động đầu tư. Đúng là mình đã chi gần 300 tỷ cho R&D trong năm nay, nhưng đây là hạt giống cho tương lai. Chỉ số nợ trên vốn chủ sở hữu vẫn ở mức an toàn là 0.8. Tuy nhiên, em lưu ý anh Thắng là khoản nợ phải thu từ các đại lý miền Trung đang có xu hướng nợ quá hạn tăng lên, mình cần có biện pháp thu hồi quyết liệt hơn trong quý I tới ạ.
+
+<|output|>
+# Hội nghị tổng kết năm và định hướng phát triển 5 năm (2024-2029)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Tổng kết tình hình kinh doanh, tài chính, sản xuất, marketing và IT trong năm vừa qua.
+
+### 2. Các vấn đề đã thảo luận
+- Báo cáo năm cũ:
+
+### 3. Kết luận và quyết định
+- Chốt mục tiêu doanh thu 15.000 tỷ đồng vào năm 2029.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Strategic Map 2024-2029 chi tiết | Anh Thắng - Tổng Giám đốc | 15/01/2025 |
+| Lập đề án đầu tư hạ tầng Private Cloud | Anh Dũng - Giám đốc IT | 30/01/2025 |

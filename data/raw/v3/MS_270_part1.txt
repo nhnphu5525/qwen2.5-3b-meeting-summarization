@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:00] Chào các anh chị đại diện các cơ quan y tế và các chuyên gia chính sách. Hôm nay chúng ta họp để thảo luận về dự thảo Đề án quy hoạch mạng lưới y tế quốc gia tầm nhìn đến năm 2045. Mục tiêu là xây dựng một hệ thống y tế công bằng, chất lượng và hiện đại, đáp ứng nhu cầu chăm sóc sức khỏe ngày càng cao của nhân dân. Bác sĩ Hùng, ông có nhận xét gì về thực trạng phân bổ nguồn lực y tế hiện nay không?
+[08:05] Chào Bộ trưởng, chào các đồng nghiệp. Tôi là Hùng. Thực trạng đáng ngại nhất hiện nay là sự mất cân đối trầm trọng giữa y tế tuyến trung ương và y tế cơ sở. Các bệnh viện tuyến cuối luôn trong tình trạng quá tải, trong khi các trạm y tế xã phường lại thiếu thốn cả về trang thiết bị lẫn nhân lực chất lượng cao. Người dân chưa tin tưởng vào y tế cơ sở nên hễ ốm đau là dồn lên tuyến trên, gây lãng phí nguồn lực xã hội và áp lực lớn cho đội ngũ y bác sĩ tuyến đầu.
+[08:10] Chào bác sĩ Hùng, tôi là Lan bên bộ phận Kế hoạch - Tài chính. Để giải quyết vấn đề này, dự thảo đề xuất gói đầu tư 50.000 tỷ đồng tập trung nâng cấp cơ sở hạ tầng cho y tế cơ sở và phát triển mô hình bác sĩ gia đình. Tuy nhiên, tiền bạc chỉ là một phần, vấn đề quan trọng là cơ chế chi trả bảo hiểm y tế (BHYT) phải thay đổi theo hướng khuyến khích người dân khám chữa bệnh tại nơi cư trú. Chúng ta cần tăng danh mục thuốc và kỹ thuật được bảo hiểm thanh toán tại tuyến xã.
+
+<|output|>
+# Đề án Quy hoạch Mạng lưới Y tế Quốc gia tầm nhìn 2045
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và đóng góp ý kiến cho dự thảo đề án quy hoạch y tế quốc gia dài hạn.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Hệ thống y tế cơ sở yếu kém dẫn đến quá tải trầm trọng tại các bệnh viện tuyến trung ương.
+- Đầu tư và Tài chính: Đề xuất gói 50.000 tỷ đồng nâng cấp hạ tầng y tế xã phường; cải cách cơ chế chi trả BHYT để khuyến khích khám chữa bệnh tại cơ sở.
+- Chuyển đổi số: Triển khai Telehealth và hồ sơ sức khỏe điện tử (EHR) liên thông toàn quốc để tối ưu hóa quy trình điều trị.
+
+### 3. Kết luận và quyết định
+- Ưu tiên cao nhất cho việc hiện đại hóa y tế cơ sở và thay đổi chính sách bảo hiểm để giảm tải cho tuyến trên.
+- Phê duyệt chủ trương xây dựng khung kiến trúc y tế điện tử quốc gia làm nền tảng cho quản lý và điều trị.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Rà soát và hoàn thiện dự toán ngân sách 50.000 tỷ | Chị Lan (Kế hoạch) | 15/04/2025 |
+| Xây dựng khung kiến trúc Y tế điện tử và EHR | Anh Nam (CNTT) | 30/04/2025 |
+| Đề xuất bảng lương và phụ cấp mới cho ngành y | Anh Minh (TCCB) | 20/05/2025 |

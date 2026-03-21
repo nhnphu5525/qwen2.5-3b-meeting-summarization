@@ -1,0 +1,80 @@
+<|input|>
+# Chuyển đổi văn hóa doanh nghiệp: Từ truyền thống sang Agile và Số hóa
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hướng chiến lược chuyển đổi văn hóa doanh nghiệp giai đoạn 2024-2029.
+- Phá bỏ tư duy cũ, giảm bớt sự chồng chéo trong quy trình ra quyết định.
+- Xây dựng môi trường làm việc số hóa, minh bạch, chủ động và linh hoạt (Agile).
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Hệ thống phân cấp cồng kềnh gây chậm trễ trong việc ra quyết định, làm mất cơ hội kinh doanh.
+- Nhân sự: Nhân viên trẻ có xu hướng thích làm việc theo kết quả (OKR) thay vì quản lý thời gian. Lo ngại về sự phản kháng từ nhóm cán bộ lâu năm.
+- Giải pháp văn hóa: Xây dựng Sổ tay văn hóa mới (Culture Playbook) với các giá trị cốt lõi: Tôn trọng, Minh bạch, Tốc độ.
+- Đào tạo & Truyền thông: Tổ chức Workshop cho cấp quản lý. Đề xuất làm không gian mở phá vách ngăn.
+
+### 3. Kết luận và quyết định
+- Triển khai thí điểm mô hình Agile tại 3 bộ phận: Marketing, R&D và IT trước khi nhân rộng.
+- Quyết định phá bỏ vách ngăn, thiết kế không gian làm việc mở.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo Sổ tay văn hóa (Culture Playbook) | Phòng Nhân sự | 10/06/2024 |
+| Thiết kế lại không gian làm việc văn phòng | Phòng Hành chính | 30/06/2024 |
+| Tổ chức Workshop "Lãnh đạo chuyển đổi" | Ban chuyển đổi | 15/06/2024 |
+[08:24] Hoàn toàn nhất trí. Song song đó, hệ thống lương thưởng cũng phải thay đổi. Phải có chế độ thưởng nóng cho những sáng kiến cải tiến quy trình hoặc những dự án vượt tiến độ. Mình phải nuôi dưỡng cái tinh thần "Intrapreneurship" - tinh thần khởi nghiệp ngay trong chính doanh nghiệp của mình.
+[08:27] Còn vụ công nghệ thì sao? Muốn linh hoạt mà quy trình vẫn làm trên giấy tờ, ký sống thì chịu chết. Mình phải số hóa 100% quy trình phê duyệt nội bộ. Từ xin nghỉ phép đến đề xuất kinh phí, tất cả phải thực hiện trên app của công ty.
+[08:30] Dạ, team IT em đang phát triển cái nền tảng "One-Stop-Platform" rồi ạ. Dự kiến tháng sau sẽ bắt đầu cho test ở khối văn phòng. Toàn bộ dữ liệu sẽ được lưu trữ tập trung, ai có thẩm quyền là có thể truy cập và duyệt ngay trên điện thoại, dù đang ở đâu đi chăng nữa.
+[08:33] Tốt lắm. Thế còn vấn đề truyền thông nội bộ? Chúng ta phải làm sao để mọi nhân viên, từ bác bảo vệ đến chị lao công, đều hiểu và đồng lòng với cuộc chuyển dịch này?
+[08:36] Dạ, em định sẽ làm một chuỗi video ngắn (Shorts) để giới thiệu về văn hóa mới một cách hài hước và dễ hiểu. Mình cũng sẽ tổ chức các buổi "Town hall meeting" định kỳ hằng tháng để ban lãnh đạo đối thoại trực tiếp với nhân viên, giải đáp mọi thắc mắc và lo ngại của họ.
+[08:39] Buổi Town hall là cần thiết đó. Minh bạch là chìa khóa của niềm tin. Ngoài ra, mình cũng cần bổ sung thêm tiêu chí "Sống cùng giá trị văn hóa" vào bảng đánh giá năng lực hằng năm của nhân viên. Ai không phù hợp, dù giỏi chuyên môn nhưng toxic và cản trở sự thay đổi thì cũng phải kiên quyết mời ra khỏi hệ thống.
+[08:42] Cái này hơi gắt, nhưng đúng là cần thiết để bảo vệ môi trường chung. Tuy nhiên, mình cũng phải có lộ trình đào tạo lại cho những người muốn thay đổi nhưng chưa biết cách. Đừng để ai bị bỏ lại phía sau nếu họ thực sự có tâm huyết.
+[08:45] Đồng ý. Vậy chốt lại các đầu việc chính: 1. Thành lập Ban chuyển đổi văn hóa; 2. Xây dựng Culture Playbook; 3. Triển khai Workshop cho lãnh đạo; 4. Số hóa quy trình; 5. Thay đổi không gian làm việc.
+[08:48] Dạ thưa sếp, còn vụ ngân sách cho mảng này thì sao ạ? Thay đổi không gian làm việc và thuê tư vấn đào tạo chắc chắn sẽ tốn một khoản không nhỏ.
+[08:51] Tôi sẽ duyệt gói ngân sách đặc biệt 2 tỷ cho giai đoạn khởi động này. Đây là khoản đầu tư cho tương lai, không phải chi phí. Mọi người cứ làm quyết liệt đi, tôi sẽ trực tiếp giám sát tiến độ hằng tuần.
+[08:54] Dạ vâng, chúng em đã rõ ạ. Cuối tuần sau em sẽ gửi bản kế hoạch chi tiết kèm timeline cụ thể cho từng hạng mục nha sếp.
+[08:57] OK, chúng ta bắt đầu cuộc cách mạng này thôi. Chúc mọi người sức khỏe và quyết tâm cao độ. Tan họp.
+
+<|output|>
+# Chuyển đổi văn hóa doanh nghiệp: Từ truyền thống sang Agile và Số hóa
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hướng chiến lược chuyển đổi văn hóa doanh nghiệp giai đoạn 2024-2029.
+- Phá bỏ tư duy cũ, giảm bớt sự chồng chéo trong quy trình ra quyết định.
+- Xây dựng môi trường làm việc số hóa, minh bạch, chủ động và linh hoạt (Agile).
+- Thống nhất các hành động cụ thể và phân bổ nguồn lực cho quá trình chuyển đổi.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Hệ thống phân cấp cồng kềnh gây chậm trễ trong việc ra quyết định, làm mất cơ hội kinh doanh.
+- Nhân sự: Nhân viên trẻ có xu hướng thích làm việc theo kết quả (OKR) thay vì quản lý thời gian. Lo ngại về sự phản kháng từ nhóm cán bộ lâu năm.
+- Giải pháp văn hóa: Xây dựng Sổ tay văn hóa mới (Culture Playbook) với các giá trị cốt lõi: Tôn trọng, Minh bạch, Tốc độ.
+- Giải pháp hạ tầng: Phá bỏ vách ngăn, thiết kế không gian làm việc mở (Open space) và số hóa 100% quy trình nội bộ qua ứng dụng di động.
+- Đào tạo & Truyền thông: Tổ chức Workshop cho cấp quản lý, tổ chức Town hall meeting định kỳ và sản xuất nội dung truyền thông nội bộ sáng tạo.
+- Cơ chế lương thưởng: Áp dụng thưởng nóng cho sáng kiến, tích hợp giá trị văn hóa vào đánh giá năng lực nhân viên.
+
+### 3. Kết luận và quyết định
+- Thành lập Ban chuyển đổi văn hóa do Tổng giám đốc trực tiếp giám sát.
+- Triển khai thí điểm mô hình Agile tại 3 bộ phận: Marketing, R&D và IT trước khi nhân rộng.
+- Phê duyệt ngân sách 2 tỷ đồng cho giai đoạn khởi động dự án.
+- Kiên quyết loại bỏ những cá nhân gây độc hại cho môi trường làm việc dù có chuyên môn tốt.
+- Chốt lộ trình số hóa quy trình phê duyệt nội bộ, bắt đầu thử nghiệm từ tháng sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thành lập Ban chuyển đổi văn hóa | Ban Tổng giám đốc | 25/05/2024 |
+| Soạn thảo Sổ tay văn hóa (Culture Playbook) | Phòng Nhân sự | 10/06/2024 |
+| Thiết kế lại không gian làm việc văn phòng | Phòng Hành chính | 30/06/2024 |
+| Hoàn thiện app phê duyệt quy trình nội bộ | Phòng IT | 20/06/2024 |
+| Tổ chức Workshop "Lãnh đạo chuyển đổi" | Ban chuyển đổi | 15/06/2024 |
+| Lên kịch bản video truyền thông nội bộ | Phòng Marketing | 01/06/2024 |
+| Xây dựng hệ thống OKR thay thế KPIs cũ | Phòng Nhân sự | 15/07/2024 |
+| Tổ chức buổi Town hall đầu tiên | Ban chuyển đổi | 05/06/2024 |
+| Lập báo cáo dự toán chi tiết ngân sách 2 tỷ | Phòng Tài chính | 28/05/2024 |
+| Đánh giá kết quả thí điểm tại 3 bộ phận | Ban chuyển đổi | 30/08/2024 |

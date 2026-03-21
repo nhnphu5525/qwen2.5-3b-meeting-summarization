@@ -1,0 +1,67 @@
+<|input|>
+# Dự án lắp đặt hệ thống điện mặt trời áp mái 1MWp cho nhà xưởng số 2
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xem xét báo giá và phương án kỹ thuật lắp đặt hệ thống điện mặt trời.
+- Đánh giá hiệu quả đầu tư (ROI) và giải pháp kỹ thuật phù hợp.
+
+### 2. Các vấn đề đã thảo luận
+- Quy mô hệ thống: 1MWp với tổng mức đầu tư dự kiến 12 tỷ đồng.
+- ROI: Hoàn vốn sau 4.5 năm nếu tự dùng toàn bộ điện; áp dụng giải pháp Zero-Export do chính sách bán điện dư chưa rõ ràng.
+- Kỹ thuật: Đề xuất sử dụng pin N-type (Jinko/Longi) bảo hành 25 năm và bộ điều khiển thông minh tự động giảm công suất.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương đầu tư hệ thống 1MWp theo phương thức Zero-Export.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[10:16] Còn vấn đề mái nhà xưởng thì sao? Anh nhớ xưởng số 2 xây cũng lâu rồi, liệu nó có chịu nổi tải trọng của cả nghìn tấm pin không?
+[10:18] Cái này em đã cho bên kiểm định kết cấu vào đo đạc rồi ạ. Mái tôn hiện tại hơi mỏng, cần phải gia cố thêm hệ thống xà gồ ở một số vị trí xung yếu. Chi phí gia cố này khoảng 300 triệu, em đã tính gộp vào cái 12 tỷ kia rồi.
+[10:20] Ờ... 300 triệu gia cố mái là hợp lý. Linh check lại với bên ngân hàng xem mình có gói tín dụng xanh nào lãi suất ưu đãi không? Anh nghe nói nhiều ngân hàng đang hỗ trợ vay 70-80% cho dự án điện mặt trời đấy.
+[10:22] Dạ, em đang làm việc với BIDV và HSBC. Phía HSBC họ có gói tín dụng xanh lãi suất chỉ 6%/năm, thấp hơn mặt bằng chung 2%. Nhưng họ yêu cầu mình phải có chứng chỉ LEED hoặc báo cáo đánh giá tác động môi trường khá khắt khe.
+[10:24] HSBC lãi suất tốt đấy, mình cố gắng hoàn thiện hồ sơ theo yêu cầu của họ. Bình lên cái kế hoạch thi công chi tiết đi. Nếu ký hợp đồng trong tháng này thì liệu tết âm lịch mình có điện dùng chưa?
+[10:26] Dạ, thi công thì nhanh thôi anh, khoảng 45 ngày là xong. Nhưng khâu xin phép đấu nối với điện lực địa phương và nghiệm thu phòng cháy chữa cháy (PCCC) mới lâu. Em dự kiến sớm nhất cũng phải cuối tháng 2 năm sau mới đóng điện được.
+[10:28] Vấn đề PCCC dạo này gắt lắm, em phải làm cực kỳ chuẩn chỉ ngay từ bản vẽ thiết kế nhé. Đừng để đến lúc lắp xong rồi họ vào không duyệt thì mệt.
+[10:30] Vâng anh, em đã thuê đơn vị tư vấn PCCC chuyên nghiệp rồi ạ. Họ cam kết bao trọn gói khâu nghiệm thu cho mình.
+[10:32] OK, vậy chốt nhé. Linh lo phần hồ sơ vay vốn, Bình lo phần kỹ thuật và chọn nhà thầu cuối cùng. Thứ 6 tuần sau báo cáo lại anh lần nữa để mình trình Hội đồng Quản trị ký duyệt.
+[10:34] Dạ rõ thưa anh.
+[10:36] Tan họp. Chào mọi người.
+
+<|output|>
+# Dự án lắp đặt hệ thống điện mặt trời áp mái 1MWp cho nhà xưởng số 2
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xem xét báo giá và phương án kỹ thuật lắp đặt hệ thống điện mặt trời.
+- Đánh giá hiệu quả đầu tư (ROI) và khả năng vay vốn ưu đãi (tín dụng xanh).
+- Thống nhất các vấn đề về kết cấu mái, an toàn PCCC và thủ tục pháp lý với điện lực.
+
+### 2. Các vấn đề đã thảo luận
+- Quy mô hệ thống: 1MWp với tổng mức đầu tư dự kiến 12 tỷ đồng.
+- ROI: Hoàn vốn sau 4.5 năm nếu tự dùng toàn bộ điện; áp dụng giải pháp Zero-Export do chính sách bán điện dư chưa rõ ràng.
+- Kỹ thuật: Sử dụng pin N-type (Jinko/Longi) bảo hành 25 năm; cần chi 300 triệu gia cố kết cấu mái xưởng số 2.
+- Tài chính: Đàm phán vay vốn tín dụng xanh từ HSBC (lãi suất 6%) hoặc BIDV.
+- Pháp lý: Cần chú trọng đặc biệt vào nghiệm thu PCCC và hồ sơ đấu nối điện lực địa phương.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương đầu tư hệ thống 1MWp theo phương thức Zero-Export.
+- Ưu tiên làm việc với HSBC để lấy lãi suất ưu đãi, yêu cầu bộ phận kế toán hoàn thiện hồ sơ chứng chỉ môi trường.
+- Thuê đơn vị tư vấn PCCC chuyên nghiệp để đảm bảo nghiệm thu đúng quy định.
+- Dự kiến đóng điện vận hành chính thức vào cuối tháng 02/2025.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ vay vốn tín dụng xanh HSBC | Linh (Kế toán) | 10/12/2024 |
+| So sánh kỹ thuật và chốt nhà thầu thi công cuối cùng | Bình (Kỹ thuật) | 05/12/2024 |
+| Làm việc với đơn vị kiểm định và lên phương án gia cố mái | Bình (Kỹ thuật) | 15/12/2024 |
+| Nộp hồ sơ xin phép đấu nối với điện lực Bình Dương | Team Dự án | 20/12/2024 |
+| Chuẩn bị báo cáo trình Hội đồng Quản trị ký duyệt | Anh Bình | 08/12/2024 |
+| Ký hợp đồng với đơn vị tư vấn nghiệm thu PCCC | Linh (Kế toán) | 12/12/2024 |

@@ -1,0 +1,55 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00] Chào anh chị em phòng Nhân sự. Hôm nay chúng ta họp để thảo luận về việc thay đổi chính sách tuyển dụng và phúc lợi cho năm sau.
+[10:02] Hiện tại tỉ lệ nhân viên nghỉ việc (turnover rate) ở khối kỹ thuật đang khá cao, lên tới 18%. Chúng ta cần tìm hiểu xem tại sao họ lại rời đi nhiều như vậy.
+[10:04] Theo em phỏng vấn nghỉ việc, đa số các bạn kỹ sư trẻ phàn nàn về lộ trình thăng tiến không rõ ràng và môi trường làm việc còn hơi gò bó.
+[10:06] Ngoài ra, mức lương của mình hiện tại chỉ đang ở mức trung bình so với thị trường (P50), trong khi các công ty đối thủ đang đẩy lên P75.
+[10:08] Nếu mình tăng lương đồng loạt thì quỹ lương sẽ vỡ mất. Mình nên cân nhắc tăng vào các khoản phụ cấp hoặc thưởng KPI thì hơn.
+[10:10] Em đề xuất mình bổ sung thêm gói bảo hiểm sức khỏe cao cấp cho nhân viên làm việc trên 2 năm. Đây là cái mà các bạn rất quan tâm.
+[10:12] Còn về tuyển dụng, em thấy quy trình 4 vòng phỏng vấn như hiện tại là quá dài. Nhiều ứng viên giỏi họ nhận được offer từ công ty khác trước khi mình kịp phản hồi.
+[10:14] Đúng rồi, mình nên rút gọn lại còn tối đa 2 vòng: 1 vòng test kỹ thuật và 1 vòng phỏng vấn trực tiếp với quản lý trực tiếp.
+[10:16] Để thu hút nhân tài, mình có nên triển khai chương trình "Employee Referral" (Nhân viên giới thiệu ứng viên) không anh?
+[10:18] Cái này rất nên làm. Nếu giới thiệu thành công một vị trí Senior, mình có thể thưởng từ 5-10 triệu đồng cho người giới thiệu.
+
+<|output|>
+# Thay đổi chính sách tuyển dụng và phúc lợi năm tới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân tỉ lệ nhân viên nghỉ việc cao ở khối kỹ thuật.
+- Cải thiện chính sách đãi ngộ, phúc lợi để thu hút và giữ chân nhân tài.
+- Tối ưu hóa quy trình tuyển dụng để tăng tính cạnh tranh trên thị trường.
+
+### 2. Các vấn đề đã thảo luận
+- Tỉ lệ nghỉ việc khối kỹ thuật là 18% do lộ trình thăng tiến chưa rõ và lương chưa cạnh tranh (P50).
+- Quy trình tuyển dụng hiện tại (4 vòng) quá chậm, làm mất nhiều ứng viên tiềm năng.
+- Đề xuất tăng phúc lợi qua bảo hiểm sức khỏe cao cấp và chương trình thưởng giới thiệu ứng viên (5-10 triệu).
+
+### 3. Kết luận và quyết định
+- Rút gọn quy trình tuyển dụng xuống tối đa 2 vòng phỏng vấn.
+- Triển khai chương trình "Employee Referral" và gói bảo hiểm sức khỏe cho nhân viên thâm niên trên 2 năm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo quy trình tuyển dụng 2 vòng mới | Team Tuyển dụng | 25/03 |
+| Tính toán ngân sách bảo hiểm và thưởng referral | Bộ phận C&B | 30/03 |

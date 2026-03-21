@@ -1,0 +1,65 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:30] Chào mọi người, hôm nay team QC họp để xử lý lô hàng áo khoác xuất khẩu đi Mỹ bị lỗi đường may nhăn tại nách áo.
+[08:32] Tỷ lệ lỗi trong đợt kiểm tra xác suất vừa rồi lên đến 8%, vượt xa mức cho phép là 1.5%.
+[08:35] Tôi đã kiểm tra lại máy may ở chuyền số 5, có vẻ như lực căng chỉ đang bị chỉnh quá chặt đối với loại vải gió mới này.
+[08:38] Ngoài ra, kim may mình đang dùng là size 14, có lẽ hơi to nên làm vải bị rút lại sau khi may xong.
+[08:41] Anh Tuấn ơi, anh xem lại giúp em khâu đào tạo công nhân, nhiều bạn mới vào chưa quen với tính chất co giãn của loại vải này nên kéo tay hơi mạnh.
+[08:44] Đúng đó, tôi sẽ cho dừng chuyền 5 trong một buổi sáng để kỹ thuật chỉnh lại toàn bộ máy và hướng dẫn lại thao tác cho anh em.
+[08:47] Còn lô hàng 2000 chiếc đã may xong thì sao? Mình có thể sửa (rework) được không hay phải hủy bỏ hoàn toàn?
+[08:50] May mắn là chỉ bị nhăn đường may, mình có thể tháo ra may lại được nhưng sẽ tốn khá nhiều công và ảnh hưởng đến tiến độ giao hàng.
+[08:53] Chị Linh liên hệ ngay với đối tác bên Mỹ để giải thích tình hình và xin gia hạn ngày xuất tàu thêm 3 ngày nhé.
+[08:56] Vâng, em sẽ cố gắng thuyết phục họ. Mong là họ thông cảm vì đây là lần đầu mình làm loại vải này.
+[08:59] Team QC phải tăng cường giám sát 100% sản phẩm ra khỏi chuyền trong tuần tới, không được để lọt thêm một chiếc lỗi nào nữa.
+[09:02] Chốt lại: Chỉnh máy, thay kim nhỏ hơn, đào tạo lại công nhân và tập trung nhân lực để rework lô hàng lỗi.
+
+<|output|>
+# Xử lý sự cố chất lượng lô hàng áo khoác xuất khẩu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân và đưa ra giải pháp khắc phục lỗi đường may nhăn trên sản phẩm áo khoác.
+- Đảm bảo tiến độ giao hàng và uy tín với đối tác quốc tế.
+
+### 2. Các vấn đề đã thảo luận
+- Tỷ lệ lỗi sản phẩm vượt mức cho phép (8% so với 1.5%).
+- Nguyên nhân kỹ thuật: lực căng chỉ không phù hợp và kích cỡ kim may quá lớn đối với vải gió.
+- Nguyên nhân con người: công nhân mới chưa quen thao tác trên chất liệu vải mới.
+- Phương án xử lý lô hàng lỗi: tháo và may lại (rework) để tận dụng sản phẩm.
+- Nguy cơ trễ hạn giao hàng và nhu cầu đàm phán gia hạn thời gian xuất tàu.
+- Cần thắt chặt quy trình kiểm soát chất lượng tại chuyền sản xuất.
+
+### 3. Kết luận và quyết định
+- Tạm dừng sản xuất tại chuyền lỗi để hiệu chỉnh thiết bị và đào tạo lại nhân sự.
+- Chuyển sang sử dụng kim may size nhỏ hơn để phù hợp với chất liệu vải.
+- Tập trung nhân lực bộ phận rework để hoàn thiện lại lô hàng bị lỗi.
+- Đàm phán với khách hàng về việc chậm chuyến tàu do sự cố kỹ thuật.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hiệu chỉnh máy và thay kim may phù hợp | Anh Tuấn | 18/03/2026 |
+| Đào tạo lại thao tác may cho công nhân mới | Quản đốc xưởng | 19/03/2026 |
+| Đàm phán gia hạn giao hàng với đối tác | Chị Linh | 19/03/2026 |
+| Kiểm soát chất lượng 100% sản phẩm đầu ra | Phòng QC | 25/03/2026 |
+| Hoàn thành việc sửa chữa lô hàng 2000 chiếc | Tổ Rework | 22/03/2026 |

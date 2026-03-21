@@ -1,0 +1,70 @@
+<|input|>
+# Giải pháp bảo mật dữ liệu đám mây (Cloud Security) cho hệ thống ERP
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt các giải pháp bảo mật cần thiết khi chuyển đổi hệ thống ERP từ On-premise lên nền tảng đám mây AWS.
+- Phân bổ nhiệm vụ cho team Infrastructure (Infra) và Security để đảm bảo an toàn dữ liệu và tuân thủ các tiêu chuẩn bảo mật.
+
+### 2. Các vấn đề đã thảo luận
+- **Trách nhiệm bảo mật:** Xác định rõ mô hình Shared Responsibility trên AWS.
+- **Quản lý cấu hình:** Sử dụng CSPM để quét lỗi cấu hình sai và IAM để thực thi nguyên tắc "Least Privilege".
+- **Bảo vệ dữ liệu:** Bật AWS Macie để quét dữ liệu nhạy cảm trên S3 (chỉ áp dụng cho các bucket quan trọng). Sử dụng AWS KMS để quản lý mã hóa dữ liệu.
+- **Truy cập từ xa:** Thay thế VPN truyền thống bằng giải pháp Zero Trust Network Access (ZTNA) để tăng tốc độ và tính bảo mật khi nhân viên làm việc từ xa.
+
+### 3. Kết luận và quyết định
+- Thống nhất bộ khung bảo mật gồm: CSPM, IAM, AWS Macie, AWS KMS, AWS WAF và ZTNA.
+- Lựa chọn giải pháp KMS của AWS thay vì tự quản lý Key (BYOK) để giảm thiểu rủi ro vận hành.
+- Giao bộ phận Security khảo sát báo giá các nhà cung cấp ZTNA và SIEM phù hợp với ngân sách công ty.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn tài liệu giải pháp bảo mật chi tiết | Nam - Team Security | 22/11/2024 |
+| Khảo sát báo giá giải pháp ZTNA (Zscaler, Cloudflare) | Nam - Team Security | 25/11/2024 |
+| Cấu hình IAM policy và KMS trên môi trường Staging | Tuấn - Team Infra | 26/11/2024 |
+| Đánh giá ngân sách sử dụng AWS Macie và WAF | Nam - Team Security | 23/11/2024 |
+[10:31:30] SIEM thì dùng cái gì? Đừng bảo tôi là dùng Splunk nha, tiền đâu mà trả cho nổi.
+[10:33:15] Dạ em tính dùng ELK Stack (Elasticsearch, Logstash, Kibana) mình tự dựng lên Cloud luôn cho nó rẻ, hoặc dùng dịch vụ Managed của bên thứ 3 nào đó giá mềm tí. Để em khảo sát thêm vụ này.
+[10:35:00] Ừ, khảo sát sớm đi. Cuối tháng này là mình bắt đầu migrate dữ liệu rồi đó. Không có Security là tôi không cho chạy đâu.
+[10:36:45] Dạ anh yên tâm, tụi em sẽ làm ngày làm đêm để kịp tiến độ. Mà anh nhớ duyệt cho tụi em ít trà sữa lấy động lực nha.
+[10:38:30] Cha nội này lúc nào cũng trà sữa. Rồi, làm tốt đi rồi tôi bao cả team một chầu buffet luôn.
+[10:40:15] Dạ em cảm ơn anh trước ạ. Để em bắt tay vào soạn cái tài liệu giải pháp chi tiết gửi anh duyệt vào thứ Sáu này.
+[10:42:00] Ok, chốt vậy nha. Mọi người cố gắng phối hợp chặt chẽ, đừng để hổng chỗ nào. Cloud là nó "nhạy" lắm á.
+[10:43:45] Dạ vâng ạ, chào anh.
+
+<|output|>
+# Giải pháp bảo mật dữ liệu đám mây (Cloud Security) cho hệ thống ERP
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt các giải pháp bảo mật cần thiết khi chuyển đổi hệ thống ERP từ On-premise lên nền tảng đám mây AWS.
+- Phân bổ nhiệm vụ cho team Infrastructure (Infra) và Security để đảm bảo an toàn dữ liệu và tuân thủ các tiêu chuẩn bảo mật.
+- Cân đối giữa tính an toàn, hiệu quả vận hành và ngân sách triển khai.
+
+### 2. Các vấn đề đã thảo luận
+- **Trách nhiệm bảo mật:** Xác định rõ mô hình Shared Responsibility trên AWS.
+- **Quản lý cấu hình:** Sử dụng CSPM để quét lỗi cấu hình sai và IAM để thực thi nguyên tắc "Least Privilege".
+- **Bảo vệ dữ liệu:** Bật AWS Macie để quét dữ liệu nhạy cảm trên S3 (chỉ áp dụng cho các bucket quan trọng). Sử dụng AWS KMS để quản lý mã hóa dữ liệu.
+- **Truy cập từ xa:** Thay thế VPN truyền thống bằng giải pháp Zero Trust Network Access (ZTNA) để tăng tốc độ và tính bảo mật khi nhân viên làm việc từ xa.
+- **Bảo vệ tầng ứng dụng:** Triển khai AWS WAF để ngăn chặn các cuộc tấn công phổ biến như SQL Injection, XSS.
+- **Giám sát và phân tích:** Xây dựng hệ thống SIEM dựa trên ELK Stack hoặc dịch vụ bên thứ 3 để tập trung hóa log và cảnh báo rủi ro thời gian thực.
+
+### 3. Kết luận và quyết định
+- Thống nhất bộ khung bảo mật gồm: CSPM, IAM, AWS Macie, AWS KMS, AWS WAF và ZTNA.
+- Lựa chọn giải pháp KMS của AWS thay vì tự quản lý Key (BYOK) để giảm thiểu rủi ro vận hành.
+- Giao bộ phận Security khảo sát báo giá các nhà cung cấp ZTNA và SIEM phù hợp với ngân sách công ty.
+- Yêu cầu hoàn thiện tài liệu giải pháp chi tiết vào thứ Sáu tuần này để sếp duyệt trước khi bắt đầu di chuyển dữ liệu (Migration).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn tài liệu giải pháp bảo mật chi tiết | Nam - Team Security | 22/11/2024 |
+| Khảo sát báo giá giải pháp ZTNA (Zscaler, Cloudflare) | Nam - Team Security | 25/11/2024 |
+| Cấu hình IAM policy và KMS trên môi trường Staging | Tuấn - Team Infra | 26/11/2024 |
+| Đánh giá ngân sách sử dụng AWS Macie và WAF | Nam - Team Security | 23/11/2024 |
+| Xây dựng POC cho hệ thống SIEM (ELK Stack) | Tuấn - Team Infra | 30/11/2024 |

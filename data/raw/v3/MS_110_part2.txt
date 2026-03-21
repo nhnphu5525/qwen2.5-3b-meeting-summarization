@@ -1,0 +1,75 @@
+<|input|>
+# Phòng chống tấn công Ransomware và tăng cường an ninh mạng tập đoàn
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Ứng cụ khẩn cấp với rủi ro lây lan Ransomware từ công ty đối tác.
+- Rà soát toàn diện lỗ hổng bảo mật hệ thống.
+
+### 2. Các vấn đề đã thảo luận
+- Sự cố đối tác: Đối tác chiến lược bị mã hóa dữ liệu, công ty đã ngắt kết nối VPN/API để cách ly.
+- Sao lưu dữ liệu: Cần kiểm tra tính toàn vẹn của các bản backup.
+- Tường lửa: Xuất hiện nhiều đợt port scan từ dải IP nước ngoài, cần cấu hình chặn ngay lập tức.
+- Hạ tầng cũ: Tồn tại 5 server Windows 2012 lỗi thời tại chi nhánh miền Trung, tiềm ẩn lỗ hổng nghiêm trọng.
+
+### 3. Kết luận và quyết định
+- Cô lập hoàn toàn các server cũ vào vùng mạng VLAN riêng và lên kế hoạch thay thế.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ngắt kết nối và cô lập server Windows 2012 | Chú Nam | 11/01/2026 |
+[08:33] Ờ... còn cái vụ nhận thức của nhân viên (User Awareness) thì sao? Anh thấy nhiều người vẫn cứ bấm vào link lạ trong email.
+[08:34] Dạ sếp nói đúng, tuần trước em có chạy thử một chiến dịch Phishing giả lập mà vẫn có tới 20% nhân viên bị "dính bẫy".
+[08:36] 20% là con số quá cao. Chỉ cần một người bấm vào thôi là cả tập đoàn "đi đời".
+[08:37] Anh muốn mình tổ chức một đợt đào tạo an ninh mạng bắt buộc cho toàn bộ nhân viên, từ bảo vệ đến sếp tổng.
+[08:39] Ai không hoàn thành bài test sau đào tạo là phải trừ điểm thi đua, thậm chí là kỷ luật.
+[08:40] Dạ vâng, em sẽ phối hợp với bên Nhân sự để triển khai cái này trong tháng tới.
+[08:42] Tiện đây em cũng đề xuất mình triển khai giải pháp EDR (Endpoint Detection and Response) cho toàn bộ máy tính cá nhân.
+[08:43] Phần mềm diệt virus truyền thống giờ không ăn thua với mấy loại mã độc tống tiền thế hệ mới đâu sếp.
+[08:45] Ngân sách cho EDR tầm bao nhiêu?
+[08:46] Dạ khoảng 2 tỷ mỗi năm cho 5.000 máy tính ạ.
+[08:48] 2 tỷ để bảo vệ khối tài sản hàng nghìn tỷ thì vẫn là quá rẻ. Chú làm đề xuất gửi anh ký ngay chiều nay.
+[08:49] Dạ em cảm ơn sếp đã ủng hộ.
+[08:51] Thế còn vụ mật khẩu thì sao? Nhiều bạn vẫn để mật khẩu là "123456" hay "abc@123" kìa.
+[08:52] Anh yêu cầu ép buộc đổi mật khẩu 3 tháng một lần, yêu cầu ít nhất 12 ký tự có cả ký tự đặc biệt.
+[08:54] Và đặc biệt là phải bật xác thực 2 yếu tố (2FA) cho tất cả các tài khoản quan trọng, nhất là email và admin.
+[08:55] Vâng, em đã cấu hình ép buộc 2FA trên hệ thống AD rồi, ai chưa bật là sẽ không vào được mạng từ ngày mai.
+[08:57] Tốt, làm quyết liệt như vậy mới được. Đừng để "mất bò mới lo làm chuồng".
+[08:58] Dạ sếp, em cũng muốn hỏi về việc thuê bên thứ ba vào đánh giá an ninh (Penetration Testing) định kỳ.
+[09:00] Cái đó nên làm. Chú tìm hiểu mấy đơn vị uy tín như VNPT hay Viettel xem họ báo giá thế nào.
+[09:01] Mỗi năm mình nên Pentest ít nhất một lần để tìm lỗ hổng trước khi hacker tìm ra.
+[09:03] Dạ vâng, em sẽ liên hệ lấy báo giá ngay.
+
+<|output|>
+# Phòng chống tấn công Ransomware và tăng cường an ninh mạng tập đoàn
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Ứng phó khẩn cấp với rủi ro lây lan Ransomware từ công ty đối tác.
+- Rà soát toàn diện lỗ hổng bảo mật hệ thống và nâng cao quản lý kỹ thuật.
+- Triển khai các giải pháp bảo mật kỹ thuật và đào tạo nhận thức nhân viên.
+
+### 2. Các vấn đề đã thảo luận
+- Sự cố đối tác: Đối tác chiến lược bị mã hóa dữ liệu, công ty đã ngắt kết nối VPN/API để cách ly.
+- Sao lưu dữ liệu: Cần kiểm tra tính toàn vẹn của backup.
+- Tường lửa: Xuất hiện nhiều đợt port scan từ dải IP nước ngoài, cần cấu hình chặn ngay lập tức.
+- Hạ tầng cũ: Tồn tại 5 server Windows 2012 lỗi thời tại chi nhánh miền Trung, tiềm ẩn lỗ hổng nghiêm trọng.
+- Nhận thức nhân viên: Tỷ lệ "dính bẫy" Phishing giả lập lên tới 20%, cần đào tạo lại bắt buộc.
+- Giải pháp kỹ thuật: Đề xuất thay thế Antivirus truyền thống bằng hệ thống EDR; áp dụng xác thực 2 yếu tố (2FA) toàn diện.
+- Quản trị mật khẩu: Đặt mật khẩu yếu cần được cải thiện.
+
+### 3. Kết luận và quyết định
+- Cô lập hoàn toàn các server cũ vào vùng mạng VLAN riêng và lên kế hoạch thay thế.
+- Phê duyệt ngân sách 2 tỷ đồng triển khai giải pháp EDR cho toàn bộ 5.000 máy tính.
+- Ép buộc sử dụng 2FA và đổi mật khẩu phức tạp đối với mọi tài khoản hệ thống từ ngày mai.
+- Thuê đơn vị bên thứ ba (VNPT/Viettel) thực hiện đánh giá an ninh (Pentest) định kỳ hàng năm.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ngắt kết nối và cô lập server Windows 2012 | Chú Nam | 11/01/2026 |
+| Hoàn thiện đề xuất mua giải pháp EDR | Team IT Security | 11/01/2026 |
+| Triển khai cấu hình 2FA bắt buộc trên AD | Admin hệ thống | 12/01/2026 |
+| Soạn chương trình đào tạo an ninh mạng cho nhân viên | Phòng IT & Nhân sự | 20/01/2026 |
+| Liên hệ báo giá Pentest từ các đối tác viễn thông | Chú Nam | 15/01/2026 |

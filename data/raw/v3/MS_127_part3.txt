@@ -1,0 +1,76 @@
+<|input|>
+# Giải quyết nút thắt cổ chai trong dây chuyền đóng gói
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xử lý tình trạng ùn ứ hàng hóa tại khâu đóng gói do lỗi kỹ thuật và quy trình vận hành.
+- Thống nhất các giải pháp ngắn hạn (trong 3 ngày tới) và dài hạn để tối ưu hóa năng suất.
+
+### 2. Các vấn đề đã thảo luận
+- Máy đóng màng co tự động số 2 thường xuyên bị kẹt màng (dừng 1 tiếng mỗi ca).
+- Nguyên nhân do màng co mới nhập mỏng hơn 2 micron, không tương thích với thông số máy hiện tại.
+- Khâu xếp pallet thủ công chậm do băng tải ngắn và thiếu nhân sự.
+- Việc đổi nhà cung cấp màng co để tiết kiệm chi phí gây ra tác dụng ngược, làm giảm năng suất.
+
+### 3. Kết luận và quyết định
+- Ngừng sử dụng loại màng co mỏng không đạt chuẩn, liên hệ nhà cung cấp cũ để giao hàng loại chuẩn ngay lập tức (chịu phí vận chuyển nhanh).
+- Trả hàng và xem xét phạt vi phạm chất lượng đối với nhà cung cấp màng co không đạt yêu cầu.
+- Huy động nhân sự từ bộ phận kho và sơ chế sang hỗ trợ đóng gói thủ công trong 3 ngày tới.
+- Cho phép công nhân khâu đóng gói tăng ca thêm 2 tiếng mỗi ngày, đảm bảo chế độ lương và suất ăn bổ sung.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ nhà cung cấp cũ đặt màng co chuẩn | Chị Lan (Phòng Thu mua) | 22/05/2024 |
+| Điều động nhân sự hỗ trợ và sắp xếp tăng ca | Chị Lan (Phòng Nhân sự) | 22/05/2024 |
+| Thi công nối dài băng tải khâu đóng gói | Anh Hùng (Phòng Kỹ thuật) | 22/05/2024 |
+| Làm việc với nhà cung cấp màng co mới về việc trả hàng | Chị Lan (Phòng Thu mua) | 24/05/2024 |
+[09:04] Dạ vâng sếp, nối dài băng tải thì tụi em làm được liền. Còn cái vụ màng co, chị Lan gọi điện cho nhà cung cấp cũ yêu cầu họ giao hàng khẩn cấp ngay sáng mai được không chị? Bảo họ mình chịu thêm phí vận chuyển nhanh cũng được.
+[09:06] Để chị gọi liền. Hy vọng là họ còn hàng sẵn trong kho. À sếp ơi, nếu mình quay lại nhà cung cấp cũ thì cái hợp đồng với bên màng co mỏng này mình xử lý sao ạ? Họ mới giao có một nửa số lượng thôi.
+[09:08] Trả hàng! Bảo họ là hàng không đạt tiêu chuẩn kỹ thuật làm hỏng máy móc của mình. Bên pháp chế xem lại điều khoản phạt vi phạm chất lượng cho anh luôn. Làm ăn kiểu này mất thời gian quá.
+[09:10] Dạ em rõ rồi ạ. Để em báo bên thu mua làm việc lại với họ.
+[09:12] Chốt lại nha: 1. Đổi màng co về loại cũ. 2. Điều động nhân sự hỗ trợ đóng gói thủ công trong 3 ngày tới. 3. Tăng ca khâu đóng gói. 4. Nối dài băng tải trong đêm nay. 5. Làm hồ sơ mua robot xếp pallet.
+[09:14] Dạ sếp. Em sẽ bám sát anh em kỹ thuật để hoàn thành cái băng tải trong đêm nay. Sáng mai hàng ra là có chỗ chứa liền.
+[09:16] Lan nhớ tính toán phần cơm thêm với nước uống cho anh em tăng ca nha. Đừng để anh em đói mệt là họ làm sai sót đó.
+[09:18] Dạ sếp yên tâm, em đã đặt suất ăn công nghiệp tăng thêm rồi ạ.
+[09:20] Ok, mọi người bắt tay vô làm đi. 3 ngày tới là cao điểm đó, cố gắng đừng để sót đơn hàng nào của khách nha.
+[09:22] Dạ sếp! Tụi em đi triển khai liền đây ạ.
+[09:24] Ờ, đi đi. Có gì khó khăn cứ alo trực tiếp cho anh.
+
+<|output|>
+# Giải quyết nút thắt cổ chai trong dây chuyền đóng gói
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xử lý tình trạng ùn ứ hàng hóa tại khâu đóng gói do lỗi kỹ thuật và quy trình vận hành.
+- Thống nhất các giải pháp ngắn hạn (trong 3 ngày tới) và dài hạn để tối ưu hóa năng suất.
+- Đảm bảo tiến độ giao hàng cho khách không bị đình trệ.
+
+### 2. Các vấn đề đã thảo luận
+- Máy đóng màng co tự động số 2 thường xuyên bị kẹt màng (dừng 1 tiếng mỗi ca).
+- Nguyên nhân do màng co mới nhập mỏng hơn 2 micron, không tương thích với thông số máy hiện tại.
+- Khâu xếp pallet thủ công chậm do băng tải ngắn và thiếu nhân sự.
+- Việc đổi nhà cung cấp màng co để tiết kiệm chi phí gây ra tác dụng ngược, làm giảm năng suất.
+- Thiếu hụt nhân sự tại khâu đóng gói khi khối lượng hàng tăng cao.
+
+### 3. Kết luận và quyết định
+- Ngừng sử dụng loại màng co mỏng không đạt chuẩn, liên hệ nhà cung cấp cũ để giao hàng loại chuẩn ngay lập tức (chịu phí vận chuyển nhanh).
+- Trả hàng và xem xét phạt vi phạm chất lượng đối với nhà cung cấp màng co không đạt yêu cầu.
+- Huy động nhân sự từ bộ phận kho và sơ chế sang hỗ trợ đóng gói thủ công trong 3 ngày tới.
+- Cho phép công nhân khâu đóng gói tăng ca thêm 2 tiếng mỗi ngày, đảm bảo chế độ lương và suất ăn bổ sung.
+- Tiến hành nối dài băng tải thêm 2 mét ngay trong đêm nay để tăng không gian chứa hàng chờ xếp pallet.
+- Phê duyệt chủ trương mua sắm tay robot xếp pallet tự động để đầu tư trong quý tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ nhà cung cấp cũ đặt màng co chuẩn | Chị Lan (Phòng Thu mua) | 22/05/2024 |
+| Điều động nhân sự hỗ trợ và sắp xếp tăng ca | Chị Lan (Phòng Nhân sự) | 22/05/2024 |
+| Thi công nối dài băng tải khâu đóng gói | Anh Hùng (Phòng Kỹ thuật) | 22/05/2024 |
+| Làm việc với nhà cung cấp màng co mới về việc trả hàng | Chị Lan (Phòng Thu mua) | 24/05/2024 |
+| Hoàn thiện hồ sơ trình duyệt mua robot xếp pallet | Anh Hùng (Phòng Kỹ thuật) | 05/06/2024 |
+| Giám sát năng suất và báo cáo tình hình ùn ứ hàng ngày | Quản lý xưởng | Duy trì hàng ngày |

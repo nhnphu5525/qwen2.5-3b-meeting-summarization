@@ -1,0 +1,53 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào tất cả các thầy cô và cán bộ quản lý, hôm nay chúng ta tập trung tại đây để thảo luận về kế hoạch đổi mới phương pháp giảng dạy và ứng dụng công nghệ thông tin trong năm học tới.
+[14:03] Tôi thấy rằng phương pháp dạy học truyền thống "đọc - chép" đã không còn phù hợp với thế hệ học sinh Gen Z và Gen Alpha hiện nay. Các em cần sự tương tác và tính ứng dụng cao hơn.
+[14:06] Đúng vậy, qua khảo sát gần đây, có đến 70% học sinh cảm thấy bài giảng lý thuyết thuần túy khá nhàm chán. Các em mong muốn được tham gia vào các dự án thực tế hơn.
+[14:09] Tôi đề xuất chúng ta nên triển khai mạnh mẽ mô hình "Lớp học đảo ngược" (Flipped Classroom). Học sinh sẽ xem bài giảng video ở nhà và dành thời gian trên lớp để thảo luận, giải quyết vấn đề.
+[14:12] Ý tưởng đó rất hay, nhưng chúng ta cần chuẩn bị một kho học liệu số chất lượng cao. Việc này đòi hỏi các thầy cô phải dành nhiều thời gian để biên tập nội dung và quay video.
+[14:15] Nhà trường sẽ hỗ trợ trang thiết bị tại studio và có đội ngũ kỹ thuật giúp đỡ các thầy cô trong việc hậu kỳ video. Chúng ta cũng có thể mua bản quyền một số học liệu quốc tế để tham khảo.
+[14:18] Ngoài ra, tôi muốn nhấn mạnh vào việc ứng dụng AI trong giáo dục. Hiện nay các công cụ như ChatGPT hay Gemini có thể hỗ trợ giáo viên soạn giáo án và chấm bài rất nhanh.
+[14:21] Nhưng làm sao để kiểm soát việc học sinh lạm dụng AI để làm bài tập về nhà? Đây là một vấn đề nan giải đối với nhiều cơ sở giáo dục hiện nay.
+[14:24] Thay vì cấm đoán, chúng ta nên dạy các em cách sử dụng AI như một công cụ hỗ trợ tư duy. Các đề bài kiểm tra cũng cần thay đổi theo hướng mở, yêu cầu phân tích và sáng tạo thay vì chỉ kiểm tra kiến thức có sẵn trên mạng.
+
+<|output|>
+# Đổi mới phương pháp giảng dạy và ứng dụng công nghệ trong giáo dục
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về việc đổi mới phương pháp giảng dạy để phù hợp với thế hệ học sinh mới.
+
+### 2. Các vấn đề đã thảo luận
+- Sự lạc hậu của phương pháp giảng dạy truyền thống và nhu cầu tương tác của học sinh.
+- Triển khai mô hình "Lớp học đảo ngược" và xây dựng kho học liệu số.
+- Ứng dụng AI (ChatGPT, Gemini) trong soạn giáo án và hỗ trợ học tập.
+
+### 3. Kết luận và quyết định
+- Thí điểm đổi mới phương pháp giảng dạy tại khối lớp 10 và 11 trong học kỳ tới.
+- Nâng cấp toàn bộ hệ thống Wi-Fi tại các khu vực học tập.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nâng cấp hạ tầng Wi-Fi 6 | Phòng Hành chính quản trị | 30/05/2024 |
+| Xây dựng dự toán kinh phí EdTech | Phòng Kế toán | 10/04/2024 |

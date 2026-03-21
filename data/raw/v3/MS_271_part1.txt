@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào mọi người, hôm nay bộ phận Vận tải họp cùng phòng Kinh doanh và đại diện Kho lạnh để thảo luận về việc tối ưu hóa quy trình chuỗi cung ứng lạnh (Cold Chain) cho các mặt hàng hải sản xuất khẩu. Thời gian qua, chúng ta ghi nhận một số lô hàng bị giảm chất lượng khi đến cảng đích. Anh Bình, anh đã kiểm tra hệ thống cảm biến nhiệt độ trên các xe container chưa?
+[09:05] Chào chị Mai, chào cả team. Tôi là Bình, phụ trách kỹ thuật đội xe. Hệ thống cảm biến vẫn hoạt động, nhưng vấn đề nằm ở khâu bốc xếp hàng hóa. Nhiều khi tài xế và công nhân kho để cửa container mở quá lâu trong quá trình chất hàng, khiến nhiệt độ bên trong tăng vọt lên mức -5 độ C trước khi xe khởi hành, trong khi yêu cầu bảo quản là -20 độ C. Hệ thống làm lạnh của xe phải mất rất nhiều thời gian mới kéo nhiệt độ xuống lại được, điều này ảnh hưởng trực tiếp đến độ tươi của hải sản.
+[09:10] Chào anh Bình, tôi là Lan bên phòng Kinh doanh. Khách hàng tại Nhật rất khắt khe về biểu đồ nhiệt độ (temperature log). Nếu họ thấy có đoạn nào nhiệt độ biến động quá lớn, họ sẽ từ chối nhận hàng ngay lập tức. Tôi đề xuất chúng ta cần trang bị thêm các thiết bị ghi nhiệt độ độc lập (Data Logger) đặt bên trong từng kiện hàng thay vì chỉ dựa vào cảm biến của xe. Như vậy chúng ta sẽ có bằng chứng khách quan hơn nếu xảy ra tranh chấp.
+[09:15] Chào chị Lan, anh Bình. Tôi là Quốc, quản lý kho lạnh. Để giải quyết vấn đề thất thoát nhiệt khi bốc xếp, tôi đề nghị lắp đặt hệ thống "Dock Leveler" và bạt che (Dock Seal) tại các cửa kho. Như vậy, thùng container sẽ được kết nối kín khít với cửa kho lạnh, không cho hơi lạnh thoát ra ngoài và ngăn khí nóng xâm nhập. Ngoài ra, công nhân cần được đào tạo lại về quy trình "Pre-cooling" (làm lạnh sơ bộ) cho thùng xe trước khi chất hàng.
+
+<|output|>
+# Tối ưu hóa Chuỗi cung ứng lạnh (Cold Chain) cho Hải sản Xuất khẩu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân giảm chất lượng hải sản trong quá trình vận chuyển lạnh.
+- Đề xuất các giải pháp kỹ thuật và quy trình để đảm bảo nhiệt độ ổn định suốt chuỗi cung ứng.
+
+### 2. Các vấn đề đã thảo luận
+- Thất thoát nhiệt: Cửa container mở lâu khi bốc xếp khiến nhiệt độ tăng cao, gây hại cho sản phẩm hải sản đông lạnh.
+- Giám sát: Hệ thống cảm biến hiện tại chưa đủ chi tiết; cần Data Logger cho từng kiện hàng và giám sát realtime qua GPS.
+- Hạ tầng kho: Thiếu hệ thống bạt che (Dock Seal) khiến việc kết nối giữa kho và xe không đảm bảo kín khít.
+
+### 3. Kết luận và quyết định
+- Đầu tư lắp đặt hệ thống Dock Seal tại các cửa kho lạnh để ngăn thất thoát nhiệt.
+- Trang bị thiết bị ghi nhiệt độ độc lập (Data Logger) cho các lô hàng xuất khẩu yêu cầu cao.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lắp đặt hệ thống Dock Seal và bạt che cửa kho | Anh Quốc (Quản lý kho) | 10/04/2025 |
+| Triển khai app giám sát nhiệt độ realtime cho tài xế | Anh Bình (Kỹ thuật) & IT | 05/04/2025 |
+| Tìm kiếm đối tác cung cấp Data Logger uy tín | Chị Lan (Kinh doanh) | 30/03/2025 |
+| Cập nhật điều khoản bồi thường vào hợp đồng vận tải | Anh Minh (Pháp chế) | 02/04/2025 |

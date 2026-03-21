@@ -1,0 +1,46 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00:00] Chào buổi sáng mọi người. Hôm nay là một buổi họp cực kỳ quan trọng, có thể nói là bước ngoặt của tập đoàn mình trong 5 năm tới. Chúng ta sẽ thảo luận chi tiết về kế hoạch thâm nhập thị trường Đông Nam Á, cụ thể là hai "ông lớn" Thái Lan và Indonesia. Hà ơi, em bắt đầu bằng cái nhìn tổng quan về chiến lược lần này đi.
+[09:02:15] Dạ anh Sơn. Thưa anh và các anh chị, sau 2 năm thống trị thị trường nội địa, việc vươn ra biển lớn là tất yếu. Thái Lan và Indonesia được chọn vì có cơ cấu dân số tương đồng và sức mua đang tăng trưởng rất mạnh trong mảng thực phẩm chế biến sẵn của mình. Tuy nhiên, mỗi thị trường lại có những "rào cản" rất riêng mà chúng ta cần bóc tách hôm nay.
+[09:04:30] Tuấn nè, em đã có kết quả khảo sát hành vi người tiêu dùng ở Bangkok với Jakarta chưa? Họ thích khẩu vị thế nào? Có khác nhiều so với dân mình không?
+[09:06:45] Dạ vầy nè anh Sơn, báo cáo nghiên cứu thị trường của em cho thấy dân Thái họ cực kỳ chuộng vị chua cay nhưng phải có chút ngọt hậu, hơn nữa họ rất quan tâm đến bao bì, phải thật "màu mè" và bắt mắt. Trong khi đó, ở Indonesia, yếu tố quan trọng nhất lại là chứng chỉ Halal. Hơn 85% dân số là người Hồi giáo nên nếu không có logo Halal trên bao bì thì coi như mình cầm chắc phần thất bại rồi anh ạ.
+[09:09:00] Halal hả? Linh bên Pháp chế thấy vụ này sao? Mình xin cấp chứng chỉ đó ở Việt Nam hay phải sang tận bển mới làm được?
+[09:11:15] Dạ anh Sơn, chứng chỉ Halal mình có thể xin tại các tổ chức được quốc tế công nhận ở Việt Nam. Tuy nhiên, quy trình kiểm định cực kỳ khắt khe, từ nguồn nguyên liệu đầu vào cho đến dây chuyền sản xuất phải tách biệt hoàn toàn. Em đang nghiên cứu kỹ cái Luật JPH của Indonesia, họ mới có những quy định mới về dán nhãn Halal bắt buộc từ năm 2024 này đó anh. Mình phải hết sức cẩn thận chỗ này.
+
+<|output|>
+# Kế hoạch thâm nhập thị trường Đông Nam Á (Thái Lan & Indonesia)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất chiến lược thâm nhập thị trường Thái Lan và Indonesia cho mảng thực phẩm chế biến.
+
+### 2. Các vấn đề đã thảo luận
+- Nghiên cứu thị trường:
+
+### 3. Kết luận và quyết định
+- Chốt lộ trình: Có mặt tại kệ siêu thị Thái Lan vào cuối quý IV năm nay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đàm phán MOU với đối tác Central Group (Thái Lan) | Chị Hà - Giám đốc chiến lược | 15/07/2024 |
+| Đăng ký bảo hộ nhãn hiệu và chứng chỉ Halal | Linh - Phòng Pháp chế | 30/07/2024 |

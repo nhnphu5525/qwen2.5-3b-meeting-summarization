@@ -1,0 +1,85 @@
+<|input|>
+# Kế hoạch mua lại và sáp nhập (M&A) đối thủ Alpha
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận chiến lược thâu tóm công ty Alpha - đối thủ cạnh tranh lớn nhất trên thị trường.
+- Phân tích các cơ hội, thách thức, rủi ro tài chính và pháp lý liên quan đến thương vụ M&A.
+- Thiết lập lộ trình thực hiện, phân công các nhóm thẩm định (Due Diligence) và chuẩn bị phương án hội nhập sau sáp nhập (PMI).
+
+### 2. Các vấn đề đã thảo luận
+- **Lý do chiến lược:** Tăng thị phần lên mức áp đảo (60%), sở hữu hệ thống phân phối mạnh tại miền Bắc/miền Trung và tiếp nhận công nghệ sản xuất hiện đại của đối thủ.
+- **Thực trạng đối tác:** Alpha đang gặp khó khăn về dòng tiền và nợ vay ngân hàng lớn nhưng sở hữu tài sản cố định và thương hiệu có giá trị cao.
+- **Định giá và Tài chính:** Dự kiến mức giá mua lại khoảng 60.000 - 65.000đ/cổ phiếu (tổng trị giá hơn 2.000 tỷ đồng). Phương án tài trợ vốn kết hợp giữa vốn tự có, vay hợp vốn ngân hàng và phát hành trái phiếu/cổ phiếu.
+- **Rủi ro Pháp lý:** Nguy cơ vi phạm Luật cạnh tranh do chiếm thị phần thống lĩnh. Cần đội ngũ luật sư và truyền thông chuyên nghiệp để xử lý.
+- **Văn hóa và Nhân sự:** Sự khác biệt lớn về văn hóa quản lý giữa hai công ty. Cần có lộ trình hội nhập dần dần và chính sách giữ chân nhân sự cốt cán.
+- **Quản trị rủi ro:** Đề phòng sự can thiệp của các đối thủ khác (như tập đoàn Beta) và rủi ro rò rỉ thông tin gây biến động giá cổ phiếu.
+
+### 3. Kết luận và quyết định
+- Chính thức khởi động dự án M&A mã hiệu "Dự án Alpha".
+- Thành lập 4 nhóm thẩm định chi tiết (DD): Tài chính, Pháp lý, Kỹ thuật và Nhân sự với thời hạn báo cáo trong vòng 2 tuần.
+- Giao bộ phận Tài chính làm việc với các ngân hàng để chốt phương án vay vốn và cơ cấu nguồn tiền.
+- Chấp nhận phương án giữ song song hai thương hiệu trong giai đoạn đầu để ổn định tệp khách hàng.
+- Tuyệt đối bảo mật thông tin thương vụ; mọi tài liệu phải được quản lý và đặt mật khẩu nghiêm ngặt.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tiếp cận và đàm phán sơ bộ với Chủ tịch công ty Alpha | Anh Long | 20/10/2023 |
+| Thành lập và triển khai 4 nhóm thẩm định (DD) chi tiết | Hải (Chiến lược) | 25/10/2023 |
+| Chốt phương án vay hợp vốn và cơ cấu tài chính cho thương vụ | Lan (Tài chính) | 05/11/2023 |
+| Thẩm định rủi ro pháp lý và Luật cạnh tranh | Bộ phận Pháp chế | 30/10/2023 |
+| Xây dựng kế hoạch truyền thông và xử lý khủng hoảng | Bộ phận Marketing | 10/11/2023 |
+| Soạn thảo phương án hội nhập nhân sự và văn hóa (PMI) | Sơn (HR) | 15/11/2023 |
+| Tổng hợp kết quả DD và trình Ban Giám đốc phê duyệt ký MOU | Cả team | 20/11/2023 |
+[10:33:55] Tốt! Hải phối hợp với bên Alpha để thu thập thêm dữ liệu về tệp khách hàng và mạng lưới nhà cung cấp của họ nha. Anh muốn thấy một bức tranh toàn cảnh về sự cộng hưởng doanh thu sau khi về chung một nhà.
+[10:35:20] Dạ em rõ rồi anh. Em sẽ làm một cái slide mô phỏng doanh thu và lợi nhuận hợp nhất trong 3 năm tới để trình sếp xem. Nhìn vào mấy con số đó chắc chắn sếp sẽ có thêm động lực để "chốt deal" này.
+[10:36:45] Ừ, làm cho nó hoành tráng xíu nha. Mà nhớ là phải bảo mật tuyệt đối. Ai để lộ tin này ra ngoài là anh kỷ luật nặng đó, không có nể nang gì đâu. Làm việc trong phòng kín, file tài liệu phải đặt mật khẩu hết cho anh.
+[10:38:10] Dạ tụi em biết mà anh. Chuyện lớn thế này ai mà dám đùa. Thôi, giờ tụi em bắt tay vào việc luôn đây. Lan qua phòng anh lấy cái bộ hồ sơ sơ bộ của Alpha mà anh mới lấy được nè.
+[10:39:35] Dạ vâng, em qua liền. Sẵn tiện em bàn thêm với anh về cái cấu trúc nợ vay luôn.
+[10:41:00] OK. Buổi họp hôm nay kết thúc ở đây nha. Cảm ơn Hải, cảm ơn Lan, cảm ơn Sơn. Thương vụ này mà thành công thì anh hứa sẽ có một kỳ nghỉ mát hoành tráng cho cả team tại Maldives luôn!
+[10:42:25] Oa, Maldives luôn hả anh? Nghe phê quá! Tụi em sẽ cố hết sức để được đi Maldives đây!
+[10:43:50] Hứa là làm nha anh! Thôi tụi em đi "cày" đây. Chào anh.
+[10:45:15] Chào mấy đứa. Cố gắng lên!
+
+<|output|>
+# Kế hoạch mua lại và sáp nhập (M&A) đối thủ Alpha
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận chiến lược thâu tóm công ty Alpha - đối thủ cạnh tranh lớn nhất trên thị trường.
+- Phân tích các cơ hội, thách thức, rủi ro tài chính và pháp lý liên quan đến thương vụ M&A.
+- Thiết lập lộ trình thực hiện, phân công các nhóm thẩm định (Due Diligence) và chuẩn bị phương án hội nhập sau sáp nhập (PMI).
+
+### 2. Các vấn đề đã thảo luận
+- **Lý do chiến lược:** Tăng thị phần lên mức áp đảo (60%), sở hữu hệ thống phân phối mạnh tại miền Bắc/miền Trung và tiếp nhận công nghệ sản xuất hiện đại của đối thủ.
+- **Thực trạng đối tác:** Alpha đang gặp khó khăn về dòng tiền và nợ vay ngân hàng lớn nhưng sở hữu tài sản cố định và thương hiệu có giá trị cao.
+- **Định giá và Tài chính:** Dự kiến mức giá mua lại khoảng 60.000 - 65.000đ/cổ phiếu (tổng trị giá hơn 2.000 tỷ đồng). Phương án tài trợ vốn kết hợp giữa vốn tự có, vay hợp vốn ngân hàng và phát hành trái phiếu/cổ phiếu.
+- **Rủi ro Pháp lý:** Nguy cơ vi phạm Luật cạnh tranh do chiếm thị phần thống lĩnh. Cần đội ngũ luật sư và truyền thông chuyên nghiệp để xử lý.
+- **Văn hóa và Nhân sự:** Sự khác biệt lớn về văn hóa quản lý giữa hai công ty. Cần có lộ trình hội nhập dần dần và chính sách giữ chân nhân sự cốt cán.
+- **Quản trị rủi ro:** Đề phòng sự can thiệp của các đối thủ khác (như tập đoàn Beta) và rủi ro rò rỉ thông tin gây biến động giá cổ phiếu.
+- **Kỹ thuật và Vận hành:** Cần thẩm định kỹ tình trạng máy móc, bằng sáng chế và tính ổn định của hệ thống sản xuất.
+
+### 3. Kết luận và quyết định
+- Chính thức khởi động dự án M&A mã hiệu "Dự án Alpha".
+- Thành lập 4 nhóm thẩm định chi tiết (DD): Tài chính, Pháp lý, Kỹ thuật và Nhân sự với thời hạn báo cáo trong vòng 2 tuần.
+- Giao bộ phận Tài chính làm việc với các ngân hàng để chốt phương án vay vốn và cơ cấu nguồn tiền.
+- Chấp nhận phương án giữ song song hai thương hiệu trong giai đoạn đầu để ổn định tệp khách hàng.
+- Tuyệt đối bảo mật thông tin thương vụ; mọi tài liệu phải được quản lý và đặt mật khẩu nghiêm ngặt.
+- Đặt mục tiêu hoàn tất việc ký kết và sáp nhập vào cuối Quý 1 năm sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tiếp cận và đàm phán sơ bộ với Chủ tịch công ty Alpha | Anh Long | 20/10/2023 |
+| Thành lập và triển khai 4 nhóm thẩm định (DD) chi tiết | Hải (Chiến lược) | 25/10/2023 |
+| Chốt phương án vay hợp vốn và cơ cấu tài chính cho thương vụ | Lan (Tài chính) | 05/11/2023 |
+| Thẩm định rủi ro pháp lý và Luật cạnh tranh | Bộ phận Pháp chế | 30/10/2023 |
+| Xây dựng kế hoạch truyền thông và xử lý khủng hoảng | Bộ phận Marketing | 10/11/2023 |
+| Soạn thảo phương án hội nhập nhân sự và văn hóa (PMI) | Sơn (HR) | 15/11/2023 |
+| Tổng hợp kết quả DD và trình Ban Giám đốc phê duyệt ký MOU | Cả team | 20/11/2023 |
+| Thực hiện các thủ tục pháp lý để hoàn tất sáp nhập | Ban M&A | 31/03/2024 |

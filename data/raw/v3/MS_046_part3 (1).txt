@@ -1,0 +1,80 @@
+<|input|>
+# Họp giao ban tiến độ và an toàn công trường dự án The Grand Elite - Tuần 48
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng chậm tiến độ 10 ngày tại khối tháp A.
+- Rà soát công tác an toàn lao động sau các phản ánh tiêu cực.
+- Thống nhất phương án xử lý vật tư không đạt chất lượng (đá Granite).
+- Giải quyết các vấn đề về nhân sự và tài chính (lương thợ).
+
+### 2. Các vấn đề đã thảo luận
+- **Tiến độ:** Chậm 10 ngày do thời tiết xấu và chậm cung ứng thép. Đề xuất thi công "cuốn chiếu" hoàn thiện song song với phần thô.
+- **Vật tư:** 15% đá Granite mặt ngoài lỗi vân. Quyết định: Yêu cầu nhà thầu thay mới.
+- **An toàn lao động (HSE):** Phát hiện công nhân thầu phụ vi phạm quy định thắt dây an toàn và hút thuốc. Đã phạt tổ trưởng và đình chỉ công nhân.
+- **Vận thăng:** Tình trạng quá tải; cần phân bổ lại lịch trình ưu tiên vật liệu nặng vào ban đêm.
+- **Tài chính:** Chậm lương thợ nề do thủ tục giải ngân ngân hàng; cam kết thanh toán vào thứ 6 tuần này để tránh đình công.
+
+### 3. Kết luận và quyết định
+- Áp dụng ngay phương án thi công cuốn chiếu để bù tiến độ, đảm bảo mốc cất nóc.
+- Tăng cường thêm 02 cán bộ HSE túc trực 24/7 ở các vị trí trọng yếu.
+- Cam kết thanh toán lương cho công nhân đúng hạn thứ 6 tuần này để ổn định tâm lý làm việc.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[08:30] Vy lưu ý giúp anh vụ hồ sơ nghiệm thu giai đoạn nhé. Anh thấy bên tư vấn giám sát báo là hồ sơ thép và bê tông sàn 20-22 vẫn còn thiếu một số chứng chỉ thí nghiệm mẫu.
+[08:32] Dạ, em đã nhắc anh Hùng rồi. Do phòng thí nghiệm họ trả kết quả chậm nên hồ sơ chưa hoàn thiện. Anh Hùng phải nộp đủ trước buổi họp tuần sau, nếu không em không ký xác nhận khối lượng để làm thủ tục thanh toán đợt tới đâu nhé.
+[08:34] Vâng, tôi rõ rồi chị Vy. Tôi sẽ đôn đốc bộ phận hồ sơ làm việc với phòng thí nghiệm ngay.
+[08:36] Cuối cùng là vấn đề vệ sinh môi trường. Xe chở phế thải xây dựng ra khỏi công trường phải được xịt rửa gầm và bánh xe kỹ lưỡng. Dạo này báo chí và người dân phản ánh nhiều về việc công trình mình làm rơi vãi bùn đất ra đường ngoài cổng dự án. Thanh tra giao thông họ đã cảnh cáo mình một lần rồi đấy.
+[08:38] Dạ, tôi đã lắp thêm hệ thống vòi xịt áp lực cao ở cổng số 1. Tôi cũng thuê thêm 2 người quét dọn đoạn đường 50m trước cổng dự án mỗi giờ một lần. Sẽ không để tình trạng này tái diễn đâu ạ.
+[08:40] OK, tóm tắt lại các đầu việc chính: 1. Đẩy nhanh thi công bù tiến độ 10 ngày bằng phương án cuốn chiếu. 2. Gia tăng 2 nhân sự HSE và siết chặt an toàn tầng cao. 3. Xử lý dứt điểm vụ đá Granite vân không đều. 4. Hoàn thiện hồ sơ nghiệm thu tầng 20-22. 5. Giải quyết dứt điểm lương cho anh em thợ vào thứ 6. 6. Đảm bảo vệ sinh môi trường cổng công trường.
+[08:42] Anh Hùng có kiến nghị gì thêm không?
+[08:44] Dạ, tôi muốn chủ đầu tư xem xét lại việc điều chỉnh giá cho một số vật tư phụ như ống nhựa và dây điện. Do biến động thị trường, giá các mặt hàng này đã tăng hơn 15% so với thời điểm ký thầu. Nếu mình vẫn giữ giá cũ thì nhà thầu phụ họ làm rất cầm chừng vì không có lãi.
+[08:46] Cái này anh sẽ trao đổi lại với ban giám đốc. Tuy nhiên, anh cần anh Hùng cung cấp bảng so sánh giá thực tế và các hóa đơn đầu vào để minh chứng. Mình làm việc trên con số rõ ràng thì mới nói chuyện được.
+[08:48] Vâng, chiều nay tôi sẽ gửi bảng tổng hợp cho anh.
+[08:50] OK, vậy chúng ta thống nhất thế nhé. Anh em ra công trường tập trung làm việc, chú ý an toàn là trên hết. Tan họp!
+[08:52] Chào anh, chào chị Vy.
+
+<|output|>
+# Họp giao ban tiến độ và an toàn công trường dự án The Grand Elite - Tuần 48
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng chậm tiến độ 10 ngày tại khối tháp A.
+- Rà soát công tác an toàn lao động và vệ sinh môi trường sau các phản ánh tiêu cực.
+- Thống nhất phương án xử lý vật tư không đạt chất lượng (đá Granite) và hoàn thiện hồ sơ nghiệm thu.
+- Giải quyết các vấn đề về nhân sự và tài chính (lương thợ, điều chỉnh giá vật tư).
+
+### 2. Các vấn đề đã thảo luận
+- **Tiến độ:** Chậm 10 ngày do thời tiết xấu và chậm cung ứng thép. Giải pháp là thi công "cuốn chiếu" hoàn thiện song song với phần thô và tăng cường làm đêm (chú ý kiểm soát tiếng ồn).
+- **Vật tư:** 15% đá Granite mặt ngoài không đồng nhất về vân đá. Quyết định: Yêu cầu nhà thầu thay mới, không cho phép lắp đặt hàng lỗi.
+- **An toàn lao động (HSE):** Phát hiện công nhân vi phạm quy định thắt dây an toàn và hút thuốc. Quyết định: Phạt nặng tổ trưởng, tăng cường 02 cán bộ HSE trực chiến 24/7.
+- **Hồ sơ nghiệm thu:** Thiếu chứng chỉ thí nghiệm thép và bê tông sàn 20-22 gây chậm trễ thủ tục thanh toán.
+- **Tài chính:** Chậm lương thợ nề do thủ tục giải ngân ngân hàng; cam kết thanh toán vào thứ 6 tuần này. Kiến nghị điều chỉnh giá vật tư phụ do lạm phát 15%.
+- **Môi trường:** Xe chở phế thải làm rơi vãi đất đá; đã khắc phục bằng hệ thống xịt rửa áp lực cao và nhân sự quét dọn cổng.
+
+### 3. Kết luận và quyết định
+- Áp dụng ngay phương án thi công cuốn chiếu để bù tiến độ, đảm bảo mốc cất nóc 30/12.
+- Đình chỉ công tác các nhóm thợ vi phạm an toàn lao động để đào tạo lại.
+- Bộ phận hồ sơ phải hoàn tất chứng chỉ thí nghiệm mẫu trong vòng 03 ngày.
+- Chủ đầu tư sẽ xem xét yêu cầu điều chỉnh giá vật tư sau khi nhận được báo cáo minh chứng chi tiết từ nhà thầu.
+- Cam kết thanh toán lương cho công nhân đúng hạn thứ 6 tuần này để ổn định tâm lý làm việc.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập bảng tiến độ thi công cuốn chiếu chi tiết | Anh Hùng | 01/12/2024 |
+| Điều động 02 cán bộ HSE tăng cường từ dự án khác | Phòng Nhân sự | 30/11/2024 |
+| Làm việc với nhà thầu đá Granite chốt lịch giao hàng thay thế | Anh Hùng | 02/12/2024 |
+| Hoàn thiện hồ sơ thí nghiệm mẫu thép/bê tông sàn 20-22 | Bộ phận Hồ sơ | 03/12/2024 |
+| Thanh toán lương đợt 5 cho các tổ đội công nhân | Phòng Tài chính | 01/12/2024 |
+| Gửi báo cáo so sánh giá vật tư phụ để xin điều chỉnh | Anh Hùng | 30/11/2024 |
+| Kiểm tra vận hành hệ thống xịt rửa xe tại các cổng | Tổ Giám sát | Hàng ngày |
+| Báo cáo kết quả làm việc với Thanh tra Xây dựng về tiếng ồn | Anh Hùng | 05/12/2024 |
+| Họp kiểm soát chất lượng nội bộ cho phần hoàn thiện | Vy (Giám sát) | 07/12/2024 |

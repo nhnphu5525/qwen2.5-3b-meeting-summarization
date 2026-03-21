@@ -1,0 +1,55 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00] Chào toàn thể ban lãnh đạo và các trưởng bộ phận. Hôm nay chúng ta bước vào một cuộc họp mang tính chất sống còn của tập đoàn trong giai đoạn 5 năm tới: Chuyển đổi văn hóa doanh nghiệp từ mô hình truyền thống sang mô hình linh hoạt (Agile) và số hóa toàn diện.
+[08:03] Cảm ơn Tổng giám đốc. Tôi hoàn toàn đồng ý rằng văn hóa hiện tại của mình đang quá cồng kềnh, phân cấp quá nhiều tầng lớp dẫn đến việc ra quyết định cực kỳ chậm chạp. Đợt rồi mình mất hợp đồng với bên đối tác Nhật cũng chỉ vì cái quy trình ký duyệt qua 5 phòng ban mất cả tuần lễ.
+[08:06] Dạ... ờ thì... em là bên nhân sự, em cũng thấy là nhân viên trẻ hiện nay họ rất ngại cái kiểu quản lý "cầm tay chỉ việc". Họ muốn có sự chủ động và được ghi nhận dựa trên kết quả thực tế (OKR) chứ không phải chỉ là chấm công đủ 8 tiếng mỗi ngày.
+[08:09] Đúng rồi em. Cái tư duy "sáng cắp ô đi tối cắp về" nó không còn phù hợp nữa. Chúng ta cần một môi trường mà ở đó mọi người dám sai, dám thử nghiệm cái mới. Thế nhưng... là... tôi cũng lo ngại một bộ phận cán bộ lâu năm sẽ phản kháng lại sự thay đổi này. Họ đã quen với cách làm cũ suốt 20 năm nay rồi.
+[08:12] Về vấn đề này, tôi đề xuất mình sẽ triển khai theo lộ trình cuốn chiếu. Mình chọn ra 3 bộ phận làm thí điểm trước là Marketing, R&D và Công nghệ thông tin. Đây là những nơi dễ thích nghi nhất với mô hình Agile. Sau đó mình mới nhân rộng ra các khối sản xuất và hành chính.
+[08:15] Ý tưởng thí điểm rất hay. Thế nhưng... mình cần một bộ tiêu chí đánh giá văn hóa mới cụ thể. Văn hóa không phải là cái gì đó chung chung, nó phải thể hiện qua hành vi hằng ngày. Ví dụ như: Tôn trọng sự khác biệt, Minh bạch thông tin, và Tốc độ là ưu tiên hàng đầu.
+[08:18] Dạ, em sẽ xây dựng một bộ "Sổ tay văn hóa mới" (Culture Playbook). Trong đó sẽ định nghĩa rõ các giá trị cốt lõi và các ví dụ về hành vi nên làm và không nên làm. Mình cũng sẽ thay đổi luôn cả cái không gian làm việc. Phải phá bỏ mấy cái vách ngăn ngột ngạt này đi, tạo ra nhiều khu vực open space để mọi người dễ dàng tương tác.
+[08:21] Phá vách ngăn thì dễ, nhưng phá cái "vách ngăn tư duy" trong đầu mỗi người mới khó. Tôi đề nghị mình tổ chức một chuỗi các buổi Workshop "Lãnh đạo chuyển đổi" dành riêng cho cấp quản lý. Nếu sếp không đổi thì lính không bao giờ đổi được.
+
+<|output|>
+# Chuyển đổi văn hóa doanh nghiệp: Từ truyền thống sang Agile và Số hóa
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hướng chiến lược chuyển đổi văn hóa doanh nghiệp giai đoạn 2024-2029.
+- Phá bỏ tư duy cũ, giảm bớt sự chồng chéo trong quy trình ra quyết định.
+- Xây dựng môi trường làm việc số hóa, minh bạch, chủ động và linh hoạt (Agile).
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Hệ thống phân cấp cồng kềnh gây chậm trễ trong việc ra quyết định, làm mất cơ hội kinh doanh.
+- Nhân sự: Nhân viên trẻ có xu hướng thích làm việc theo kết quả (OKR) thay vì quản lý thời gian. Lo ngại về sự phản kháng từ nhóm cán bộ lâu năm.
+- Giải pháp văn hóa: Xây dựng Sổ tay văn hóa mới (Culture Playbook) với các giá trị cốt lõi: Tôn trọng, Minh bạch, Tốc độ.
+- Đào tạo & Truyền thông: Tổ chức Workshop cho cấp quản lý. Đề xuất làm không gian mở phá vách ngăn.
+
+### 3. Kết luận và quyết định
+- Triển khai thí điểm mô hình Agile tại 3 bộ phận: Marketing, R&D và IT trước khi nhân rộng.
+- Quyết định phá bỏ vách ngăn, thiết kế không gian làm việc mở.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo Sổ tay văn hóa (Culture Playbook) | Phòng Nhân sự | 10/06/2024 |
+| Thiết kế lại không gian làm việc văn phòng | Phòng Hành chính | 30/06/2024 |
+| Tổ chức Workshop "Lãnh đạo chuyển đổi" | Ban chuyển đổi | 15/06/2024 |

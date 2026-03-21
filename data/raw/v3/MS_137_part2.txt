@@ -1,0 +1,58 @@
+<|input|>
+# Cải tiến phương pháp giảng dạy trực tuyến (E-learning)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Nâng cao chất lượng giảng dạy trực tuyến trên hệ thống LMS của trường.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Bài giảng còn một chiều, thiếu tương tác, sinh viên dễ nhàm chán.
+- Giải pháp kỹ thuật: Tích hợp chuẩn LTI để nhúng các công cụ tương tác (Kahoot, Quizizz) trực tiếp vào LMS; sử dụng Safe Exam Browser để chống gian lận thi cử.
+
+### 3. Kết luận và quyết định
+- Thống nhất chuyển đổi cấu trúc bài giảng sang mô hình Micro-learning từ học kỳ tới.
+- Duyệt tổ chức workshop đào tạo kỹ năng số cho giảng viên trong tháng 7.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn dự toán phí bản quyền các tool LTI | An - Phòng IT | 15/06/2024 |
+| Thiết kế cấu trúc khóa học Micro-learning mẫu | Thầy Hoàng - Bộ môn | 25/06/2024 |
+[09:15:45] Ý tưởng "Micro-learning" này hay đó cô Mai! Tôi cũng đang định đề xuất là mình xây dựng một kho học liệu số, trong đó mỗi bài học là một chuỗi video ngắn, sau mỗi video là một bài test nhỏ (quiz). Sinh viên phải làm đúng quiz mới được xem video tiếp theo. Làm vậy vừa giúp các em không bị quá tải, vừa kiểm soát được tiến độ học tập.
+[09:18:00] Đúng rồi đó thầy! Mà để làm được video xịn thì thầy cô phải được đào tạo về kỹ năng quay phim, biên tập video cơ bản nữa. An có thể tổ chức một buổi workshop hướng dẫn các thầy cô dùng mấy phần mềm đơn giản như Camtasia hay CapCut được không?
+[09:20:15] Dạ được chứ cô, chuyện đó nằm trong tầm tay em ạ. Em sẽ soạn một bộ tài liệu hướng dẫn nhanh, rồi tổ chức buổi training thực hành luôn. Cô cho em mượn cái phòng máy ở khu B là được ạ.
+[09:22:30] Tốt. Còn một cái nữa là vụ thảo luận nhóm. Hiện tại sinh viên hầu như không thảo luận gì trên forum cả. Thầy Hoàng có cách nào kích thích các em trao đổi nhiều hơn không?
+[09:24:45] Dạ vầy nè cô, em định là sẽ đưa điểm thảo luận vào thành một cột điểm thành phần luôn. Thầy cô sẽ đưa ra các tình huống thực tế (case study) rồi yêu cầu các em vào tranh luận. Bạn nào có nhiều đóng góp hay, được nhiều like của bạn học thì sẽ được cộng điểm thưởng.
+[09:27:00] Thưởng bằng điểm là cái "đòn bẩy" mạnh nhất rồi. Thầy Hoàng triển khai thử nghiệm cho 2 môn chuyên ngành trước đi nhé. An cũng nhớ thiết lập cái tính năng "Gamification" trên LMS cho cô, kiểu như bạn nào hoàn thành bài học sớm nhất sẽ được huy chương hay thăng hạng gì đó cho vui.
+[09:29:15] Dạ em nắm ý rồi cô. Em sẽ setup bảng xếp hạng (Leaderboard) theo từng lớp luôn. Đảm bảo sinh viên sẽ "cày" bài tập để leo rank cho xem ạ.
+
+<|output|>
+# Cải tiến phương pháp giảng dạy trực tuyến (E-learning)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Nâng cao chất lượng giảng dạy trực tuyến trên hệ thống LMS của trường.
+- Tăng cường tính tương tác và hứng thú học tập cho sinh viên.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Bài giảng còn một chiều, thiếu tương tác, sinh viên dễ nhàm chán.
+- Giải pháp kỹ thuật: Tích hợp chuẩn LTI để nhúng các công cụ tương tác (Kahoot, Quizizz) trực tiếp vào LMS; sử dụng Safe Exam Browser để chống gian lận thi cử.
+- Đổi mới phương pháp: Áp dụng Micro-learning (chia nhỏ bài giảng thành các video 10-15 phút kèm quiz); triển khai Gamification (bảng xếp hạng, huy chương) để khích lệ sinh viên.
+- Đào tạo giảng viên: Tổ chức workshop hướng dẫn kỹ năng quay/dựng video bài giảng và sử dụng phần mềm tương tác.
+
+### 3. Kết luận và quyết định
+- Thống nhất chuyển đổi cấu trúc bài giảng sang mô hình Micro-learning từ học kỳ tới.
+- Duyệt tổ chức workshop đào tạo kỹ năng số cho giảng viên trong tháng 7.
+- Thử nghiệm tính năng Gamification và thảo luận nhóm có tính điểm cho 2 môn chuyên ngành.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn dự toán phí bản quyền các tool LTI | An - Phòng IT | 15/06/2024 |
+| Thiết kế cấu trúc khóa học Micro-learning mẫu | Thầy Hoàng - Bộ môn | 25/06/2024 |
+| Tổ chức Workshop training kỹ năng dựng video | An - Phòng IT | 05/07/2024 |
+| Xây dựng ngân hàng câu hỏi thi theo hướng mở | Bộ môn chuyên ngành | 15/07/2024 |

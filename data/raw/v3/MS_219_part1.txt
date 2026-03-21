@@ -1,0 +1,62 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Để tôi check lại lịch của bên thiết kế xem họ rảnh khi nào.
+[09:01] Nói chung là Tôi lo nhất là cái chất liệu vải, tiến độ đang bị khựng lại.
+[09:04] Ờm Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[09:06] À Đúng rồi, cái bộ sưu tập cần được ưu tiên xử lý trước thứ Sáu này.
+[09:08] Mọi người có ý kiến gì thêm về chiến dịch ra mắt không?
+[09:10] Vụ bộ sưu tập thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:12] Thôi được rồi, vậy thống nhất là triển khai chiến dịch ra mắt theo hướng đó.
+[09:07] Vụ chiến dịch ra mắt thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:16] Về phần ngân sách cho xu hướng, sếp đã duyệt chưa nhỉ?
+[09:18] Bên đối tác họ cứ hỏi mãi về chiến dịch ra mắt, mình phải trả lời sao đây?
+[09:10] Ờm Đừng quên vụ chuỗi bán lẻ cũng quan trọng không kém nhé.
+[09:11] Nói chung là Bên đối tác họ cứ hỏi mãi về chiến dịch ra mắt, mình phải trả lời sao đây?
+[09:12] Mọi người nghe rõ không? Về cái thiết kế này tôi thấy có vẻ hơi vướng.
+[09:13] Về phần ngân sách cho showroom, sếp đã duyệt chưa nhỉ?
+[09:28] Cần phải làm rõ hơn về chuỗi bán lẻ trong hợp đồng mới.
+[09:15] Ai sẽ chịu trách nhiệm chính cho mảng chất liệu vải nhỉ?
+[09:16] Đừng quên vụ bộ sưu tập cũng quan trọng không kém nhé.
+[09:17] Hình như Đừng quên vụ showroom cũng quan trọng không kém nhé.
+[09:18] Hình như Thế thì mình chốt phương án cho thiết kế luôn đi, đừng kéo dài nữa.
+[09:19] Thì đấy Mọi người có ý kiến gì thêm về chất liệu vải không?
+[09:40] Đúng rồi, cái chuỗi bán lẻ cần được ưu tiên xử lý trước thứ Sáu này.
+[09:42] Chắc là Thế thì mình chốt phương án cho chuỗi bán lẻ luôn đi, đừng kéo dài nữa.
+
+<|output|>
+# Báo cáo cuộc họp về Thời trang
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Thời trang hiện tại
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý xu hướng
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho xu hướng
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ thiết kế | Phòng Thời trang | 03/11/2026 |

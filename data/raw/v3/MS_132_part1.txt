@@ -1,0 +1,53 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00:00] Chào Ngân, chào Linh. Nay mình họp bàn kỹ về cái vụ nhân sự cho chi nhánh mới ở Quận 7 nha. Dự kiến là tháng 9 này mình khai trương rồi nên giờ tuyển là vừa đẹp luôn.
+[09:01:20] Dạ anh Hải, em với Linh cũng có phác thảo sơ cái định biên nhân sự cho bên đó rồi. Linh ơi, em trình bày sơ qua cho anh Hải nắm mấy cái vị trí chủ chốt mình cần gấp đi em.
+[09:02:45] Dạ vâng ạ. Anh Hải ơi, hiện tại chi nhánh mới mình cần khoảng 20 nhân sự tất cả. Trong đó quan trọng nhất là vị trí Cửa hàng trưởng với 2 bạn Tổ trưởng ca. Mấy vị trí này em nghĩ mình nên ưu tiên luân chuyển người cũ từ các chi nhánh khác qua cho nó ổn định vận hành giai đoạn đầu anh ạ.
+[09:04:10] Ờ, anh cũng đồng ý hướng đó. Người cũ họ nắm rõ văn hóa với quy trình của mình rồi, đưa qua đó hỗ trợ thì anh yên tâm hơn. Vậy còn khối nhân viên bán hàng với kho thì sao?
+[09:05:30] Dạ nhân viên bán hàng thì mình cần khoảng 12 bạn, chia làm 2 ca. Kho thì cần 3 bạn. Linh tính là đợt này mình sẽ đẩy mạnh tuyển trên mấy hội nhóm Facebook với chạy quảng cáo trên TikTok nữa anh, vì đối tượng mình cần là mấy bạn trẻ năng động mà.
+[09:06:55] TikTok hả? Ừ, cũng hay đó, giờ tụi nhỏ dùng cái đó nhiều. Mà Ngân nè, em coi cái ngân sách tuyển dụng đợt này thế nào? Đừng để đội lên quá nha.
+[09:08:20] Dạ anh, ngân sách em đã cân đối rồi. Mình sẽ dành khoảng 20 triệu cho các kênh trả phí. Còn lại mình tận dụng nguồn referral từ nhân viên cũ. À, nếu nhân viên giới thiệu được người vào làm và qua thử việc thì mình có thưởng nóng một khoản nhỏ để khích lệ anh thấy sao?
+[09:09:45] Được chứ, cái đó anh duyệt. Vừa đỡ tiền quảng cáo mà người được giới thiệu thường cũng uy tín hơn. Linh lên cái thông báo về chương trình giới thiệu này luôn đi nha.
+
+<|output|>
+# Kế hoạch tuyển dụng nhân sự chi nhánh Quận 7
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất định biên nhân sự cho chi nhánh mới tại Quận 7 (dự kiến khai trương tháng 9).
+- Lên kế hoạch tuyển dụng, đào tạo và phân bổ ngân sách.
+
+### 2. Các vấn đề đã thảo luận
+- Số lượng nhân sự cần tuyển: 20 người (1 Cửa hàng trưởng, 2 Tổ trưởng, 12 Nhân viên bán hàng, 3 Nhân viên kho, 2 Part-time dự phòng).
+- Phương án luân chuyển: Ưu tiên điều động người cũ từ các chi nhánh khác cho vị trí quản lý để đảm bảo vận hành.
+- Kênh tuyển dụng: Facebook, TikTok, quảng cáo trả phí (ngân sách 20 triệu) và chương trình giới thiệu nội bộ (có thưởng).
+
+### 3. Kết luận và quyết định
+- Chốt số lượng 20 nhân sự cho giai đoạn 1.
+- Duyệt chương trình thưởng cho nhân viên giới thiệu ứng viên thành công.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bảng JD và bộ câu hỏi phỏng vấn | Linh - Phòng HR | 15/06/2024 |
+| Đăng tin tuyển dụng trên các kênh | Linh - Phòng HR | 18/06/2024 |
+| Xây dựng danh sách luân chuyển nội bộ | Ngân - Trưởng phòng HR | 20/06/2024 |

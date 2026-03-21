@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào anh Nam, chị Lan và team IT. Hôm nay chúng ta họp để bàn về kế hoạch chuyển đổi toàn bộ hạ tầng từ server vật lý (on-premise) sang nền tảng điện toán đám mây (Cloud Migration). Đây là bước đi chiến lược để tối ưu chi phí vận hành và tăng khả năng mở rộng cho hệ thống core-banking của chúng ta. Anh Nam, anh có thể cho biết các lựa chọn Cloud Provider hiện nay không?
+[14:05] Chào anh Hải, chào mọi người. Tôi là Nam, trưởng nhóm hạ tầng. Chúng tôi đã làm việc với 3 đối tác lớn là AWS, Microsoft Azure và Google Cloud (GCP). Qua đánh giá sơ bộ, AWS có hệ sinh thái dịch vụ đa dạng nhất, nhưng Azure lại tích hợp cực tốt với các hệ thống Windows Server và SQL Server hiện có của chúng ta. GCP thì mạnh về các dịch vụ AI và Data Analytics. Tuy nhiên, vấn đề lớn nhất là yêu cầu về chủ quyền dữ liệu (data sovereignty) của Ngân hàng Nhà nước. Chúng ta bắt buộc phải có một phần dữ liệu nhạy cảm lưu trữ trong nước.
+[14:10] Chào anh Nam, tôi là Lan bên bộ phận Bảo mật thông tin (InfoSec). Tôi hoàn toàn đồng ý. Việc chuyển lên Cloud công cộng hoàn toàn là rất rủi ro đối với một tổ chức tài chính. Tôi đề xuất chúng ta đi theo hướng "Hybrid Cloud". Các dịch vụ front-end và ứng dụng không nhạy cảm sẽ chạy trên Cloud quốc tế để tận dụng tính linh hoạt, còn dữ liệu khách hàng và lịch sử giao dịch sẽ được lưu trữ tại Private Cloud đặt trong nước hoặc tại Data Center của chính chúng ta.
+[14:15] Chào chị Lan, anh Nam. Tôi là Quân, trưởng nhóm phát triển phần mềm (Dev). Nếu chọn Hybrid Cloud, việc đồng bộ dữ liệu giữa Cloud và On-premise sẽ là một thách thức về mặt độ trễ (latency). Chúng ta cần một đường truyền chuyên dụng (Direct Connect hoặc ExpressRoute) để đảm bảo tốc độ giao dịch không bị ảnh hưởng. Ngoài ra, team Dev cũng cần được đào tạo về Containerization và Kubernetes để triển khai ứng dụng trên môi trường mới một cách mượt mà.
+
+<|output|>
+# Kế hoạch Chuyển đổi Hạ tầng Điện toán đám mây (Cloud Migration)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất chiến lược chuyển đổi hạ tầng từ server vật lý sang nền tảng Cloud.
+
+### 2. Các vấn đề đã thảo luận
+- Lựa chọn nhà cung cấp: Cân nhắc giữa hệ sinh thái của AWS và tính tương thích của Azure với hệ thống hiện tại.
+- Bảo mật và Pháp lý: Tuân thủ quy định về chủ quyền dữ liệu của Ngân hàng Nhà nước; đề xuất mô hình Hybrid Cloud để bảo vệ dữ liệu nhạy cảm.
+
+### 3. Kết luận và quyết định
+- Thống nhất triển khai theo mô hình Hybrid Cloud (ứng dụng trên Cloud quốc tế, dữ liệu core đặt tại Data Center trong nước).
+- Phê duyệt lộ trình chuyển đổi 3 giai đoạn: Thử nghiệm -> Ứng dụng phụ trợ -> Hệ thống lõi (Core-banking).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Roadmap chuyển đổi 3 giai đoạn | Anh Nam (Hạ tầng) | 30/03/2025 |
+| Báo cáo so sánh TCO 5 năm giữa On-premise và Cloud | Chị Hồng (Tài chính) | 05/04/2025 |
+| Rà soát tiêu chuẩn bảo mật PCI-DSS trên Cloud | Chị Lan (InfoSec) | 10/04/2025 |

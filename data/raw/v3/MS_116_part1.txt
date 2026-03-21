@@ -1,0 +1,63 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[11:00:15] Chào anh em, hôm nay chúng ta bàn về lộ trình chuyển đổi hệ thống từ Monolith sang Microservices nhé. Hiện tại cái hệ thống cũ đang quá tải rồi, mỗi lần deploy là một cực hình.
+[11:01:25] Em đồng ý, cứ hễ một module lỗi là sập cả hệ thống. Mình nên tách cái phần Payment ra trước, vì nó nhạy cảm và cần tính ổn định cao nhất.
+[11:02:40] Payment tách ra cũng được, nhưng phần Order với Inventory cũng quan trọng lắm. Anh thấy nếu mình dùng Kafka để làm message broker giữa các service thì sẽ giải quyết được vấn đề đồng bộ dữ liệu.
+[11:03:55] Dùng Kafka thì ngon rồi nhưng vận hành nó hơi khoai đấy anh Sơn ạ. Team mình hiện tại chưa có ai rành về quản trị Kafka cả. Hay là dùng RabbitMQ cho nhẹ đầu?
+[11:05:10] RabbitMQ thì đơn giản hơn nhưng khả năng scale sau này không bằng Kafka đâu. Thôi thì cứ để Dũng nghiên cứu cả hai cái đi, rồi làm một buổi demo nhỏ so sánh hiệu năng.
+[11:06:25] Về phần database, mỗi service sẽ dùng một DB riêng hay dùng chung hả anh? Em thấy dùng riêng thì độc lập nhưng khó quản lý quan hệ thực thể.
+[11:07:45] Nguyên tắc Microservices là mỗi cái một DB riêng (Database per Service) mà. Mình sẽ dùng API Gateway để quản lý các request tập trung. Hải nghiên cứu con Kong hoặc Ocelot xem cái nào hợp hơn.
+[11:09:00] Kong thì giàu tính năng nhưng cấu hình phức tạp, Ocelot thì dùng cho .NET rất mượt. Anh em mình đang code C# chủ đạo nên em nghiêng về Ocelot hơn.
+[11:10:20] OK, vậy chốt thế này: Dũng lo phần Message Broker, Hải lo API Gateway và Auth Service. Còn anh sẽ lo phần kiến trúc tổng thể và CI/CD.
+[11:11:35] Anh ơi, còn vụ logging với monitoring thì sao? Tách ra nhiều service mà không có hệ thống log tập trung thì lúc tìm lỗi chỉ có nước khóc thôi.
+[11:12:50] Chắc chắn rồi, mình sẽ dùng ELK Stack (Elasticsearch, Logstash, Kibana) hoặc Prometheus với Grafana. Cái này để giai đoạn 2 mình làm kỹ hơn.
+[11:14:10] Vâng anh, vậy tụi em bắt tay vào tìm hiểu và dựng lab thử nghiệm luôn nhé. Hy vọng cuối tháng này có bản prototype đầu tiên.
+
+<|output|>
+# Chuyển đổi kiến trúc hệ thống sang Microservices
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng lộ trình và lựa chọn công nghệ cho việc chuyển đổi hệ thống từ Monolith sang Microservices.
+- Giải quyết các vấn đề về khả năng mở rộng (scalability) và tính ổn định của hệ thống hiện tại.
+
+### 2. Các vấn đề đã thảo luận
+- Hệ thống Monolith hiện tại quá tải và dễ xảy ra lỗi lan truyền (cascading failure).
+- Ưu tiên tách module Payment ra thành service độc lập đầu tiên.
+- Lựa chọn Message Broker giữa Kafka (mạnh mẽ nhưng phức tạp) và RabbitMQ (đơn giản, dễ tiếp cận).
+- Thống nhất nguyên tắc mỗi service sử dụng một cơ sở dữ liệu riêng (Database per Service).
+- Đánh giá các giải pháp API Gateway như Kong và Ocelot.
+- Cần hệ thống logging và monitoring tập trung (ELK Stack hoặc Prometheus/Grafana) để quản lý nhiều service.
+
+### 3. Kết luận và quyết định
+- Sử dụng API Gateway (ưu tiên Ocelot do phù hợp với hệ sinh thái .NET hiện có).
+- Tiến hành dựng lab thử nghiệm so sánh Kafka và RabbitMQ trước khi quyết định chính thức.
+- Xây dựng bản prototype đầu tiên bao gồm service Payment và Order trong vòng 1 tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nghiên cứu và demo so sánh Kafka vs RabbitMQ | Dũng | Thứ Sáu tới |
+| Cài đặt và cấu hình thử nghiệm API Gateway (Ocelot) | Hải | Thứ Bảy tới |
+| Thiết kế kiến trúc DB riêng cho service Payment | Anh Sơn | Thứ Hai tuần sau |
+| Xây dựng pipeline CI/CD cơ bản cho Microservices | Anh Sơn | Thứ Tư tuần sau |
+| Nghiên cứu giải pháp logging tập trung (ELK Stack) | Hải | Thứ Hai tuần sau |

@@ -1,0 +1,43 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00:00] Chào toàn thể các thành viên trong Ban chiến lược và đại diện các khối phòng ban. Hôm nay chúng ta tập trung tại đây cho một buổi làm việc cực kỳ quan trọng, có thể nói là mang tính lịch sử đối với tập đoàn mình. Chúng ta sẽ cùng nhau đặt những viên gạch đầu tiên cho "Chiến lược Chuyển đổi số toàn diện giai đoạn 2026-2030". Anh Thắng ơi, với tư cách là Chủ tịch, anh có lời mở đầu nào cho anh em hừng hực khí thế không anh?
+[08:05:00] Ờ, chào Minh và chào tất cả anh chị em. 5 năm qua mình đã làm "số hóa" một cách rời rạc, chỗ này một chút chỗ kia một chút, gọi là "Digitalization" thì đúng hơn là "Digital Transformation". Giai đoạn tới, anh muốn mình phải thay đổi tận gốc rễ, từ tư duy đến hành động. Công nghệ không phải là một công cụ hỗ trợ nữa, mà nó phải là cốt lõi của mô hình kinh doanh. Chúng ta không chỉ bán sản phẩm, chúng ta bán giải pháp dựa trên dữ liệu. Anh kỳ vọng buổi hôm nay sẽ phác thảo được một cái lộ trình (Roadmap) mà ở đó, đến năm 2030, chúng ta sẽ là một "Data-Driven Company" thực thụ.
+[08:10:30] Dạ vầy nè anh Thắng, để bắt đầu thì em xin phép điểm lại cái thực trạng hạ tầng IT của mình hiện tại. Chị Lan bên Tài chính với anh Hùng bên Vận hành chắc cũng đồng ý với em là hệ thống hiện tại đang bị "vỡ vụn" (siloed). Dữ liệu khách hàng nằm một nơi, dữ liệu sản xuất nằm một nơi, dữ liệu tài chính lại nằm ở một phần mềm khác. Mỗi lần muốn lấy một cái báo cáo tổng hợp là anh em phải xuất file Excel rồi "vặn vẹo" thủ công mất cả tuần trời. Cái này là cái "nút thắt" lớn nhất cần phải gỡ bỏ đầu tiên trong giai đoạn 2026-2027.
+
+<|output|>
+# Chiến lược Chuyển đổi số Toàn diện Tập đoàn Giai đoạn 2026-2030
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hình tầm nhìn chiến lược chuyển đổi số toàn diện cho giai đoạn 5 năm tới (2026-2030).
+
+### 2. Các vấn đề đã thảo luận
+- **Tầm nhìn 2030:** Chuyển mình từ doanh nghiệp bán sản phẩm truyền thống thành một doanh nghiệp dựa trên dữ liệu (Data-Driven Company), lấy công nghệ làm cốt lõi của mô hình kinh doanh.
+
+### 3. Kết luận và quyết định
+- Phê duyệt khung chiến lược chuyển đổi số 2026-2030 với 4 trụ cột và lộ trình 2 giai đoạn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản thảo chiến lược 2026-2030 chi tiết | Minh (IT/Chiến lược) | 15/11/2024 |
+| Lập dự toán ngân sách chi tiết cho Giai đoạn 1 (2026-2027) | Chị Lan (CFO) | 30/11/2024 |

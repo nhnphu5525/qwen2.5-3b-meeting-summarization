@@ -1,0 +1,62 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00:15] Chào mọi người, hôm nay chúng ta họp về việc tuân thủ Nghị định 13 (NDCP 13) về bảo vệ dữ liệu cá nhân nhé. Đây là vấn đề pháp lý cực kỳ quan trọng, nếu mình làm sai là bị phạt nặng lắm đấy.
+[10:01:25] Em đã rà soát lại toàn bộ quy trình thu thập thông tin khách hàng trên Website rồi chị ạ. Hiện tại mình đang thu thập khá nhiều thông tin không thực sự cần thiết như ngày sinh hay nghề nghiệp của họ.
+[10:02:40] Theo NDCP 13 thì mình phải có sự đồng ý rõ ràng (Consent) của chủ thể dữ liệu trước khi thu thập. Hà kiểm tra lại xem trên App đã có các ô tick đồng ý riêng biệt chưa? Hay mình vẫn để gộp chung vào "Điều khoản dịch vụ"?
+[10:03:55] Dạ, hiện tại mình đang để gộp chung chị ạ. Em thấy cần phải tách riêng ra và có cả chính sách bảo mật riêng cho dữ liệu cá nhân nữa thì mới đúng luật.
+[10:05:10] Về phần kỹ thuật, em thấy mình cần mã hóa (Encryption) toàn bộ dữ liệu nhạy cảm trong Database. Ngoài ra, việc phân quyền truy cập dữ liệu cũng phải làm chặt chẽ hơn, không để nhân viên nào cũng xem được số điện thoại khách hàng đâu.
+[10:06:25] Đúng rồi Nam. Hải bên mảng pháp lý xem hộ chị cái bản dự thảo "Chính sách bảo vệ dữ liệu cá nhân" mà chị mới soạn xong nhé. Xem có cần điều chỉnh gì cho sát với thực tế vận hành không?
+[10:07:45] Vâng chị, em sẽ xem kỹ phần quyền của chủ thể dữ liệu, ví dụ như quyền được yêu cầu xóa dữ liệu hoặc quyền rút lại sự đồng ý. Cái này NDCP 13 quy định rất rõ.
+[10:09:00] À còn vụ chuyển dữ liệu ra nước ngoài nữa Hải ơi. Server mình đang dùng của AWS ở Singapore thì có cần phải báo cáo cho Cục An ninh mạng không nhỉ?
+[10:10:20] Có chứ chị. Mình phải lập hồ sơ đánh giá tác động chuyển dữ liệu cá nhân ra nước ngoài đấy. Để em nghiên cứu kỹ quy trình này rồi báo cáo lại chị trong tuần tới.
+[10:11:35] OK, vậy Nam lo mã hóa và phân quyền kỹ thuật, Hà lo giao diện Consent trên Website/App, Hải lo hồ sơ pháp lý và chính sách bảo mật.
+[10:12:50] Dạ chị, tụi em sẽ phối hợp chặt chẽ để đảm bảo mình hoàn thành mọi thủ tục trước ngày 1/7 tới.
+[10:14:10] Tốt, chị muốn công ty mình phải là đơn vị tiên phong trong việc bảo vệ quyền riêng tư của khách hàng. Cố gắng lên nhé.
+
+<|output|>
+# Triển khai tuân thủ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát mức độ tuân thủ của hệ thống hiện tại đối với Nghị định 13 về bảo vệ dữ liệu cá nhân (NDCP 13).
+- Xây dựng lộ trình cải thiện quy trình thu thập, xử lý và lưu trữ dữ liệu khách hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Quy trình thu thập dữ liệu hiện tại còn lỏng lẻo, chưa có sự đồng ý (Consent) rõ ràng từ khách hàng.
+- Thu thập quá nhiều thông tin không cần thiết, vi phạm nguyên tắc tối thiểu hóa dữ liệu.
+- Hệ thống cơ sở dữ liệu chưa được mã hóa đầy đủ và phân quyền truy cập chưa chặt chẽ.
+- Cần xây dựng bản "Chính sách bảo vệ dữ liệu cá nhân" riêng biệt thay vì lồng ghép vào điều khoản chung.
+- Việc lưu trữ dữ liệu trên máy chủ nước ngoài (AWS Singapore) đòi hỏi phải lập hồ sơ đánh giá tác động theo quy định.
+
+### 3. Kết luận và quyết định
+- Ưu tiên tách biệt các ô tick đồng ý thu thập dữ liệu trên các nền tảng số (Website, App).
+- Thực hiện mã hóa dữ liệu nhạy cảm và thắt chặt phân quyền nội bộ.
+- Hoàn thiện bộ hồ sơ pháp lý gửi Cục An ninh mạng về việc xử lý và chuyển dữ liệu ra nước ngoài.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Mã hóa dữ liệu nhạy cảm và rà soát phân quyền DB | Nam | Thứ Năm tới |
+| Chỉnh sửa giao diện thu thập Consent trên App/Web | Hà | Thứ Sáu tới |
+| Soạn thảo Chính sách bảo vệ dữ liệu cá nhân mới | Hải | Thứ Bảy tới |
+| Nghiên cứu hồ sơ báo cáo chuyển dữ liệu ra nước ngoài | Hải | Thứ Hai tuần sau |
+| Đào tạo nội bộ về bảo mật thông tin khách hàng | Nam & Hải | Thứ Tư tuần sau |

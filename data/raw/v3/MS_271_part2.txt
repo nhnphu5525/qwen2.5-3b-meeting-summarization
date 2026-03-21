@@ -1,0 +1,70 @@
+<|input|>
+# Tối ưu hóa Chuỗi cung ứng lạnh (Cold Chain) cho Hải sản Xuất khẩu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân giảm chất lượng hải sản trong quá trình vận chuyển lạnh.
+- Đề xuất các giải pháp kỹ thuật và quy trình để đảm bảo nhiệt độ ổn định suốt chuỗi cung ứng.
+
+### 2. Các vấn đề đã thảo luận
+- Thất thoát nhiệt: Cửa container mở lâu khi bốc xếp khiến nhiệt độ tăng cao, gây hại cho sản phẩm hải sản đông lạnh.
+- Giám sát: Hệ thống cảm biến hiện tại chưa đủ chi tiết; cần Data Logger cho từng kiện hàng và giám sát realtime qua GPS.
+- Hạ tầng kho: Thiếu hệ thống bạt che (Dock Seal) khiến việc kết nối giữa kho và xe không đảm bảo kín khít.
+
+### 3. Kết luận và quyết định
+- Đầu tư lắp đặt hệ thống Dock Seal tại các cửa kho lạnh để ngăn thất thoát nhiệt.
+- Trang bị thiết bị ghi nhiệt độ độc lập (Data Logger) cho các lô hàng xuất khẩu yêu cầu cao.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lắp đặt hệ thống Dock Seal và bạt che cửa kho | Anh Quốc (Quản lý kho) | 10/04/2025 |
+| Triển khai app giám sát nhiệt độ realtime cho tài xế | Anh Bình (Kỹ thuật) & IT | 05/04/2025 |
+| Tìm kiếm đối tác cung cấp Data Logger uy tín | Chị Lan (Kinh doanh) | 30/03/2025 |
+| Cập nhật điều khoản bồi thường vào hợp đồng vận tải | Anh Minh (Pháp chế) | 02/04/2025 |
+
+[09:20] Ý kiến của Quốc rất thiết thực. Chào mọi người, tôi là Sơn bên bộ phận Tài chính. Việc lắp đặt Dock Seal và mua Data Logger cho từng lô hàng sẽ làm tăng chi phí vận hành. Chị Mai có nghĩ là chúng ta nên tăng giá cước vận chuyển đối với các mặt hàng yêu cầu khắt khe này không? Chào anh Sơn, tôi nghĩ chúng ta nên coi đây là một dịch vụ GTGT cao cấp (Premium Service). Khách hàng sẵn sàng trả thêm tiền để đổi lấy sự an tâm tuyệt đối về chất lượng.
+[09:25] Chào chị Mai, tôi là Hồng bên bộ phận CSKH. Gần đây tôi thấy một số tài xế tự ý tắt máy lạnh trên các đoạn đường vắng để tiết kiệm dầu. Đây là hành vi cực kỳ nguy hiểm. Tôi đề nghị chúng ta phải tích hợp hệ thống giám sát hành trình GPS với cảm biến nhiệt độ thời gian thực. Nếu nhiệt độ vượt ngưỡng cho phép, hệ thống sẽ tự động gửi cảnh báo về trung tâm để chúng ta can thiệp kịp thời.
+[09:30] Chào Hồng, việc này IT đã có giải pháp. Chúng ta sẽ cài đặt app cho tài xế và yêu cầu họ chụp ảnh đồng hồ nhiệt độ mỗi 2 tiếng một lần. Chào anh Bình, anh phối hợp với IT để triển khai thử nghiệm trên 10 xe chạy tuyến miền Tây trước nhé. Nếu hiệu quả chúng ta sẽ nhân rộng ra toàn đội xe.
+[09:35] Chào mọi người, tôi là Minh bên bộ phận Pháp chế. Chúng ta cần bổ sung các điều khoản về trách nhiệm bồi thường thiệt hại do lỗi nhiệt độ vào hợp đồng với các nhà xe vệ tinh. Phải quy định rõ mức phạt nếu để xảy ra sự cố do lỗi chủ quan của tài xế. Việc này sẽ giúp nâng cao ý thức trách nhiệm của họ.
+[09:40] Rất tốt. Vậy kế hoạch hành động: Quốc triển khai lắp đặt bạt che cửa kho; Bình phối hợp IT lắp giám sát nhiệt độ realtime; Lan tìm đối tác cung cấp Data Logger; Minh hoàn thiện điều khoản hợp đồng; Sơn tính toán lại bảng giá dịch vụ Premium.
+[09:45] Chào chị Mai, tôi tin là với quy trình Cold Chain khép kín và hiện đại này, chúng ta sẽ trở thành đơn vị vận tải hải sản uy tín hàng đầu. Buổi họp hôm nay rất hiệu quả, cảm ơn mọi người.
+[09:50] Cảm ơn cả team. Chào tạm biệt mọi người.
+
+<|output|>
+# Tối ưu hóa Chuỗi cung ứng lạnh (Cold Chain) cho Hải sản Xuất khẩu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân giảm chất lượng hải sản trong quá trình vận chuyển lạnh.
+- Đề xuất các giải pháp kỹ thuật và quy trình để đảm bảo nhiệt độ ổn định suốt chuỗi cung ứng.
+- Thống nhất kế hoạch đầu tư thiết bị giám sát và chuẩn hóa quy định trách nhiệm với tài xế.
+
+### 2. Các vấn đề đã thảo luận
+- Thất thoát nhiệt: Cửa container mở lâu khi bốc xếp khiến nhiệt độ tăng cao, gây hại cho sản phẩm hải sản đông lạnh.
+- Giám sát: Hệ thống cảm biến hiện tại chưa đủ chi tiết; cần Data Logger cho từng kiện hàng và giám sát realtime qua GPS.
+- Hạ tầng kho: Thiếu hệ thống bạt che (Dock Seal) khiến việc kết nối giữa kho và xe không đảm bảo kín khít.
+- Con người: Tài xế tự ý tắt máy lạnh tiết kiệm dầu hoặc thiếu kỹ năng "Pre-cooling" thùng xe.
+- Kinh tế: Đề xuất xây dựng gói dịch vụ vận tải cao cấp (Premium) với mức giá cao hơn để bù đắp chi phí đầu tư công nghệ.
+- Pháp lý: Cần quy định rõ trách nhiệm bồi thường của đơn vị vận tải trong hợp đồng.
+
+### 3. Kết luận và quyết định
+- Đầu tư lắp đặt hệ thống Dock Seal tại các cửa kho lạnh để ngăn thất thoát nhiệt.
+- Trang bị thiết bị ghi nhiệt độ độc lập (Data Logger) cho các lô hàng xuất khẩu yêu cầu cao.
+- Tích hợp hệ thống giám sát nhiệt độ realtime và cảnh báo tự động về trung tâm điều hành.
+- Xây dựng gói dịch vụ Cold Chain Premium và điều chỉnh hợp đồng vận chuyển với các điều khoản phạt vi phạm nhiệt độ khắt khe.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lắp đặt hệ thống Dock Seal và bạt che cửa kho | Anh Quốc (Quản lý kho) | 10/04/2025 |
+| Triển khai app giám sát nhiệt độ realtime cho tài xế | Anh Bình (Kỹ thuật) & IT | 05/04/2025 |
+| Tìm kiếm đối tác cung cấp Data Logger uy tín | Chị Lan (Kinh doanh) | 30/03/2025 |
+| Cập nhật điều khoản bồi thường vào hợp đồng vận tải | Anh Minh (Pháp chế) | 02/04/2025 |
+| Xây dựng bảng giá dịch vụ Cold Chain Premium | Anh Sơn (Tài chính) | 07/04/2025 |
+| Đào tạo quy trình Pre-cooling cho công nhân và tài xế | Anh Quốc (Quản lý kho) | 12/04/2025 |
+| Giám sát chỉ số chất lượng lô hàng (KPI) hàng tháng | Chị Mai (Trưởng bộ phận) | Định kỳ |

@@ -1,0 +1,56 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[15:00:00] Alo, anh em nghe rõ không? Vô họp cái vụ hạ tầng server cho dự án mới cái nè. Tình hình là sếp muốn hệ thống phải chạy mượt trước giáng sinh đó nha.
+[15:00:30] Nghe rõ anh ơi. Mà em thấy cái deadline này hơi "căng cực" à nha. Hiện tại mấy con server vật lý mình đặt bên trung tâm dữ liệu Viettel vẫn chưa thấy bàn giao đủ rack.
+[15:01:00] Ờ, cái đó anh biết. Hình như bên sale họ đang kẹt giấy tờ gì đó. Mà thôi, mình cứ lo phần cấu hình trước đi. Tiến nè, em check lại cái mô hình cluster xem, dùng Proxmox hay ESXi?
+[15:01:30] Dạ vầy nè anh, em thấy Proxmox nó open source, mình tiết kiệm được mớ tiền license để đập vô mua thêm RAM với SSD xịn. Chứ giờ mà mua bản quyền VMware nữa là hụt ngân sách chắc luôn.
+[15:02:00] Proxmox cũng được, nhưng team mình đã có ai cứng tay về nó chưa? Lỡ có chuyện gì giữa đêm là không có support 24/7 của hãng đâu à.
+[15:02:30] Anh yên tâm, em với thằng Huy đã test chạy thử trên lab cả tháng nay rồi, ổn định lắm. Với lại mình cấu hình HA (High Availability) cho nó, con này chết thì con kia nhảy lên thay liền, lo gì anh.
+[15:03:00] Ok, vậy chốt Proxmox. Còn vụ lưu trữ thì sao? Mình dùng SAN hay là chơi Ceph luôn cho nó đồng bộ?
+[15:03:30] Em bỏ phiếu cho Ceph nha. Nó scale dễ, sau này mình muốn nâng dung lượng chỉ cần cắm thêm ổ cứng vô là xong, không phải cấu hình lại từ đầu như mấy con SAN truyền thống.
+[15:04:00] Ceph thì ngon nhưng ngốn băng thông network lắm đó. Em đã tính tới chuyện nâng cấp switch lên 10Gbps chưa? Chứ chạy switch 1Gbps là nghẽn cổ chai ngay và luôn.
+[15:04:30] Dạ em tính hết rồi. Trong bảng báo giá gửi anh tuần trước có kèm 2 con switch Cisco 10G rồi đó, anh duyệt nhanh giùm em để bên mua hàng họ đặt.
+
+<|output|>
+# Triển khai và cấu hình hạ tầng server mới cho dự án phần mềm
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất các thành phần kỹ thuật cho hạ tầng server của dự án mới.
+- Giải quyết các vấn đề về ngân sách, thiết bị và phương án triển khai.
+
+### 2. Các vấn đề đã thảo luận
+- Lựa chọn giải pháp ảo hóa: Chốt sử dụng Proxmox thay vì VMware ESXi để tiết kiệm chi phí bản quyền và tận dụng mã nguồn mở.
+- Giải pháp lưu trữ: Sử dụng Ceph để dễ dàng mở rộng (scaling) trong tương lai.
+- Hạ tầng mạng: Cần nâng cấp lên Switch 10Gbps để đảm bảo băng thông cho Ceph, tránh nghẽn cổ chai.
+
+### 3. Kết luận và quyết định
+- Phê duyệt sử dụng Proxmox và Ceph làm nền tảng hạ tầng chính.
+- Giao bộ phận mua hàng đặt gấp 2 Switch Cisco 10G và Firewall Fortigate 100F.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Mua thiết bị Switch và Firewall | Bộ phận Thu mua | 15/12/2024 |
+| Viết script Ansible cấu hình tự động | Tiến - Team IT | 18/12/2024 |
+| Thiết lập hệ thống Backup và test Restore | Huy - Team IT | 20/12/2024 |

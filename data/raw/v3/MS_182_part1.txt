@@ -1,0 +1,69 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào các thầy cô, chúng ta bắt đầu họp về việc triển khai hệ thống học trực tuyến E-learning cho học kỳ tới nhé.
+[14:02] Về hạ tầng thì hiện tại server của trường đã sẵn sàng chưa ạ?
+[14:04] Bên phòng CNTT đã nâng cấp băng thông rồi, đảm bảo 2000 học sinh truy cập cùng lúc không bị nghẽn.
+[14:06] Vấn đề tôi lo nhất là tài liệu giảng dạy. Nhiều giáo viên vẫn chưa quen với việc soạn bài giảng số.
+[14:08] Chúng ta sẽ tổ chức các buổi tập huấn sử dụng công cụ như Canva và OBS để thầy cô tự quay clip bài giảng.
+[14:10] Hay là mình xây dựng một bộ template chung cho toàn trường để nhìn cho chuyên nghiệp?
+[14:12] Ý kiến hay đó, việc này sẽ giúp học sinh dễ theo dõi và nhận diện thương hiệu của trường.
+[14:14] Về phần kiểm tra đánh giá, hệ thống có hỗ trợ ngăn chặn gian lận không?
+[14:16] Có tính năng xáo trộn câu hỏi và giới hạn thời gian làm bài, nhưng quan trọng vẫn là ý thức của học sinh.
+[14:18] Tôi đề xuất nên có các bài kiểm tra ngắn 5-10 phút sau mỗi chương để nắm bắt kịp thời học lực của các em.
+[14:20] Đồng ý, ngoài ra cần có bộ phận hỗ trợ kỹ thuật trực chiến khi các em làm bài thi lớn.
+[14:22] Lịch tập huấn cho giáo viên sẽ diễn ra vào thứ 4 và thứ 6 tuần tới nhé.
+[14:24] Phòng đào tạo cần gửi thông báo sớm để mọi người sắp xếp công việc.
+[14:26] Còn một việc nữa là phản hồi từ phụ huynh, chúng ta cần có kênh hotline để giải đáp thắc mắc về kỹ thuật cho họ.
+[14:28] Cái này thì văn phòng trường sẽ đảm nhiệm.
+
+<|output|>
+# Triển khai hệ thống học trực tuyến E-learning mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chuẩn bị hạ tầng kỹ thuật và nội dung bài giảng cho hệ thống E-learning học kỳ mới.
+- Thống nhất phương án tập huấn cho giáo viên và hỗ trợ học sinh, phụ huynh.
+- Xây dựng quy trình kiểm tra và đánh giá kết quả học tập trực tuyến.
+
+### 2. Các vấn đề đã thảo luận
+- Hạ tầng server và băng thông đã được nâng cấp cho 2000 truy cập đồng thời.
+- Khó khăn của giáo viên trong việc soạn thảo bài giảng số.
+- Đề xuất xây dựng bộ template bài giảng dùng chung để tăng tính chuyên nghiệp.
+- Các biện pháp chống gian lận trong thi cử trực tuyến (xáo trộn câu hỏi, giới hạn thời gian).
+- Cần có các bài kiểm tra ngắn định kỳ để theo sát tiến độ học sinh.
+- Thành lập bộ phận hỗ trợ kỹ thuật và kênh hotline cho phụ huynh.
+
+### 3. Kết luận và quyết định
+- Tổ chức tập huấn kỹ năng soạn giảng số cho giáo viên vào tuần tới.
+- Áp dụng bộ template bài giảng thống nhất toàn trường.
+- Triển khai kênh hotline hỗ trợ kỹ thuật do văn phòng trường quản lý.
+- Phòng Đào tạo ban hành quy chế kiểm tra đánh giá trực tuyến mới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tổ chức tập huấn soạn bài giảng số | Phòng CNTT | 27/03/2026 |
+| Thiết kế bộ template bài giảng chung | Phòng Đào tạo | 22/03/2026 |
+| Thiết lập hotline hỗ trợ phụ huynh | Văn phòng trường | 24/03/2026 |
+| Soạn thảo quy chế thi cử trực tuyến | Phòng Đào tạo | 30/03/2026 |
+| Kiểm tra tải hệ thống lần cuối | Phòng CNTT | 05/04/2026 |

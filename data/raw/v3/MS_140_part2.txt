@@ -1,0 +1,50 @@
+<|input|>
+# Hội nghị tổng kết năm và định hướng phát triển 5 năm (2024-2029)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Tổng kết tình hình kinh doanh, tài chính, sản xuất, marketing và IT trong năm vừa qua.
+
+### 2. Các vấn đề đã thảo luận
+- Báo cáo năm cũ:
+
+### 3. Kết luận và quyết định
+- Chốt mục tiêu doanh thu 15.000 tỷ đồng vào năm 2029.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Strategic Map 2024-2029 chi tiết | Anh Thắng - Tổng Giám đốc | 15/01/2025 |
+| Lập đề án đầu tư hạ tầng Private Cloud | Anh Dũng - Giám đốc IT | 30/01/2025 |
+[08:22:30] Ờ, cái vụ nợ miền Trung là do đợt bão lũ vừa rồi bà con khó khăn quá, mình cũng phải giãn nợ chút cho họ giữ mối. Nhưng đúng là không được để kéo dài. Anh Hùng bên sản xuất ơi, năm nay dây chuyền mới ở Bình Dương vận hành ra sao rồi? Có đạt được target giảm 10% tỷ lệ hao hụt như cam kết đầu năm không?
+[08:28:45] Báo cáo anh Minh và anh Thắng, dây chuyền Bình Dương sau 3 tháng đầu chạy "ráp" thì giờ đã đi vào ổn định. Tỷ lệ hao hụt hiện tại giảm được 12%, vượt chỉ tiêu 2% nhờ áp dụng hệ thống quản lý chất lượng tự động mà anh Dũng bên IT hỗ trợ lắp đặt. Tuy nhiên, vấn đề đau đầu nhất của em bây giờ là nhân sự tay nghề cao. Công nhân phổ thông thì dễ tuyển, chứ thợ vận hành máy CNC xịn thì họ cứ nhảy việc suốt, vì mấy công ty FDI bên cạnh họ trả lương cao quá.
+[08:35:00] Nhân sự là bài toán muôn thuở rồi. Chị Tuyết bên Marketing ơi, năm qua mình chi bộn tiền cho mảng thương mại điện tử, hiệu quả thực tế thu lại được bao nhiêu lượt chuyển đổi?
+[08:41:15] Dạ anh Minh, năm nay là năm bùng nổ của kênh TikTok Shop và Shopee của mình. Doanh số từ kênh online tăng gấp 3 lần so với năm ngoái, chiếm khoảng 25% tổng doanh thu. Campaign "Tết rộn ràng" vừa rồi đạt hơn 50 triệu view trên các nền tảng xã hội. Tuy nhiên, em thấy mình đang bị phụ thuộc quá nhiều vào các đợt giảm giá (megasale). Khách hàng họ chỉ mua khi có mã giảm giá của sàn thôi. Trong 5 năm tới, em muốn xây dựng cộng đồng khách hàng trung thành (Loyalty program) mạnh hơn để giảm chi phí marketing trực tiếp ạ.
+[08:47:30] Ý tưởng đó đúng hướng đấy Tuyết. Mình không thể cứ đốt tiền mua traffic mãi được. Anh Dũng ơi, hạ tầng IT của mình có đáp ứng được việc quản lý dữ liệu cho hàng triệu khách hàng thân thiết đó không? Nghe nói đợt rồi hệ thống CRM hay bị "treo" lúc cao điểm?
+
+<|output|>
+# Hội nghị tổng kết năm và định hướng phát triển 5 năm (2024-2029)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Tổng kết tình hình kinh doanh, tài chính, sản xuất, marketing và IT trong năm vừa qua.
+- Đánh giá các thành tựu đạt được và những tồn đọng cần xử lý ngay trong năm tới.
+
+### 2. Các vấn đề đã thảo luận
+- Báo cáo năm cũ:
+- Định hướng 5 năm tới (3 trụ cột):
+
+### 3. Kết luận và quyết định
+- Chốt mục tiêu doanh thu 15.000 tỷ đồng vào năm 2029.
+- Phê duyệt lộ trình đầu tư IT trong 3 năm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Strategic Map 2024-2029 chi tiết | Anh Thắng - Tổng Giám đốc | 15/01/2025 |
+| Lập đề án đầu tư hạ tầng Private Cloud | Anh Dũng - Giám đốc IT | 30/01/2025 |
+| Khảo sát thực địa và pháp lý đất Long An | Anh Hùng - Giám đốc Sản xuất | 20/02/2025 |

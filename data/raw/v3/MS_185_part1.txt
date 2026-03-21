@@ -1,0 +1,77 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào mọi người, hôm nay chúng ta tập trung thảo luận về lộ trình phát triển tính năng "Smart Recommendations" cho ứng dụng di động trong quý tới.
+[14:02] Hiện tại hệ thống gợi ý của chúng ta vẫn dựa trên luật (rule-based) nên độ chính xác chưa cao, người dùng phàn nàn là gợi ý không đúng nhu cầu.
+[14:04] Tôi đề xuất mình chuyển sang dùng Collaborative Filtering kết hợp với Content-based để cá nhân hóa tốt hơn.
+[14:06] Nếu dùng Collaborative Filtering thì mình cần xử lý bài toán "Cold Start" cho người dùng mới và sản phẩm mới như thế nào?
+[14:08] Chúng ta có thể dùng Metadata của sản phẩm và thông tin nhân khẩu học của người dùng khi họ mới đăng ký để gợi ý ban đầu.
+[14:10] Về mặt hạ tầng, việc tính toán ma trận tương đồng (similarity matrix) cho 1 triệu user sẽ rất tốn tài nguyên.
+[14:12] Có lẽ mình nên cân nhắc dùng các vector database như Milvus hoặc Pinecone để tối ưu hóa việc tìm kiếm láng giềng gần nhất (ANN).
+[14:14] Tôi lo ngại về độ trễ khi tích hợp vào app, người dùng sẽ không đợi quá 200ms cho một danh sách gợi ý đâu.
+[14:16] Mình sẽ tính toán offline các gợi ý và lưu vào Redis, app chỉ việc gọi API lấy ra thôi. Chỉ những hành động realtime như vừa xem xong một món đồ mới cần trigger update ngay.
+[14:18] Team Data cần chuẩn bị pipeline để thu thập hành vi người dùng: click, view, add to cart, purchase.
+[14:20] Phải đảm bảo tuân thủ quy định về bảo mật thông tin cá nhân nhé, không được log những dữ liệu nhạy cảm.
+[14:22] Về mặt giao diện, tôi muốn phần gợi ý xuất hiện ngay dưới giỏ hàng và ở trang chủ.
+[14:24] Design team cần làm các bản mockup để A/B testing xem vị trí nào cho tỉ lệ click (CTR) cao nhất.
+[14:26] Vậy thống nhất là tuần sau team AI sẽ trình bày bản thiết kế kiến trúc chi tiết.
+[14:28] Team Backend chuẩn bị môi trường staging để test integration.
+[14:30] Deadline cho bản MVP (Minimum Viable Product) là cuối tháng sau.
+[14:32] Chúng ta sẽ họp hàng tuần để cập nhật tiến độ.
+[14:34] Mọi người có ý kiến gì về việc dùng model học sâu không? Hay cứ bắt đầu với các thuật toán truyền thống trước?
+[14:36] Theo tôi cứ làm truyền thống cho chạy ổn định đã, sau đó mới dùng Deep Learning để tối ưu thêm, tránh phức tạp hóa vấn đề ngay từ đầu.
+[14:38] Đồng ý, thực tế là các thuật toán đơn giản thường mang lại 80% giá trị rồi.
+[14:40] Ok, chốt vậy nhé.
+
+<|output|>
+# Phát triển tính năng gợi ý thông minh (Smart Recommendations)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thay thế hệ thống gợi ý cũ (rule-based) bằng hệ thống cá nhân hóa hiện đại.
+- Cải thiện trải nghiệm người dùng và tăng tỉ lệ chuyển đổi thông qua gợi ý sản phẩm chính xác.
+- Thống nhất kiến trúc kỹ thuật và lộ trình triển khai tính năng mới.
+
+### 2. Các vấn đề đã thảo luận
+- Sử dụng mô hình kết hợp Collaborative Filtering và Content-based để tối ưu hóa cá nhân hóa.
+- Giải pháp cho bài toán người dùng mới (Cold Start) bằng Metadata và thông tin đăng ký.
+- Sử dụng Vector Database (Milvus/Pinecone) và Redis để đảm bảo tốc độ phản hồi dưới 200ms.
+- Xây dựng pipeline thu thập dữ liệu hành vi (click, view, purchase) đảm bảo bảo mật.
+- Thiết kế giao diện và thực hiện A/B testing để tìm vị trí hiển thị tối ưu (trang chủ, giỏ hàng).
+- Chiến lược triển khai: bắt đầu với thuật toán truyền thống trước khi áp dụng Deep Learning.
+
+### 3. Kết luận và quyết định
+- Team AI thiết kế kiến trúc chi tiết và lựa chọn công nghệ Vector Database phù hợp.
+- Team Backend thiết lập môi trường staging và API lấy dữ liệu từ Redis.
+- Team Data xây dựng luồng thu thập và xử lý dữ liệu hành vi người dùng.
+- Team Design hoàn thiện mockup cho các vị trí hiển thị gợi ý.
+- Đặt mục tiêu hoàn thành bản MVP vào cuối tháng tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Trình bày thiết kế kiến trúc hệ thống gợi ý | Team AI | 25/03/2026 |
+| Thiết lập pipeline thu thập dữ liệu hành vi | Team Data | 05/04/2026 |
+| Hoàn thiện Mockup giao diện và vị trí gợi ý | Team Design | 30/03/2026 |
+| Xây dựng môi trường staging và hạ tầng Redis | Team Backend | 10/04/2026 |
+| Hoàn thành bản MVP của tính năng | Team AI & Backend | 30/04/2026 |
+| Thực hiện A/B Testing đợt 1 | Team QA & Product | 05/05/2026 |

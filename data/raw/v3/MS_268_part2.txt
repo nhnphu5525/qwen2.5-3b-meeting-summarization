@@ -1,0 +1,60 @@
+<|input|>
+# Thích ứng với Rào cản Thương mại và FTA thế hệ mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích các rào cản kỹ thuật mới (EUDR, MRLs) và tình hình thực thi FTA tại thị trường EU, Mỹ.
+
+### 2. Các vấn đề đã thảo luận
+- Quy định EUDR: Lệnh cấm nhập khẩu sản phẩm liên quan đến phá rừng từ EU gây áp lực lớn cho ngành cà phê, gỗ và cao su.
+- Logistics: Giá cước vận tải biển tăng cao và thời gian giao hàng kéo dài do bất ổn địa chính trị.
+
+### 3. Kết luận và quyết định
+- Triển khai số hóa vùng trồng và hệ thống truy xuất nguồn gốc GPS cho cà phê phối hợp với các hợp tác xã.
+- Làm việc với các tổ chức quốc tế để lấy chứng chỉ bền vững (Rainforest Alliance, 4C) cho vùng nguyên liệu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Số hóa bản đồ vùng trồng và GPS truy xuất nguồn gốc | Anh Minh (Thu mua) | 20/04/2025 |
+| Liên hệ tổ chức cấp chứng chỉ bền vững (Rainforest) | Anh Minh (Thu mua) | 10/04/2025 |
+| Xây dựng dự án Pilot thương hiệu tại Đức | Anh Sơn (Marketing) | 01/05/2025 |
+
+[09:20] Chào chị Lan, việc chuyển hướng thị trường là cần thiết nhưng Mỹ và EU vẫn là những thị trường mang lại giá trị gia tăng cao nhất. Chào mọi người, tôi là Quốc bên bộ phận Pháp chế. Tôi muốn lưu ý về vấn đề chống trợ cấp và chống bán phá giá. Gần đây, Bộ Thương mại Mỹ đã khởi xướng điều tra đối với mặt hàng tôm xuất khẩu của chúng ta. Chúng ta cần chuẩn bị hồ sơ chứng minh nền kinh tế thị trường và tính minh bạch trong các khoản hỗ trợ của Chính phủ cho ngư dân.
+[09:25] Chào anh Quốc, việc chuẩn bị hồ sơ pháp lý là cực kỳ quan trọng. Chị Thảo ơi, tôi là Hồng bên bộ phận Tài chính. Việc thực hiện các tiêu chuẩn xanh (ESG) và truy xuất nguồn gốc sẽ đẩy giá thành sản phẩm lên cao. Liệu khách hàng tại Mỹ và EU có sẵn sàng trả thêm tiền cho các sản phẩm "sạch" và "không phá rừng" này không? Chào chị Hồng, khảo sát cho thấy người tiêu dùng tại các nước phát triển ngày càng ưu tiên các sản phẩm bền vững và sẵn sàng trả cao hơn 10-15%. Vấn đề là chúng ta phải có chứng chỉ quốc tế uy tín để minh chứng cho điều đó.
+[09:30] Đúng vậy. Chào Minh, anh liên hệ với các tổ chức cấp chứng chỉ như Rainforest Alliance hoặc 4C để làm việc về lộ trình cấp chứng chỉ cho các vùng nguyên liệu trọng điểm của chúng ta nhé. Chào anh Bình, anh giúp tôi xây dựng một bản tin cảnh báo thương mại định kỳ để gửi cho các đối tác và các chi nhánh thu mua, giúp họ nắm bắt kịp thời các thay đổi chính sách từ nước sở tại.
+[09:35] Vâng chị Thảo, tôi sẽ thực hiện ngay. Chào chị Lan, chị nghiên cứu thêm phương án thuê kho lạnh tại các cảng trung chuyển ở châu Âu để chủ động điều tiết lượng hàng và giảm rủi ro hỏng hóc do vận chuyển kéo dài. Chào anh Bình, em đã có danh sách một số đối tác kho lạnh tại Rotterdam, em sẽ gửi báo cáo chi tiết vào ngày mai.
+
+<|output|>
+# Thích ứng với Rào cản Thương mại và FTA thế hệ mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích các rào cản kỹ thuật mới (EUDR, MRLs) và tình hình thực thi FTA tại thị trường EU, Mỹ.
+- Đề xuất các giải pháp về truy xuất nguồn gốc, logistics và chuyển đổi số trong nông nghiệp.
+
+### 2. Các vấn đề đã thảo luận
+- Quy định EUDR: Lệnh cấm nhập khẩu sản phẩm liên quan đến phá rừng từ EU gây áp lực lớn cho ngành cà phê, gỗ và cao su.
+- Logistics: Giá cước vận tải biển tăng cao và thời gian giao hàng kéo dài do bất ổn địa chính trị.
+- Rào cản kỹ thuật: Dư lượng thuốc bảo vệ thực vật bị kiểm soát gắt gao; rủi ro bị điều tra chống trợ cấp đối với thủy sản (tôm).
+- Tiêu chuẩn bền vững (ESG): Nhu cầu về chứng chỉ quốc tế và sự sẵn lòng chi trả của người tiêu dùng cho sản phẩm xanh.
+
+### 3. Kết luận và quyết định
+- Triển khai số hóa vùng trồng và hệ thống truy xuất nguồn gốc GPS cho cà phê phối hợp với các hợp tác xã.
+- Làm việc với các tổ chức quốc tế để lấy chứng chỉ bền vững (Rainforest Alliance, 4C) cho vùng nguyên liệu.
+- Xây dựng dự án thí điểm xuất khẩu sản phẩm chế biến sâu có thương hiệu riêng vào chuỗi siêu thị châu Âu (Đức).
+- Chuẩn bị hồ sơ pháp lý minh bạch để ứng phó với các cuộc điều tra phòng vệ thương mại từ Mỹ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Số hóa bản đồ vùng trồng và GPS truy xuất nguồn gốc | Anh Minh (Thu mua) | 20/04/2025 |
+| Liên hệ tổ chức cấp chứng chỉ bền vững (Rainforest) | Anh Minh (Thu mua) | 10/04/2025 |
+| Xây dựng dự án Pilot thương hiệu tại Đức | Anh Sơn (Marketing) | 01/05/2025 |
+| Soạn thảo hồ sơ phòng vệ thương mại vụ tôm | Anh Quốc (Pháp chế) | 15/04/2025 |
+| Khảo sát đối tác kho lạnh tại Rotterdam (Hà Lan) | Chị Lan (Logistics) | 05/04/2025 |
+| Bản tin cảnh báo thương mại quốc tế định kỳ | Anh Bình (Chuyên gia) | Hàng tuần |

@@ -1,0 +1,60 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:00] Chào ban giám đốc và các quản lý xưởng, hôm nay chúng ta họp để đánh giá hiệu suất dây chuyền sản xuất số 4 và kế hoạch nâng cấp tiêu chuẩn ISO 9001:2015 lên phiên bản mới nhất.
+[08:03] Báo cáo tình hình dây chuyền 4, trong tháng qua tỷ lệ lỗi sản phẩm (defect rate) tăng lên mức 4.5%, chủ yếu nằm ở khâu đóng gói tự động.
+[08:06] Tôi đã cho kiểm tra sensor ở khâu này, có vẻ như sau 3 năm hoạt động liên tục, độ chính xác đã giảm đáng kể do bụi bẩn và rung lắc.
+[08:09] Việc này ảnh hưởng trực tiếp đến uy tín của mình với khách hàng Nhật Bản. Họ rất khắt khe về lỗi ngoại quan trên bao bì.
+[08:12] Ngoài vấn đề sensor, tôi thấy quy trình vận hành của công nhân mới cũng chưa đạt chuẩn. Nhiều bạn còn lúng túng khi máy gặp sự cố nhỏ.
+[08:15] Vậy thì kế hoạch đào tạo lại (re-training) cho công nhân xưởng 4 phải được thực hiện ngay trong tuần tới. Quản đốc xưởng phụ trách việc này nhé.
+[08:18] Về phần bảo trì, chúng ta cần chuyển từ bảo trì khắc phục (reactive) sang bảo trì dự phòng (preventive). Tôi muốn có một lịch trình bảo trì chi tiết cho từng máy.
+[08:21] Đồng ý, tôi sẽ phối hợp với team kỹ thuật để lên dashboard theo dõi giờ chạy máy và cảnh báo thay thế linh kiện định kỳ.
+[08:24] Quay lại vấn đề ISO, chúng ta cần rà soát lại toàn bộ hệ thống tài liệu, từ quy trình quản lý rủi ro đến kiểm soát nhà cung cấp.
+[08:27] Chuyên gia tư vấn ISO có lưu ý là phần "Bối cảnh tổ chức" và "Sự tham gia của lãnh đạo" trong bộ hồ sơ cũ của mình còn khá sơ sài.
+[08:30] Chúng ta cần tổ chức một buổi workshop riêng cho ban lãnh đạo để thống nhất tầm nhìn và chiến lược chất lượng trong 5 năm tới.
+[08:33] Ngoài ra, khâu xử lý nước thải tại khu vực xưởng sản xuất đang có dấu hiệu quá tải. Nếu không mở rộng sớm sẽ không đạt chứng chỉ ISO 14001 về môi trường.
+
+<|output|>
+# Tối ưu vận hành sản xuất và nâng cấp hệ thống quản lý chất lượng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng tăng tỷ lệ lỗi sản phẩm tại dây chuyền sản xuất số 4.
+- Lên kế hoạch nâng cấp hệ thống quản lý chất lượng theo tiêu chuẩn ISO.
+
+### 2. Các vấn đề đã thảo luận
+- Tỷ lệ lỗi sản phẩm xưởng 4 tăng (4.5%) do thiết bị sensor cũ và kỹ năng công nhân hạn chế.
+- Chuyển đổi mô hình bảo trì thiết bị từ reactive sang preventive (dự phòng).
+- Thiếu sót trong hồ sơ ISO hiện tại về bối cảnh tổ chức và vai trò lãnh đạo.
+
+### 3. Kết luận và quyết định
+- Thực hiện đào tạo lại toàn bộ công nhân xưởng 4 về quy trình vận hành và xử lý sự cố.
+- Phê duyệt ngân sách 2 tỷ đồng nâng cấp hệ thống xử lý nước thải.
+- Triển khai dashboard theo dõi bảo trì máy móc tự động.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đào tạo lại quy trình vận hành cho công nhân xưởng 4 | Quản đốc xưởng | 25/03/2026 |
+| Thay thế và hiệu chuẩn sensor dây chuyền đóng gói | Tổ Kỹ thuật | 22/03/2026 |
+| Khảo sát và lập phương án nâng cấp trạm xử lý nước thải | Phòng Môi trường | 05/04/2026 |
+| Soạn thảo bộ hồ sơ ISO 9001 mới | Ban ISO | 15/04/2026 |

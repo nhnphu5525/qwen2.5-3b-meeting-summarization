@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào anh Thành, chị Vy và các bạn team dự án. Hôm nay chúng ta họp để bàn về kế hoạch mở bán giai đoạn 2 của dự án căn hộ cao cấp "The Green River". Anh Thành, anh đánh giá thế nào về tình hình giữ chỗ (booking) hiện nay của khách hàng?
+[09:05] Chào chị Hà, chào mọi người. Tính đến hết ngày hôm qua, chúng ta đã nhận được hơn 300 phiếu giữ chỗ có hoàn lại, trong khi rổ hàng giai đoạn này chỉ có 150 căn. Tỷ lệ chọi là 2:1, đây là một tín hiệu rất tốt. Tuy nhiên, tôi quan sát thấy khách hàng đang tập trung quá nhiều vào các căn 2 phòng ngủ hướng sông, còn các căn 3 phòng ngủ và căn shophouse khối đế vẫn còn khá trầm lắng.
+[09:10] Chào anh Thành, tôi là Vy bên bộ phận Marketing. Đúng là các căn 2 phòng ngủ luôn là "best-seller" vì tính thanh khoản cao. Để đẩy mạnh các căn 3 phòng ngủ, tôi đề xuất chúng ta nên thay đổi chính sách bán hàng. Thay vì chiết khấu trực tiếp, chúng ta có thể tặng gói thiết kế nội thất cao cấp trị giá 200 triệu hoặc tặng thêm 2 năm phí quản lý. Khách hàng mua căn 3 phòng ngủ thường là gia đình lớn, họ quan tâm nhiều đến tiện ích và không gian sống.
+[09:15] Chào chị Vy, tôi là Minh, chuyên viên phân tích thị trường. Gần đây đối tác ngân hàng MBBank của chúng ta đã đồng ý gói vay ưu đãi 0% lãi suất trong 24 tháng. Tôi nghĩ đây là "vũ khí" sắc bén nhất hiện nay. Chúng ta nên tập trung truyền thông mạnh về gói vay này cho đối tác và khách hàng cá nhân. Anh Thành thấy sao nếu chúng ta kết hợp chính sách của chị Vy và gói vay ngân hàng cho dòng căn 3 phòng ngủ?
+
+<|output|>
+# Kế hoạch Mở bán Giai đoạn 2 - Dự án The Green River
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình đặt chỗ (booking) giai đoạn 2 của dự án The Green River.
+- Đề xuất các chính sách bán hàng mới cho các dòng sản phẩm khó tiêu thụ (3 phòng ngủ, shophouse).
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thị trường: Lượng booking cao (tỷ lệ 2:1) nhưng tập trung chủ yếu vào căn 2 phòng ngủ. Căn 3 phòng ngủ và shophouse còn chậm.
+- Chính sách bán hàng: Đề xuất tặng gói nội thất, miễn phí quản lý và cam kết lợi nhuận thuê cho shophouse.
+- Hỗ trợ tài chính: Ngân hàng MBBank đồng ý gói vay lãi suất 0% trong 24 tháng.
+
+### 3. Kết luận và quyết định
+- Áp dụng gói hỗ trợ lãi suất 0% và quà tặng nội thất cao cấp cho khách hàng mua căn 3 phòng ngủ.
+- Cam kết lợi nhuận 8%/năm trong 2 năm đầu đối với dòng sản phẩm shophouse khối đế.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế Sales Kit mới cho căn 3 phòng ngủ & Shophouse | Chị Vy (Marketing) | 28/03/2025 |
+| Chốt điều khoản gói vay ưu đãi với MBBank | Anh Minh (Thị trường) | 26/03/2025 |
+| Làm việc với nhà thầu về lối đi tham quan công trường | Anh Thành (Dự án) | 05/04/2025 |
+| Cập nhật tiến độ sổ hồng giai đoạn 1 hàng tuần | Anh Sơn (Pháp lý) | Định kỳ |

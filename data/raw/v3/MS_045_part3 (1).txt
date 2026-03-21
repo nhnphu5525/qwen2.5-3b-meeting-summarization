@@ -1,0 +1,74 @@
+<|input|>
+# Tư vấn cấu trúc cổ đông và đàm phán Term Sheet vòng gọi vốn Series A
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát các điều khoản trong Term Sheet từ nhà đầu tư (Series A) và đánh giá tác động đến quyền kiểm soát của Founders.
+- Thống nhất các điểm cần đàm phán lại để bảo vệ lợi ích dài hạn của công ty.
+
+### 2. Các vấn đề đã thảo luận
+- **Cổ phần ưu đãi và Quyền phủ quyết (Veto Rights):** Founder cần giới hạn quyền phủ quyết để tránh bị can thiệp quá sâu vào vận hành.
+- **Chống pha loãng (Anti-dilution):** Đề xuất chuyển sang "Broad-based Weighted Average".
+- **ESOP Pool:** Đàm phán lập Pool ESOP ở giai đoạn Post-money thay vì Pre-money để nhà đầu tư cùng chia sẻ pha loãng, và giảm tỷ lệ dự phòng xuống mức 7-10%.
+- **Quyền Drag-along (Kéo theo):** Nhà đầu tư đòi mức 51% đe dọa quyền quyết định bán công ty của Founder. Cần nâng lên mức 75% hoặc yêu cầu Founders' Majority.
+- **Liquidation Preference (Ưu tiên thanh lý):** Phản đối mức 2x Participating Preferred và đề xuất mức chuẩn thị trường là 1x Non-participating.
+
+### 3. Kết luận và quyết định
+- Ưu tiên đàm phán các điểm cốt yếu: Chống pha loãng (Weighted Average), Ưu tiên thanh lý (1x Non-participating) và Quyền Drag-along (75%).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[09:34] Dạ, để em đàm phán lại vụ 1x Non-participating. Nghe anh nói xong em mới thấy cái Term Sheet này đầy "bẫy".
+[09:36] Không hẳn là bẫy đâu, đó là cuộc chơi tài chính thôi. Quỹ họ muốn tối đa hóa lợi nhuận và tối thiểu hóa rủi ro. Việc của mình là tìm điểm cân bằng. À, các bạn cũng nên để ý đến điều khoản "Right of First Refusal" (Quyền ưu tiên mua trước) và "Right of First Offer". Nó sẽ kiểm soát việc chuyển nhượng cổ phần giữa các cổ đông với nhau.
+[09:38] Dạ, cái đó tụi em cũng thấy có ghi. Còn vụ ghế trong Hội đồng quản trị (Board of Directors). Họ đòi 1 ghế trên tổng số 3 ghế. Như vậy có ổn không anh?
+[09:40] 1/3 ghế là hợp lý cho nhà đầu tư sở hữu 20%. Tuy nhiên, các bạn nên quy định rõ là các quyết định quan trọng của HĐQT phải có sự đồng ý của ít nhất 2/3 thành viên, trong đó bắt buộc phải có ít nhất một đại diện của Founders. Như vậy thì dù họ có 1 ghế, họ cũng không thể tự quyết được nếu không có các bạn đồng thuận.
+[09:42] Vâng, em hiểu rồi. Vậy lộ trình tiếp theo là em sẽ gửi lại bản phản hồi (Counter-offer) cho quỹ dựa trên những điểm anh vừa tư vấn. Sau đó nếu họ đồng ý thì mình mới tiến hành làm Thẩm định pháp lý (Legal Due Diligence) và ký Hợp đồng mua bán cổ phần (SPA) và Hợp đồng cổ đông (SHA) đúng không anh?
+[09:44] Đúng rồi. Giai đoạn Due Diligence sẽ rất mệt mỏi đấy, họ sẽ soi hết từ giấy phép kinh doanh, hợp đồng lao động, sở hữu trí tuệ đến thuế má. Các bạn nên cho team hành chính rà soát và sắp xếp lại hồ sơ ngay từ bây giờ đi. Đặc biệt là cái giấy chứng nhận đăng ký nhãn hiệu và bản quyền phần mềm cốt lõi của Nam, phải đảm bảo nó thuộc sở hữu của công ty chứ không phải cá nhân các bạn nhé.
+[09:46] Dạ, vụ bản quyền phần mềm thì em đã làm thủ tục chuyển nhượng sang công ty từ tháng trước rồi ạ. Còn nhãn hiệu thì đang đợi Cục Sở hữu trí tuệ cấp bằng.
+[09:48] Tốt. Một điểm nhỏ nữa là điều khoản "Key Man Clause". Quỹ họ sẽ yêu cầu nếu Hiếu hoặc Nam rời bỏ công ty hoặc không thể điều hành thì đó sẽ coi là sự kiện vi phạm (Event of Default). Các bạn nên đàm phán thời gian cam kết gắn bó (Lock-up period) hợp lý, thường là 3-4 năm.
+[09:50] Dạ, tụi em xác định đi đường dài với nó mà, nên cam kết 4 năm cũng không vấn đề gì.
+[09:52] OK, buổi tư vấn hôm nay tạm thời dừng ở đây nhé. Hiếu cứ thảo cái Counter-offer đi rồi gửi anh xem qua trước khi gửi cho quỹ. Đừng có ngại mặc cả, quỹ họ thích những Founder am hiểu luật chơi và quyết liệt bảo vệ quyền lợi công ty đấy.
+[09:54] Dạ, em cảm ơn anh rất nhiều. Có anh đồng hành tụi em tự tin hơn hẳn.
+[09:56] Không có gì. Chúc Startup của các bạn sớm chốt được deal hời nhé!
+[09:58] Dạ tụi em chào anh!
+
+<|output|>
+# Tư vấn cấu trúc cổ đông và đàm phán Term Sheet vòng gọi vốn Series A
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát các điều khoản trong Term Sheet từ nhà đầu tư (Series A) và đánh giá tác động đến quyền kiểm soát của Founders.
+- Thống nhất các điểm cần đàm phán lại (Counter-offer) để bảo vệ lợi ích dài hạn của công ty.
+- Chuẩn bị lộ trình pháp lý cho giai đoạn Thẩm định (Due Diligence) và ký kết bộ hợp đồng đầu tư (SPA/SHA).
+
+### 2. Các vấn đề đã thảo luận
+- **Cổ phần ưu đãi và Quyền phủ quyết (Veto Rights):** Nhà đầu tư yêu cầu quyền phủ quyết đối với các quyết định chiến lược và nhân sự cao cấp. Founder cần giới hạn danh mục này để tránh bị can thiệp quá sâu vào vận hành.
+- **Chống pha loãng (Anti-dilution):** Đề xuất chuyển từ "Full Ratchet" (rất bất lợi cho Founder) sang "Broad-based Weighted Average" để công bằng hơn trong trường hợp Down round.
+- **ESOP Pool:** Đàm phán lập Pool ESOP ở giai đoạn Post-money thay vì Pre-money để nhà đầu tư cùng chia sẻ pha loãng, và giảm tỷ lệ dự phòng xuống mức 7-10%.
+- **Quyền Drag-along (Kéo theo):** Nhà đầu tư đòi mức 51% là quá thấp, đe dọa quyền quyết định bán công ty của Founder. Cần nâng lên mức 75% hoặc yêu cầu Founders' Majority.
+- **Liquidation Preference (Ưu tiên thanh lý):** Phản đối mức 2x Participating Preferred và đề xuất mức chuẩn thị trường là 1x Non-participating.
+- **Hội đồng quản trị (BOD):** Chấp nhận tỷ lệ ghế 1/3 cho nhà đầu tư nhưng cần cơ chế thông qua quyết định phải có sự đồng thuận của Founder.
+- **Các điều khoản khác:** Right of First Refusal (ROFR), Key Man Clause, Lock-up period và tính sẵn sàng của hồ sơ pháp lý (Sở hữu trí tuệ, thuế).
+
+### 3. Kết luận và quyết định
+- Founders sẽ soạn bản Counter-offer dựa trên các kiến nghị của Luật sư để gửi lại cho Quỹ đầu tư.
+- Ưu tiên đàm phán 3 điểm cốt yếu: Chống pha loãng (Weighted Average), Ưu tiên thanh lý (1x Non-participating) và Quyền Drag-along (75%).
+- Giao bộ phận hành chính và kỹ thuật rà soát lại toàn bộ hồ sơ Sở hữu trí tuệ để chuẩn bị cho Due Diligence.
+- Luật sư sẽ rà soát lại bản Counter-offer trước khi chính thức gửi đi.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn bản Counter-offer (phản hồi Term Sheet) | Hiếu (CEO) | 02/12/2024 |
+| Rà soát và chỉnh sửa bản Counter-offer lần cuối | Luật sư | 04/12/2024 |
+| Tập hợp hồ sơ pháp lý, hợp đồng lao động, thuế cho DD | Team Hành chính | 10/12/2024 |
+| Kiểm tra tình trạng nhãn hiệu tại Cục Sở hữu trí tuệ | Nam (CTO) | 05/12/2024 |
+| Lập bảng Cap Table giả định các kịch bản pha loãng | Hiếu (CEO) | 03/12/2024 |
+| Đàm phán trực tiếp với đại diện Quỹ về các điều khoản mới | Founders + Luật sư | 15/12/2024 |
+| Chuẩn bị danh sách ứng viên cho vị trí CFO (theo yêu cầu quỹ) | Hiếu (CEO) | 20/01/2025 |

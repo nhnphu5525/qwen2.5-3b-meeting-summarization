@@ -1,0 +1,49 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00:00] Chào anh Quân, chào Vy nha. Chiều nay mình ngồi lại để review lại danh sách ứng viên sau buổi casting hôm qua cho bộ phim ngắn "Nắng cuối thềm" của mình nha. Anh Quân thấy mấy bạn hôm qua diễn sao anh?
+[14:03:20] Ờ, nhìn chung là mặt bằng chung năm nay các bạn trẻ khá tự tin, ngoại hình cũng sáng. Nhưng mà Vy ơi, anh thấy có vấn đề là nhiều bạn diễn bị "kịch" quá. Phim mình là phim indie, cần sự đời thường, chân thật, mà mấy bạn cứ gồng mình lên diễn kiểu sân khấu, anh thấy không ổn lắm.
+[14:06:40] Dạ vầy nè anh Quân, cái này cũng dễ hiểu vì đa số các bạn là sinh viên trường sân khấu mới ra, chưa có kinh nghiệm đóng phim điện ảnh nhiều. Em thấy có bạn Lan, ứng viên cho vai nữ chính đó, bạn đó có đôi mắt rất biết nói. Lúc diễn phân đoạn chia tay, bạn đó không khóc nức nở mà chỉ rưng rưng thôi, em thấy cái đó mới là cái mình cần.
+[14:10:00] Bạn Lan hả? Để anh coi lại profile... À, bạn này cao 1m65, gương mặt hơi buồn. Đúng là đôi mắt bạn ấy đẹp thật. Nhưng mà Vy nè, bạn này đài từ (giọng nói) hơi bị yếu, nghe nó cứ thều thào sao đó. Nếu mình chọn bạn này thì khâu thu âm trực tiếp sẽ rất mệt cho bên âm thanh đó nha.
+[14:13:20] Cái đó mình có thể cho bạn ấy đi luyện thêm đài từ trong vòng 1 tuần trước khi bấm máy mà anh. Em thấy tố chất diễn xuất của bạn ấy quan trọng hơn. Còn về vai nam chính, anh Quân có chấm được ai chưa? Em thấy bạn Nam - cái cậu có vẻ ngoài hơi phong trần một chút đó - diễn cũng khá ra chất.
+[14:16:40] Ờ, bạn Nam đó anh cũng có để ý. Diễn xuất thì ok, rất tự nhiên. Nhưng mà khi đứng cạnh bạn Lan thì anh thấy hai đứa nó không có "chemistry" (sự kết nối). Nhìn giống hai anh em hơn là một cặp đôi đang yêu nhau. Vy có thấy vậy không?
+
+<|output|>
+# Review Kết quả Casting Diễn viên Phim ngắn "Nắng cuối thềm"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá năng lực diễn xuất và mức độ phù hợp của các ứng viên sau buổi casting đầu tiên.
+- Lựa chọn diễn viên cho các vai chính (Nam chính, Nữ chính) và vai thứ chính.
+
+### 2. Các vấn đề đã thảo luận
+- **Vai Nữ chính (Lan):** Diễn xuất tốt, đôi mắt giàu cảm xúc, phù hợp với dòng phim indie. Tuy nhiên, đài từ còn yếu, cần được đào tạo thêm trước khi bấm máy.
+- **Vai Nam chính:** 
+
+### 3. Kết luận và quyết định
+- Tổ chức buổi Screen test giữa Lan và Đức vào lúc 15:00 cùng ngày để chốt cặp đôi chính.
+- Phê duyệt mời cô Hồng vào vai bà mẹ và điều chỉnh lịch quay ưu tiên ban ngày cho cô.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Chuẩn bị kịch bản và tổ chức Screen test Lan - Đức | Vy (Trợ lý Đạo diễn) | 15:00 05/10/2024 |
+| Điều chỉnh Shooting Schedule theo yêu cầu cô Hồng | Vy | 07/10/2024 |

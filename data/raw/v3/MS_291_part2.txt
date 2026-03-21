@@ -1,0 +1,70 @@
+<|input|>
+# Nâng cao chất lượng trải nghiệm khách hàng và tối ưu hóa quy trình bảo hành
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân sụt giảm chỉ số hài lòng khách hàng (CSAT).
+- Tìm giải pháp giảm tải cho tổng đài và rút ngắn thời gian chờ đợi của khách.
+
+### 2. Các vấn đề đã thảo luận
+- Chỉ số CSAT giảm do thời gian chờ kết nối tổng đài quá lâu.
+- Quy trình bảo hành giấy lạc hậu gây phiền hà cho khách hàng.
+- Nhu cầu triển khai AI Chatbot để xử lý các yêu cầu cơ bản tự động.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án triển khai hệ thống bảo hành điện tử toàn hệ thống.
+- Đầu tư xây dựng AI Chatbot tích hợp đa kênh (Website, Facebook).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xây dựng module bảo hành điện tử | Phòng IT | 30/05/2024 |
+| Thiết lập AI Chatbot trả lời FAQ | Team Social Media | 15/05/2024 |
+
+[14:30] Cần tổ chức ngay các buổi tái đào tạo về kỹ năng giao tiếp và xử lý tình huống khó cho toàn bộ nhân viên khối dịch vụ.
+[14:33] Tôi sẽ mời các chuyên gia về trải nghiệm khách hàng đến chia sẻ và thực hiện các bài test đóng vai (role-play) để nâng cao kỹ năng cho mọi người.
+[14:36] Về chương trình khách hàng thân thiết, tôi thấy tỷ lệ khách hàng quay lại mua lần 2 đang có xu hướng giảm. Chúng ta cần có những ưu đãi cá nhân hóa hơn.
+[14:39] Thay vì gửi voucher đại trà, chúng ta nên gửi quà tặng hoặc ưu đãi vào đúng dịp sinh nhật khách hàng hoặc kỷ niệm ngày họ mua đơn hàng đầu tiên.
+[14:42] Việc này sẽ tạo cảm giác khách hàng được trân trọng và tăng cường sự gắn kết với thương hiệu.
+[14:45] Tôi cũng muốn triển khai tính năng đánh giá dịch vụ ngay sau mỗi cuộc gọi hoặc mỗi lần khách hàng rời khỏi trung tâm bảo hành để có dữ liệu thực tế nhất.
+[14:48] Dữ liệu này sẽ được dùng làm căn cứ để tính KPI và thưởng cho những nhân viên có thành tích xuất sắc trong việc chăm sóc khách hàng.
+[14:51] Về phía các khiếu nại trên mạng xã hội, chúng ta cần phản hồi trong vòng tối đa 30 phút. Hiện tại thời gian phản hồi trung bình của chúng ta là 2 tiếng, quá chậm.
+[14:54] Team Social Media cần phân công người trực theo ca, đảm bảo bao phủ cả khung giờ tối và cuối tuần.
+[14:57] Cuối cùng, tôi muốn mọi người hãy luôn đặt mình vào vị trí của khách hàng để thấu hiểu nỗi đau của họ. Chỉ khi thấu hiểu, chúng ta mới có thể phục vụ tốt nhất.
+[15:00] Tôi yêu cầu Trưởng nhóm CSKH hoàn thiện bộ quy trình xử lý khiếu nại mới và gửi lại cho tôi vào thứ Sáu tuần tới.
+[15:03] Mọi người có ý kiến gì thêm về việc nâng cấp trang thiết bị tại sảnh chờ khách hàng không?
+
+<|output|>
+# Nâng cao chất lượng trải nghiệm khách hàng và tối ưu hóa quy trình bảo hành
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân sụt giảm chỉ số hài lòng khách hàng (CSAT).
+- Tìm giải pháp giảm tải cho tổng đài và rút ngắn thời gian chờ đợi của khách.
+- Triển khai hệ thống bảo hành điện tử và nâng cấp quy trình xử lý khiếu nại.
+
+### 2. Các vấn đề đã thảo luận
+- Chỉ số CSAT giảm do thời gian chờ kết nối tổng đài quá lâu.
+- Quy trình bảo hành giấy lạc hậu gây phiền hà cho khách hàng.
+- Nhu cầu triển khai AI Chatbot để xử lý các yêu cầu cơ bản tự động.
+- Phản hồi tiêu cực về thái độ phục vụ tại một số trung tâm bảo hành.
+- Tỷ lệ khách hàng quay lại mua sắm giảm do thiếu chính sách ưu đãi riêng biệt.
+- Thời gian phản hồi trên mạng xã hội chưa đáp ứng yêu cầu nhanh chóng.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án triển khai hệ thống bảo hành điện tử toàn hệ thống.
+- Đầu tư xây dựng AI Chatbot tích hợp đa kênh (Website, Facebook).
+- Tổ chức khóa đào tạo kỹ năng giao tiếp bắt buộc cho nhân viên khối dịch vụ.
+- Chuyển đổi sang mô hình chăm sóc khách hàng cá nhân hóa theo sự kiện.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xây dựng module bảo hành điện tử | Phòng IT | 30/05/2024 |
+| Thiết lập AI Chatbot trả lời FAQ | Team Social Media | 15/05/2024 |
+| Tổ chức Workshop Trải nghiệm khách hàng | Trưởng phòng CSKH | 20/04/2024 |
+| Lên danh sách quà tặng sinh nhật khách hàng | Bộ phận Marketing | 10/04/2024 |

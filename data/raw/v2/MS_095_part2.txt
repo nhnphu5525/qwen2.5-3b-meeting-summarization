@@ -1,0 +1,74 @@
+<|input|>
+# Dự án phát triển Mobile App Bất động sản
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khởi động dự án phát triển ứng dụng di động cho mảng bất động sản.
+- Thảo luận về các tính năng chính, đặc biệt là VR Tour (xem nhà 3D).
+
+### 2. Các vấn đề đã thảo luận
+- Các tính năng yêu cầu: VR Tour, bản đồ tích hợp, chat trực tiếp với môi giới.
+- Lựa chọn công nghệ: Cân nhắc giữa Flutter và React Native; quyết định làm PoC cho tính năng VR trước.
+- Backend: Sử dụng Node.js để tăng tính chủ động và khả năng mở rộng.
+
+### 3. Kết luận và quyết định
+- Xây dựng bản PoC cho tính năng VR Tour để kiểm tra hiệu năng.
+- Tự build hệ thống Backend bằng Node.js.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xây dựng bản PoC cho tính năng VR Tour | Thắng | 15/01/2026 |
+| Thiết lập cấu trúc Backend và API ban đầu | Team Backend | 22/01/2026 |
+| | | |
+| | | |
+| | | |
+[09:21] Thêm một cái nữa là deadline của họ khá gấp, chỉ có 3 tháng để xong bản MVP thôi.
+[09:23] 3 tháng mà cả đống tính năng thế kia thì căng thật đấy, mình phải chia team ra làm song song thôi.
+[09:25] Anh Nam phụ trách lead team Frontend, còn Thắng tập trung xử lý phần VR Tour và tích hợp bản đồ nhé.
+[09:27] Vâng ạ, em sẽ lên danh sách các công việc cụ thể cho team ngay chiều nay.
+[09:28] Còn phần thiết kế UI/UX thì sao ạ? Khách hàng họ có yêu cầu đặc biệt gì về màu sắc thương hiệu không?
+[09:30] Họ muốn phong cách hiện đại, tối giản nhưng phải sang trọng, kiểu như tông màu xanh đen và vàng gold ấy.
+[09:32] Để em bảo bên thiết kế ra mấy cái sketch ban đầu rồi gửi cho họ duyệt sớm.
+[09:34] Thế chốt vậy nhé, tinh thần là phải tập trung cao độ ngay từ đầu, không là không kịp đâu.
+[09:36] Dạ, bọn em hiểu rồi ạ.
+[09:38] À... có gì khó khăn về thiết bị test hay server thì báo anh luôn để anh xử lý cho nhé.
+[09:39] Vâng, hiện tại em đang cần thêm 2 cái máy iPad đời mới để test cái VR kia cho nó chuẩn ạ.
+[09:40] Ok, để anh duyệt chi ngay, cứ yên tâm mà làm.
+[09:41] Cảm ơn sếp nhiều ạ.
+
+<|output|>
+# Dự án phát triển Mobile App Bất động sản
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khởi động dự án phát triển ứng dụng di động cho mảng bất động sản.
+- Thảo luận về các tính năng chính, đặc biệt là VR Tour (xem nhà 3D).
+- Lựa chọn công nghệ phát triển và phân chia nhân sự.
+
+### 2. Các vấn đề đã thảo luận
+- Các tính năng yêu cầu: VR Tour, bản đồ tích hợp, chat trực tiếp với môi giới.
+- Lựa chọn công nghệ: Cân nhắc giữa Flutter và React Native; quyết định làm PoC cho tính năng VR trước.
+- Backend: Sử dụng Node.js để tăng tính chủ động và khả năng mở rộng.
+- Bảo mật: Ưu tiên mã hóa dữ liệu và xác thực 2FA cho các giao dịch đặt cọc.
+- Thiết kế: Phong cách tối giản, sang trọng với tông màu xanh đen và vàng gold.
+- Tiến độ: Deadline 3 tháng cho bản MVP là một thách thức lớn.
+
+### 3. Kết luận và quyết định
+- Xây dựng bản PoC cho tính năng VR Tour để kiểm tra hiệu năng.
+- Tự build hệ thống Backend bằng Node.js.
+- Phân chia nhân sự: Anh Nam dẫn dắt Frontend, Thắng phụ trách VR và bản đồ.
+- Phê duyệt mua thêm thiết bị iPad phục vụ quá trình kiểm thử VR.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xây dựng bản PoC cho tính năng VR Tour | Thắng | 15/01/2026 |
+| Thiết kế sơ bộ UI/UX (Sketch) | Team Design | 20/01/2026 |
+| Thiết lập cấu trúc Backend và API ban đầu | Team Backend | 22/01/2026 |
+| Lập kế hoạch Sprint chi tiết cho 3 tháng | Anh Nam | 12/01/2026 |
+| Đề xuất và mua sắm thiết bị kiểm thử | Phòng Hành chính | 15/01/2026 |

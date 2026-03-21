@@ -1,0 +1,75 @@
+<|input|>
+# Báo cáo cuộc họp về Ngân hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Ngân hàng hiện tại
+- Giải quyết các tồn đọng liên quan đến chuyển đổi số
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý tín dụng
+- Thiếu hụt nguồn lực cho tín dụng
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho bảo hiểm
+- Phân bổ thêm 2 nhân sự cho mảng huy động vốn
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ thẻ tín dụng | Team Technical | 10/04/2026 |
+| Liên hệ đối tác về nợ xấu | Bộ phận Pháp lý | 03/02/2026 |
+| Kiểm tra tiến độ lãi suất tiền gửi | Phòng Kế hoạch | 22/03/2026 |
+
+[11:14] Vụ chuyển đổi số thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[10:08] Thì Đừng quên vụ tín dụng cũng quan trọng không kém nhé.
+[10:09] Cần phải làm rõ hơn về nợ xấu trong hợp đồng mới.
+[10:10] Cảm ơn mọi người, cuộc họp về Ngân hàng tạm dừng tại đây.
+[10:11] Đúng rồi, cái chuyển đổi số cần được ưu tiên xử lý trước thứ Sáu này.
+[11:24] Tôi sẽ phụ trách kiểm tra lại huy động vốn rồi báo lại cả team vào chiều mai.
+[11:26] Thôi được rồi, vậy thống nhất là triển khai tín dụng theo hướng đó.
+[11:28] Hình như Thôi được rồi, vậy thống nhất là triển khai huy động vốn theo hướng đó.
+[10:15] Nói chung là Cần phải làm rõ hơn về tín dụng trong hợp đồng mới.
+[11:32] Dạ Tôi sẽ phụ trách kiểm tra lại bảo hiểm rồi báo lại cả team vào chiều mai.
+[11:34] À Ai sẽ chịu trách nhiệm chính cho mảng huy động vốn nhỉ?
+[10:18] Đừng quên vụ lãi suất tiền gửi cũng quan trọng không kém nhé.
+[10:19] Tôi thấy bảo hiểm hiện tại là cơ hội tốt để mình bứt phá.
+[11:40] Tóm lại Ai sẽ chịu trách nhiệm chính cho mảng tín dụng nhỉ?
+[11:42] Tôi sẽ phụ trách kiểm tra lại tín dụng rồi báo lại cả team vào chiều mai.
+[10:22] Thì Cần phải làm rõ hơn về chuyển đổi số trong hợp đồng mới.
+[10:23] Tóm lại Đúng rồi, cái tín dụng cần được ưu tiên xử lý trước thứ Sáu này.
+[11:48] Vâng Thôi được rồi, vậy thống nhất là triển khai lãi suất tiền gửi theo hướng đó.
+[11:50] Về dài hạn thì thẻ tín dụng sẽ là trọng tâm của năm nay.
+[11:52] Hay là mình thử thay đổi cách tiếp cận với huy động vốn xem sao?
+[10:27] Thôi được rồi, vậy thống nhất là triển khai lãi suất tiền gửi theo hướng đó.
+[11:56] Tôi thấy tín dụng hiện tại là cơ hội tốt để mình bứt phá.
+
+<|output|>
+# Báo cáo cuộc họp về Ngân hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Ngân hàng hiện tại
+- Giải quyết các tồn đọng liên quan đến chuyển đổi số
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý tín dụng
+- Thiếu hụt nguồn lực cho tín dụng
+- Áp lực từ phía đối tác về lãi suất tiền gửi
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho bảo hiểm
+- Phân bổ thêm 2 nhân sự cho mảng huy động vốn
+- Hoàn thiện báo cáo nợ xấu trước cuối tuần
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ thẻ tín dụng | Team Technical | 10/04/2026 |
+| Liên hệ đối tác về nợ xấu | Bộ phận Pháp lý | 03/02/2026 |
+| Kiểm tra tiến độ lãi suất tiền gửi | Phòng Kế hoạch | 22/03/2026 |
+| Lập kế hoạch chi tiết cho chuyển đổi số | Anh Hoàng | 04/10/2026 |

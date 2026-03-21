@@ -1,0 +1,60 @@
+<|input|>
+# Chiến lược Chuyển đổi số Toàn diện Tập đoàn Giai đoạn 2026-2030
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hình tầm nhìn chiến lược chuyển đổi số toàn diện cho giai đoạn 5 năm tới (2026-2030).
+- Xác định các trụ cột chính, lộ trình thực hiện và các mục tiêu định lượng (OKRs/KPIs).
+
+### 2. Các vấn đề đã thảo luận
+- **Tầm nhìn 2030:** Chuyển mình từ doanh nghiệp bán sản phẩm truyền thống thành một doanh nghiệp dựa trên dữ liệu (Data-Driven Company), lấy công nghệ làm cốt lõi của mô hình kinh doanh.
+- **Bốn trụ cột chiến lược:**
+
+### 3. Kết luận và quyết định
+- Phê duyệt khung chiến lược chuyển đổi số 2026-2030 với 4 trụ cột và lộ trình 2 giai đoạn.
+- Đặt mục tiêu năm 2030: Tự động hóa đạt 90%, doanh thu số chiếm 60%, giảm 50% Time-to-market.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản thảo chiến lược 2026-2030 chi tiết | Minh (IT/Chiến lược) | 15/11/2024 |
+| Lập dự toán ngân sách chi tiết cho Giai đoạn 1 (2026-2027) | Chị Lan (CFO) | 30/11/2024 |
+| Khảo sát năng lực số hiện tại của nhân viên tập đoàn | Nam (Nhân sự) | 20/11/2024 |
+| Đề xuất danh mục thiết bị IoT và AI cho nhà máy mẫu | Anh Hùng (Sản xuất) | 05/12/2024 |
+[08:38:00] Dạ anh Thắng, đây chính là cái "trụ cột" thứ hai trong chiến lược của em: "Văn hóa số và Năng lực số". Trong giai đoạn 2026-2027, em sẽ phối hợp với Minh để tổ chức các chương trình đào tạo quy mô lớn. Không chỉ dạy dùng phần mềm, mà mình dạy về tư duy dữ liệu (Data Literacy), dạy về cách làm việc linh hoạt (Agile). Mình sẽ có những "Digital Champions" ở mỗi bộ phận để dẫn dắt mọi người. Và đặc biệt, mình phải thay đổi cả cơ chế đánh giá KPI, chuyển sang dùng OKR để thúc đẩy sự sáng tạo và chủ động của anh em.
+[08:43:30] Ờ, thay đổi con người là cái khó nhất nhưng cũng là bền vững nhất. Minh nè, anh thấy mảng Marketing với Trải nghiệm khách hàng cũng cần phải "lột xác" hoàn toàn bằng công nghệ. Em có kế hoạch gì cho cái gọi là "Hyper-Personalization" (Cá nhân hóa ở mức độ cao) không?
+[08:49:00] Dạ có anh. Mục tiêu của em đến năm 2028 là mình phải xây dựng được một hệ thống CDP (Customer Data Platform) hoàn chỉnh. Khi một khách hàng bước chân vào cửa hàng hoặc truy cập vào website của mình, hệ thống AI sẽ biết ngay họ là ai, họ thích màu gì, họ đã mua gì của mình từ 2 năm trước, để từ đó đưa ra những gợi ý sản phẩm "trúng phóc" nhu cầu của họ luôn. Mình sẽ dùng Chatbot AI thế hệ mới để hỗ trợ khách hàng 24/7 với phong cách nói chuyện như người thật. Khách hàng sẽ cảm thấy họ được chăm sóc đặc biệt, từ đó tăng tỷ lệ trung thành (Loyalty) lên gấp nhiều lần.
+[08:54:30] Nghe hấp dẫn quá Minh. Nhưng mà chị Lan nè, tiền đâu mà làm hết mấy cái này chị? Tổng ngân sách cho 5 năm này chắc phải lên đến con số hàng nghìn tỷ đồng chứ không ít đâu nha.
+
+<|output|>
+# Chiến lược Chuyển đổi số Toàn diện Tập đoàn Giai đoạn 2026-2030
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hình tầm nhìn chiến lược chuyển đổi số toàn diện cho giai đoạn 5 năm tới (2026-2030).
+- Xác định các trụ cột chính, lộ trình thực hiện và các mục tiêu định lượng (OKRs/KPIs).
+- Thảo luận về phương án ngân sách, nguồn lực con người, văn hóa doanh nghiệp và bảo mật thông tin.
+
+### 2. Các vấn đề đã thảo luận
+- **Tầm nhìn 2030:** Chuyển mình từ doanh nghiệp bán sản phẩm truyền thống thành một doanh nghiệp dựa trên dữ liệu (Data-Driven Company), lấy công nghệ làm cốt lõi của mô hình kinh doanh.
+- **Bốn trụ cột chiến lược:**
+- **Bảo mật & Hệ sinh thái:** 
+
+### 3. Kết luận và quyết định
+- Phê duyệt khung chiến lược chuyển đổi số 2026-2030 với 4 trụ cột và lộ trình 2 giai đoạn.
+- Đặt mục tiêu năm 2030: Tự động hóa đạt 90%, doanh thu số chiếm 60%, giảm 50% Time-to-market.
+- Giao Minh (Giám đốc Chiến lược/IT) chủ trì hoàn thiện bản thảo chi tiết để trình Hội đồng quản trị vào tháng sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản thảo chiến lược 2026-2030 chi tiết | Minh (IT/Chiến lược) | 15/11/2024 |
+| Lập dự toán ngân sách chi tiết cho Giai đoạn 1 (2026-2027) | Chị Lan (CFO) | 30/11/2024 |
+| Khảo sát năng lực số hiện tại của nhân viên tập đoàn | Nam (Nhân sự) | 20/11/2024 |
+| Đề xuất danh mục thiết bị IoT và AI cho nhà máy mẫu | Anh Hùng (Sản xuất) | 05/12/2024 |
+| Lên phương án xây dựng hệ thống CDP và giải pháp AI Marketing | Minh & Team Marketing | 15/12/2024 |
+| Thiết lập bộ chỉ số OKR cho năm đầu tiên triển khai (2026) | Ban Chiến lược | 20/12/2024 |

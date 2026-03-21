@@ -1,0 +1,43 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào buổi sáng tất cả các anh chị em đại diện cho các phòng ban: Logistics, Thu mua, Kinh doanh, Tài chính và các đối tác vận chuyển quốc tế. Hôm nay chúng ta có một cuộc họp chiến lược cực kỳ quan trọng để rà soát và tối ưu hóa toàn bộ chuỗi cung ứng quốc tế của tập đoàn trong bối cảnh địa chính trị thế giới đang có nhiều biến động phức tạp.
+[09:02] Vâng thưa anh, tình hình hiện tại đang rất căng thẳng. Việc khủng hoảng tại Biển Đỏ kéo dài đã khiến hầu hết các hãng tàu lớn như Maersk hay MSC đều phải chuyển hướng đi vòng qua Mũi Hảo Vọng. Điều này làm kéo dài thời gian vận chuyển (transit time) từ châu Á sang châu Âu thêm ít nhất 10-15 ngày.
+[09:04] Kéo dài thời gian là một chuyện, nhưng cái tôi lo nhất là chi phí cước (freight rate). Tôi thấy báo cáo tuần trước là giá cước container 40ft đã tăng gấp 3 lần so với cùng kỳ năm ngoái. Với biên lợi nhuận mỏng như hiện nay, nếu cước cứ tăng thế này thì mảng xuất khẩu của mình sẽ lỗ nặng.
+[09:06] Đúng vậy chị Lan ạ. Không chỉ cước tàu biển mà cả phụ phí nhiên liệu (BAF) và phí mùa cao điểm (PSS) cũng đang bị các hãng tàu đẩy lên rất cao. Thêm vào đó, tình trạng thiếu hụt container rỗng tại các cảng chính của Trung Quốc và Việt Nam đang bắt đầu tái diễn, kiểu như thời kỳ đại dịch Covid ấy.
+[09:08] Ờ... tôi muốn hỏi bên team Logistics, tại sao mình không xem xét các phương thức vận chuyển thay thế? Ví dụ như đường sắt liên vận Á-Âu qua Trung Quốc rồi sang Nga, Ba Lan? Nghe nói đi đường đó chỉ mất khoảng 20-25 ngày thôi?
+[09:10] Dạ thưa anh, phương án đường sắt tụi em đã nghiên cứu kỹ. Tuy nhiên, do xung đột Nga-Ukraine, việc đi qua lãnh thổ Nga hiện nay gặp rất nhiều rủi ro về bảo hiểm và thanh toán quốc tế. Nhiều đối tác châu Âu của mình họ cũng từ chối nhận hàng nếu vận chuyển qua Nga. Còn tuyến đường sắt phía Nam qua Trung Á thì năng lực thông quan (capacity) rất hạn chế, thường xuyên bị tắc nghẽn ở các cửa khẩu.
+
+<|output|>
+# Chiến lược tối ưu hóa chuỗi cung ứng quốc tế và ứng phó biến động địa chính trị
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tác động của khủng hoảng Biển Đỏ và các biến động địa chính trị đến thời gian và chi phí vận chuyển quốc tế.
+
+### 2. Các vấn đề đã thảo luận
+- Khủng hoảng Biển Đỏ kéo dài làm tăng transit time và cước phí tàu biển do phải đi vòng qua Mũi Hảo Vọng.
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |

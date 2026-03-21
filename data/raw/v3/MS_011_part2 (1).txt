@@ -1,0 +1,52 @@
+<|input|>
+# Điều chỉnh chính sách lãi suất và gói tín dụng ưu đãi
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Cập nhật và triển khai quy định mới của Ngân hàng Nhà nước về trần lãi suất huy động.
+
+### 2. Các vấn đề đã thảo luận
+- Giảm trần lãi suất huy động dưới 6 tháng xuống 4.75%/năm và đánh giá tác động đến dòng tiền gửi.
+
+### 3. Kết luận và quyết định
+- Áp dụng biểu lãi suất huy động mới ngay từ ngày mai.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật biểu lãi suất mới trên hệ thống | Phòng CNTT | 19/03/2026 |
+| Truyền thông chính sách mới đến khách hàng | Phòng Marketing | 20/03/2026 |
+[09:08] Về phía cho vay, mình cần đẩy mạnh các gói tín dụng ưu đãi cho doanh nghiệp xuất khẩu và nông nghiệp nông thôn.
+[09:10] Lãi suất cho vay ưu đãi dự kiến sẽ dao động quanh mức 7-8%/năm để hỗ trợ doanh nghiệp phục hồi sản xuất.
+[09:12] Anh cần bộ phận sản phẩm thiết kế ngay gói "Tín dụng xanh" để bắt kịp xu hướng ESG hiện nay.
+[10:14] Vâng, em sẽ làm việc với team để có bản dự thảo sớm nhất.
+
+<|output|>
+# Điều chỉnh chính sách lãi suất và gói tín dụng ưu đãi
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Cập nhật và triển khai quy định mới của Ngân hàng Nhà nước về trần lãi suất huy động.
+- Thảo luận các giải pháp hỗ trợ doanh nghiệp thông qua gói tín dụng ưu đãi.
+- Kiểm soát tình hình nợ xấu và định hướng phát triển sản phẩm tín dụng mới.
+
+### 2. Các vấn đề đã thảo luận
+- Giảm trần lãi suất huy động dưới 6 tháng xuống 4.75%/năm và đánh giá tác động đến dòng tiền gửi.
+- Triển khai gói cho vay ưu đãi lãi suất 7-8%/năm tập trung vào lĩnh vực xuất khẩu và nông nghiệp.
+- Đề xuất xây dựng sản phẩm "Tín dụng xanh" theo tiêu chuẩn ESG.
+
+### 3. Kết luận và quyết định
+- Áp dụng biểu lãi suất huy động mới ngay từ ngày mai.
+- Phê duyệt chủ trương xây dựng gói tín dụng ưu đãi cho doanh nghiệp xuất khẩu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật biểu lãi suất mới trên hệ thống | Phòng CNTT | 19/03/2026 |
+| Truyền thông chính sách mới đến khách hàng | Phòng Marketing | 20/03/2026 |
+| Thiết kế dự thảo gói "Tín dụng xanh" | Phòng Sản phẩm | 25/03/2026 |
+| Rà soát danh sách doanh nghiệp ưu tiên vay vốn | Phòng Tín dụng | 24/03/2026 |

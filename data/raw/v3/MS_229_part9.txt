@@ -1,0 +1,71 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Tuân thủ Pháp lý Bất động sản
+- Giải quyết các vấn đề về chuyển nhượng dự án
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho giấy phép xây dựng
+- Thiếu dữ liệu để đánh giá thẩm định giá
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện thẩm định giá
+- Phê duyệt ngân sách bổ sung cho quy hoạch đô thị
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thẩm định giá | Phòng Kỹ thuật | 03/11/2026 |
+| Họp nhóm để bàn sâu về tranh chấp đất đai | Anh Quốc | 24/11/2026 |
+| Gửi email xác nhận với đối tác về chuyển nhượng dự án | Phòng Tuân thủ Pháp lý Bất động sản | 04/01/2026 |
+
+[11:20] Tôi đề xuất mình sẽ tập trung nguồn lực vào tranh chấp đất đai trong tuần này.
+[14:12] Ờm Thực ra thì giấy phép xây dựng không phải là mục tiêu duy nhất của mình.
+[11:22] Tôi đồng ý với ý kiến về giấy phép xây dựng, nên làm quyết liệt hơn.
+[14:16] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[14:18] Nói chung là mình phải chốt phương án cho tranh chấp đất đai ngay trong hôm nay.
+[14:20] Chào cả nhà, chúng ta bắt đầu bàn về quy hoạch đô thị nhé.
+[11:26] Thì đấy Mọi người có thấy vụ tranh chấp đất đai dạo này bị chậm không?
+[11:27] À Liệu mình có thể đẩy nhanh tiến độ cho thẩm định giá được không?
+[11:28] Vâng, tôi cũng thấy việc tối ưu quy hoạch đô thị là rất cần thiết.
+[11:29] Thế còn ngân sách cho giấy phép xây dựng thì sao hả mọi người?
+[11:30] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[11:31] Tôi đề xuất mình sẽ tập trung nguồn lực vào tranh chấp đất đai trong tuần này.
+[14:34] Dạ Tôi đồng ý với ý kiến về thẩm định giá, nên làm quyết liệt hơn.
+[14:36] Ý tôi là Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[14:38] Thực ra Nói chung là mình phải chốt phương án cho chuyển nhượng dự án ngay trong hôm nay.
+[14:40] Tôi nghĩ là mình nên xem xét lại cái thẩm định giá này một chút.
+[11:36] Liệu mình có thể đẩy nhanh tiến độ cho chuyển nhượng dự án được không?
+[11:37] Tôi đồng ý với ý kiến về giấy phép xây dựng, nên làm quyết liệt hơn.
+[11:38] Mọi người có thấy vụ thẩm định giá dạo này bị chậm không?
+[14:48] Về phần quy hoạch đô thị thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[11:40] Mọi người có thấy vụ giấy phép xây dựng dạo này bị chậm không?
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Tuân thủ Pháp lý Bất động sản
+- Giải quyết các vấn đề về chuyển nhượng dự án
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho giấy phép xây dựng
+- Thiếu dữ liệu để đánh giá thẩm định giá
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện thẩm định giá
+- Phê duyệt ngân sách bổ sung cho quy hoạch đô thị
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thẩm định giá | Phòng Kỹ thuật | 03/11/2026 |
+| Họp nhóm để bàn sâu về tranh chấp đất đai | Anh Quốc | 24/11/2026 |
+| Gửi email xác nhận với đối tác về chuyển nhượng dự án | Phòng Tuân thủ Pháp lý Bất động sản | 04/01/2026 |

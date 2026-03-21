@@ -1,0 +1,56 @@
+<|input|>
+# Xây dựng bộ chỉ số KPI cho toàn công ty
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai kế hoạch xây dựng và áp dụng bộ chỉ số đánh giá hiệu quả công việc (KPI) cho toàn bộ nhân viên công ty.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Đánh giá nhân viên hiện tại còn mang tính chủ quan của quản lý trực tiếp, dẫn đến sự bất mãn và thiếu công bằng.
+- Nguyên tắc xây dựng: KPI phải định lượng được bằng số liệu thực tế, lấy trực tiếp từ các hệ thống quản trị (CRM, ERP, phần mềm chuyên dụng) để đảm bảo tính khách quan.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng hệ thống KPI toàn diện và tự động hóa khâu tính toán, báo cáo qua Dashboard.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo danh sách chỉ số KPI dự kiến cho từng phòng ban | Lan (HR) | 25/10/2023 |
+| Thiết kế biểu mẫu đánh giá và xây dựng Dashboard theo dõi KPI | Phương (IT/Data) | 30/10/2023 |
+[08:38:25] Anh thấy vầy nè, mình nên chia KPI ra làm 3 cấp: Cấp Công ty, Cấp Phòng ban và Cấp Cá nhân. KPI cá nhân phải bám sát KPI phòng ban, và KPI phòng ban phải phục vụ cho mục tiêu chung của công ty. Như vậy thì tất cả mọi người mới cùng nhìn về một hướng được.
+[10:11:15] Dạ, nhưng mà em lo là nếu mình đặt KPI cao quá, mọi người sẽ bị áp lực rồi sinh ra đối phó, "xào nấu" số liệu cho đẹp á anh. Mình có cách nào kiểm soát vụ này không?
+[10:12:40] Cái đó thì mình phải có hệ thống quản trị dữ liệu tập trung. Ví dụ bên Sale thì số liệu phải lấy trực tiếp từ phần mềm CRM, không cho phép nhập tay. Bên Sản xuất thì lấy từ hệ thống ERP. Cứ số liệu hệ thống mà làm thì không ai cãi vào đâu được.
+[10:14:05] Em có ý kiến là mình không nên chỉ nhìn vào con số kết quả (Lagging indicators) mà phải nhìn cả vào các hoạt động dẫn dắt (Leading indicators) nữa. Ví dụ bên Marketing, thay vì chỉ đo số lượng lead mang về, mình nên đo cả số lượng bài viết, lượt tương tác, hay là chất lượng của từng cái lead đó nữa.
+[10:15:30] Đúng rồi Phương. Nếu chỉ nhìn vào kết quả cuối cùng mà bỏ qua quá trình thì dễ dẫn đến tình trạng "ăn xổi ở thì" lắm. Mà mình cũng cần tính đến trọng số (Weight) cho từng chỉ số nữa nha. Cái nào quan trọng hơn thì trọng số cao hơn.
+[10:16:55] Anh Long ơi, còn vụ tự đánh giá (Self-assessment) thì sao ạ? Em thấy mình vẫn nên cho nhân viên cơ hội tự nói về những đóng góp của mình trước khi sếp đánh giá. Nhiều khi có những việc không tên mà sếp không thấy hết được.
+[10:18:20] Đồng ý, quy trình đánh giá 360 độ là cần thiết. Nhân viên tự đánh giá, đồng nghiệp đánh giá và sếp đánh giá. Tuy nhiên, kết quả cuối cùng vẫn phải dựa trên bộ chỉ số KPI đã chốt từ đầu năm. Tránh tình trạng "dĩ hòa vi quý" cả nể nhau.
+
+<|output|>
+# Xây dựng bộ chỉ số KPI cho toàn công ty
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai kế hoạch xây dựng và áp dụng bộ chỉ số đánh giá hiệu quả công việc (KPI) cho toàn bộ nhân viên công ty.
+- Khắc phục tình trạng đánh giá cảm tính, thiếu minh bạch trong công tác khen thưởng và thúc đẩy động lực làm việc.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Đánh giá nhân viên hiện tại còn mang tính chủ quan của quản lý trực tiếp, dẫn đến sự bất mãn và thiếu công bằng.
+- Nguyên tắc xây dựng: KPI phải định lượng được bằng số liệu thực tế, lấy trực tiếp từ các hệ thống quản trị (CRM, ERP, phần mềm chuyên dụng) để đảm bảo tính khách quan.
+- Phân cấp KPI: Chia làm 3 cấp (Công ty, Phòng ban, Cá nhân) với các trọng số (Weight) khác nhau tùy theo mức độ quan trọng của chỉ số.
+- Chỉ số đánh giá: Kết hợp giữa kết quả cuối cùng (Lagging) và các hoạt động dẫn dắt (Leading). Đối với khối hỗ trợ (Back office), cần xác định rõ sản phẩm đầu ra (output) để thiết lập chỉ số phù hợp.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng hệ thống KPI toàn diện và tự động hóa khâu tính toán, báo cáo qua Dashboard.
+- Phân công phòng Nhân sự làm đầu mối xây dựng bộ chỉ số và phối hợp với các Trưởng phòng ban để chốt chỉ số cụ thể.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo danh sách chỉ số KPI dự kiến cho từng phòng ban | Lan (HR) | 25/10/2023 |
+| Thiết kế biểu mẫu đánh giá và xây dựng Dashboard theo dõi KPI | Phương (IT/Data) | 30/10/2023 |
+| Làm việc với các Trưởng phòng để thống nhất chỉ số và trọng số | Lan & Anh Long | 10/11/2023 |
+| Lên kế hoạch truyền thông nội bộ và nội dung workshop | Bộ phận HR | 05/11/2023 |

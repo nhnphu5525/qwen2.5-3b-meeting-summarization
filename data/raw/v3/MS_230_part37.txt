@@ -1,0 +1,85 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Kiểm toán Nội bộ Bán lẻ
+- Giải quyết các vấn đề về kiểm kê định kỳ
+- Thống nhất kế hoạch triển khai chống gian lận
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho chống gian lận
+- Thiếu dữ liệu để đánh giá chống gian lận
+- Khó khăn trong việc phối hợp giữa các bên về quản lý tồn kho
+- Sự cần thiết của việc chuẩn hóa các quy trình nội bộ
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hiệu quả hoạt động
+- Phê duyệt ngân sách bổ sung cho hiệu quả hoạt động
+- Thiết lập nhóm đặc trách xử lý kiểm kê định kỳ
+- Chốt thời điểm bắt đầu triển khai quy trình bán hàng
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thất thoát hàng hóa | Anh Quốc | 25/06/2026 |
+| Họp nhóm để bàn sâu về thất thoát hàng hóa | Phòng Kỹ thuật | 03/09/2026 |
+| Gửi email xác nhận với đối tác về chống gian lận | Anh Quốc | 27/04/2026 |
+| Lập báo cáo chi tiết cho quy trình bán hàng | Phòng Kỹ thuật | 10/03/2026 |
+| Theo dõi tiến độ thực hiện chống gian lận | Ban điều hành | 12/07/2026 |
+
+[21:08] Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[09:48] Cái này nè Đừng quên là kiểm kê định kỳ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:50] Cần phải làm rõ thêm các chi tiết liên quan đến chống gian lận.
+[09:52] Ý tôi là Nói chung là mình phải chốt phương án cho hiệu quả hoạt động ngay trong hôm nay.
+[09:54] Có ai phụ trách chính cho mảng quản lý tồn kho chưa nhỉ?
+[21:13] Ý tôi là Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[09:58] Cái này nè Thôi được rồi, vậy thống nhất là làm quy trình bán hàng theo cách đó.
+[10:00] Vâng Ờm, cái hiệu quả hoạt động này thực ra là một vấn đề khá nan giải.
+[21:16] Tôi nghĩ là mình nên xem xét lại cái thất thoát hàng hóa này một chút.
+[10:04] Thực ra thì quy trình bán hàng không phải là mục tiêu duy nhất của mình.
+[10:06] Cần phải làm rõ thêm các chi tiết liên quan đến hiệu quả hoạt động.
+[21:19] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[10:10] Tôi đồng ý với ý kiến về chống gian lận, nên làm quyết liệt hơn.
+[10:12] Để tôi check lại với bên hiệu quả hoạt động xem tình hình thế nào nhé.
+[10:14] Có ai phụ trách chính cho mảng quản lý tồn kho chưa nhỉ?
+[21:23] Chào cả nhà, chúng ta bắt đầu bàn về thất thoát hàng hóa nhé.
+[21:24] Nói chung là Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[10:20] Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[10:22] Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[21:27] Cái chống gian lận này hình như đang bị vướng chỗ nào đó đúng không?
+[21:28] Dạ Mọi người có thấy vụ kiểm kê định kỳ dạo này bị chậm không?
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Kiểm toán Nội bộ Bán lẻ
+- Giải quyết các vấn đề về kiểm kê định kỳ
+- Thống nhất kế hoạch triển khai chống gian lận
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho chống gian lận
+- Thiếu dữ liệu để đánh giá chống gian lận
+- Khó khăn trong việc phối hợp giữa các bên về quản lý tồn kho
+- Sự cần thiết của việc chuẩn hóa các quy trình nội bộ
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hiệu quả hoạt động
+- Phê duyệt ngân sách bổ sung cho hiệu quả hoạt động
+- Thiết lập nhóm đặc trách xử lý kiểm kê định kỳ
+- Chốt thời điểm bắt đầu triển khai quy trình bán hàng
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thất thoát hàng hóa | Anh Quốc | 25/06/2026 |
+| Họp nhóm để bàn sâu về thất thoát hàng hóa | Phòng Kỹ thuật | 03/09/2026 |
+| Gửi email xác nhận với đối tác về chống gian lận | Anh Quốc | 27/04/2026 |
+| Lập báo cáo chi tiết cho quy trình bán hàng | Phòng Kỹ thuật | 10/03/2026 |
+| Theo dõi tiến độ thực hiện chống gian lận | Ban điều hành | 12/07/2026 |

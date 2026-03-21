@@ -1,0 +1,63 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào anh Quân, chào mọi người. Hôm nay mình chốt cái kế hoạch mở thêm 10 cửa hàng tiện lợi tại khu vực Quận 2 với Quận 9 trong quý III này nha.
+[09:02] Ừ, cái khảo sát địa điểm sao rồi em? Có chỗ nào khả thi không?
+[09:04] Dạ... ờ thì... bên em đã tìm được 6 mặt bằng ở khu vực chung cư cao cấp rồi ạ. Còn lại 4 mặt bằng ở các trục đường chính thì giá thuê đang hơi cao, vượt budget của mình tầm 15-20%.
+[09:06] Vượt budget à? Thế thì... là... mình phải cân nhắc lại. Nếu vị trí thực sự đắc địa, lưu lượng khách hàng lớn thì bù lại được không em?
+[09:08] Dạ, em nghĩ là được ạ. Vì mấy vị trí này nằm ngay gần các trường đại học và khu dân cư sầm uất. Mình có thể tối ưu lại phần decor cửa hàng để tiết kiệm chi phí ban đầu.
+[09:10] Ừ, cũng là một giải pháp. Còn cái vụ nguồn hàng thì sao? Mình đã làm việc với các nhà cung cấp địa phương chưa?
+[09:12] Dạ... rồi ạ. Em đã chốt được danh sách 50 nhà cung cấp rau củ và thực phẩm tươi sống rồi. Họ cam kết giao hàng hằng ngày và giá cả ổn định ạ.
+[09:14] Tốt. Thế còn cái khâu tuyển dụng nhân sự? Mở một lúc 10 cửa hàng là cần khoảng 50 nhân viên đó.
+[09:16] Dạ, em đã lên kế hoạch rồi ạ. Mình sẽ tuyển dụng online kết hợp với phỏng vấn trực tiếp tại văn phòng. Chắc tầm giữa tháng sau là đủ quân ạ.
+[09:18] Ừ, nhớ đào tạo kỹ năng phục vụ cho các bạn nha. Khách hàng giờ họ khó tính lắm đó.
+[09:20] Dạ vâng, em sẽ lưu ý ạ. Em sẽ gửi bản báo cáo chi tiết về chi phí thuê mặt bằng cho anh vào chiều nay nhé.
+[09:22] OK, chốt vậy nha.
+
+<|output|>
+# Kế hoạch mở rộng chuỗi cửa hàng tiện lợi
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt kế hoạch mở thêm 10 cửa hàng tiện lợi tại Quận 2 và Quận 9 trong quý III.
+- Đánh giá khả năng thuê mặt bằng vượt ngân sách.
+- Kiểm tra tiến độ nguồn hàng và tuyển dụng nhân sự.
+
+### 2. Các vấn đề đã thảo luận
+- Mặt bằng: Đã tìm được 6 mặt bằng chung cư, 4 mặt bằng trục đường chính giá cao hơn 15-20% dự kiến.
+- Tối ưu hóa: Đề xuất giảm chi phí thiết kế nội thất để bù vào phần tiền thuê mặt bằng cao.
+- Nguồn hàng: Đã thỏa thuận xong với 50 nhà cung cấp thực phẩm tươi sống địa phương.
+- Nhân sự: Cần khoảng 50 nhân viên cho 10 cửa hàng mới, dự kiến hoàn tất tuyển dụng vào giữa tháng sau.
+
+### 3. Kết luận và quyết định
+- Chấp nhận xem xét các mặt bằng giá cao nếu vị trí có tiềm năng sinh lời cao.
+- Ưu tiên phương án decor đơn giản nhưng hiệu quả để tiết kiệm ngân sách.
+- Tiến hành quy trình tuyển dụng và đào tạo nhân sự song song với việc setup mặt bằng.
+- Theo dõi sát sao việc giao hàng của các đối tác thực phẩm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Gửi báo cáo chi tiết chi phí mặt bằng | Phòng Phát triển mặt bằng | 22/05/2024 |
+| Đàm phán giảm giá thuê mặt bằng trục chính | Phòng Phát triển mặt bằng | 30/05/2024 |
+| Đăng thông báo tuyển dụng 50 nhân viên | Phòng Nhân sự | 01/06/2024 |
+| Ký hợp đồng cung ứng thực phẩm | Phòng Mua hàng | 10/06/2024 |
+| Lập kế hoạch đào tạo nhân viên mới | Phòng Nhân sự | 15/06/2024 |

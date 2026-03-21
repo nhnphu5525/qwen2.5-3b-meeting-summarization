@@ -1,0 +1,70 @@
+<|input|>
+# Nâng cao chất lượng dịch vụ y tế và triển khai hệ thống HIS mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá và cải thiện quy trình tiếp đón, sàng lọc bệnh nhân tại khoa Cấp cứu.
+- Triển khai kế hoạch nâng cấp hệ thống quản lý bệnh viện (HIS) tích hợp AI.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng quá tải và thời gian chờ đợi lâu tại khu vực sàng lọc.
+- Hệ thống HIS cũ thường xuyên gặp sự cố, ảnh hưởng đến hiệu suất làm việc.
+- Rủi ro nhầm lẫn trong quá trình phát thuốc và thực hiện các thủ tục y tế.
+
+### 3. Kết luận và quyết định
+- Áp dụng mô hình phân loại bệnh nhân 5 mức độ ưu tiên chuẩn quốc tế.
+- Đầu tư máy quét mã vạch cầm tay để kiểm soát danh tính bệnh nhân trước khi tiêm/phát thuốc.
+- Phê duyệt dự án nâng cấp hệ thống HIS mới có tính năng hỗ trợ chẩn đoán AI.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Triển khai phân loại bệnh nhân 5 mức độ | Khoa Cấp cứu | 15/04/2024 |
+| Chuyển đổi dữ liệu sang hệ thống HIS mới | Phòng IT | 30/06/2024 |
+
+[09:30] Chúng ta cần triển khai quét mã vạch trên vòng đeo tay của bệnh nhân trước mỗi thao tác y tế như truyền dịch, tiêm thuốc hoặc làm xét nghiệm.
+[09:33] Ý tưởng này rất tốt nhưng cần đầu tư thêm máy quét cầm tay và in mã vạch cho tất cả bệnh nhân nội trú. Chi phí này có nằm trong ngân sách năm nay không?
+[09:36] Chúng ta sẽ trình Ban Giám đốc phê duyệt bổ sung ngân sách cho dự án "Bệnh viện không giấy tờ". Đây là mục tiêu trọng tâm trong năm tới.
+[09:39] Về phía đội ngũ y bác sĩ, tôi thấy mọi người đang chịu áp lực rất lớn. Tỷ lệ nhân viên xin nghỉ việc hoặc chuyển sang khối tư nhân đang có dấu hiệu tăng.
+[09:42] Chúng ta cần xem xét lại chế độ đãi ngộ, đặc biệt là phụ cấp trực đêm và các chính sách hỗ trợ đào tạo chuyên sâu để giữ chân những bác sĩ có tay nghề cao.
+[09:45] Ngoài ra, môi trường làm việc cũng cần được cải thiện. Khu vực nghỉ ngơi của nhân viên hiện tại quá chật hẹp và không đảm bảo vệ sinh.
+[09:48] Tôi sẽ chỉ đạo phòng Quản trị thiết bị cải tạo lại tầng 5 của khu B thành khu vực nghỉ ngơi tiện nghi cho nhân viên y tế trong quý tới.
+[09:51] Một vấn đề khác là công tác phòng chống nhiễm khuẩn bệnh viện. Các báo cáo cho thấy tỷ lệ nhiễm khuẩn vết mổ vẫn còn cao hơn mức cho phép.
+[09:54] Cần tăng cường giám sát việc tuân thủ quy trình rửa tay và vệ sinh phòng mổ. Đội ngũ kiểm soát nhiễm khuẩn phải hoạt động gắt gao hơn.
+[09:57] Chúng ta cũng nên tổ chức các buổi đào tạo lại về quy trình tiệt khuẩn dụng cụ cho các điều dưỡng mới vào làm.
+[10:00] Về phía bệnh nhân, chúng ta cần đẩy mạnh dịch vụ chăm sóc khách hàng. Việc giải đáp thắc mắc và hướng dẫn thủ tục cần được thực hiện một cách chuyên nghiệp hơn.
+
+<|output|>
+# Nâng cao chất lượng dịch vụ y tế và triển khai hệ thống HIS mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá và cải thiện quy trình tiếp đón, sàng lọc bệnh nhân tại khoa Cấp cứu.
+- Triển khai kế hoạch nâng cấp hệ thống quản lý bệnh viện (HIS) tích hợp AI.
+- Thảo luận các biện pháp an toàn người bệnh và kiểm soát nhiễm khuẩn.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng quá tải và thời gian chờ đợi lâu tại khu vực sàng lọc.
+- Hệ thống HIS cũ thường xuyên gặp sự cố, ảnh hưởng đến hiệu suất làm việc.
+- Rủi ro nhầm lẫn trong quá trình phát thuốc và thực hiện các thủ tục y tế.
+- Tỷ lệ nhân viên y tế xin nghỉ việc tăng do áp lực và chế độ đãi ngộ chưa thỏa đáng.
+- Tỷ lệ nhiễm khuẩn vết mổ chưa đạt yêu cầu an toàn.
+
+### 3. Kết luận và quyết định
+- Áp dụng mô hình phân loại bệnh nhân 5 mức độ ưu tiên chuẩn quốc tế.
+- Đầu tư máy quét mã vạch cầm tay để kiểm soát danh tính bệnh nhân trước khi tiêm/phát thuốc.
+- Phê duyệt dự án nâng cấp hệ thống HIS mới có tính năng hỗ trợ chẩn đoán AI.
+- Cải tạo khu vực nghỉ ngơi cho nhân viên tại tầng 5 khu B.
+- Tăng cường giám sát và đào tạo lại về quy trình kiểm soát nhiễm khuẩn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Triển khai phân loại bệnh nhân 5 mức độ | Khoa Cấp cứu | 15/04/2024 |
+| Chuyển đổi dữ liệu sang hệ thống HIS mới | Phòng IT | 30/06/2024 |
+| Mua sắm máy quét mã vạch và vật tư | Phòng Vật tư | 20/04/2024 |
+| Cải tạo khu nghỉ ngơi nhân viên | Phòng Quản trị thiết bị | 15/05/2024 |

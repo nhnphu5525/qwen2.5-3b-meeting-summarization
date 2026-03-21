@@ -1,0 +1,66 @@
+<|input|>
+# Phát triển tính năng "Phản hồi khách hàng 360" trên ứng dụng di động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng tính năng thu thập phản hồi khách hàng đa phương tiện (hình ảnh, video).
+- Tối ưu hóa quy trình xử lý khiếu nại thông qua chatbot.
+- Cải thiện trải nghiệm người dùng và tốc độ phản hồi từ bộ phận CSKH.
+
+### 2. Các vấn đề đã thảo luận
+- Cho phép tải lên media kèm đánh giá sau mua hàng.
+- Chiến lược sử dụng chatbot hỗ trợ có chọn lọc (chỉ với đánh giá thấp).
+- Thách thức về hạ tầng khi xử lý lượng lớn dữ liệu video và giải pháp Cloud Storage.
+- Xây dựng Dashboard quản lý tập trung cho bộ phận CSKH.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phát triển tính năng phản hồi đa phương tiện.
+- Đồng ý sử dụng Cloud Storage để lưu trữ media.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế giao diện UI/UX cho tính năng mới | Team Mobile | 05/04/2026 |
+| Xây dựng API và tích hợp Cloud Storage | Team Backend | 15/04/2026 |
+| Xây dựng Dashboard cho bộ phận CSKH | Team Web | 18/04/2026 |
+| Thiết lập kịch bản chatbot cho feedback thấp | Team CSKH | 12/04/2026 |
+[11:16] Anh muốn có hệ thống phân loại đánh giá tự động bằng AI (Sentiment Analysis) để biết khách hàng đang vui hay buồn.
+[11:18] Việc này sẽ giúp mình ưu tiên xử lý các trường hợp khách hàng đang bức xúc trước để tránh khủng hoảng truyền thông.
+[11:20] Dự kiến bao lâu thì mình xong bản Beta để test nội bộ?
+[11:22] Khoảng 3 tuần nữa ạ. Team Backend đang hoàn thiện API, còn team Mobile đang làm UI.
+[11:24] Chốt lại: Phản hồi kèm media, tích hợp chatbot cho feedback thấp, dùng Cloud Storage và AI phân tích cảm xúc.
+
+<|output|>
+# Phát triển tính năng "Phản hồi khách hàng 360" trên ứng dụng di động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng tính năng thu thập phản hồi khách hàng đa phương tiện (hình ảnh, video).
+- Tối ưu hóa quy trình xử lý khiếu nại thông qua chatbot và phân tích cảm xúc (AI).
+- Cải thiện trải nghiệm người dùng và tốc độ phản hồi từ bộ phận CSKH.
+
+### 2. Các vấn đề đã thảo luận
+- Cho phép tải lên media kèm đánh giá sau mua hàng.
+- Chiến lược sử dụng chatbot hỗ trợ có chọn lọc (chỉ với đánh giá thấp).
+- Thách thức về hạ tầng khi xử lý lượng lớn dữ liệu video và giải pháp Cloud Storage.
+- Xây dựng Dashboard quản lý tập trung cho bộ phận CSKH.
+- Ứng dụng AI để phân loại cảm xúc khách hàng tự động.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phát triển tính năng phản hồi đa phương tiện.
+- Đồng ý sử dụng Cloud Storage để lưu trữ media và AI Sentiment Analysis để phân loại dữ liệu.
+- Đặt mục tiêu hoàn thành bản Beta trong vòng 3 tuần tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế giao diện UI/UX cho tính năng mới | Team Mobile | 05/04/2026 |
+| Xây dựng API và tích hợp Cloud Storage | Team Backend | 15/04/2026 |
+| Huấn luyện model AI phân tích cảm xúc | Team AI | 20/04/2026 |
+| Xây dựng Dashboard cho bộ phận CSKH | Team Web | 18/04/2026 |
+| Thiết lập kịch bản chatbot cho feedback thấp | Team CSKH | 12/04/2026 |
+| Chạy thử nghiệm bản Beta nội bộ | Team QA | 25/04/2026 |

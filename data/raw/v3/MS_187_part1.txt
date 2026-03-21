@@ -1,0 +1,73 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[10:00] Chào anh chị em, họp định kỳ về nhân sự và phúc lợi quý 2 nào.
+[10:02] Vấn đề đầu tiên là kết quả đánh giá KPI năm vừa rồi, có khá nhiều nhân viên đạt mức xuất sắc, chúng ta cần lên phương án thưởng xứng đáng.
+[10:04] Ngoài thưởng tiền mặt, tôi đề xuất có thêm các gói bảo hiểm sức khỏe cao cấp cho gia đình nhân viên cấp quản lý.
+[10:06] Cái này hay, nó sẽ giúp gắn kết nhân sự lâu dài với công ty hơn.
+[10:08] Còn về đào tạo, khảo sát gần đây cho thấy nhân viên muốn học thêm về kỹ năng mềm và ngoại ngữ.
+[10:10] Chúng ta có thể ký hợp đồng với các trung tâm đào tạo uy tín để tổ chức các lớp học ngay tại văn phòng hoặc online.
+[10:12] Ngân sách đào tạo năm nay có hạn, nên ưu tiên các khóa học thực sự cần thiết cho công việc trước.
+[10:14] Vậy mình sẽ tập trung vào kỹ năng đàm phán cho team kinh doanh và quản trị dự án cho team kỹ thuật nhé.
+[10:16] Vấn đề tiếp theo là tuyển dụng, chúng ta đang thiếu khoảng 20 nhân sự cho mảng công nghệ mới.
+[10:18] Nguồn tuyển hiện nay đang rất cạnh tranh, mình nên cân nhắc tăng lương cơ bản hoặc có chính sách Sign-on bonus.
+[10:20] Tôi nghĩ mình nên đẩy mạnh Employer Branding, để ứng viên tự tìm đến mình vì môi trường làm việc tốt.
+[10:22] Sắp tới có kỳ nghỉ hè của công ty, mọi người chọn địa điểm đi: Đà Nẵng hay Phú Quốc?
+[10:24] Đa số nhân viên trong khảo sát nhanh thích đi Phú Quốc hơn.
+[10:26] Vậy thống nhất Phú Quốc nhé. Phòng hành chính liên hệ bên tour để lấy báo giá cho 200 người.
+[10:28] Cuối cùng là việc sửa đổi nội quy lao động, đặc biệt là phần làm việc từ xa (Work from home).
+[10:30] Đề xuất cho phép nhân viên WFH tối đa 2 ngày mỗi tuần, nhưng phải đảm bảo hiệu quả công việc và có mặt khi họp quan trọng.
+[10:32] Cái này cần có hệ thống quản lý task rõ ràng để kiểm soát, tránh tình trạng lạm dụng.
+[10:34] Bộ phận nhân sự soạn thảo lại quy định và gửi lấy ý kiến công đoàn trước khi ban hành chính thức.
+[10:36] Ok, buổi họp kết thúc tại đây.
+
+<|output|>
+# Chính sách nhân sự, đào tạo và phúc lợi quý 2
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất phương án khen thưởng và phúc lợi cho nhân viên dựa trên kết quả KPI.
+- Xây dựng kế hoạch đào tạo nâng cao kỹ năng cho các phòng ban trong năm 2026.
+- Thảo luận giải pháp tuyển dụng nhân sự chất lượng cao và chính sách làm việc linh hoạt.
+
+### 2. Các vấn đề đã thảo luận
+- Thưởng KPI xuất sắc: Kết hợp tiền mặt và gói bảo hiểm sức khỏe cao cấp cho người thân quản lý.
+- Đào tạo: Tập trung kỹ năng đàm phán (Kinh doanh) và Quản trị dự án (Kỹ thuật).
+- Tuyển dụng: Cạnh tranh cao trong mảng công nghệ, đề xuất Sign-on bonus và xây dựng thương hiệu nhà tuyển dụng.
+- Phúc lợi: Chốt địa điểm du lịch hè tại Phú Quốc cho toàn công ty.
+- Chế độ làm việc: Đề xuất chính sách Work From Home (WFH) 2 ngày/tuần kèm điều kiện quản lý task.
+
+### 3. Kết luận và quyết định
+- Phòng Nhân sự hoàn thiện danh sách thưởng và gói bảo hiểm mới.
+- Triển khai tìm kiếm đối tác đào tạo cho các khóa học kỹ năng chuyên môn.
+- Phòng Hành chính liên hệ các đơn vị lữ hành để chuẩn bị cho chuyến đi Phú Quốc.
+- Soạn thảo và lấy ý kiến về quy định WFH mới trước khi áp dụng chính thức.
+- Tăng cường các hoạt động truyền thông về môi trường làm việc để hỗ trợ tuyển dụng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện danh sách thưởng KPI và bảo hiểm | Phòng Nhân sự | 30/03/2026 |
+| Liên hệ báo giá tour du lịch Phú Quốc | Phòng Hành chính | 10/04/2026 |
+| Tìm đối tác đào tạo kỹ năng chuyên môn | Phòng Nhân sự | 15/04/2026 |
+| Soạn thảo quy định làm việc từ xa (WFH) | Phòng Nhân sự | 05/04/2026 |
+| Triển khai chiến dịch Employer Branding | Team Marketing/HR | 20/04/2026 |

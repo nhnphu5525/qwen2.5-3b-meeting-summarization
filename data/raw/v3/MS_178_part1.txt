@@ -1,0 +1,57 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[10:00:00] Chào anh em kỹ thuật và quản lý xưởng nha. Nay tôi xuống đây là để "xử" cái vụ tỷ lệ phế phẩm ở dây chuyền số 2 nó tăng vọt mấy ngày nay nè. Mọi người giải trình sao đây?
+[10:00:30] Dạ chào anh Sơn. Em cũng đang nhức đầu vụ này đây. Bình thường tỷ lệ phế phẩm chỉ tầm 2% thôi, mà 3 ngày gần đây nó nhảy lên tận 8-9%, toàn là lỗi trầy xước bề mặt với lệch kích thước không hà.
+[10:01:00] Lệch kích thước thì chỉ có thể là do máy móc thôi. Ông kiểm tra lại cái tay gắp robot với mấy con sensor hành trình chưa?
+[10:01:30] Dạ em cho anh em kỹ thuật kiểm tra rồi, máy vẫn chạy đúng thông số. Nhưng mà em để ý thấy là lỗi nó hay xảy ra vào ca đêm, lúc mà nhiệt độ nhà xưởng nó xuống thấp ấy anh.
+[10:02:00] Nhiệt độ thấp thì liên quan gì đến lệch kích thước? Trừ khi là do dầu thủy lực nó bị đặc lại làm máy phản ứng chậm, hoặc là phôi thép nó co ngót không đều.
+[10:02:30] Em cũng nghi là do phôi thép đợt này mình mới đổi nhà cung cấp bên phía Bắc. Có vẻ như chất lượng thép không đồng nhất, lúc tôi luyện xong nó bị biến dạng nhiều hơn so với loại cũ mình hay xài.
+[10:03:00] Trời ơi, sao đổi nhà cung cấp mà không báo cho bên kỹ thuật test trước? Mấy ông bên thu mua làm ăn kiểu gì vậy?
+[10:03:30] Dạ bên thu mua bảo là nhà cung cấp cũ họ tăng giá ác quá nên phải tìm mối mới để tiết kiệm chi phí. Ai dè tiết kiệm được tí tiền nguyên liệu mà giờ tiền phế phẩm nó nuốt hết luôn rồi.
+[10:04:00] Thôi, giờ trách móc cũng không được gì. Trước mắt ông cho dừng ngay cái lô phôi mới đó lại, lấy lô cũ còn sót lại trong kho ra chạy xem có hết lỗi không.
+[10:04:30] Dạ em đang cho thay phôi đây. Còn cái vụ trầy xước bề mặt, em phát hiện ra là mấy miếng đệm cao su trên băng tải nó bị mòn hết rồi, lòi cả khung sắt ra nên nó quẹt vô sản phẩm làm trầy hết trơn.
+
+<|output|>
+# Xử lý tình trạng tỷ lệ phế phẩm tăng cao tại dây chuyền sản xuất số 2
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân gốc rễ khiến tỷ lệ phế phẩm tại dây chuyền số 2 tăng từ 2% lên 9%.
+- Đề xuất các biện pháp khắc phục ngay lập tức để giảm thiểu thiệt hại.
+
+### 2. Các vấn đề đã thảo luận
+- Lỗi lệch kích thước: Nghi vấn do chất lượng phôi thép từ nhà cung cấp mới không đồng nhất và sự co ngót nhiệt vào ca đêm.
+- Lỗi trầy xước bề mặt: Do miếng đệm cao su trên băng tải bị mòn, làm lộ khung sắt gây va chạm với sản phẩm.
+- Vấn đề nguyên liệu: Bên thu mua tự ý đổi nhà cung cấp phôi thép giá rẻ mà chưa qua kiểm định kỹ thuật.
+
+### 3. Kết luận và quyết định
+- Tạm dừng sử dụng lô phôi thép mới, chuyển sang sử dụng lô cũ để đối chứng và ổn định sản xuất.
+- Thay mới toàn bộ hệ thống đệm cao su băng tải và vệ sinh bể nước làm mát ngay trong ngày.
+- Tổ chức buổi đào tạo kỹ năng vận hành (Retraining) cho nhóm công nhân mới tại ca 2.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thay thế đệm cao su băng tải và vệ sinh máy | Tổ bảo trì | 15/12/2024 |
+| Đào tạo lại thao tác vận hành cho công nhân ca 2 | Quản lý xưởng | 16/12/2024 |
+| Kiểm định lại chất lượng lô phôi thép mới | Bộ phận KCS | 17/12/2024 |

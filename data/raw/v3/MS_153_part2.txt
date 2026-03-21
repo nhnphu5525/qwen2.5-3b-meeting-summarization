@@ -1,0 +1,64 @@
+<|input|>
+# Cập nhật phác đồ điều trị sốt xuất huyết mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phổ biến và cập nhật phác đồ điều trị sốt xuất huyết Dengue mới nhất của Bộ Y tế cho đội ngũ y bác sĩ.
+- Nhận diện các điểm khác biệt quan trọng trong phác đồ mới để tránh sai sót trong điều trị.
+
+### 2. Các vấn đề đã thảo luận
+- Tầm quan trọng của việc phân loại bệnh nhân ngay từ đầu dựa trên các dấu hiệu cảnh báo (đau bụng, nôn ói, xuất huyết niêm mạc, tiểu cầu giảm nhanh).
+- Nguyên tắc bù dịch: Ưu tiên đường uống, chỉ truyền dịch khi có chỉ định cụ thể và phải kiểm soát tốc độ chặt chẽ để tránh quá tải tuần hoàn.
+- Vai trò của xét nghiệm NS1Ag trong việc chẩn đoán sớm những ngày đầu của bệnh.
+
+### 3. Kết luận và quyết định
+- Triển khai in ấn và dán lưu đồ điều trị phác đồ mới tại phòng trực và các buồng bệnh để tiện tra cứu.
+- Tổ chức buổi tập huấn ngắn cho toàn bộ đội ngũ điều dưỡng về cách nhận diện sớm các dấu hiệu cảnh báo và dấu hiệu sốc.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| In ấn và dán lưu đồ phác đồ điều trị mới tại các phòng | Bộ phận Hành chính | 12/10/2023 |
+| Soạn nội dung và tổ chức tập huấn cho điều dưỡng | Bác sĩ Lan | 15/10/2023 |
+[09:09:45] Dạ, vậy còn vụ dùng thuốc hạ sốt thì sao ạ? Có thay đổi gì không anh? Em thấy nhiều người dân vẫn còn thói quen dùng Ibuprofen hay Aspirin để hạ sốt cho nhanh, cái này nguy hiểm quá.
+[09:11:10] Tuyệt đối cấm nha! Cái này mình phải dặn dò điều dưỡng nhắc nhở người nhà thật kỹ. Chỉ dùng Paracetamol thôi, và đúng liều lượng. Dùng mấy cái kia là nó làm tăng nguy cơ xuất huyết, lúc đó cứu không kịp đâu.
+[09:12:35] Em có ý kiến là mình nên làm một cái bảng tóm tắt lưu đồ điều trị dán ngay tại phòng trực và các buồng bệnh luôn cho anh em dễ tra cứu. Chứ nhiều khi cấp cứu đông quá, cuống lên lại nhớ lộn liều lượng là gay.
+[09:14:00] Ý kiến của bác sĩ Nam rất tốt. Để tôi nhờ bên hành chính in màu cái lưu đồ đó ra, ép plastic cho bền rồi dán khắp nơi. Tiện thể mình tổ chức một buổi tập huấn ngắn cho cả đội ngũ điều dưỡng luôn, vì họ là người trực tiếp theo dõi bệnh nhân 24/24 mà.
+[09:15:25] Dạ đúng, điều dưỡng mà nhận diện sớm được dấu hiệu sốc thì bác sĩ mình mới can thiệp kịp. Chứ để tới lúc mạch bằng không huyết áp bằng không mới gọi bác sĩ là thua rồi.
+[09:16:50] OK, vậy thống nhất vậy nha. Bác sĩ Lan soạn lại cái nội dung tập huấn ngắn gọn cho điều dưỡng đi. Bác sĩ Nam phụ trách kiểm tra lại kho thuốc và dịch truyền xem có đủ đáp ứng nếu ca bệnh tăng đột biến không nha.
+[09:18:15] Dạ em rõ rồi. Để em qua kho dược kiểm tra luôn.
+[09:19:40] Thôi, mọi người về vị trí trực đi. Có ca nào diễn biến nặng là phải báo cáo tôi ngay lập tức, không được tự ý xử lý đâu nha. Chào mọi người.
+
+<|output|>
+# Cập nhật phác đồ điều trị sốt xuất huyết mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phổ biến và cập nhật phác đồ điều trị sốt xuất huyết Dengue mới nhất của Bộ Y tế cho đội ngũ y bác sĩ.
+- Nhận diện các điểm khác biệt quan trọng trong phác đồ mới để tránh sai sót trong điều trị.
+- Tăng cường công tác theo dõi và xử trí sớm các ca bệnh nặng, ca có dấu hiệu cảnh báo.
+
+### 2. Các vấn đề đã thảo luận
+- Tầm quan trọng của việc phân loại bệnh nhân ngay từ đầu dựa trên các dấu hiệu cảnh báo (đau bụng, nôn ói, xuất huyết niêm mạc, tiểu cầu giảm nhanh).
+- Nguyên tắc bù dịch: Ưu tiên đường uống, chỉ truyền dịch khi có chỉ định cụ thể và phải kiểm soát tốc độ chặt chẽ để tránh quá tải tuần hoàn.
+- Vai trò của xét nghiệm NS1Ag trong việc chẩn đoán sớm những ngày đầu của bệnh.
+- Cảnh báo về các biến chứng tạng (gan, thận) ngoài các biến chứng thường gặp như sốc và xuất huyết.
+- Nhắc nhở về việc sử dụng thuốc hạ sốt: Tuyệt đối không dùng Ibuprofen và Aspirin; chỉ dùng Paracetamol đúng liều.
+
+### 3. Kết luận và quyết định
+- Triển khai in ấn và dán lưu đồ điều trị phác đồ mới tại phòng trực và các buồng bệnh để tiện tra cứu.
+- Tổ chức buổi tập huấn ngắn cho toàn bộ đội ngũ điều dưỡng về cách nhận diện sớm các dấu hiệu cảnh báo và dấu hiệu sốc.
+- Kiểm tra và đảm bảo nguồn thuốc, dịch truyền dự phòng cho các tình huống bệnh tăng cao.
+- Thiết lập quy trình báo cáo nhanh các ca bệnh diễn biến nặng cho bác sĩ trưởng khoa.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| In ấn và dán lưu đồ phác đồ điều trị mới tại các phòng | Bộ phận Hành chính | 12/10/2023 |
+| Soạn nội dung và tổ chức tập huấn cho điều dưỡng | Bác sĩ Lan | 15/10/2023 |
+| Kiểm tra tồn kho thuốc và dịch truyền đặc dụng | Bác sĩ Nam | 13/10/2023 |
+| Tổng hợp báo cáo tình hình bệnh nhân hàng ngày | Điều dưỡng trưởng | 12/10/2023 |

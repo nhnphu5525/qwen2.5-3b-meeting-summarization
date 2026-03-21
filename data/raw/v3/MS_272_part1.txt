@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào các anh chị, hôm nay công ty du lịch của chúng ta họp để thảo luận về hướng đi mới: Phát triển sản phẩm du lịch bền vững (Sustainable Tourism) tại khu vực miền núi phía Bắc. Đây không chỉ là xu hướng toàn cầu mà còn là cách để chúng ta bảo tồn văn hóa và môi trường bản địa. Chị An, chị đã khảo sát được những địa điểm nào tiềm năng chưa?
+[14:05] Chào anh Vinh, chào cả team. Tôi là An, trưởng phòng Sản phẩm. Gần đây tôi có chuyến khảo sát tại các bản làng ở Hà Giang và Lào Cai. Tiềm năng là cực lớn nhưng hạ tầng du lịch ở đây đang phát triển theo hướng "bê tông hóa" quá nhanh, làm mất đi vẻ đẹp hoang sơ. Tôi đề xuất chúng ta nên hợp tác trực tiếp với các hộ dân để làm mô hình "Ecolodge" quy mô nhỏ, sử dụng vật liệu tự nhiên như tre, gỗ, đá và hạn chế tối đa nhựa dùng một lần.
+[14:10] Chào chị An, tôi là Mạnh bên bộ phận Marketing. Ý tưởng Ecolodge rất hay nhưng để thu hút khách quốc tế cao cấp, chúng ta cần nhiều hơn thế. Khách hàng bây giờ họ muốn "trải nghiệm sống như người bản địa". Chúng ta có thể thiết kế các tour học làm thổ cẩm, gặt lúa trên ruộng bậc thang hoặc nấu các món ăn truyền thống cùng dân bản. Quan trọng là số tiền khách chi trả phải được trích lại một phần để xây dựng trường học hoặc cải thiện hệ thống nước sạch cho chính bản làng đó.
+[14:15] Chào anh Mạnh, chị An. Tôi là Phương bên bộ phận Điều hành tour. Việc trích lợi nhuận làm từ thiện là một điểm cộng rất lớn (Social Impact). Tuy nhiên, tôi lo ngại về vấn đề rác thải và ý thức của khách du lịch. Chúng ta cần có một bộ quy tắc ứng xử (Code of Conduct) dành cho khách hàng trước khi tham gia tour. Ví dụ: không cho tiền trẻ em bừa bãi, không vứt rác, tôn trọng các tập tục tâm linh của người dân.
+
+<|output|>
+# Phát triển Sản phẩm Du lịch Bền vững khu vực Miền núi phía Bắc
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận chiến lược phát triển dòng sản phẩm du lịch bền vững (Sustainable Tourism) tại Hà Giang và Lào Cai.
+
+### 2. Các vấn đề đã thảo luận
+- Mô hình lưu trú: Ưu tiên Ecolodge quy mô nhỏ, sử dụng vật liệu tự nhiên, hạn chế nhựa và bê tông hóa.
+- Trải nghiệm khách hàng: Thiết kế các hoạt động tương tác sâu với văn hóa bản địa (nông nghiệp, nghề thủ công, ẩm thực).
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án "Green Heritage Tour" với trọng tâm là Hà Giang và Lào Cai.
+- Trích 5% doanh thu tour để đóng góp vào Quỹ bảo tồn văn hóa và hỗ trợ cộng đồng địa phương.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Chốt danh sách các hộ dân và địa điểm Ecolodge | Chị An (Sản phẩm) | 15/04/2025 |
+| Xây dựng Storytelling và sản xuất phim ngắn giới thiệu | Anh Mạnh (Marketing) | 30/04/2025 |
+| Thẩm định vệ sinh và an toàn thực phẩm các homestay | Chị Phương (Điều hành) | 20/04/2025 |

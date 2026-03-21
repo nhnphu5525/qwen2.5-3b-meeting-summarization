@@ -1,0 +1,46 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:30] Chào mọi người, cảm ơn các anh chị đã dành thời gian tham gia buổi họp quan trọng về tình hình an ninh mạng của tập đoàn chúng ta. Tôi là Hoàng, Giám đốc Công nghệ (CTO). Sáng nay hệ thống giám sát SIEM đã phát hiện một loạt các hành vi bất thường truy cập vào máy chủ dữ liệu chính của bộ phận Nhân sự. Chúng ta cần xác định xem đây là một cuộc tấn công có chủ đích hay chỉ là một lỗi cấu hình.
+[08:35] Chào anh Hoàng, chào mọi người. Tôi là Nam, trưởng nhóm An ninh mạng. Sau khi phân tích log từ Firewall và hệ thống phát hiện xâm nhập (IDS), chúng tôi thấy có dấu hiệu của một đợt tấn công brute-force vào các tài khoản có đặc quyền quản trị từ các địa chỉ IP nước ngoài. Tuy nhiên, đáng lo ngại hơn là có một tài khoản nội bộ của bạn nhân viên tên là Trang bên bộ phận Tuyển dụng đã đăng nhập thành công vào hệ thống lúc 2 giờ sáng và tải xuống một lượng lớn tệp tin nén.
+[08:40] Chào anh Nam, tôi là Trang đây ạ. Tôi thực sự hoảng loạn vì sáng nay tôi không thể đăng nhập vào email của mình được nữa. 2 giờ sáng lúc đó tôi đang ngủ, không hề có chuyện tôi đăng nhập vào hệ thống để tải dữ liệu gì cả. Chào Trang, bình tĩnh nhé. Tôi là Linh bên bộ phận IT Helpdesk. Có khả năng cao là tài khoản của Trang đã bị chiếm quyền điều khiển (account takeover) thông qua một chiến dịch phishing nào đó mà Trang không để ý. Trang có nhớ gần đây có bấm vào link lạ hay tải file đính kèm nào từ email không quen thuộc không?
+[08:45] Chào chị Linh, giờ chị nhắc em mới nhớ. Chiều qua em có nhận được một email trông rất giống của phòng Tài chính yêu cầu cập nhật thông tin lương để nhận thưởng quý. Em có bấm vào link và đăng nhập tài khoản Microsoft 365 của mình vào đó. Nhưng sau đó trang web báo lỗi và em cũng không nghĩ ngợi gì thêm.
+
+<|output|>
+# Xử lý sự cố An ninh mạng và Rò rỉ dữ liệu nhân sự
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân và mức độ thiệt hại của sự cố truy cập trái phép vào máy chủ dữ liệu nhân sự.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân sự cố: Một nhân viên phòng Tuyển dụng bị tấn công phishing chiếm đoạt tài khoản Microsoft 365 do chưa được kích hoạt xác thực đa yếu tố (MFA).
+- Thiệt hại bước đầu: Một lượng lớn hồ sơ nhân sự, CCCD, số điện thoại và hợp đồng lao động đã bị tải xuống và đẩy lên một server đám mây tại Đông Âu.
+
+### 3. Kết luận và quyết định
+- Ưu tiên cao nhất là kích hoạt MFA cho toàn bộ nhân viên tập đoàn trước cuối ngày hôm nay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kích hoạt MFA bắt buộc cho 100% nhân viên | Chị Linh (IT Helpdesk) | 24/03/2025 |
+| Liên hệ và ký hợp đồng với đơn vị Digital Forensics | Anh Nam (Security) | 24/03/2025 |

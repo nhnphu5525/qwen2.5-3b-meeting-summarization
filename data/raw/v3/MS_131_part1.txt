@@ -1,0 +1,50 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:30:00] Dạ, chào chị Lan, chào anh Tuấn với mọi người ạ. Hôm nay phòng Kế toán mình họp nhanh chút về cái vụ thay đổi mức đóng Bảo hiểm xã hội mới theo cái Nghị định vừa rồi đó chị.
+[08:31:15] Ừ, chào Hoàng. Chị cũng đang định nhắc nè. Cái vụ này quan trọng nha, vì nó ảnh hưởng trực tiếp đến chi phí nhân sự của công ty mình từ tháng sau luôn á.
+[08:32:30] Dạ vầy nè chị Lan, theo em cập nhật thì cái mức lương cơ sở nó tăng, dẫn đến cái mức đóng tối đa cũng tăng theo đúng không chị?
+[08:33:45] Đúng rồi đó Hoàng. Lương cơ sở tăng lên 2,34 triệu đồng thì cái trần đóng BHXH, BHYT nó cũng vọt lên. Anh Tuấn ơi, cái này mình phải tính toán lại dòng tiền cho mấy tháng cuối năm đó anh.
+[08:35:00] Ờ, anh nghe rồi. Vậy cụ thể là mức tăng nó khoảng bao nhiêu phần trăm so với quỹ lương hiện tại của mình vậy Lan?
+[08:36:20] Dạ, để em tính sơ bộ nha anh. Hiện tại mình có khoảng 50 nhân sự đóng ở mức trần. Nếu áp dụng mức mới thì mỗi tháng công ty mình phải chi thêm một khoản kha khá đó ạ.
+[08:37:40] Em thấy là không chỉ mức trần đâu, mà mấy bạn đang đóng theo lương thực tế nhưng cao hơn mức cũ cũng bị ảnh hưởng. À mà chị Lan ơi, còn cái vụ bảo hiểm thất nghiệp thì sao chị? Nó có thay đổi gì không ạ?
+[08:39:00] Bảo hiểm thất nghiệp thì đợt này chưa thấy thông báo thay đổi mức trần đâu Mai ơi. Vẫn giữ nguyên theo lương tối thiểu vùng thôi. Nhưng mà cái quan trọng là cái BHYT kìa, nó tăng theo lương cơ sở nên là tổng mức đóng sẽ nhích lên thấy rõ luôn.
+[08:40:15] Vậy là bộ phận nhân sự của Mai phải rà soát lại danh sách đóng bảo hiểm của toàn bộ nhân viên nha. Coi ai thuộc diện điều chỉnh đợt này thì ghi chú lại để bên kế toán còn lên bảng lương tháng tới.
+
+<|output|>
+# Thảo luận thay đổi mức đóng Bảo hiểm xã hội mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và triển khai việc điều chỉnh mức đóng Bảo hiểm xã hội (BHXH) theo quy định mới (tăng lương cơ sở lên 2,34 triệu đồng).
+
+### 2. Các vấn đề đã thảo luận
+- Tăng mức trần đóng BHXH và BHYT do lương cơ sở thay đổi.
+- Xác định đối tượng bị ảnh hưởng: nhân viên đóng ở mức trần và các mức lương thực tế cao hơn lương cơ sở cũ.
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng mức đóng mới cho toàn bộ nhân sự thuộc diện điều chỉnh từ tháng sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Rà soát danh sách nhân sự và mã số BHXH | Mai - Phòng Nhân sự | 10/06/2024 |
+| Soạn thảo email thông báo cho nhân viên | Mai - Phòng Nhân sự | 11/06/2024 |

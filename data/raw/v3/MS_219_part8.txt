@@ -1,0 +1,70 @@
+<|input|>
+# Báo cáo cuộc họp về Thời trang
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Thời trang hiện tại
+- Giải quyết các tồn đọng liên quan đến xu hướng
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý xu hướng
+- Thiếu hụt nguồn lực cho chuỗi bán lẻ
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho xu hướng
+- Phân bổ thêm 2 nhân sự cho mảng chiến dịch ra mắt
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ thiết kế | Phòng Thời trang | 03/11/2026 |
+| Liên hệ đối tác về chất liệu vải | Chị Mai | 08/01/2026 |
+
+[14:06] Đúng rồi, cái bộ sưu tập cần được ưu tiên xử lý trước thứ Sáu này.
+[14:08] Tôi thấy bộ sưu tập hiện tại là cơ hội tốt để mình bứt phá.
+[14:10] Dạ Đừng quên vụ showroom cũng quan trọng không kém nhé.
+[14:12] À Đúng rồi, cái bộ sưu tập cần được ưu tiên xử lý trước thứ Sáu này.
+[14:14] Hay là mình thử thay đổi cách tiếp cận với chuỗi bán lẻ xem sao?
+[11:38] Tôi sẽ phụ trách kiểm tra lại chuỗi bán lẻ rồi báo lại cả team vào chiều mai.
+[11:39] Thì Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[11:40] Thôi được rồi, vậy thống nhất là triển khai chất liệu vải theo hướng đó.
+[11:41] Vụ chiến dịch ra mắt thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[11:42] Tóm lại Vụ bộ sưu tập thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[14:26] Tóm lại Về phần ngân sách cho xu hướng, sếp đã duyệt chưa nhỉ?
+[11:44] Nói chung là Đừng quên vụ bộ sưu tập cũng quan trọng không kém nhé.
+[14:30] Tôi lo nhất là cái xu hướng, tiến độ đang bị khựng lại.
+[11:46] Ờm Ai sẽ chịu trách nhiệm chính cho mảng thiết kế nhỉ?
+[14:34] Thực ra Bên đối tác họ cứ hỏi mãi về xu hướng, mình phải trả lời sao đây?
+[11:48] Thì Hay là mình thử thay đổi cách tiếp cận với bộ sưu tập xem sao?
+[11:49] Tôi sẽ phụ trách kiểm tra lại chiến dịch ra mắt rồi báo lại cả team vào chiều mai.
+[11:50] Hình như Bên đối tác họ cứ hỏi mãi về chuỗi bán lẻ, mình phải trả lời sao đây?
+[11:51] Tóm lại Tôi thấy chuỗi bán lẻ hiện tại là cơ hội tốt để mình bứt phá.
+[14:44] Ờm Tôi sẽ phụ trách kiểm tra lại chuỗi bán lẻ rồi báo lại cả team vào chiều mai.
+[14:46] Ai sẽ chịu trách nhiệm chính cho mảng showroom nhỉ?
+
+<|output|>
+# Báo cáo cuộc họp về Thời trang
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Thời trang hiện tại
+- Giải quyết các tồn đọng liên quan đến xu hướng
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý xu hướng
+- Thiếu hụt nguồn lực cho chuỗi bán lẻ
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho xu hướng
+- Phân bổ thêm 2 nhân sự cho mảng chiến dịch ra mắt
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ thiết kế | Phòng Thời trang | 03/11/2026 |
+| Liên hệ đối tác về chất liệu vải | Chị Mai | 08/01/2026 |
+| Kiểm tra tiến độ chất liệu vải | Team Technical | 27/09/2026 |

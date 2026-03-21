@@ -1,0 +1,65 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[10:00] Chào team Retail, hôm nay mình ngồi lại để chốt kế hoạch cho chương trình tri ân khách hàng thân thiết nhân dịp sinh nhật công ty vào tháng 5.
+[10:02] Tôi muốn năm nay mình làm cái gì đó khác biệt chút, thay vì chỉ giảm giá trực tiếp như mọi khi.
+[10:05] Anh Sơn nghĩ sao nếu mình tặng voucher trải nghiệm các dịch vụ của đối tác như spa hay xem phim cho những khách hàng đạt hạng Gold trở lên?
+[10:08] Ý kiến này hay đấy Vy, nó giúp tăng giá trị cảm xúc cho khách hàng thay vì chỉ là con số tiền bạc.
+[10:11] Nhưng mình cần phải đàm phán được giá tốt với các đối tác đó để không làm thâm hụt ngân sách marketing quá nhiều.
+[10:14] Ngoài ra, em thấy hệ thống tích điểm trên app dạo này hay bị lỗi chậm cập nhật, khách hàng phàn nàn nhiều lắm.
+[10:17] Cái này Vy nói đúng, bên team IT cần phải fix triệt để trước khi chương trình diễn ra, không là vỡ trận ngay.
+[10:20] Anh Sơn ơi, mình có nên tổ chức một đêm tiệc nhỏ mời các khách VIP đến để tri ân trực tiếp không?
+[10:23] Tổ chức tiệc thì sang trọng nhưng chi phí cao và lượng khách tham gia được không nhiều. Mình nên chuyển sang tặng quà cá nhân hóa gửi tận nhà thì hơn.
+[10:26] Nhất trí, Vy phụ trách chọn danh sách quà tặng và đơn vị chuyển phát nhanh uy tín nhé. Quà phải được đóng gói thật chỉn chu.
+[10:29] Về phần truyền thông, mình sẽ chạy quảng cáo tập trung vào tệp khách hàng cũ trên Facebook và gửi tin nhắn SMS Brandname cho họ.
+[10:32] Hạn chót để chốt danh sách đối tác tặng voucher là ngày 15/04 để mình kịp in ấn ấn phẩm quảng cáo.
+[10:35] OK, vậy mọi người cứ theo hướng đó mà làm. Vy nhớ theo sát bên IT để xử lý cái app nhé.
+
+<|output|>
+# Kế hoạch chương trình tri ân khách hàng thân thiết tháng 5
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng chương trình tri ân sáng tạo nhằm tăng cường sự gắn kết của khách hàng cũ.
+- Giải quyết các vấn đề kỹ thuật liên quan đến hệ thống tích điểm trên ứng dụng.
+
+### 2. Các vấn đề đã thảo luận
+- Thay đổi hình thức tri ân từ giảm giá thuần túy sang tặng voucher trải nghiệm dịch vụ cao cấp.
+- Đàm phán với đối tác (spa, rạp phim) để tối ưu chi phí quà tặng.
+- Tình trạng lỗi hệ thống tích điểm trên app cần được khắc phục khẩn cấp.
+- Lựa chọn hình thức tặng quà cá nhân hóa gửi tận nhà cho khách VIP thay vì tổ chức tiệc tập trung.
+- Chiến lược truyền thông nhắm mục tiêu vào tệp khách hàng hiện hữu qua SMS và mạng xã hội.
+
+### 3. Kết luận và quyết định
+- Chốt phương án tặng voucher dịch vụ đối tác và quà tặng cá nhân hóa.
+- Yêu cầu team IT hoàn thành việc sửa lỗi app trước ngày triển khai chương trình.
+- Giao bộ phận Marketing hoàn thiện danh sách đối tác và quà tặng trong tháng 4.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Làm việc với team IT để sửa lỗi tích điểm trên app | Vy | 05/04/2026 |
+| Đàm phán và ký kết hợp đồng với các đối tác voucher | Anh Sơn | 15/04/2026 |
+| Lập danh sách khách hàng VIP và chọn quà tặng | Vy | 20/04/2026 |
+| Thiết kế bộ nhận diện và ấn phẩm quảng cáo | Phòng Marketing | 25/04/2026 |
+| Gửi tin nhắn và chạy quảng cáo tri ân | Vy | 01/05/2026 |
+| Tổng hợp báo cáo sau chương trình | Anh Sơn | 15/06/2026 |

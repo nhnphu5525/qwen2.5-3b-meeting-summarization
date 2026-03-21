@@ -1,0 +1,58 @@
+<|input|>
+# Thảo luận thay đổi mức đóng Bảo hiểm xã hội mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và triển khai việc điều chỉnh mức đóng Bảo hiểm xã hội (BHXH) theo quy định mới (tăng lương cơ sở lên 2,34 triệu đồng).
+
+### 2. Các vấn đề đã thảo luận
+- Tăng mức trần đóng BHXH và BHYT do lương cơ sở thay đổi.
+- Xác định đối tượng bị ảnh hưởng: nhân viên đóng ở mức trần và các mức lương thực tế cao hơn lương cơ sở cũ.
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng mức đóng mới cho toàn bộ nhân sự thuộc diện điều chỉnh từ tháng sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Rà soát danh sách nhân sự và mã số BHXH | Mai - Phòng Nhân sự | 10/06/2024 |
+| Soạn thảo email thông báo cho nhân viên | Mai - Phòng Nhân sự | 11/06/2024 |
+[08:41:30] Dạ anh Tuấn, em sẽ làm file excel chi tiết rồi gửi chị Lan duyệt trước khi mình chốt số liệu với bên cơ quan Bảo hiểm ạ. Mà hình như là mình phải nộp hồ sơ điều chỉnh trước ngày 20 hàng tháng đúng không chị Lan?
+[08:42:45] Đúng rồi Hoàng, phải làm sớm chứ để trễ là bị tính lãi chậm đóng đó. Mà nè, em nhớ kiểm tra kỹ mấy trường hợp đang nghỉ thai sản hay nghỉ không lương nha, kẻo nhầm lẫn là mệt lắm.
+[08:44:00] Dạ em nhớ rồi chị. À, còn một vấn đề nữa là cái tỷ lệ đóng giữa doanh nghiệp với người lao động có gì thay đổi không ạ? Hay vẫn giữ nguyên 17,5% với 8% hả chị?
+[08:45:15] Tỷ lệ thì vẫn vậy thôi, không có thay đổi gì về phần trăm hết. Chỉ là cái "gốc" tính phí nó to ra nên số tiền thực nộp nó tăng thôi em.
+[08:46:30] Ừm, tính ra thì người lao động cũng bị trừ lương nhiều hơn một chút nhỉ. Cái này Mai bên HR nhớ thông báo khéo cho anh em nha, kẻo tới lúc nhận lương thấy bị hụt đi vài trăm ngàn rồi lại thắc mắc, khiếu nại lung tung.
+[08:47:45] Dạ anh, em định là cuối tuần này sẽ gửi một cái email thông báo chung cho toàn công ty để mọi người nắm bắt được chính sách mới của Nhà nước. Mình cứ minh bạch thông tin ngay từ đầu cho nó dễ anh ạ.
+[08:49:00] Hay đó Mai. Em soạn thảo cái nội dung email đi rồi gửi chị xem qua trước nha. Cần giải thích rõ là đây là quy định chung, công ty chỉ thực hiện theo thôi chứ không phải mình tự ý tăng mức thu đâu.
+[08:50:15] Dạ vâng chị Lan. À, Hoàng ơi, bên em có cần hỗ trợ gì về việc xuất dữ liệu nhân sự từ phần mềm không? Để chị bảo mấy bạn bên chị xuất cho nó chuẩn.
+[08:51:30] Dạ nếu được chị Mai cho em xin danh sách cập nhật nhất đến hết ngày hôm qua nha. Em cần check lại mã số bảo hiểm của mấy bạn mới vào tháng này nữa.
+
+<|output|>
+# Thảo luận thay đổi mức đóng Bảo hiểm xã hội mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và triển khai việc điều chỉnh mức đóng Bảo hiểm xã hội (BHXH) theo quy định mới (tăng lương cơ sở lên 2,34 triệu đồng).
+- Đánh giá tác động của việc tăng mức đóng đến chi phí nhân sự và dòng tiền của công ty.
+
+### 2. Các vấn đề đã thảo luận
+- Tăng mức trần đóng BHXH và BHYT do lương cơ sở thay đổi.
+- Xác định đối tượng bị ảnh hưởng: nhân viên đóng ở mức trần và các mức lương thực tế cao hơn lương cơ sở cũ.
+- Tỷ lệ đóng BHXH giữa doanh nghiệp (17,5%) và người lao động (8%) vẫn giữ nguyên, chỉ thay đổi số tiền thực đóng.
+- Thời hạn nộp hồ sơ điều chỉnh cho cơ quan Bảo hiểm (trước ngày 20 hàng tháng).
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng mức đóng mới cho toàn bộ nhân sự thuộc diện điều chỉnh từ tháng sau.
+- Bộ phận Nhân sự chịu trách nhiệm thông báo công khai cho toàn thể nhân viên qua email.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Rà soát danh sách nhân sự và mã số BHXH | Mai - Phòng Nhân sự | 10/06/2024 |
+| Soạn thảo email thông báo cho nhân viên | Mai - Phòng Nhân sự | 11/06/2024 |
+| Tính toán dự toán chi phí bảo hiểm mới | Hoàng - Phòng Kế toán | 12/06/2024 |
+| Hoàn thiện hồ sơ điều chỉnh nộp cơ quan BH | Lan - Kế toán trưởng | 15/06/2024 |

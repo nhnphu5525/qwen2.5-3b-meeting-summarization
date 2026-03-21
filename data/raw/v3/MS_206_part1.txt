@@ -1,0 +1,63 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Bên khách hàng họ cứ hối thúc vụ môi trường xanh suốt.
+[09:01] Mọi người cứ thoải mái đóng góp ý kiến về giảm phát thải đi.
+[09:02] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:03] Đúng rồi, tôi cũng nghĩ thế, cái rác thải nên được ưu tiên.
+[09:12] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:10] Chào mọi người, chúng ta tiếp tục bàn về phát triển bền vững nhé.
+[09:12] Đúng rồi, tôi cũng nghĩ thế, cái phát triển bền vững nên được ưu tiên.
+[09:14] Tôi đề xuất chốt hạn chót cho rác thải là cuối tháng này được không?
+[09:08] Tôi thấy vấn đề giảm phát thải này quan trọng phết, cần xử lý sớm.
+[09:18] Tôi đề xuất chốt hạn chót cho rác thải là cuối tháng này được không?
+[09:30] Vâng Cảm ơn mọi người, buổi họp hôm nay về Môi trường rất hiệu quả.
+[09:33] Mong là lần này môi trường xanh sẽ ổn thỏa hơn mấy lần trước.
+[09:12] Vâng Nhưng mà còn cái năng lượng tái tạo thì tính sao đây? Sắp hết hạn rồi.
+[09:26] Mong là lần này giảm phát thải sẽ ổn thỏa hơn mấy lần trước.
+[09:14] Thì Tôi thấy vấn đề năng lượng tái tạo này quan trọng phết, cần xử lý sớm.
+[09:30] Hiện tại cái biến đổi khí hậu đang bị chậm tiến độ một chút vì thiếu người.
+[09:16] Để tôi gửi tài liệu về phát triển bền vững cho mọi người qua email sau buổi họp.
+[09:34] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về năng lượng tái tạo.
+[09:18] Về phần năng lượng tái tạo ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[09:38] Dạ Đúng rồi, tôi cũng nghĩ thế, cái giảm phát thải nên được ưu tiên.
+[10:00] Mọi người nghĩ sao nếu mình đổi phương án cho môi trường xanh?
+[10:03] Vâng Để tôi gửi tài liệu về rác thải cho mọi người qua email sau buổi họp.
+[09:22] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Môi trường
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Môi trường hiện nay
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Môi trường
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý rác thải | Phòng Môi trường | 02/09/2026 |

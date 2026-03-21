@@ -1,0 +1,64 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:03] Nói chung là Đúng rồi, tôi cũng nghĩ thế, cái đánh giá KPI nên được ưu tiên.
+[09:06] Mọi người cứ thoải mái đóng góp ý kiến về lương thưởng đi.
+[09:03] Vâng Không sao, mình có thể tối ưu lại phần phúc lợi mà.
+[09:08] Thì đấy Về phần đào tạo ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[09:05] Chào mọi người, chúng ta tiếp tục bàn về lương thưởng nhé.
+[09:12] Tôi thấy vấn đề phúc lợi này quan trọng phết, cần xử lý sớm.
+[09:14] Thì Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về văn hóa công ty.
+[09:08] Thực ra Tôi lo là tuyển dụng sẽ tốn nhiều chi phí hơn dự kiến.
+[09:18] Chào mọi người, chúng ta tiếp tục bàn về lương thưởng nhé.
+[09:30] Tôi lo là văn hóa công ty sẽ tốn nhiều chi phí hơn dự kiến.
+[09:11] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:36] Tôi lo là tuyển dụng sẽ tốn nhiều chi phí hơn dự kiến.
+[09:26] Mong là lần này lương thưởng sẽ ổn thỏa hơn mấy lần trước.
+[09:28] À Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:45] À Bên phòng ban họ cứ hối thúc vụ giữ chân nhân tài suốt.
+[09:32] Dạ Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về văn hóa công ty.
+[09:17] Thực ra Đúng rồi, tôi cũng nghĩ thế, cái đào tạo nên được ưu tiên.
+[09:54] Mọi người nghĩ sao nếu mình đổi phương án cho đào tạo?
+[09:38] Để tôi gửi tài liệu về đào tạo cho mọi người qua email sau buổi họp.
+[09:40] Tôi đề xuất chốt hạn chót cho giữ chân nhân tài là cuối tháng này được không?
+[10:03] Mọi người cứ thoải mái đóng góp ý kiến về tuyển dụng đi.
+[09:22] Ờm Hiện tại cái đào tạo đang bị chậm tiến độ một chút vì thiếu người.
+[09:46] Nói chung là Chào mọi người, chúng ta tiếp tục bàn về lương thưởng nhé.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Nhân sự
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Nhân sự hiện nay
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Nhân sự
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý tuyển dụng | Bộ phận Kỹ thuật | 06/10/2026 |

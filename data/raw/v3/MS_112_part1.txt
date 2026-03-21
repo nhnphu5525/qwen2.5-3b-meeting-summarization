@@ -1,0 +1,60 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00:15] Chào cả nhà, hôm nay mình họp về kế hoạch đào tạo kỹ năng mềm cho nhân viên khối văn phòng quý này nhé.
+[14:01:25] Em thấy khảo sát vừa rồi cho thấy mọi người đang gặp vấn đề lớn nhất ở khâu quản lý thời gian và giải quyết xung đột nội bộ ạ.
+[14:02:40] Đúng rồi, nhiều khi deadline chồng chéo mà anh em chưa biết cách ưu tiên việc nào trước việc nào sau. Bình ơi, bên em đã liên hệ được đơn vị nào đào tạo uy tín chưa?
+[14:03:55] Em đã làm việc sơ bộ với hai bên. Một bên chuyên về tư duy hệ thống và quản lý thời gian theo phương pháp GTD. Một bên khác thì mạnh về kỹ năng giao tiếp và đàm phán.
+[14:05:10] Theo em thì nên ưu tiên cái quản lý thời gian trước, vì nó ảnh hưởng trực tiếp đến năng suất lao động hàng ngày. Lan thấy sao?
+[14:06:25] Em đồng ý với anh. Nhưng mình cũng nên lồng ghép thêm phần làm việc nhóm nữa. Dạo này các phòng ban phối hợp chưa được mượt lắm, hay đổ lỗi cho nhau khi có sự cố.
+[14:07:45] Vậy chốt là mình sẽ làm một chuỗi workshop 3 buổi nhé. Buổi 1 Quản lý thời gian, buổi 2 Kỹ năng giao tiếp hiệu quả, buổi 3 Giải quyết xung đột và Teamwork.
+[14:09:00] Bình check lại chi phí với bên đào tạo xem nếu mình làm combo 3 buổi như vậy thì có được chiết khấu không nhé. Ngân sách tối đa của mình cho đợt này là 50 triệu thôi.
+[14:10:20] Vâng anh, để em deal lại giá. Mà mình định tổ chức vào thứ Bảy hay trong tuần ạ?
+[14:11:35] Nên làm vào chiều thứ Sáu đi, cho mọi người tâm lý thoải mái hơn. Lan phụ trách khảo sát lại lịch của các trưởng phòng xem tuần cuối tháng này có ai bận dự án gì lớn không nhé.
+[14:12:50] Dạ, em sẽ gửi khảo sát lên Group Slack ngay chiều nay.
+[14:14:10] OK, Bình hoàn thiện kế hoạch chi tiết và gửi anh duyệt vào thứ Tư tới nhé. Cảm ơn cả nhà.
+
+<|output|>
+# Kế hoạch đào tạo kỹ năng mềm cho nhân viên khối văn phòng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất các chủ đề đào tạo kỹ năng mềm cần thiết cho nhân viên trong quý.
+- Lựa chọn phương án tổ chức và đơn vị đào tạo phù hợp với ngân sách.
+
+### 2. Các vấn đề đã thảo luận
+- Kết quả khảo sát cho thấy nhân viên đang yếu về quản lý thời gian và giải quyết xung đột.
+- Đề xuất tổ chức chuỗi workshop gồm 3 chuyên đề: Quản lý thời gian (GTD), Giao tiếp hiệu quả, và Teamwork/Giải quyết xung đột.
+- Ngân sách dự kiến tối đa là 50 triệu đồng.
+- Thời gian tổ chức đề xuất là chiều thứ Sáu hàng tuần để tăng hiệu quả tham gia.
+
+### 3. Kết luận và quyết định
+- Tổ chức chuỗi 3 buổi workshop đào tạo kỹ năng mềm.
+- Ưu tiên các phương pháp thực hành thực tế thay vì lý thuyết suông.
+- Sẽ chốt lịch cụ thể sau khi khảo sát thời gian trống của các phòng ban.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thương lượng chi phí và chốt nội dung với đơn vị đào tạo | Bình | Thứ Tư tới |
+| Khảo sát lịch trống của các phòng ban qua Slack | Lan | Chiều nay |
+| Soạn thảo kế hoạch đào tạo chi tiết gửi ban giám đốc duyệt | Bình | Thứ Tư tới |
+| Chuẩn bị hậu cần (phòng họp, teabreak) cho buổi đào tạo | Lan | Trước ngày diễn ra 2 ngày |

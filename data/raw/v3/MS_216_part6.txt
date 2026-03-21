@@ -1,0 +1,82 @@
+<|input|>
+# Báo cáo cuộc họp về Xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Xây dựng hiện tại
+- Giải quyết các tồn đọng liên quan đến vật liệu
+- Định hướng phát triển an toàn lao động trong quý tới
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý vật liệu
+- Thiếu hụt nguồn lực cho nhà thầu
+- Áp lực từ phía đối tác về an toàn lao động
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho an toàn lao động
+- Phân bổ thêm 2 nhân sự cho mảng vật liệu
+- Hoàn thiện báo cáo ngân sách dự án trước cuối tuần
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ an toàn lao động | Phòng Kế hoạch | 13/05/2026 |
+| Liên hệ đối tác về thiết kế cơ điện | Team Technical | 03/08/2026 |
+| Kiểm tra tiến độ ngân sách dự án | Bộ phận Pháp lý | 06/01/2026 |
+| Lập kế hoạch chi tiết cho vật liệu | Bộ phận Pháp lý | 25/09/2026 |
+
+[10:46] Tóm lại Để tôi check lại lịch của bên nhà thầu xem họ rảnh khi nào.
+[10:47] Vụ ngân sách dự án thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[12:36] Hình như Mọi người nghe rõ không? Về cái nhà thầu này tôi thấy có vẻ hơi vướng.
+[12:38] Thôi được rồi, vậy thống nhất là triển khai an toàn lao động theo hướng đó.
+[10:50] Hay là mình thử thay đổi cách tiếp cận với vật liệu xem sao?
+[12:42] Về phần ngân sách cho vật liệu, sếp đã duyệt chưa nhỉ?
+[10:52] Thôi được rồi, vậy thống nhất là triển khai an toàn lao động theo hướng đó.
+[10:53] Tóm lại Thế thì mình chốt phương án cho tiến độ thi công luôn đi, đừng kéo dài nữa.
+[12:48] Ờm Về phần ngân sách cho nhà thầu, sếp đã duyệt chưa nhỉ?
+[12:50] Hay là mình thử thay đổi cách tiếp cận với tiến độ thi công xem sao?
+[12:52] Ờm Thôi được rồi, vậy thống nhất là triển khai nhà thầu theo hướng đó.
+[12:54] Ai sẽ chịu trách nhiệm chính cho mảng nhà thầu nhỉ?
+[12:56] Đừng quên vụ tiến độ thi công cũng quan trọng không kém nhé.
+[12:58] Hình như Tôi lo nhất là cái tiến độ thi công, tiến độ đang bị khựng lại.
+[11:00] Tôi sẽ phụ trách kiểm tra lại ngân sách dự án rồi báo lại cả team vào chiều mai.
+[13:02] Đúng rồi, cái thiết kế cơ điện cần được ưu tiên xử lý trước thứ Sáu này.
+[11:02] À Đúng rồi, cái tiến độ thi công cần được ưu tiên xử lý trước thứ Sáu này.
+[11:03] Thì đấy Về phần ngân sách cho an toàn lao động, sếp đã duyệt chưa nhỉ?
+[13:08] Tôi sẽ phụ trách kiểm tra lại vật liệu rồi báo lại cả team vào chiều mai.
+[11:05] Để tôi check lại lịch của bên tiến độ thi công xem họ rảnh khi nào.
+[13:12] Đừng quên vụ an toàn lao động cũng quan trọng không kém nhé.
+
+<|output|>
+# Báo cáo cuộc họp về Xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Xây dựng hiện tại
+- Giải quyết các tồn đọng liên quan đến vật liệu
+- Định hướng phát triển an toàn lao động trong quý tới
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý vật liệu
+- Thiếu hụt nguồn lực cho nhà thầu
+- Áp lực từ phía đối tác về an toàn lao động
+- Tác động của thị trường đến kế hoạch chung
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho an toàn lao động
+- Phân bổ thêm 2 nhân sự cho mảng vật liệu
+- Hoàn thiện báo cáo ngân sách dự án trước cuối tuần
+- Duyệt chi phí dự phòng cho nhà thầu
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ an toàn lao động | Phòng Kế hoạch | 13/05/2026 |
+| Liên hệ đối tác về thiết kế cơ điện | Team Technical | 03/08/2026 |
+| Kiểm tra tiến độ ngân sách dự án | Bộ phận Pháp lý | 06/01/2026 |
+| Lập kế hoạch chi tiết cho vật liệu | Bộ phận Pháp lý | 25/09/2026 |
+| Báo cáo kết quả tiến độ thi công | Bộ phận Pháp lý | 18/11/2026 |

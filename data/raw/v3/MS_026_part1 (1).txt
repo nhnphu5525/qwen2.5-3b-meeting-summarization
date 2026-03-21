@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào team Marketing, hôm nay chúng ta họp để chốt phương án đại sứ thương hiệu cho dòng xe điện mới.
+[09:02] Chúng ta đang phân vân giữa một nghệ sĩ hạng A có sức ảnh hưởng lớn và một vận động viên thể thao có lối sống xanh.
+[09:04] Em thấy nghệ sĩ hạng A sẽ giúp mình bùng nổ về mặt truyền thông ngay lập tức, nhưng chi phí booking cực kỳ đắt đỏ.
+[09:06] Ngược lại, vận động viên tuy độ phủ không bằng nhưng lại rất khớp với giá trị "bền vững" mà dòng xe này hướng tới.
+[09:08] Khán giả bây giờ rất thông minh, họ thích những gì chân thật. Nếu đại sứ không thực sự dùng xe điện thì chiến dịch sẽ phản tác dụng.
+[09:10] Vậy mình chọn phương án kết hợp được không? Nghệ sĩ hạng A cho giai đoạn ra mắt và 3 KOC lối sống xanh cho giai đoạn duy trì.
+
+<|output|>
+# Lựa chọn đại sứ thương hiệu và kế hoạch quay TVC xe điện mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Quyết định gương mặt đại diện cho dòng xe điện mới của công ty.
+
+### 2. Các vấn đề đã thảo luận
+- So sánh giữa sức ảnh hưởng của nghệ sĩ hạng A và tính nhất quán hình ảnh của vận động viên.
+- Rủi ro về sự chân thật của đại sứ đối với cộng đồng người dùng xe điện.
+- Đề xuất mô hình kết hợp (Nghệ sĩ ra mắt + KOC duy trì) để tối ưu hóa hiệu quả.
+
+### 3. Kết luận và quyết định
+- Chốt phương án mời nghệ sĩ hạng A cho giai đoạn ra mắt chiến dịch.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ và đàm phán hợp đồng với nghệ sĩ hạng A | Phòng Marketing | 25/03/2026 |
+| Lập danh sách KOC lối sống xanh tiềm năng | Team Social | 28/03/2026 |

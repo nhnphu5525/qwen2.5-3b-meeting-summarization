@@ -1,0 +1,73 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[15:00] Chào anh chị em, hôm nay chúng ta bàn về gói bảo hiểm nhân thọ kết hợp đầu tư để triển khai cho nhóm khách hàng VIP của đối tác ngân hàng.
+[15:02] Thị trường dạo này đang hơi trầm lắng, mình cần một sản phẩm có tính bảo vệ cao nhưng lãi suất đầu tư cũng phải cạnh tranh thì mới hút được khách.
+[15:04] Tôi đề xuất quyền lợi bổ trợ về bệnh hiểm nghèo nên được mở rộng lên 100 loại bệnh thay vì 60 như trước.
+[15:06] Mở rộng danh mục bệnh thì phí bảo hiểm sẽ tăng, mình phải tính toán sao cho tổng phí vẫn nằm trong khả năng chi trả của khách hàng hạng sang.
+[15:08] Hay là mình chia thành các gói Linh hoạt? Khách có thể tự chọn danh mục bệnh muốn bảo vệ để tối ưu phí.
+[15:10] Về phần đầu tư, khách hàng VIP thường thích sự minh bạch. Mình nên có báo cáo kết quả hoạt động của các quỹ liên kết đơn vị hàng tháng.
+[15:12] Hiện tại hệ thống của mình chỉ xuất báo cáo theo quý thôi, muốn làm theo tháng thì bộ phận IT cần can thiệp để tự động hóa dữ liệu.
+[15:14] Tôi cũng muốn bổ sung tính năng rút tiền trực tuyến từ tài khoản đầu tư qua app, để khách cảm thấy dòng tiền của họ linh động.
+[15:16] Cái này quan trọng nè, tính thanh khoản luôn là điều khách hàng quan tâm hàng đầu khi bỏ tiền vào các sản phẩm liên kết đầu tư.
+[15:18] Quy trình thẩm định đối với mức trách nhiệm cao (trên 10 tỷ) cần được ưu tiên xử lý nhanh trong vòng 24h.
+[15:20] Đội ngũ bác sĩ khám sức khỏe tại gia cho khách VIP cũng cần được đào tạo bài bản về thái độ phục vụ.
+[15:22] Về chiến dịch Marketing, mình sẽ tổ chức các buổi hội thảo nhỏ (Tea-break) tại các chi nhánh ngân hàng thay vì làm sự kiện lớn rầm rộ.
+[15:24] Đúng rồi, mô hình này riêng tư hơn, tư vấn viên dễ chốt hợp đồng trực tiếp với khách hơn.
+[15:26] Bộ phận đào tạo cần soạn bộ tài liệu tư vấn mới, tập trung vào việc giải thích rủi ro đầu tư một cách trung thực, tránh hứa hẹn quá mức.
+[15:28] Ok, tuần sau mình có buổi demo sản phẩm đầu tiên với bên đối tác ngân hàng nhé.
+[15:30] Mọi người chuẩn bị kỹ phần slide trình chiếu và bảng minh họa quyền lợi.
+
+<|output|>
+# Thiết kế sản phẩm bảo hiểm nhân thọ kết hợp đầu tư cho khách hàng VIP
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng dòng sản phẩm bảo hiểm mới có tính cạnh tranh cao cho phân khúc khách hàng cao cấp.
+- Tích hợp quyền lợi bảo vệ toàn diện với tính năng đầu tư linh hoạt và minh bạch.
+- Thống nhất quy trình vận hành và chiến lược tiếp cận khách hàng thông qua đối tác ngân hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Mở rộng danh mục bảo vệ bệnh hiểm nghèo lên 100 loại bệnh để tăng sức hút.
+- Áp dụng cơ chế phí linh hoạt dựa trên lựa chọn cá nhân hóa của khách hàng.
+- Nâng cao tính minh bạch qua việc báo cáo kết quả đầu tư định kỳ hàng tháng.
+- Cải thiện tính thanh khoản của sản phẩm thông qua tính năng rút tiền trực tuyến trên ứng dụng di động.
+- Quy trình thẩm định đặc biệt và dịch vụ y tế tại gia cho các hợp đồng có giá trị lớn.
+- Chiến thuật tiếp cận khách hàng qua các buổi hội thảo nhỏ, tinh tế tại chi nhánh ngân hàng.
+- Yêu cầu về tính trung thực trong tư vấn và đào tạo nhân sự về quản trị rủi ro.
+
+### 3. Kết luận và quyết định
+- Chốt cấu trúc sản phẩm bảo hiểm liên kết đầu tư với các quyền lợi bổ trợ mở rộng.
+- Giao phòng IT nâng cấp hệ thống báo cáo và tính năng giao dịch trực tuyến.
+- Thiết lập quy trình thẩm định nhanh (Fast-track) cho phân khúc khách hàng VIP.
+- Triển khai chuỗi sự kiện Tea-break tư vấn trực tiếp tại ngân hàng đối tác.
+- Hoàn thiện bộ tài liệu đào tạo và bảng minh họa trước buổi làm việc với đối tác.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bảng minh họa quyền lợi và phí | Phòng Định phí | 25/03/2026 |
+| Phát triển tính năng rút tiền và báo cáo tháng | Phòng IT | 15/04/2026 |
+| Soạn giáo án đào tạo tư vấn viên | Phòng Đào tạo | 28/03/2026 |
+| Thiết kế Slide trình bày cho đối tác ngân hàng | Phòng Marketing | 22/03/2026 |
+| Ký thỏa thuận triển khai với mạng lưới y tế | Phòng Vận hành | 05/04/2026 |
+| Tổ chức buổi Demo sản phẩm nội bộ | Phòng Sản phẩm | 23/03/2026 |

@@ -1,0 +1,78 @@
+<|input|>
+# Chuẩn bị kế hoạch đón khách cho mùa du lịch cao điểm hè
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát công tác chuẩn bị về nhân sự, cơ sở vật chất và dịch vụ cho mùa cao điểm tháng 6 - tháng 7.
+- Thống nhất các kế hoạch bảo trì, nâng cấp dịch vụ và chiến dịch marketing.
+
+### 2. Các vấn đề đã thảo luận
+- Lượng khách đặt phòng tăng 30% so với cùng kỳ năm ngoái, gây áp lực lên vận hành.
+- Thiếu hụt nhân sự thời vụ và sự cần thiết của việc đào tạo nghiệp vụ cho nhân viên mới.
+- Hệ thống máy lạnh ở khu B và các thiết bị cơ sở vật chất cần được bảo trì gấp.
+- Thực đơn nhà hàng cần điều chỉnh sang các món thanh mát phù hợp với mùa hè.
+
+### 3. Kết luận và quyết định
+- Tuyển thêm 20 nhân viên part-time/thực tập sinh và triển khai đào tạo nghiệp vụ từ tuần tới.
+- Tiến hành kiểm tra, bảo trì toàn bộ hệ thống điện nước, máy lạnh, thang máy trong tuần này.
+- Bổ sung thực đơn mùa hè đặc biệt và niêm yết giá công khai.
+- Thuê thêm 2 xe điện từ đối tác để phục vụ nhu cầu tham quan của khách.
+- Tăng cường tuần tra an ninh và kiểm tra hệ thống camera giám sát.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đào tạo nghiệp vụ cho nhân sự mới | Chị Lan (Phòng Nhân sự) | 30/05/2024 |
+| Tổng kiểm tra và bảo trì cơ sở vật chất | Anh Hùng (Phòng Kỹ thuật) | 25/05/2024 |
+| Liên hệ thuê thêm xe điện tham quan | Anh Hùng (Phòng Kỹ thuật) | 22/05/2024 |
+| Xây dựng thực đơn mùa hè mới | Chị Mai (Quản lý vận hành) & Bếp trưởng | 20/05/2024 |
+| Kiểm tra hệ thống camera và tăng cường an ninh | Đội Bảo vệ | 24/05/2024 |
+[09:44] Dạ, để em phối hợp với bên bảo vệ làm cái này luôn trong tuần tới.
+[09:46] Còn cái vụ marketing thì sao ta? Mình có chạy quảng cáo gì cho đợt hè này chưa sếp?
+[09:48] Có chứ, anh đã duyệt ngân sách cho team Marketing chạy quảng cáo trên Facebook với Instagram rồi. Mình tập trung vào các gói combo gia đình với ưu đãi cho khách đặt phòng sớm.
+[09:50] Dạ vầy thì tốt quá rồi. Em hy vọng là với sự chuẩn bị kỹ lưỡng này thì mùa hè năm nay mình sẽ thắng lớn.
+[09:52] Ừ, anh cũng mong vậy. Quan trọng là tinh thần làm việc của mọi người thôi. Mùa cao điểm sẽ mệt lắm đó, nhưng mà bù lại thì thưởng cũng sẽ cao, mọi người cố gắng nha.
+[09:54] Dạ, tụi em sẽ cố gắng hết sức ạ. Cảm ơn sếp đã khích lệ.
+[09:56] Ok, vậy mọi người về vị trí làm việc đi. Có vấn đề gì phát sinh thì báo ngay cho anh hoặc Mai nhé.
+[09:58] Dạ chào sếp, chào cả nhà ạ.
+
+<|output|>
+# Chuẩn bị kế hoạch đón khách cho mùa du lịch cao điểm hè
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát công tác chuẩn bị về nhân sự, cơ sở vật chất và dịch vụ cho mùa cao điểm tháng 6 - tháng 7.
+- Thống nhất các kế hoạch bảo trì, nâng cấp dịch vụ và chiến dịch marketing.
+- Đảm bảo chất lượng phục vụ và an ninh tuyệt đối cho khách hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Lượng khách đặt phòng tăng 30% so với cùng kỳ năm ngoái, gây áp lực lên vận hành.
+- Thiếu hụt nhân sự thời vụ và sự cần thiết của việc đào tạo nghiệp vụ cho nhân viên mới.
+- Hệ thống máy lạnh ở khu B và các thiết bị cơ sở vật chất cần được bảo trì gấp.
+- Thực đơn nhà hàng cần điều chỉnh sang các món thanh mát phù hợp với mùa hè.
+- Nhu cầu tham quan bằng xe điện tăng cao, vượt quá khả năng đáp ứng hiện tại.
+- Vấn đề an ninh, phòng chống mất cắp và người lạ đột nhập khi khách đông.
+
+### 3. Kết luận và quyết định
+- Tuyển thêm 20 nhân viên part-time/thực tập sinh và triển khai đào tạo nghiệp vụ từ tuần tới.
+- Tiến hành kiểm tra, bảo trì toàn bộ hệ thống điện nước, máy lạnh, thang máy trong tuần này.
+- Bổ sung thực đơn mùa hè đặc biệt và niêm yết giá công khai.
+- Thuê thêm 2 xe điện từ đối tác để phục vụ nhu cầu tham quan của khách.
+- Tăng cường tuần tra an ninh và kiểm tra hệ thống camera giám sát.
+- Triển khai chiến dịch Marketing tập trung vào gói combo gia đình và ưu đãi đặt sớm.
+- Chuẩn bị quà tặng lưu niệm (móc khóa, túi vải) cho khách khi check-out.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đào tạo nghiệp vụ cho nhân sự mới | Chị Lan (Phòng Nhân sự) | 30/05/2024 |
+| Tổng kiểm tra và bảo trì cơ sở vật chất | Anh Hùng (Phòng Kỹ thuật) | 25/05/2024 |
+| Liên hệ thuê thêm xe điện tham quan | Anh Hùng (Phòng Kỹ thuật) | 22/05/2024 |
+| Xây dựng thực đơn mùa hè mới | Chị Mai (Quản lý vận hành) & Bếp trưởng | 20/05/2024 |
+| Kiểm tra hệ thống camera và tăng cường an ninh | Đội Bảo vệ | 24/05/2024 |
+| Triển khai quảng cáo combo hè trên mạng xã hội | Team Marketing | 20/05/2024 |
+| Đặt hàng quà tặng lưu niệm cho khách | Chị Lan (Phòng Nhân sự) | 05/06/2024 |

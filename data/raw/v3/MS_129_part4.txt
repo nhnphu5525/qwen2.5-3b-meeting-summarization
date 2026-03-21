@@ -1,0 +1,84 @@
+<|input|>
+# Chiến lược chuyển dịch sang phân phối xe điện (EV) giai đoạn 2024-2029
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất lộ trình chuyển dịch mô hình kinh doanh từ xe động cơ đốt trong sang xe điện (EV).
+- Đánh giá nguồn lực tài chính, hạ tầng kỹ thuật và chiến lược hợp tác với các hãng xe điện.
+- Quyết định phương án thoái vốn ở các mảng kinh doanh kém hiệu quả để tập trung cho hệ sinh thái EV.
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng phát triển mạnh mẽ của thị trường xe điện toàn cầu và tại Việt Nam.
+- Mô hình kinh doanh: "Đại lý xe điện đa thương hiệu" (EV Multi-brand Hub), hợp tác với BYD, MG và VinFast.
+- Hạ tầng: Đầu tư hệ thống trạm sạc nhanh chuẩn CCS2 và xin cấp trạm biến áp riêng cho showroom.
+- Tài chính: Tổng mức đầu tư dự kiến 50 tỷ đồng cho một showroom điểm. Cần 250 tỷ cho chuỗi 5 điểm trong 3 năm.
+- Nhân sự: Đào tạo lại kỹ thuật viên xe xăng, tuyển mới chuyên gia IT và điện tử viễn thông.
+- Chiến lược thoái vốn: Chuyển đổi công năng các showroom xe xăng doanh số thấp (Bình Chánh, Thủ Đức) sang showroom xe điện.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương chuyển dịch sang phân phối xe điện là chiến lược trọng tâm trong 5 năm tới.
+- Đồng ý phương án chuyển đổi 02 showroom tại Bình Chánh và Thủ Đức sang mô hình EV Hub.
+- Giao bộ phận Tài chính lập phương án thoái vốn và cân đối dòng tiền cho khoản đầu tư 250 tỷ đồng.
+- Giao bộ phận Kỹ thuật cử 10 kỹ thuật viên đi đào tạo chuyên sâu về EV tại nước ngoài.
+- Xây dựng đề án phát triển ứng dụng di động phục vụ hệ sinh thái xe điện của công ty.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện báo cáo tài chính và phương án thoái vốn | Chị Lan (Phòng Tài chính) | 15/06/2024 |
+| Làm việc với điện lực về trạm biến áp cho các showroom | Anh Nam (Phòng Kỹ thuật) | 20/06/2024 |
+| Đàm phán hợp đồng đại lý với các hãng xe BYD, MG | Ban Giám đốc | 30/06/2024 |
+| Lên danh sách nhân sự đi đào tạo nước ngoài | Anh Hùng (Phòng Nhân sự) | 10/06/2024 |
+| Khảo sát và báo giá hệ thống sạc nhanh DC | Anh Nam (Phòng Kỹ thuật) | 05/06/2024 |
+| Xây dựng kịch bản truyền thông "Lối sống xanh" | Chị Linh (Phòng Marketing) | 15/06/2024 |
+[09:50] Cái đó mình không kiểm soát được, nhưng theo anh biết thì chính phủ đang rất khuyến khích xe điện để thực hiện cam kết Net Zero. Nên anh nghĩ ít nhất trong 5 năm tới chính sách vẫn sẽ tốt thôi.
+[09:52] Dạ hy vọng là vậy. À còn một cái nữa, mình có nên nhập xe máy điện về bán luôn không sếp? Em thấy nhu cầu xe máy điện cũng đang bùng nổ lắm.
+[09:54] Xe máy điện hả? Ừm, cũng là một ý hay nhưng mà sợ nó làm loãng thương hiệu "Showroom ô tô" của mình không?
+[09:56] Em nghĩ là mình làm một khu vực riêng biệt "E-Mobility Corner" trong showroom cũng được sếp ạ. Bán mấy dòng xe máy điện cao cấp thôi, nhìn nó vẫn sang trọng và hiện đại.
+[09:58] Ờ, thôi cái vụ xe máy điện để sau đi, tập trung làm cho tốt ô tô điện cái đã. Lan với Nam hoàn thiện cái đề án chi tiết, bao gồm cả phương án thoái vốn xe xăng gửi anh duyệt trong cuộc họp tháng tới nha.
+[10:00] Dạ vâng sếp, tụi em sẽ làm kỹ cái này. Tinh thần là quyết tâm chuyển đổi xanh sếp nhỉ!
+[10:02] Ừ, không đổi là chết đó. Thôi chào mọi người, nghỉ trưa đi.
+[10:04] Dạ tụi em chào sếp ạ.
+
+<|output|>
+# Chiến lược chuyển dịch sang phân phối xe điện (EV) giai đoạn 2024-2029
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất lộ trình chuyển dịch mô hình kinh doanh từ xe động cơ đốt trong sang xe điện (EV).
+- Đánh giá nguồn lực tài chính, hạ tầng kỹ thuật và chiến lược hợp tác với các hãng xe điện.
+- Quyết định phương án thoái vốn ở các mảng kinh doanh kém hiệu quả để tập trung cho hệ sinh thái EV.
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng phát triển mạnh mẽ của thị trường xe điện toàn cầu và tại Việt Nam.
+- Mô hình kinh doanh: "Đại lý xe điện đa thương hiệu" (EV Multi-brand Hub), hợp tác với BYD, MG và VinFast.
+- Hạ tầng: Đầu tư hệ thống trạm sạc nhanh chuẩn CCS2 và xin cấp trạm biến áp riêng cho showroom.
+- Tài chính: Tổng mức đầu tư dự kiến 50 tỷ đồng cho một showroom điểm. Cần 250 tỷ cho chuỗi 5 điểm trong 3 năm.
+- Nhân sự: Đào tạo lại kỹ thuật viên xe xăng, tuyển mới chuyên gia IT và điện tử viễn thông.
+- Chiến lược thoái vốn: Chuyển đổi công năng các showroom xe xăng doanh số thấp (Bình Chánh, Thủ Đức) sang showroom xe điện.
+- Dịch vụ giá trị gia tăng: Chính sách thuê pin, thu cũ đổi mới (Trade-in), tái chế pin cũ làm lưu trữ điện mặt trời (BESS).
+- Marketing & Công nghệ: Định vị "Lối sống xanh", phát triển ứng dụng di động (App) quản lý cộng đồng và trạm sạc.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương chuyển dịch sang phân phối xe điện là chiến lược trọng tâm trong 5 năm tới.
+- Đồng ý phương án chuyển đổi 02 showroom tại Bình Chánh và Thủ Đức sang mô hình EV Hub.
+- Giao bộ phận Tài chính lập phương án thoái vốn và cân đối dòng tiền cho khoản đầu tư 250 tỷ đồng.
+- Giao bộ phận Kỹ thuật cử 10 kỹ thuật viên đi đào tạo chuyên sâu về EV tại nước ngoài.
+- Xây dựng đề án phát triển ứng dụng di động phục vụ hệ sinh thái xe điện của công ty.
+- Hoàn thiện đề án chi tiết để trình Hội đồng quản trị phê duyệt vào kỳ họp tháng 06/2024.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện báo cáo tài chính và phương án thoái vốn | Chị Lan (Phòng Tài chính) | 15/06/2024 |
+| Làm việc với điện lực về trạm biến áp cho các showroom | Anh Nam (Phòng Kỹ thuật) | 20/06/2024 |
+| Đàm phán hợp đồng đại lý với các hãng xe BYD, MG | Ban Giám đốc | 30/06/2024 |
+| Lên danh sách nhân sự đi đào tạo nước ngoài | Anh Hùng (Phòng Nhân sự) | 10/06/2024 |
+| Khảo sát và báo giá hệ thống sạc nhanh DC | Anh Nam (Phòng Kỹ thuật) | 05/06/2024 |
+| Xây dựng kịch bản truyền thông "Lối sống xanh" | Chị Linh (Phòng Marketing) | 15/06/2024 |
+| Tìm kiếm đơn vị phát triển ứng dụng di động (App) | Team IT | 25/06/2024 |
+| Hoàn thiện hồ sơ xin phép chuyển đổi công năng showroom | Chị Lan (Phòng Hành chính) | 30/06/2024 |

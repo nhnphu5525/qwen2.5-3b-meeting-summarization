@@ -1,0 +1,64 @@
+<|input|>
+# Triển khai thi công phần thân dự án Diamond Plaza và quản lý chất lượng xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch thi công phần thân tòa nhà sau khi hoàn thành móng và hầm.
+- Triển khai các biện pháp ứng phó với mùa mưa và đảm bảo an toàn lao động (HSE).
+
+### 2. Các vấn đề đã thảo luận
+- Kế hoạch đổ bê tông và che chắn công trường trong điều kiện thời tiết mưa lớn.
+- Chốt giá thép và xi măng với các nhà cung cấp lớn thông qua thanh toán trước.
+- Điều chỉnh chính sách lương thưởng và cải thiện điều kiện lán trại cho công nhân.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án chốt giá vật tư phần thân với Hòa Phát và Insee.
+- Tăng 10% phụ cấp thợ giỏi và áp dụng chính sách thưởng tiến độ cho các tổ đội.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký hợp đồng chốt giá thép và xi măng | Phòng Vật tư & Kế toán | 15/04/2024 |
+| Kiểm tra toàn bộ hệ thống điện tạm | Đội HSE | 10/04/2024 |
+
+[08:24] Tôi đề nghị tăng thêm 10% phụ cấp cho những thợ có tay nghề giỏi và cam kết đi cùng dự án đến ngày bàn giao. Việc giữ chân thợ giỏi sẽ giúp chúng ta giảm bớt chi phí sửa chữa do sai lỗi kỹ thuật sau này.
+[08:27] Về mặt chất lượng, tôi nhận thấy một số đoạn dầm ở tầng hầm 1 có hiện tượng rỗ bề mặt bê tông nhẹ. Mặc dù không ảnh hưởng đến kết cấu nhưng về mặt thẩm mỹ là không đạt yêu cầu của chủ đầu tư.
+[08:30] Đội ngũ giám sát cần gắt gao hơn trong khâu kiểm tra độ sụt của bê tông tươi khi nhập bãi và quá trình đầm dùi của công nhân. Bất kỳ xe bê tông nào không đạt chuẩn phải kiên quyết trả về nhà máy.
+[08:33] Nhắc đến an toàn lao động, gần đây tôi thấy một số công nhân làm việc trên cao vẫn chưa thắt dây an toàn đúng quy định. Điều này cực kỳ nguy hiểm và có thể dẫn đến đình chỉ thi công nếu đoàn kiểm tra liên ngành phát hiện.
+[08:36] Cần tăng cường tần suất kiểm tra đột xuất của đội an toàn (HSE). Những trường hợp vi phạm lần đầu sẽ nhắc nhở và phạt tiền, vi phạm lần thứ hai sẽ buộc thôi việc ngay lập tức. Tính mạng con người là trên hết.
+[08:39] Hệ thống giàn giáo và lưới bao che cũng cần được kiểm tra định kỳ hàng tuần, đặc biệt là sau mỗi đợt mưa gió lớn để đảm bảo không có tình trạng lỏng lẻo hay mục nát.
+[08:42] Về phía ứng dụng công nghệ, tôi đề xuất chúng ta nên sử dụng mô hình thông tin công trình (BIM) để quản lý xung đột giữa các hệ thống cơ điện (MEP) và kết cấu.
+[08:45] Việc phát hiện xung đột trên bản vẽ 3D trước khi thi công thực tế sẽ giúp chúng ta tiết kiệm được hàng tỷ đồng chi phí đập đi xây lại.
+[08:48] Đội kỹ thuật đã hoàn thiện mô hình BIM đến tầng 10. Chúng tôi đang phối hợp với các nhà thầu phụ cơ điện để khớp nối dữ liệu. Dự kiến sẽ giảm được ít nhất 15% sai sót lắp đặt.
+
+<|output|>
+# Triển khai thi công phần thân dự án Diamond Plaza và quản lý chất lượng xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch thi công phần thân tòa nhà sau khi hoàn thành móng và hầm.
+- Triển khai các biện pháp ứng phó với mùa mưa và đảm bảo an toàn lao động (HSE).
+- Thống nhất phương án chốt giá vật tư xây dựng để phòng ngừa biến động thị trường.
+
+### 2. Các vấn đề đã thảo luận
+- Kế hoạch đổ bê tông và che chắn công trường trong điều kiện thời tiết mưa lớn.
+- Chốt giá thép và xi măng với các nhà cung cấp lớn thông qua thanh toán trước.
+- Điều chỉnh chính sách lương thưởng và cải thiện điều kiện lán trại cho công nhân.
+- Khắc phục lỗi thẩm mỹ bề mặt bê tông tầng hầm và siết chặt quy trình giám sát đầm dùi.
+- Tăng cường kiểm tra thắt dây an toàn trên cao và bảo trì cần trục tháp, vận thăng.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án chốt giá vật tư phần thân với Hòa Phát và Insee.
+- Tăng 10% phụ cấp thợ giỏi và áp dụng chính sách thưởng tiến độ cho các tổ đội.
+- Giao đội HSE thực hiện kiểm tra đột xuất và xử phạt nghiêm các vi phạm an toàn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký hợp đồng chốt giá thép và xi măng | Phòng Vật tư & Kế toán | 15/04/2024 |
+| Kiểm tra toàn bộ hệ thống điện tạm | Đội HSE | 10/04/2024 |
+| Hoàn thiện mô hình BIM tầng 11-20 | Đội kỹ thuật BIM | 30/05/2024 |

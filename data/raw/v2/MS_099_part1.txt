@@ -1,0 +1,59 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào bộ phận Pháp chế và Nhân sự, hôm nay mình ngồi lại rà soát kỹ cái mẫu hợp đồng lao động mới nhé.
+[09:02] Dạ sếp, em thấy cái mẫu cũ của mình có mấy chỗ chưa cập nhật theo Bộ luật Lao động mới nhất đâu.
+[09:03] Ừ, đúng rồi. Đặc biệt là cái phần quy định về thử việc và thời gian báo trước khi nghỉ việc ấy.
+[09:05] Em thấy trong luật mới, thời gian thử việc cho vị trí quản lý có thể lên tới 6 tháng đúng không ạ?
+[09:06] Đúng thế, nhưng mà mình phải ghi rõ trong hợp đồng là vị trí nào thì mới được áp dụng mức đó nhé.
+[09:08] Ờ... còn cái vụ bảo mật thông tin (NDA) và không cạnh tranh (Non-compete) thì sao sếp?
+[09:09] Cái này cực kỳ quan trọng, nhất là với mấy bạn bên team kỹ thuật và kinh doanh, họ nắm hết bí mật của mình mà.
+[10:11] Em thấy nhiều công ty họ gộp chung vào hợp đồng lao động luôn, nhưng mà mình có nên làm một cái thỏa thuận riêng không?
+[09:12] Theo anh thì nên làm thỏa thuận riêng cho nó chắc chắn về mặt pháp lý, nhỡ có tranh chấp gì cũng dễ xử lý hơn.
+[09:14] Vâng, em cũng nghĩ vậy. Chứ để chung vào một bản hợp đồng thì đôi khi nó bị loãng, không làm nổi bật được tính nghiêm trọng.
+[09:16] À, chị Lan bên nhân sự ơi, chị kiểm tra lại cái phần phụ cấp với lương thưởng trong hợp đồng nhé.
+[09:18] Dạ em đây, em thấy cái khoản phụ cấp xăng xe với điện thoại, mình có nên đưa vào lương cơ bản không hay để riêng?
+[09:20] Để riêng đi chị, để riêng thì mình mới tối ưu được cái khoản đóng bảo hiểm xã hội cho nhân viên và công ty chứ.
+
+<|output|>
+# Rà soát và cập nhật mẫu hợp đồng lao động mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Cập nhật mẫu hợp đồng lao động theo Bộ luật Lao động mới nhất.
+- Thống nhất các điều khoản về bảo mật (NDA).
+
+### 2. Các vấn đề đã thảo luận
+- Cập nhật thời gian thử việc cho vị trí quản lý (tối đa 6 tháng) và thời gian báo trước khi nghỉ việc.
+- Tách biệt thỏa thuận bảo mật và không cạnh tranh (NDA & Non-compete) thành văn bản riêng để đảm bảo tính pháp lý.
+- Cơ cấu lương thưởng: Giữ nguyên các khoản phụ cấp (xăng xe, điện thoại) tách biệt với lương cơ bản để tối ưu chi phí bảo hiểm.
+
+### 3. Kết luận và quyết định
+- Giao bộ phận Pháp chế hoàn thiện tính pháp lý của các điều khoản NDA.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo thỏa thuận bảo mật thông tin (NDA) riêng | Bộ phận Pháp chế | 20/12/2025 |
+| | | |
+| | | |
+| | | |
+| | | |

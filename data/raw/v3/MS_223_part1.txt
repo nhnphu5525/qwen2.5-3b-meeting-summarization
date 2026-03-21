@@ -1,0 +1,65 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:30] Tóm lại là Tôi nghĩ là mình nên xem xét lại cái thưởng quý này một chút.
+[08:32] Thôi được rồi, vậy thống nhất là làm tuyển dụng theo cách đó.
+[08:32] Ờm Thế còn ngân sách cho tuyển dụng thì sao hả mọi người?
+[08:36] Thì Vâng, tôi cũng thấy việc tối ưu tuyển dụng là rất cần thiết.
+[08:34] Tóm lại là Thôi được rồi, vậy thống nhất là làm đánh giá KPI theo cách đó.
+[08:40] Cái văn hóa công ty này hình như đang bị vướng chỗ nào đó đúng không?
+[08:42] Thì đấy Ờm, cái thưởng quý này thực ra là một vấn đề khá nan giải.
+[08:37] Đừng quên là đào tạo nội bộ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[08:38] Cái này nè Thế còn ngân sách cho đánh giá KPI thì sao hả mọi người?
+[08:39] Dạ Liệu mình có thể đẩy nhanh tiến độ cho đánh giá KPI được không?
+[08:40] Mọi người có thấy vụ tuyển dụng dạo này bị chậm không?
+[08:52] Thì Đừng quên là đánh giá KPI cũng ảnh hưởng nhiều đến kết quả chung đó.
+[08:54] Nói chung là Ờm, cái thưởng quý này thực ra là một vấn đề khá nan giải.
+[08:56] Đừng quên là đào tạo nội bộ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[08:58] Ờm Cái văn hóa công ty này hình như đang bị vướng chỗ nào đó đúng không?
+[09:00] À Vâng, tôi cũng thấy việc tối ưu tuyển dụng là rất cần thiết.
+[08:46] Thế còn ngân sách cho đào tạo nội bộ thì sao hả mọi người?
+[08:47] À Thế còn ngân sách cho tuyển dụng thì sao hả mọi người?
+[09:06] Chào cả nhà, chúng ta bắt đầu bàn về phúc lợi nhân viên nhé.
+[08:49] Cần phải làm rõ thêm các chi tiết liên quan đến tuyển dụng.
+[08:50] Chào cả nhà, chúng ta bắt đầu bàn về văn hóa công ty nhé.
+[08:51] Tôi đề xuất mình sẽ tập trung nguồn lực vào tuyển dụng trong tuần này.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Chính sách Nhân sự
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho văn hóa công ty
+- Thiếu dữ liệu để đánh giá đào tạo nội bộ
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện văn hóa công ty
+- Phê duyệt ngân sách bổ sung cho đánh giá KPI
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ quy định nghỉ phép | Chị Vân | 25/04/2026 |
+| Họp nhóm để bàn sâu về đánh giá KPI | Phòng Chính sách Nhân sự | 17/04/2026 |

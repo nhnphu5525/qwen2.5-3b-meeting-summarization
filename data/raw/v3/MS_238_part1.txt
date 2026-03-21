@@ -1,0 +1,70 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[15:00] Chào mọi người, hôm nay team Pháp lý họp để giải quyết tranh chấp hợp đồng với đối tác cung ứng vận chuyển A và rà soát lại các điều khoản sở hữu trí tuệ cho dự án mới.
+[15:03] Bên phía đối tác A đang từ chối bồi thường cho lô hàng bị hư hỏng trong quá trình vận chuyển tháng trước, họ lấy lý do là "bất khả kháng" do bão.
+[15:06] Tôi đã xem lại báo cáo thời tiết ngày hôm đó, cấp độ bão chưa đạt mức để coi là sự kiện bất khả kháng theo quy định trong hợp đồng đã ký.
+[15:09] Chính xác, hơn nữa họ đã không thông báo bằng văn bản cho mình trong vòng 24h kể từ khi sự cố xảy ra như cam kết. Đây là điểm yếu của họ.
+[15:12] Chúng ta nên gửi một công văn nhắc nhở kèm theo các bằng chứng pháp lý trước khi tính đến chuyện khởi kiện ra trọng tài thương tài.
+[15:15] Đồng ý, tôi sẽ soạn thảo công văn này ngay trong chiều nay. Hy vọng họ sẽ thiện chí thương lượng giảm trừ vào công nợ tháng sau.
+[15:18] Chuyển sang vấn đề thứ hai, dự án phần mềm mới của mình cần đăng ký bản quyền tác giả và nhãn hiệu hàng hóa sớm nhất có thể.
+[15:21] Phần code core là quan trọng nhất, chúng ta cần yêu cầu team Tech bàn giao đầy đủ tài liệu kỹ thuật và cam kết không sao chép từ nguồn open source không được phép.
+[15:24] Về nhãn hiệu, tôi đã tra cứu sơ bộ thì tên "ZenApp" đang bị trùng với một công ty bên Singapore trong cùng lĩnh vực công nghệ.
+[15:27] Vậy thì nguy hiểm quá, nếu mình cố tình dùng thì sau này mở rộng ra thị trường quốc tế sẽ bị kiện ngay. Team Marketing cần đổi tên gấp.
+[15:30] Ngoài ra, các hợp đồng lao động mới cần bổ sung điều khoản bảo mật (NDA) và điều khoản không cạnh tranh (Non-compete clause) chặt chẽ hơn.
+[15:33] Nhất là với các vị trí Senior nắm giữ bí mật kinh doanh, thời gian cấm làm việc cho đối thủ nên để là 12 tháng sau khi nghỉ việc.
+[15:36] Liệu 12 tháng có dài quá không? Theo luật lao động Việt Nam thì điều khoản này đôi khi khó thực thi nếu không có khoản bồi thường tương xứng.
+[15:39] Chúng ta sẽ quy định một khoản phí "hỗ trợ sau nghỉ việc" trong NDA để đảm bảo tính pháp lý cao nhất cho điều khoản này.
+[15:42] Mọi người rà soát lại toàn bộ hệ thống hợp đồng mẫu của công ty luôn nhé, tránh tình trạng dùng mẫu cũ từ 5 năm trước không còn phù hợp với luật mới.
+[15:45] Deadline cho công văn gửi đối tác A là sáng mai, còn bộ hợp đồng mẫu là cuối tháng này.
+
+<|output|>
+# Giải quyết tranh chấp hợp đồng và rà soát sở hữu trí tuệ
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xử lý tranh chấp bồi thường hàng hóa hư hỏng với đối tác vận chuyển A.
+- Triển khai thủ tục bảo hộ quyền sở hữu trí tuệ cho dự án phần mềm mới.
+- Cập nhật các điều khoản bảo mật và không cạnh tranh trong hợp đồng lao động.
+
+### 2. Các vấn đề đã thảo luận
+- Đối tác A từ chối bồi thường dựa trên lý do bất khả kháng (thiên tai) không thỏa đáng.
+- Vi phạm nghĩa vụ thông báo sự cố trong vòng 24h của đối tác.
+- Nguy cơ vi phạm nhãn hiệu quốc tế với tên dự án "ZenApp".
+- Yêu cầu kiểm soát mã nguồn mở trong phát triển phần mềm để đảm bảo bản quyền.
+- Thắt chặt điều khoản NDA và Non-compete clause (12 tháng) kèm chi phí hỗ trợ để tăng tính thực thi.
+- Rà soát hệ thống hợp đồng mẫu đã lỗi thời.
+
+### 3. Kết luận và quyết định
+- Phát hành công văn yêu cầu đối tác A bồi thường dựa trên các bằng chứng pháp lý.
+- Đề nghị team Marketing đổi tên dự án để tránh tranh chấp nhãn hiệu.
+- Bổ sung điều khoản hỗ trợ tài chính sau nghỉ việc vào thỏa thuận bảo mật.
+- Tiến hành cập nhật toàn bộ thư viện hợp đồng mẫu của công ty theo luật hiện hành.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo công văn gửi đối tác vận chuyển A | Phòng Pháp lý | 19/03/2026 |
+| Tra cứu nhãn hiệu mới cho dự án Tech | Chuyên viên SHTT | 22/03/2026 |
+| Soạn thảo thỏa thuận bảo mật NDA mới | Trưởng phòng Pháp lý | 25/03/2026 |
+| Rà soát và cập nhật hệ thống hợp đồng mẫu | Phòng Pháp lý | 30/03/2026 |
+| Kiểm tra tính hợp pháp của mã nguồn dự án | Team Tech & Legal | 05/04/2026 |

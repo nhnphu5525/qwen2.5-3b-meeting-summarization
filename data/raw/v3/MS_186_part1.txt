@@ -1,0 +1,74 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:30] Chào mọi người, buổi họp hôm nay tập trung vào kế hoạch mở bán dự án chung cư "Sunrise Garden" vào tháng 5 tới.
+[08:32] Hiện tại tiến độ xây dựng đã đạt đến tầng 15, chúng ta đủ điều kiện pháp lý để ký hợp đồng mua bán chưa?
+[08:34] Giấy phép bán nhà hình thành trong tương lai đang được Sở Xây dựng thẩm định, dự kiến tuần sau sẽ có kết quả.
+[08:36] Về giá bán, phòng kinh doanh đề xuất mức giá khởi điểm là 45 triệu/m2, mọi người thấy sao?
+[08:38] Mức giá này hơi cao so với mặt bằng chung ở khu vực này, các dự án lân cận chỉ khoảng 40-42 triệu.
+[08:40] Nhưng dự án của mình có tiện ích vượt trội như hồ bơi vô cực và công viên nội khu rộng 2ha mà.
+[08:42] Tôi nghĩ mình nên chia thành nhiều đợt thanh toán linh hoạt để thu hút khách hàng trẻ.
+[08:44] Đúng rồi, có thể liên kết với ngân hàng để hỗ trợ vay 70% giá trị căn hộ với lãi suất 0% trong 12 tháng đầu.
+[08:46] Về marketing, chúng ta cần làm rầm rộ trên các mạng xã hội và tổ chức các buổi tham quan nhà mẫu hàng tuần.
+[08:48] Cần mời thêm một số KOL trong lĩnh vực phong cách sống và bất động sản để Review dự án.
+[08:50] Sa bàn và nhà mẫu phải được hoàn thiện chỉn chu nhất trước ngày khai trương.
+[08:52] Tôi lo ngại về việc quản lý sàn liên kết, đợt trước có tình trạng một số sàn tư vấn sai thông tin cho khách.
+[08:54] Lần này chúng ta sẽ ban hành bộ tài liệu bán hàng (Sales Kit) chuẩn và tổ chức thi sát hạch cho nhân viên môi giới.
+[08:56] Chỉ những người vượt qua bài kiểm tra mới được cấp code để bán hàng.
+[08:58] Bên cạnh đó, bộ phận chăm sóc khách hàng cần chuẩn bị sẵn kịch bản trả lời các câu hỏi khó về pháp lý và tiến độ bàn giao.
+[09:00] Về lễ mở bán, dự kiến sẽ tổ chức tại khách sạn Grand Plaza, quy mô khoảng 500 khách.
+[09:02] Phòng hành chính liên hệ đặt chỗ và chuẩn bị quà tặng cho khách tham dự nhé.
+[09:04] Ok, chúng tôi sẽ báo cáo lại tiến độ chuẩn bị vào thứ 2 tuần sau.
+
+<|output|>
+# Kế hoạch mở bán dự án chung cư Sunrise Garden
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất mức giá bán và chính sách thanh toán cho dự án Sunrise Garden.
+- Triển khai chiến dịch marketing và kế hoạch tổ chức lễ mở bán.
+- Siết chặt quản lý sàn liên kết và đội ngũ môi giới để đảm bảo thông tin chính xác.
+
+### 2. Các vấn đề đã thảo luận
+- Tiến độ pháp lý: Chờ giấy phép bán nhà hình thành trong tương lai từ Sở Xây dựng.
+- Định giá: Đề xuất 45 triệu/m2, cần cân đối với các tiện ích cao cấp của dự án.
+- Chính sách tài chính: Hỗ trợ vay ngân hàng lãi suất 0% và chia nhỏ đợt thanh toán.
+- Chiến lược truyền thông: Sử dụng mạng xã hội, KOLs Review và tổ chức tham quan nhà mẫu.
+- Quản lý bán hàng: Ban hành Sales Kit chuẩn và tổ chức thi sát hạch nhân viên môi giới.
+- Tổ chức sự kiện: Lễ mở bán quy mô 500 khách tại khách sạn Grand Plaza.
+
+### 3. Kết luận và quyết định
+- Phòng Kinh doanh hoàn thiện bảng giá chi tiết và chính sách vay vốn ngân hàng.
+- Phòng Marketing bắt đầu chạy chiến dịch quảng cáo và làm việc với KOLs.
+- Phòng Pháp chế theo dõi sát sao để lấy giấy phép bán hàng đúng hạn.
+- Tổ chức buổi đào tạo và thi sát hạch cho toàn bộ đội ngũ môi giới vào tháng sau.
+- Phòng Hành chính chịu trách nhiệm hậu cần cho lễ mở bán và khu vực nhà mẫu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bảng giá và chính sách thanh toán | Phòng Kinh doanh | 25/03/2026 |
+| Lấy giấy phép bán nhà hình thành trong tương lai | Phòng Pháp chế | 30/03/2026 |
+| Khởi động chiến dịch Marketing và làm việc với KOL | Phòng Marketing | 05/04/2026 |
+| Tổ chức thi sát hạch nhân viên môi giới | Phòng Kinh doanh | 15/04/2026 |
+| Hoàn thiện nhà mẫu và sa bàn | Phòng Vật tư | 20/04/2026 |
+| Đặt địa điểm và chuẩn bị quà tặng mở bán | Phòng Hành chính | 25/04/2026 |

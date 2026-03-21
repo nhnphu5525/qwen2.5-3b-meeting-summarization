@@ -1,0 +1,60 @@
+<|input|>
+# Giải pháp bảo mật dữ liệu đám mây (Cloud Security) cho hệ thống ERP
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt các giải pháp bảo mật cần thiết khi chuyển đổi hệ thống ERP từ On-premise lên nền tảng đám mây AWS.
+
+### 2. Các vấn đề đã thảo luận
+- **Trách nhiệm bảo mật:** Xác định rõ mô hình Shared Responsibility trên AWS.
+- **Quản lý cấu hình:** Sử dụng CSPM để quét lỗi cấu hình sai và IAM để thực thi nguyên tắc "Least Privilege".
+
+### 3. Kết luận và quyết định
+- Thống nhất bộ khung bảo mật gồm: CSPM, IAM, AWS Macie, AWS KMS, AWS WAF và ZTNA.
+- Lựa chọn giải pháp KMS của AWS thay vì tự quản lý Key (BYOK) để giảm thiểu rủi ro vận hành.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn tài liệu giải pháp bảo mật chi tiết | Nam - Team Security | 22/11/2024 |
+| Khảo sát báo giá giải pháp ZTNA (Zscaler, Cloudflare) | Nam - Team Security | 25/11/2024 |
+[10:15:45] Em thấy mình dùng AWS KMS là ổn rồi anh. Nó tiện mà lại tích hợp sâu với mấy dịch vụ khác. Mình tự quản lý Key thì rủi ro mất Key còn cao hơn nữa, lúc đó dữ liệu coi như bỏ luôn.
+[10:17:30] Ờ, thôi cứ dùng KMS cho nó lành. Còn cái vụ truy cập từ xa cho anh em Dev thì sao? Giờ ai cũng làm WFH (Work From Home) nhiều, dùng VPN truyền thống thấy chậm quá.
+[10:19:15] Dạ em đang nghiên cứu giải pháp Zero Trust Network Access (ZTNA) đó anh. Thay vì cho họ vào hẳn cái mạng nội bộ, mình chỉ cho họ truy cập đúng cái app họ cần thôi. Và mỗi lần vào là phải MFA (Multi-Factor Authentication) đầy đủ.
+[10:21:00] Zero Trust nghe có vẻ "thời thượng" đấy, nhưng triển khai có phức tạp không? Team mình đang ít người, sợ ôm đồm quá làm không xuể.
+[10:22:45] Dạ cũng không khó đâu anh, mình dùng mấy cái dịch vụ như Cloudflare Access hay Zscaler là họ lo phần backend hết rồi, mình chỉ cấu hình policy thôi.
+[10:24:30] Ừ, vậy Nam tìm hiểu kỹ rồi báo giá cho tôi 2-3 bên nhé. Còn anh Tuấn bên Infra, anh thấy cái hệ thống tường lửa (WAF) trên Cloud có cần thiết không?
+[10:26:15] Dạ rất cần chứ anh. ERP của mình chạy Web-based mà, không có WAF là mấy vụ SQL Injection hay Cross-site Scripting nó dập cho tơi tả ngay. Em tính triển khai AWS WAF luôn cho nó đồng bộ với hệ thống.
+[10:28:00] Nhất trí. Vậy tổng kết lại là mình có: CSPM để quản lý cấu hình, IAM siết quyền truy cập, Macie quét dữ liệu nhạy cảm, KMS để mã hóa, WAF bảo vệ tầng web và ZTNA cho truy cập từ xa. Nghe bộ khung cũng ổn áp rồi đó.
+[10:29:45] Dạ còn một cái nữa là vụ giám sát (Monitoring) anh ạ. Mình cần cái SIEM để gom log từ Cloud về một chỗ rồi phân tích rủi ro theo thời gian thực.
+
+<|output|>
+# Giải pháp bảo mật dữ liệu đám mây (Cloud Security) cho hệ thống ERP
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt các giải pháp bảo mật cần thiết khi chuyển đổi hệ thống ERP từ On-premise lên nền tảng đám mây AWS.
+- Phân bổ nhiệm vụ cho team Infrastructure (Infra) và Security để đảm bảo an toàn dữ liệu và tuân thủ các tiêu chuẩn bảo mật.
+
+### 2. Các vấn đề đã thảo luận
+- **Trách nhiệm bảo mật:** Xác định rõ mô hình Shared Responsibility trên AWS.
+- **Quản lý cấu hình:** Sử dụng CSPM để quét lỗi cấu hình sai và IAM để thực thi nguyên tắc "Least Privilege".
+- **Bảo vệ dữ liệu:** Bật AWS Macie để quét dữ liệu nhạy cảm trên S3 (chỉ áp dụng cho các bucket quan trọng). Sử dụng AWS KMS để quản lý mã hóa dữ liệu.
+- **Truy cập từ xa:** Thay thế VPN truyền thống bằng giải pháp Zero Trust Network Access (ZTNA) để tăng tốc độ và tính bảo mật khi nhân viên làm việc từ xa.
+
+### 3. Kết luận và quyết định
+- Thống nhất bộ khung bảo mật gồm: CSPM, IAM, AWS Macie, AWS KMS, AWS WAF và ZTNA.
+- Lựa chọn giải pháp KMS của AWS thay vì tự quản lý Key (BYOK) để giảm thiểu rủi ro vận hành.
+- Giao bộ phận Security khảo sát báo giá các nhà cung cấp ZTNA và SIEM phù hợp với ngân sách công ty.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn tài liệu giải pháp bảo mật chi tiết | Nam - Team Security | 22/11/2024 |
+| Khảo sát báo giá giải pháp ZTNA (Zscaler, Cloudflare) | Nam - Team Security | 25/11/2024 |
+| Cấu hình IAM policy và KMS trên môi trường Staging | Tuấn - Team Infra | 26/11/2024 |
+| Đánh giá ngân sách sử dụng AWS Macie và WAF | Nam - Team Security | 23/11/2024 |

@@ -1,0 +1,58 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào buổi sáng tất cả các thành viên ban dự án Điện gió miền Trung. Hôm nay chúng ta họp một buổi tổng thể để rà soát tiến độ trước khi bước vào giai đoạn lắp đặt tua-bin quan trọng nhất.
+[09:05] Dự án của chúng ta đã trải qua 12 tháng thi công hạ tầng, và hiện tại các móng trụ tua-bin đã hoàn thành được 95%. Tuy nhiên, vẫn còn một số vấn đề tồn đọng về giải phóng mặt bằng đường dây truyền tải.
+[09:10] Về phía địa phương, hiện tại còn 5 hộ dân chưa đồng ý với mức đền bù hành lang tuyến. Nếu không giải quyết xong trong tháng này, mình sẽ không thể kéo dây đấu nối vào lưới điện quốc gia đúng hạn.
+[09:15] Tôi đề nghị bộ phận quan hệ cộng đồng phối hợp với chính quyền huyện tổ chức thêm một buổi đối thoại trực tiếp để giải thích rõ về chính sách hỗ trợ và các lợi ích lâu dài của dự án đối với địa phương.
+[09:20] Ngoài vấn đề đền bù, báo cáo đánh giá tác động môi trường (DTM) vừa có bản cập nhật. Phía đối tác tài trợ quốc tế yêu cầu mình phải bổ sung phương án bảo vệ các loài chim di cư trong khu vực dự án.
+[09:25] Đúng vậy, họ yêu cầu mình lắp đặt thêm hệ thống cảm biến âm thanh và radar để tự động dừng tua-bin khi có đàn chim lớn bay qua. Việc này sẽ phát sinh thêm chi phí thiết bị khá lớn.
+[09:30] Anh Nam (Kỹ thuật) nghiên cứu kỹ giải pháp này, xem có thể tích hợp vào hệ thống SCADA hiện tại không và dự toán kinh phí phát sinh là bao nhiêu.
+[09:35] Về phần vận chuyển thiết bị siêu trường siêu trọng, các cánh quạt tua-bin dài 80m đang nằm tại cảng Quy Nhơn. Tuy nhiên, một số đoạn đường đèo trên lộ trình vận chuyển đang có dấu hiệu sạt lở do mưa lớn vừa qua.
+[09:40] Em đã khảo sát thực địa, có 3 khúc cua gắt cần phải mở rộng thêm lề đường mới đảm bảo xe vận chuyển đi qua an toàn. Việc này cần xin giấy phép từ Sở Giao thông vận tải ngay lập tức.
+
+<|output|>
+# Kế hoạch triển khai giai đoạn lắp đặt tua-bin dự án Điện gió miền Trung
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát toàn diện tiến độ thi công hạ tầng và chuẩn bị cho giai đoạn lắp đặt tua-bin.
+- Giải quyết các nút thắt về giải phóng mặt bằng đường dây truyền tải.
+- Thống nhất phương án vận chuyển thiết bị siêu trường siêu trọng và các yêu cầu bảo vệ môi trường từ đối tác tài trợ.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng 5 hộ dân chưa đồng ý đền bù hành lang tuyến gây nguy cơ chậm tiến độ đấu nối lưới điện.
+- Yêu cầu bổ sung hệ thống bảo vệ chim di cư (radar, cảm biến) từ đối tác quốc tế và dự toán chi phí phát sinh.
+- Thách thức vận chuyển cánh tua-bin 80m do sạt lở đường đèo và nhu cầu mở rộng các khúc cua gắt.
+
+### 3. Kết luận và quyết định
+- Ưu tiên giải quyết dứt điểm các vướng mắc mặt bằng thông qua đối thoại trực tiếp trong tháng 3.
+- Phê duyệt chủ trương lắp đặt hệ thống bảo vệ môi trường theo tiêu chuẩn quốc tế.
+- Xúc tiến làm việc với Sở GTVT để xin cấp phép cải tạo đường vận chuyển thiết bị.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tổ chức đối thoại đền bù với 5 hộ dân cuối cùng | Phòng Quan hệ cộng đồng | 30/03/2026 |
+| Dự toán chi phí hệ thống radar bảo vệ chim | Anh Nam (Kỹ thuật) | 25/03/2026 |
+| Xin giấy phép cải tạo khúc cua đường đèo | Team Vận chuyển | 28/03/2026 |
+| Lập báo cáo tác động môi trường cập nhật | Team HSE | 15/04/2026 |
+| Kiểm tra lại hệ thống truyền tải điện nội bộ | Team Kỹ thuật | Chưa rõ |

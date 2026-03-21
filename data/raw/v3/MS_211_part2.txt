@@ -1,0 +1,85 @@
+<|input|>
+# Báo cáo cuộc họp về Bất động sản
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Bất động sản hiện tại
+- Giải quyết các tồn đọng liên quan đến quy hoạch
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý giấy phép xây dựng
+- Thiếu hụt nguồn lực cho nhà đầu tư
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho quy hoạch
+- Phân bổ thêm 2 nhân sự cho mảng nhà đầu tư
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ giá đất | Chị Mai | 16/11/2026 |
+| Liên hệ đối tác về pháp lý dự án | Bộ phận Pháp lý | 25/03/2026 |
+| Kiểm tra tiến độ quy hoạch | Anh Hoàng | 05/11/2026 |
+
+[09:22] Cái nhà đầu tư này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:23] Thực ra Vấn đề quy hoạch thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:48] Ai sẽ chịu trách nhiệm chính cho mảng pháp lý dự án nhỉ?
+[09:25] Chắc là Về dài hạn thì giá đất sẽ là trọng tâm của năm nay.
+[09:26] Bên đối tác họ cứ hỏi mãi về quy hoạch, mình phải trả lời sao đây?
+[09:54] Đúng rồi, cái dự án cần được ưu tiên xử lý trước thứ Sáu này.
+[09:28] Đừng quên vụ căn hộ cũng quan trọng không kém nhé.
+[09:29] Mọi người nghe rõ không? Về cái giấy phép xây dựng này tôi thấy có vẻ hơi vướng.
+[10:00] Về dài hạn thì dự án sẽ là trọng tâm của năm nay.
+[09:31] Chắc là Bên đối tác họ cứ hỏi mãi về dự án, mình phải trả lời sao đây?
+[10:04] Mọi người nghe rõ không? Về cái căn hộ này tôi thấy có vẻ hơi vướng.
+[09:33] Chắc là Hay là mình thử thay đổi cách tiếp cận với quy hoạch xem sao?
+[10:08] Mọi người nghe rõ không? Về cái pháp lý dự án này tôi thấy có vẻ hơi vướng.
+[10:10] Ai sẽ chịu trách nhiệm chính cho mảng pháp lý dự án nhỉ?
+[09:36] Vâng Ai sẽ chịu trách nhiệm chính cho mảng giấy phép xây dựng nhỉ?
+[10:14] Cần phải làm rõ hơn về nhà đầu tư trong hợp đồng mới.
+[10:16] Tóm lại Bên đối tác họ cứ hỏi mãi về căn hộ, mình phải trả lời sao đây?
+[09:39] Ờm Hay là mình thử thay đổi cách tiếp cận với nhà đầu tư xem sao?
+[10:20] Mọi người có ý kiến gì thêm về nhà đầu tư không?
+[09:41] Thôi được rồi, vậy thống nhất là triển khai pháp lý dự án theo hướng đó.
+[10:24] Dạ Thế thì mình chốt phương án cho nhà đầu tư luôn đi, đừng kéo dài nữa.
+[09:43] Bên đối tác họ cứ hỏi mãi về giấy phép xây dựng, mình phải trả lời sao đây?
+[09:44] Tôi sẽ phụ trách kiểm tra lại quy hoạch rồi báo lại cả team vào chiều mai.
+[09:45] Cảm ơn mọi người, cuộc họp về Bất động sản tạm dừng tại đây.
+[10:32] Về phần ngân sách cho nhà đầu tư, sếp đã duyệt chưa nhỉ?
+[10:34] Cái nhà đầu tư này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:48] Nói chung là Tôi sẽ phụ trách kiểm tra lại pháp lý dự án rồi báo lại cả team vào chiều mai.
+[09:49] Nói chung là Mọi người có ý kiến gì thêm về nhà đầu tư không?
+
+<|output|>
+# Báo cáo cuộc họp về Bất động sản
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Bất động sản hiện tại
+- Giải quyết các tồn đọng liên quan đến quy hoạch
+- Định hướng phát triển căn hộ trong quý tới
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý giấy phép xây dựng
+- Thiếu hụt nguồn lực cho nhà đầu tư
+- Áp lực từ phía đối tác về pháp lý dự án
+- Tác động của thị trường đến kế hoạch chung
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho quy hoạch
+- Phân bổ thêm 2 nhân sự cho mảng nhà đầu tư
+- Hoàn thiện báo cáo quy hoạch trước cuối tuần
+- Duyệt chi phí dự phòng cho căn hộ
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ giá đất | Chị Mai | 16/11/2026 |
+| Liên hệ đối tác về pháp lý dự án | Bộ phận Pháp lý | 25/03/2026 |
+| Kiểm tra tiến độ quy hoạch | Anh Hoàng | 05/11/2026 |
+| Lập kế hoạch chi tiết cho giá đất | Phòng Kế hoạch | 25/12/2026 |
+| Báo cáo kết quả giá đất | Phòng Bất động sản | 03/06/2026 |

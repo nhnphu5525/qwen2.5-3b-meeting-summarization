@@ -1,0 +1,68 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào team Marketing, hôm nay mình ngồi lại để bàn sâu về cái kế hoạch làm video ngắn trên TikTok với Reels cho tháng tới nhé.
+[09:02] Dạ, em thấy hiện tại lượt tương tác trên Facebook đang giảm mạnh, trong khi TikTok của mình mới lập mà lượng view lại rất ổn định.
+[09:04] Ờ... đúng rồi, cái thuật toán của TikTok nó đẩy video tiếp cận người mới tốt hơn nhiều. 
+[09:06] Thì mình định hướng nội dung như thế nào để vừa viral mà vừa giữ được cái chất của thương hiệu mình?
+[09:08] Dạ, em đề xuất mình làm theo dạng "Behind the scenes" hoặc là "Tips & Tricks" liên quan đến sản phẩm mình đang bán. 
+[09:10] Người dùng họ thích cái gì đó thật, tự nhiên chứ không phải mấy cái quảng cáo bóng bẩy quá đâu. 
+[09:12] Nhưng mà mình cần phải bắt trend nữa, ví dụ như mấy cái nhạc đang hot hay là mấy cái challenge ấy. 
+[09:14] Thì mình cũng đừng có bắt trend mù quáng nhé, phải lồng ghép khéo léo cái sản phẩm vào. 
+[09:16] Ờ... về tần suất thì sao? Một ngày một video hay là sao?
+[09:18] Dạ, em nghĩ mình nên duy trì ít nhất 3-4 video mỗi tuần để thuật toán nó nhận diện mình hoạt động đều đặn. 
+[09:20] Với lại mình cần đầu tư thêm cái bộ đèn livestream với cái mic cài áo nữa cho âm thanh hình ảnh nó chuyên nghiệp hơn một chút. 
+[09:22] Chứ mấy cái video đợt trước em thấy quay bằng điện thoại thường trong điều kiện thiếu sáng nhìn nó hơi chán. 
+[09:24] Ok, vậy chốt là mình sẽ tập trung vào 3 nhóm nội dung: Hướng dẫn sử dụng, Hậu trường sản xuất và Giải đáp thắc mắc khách hàng. 
+[09:26] Team nội dung soạn kịch bản chi tiết cho 10 video đầu tiên nhé. 
+[09:28] Về phần nhân sự thì ai sẽ là gương mặt đại diện (KOL nội bộ) cho kênh của mình đây?
+[09:30] Dạ, em thấy bạn Vy bên bộ phận CSKH nói chuyện rất duyên, lại hiểu rõ về sản phẩm nữa, để em mời bạn ấy thử xem sao. 
+[09:32] Ok, Vy làm đại diện thì quá hợp rồi. Vậy team chuẩn bị thiết bị và kịch bản để tuần sau mình bắt đầu bấm máy nhé.
+
+<|output|>
+# Kế hoạch phát triển nội dung video ngắn trên TikTok và Reels
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng chiến lược nội dung video ngắn trên nền tảng TikTok và Instagram Reels để tăng độ nhận diện thương hiệu.
+- Thống nhất các chủ đề nội dung, tần suất đăng tải và phân công nhân sự thực hiện.
+
+### 2. Các vấn đề đã thảo luận
+- Sự sụt giảm tương tác trên Facebook và tiềm năng tiếp cận khách hàng mới của TikTok/Reels.
+- Định hướng nội dung: Ưu tiên sự chân thực, tự nhiên qua các video "Hậu trường" và "Mẹo sử dụng" thay vì quảng cáo truyền thống.
+- Cân bằng giữa việc bắt kịp xu hướng (trending) và duy trì bản sắc thương hiệu.
+- Nâng cấp thiết bị quay dựng (đèn, mic) để cải thiện chất lượng hình ảnh và âm thanh.
+- Xác định nhân sự phù hợp làm gương mặt đại diện (KOL nội bộ) cho kênh.
+
+### 3. Kết luận và quyết định
+- Chốt 3 nhóm nội dung chính: Hướng dẫn sử dụng, Hậu trường và Giải đáp thắc mắc.
+- Tần suất đăng tải: Duy trì tối thiểu 3-4 video/tuần.
+- Lựa chọn bạn Vy (CSKH) làm nhân sự đại diện xuất hiện trong các video.
+- Phê duyệt ngân sách mua sắm trang thiết bị hỗ trợ quay phim cơ bản.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn kịch bản chi tiết cho 10 video đầu tiên | Team Nội dung | 20/10/2023 |
+| Mua sắm bộ đèn livestream và mic cài áo | Bộ phận Hành chính | 22/10/2023 |
+| Quay và dựng 2 video demo đầu tiên | Team Media | 25/10/2023 |
+| Lập lịch đăng tải nội dung (Content Calendar) | Team Marketing | 27/10/2023 |
+| Làm việc với bạn Vy về lịch quay định kỳ | Trưởng phòng Marketing | 18/10/2023 |

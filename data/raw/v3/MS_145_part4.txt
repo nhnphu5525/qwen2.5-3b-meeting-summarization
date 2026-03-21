@@ -1,0 +1,76 @@
+<|input|>
+# Kế hoạch Xuất khẩu Sầu riêng sang Thị trường Trung Quốc - Vụ mùa 2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát công tác chuẩn bị cho chiến dịch xuất khẩu sầu riêng chính ngạch sang Trung Quốc.
+- Thống nhất quy trình kiểm soát chất lượng tại vùng trồng và cơ sở đóng gói theo tiêu chuẩn mới của phía bạn.
+- Giải quyết các vấn đề về logistics, bao bì, hồ sơ kiểm dịch và phương án tài chính cho đợt hàng.
+
+### 2. Các vấn đề đã thảo luận
+- **Mã số vùng trồng:** Đã được phê duyệt thêm 20 ha, nâng tổng diện tích đạt chuẩn lên 50 ha. Cần duy trì nhật ký vườn nghiêm ngặt để sẵn sàng kiểm tra đột xuất.
+- **Kiểm soát chất lượng:** 
+- **Đóng gói và Bao bì:** Sử dụng thùng carton 5 lớp chịu lực cao, có lỗ thông hơi và tích hợp mã QR truy xuất nguồn gốc. Quay phim/chụp ảnh toàn bộ quá trình đóng gói làm bằng chứng đối chiếu.
+- **Logistics:** Đã đặt trước 10 container lạnh/tuần, chấp nhận mức giá cước tăng 20%. Cần đảm bảo xe vận hành đúng chuẩn nhiệt độ để giữ chất lượng trái.
+- **Tài chính:** Thống nhất phương thức thanh toán 30-40-30 với đối tác. HTX sẽ vay vốn ngắn hạn từ ngân hàng để thanh toán tiền mặt cho nông dân ngay khi thu mua.
+
+### 3. Kết luận và quyết định
+- Bắt đầu chiến dịch thu hoạch và xuất khẩu lứa đầu tiên vào tuần tới.
+- Giao chị Hồng chịu trách nhiệm thu mua và điều phối nhân sự tại vườn.
+- Giao anh Bảy giám sát trực tiếp tại kho đóng gói và quy trình rửa trái áp lực cao.
+- Giao Tuấn hoàn thiện hồ sơ pháp lý, làm việc với đơn vị logistics và giám sát dán tem truy xuất.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký hợp đồng thuê 10 xe container lạnh/tuần | Tuấn | 10/10/2024 |
+| Hoàn thiện hồ sơ vay vốn ngắn hạn ngân hàng | Chị Hồng | 12/10/2024 |
+| Kiểm tra cuối cùng mã QR và tem truy xuất trên bao bì | Tuấn | 14/10/2024 |
+| Tập huấn lại quy trình rửa trái cho nhân công kho | Anh Bảy | 15/10/2024 |
+| Giám sát cắt trái và phân loại tại vườn lứa 1 | Chị Hồng | 16/10/2024 |
+| Quay phim tư liệu quá trình đóng gói và niêm phong | Tuấn | 17/10/2024 |
+[08:55:15] Dạ chú, em đã đặt loại thùng 5 lớp chịu lực cao rồi. Có cả lỗ thông hơi để tránh bị hấp hơi nóng làm chín trái sớm nữa. Em cũng có đặt in luôn cả mã QR trên thùng để họ quét một phát là ra hết thông tin HTX mình luôn.
+[08:58:30] Tuyệt vời! Tuấn làm việc càng ngày càng chuyên nghiệp đó. Vậy chốt lại là tuần sau mình bắt đầu thu hoạch lứa đầu tiên nha. Chị Hồng điều phối nhân sự xuống vườn, anh Bảy trực ở nhà kho giám sát đóng gói, còn Tuấn thì lo thủ tục và xe cộ.
+[09:01:45] Dạ, tụi em rõ rồi anh Minh. Hy vọng vụ này HTX mình thắng lớn để bà con có cái Tết ấm no.
+[09:05:00] Ừ, thôi mọi người giải tán đi làm đi. Có chuyện gì gấp thì gọi điện thoại liền cho tôi nha.
+[09:08:15] Dạ, chào anh Minh, chào mọi người nha.
+[09:11:30] Chào chú, chào cô nha.
+
+<|output|>
+# Kế hoạch Xuất khẩu Sầu riêng sang Thị trường Trung Quốc - Vụ mùa 2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát công tác chuẩn bị cho chiến dịch xuất khẩu sầu riêng chính ngạch sang Trung Quốc.
+- Thống nhất quy trình kiểm soát chất lượng tại vùng trồng và cơ sở đóng gói theo tiêu chuẩn mới của phía bạn.
+- Giải quyết các vấn đề về logistics, bao bì, hồ sơ kiểm dịch và phương án tài chính cho đợt hàng.
+
+### 2. Các vấn đề đã thảo luận
+- **Mã số vùng trồng:** Đã được phê duyệt thêm 20 ha, nâng tổng diện tích đạt chuẩn lên 50 ha. Cần duy trì nhật ký vườn nghiêm ngặt để sẵn sàng kiểm tra đột xuất.
+- **Kiểm soát chất lượng:** 
+- **Đóng gói và Bao bì:** Sử dụng thùng carton 5 lớp chịu lực cao, có lỗ thông hơi và tích hợp mã QR truy xuất nguồn gốc. Quay phim/chụp ảnh toàn bộ quá trình đóng gói làm bằng chứng đối chiếu.
+- **Logistics:** Đã đặt trước 10 container lạnh/tuần, chấp nhận mức giá cước tăng 20%. Cần đảm bảo xe vận hành đúng chuẩn nhiệt độ để giữ chất lượng trái.
+- **Tài chính:** Thống nhất phương thức thanh toán 30-40-30 với đối tác. HTX sẽ vay vốn ngắn hạn từ ngân hàng để thanh toán tiền mặt cho nông dân ngay khi thu mua.
+- **Thủ tục:** Chuẩn bị sẵn hồ sơ kiểm dịch thực vật và chứng nhận xuất xứ (CO) để thông quan nhanh nhất tại biên giới.
+
+### 3. Kết luận và quyết định
+- Bắt đầu chiến dịch thu hoạch và xuất khẩu lứa đầu tiên vào tuần tới.
+- Giao chị Hồng chịu trách nhiệm thu mua và điều phối nhân sự tại vườn.
+- Giao anh Bảy giám sát trực tiếp tại kho đóng gói và quy trình rửa trái áp lực cao.
+- Giao Tuấn hoàn thiện hồ sơ pháp lý, làm việc với đơn vị logistics và giám sát dán tem truy xuất.
+- Phê duyệt phương án vay vốn ngân hàng để đảm bảo dòng tiền thu mua.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký hợp đồng thuê 10 xe container lạnh/tuần | Tuấn | 10/10/2024 |
+| Hoàn thiện hồ sơ vay vốn ngắn hạn ngân hàng | Chị Hồng | 12/10/2024 |
+| Kiểm tra cuối cùng mã QR và tem truy xuất trên bao bì | Tuấn | 14/10/2024 |
+| Tập huấn lại quy trình rửa trái cho nhân công kho | Anh Bảy | 15/10/2024 |
+| Giám sát cắt trái và phân loại tại vườn lứa 1 | Chị Hồng | 16/10/2024 |
+| Quay phim tư liệu quá trình đóng gói và niêm phong | Tuấn | 17/10/2024 |
+| Liên hệ đầu mối cửa khẩu cập nhật tình hình thông quan | Anh Minh | Hàng ngày |

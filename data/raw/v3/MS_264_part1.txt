@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[10:00] Chào mọi người, hôm nay bộ phận Pháp chế họp để rà soát lại các vấn đề liên quan đến sở hữu trí tuệ (IP) của công ty, đặc biệt là việc đăng ký bảo hộ nhãn hiệu và bản quyền phần mềm cho các sản phẩm mới ra mắt. Chị Nga, chị có thể cập nhật tình hình các đơn đăng ký nhãn hiệu tại Cục Sở hữu trí tuệ không?
+[10:05] Chào anh Kiên, chào cả team. Tôi là Nga. Hiện tại chúng ta có 5 nhãn hiệu đang trong giai đoạn thẩm định nội dung. Tuy nhiên, có một tin không vui là nhãn hiệu "EcoTech" của chúng ta đang bị một công ty khác nộp đơn phản đối (opposition) với lý do tương tự gây nhầm lẫn với nhãn hiệu "EcoWorld" đã được bảo hộ từ trước. Chúng ta có 30 ngày để nộp bản phản hồi lên Cục.
+[10:10] Chào chị Nga, tôi là Nam bên bộ phận Thiết kế thương hiệu. Tôi khẳng định là quy chuẩn đồ họa, màu sắc và font chữ của chúng ta hoàn toàn khác biệt so với "EcoWorld". Hơn nữa, lĩnh vực hoạt động của họ là xử lý rác thải, còn chúng ta là sản xuất linh kiện điện tử tiết kiệm điện. Theo luật, nếu hai lĩnh vực không liên quan trực tiếp thì khả năng gây nhầm lẫn là rất thấp. Chị Nga cần nhấn mạnh điểm này trong văn bản phản hồi.
+[10:15] Chào anh Nam, chị Nga. Tôi là Linh, chuyên viên pháp lý về bản quyền. Tiện đây tôi muốn báo cáo về phần mềm quản lý kho thông minh vừa hoàn thiện. Bộ phận IT đã bàn giao mã nguồn (source code) cho chúng ta. Tôi đang chuẩn bị hồ sơ đăng ký bản quyền tác giả tại Cục Bản quyền tác giả. Anh Kiên lưu ý là chúng ta cần có biên bản bàn giao quyền sở hữu từ các bạn lập trình viên là CTV thuê ngoài để tránh tranh chấp sau này.
+
+<|output|>
+# Rà soát và Bảo hộ Tài sản Sở hữu trí tuệ (IP)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tiến độ đăng ký nhãn hiệu, bản quyền phần mềm và sáng chế kỹ thuật.
+
+### 2. Các vấn đề đã thảo luận
+- Nhãn hiệu: Nhãn hiệu "EcoTech" bị phản đối do trùng lặp tên gọi với "EcoWorld"; cần chứng minh sự khác biệt về đồ họa và lĩnh vực hoạt động.
+- Bản quyền phần mềm: Cần chuẩn bị hồ sơ đăng ký bản quyền cho phần mềm quản lý kho; lưu ý ký thỏa thuận chuyển giao quyền với cộng tác viên bên ngoài.
+
+### 3. Kết luận và quyết định
+- Gửi văn bản phản hồi Cục Sở hữu trí tuệ để bảo vệ nhãn hiệu "EcoTech" dựa trên sự khác biệt về ngành hàng.
+- Ưu tiên đăng ký Bằng sáng chế cho thuật toán mới để đảm bảo thời gian bảo hộ tối đa.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn phản hồi vụ phản đối nhãn hiệu EcoTech | Chị Nga (Pháp chế) | 05/04/2025 |
+| Ký thỏa thuận IP với các CTV lập trình | Anh Kiên (Trưởng phòng) | 28/03/2025 |
+| Đăng ký bản quyền tác giả phần mềm quản lý kho | Chị Linh (Pháp chế) | 10/04/2025 |

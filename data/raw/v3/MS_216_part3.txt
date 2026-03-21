@@ -1,0 +1,69 @@
+<|input|>
+# Báo cáo cuộc họp về Xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Xây dựng hiện tại
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý vật liệu
+- Thiếu hụt nguồn lực cho nhà thầu
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho an toàn lao động
+- Phân bổ thêm 2 nhân sự cho mảng vật liệu
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ an toàn lao động | Phòng Kế hoạch | 13/05/2026 |
+| Liên hệ đối tác về thiết kế cơ điện | Team Technical | 03/08/2026 |
+
+[10:24] À Đúng rồi, cái ngân sách dự án cần được ưu tiên xử lý trước thứ Sáu này.
+[09:43] Nói chung là Về dài hạn thì thiết kế cơ điện sẽ là trọng tâm của năm nay.
+[10:28] Thôi được rồi, vậy thống nhất là triển khai vật liệu theo hướng đó.
+[09:45] À Mọi người nghe rõ không? Về cái an toàn lao động này tôi thấy có vẻ hơi vướng.
+[10:32] Cần phải làm rõ hơn về vật liệu trong hợp đồng mới.
+[10:34] Nói chung là Bên đối tác họ cứ hỏi mãi về vật liệu, mình phải trả lời sao đây?
+[10:36] Để tôi check lại lịch của bên vật liệu xem họ rảnh khi nào.
+[10:38] Cần phải làm rõ hơn về ngân sách dự án trong hợp đồng mới.
+[09:50] Cái ngân sách dự án này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[10:42] Mọi người nghe rõ không? Về cái an toàn lao động này tôi thấy có vẻ hơi vướng.
+[10:44] À Ai sẽ chịu trách nhiệm chính cho mảng tiến độ thi công nhỉ?
+[09:53] Thì Tôi sẽ phụ trách kiểm tra lại tiến độ thi công rồi báo lại cả team vào chiều mai.
+[10:48] Cần phải làm rõ hơn về nhà thầu trong hợp đồng mới.
+[10:50] Bên đối tác họ cứ hỏi mãi về nhà thầu, mình phải trả lời sao đây?
+[10:52] Dạ Đúng rồi, cái vật liệu cần được ưu tiên xử lý trước thứ Sáu này.
+[10:54] Vụ nhà thầu thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:58] À Thế thì mình chốt phương án cho vật liệu luôn đi, đừng kéo dài nữa.
+[09:59] Đừng quên vụ an toàn lao động cũng quan trọng không kém nhé.
+[11:00] Chắc là Vấn đề thiết kế cơ điện thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[11:02] Chắc là Ai sẽ chịu trách nhiệm chính cho mảng thiết kế cơ điện nhỉ?
+[11:04] Thôi được rồi, vậy thống nhất là triển khai vật liệu theo hướng đó.
+
+<|output|>
+# Báo cáo cuộc họp về Xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Xây dựng hiện tại
+- Giải quyết các tồn đọng liên quan đến vật liệu
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý vật liệu
+- Thiếu hụt nguồn lực cho nhà thầu
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho an toàn lao động
+- Phân bổ thêm 2 nhân sự cho mảng vật liệu
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ an toàn lao động | Phòng Kế hoạch | 13/05/2026 |
+| Liên hệ đối tác về thiết kế cơ điện | Team Technical | 03/08/2026 |
+| Kiểm tra tiến độ ngân sách dự án | Bộ phận Pháp lý | 06/01/2026 |

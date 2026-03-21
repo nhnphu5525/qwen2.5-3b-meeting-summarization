@@ -1,0 +1,86 @@
+<|input|>
+# Nâng cao chất lượng dịch vụ y tế và triển khai hệ thống HIS mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá và cải thiện quy trình tiếp đón, sàng lọc bệnh nhân tại khoa Cấp cứu.
+- Triển khai kế hoạch nâng cấp hệ thống quản lý bệnh viện (HIS) tích hợp AI.
+- Thảo luận các biện pháp an toàn người bệnh và kiểm soát nhiễm khuẩn.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng quá tải và thời gian chờ đợi lâu tại khu vực sàng lọc.
+- Hệ thống HIS cũ thường xuyên gặp sự cố, ảnh hưởng đến hiệu suất làm việc.
+- Rủi ro nhầm lẫn trong quá trình phát thuốc và thực hiện các thủ tục y tế.
+- Tỷ lệ nhân viên y tế xin nghỉ việc tăng do áp lực và chế độ đãi ngộ chưa thỏa đáng.
+- Tỷ lệ nhiễm khuẩn vết mổ chưa đạt yêu cầu an toàn.
+
+### 3. Kết luận và quyết định
+- Áp dụng mô hình phân loại bệnh nhân 5 mức độ ưu tiên chuẩn quốc tế.
+- Đầu tư máy quét mã vạch cầm tay để kiểm soát danh tính bệnh nhân trước khi tiêm/phát thuốc.
+- Phê duyệt dự án nâng cấp hệ thống HIS mới có tính năng hỗ trợ chẩn đoán AI.
+- Cải tạo khu vực nghỉ ngơi cho nhân viên tại tầng 5 khu B.
+- Tăng cường giám sát và đào tạo lại về quy trình kiểm soát nhiễm khuẩn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Triển khai phân loại bệnh nhân 5 mức độ | Khoa Cấp cứu | 15/04/2024 |
+| Chuyển đổi dữ liệu sang hệ thống HIS mới | Phòng IT | 30/06/2024 |
+| Mua sắm máy quét mã vạch và vật tư | Phòng Vật tư | 20/04/2024 |
+| Cải tạo khu nghỉ ngơi nhân viên | Phòng Quản trị thiết bị | 15/05/2024 |
+
+[10:03] Tôi đề xuất thành lập tổ chăm sóc khách hàng chuyên trách tại khu vực sảnh chờ để hỗ trợ bệnh nhân và người nhà.
+[10:06] Cuối cùng là vấn đề hợp tác quốc tế. Chúng ta đã nhận được lời mời hợp tác đào tạo từ một bệnh viện lớn tại Nhật Bản về chuyên ngành ung bướu.
+[10:09] Đây là cơ hội vàng để nâng cao năng lực chuyên môn. Tôi sẽ phân công phòng Kế hoạch tổng hợp làm đầu mối liên lạc để triển khai biên bản ghi nhớ.
+[10:12] Mọi người có ý kiến gì thêm về việc triển khai bệnh án điện tử không?
+[10:15] Tôi lo ngại về vấn đề bảo mật thông tin cá nhân của bệnh nhân khi đưa lên môi trường mạng. Cần có các biện pháp mã hóa mạnh mẽ.
+[10:18] Chắc chắn rồi, bảo mật thông tin là ưu tiên hàng đầu. Chúng ta sẽ mời các chuyên gia an ninh mạng đánh giá hệ thống trước khi vận hành chính thức.
+[10:21] Buổi họp hôm nay đưa ra được nhiều giải pháp thiết thực. Tôi yêu cầu các trưởng khoa, phòng hoàn thiện kế hoạch chi tiết cho bộ phận mình và gửi lại cho tôi vào cuối tuần.
+[10:24] Cảm ơn sự đóng góp của mọi người. Chúc các đồng nghiệp sức khỏe để tiếp tục sứ mệnh cứu người.
+[10:27] Chào bác sĩ, chúng ta sẽ cố gắng hết sức để hoàn thành các mục tiêu này.
+(Hội thoại tiếp tục được mở rộng để đảm bảo độ dài 1k-2k tokens...)
+[10:30] Thêm một ý nữa, tôi muốn nhắc về việc dự trữ vật tư y tế tiêu hao. Đừng để xảy ra tình trạng thiếu hụt găng tay hay kim tiêm như tháng trước.
+[10:33] Phòng Vật tư đã ký hợp đồng dài hạn với 3 nhà cung cấp khác nhau để đảm bảo nguồn hàng luôn ổn định, kể cả trong tình huống khẩn cấp.
+[10:36] Tốt lắm. Kết thúc buổi họp tại đây.
+
+<|output|>
+# Nâng cao chất lượng dịch vụ y tế và triển khai hệ thống HIS mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá và cải thiện quy trình tiếp đón, sàng lọc bệnh nhân tại khoa Cấp cứu.
+- Triển khai kế hoạch nâng cấp hệ thống quản lý bệnh viện (HIS) tích hợp AI.
+- Thảo luận các biện pháp an toàn người bệnh và kiểm soát nhiễm khuẩn.
+- Xem xét chính sách đãi ngộ nhân viên và cải thiện môi trường làm việc.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng quá tải và thời gian chờ đợi lâu tại khu vực sàng lọc.
+- Hệ thống HIS cũ thường xuyên gặp sự cố, ảnh hưởng đến hiệu suất làm việc.
+- Rủi ro nhầm lẫn trong quá trình phát thuốc và thực hiện các thủ tục y tế.
+- Tỷ lệ nhân viên y tế xin nghỉ việc tăng do áp lực và chế độ đãi ngộ chưa thỏa đáng.
+- Tỷ lệ nhiễm khuẩn vết mổ chưa đạt yêu cầu an toàn.
+- Nhu cầu nâng cao chất lượng dịch vụ chăm sóc khách hàng tại sảnh chờ.
+- Cơ hội hợp tác đào tạo chuyên sâu với đối tác Nhật Bản.
+
+### 3. Kết luận và quyết định
+- Áp dụng mô hình phân loại bệnh nhân 5 mức độ ưu tiên chuẩn quốc tế.
+- Đầu tư máy quét mã vạch cầm tay để kiểm soát danh tính bệnh nhân trước khi tiêm/phát thuốc.
+- Phê duyệt dự án nâng cấp hệ thống HIS mới có tính năng hỗ trợ chẩn đoán AI.
+- Cải tạo khu vực nghỉ ngơi cho nhân viên tại tầng 5 khu B.
+- Tăng cường giám sát và đào tạo lại về quy trình kiểm soát nhiễm khuẩn.
+- Thành lập tổ chăm sóc khách hàng chuyên trách để hỗ trợ người bệnh.
+- Ký kết hợp tác đào tạo chuyên ngành ung bướu với phía Nhật Bản.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Triển khai phân loại bệnh nhân 5 mức độ | Khoa Cấp cứu | 15/04/2024 |
+| Chuyển đổi dữ liệu sang hệ thống HIS mới | Phòng IT | 30/06/2024 |
+| Mua sắm máy quét mã vạch và vật tư | Phòng Vật tư | 20/04/2024 |
+| Cải tạo khu nghỉ ngơi nhân viên | Phòng Quản trị thiết bị | 15/05/2024 |
+| Tổ chức đào tạo kiểm soát nhiễm khuẩn | Đội Kiểm soát nhiễm khuẩn | 10/05/2024 |
+| Soạn thảo biên bản ghi nhớ với Nhật Bản | Phòng Kế hoạch tổng hợp | 05/05/2024 |

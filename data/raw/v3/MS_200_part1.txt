@@ -1,0 +1,66 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào buổi sáng mọi người, hôm nay chúng ta họp tổng thể để chuẩn bị cho đại lễ Kỷ niệm 10 năm thành lập công ty vào cuối năm nay.
+[09:02] Đây là sự kiện quan trọng nhất từ trước đến nay, nên tôi muốn mọi thứ phải thật hoàn hảo và trang trọng.
+[09:04] Dự kiến mình sẽ mời khoảng 1.000 khách, bao gồm đối tác, khách hàng thân thiết và toàn thể cán bộ nhân viên.
+[09:06] Với quy mô này thì chỉ có các trung tâm hội nghị lớn như NCC hoặc các khách sạn 5 sao mới đáp ứng được.
+[09:08] Tôi đề xuất tổ chức tại khách sạn JW Marriott, không gian ở đó rất sang trọng và dịch vụ ăn uống cũng rất tốt.
+[09:10] Nhưng chi phí ở Marriott khá cao, mình cần cân đối lại ngân sách tổng thể trước khi đặt cọc.
+[09:12] Ngân sách dự kiến cho toàn bộ sự kiện này là 5 tỷ đồng, mọi người thấy có đủ không?
+[09:14] 5 tỷ bao gồm cả tiền thuê địa điểm, tiệc tối, quà tặng khách mời và phần dàn dựng sân khấu thì hơi thiếu đấy.
+[09:16] Riêng phần sản xuất video clip hành trình 10 năm và thuê nghệ sĩ nổi tiếng biểu diễn đã chiếm một khoản không nhỏ rồi.
+[09:18] Vậy thì mình cần tìm thêm các nhà tài trợ từ phía đối tác chiến lược để bổ sung nguồn kinh phí.
+[09:20] Về chủ đề của buổi lễ, tôi muốn lấy tên là "Thập kỷ vững vàng - Vươn tầm thế giới".
+[09:22] Tên này nghe rất kêu, nó thể hiện được quá trình hình thành và khát vọng tương lai của mình.
+[09:24] Phần nội dung chính của buổi lễ sẽ gồm có: Vinh danh các công thần đồng hành từ ngày đầu, ra mắt bộ nhận diện thương hiệu mới và tiệc tri ân.
+[09:26] Việc vinh danh cần làm thật xúc động, mình nên quay các clip phỏng vấn ngắn về những kỷ niệm của anh em đời đầu.
+[09:28] Bộ nhận diện thương hiệu mới phải được giữ bí mật tuyệt đối đến phút cuối cùng để tạo sự bất ngờ.
+
+<|output|>
+# Kế hoạch tổ chức đại lễ kỷ niệm 10 năm thành lập công ty
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất quy mô, chủ đề và ngân sách dự kiến cho sự kiện kỷ niệm 10 năm.
+- Phân công nhiệm vụ cho các phòng ban về nội dung, hậu cần và truyền thông.
+
+### 2. Các vấn đề đã thảo luận
+- Quy mô sự kiện: 1.000 khách mời tại trung tâm hội nghị hoặc khách sạn 5 sao (đề xuất JW Marriott).
+- Ngân sách: Dự kiến 5 tỷ đồng, cần huy động thêm tài trợ từ đối tác để đảm bảo chất lượng.
+- Chủ đề: "Thập kỷ vững vàng - Vươn tầm thế giới".
+- Cấu trúc chương trình: Vinh danh nhân viên kỳ cựu, ra mắt nhận diện thương hiệu mới và tiệc tri ân.
+- Nội dung sáng tạo: Sản xuất video hành trình 10 năm, phỏng vấn nhân sự đời đầu và nghệ sĩ biểu diễn.
+
+### 3. Kết luận và quyết định
+- Chốt chủ đề và khung chương trình chính của đại lễ.
+- Giao phòng Marketing hoàn thiện bộ nhận diện thương hiệu mới và kế hoạch truyền thông.
+- Phòng Hành chính khảo sát giá địa điểm và lên danh sách khách mời chi tiết.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát địa điểm và báo giá chi tiết | Phòng Hành chính | 30/03/2026 |
+| Hoàn thiện thiết kế nhận diện thương hiệu mới | Phòng Marketing | 15/04/2026 |
+| Lên danh sách khách mời và sơ đồ đưa đón | Phòng Hành chính | 30/04/2026 |
+| Sản xuất video hành trình và phỏng vấn | Team Truyền thông | 30/05/2026 |
+| Đề xuất mẫu quà tặng vinh danh và tri ân | Phòng Nhân sự | 10/05/2026 |

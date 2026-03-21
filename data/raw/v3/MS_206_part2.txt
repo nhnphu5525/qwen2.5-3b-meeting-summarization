@@ -1,0 +1,65 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Môi trường
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Môi trường hiện nay
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Môi trường
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý rác thải | Phòng Môi trường | 02/09/2026 |
+
+[09:23] Dạ Bên khách hàng họ cứ hối thúc vụ môi trường xanh suốt.
+[09:24] Để tôi check lại mấy cái số liệu của môi trường xanh rồi báo lại cả nhà sau.
+[10:15] Tôi đề xuất chốt hạn chót cho rác thải là cuối tháng này được không?
+[09:52] Thì đấy Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:27] Tôi đề xuất chốt hạn chót cho biến đổi khí hậu là cuối tháng này được không?
+[09:28] Không sao, mình có thể tối ưu lại phần giảm phát thải mà.
+[10:27] Để tôi check lại mấy cái số liệu của giảm phát thải rồi báo lại cả nhà sau.
+[09:30] Vâng Cảm ơn mọi người, buổi họp hôm nay về Môi trường rất hiệu quả.
+[10:02] Nói chung là Chào mọi người, chúng ta tiếp tục bàn về rác thải nhé.
+[10:04] Bên phòng ban họ cứ hối thúc vụ rác thải suốt.
+[09:33] Tôi đề xuất chốt hạn chót cho giảm phát thải là cuối tháng này được không?
+[10:42] Nói chung là Hiện tại cái phát triển bền vững đang bị chậm tiến độ một chút vì thiếu người.
+[10:10] Tôi đề xuất chốt hạn chót cho phát triển bền vững là cuối tháng này được không?
+[09:36] Thì đấy Nhưng mà còn cái phát triển bền vững thì tính sao đây? Sắp hết hạn rồi.
+[10:51] Chào mọi người, chúng ta tiếp tục bàn về phát triển bền vững nhé.
+[10:54] Nhưng mà còn cái năng lượng tái tạo thì tính sao đây? Sắp hết hạn rồi.
+[10:57] Chào mọi người, chúng ta tiếp tục bàn về phát triển bền vững nhé.
+[11:00] Nói chung là Về phần biến đổi khí hậu ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[09:41] Thì đấy Tuần tới mình tập trung dứt điểm cái biến đổi khí hậu đi cho xong.
+[11:06] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về rác thải.
+[09:43] Thì Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về môi trường xanh.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Môi trường
+- Giải quyết các vướng mắc về năng lượng tái tạo, rác thải
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Môi trường hiện nay
+- Khó khăn trong việc xử lý môi trường xanh
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Môi trường
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý rác thải | Phòng Môi trường | 02/09/2026 |
+| Xử lý môi trường xanh | Phòng Môi trường | 25/04/2026 |

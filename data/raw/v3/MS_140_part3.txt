@@ -1,0 +1,61 @@
+<|input|>
+# Hội nghị tổng kết năm và định hướng phát triển 5 năm (2024-2029)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Tổng kết tình hình kinh doanh, tài chính, sản xuất, marketing và IT trong năm vừa qua.
+- Đánh giá các thành tựu đạt được và những tồn đọng cần xử lý ngay trong năm tới.
+
+### 2. Các vấn đề đã thảo luận
+- Báo cáo năm cũ:
+- Định hướng 5 năm tới (3 trụ cột):
+
+### 3. Kết luận và quyết định
+- Chốt mục tiêu doanh thu 15.000 tỷ đồng vào năm 2029.
+- Phê duyệt lộ trình đầu tư IT trong 3 năm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Strategic Map 2024-2029 chi tiết | Anh Thắng - Tổng Giám đốc | 15/01/2025 |
+| Lập đề án đầu tư hạ tầng Private Cloud | Anh Dũng - Giám đốc IT | 30/01/2025 |
+| Khảo sát thực địa và pháp lý đất Long An | Anh Hùng - Giám đốc Sản xuất | 20/02/2025 |
+[08:53:45] Dạ vầy nè anh Minh, hệ thống cũ mình thuê của đối tác bên ngoài nên khả năng scale hơi kém. Để phục vụ cho tầm nhìn 5 năm tới, em đề xuất mình xây dựng hệ thống Private Cloud riêng và tự phát triển bộ công cụ Data Analytics. Nếu mình nắm được "Big Data" trong tay thì mình sẽ biết chính xác khách hàng họ muốn gì trước cả khi họ biết nữa. Chi phí đầu tư ban đầu cho hạ tầng này khoảng 150 tỷ, nhưng về lâu dài sẽ tiết kiệm được rất nhiều tiền thuê ngoài và bảo mật thông tin tuyệt đối ạ.
+[09:00:00] 150 tỷ cho IT... Chị Lan thấy sao? Có "cân" nổi không?
+[09:06:15] Nếu chia lộ trình đầu tư trong 3 năm thì em duyệt được anh ạ. Mình không thể làm doanh nghiệp tỷ đô mà dùng hệ thống IT "chuồng gà" được. Nhưng em yêu cầu anh Dũng phải có cam kết về tính tương thích với hệ thống kế toán ERP hiện tại của em nha.
+[09:12:30] Chuyện đó anh yên tâm, em sẽ cho hai hệ thống "nói chuyện" với nhau mượt mà luôn.
+[09:18:45] Tốt! Vậy là mình đã điểm qua các mảng. Giờ sang phần quan trọng nhất: Định hướng 5 năm tới. Anh Thắng trình bày sơ lược cái Strategic Map mà anh với ban tham mưu đã soạn thảo đi.
+[09:25:00] Dạ, mục tiêu chiến lược giai đoạn 2024-2029 của chúng ta gồm 3 trụ cột chính. Một là "Thâm nhập sâu vào thị trường khu vực" - như buổi họp trước mình đã bàn về Thái Lan và Indo. Hai là "Đa dạng hóa hệ sinh thái sản phẩm" - không chỉ dừng lại ở thực phẩm mà sẽ lấn sân sang mảng thực phẩm chức năng và dược phẩm nhẹ. Ba là "Chuyển đổi số toàn diện" - như anh Dũng vừa đề cập. Mục tiêu là đến năm 2029, doanh thu của chúng ta phải đạt mốc 15.000 tỷ đồng, tức là gấp 3 lần hiện tại.
+[09:31:15] 15.000 tỷ... Một con số đầy tham vọng nhưng hoàn toàn khả thi nếu mình làm đúng. Anh Hùng sản xuất thấy sao về việc đa dạng hóa sang dược phẩm? Nhà xưởng hiện tại có đáp ứng được tiêu chuẩn GMP không?
+
+<|output|>
+# Hội nghị tổng kết năm và định hướng phát triển 5 năm (2024-2029)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Tổng kết tình hình kinh doanh, tài chính, sản xuất, marketing và IT trong năm vừa qua.
+- Đánh giá các thành tựu đạt được và những tồn đọng cần xử lý ngay trong năm tới.
+- Thảo luận và thống nhất tầm nhìn chiến lược 5 năm (2024-2029) với mục tiêu doanh thu 15.000 tỷ đồng.
+
+### 2. Các vấn đề đã thảo luận
+- Báo cáo năm cũ:
+- Định hướng 5 năm tới (3 trụ cột):
+- Vấn đề nguồn lực:
+
+### 3. Kết luận và quyết định
+- Chốt mục tiêu doanh thu 15.000 tỷ đồng vào năm 2029.
+- Phê duyệt lộ trình đầu tư IT trong 3 năm.
+- Giao nhiệm vụ cho các bộ phận chuẩn bị tiền đề cho nhà máy Dược phẩm tại Long An.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Strategic Map 2024-2029 chi tiết | Anh Thắng - Tổng Giám đốc | 15/01/2025 |
+| Lập đề án đầu tư hạ tầng Private Cloud | Anh Dũng - Giám đốc IT | 30/01/2025 |
+| Khảo sát thực địa và pháp lý đất Long An | Anh Hùng - Giám đốc Sản xuất | 20/02/2025 |
+| Xây dựng phương án huy động vốn và M&A | Chị Lan - CFO | 15/03/2025 |
+| Tuyển dụng nhân sự quản lý mảng Dược phẩm | Chị Tuyết - Giám đốc Marketing | 01/03/2025 |

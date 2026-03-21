@@ -1,0 +1,79 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Kinh tế
+- Giải quyết các vướng mắc về GDP, lãi suất
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Kinh tế hiện nay
+- Khó khăn trong việc xử lý đầu tư nước ngoài
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Kinh tế
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý tăng trưởng | Anh Nam | 27/10/2026 |
+| Xử lý lạm phát | Anh Nam | 09/01/2026 |
+| Xử lý đầu tư nước ngoài | Chị Lan | 28/02/2026 |
+
+[09:44] Vâng Cảm ơn mọi người, buổi họp hôm nay về Kinh tế rất hiệu quả.
+[10:09] Thì Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về lạm phát.
+[09:24] Thì đấy Tôi thấy vấn đề tăng trưởng này quan trọng phết, cần xử lý sớm.
+[09:25] Để tôi gửi tài liệu về tăng trưởng cho mọi người qua email sau buổi họp.
+[10:18] Ờm Nhưng mà còn cái tăng trưởng thì tính sao đây? Sắp hết hạn rồi.
+[09:54] Dạ Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về thị trường chứng khoán.
+[10:24] Thì Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về thị trường chứng khoán.
+[10:27] Thực ra Để tôi gửi tài liệu về lãi suất cho mọi người qua email sau buổi họp.
+[10:00] Để tôi check lại mấy cái số liệu của đầu tư nước ngoài rồi báo lại cả nhà sau.
+[10:33] Thì Không sao, mình có thể tối ưu lại phần lạm phát mà.
+[09:32] À còn một việc nữa là cái GDP, mọi người thấy ổn chưa?
+[10:39] Để tôi check lại mấy cái số liệu của thị trường chứng khoán rồi báo lại cả nhà sau.
+[10:42] Tôi đề xuất chốt hạn chót cho ngân sách nhà nước là cuối tháng này được không?
+[10:10] Thực ra Tuần tới mình tập trung dứt điểm cái GDP đi cho xong.
+[10:48] Nhưng mà còn cái thị trường chứng khoán thì tính sao đây? Sắp hết hạn rồi.
+[10:51] Chào mọi người, chúng ta tiếp tục bàn về tăng trưởng nhé.
+[10:16] Để tôi check lại mấy cái số liệu của ngân sách nhà nước rồi báo lại cả nhà sau.
+[10:57] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về tăng trưởng.
+[11:00] Tuần tới mình tập trung dứt điểm cái GDP đi cho xong.
+[09:41] À Tôi đề xuất chốt hạn chót cho GDP là cuối tháng này được không?
+[10:24] À Mọi người cứ thoải mái đóng góp ý kiến về đầu tư nước ngoài đi.
+[11:09] Tôi đề xuất chốt hạn chót cho GDP là cuối tháng này được không?
+[10:28] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Kinh tế
+- Giải quyết các vướng mắc về GDP, lãi suất
+- Đưa ra kế hoạch triển khai cho giai đoạn tới
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Kinh tế hiện nay
+- Khó khăn trong việc xử lý đầu tư nước ngoài
+- Đề xuất cải thiện quy trình tăng trưởng
+- Đánh giá tác động của các yếu tố ngoại cảnh
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Kinh tế
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+- Phân công trách nhiệm cụ thể cho các đơn vị liên quan
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý tăng trưởng | Anh Nam | 27/10/2026 |
+| Xử lý lạm phát | Anh Nam | 09/01/2026 |
+| Xử lý đầu tư nước ngoài | Chị Lan | 28/02/2026 |
+| Xử lý GDP | Ban Giám đốc | 21/11/2026 |
+| Xử lý tăng trưởng | Ban Giám đốc | 18/04/2026 |

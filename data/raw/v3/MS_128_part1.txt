@@ -1,0 +1,53 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00] Chào team Event, hôm nay mình ngồi lại để chốt cái concept cho đại nhạc hội cuối năm "Vũ khúc giao thừa 2024" nha.
+[14:02] Dạ sếp, em đã làm việc với bên thiết kế sân khấu rồi. Năm nay mình định làm sân khấu 360 độ, đặt ngay giữa trung tâm sân vận động để tăng tính tương tác với khán giả á.
+[14:04] Ờ, sân khấu 360 độ thì nhìn hoành tráng đó, nhưng mà cái vụ âm thanh ánh sáng xử lý hơi bị mệt nha. Em đã tính tới vụ dội âm chưa Hùng?
+[14:06] Dạ vầy nè sếp, em đã mời bên chuyên gia âm thanh từ Singapore qua khảo sát. Họ tư vấn mình dùng hệ thống loa Line Array treo trên cao hướng xuống để hạn chế tối đa việc dội âm vào khán đài. Còn ánh sáng thì mình sẽ dùng 500 chiếc drone để tạo hình trên bầu trời lúc đếm ngược luôn anh.
+[14:08] 500 drone hả? Trời ơi, chi phí chắc "khủng" lắm đó nha. Chị Lan bên tài chính duyệt nổi cái budget này không em?
+[14:10] Dạ sếp, em đang xem cái bảng dự toán của Hùng đây. Tổng chi phí dự kiến cho drone với sân khấu đã chiếm hết 40% ngân sách rồi. Nếu mình còn mời thêm dàn nghệ sĩ hạng A như sếp muốn nữa thì chắc chắn là thâm hụt á.
+[14:12] Thâm hụt thì mình phải tìm thêm nhà tài trợ chứ Lan. Em đã liên hệ với bên nhãn hàng bia với nước giải khát chưa? Những sự kiện lớn thế này họ rất thích đổ tiền vô mà.
+[14:14] Dạ em có liên hệ rồi sếp. Bên hãng bia X họ đồng ý tài trợ 2 tỷ nhưng với điều kiện là phải có 3 vị trí độc quyền đặt gian hàng trong khu vực sự kiện. Còn bên hãng điện thoại Y thì họ muốn mình lồng ghép tính năng chụp ảnh ban đêm của họ vô màn hình led sân khấu.
+[14:16] Ờ, mấy điều kiện đó anh thấy cũng hợp lý, không có gì quá đáng. Hùng nhớ phối hợp với bên nhà tài trợ để thiết kế vị trí cho hài hòa nha, đừng để quảng cáo lấn át nghệ thuật là khán giả họ khó chịu lắm.
+
+<|output|>
+# Kế hoạch tổ chức đại nhạc hội cuối năm Vũ khúc giao thừa 2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất concept thiết kế, kịch bản chương trình và phương án kỹ thuật cho đại nhạc hội cuối năm.
+
+### 2. Các vấn đề đã thảo luận
+- Concept sân khấu 360 độ đặt tại trung tâm sân vận động để tăng tương tác.
+- Sử dụng hệ thống loa Line Array (Singapore) và 500 drone trình diễn ánh sáng.
+- Ngân sách dự kiến cao, cần đẩy mạnh tìm kiếm nhà tài trợ (Hãng bia X, Điện thoại Y).
+
+### 3. Kết luận và quyết định
+- Phê duyệt thiết kế sân khấu 360 độ và phương án drone light show.
+- Triển khai thủ tục xin phép biểu diễn với Sở Văn hóa chậm nhất vào tuần tới (trước 30/05/2024).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nộp hồ sơ xin phép biểu diễn lên Sở Văn hóa | Chị Lan (Phòng Hành chính) | 28/05/2024 |
+| Ký hợp đồng tài trợ với nhãn hàng bia X và Y | Chị Lan (Phòng Tài chính) | 05/06/2024 |
+| Chốt danh sách nghệ sĩ và ký hợp đồng | Anh Hùng (Phòng Sự kiện) | 15/06/2024 |

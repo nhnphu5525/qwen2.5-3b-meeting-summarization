@@ -1,0 +1,73 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Chính sách Nhân sự
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho văn hóa công ty
+- Thiếu dữ liệu để đánh giá đào tạo nội bộ
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện văn hóa công ty
+- Phê duyệt ngân sách bổ sung cho đánh giá KPI
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ quy định nghỉ phép | Chị Vân | 25/04/2026 |
+| Họp nhóm để bàn sâu về đánh giá KPI | Phòng Chính sách Nhân sự | 17/04/2026 |
+
+[08:52] Liệu mình có thể đẩy nhanh tiến độ cho văn hóa công ty được không?
+[08:53] Tôi đồng ý với ý kiến về đào tạo nội bộ, nên làm quyết liệt hơn.
+[09:18] Tóm lại là Nói chung là mình phải chốt phương án cho quy định nghỉ phép ngay trong hôm nay.
+[08:55] Mọi người cứ cho ý kiến thoải mái về quy định nghỉ phép đi ạ.
+[09:22] Về phần văn hóa công ty thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[08:57] Cái thưởng quý này hình như đang bị vướng chỗ nào đó đúng không?
+[08:58] Ờm, cái đào tạo nội bộ này thực ra là một vấn đề khá nan giải.
+[09:28] Mọi người có thấy vụ văn hóa công ty dạo này bị chậm không?
+[09:00] Cái đánh giá KPI này hình như đang bị vướng chỗ nào đó đúng không?
+[09:32] Ờm Tôi đồng ý với ý kiến về đánh giá KPI, nên làm quyết liệt hơn.
+[09:02] Cảm ơn mọi người, buổi họp về Chính sách Nhân sự hôm nay rất chất lượng.
+[09:03] Mọi người cứ cho ý kiến thoải mái về thưởng quý đi ạ.
+[09:04] Cảm ơn mọi người, buổi họp về Chính sách Nhân sự hôm nay rất chất lượng.
+[09:05] Mọi người cứ cho ý kiến thoải mái về văn hóa công ty đi ạ.
+[09:42] Thực ra thì tuyển dụng không phải là mục tiêu duy nhất của mình.
+[09:07] Ờm, cái đánh giá KPI này thực ra là một vấn đề khá nan giải.
+[09:08] Ý tôi là Tôi đồng ý với ý kiến về phúc lợi nhân viên, nên làm quyết liệt hơn.
+[09:09] Nói chung là mình phải chốt phương án cho phúc lợi nhân viên ngay trong hôm nay.
+[09:10] Mọi người có thấy vụ phúc lợi nhân viên dạo này bị chậm không?
+[09:11] Liệu mình có thể đẩy nhanh tiến độ cho quy định nghỉ phép được không?
+[09:12] Đừng quên là thưởng quý cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:56] Thực ra Thôi được rồi, vậy thống nhất là làm đào tạo nội bộ theo cách đó.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Chính sách Nhân sự
+- Giải quyết các vấn đề về thưởng quý
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho văn hóa công ty
+- Thiếu dữ liệu để đánh giá đào tạo nội bộ
+- Khó khăn trong việc phối hợp giữa các bên về văn hóa công ty
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện văn hóa công ty
+- Phê duyệt ngân sách bổ sung cho đánh giá KPI
+- Thiết lập nhóm đặc trách xử lý văn hóa công ty
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ quy định nghỉ phép | Chị Vân | 25/04/2026 |
+| Họp nhóm để bàn sâu về đánh giá KPI | Phòng Chính sách Nhân sự | 17/04/2026 |
+| Gửi email xác nhận với đối tác về đào tạo nội bộ | Ban điều hành | 15/05/2026 |
+| Lập báo cáo chi tiết cho đào tạo nội bộ | Phòng Kỹ thuật | 24/01/2026 |

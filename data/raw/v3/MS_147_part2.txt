@@ -1,0 +1,61 @@
+<|input|>
+# Giao ban Đầu giờ về Công tác An toàn Lao động (ATLĐ) tại Công trường
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chấn chỉnh các hành vi vi phạm quy định về an toàn lao động tại công trường.
+- Rà soát các khu vực nguy hiểm và thiết bị máy móc có nguy cơ mất an toàn.
+
+### 2. Các vấn đề đã thảo luận
+- **Vi phạm phổ biến:** Công nhân làm việc trên cao không thắt dây an toàn, không mang giày bảo hộ (đi dép tổ ong), không đội mũ cứng.
+- **Khu vực nguy hiểm:** 
+
+### 3. Kết luận và quyết định
+- Phê duyệt áp dụng chế tài mạnh tay đối với các vi phạm về BHLĐ và nồng độ cồn.
+- Giao Minh chỉ đạo gia cố ngay hố thang máy và xử lý dứt điểm các lỗi về điện trong sáng nay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Gia cố lưới an toàn và thanh chắn hố thang máy | Minh & Đội bảo trì | 05/10/2024 |
+| Sửa chữa và che chắn các tủ điện bị hở dây | Thợ điện (Tổ chú Sáu) | 05/10/2024 |
+| Làm việc với tổ cẩu tháp về an toàn khi gió mạnh | Anh Hùng | 06/10/2024 |
+[07:19:30] Dạ, cái đó em đã ghi nhận trong biên bản rồi. Sáng nay em sẽ cho đội bảo trì đi gia cố lại toàn bộ. Với lại em thấy cái tủ điện tạm ở tầng 10 đang bị hở dây kìa. Hôm qua trời mưa, nước nó tạt vào mà không ai che chắn gì hết, nguy hiểm cực kỳ luôn.
+[07:22:45] Trời ơi, sao nguy hiểm vậy? Chú Sáu điều ngay thằng thợ điện lên xử lý cái tủ điện đó đi. Điện đài ở công trường là phải tuyệt đối an toàn, chứ giật một cái là "đi" cả lũ đó. À, còn cái vụ dàn giáo ở mặt ngoài nữa, Minh check lại xem mấy cái khóa giáo có bị rỉ sét hay lỏng lẻo gì không nha.
+[07:26:00] Dạ, dàn giáo thì em kiểm tra định kỳ mỗi sáng rồi. Nhưng mà em lo là lo cái vụ cẩu tháp kìa. Đợt này gió to quá, mà ông tài xế cẩu nhiều khi ổng cứ ham cẩu hàng nặng lúc gió mạnh. Anh Hùng nhắc nhở ổng, nếu gió trên cấp 5 là phải dừng cẩu ngay nha anh.
+[07:29:15] Ừ, vụ cẩu tháp để anh làm việc lại với đội vận hành. Mà này, Minh ơi, em tổ chức một buổi huấn luyện lại về sơ cấp cứu cho anh em đi. Lỡ có chuyện gì xảy ra thì mọi người còn biết cách xử lý ban đầu chứ đừng có đứng nhìn nhau.
+[07:32:30] Dạ, em sẽ mời bác sĩ bên trạm y tế phường qua hướng dẫn cho anh em vào chiều thứ Bảy tuần này. Mình cũng cần bổ sung thêm mấy cái túi thuốc y tế ở mỗi tầng nữa anh ạ. Hiện tại chỉ có mỗi cái tủ thuốc dưới văn phòng là không đủ đâu.
+[07:35:45] Ý kiến hay đó. Chú Sáu nhớ nhắc anh em là tuyệt đối không được uống rượu bia trước và trong giờ làm việc nha. Tôi mà phát hiện ra ai có mùi cồn là tôi cho nghỉ việc không cần báo trước luôn đó.
+
+<|output|>
+# Giao ban Đầu giờ về Công tác An toàn Lao động (ATLĐ) tại Công trường
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chấn chỉnh các hành vi vi phạm quy định về an toàn lao động tại công trường.
+- Rà soát các khu vực nguy hiểm và thiết bị máy móc có nguy cơ mất an toàn.
+- Thống nhất các biện pháp chế tài và kế hoạch huấn luyện an toàn, sơ cấp cứu cho công nhân.
+
+### 2. Các vấn đề đã thảo luận
+- **Vi phạm phổ biến:** Công nhân làm việc trên cao không thắt dây an toàn, không mang giày bảo hộ (đi dép tổ ong), không đội mũ cứng.
+- **Khu vực nguy hiểm:** 
+- **Thiết bị máy móc:** Cẩu tháp vận hành trong điều kiện gió mạnh (cần tuân thủ dừng khi gió trên cấp 5).
+- **Kỷ luật & Chế tài:** Áp dụng hình thức đình chỉ làm việc ngay trong ngày đối với công nhân vi phạm BHLĐ; tuyệt đối cấm rượu bia trong giờ làm việc.
+
+### 3. Kết luận và quyết định
+- Phê duyệt áp dụng chế tài mạnh tay đối với các vi phạm về BHLĐ và nồng độ cồn.
+- Giao Minh chỉ đạo gia cố ngay hố thang máy và xử lý dứt điểm các lỗi về điện trong sáng nay.
+- Tổ chức buổi huấn luyện sơ cấp cứu vào chiều thứ Bảy (mời chuyên gia y tế).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Gia cố lưới an toàn và thanh chắn hố thang máy | Minh & Đội bảo trì | 05/10/2024 |
+| Sửa chữa và che chắn các tủ điện bị hở dây | Thợ điện (Tổ chú Sáu) | 05/10/2024 |
+| Làm việc với tổ cẩu tháp về an toàn khi gió mạnh | Anh Hùng | 06/10/2024 |
+| Liên hệ mời bác sĩ huấn luyện sơ cấp cứu | Minh | 07/10/2024 |
+| Mua bổ sung túi thuốc sơ cứu cho các tầng | Minh (Hành chính) | 08/10/2024 |

@@ -1,0 +1,63 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Cảm ơn mọi người, cuộc họp về Năng lượng tạm dừng tại đây.
+[09:02] Tôi sẽ phụ trách kiểm tra lại điện gió rồi báo lại cả team vào chiều mai.
+[09:04] Hay là mình thử thay đổi cách tiếp cận với than xem sao?
+[09:03] Để tôi check lại lịch của bên điện mặt trời xem họ rảnh khi nào.
+[09:08] Tôi thấy khí hóa lỏng hiện tại là cơ hội tốt để mình bứt phá.
+[09:05] Hay là mình thử thay đổi cách tiếp cận với than xem sao?
+[09:06] Đừng quên vụ truyền tải cũng quan trọng không kém nhé.
+[09:14] Tôi lo nhất là cái than, tiến độ đang bị khựng lại.
+[09:08] Đúng rồi, cái điện mặt trời cần được ưu tiên xử lý trước thứ Sáu này.
+[09:09] Thế thì mình chốt phương án cho giá điện luôn đi, đừng kéo dài nữa.
+[09:20] Bên đối tác họ cứ hỏi mãi về than, mình phải trả lời sao đây?
+[09:22] Nói chung là Vụ điện gió thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:12] Mọi người có ý kiến gì thêm về than không?
+[09:13] Hình như Vụ năng lượng tái tạo thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:14] Bên đối tác họ cứ hỏi mãi về than, mình phải trả lời sao đây?
+[09:15] Hay là mình thử thay đổi cách tiếp cận với truyền tải xem sao?
+[09:16] Hay là mình thử thay đổi cách tiếp cận với giá điện xem sao?
+[09:34] Vâng Hay là mình thử thay đổi cách tiếp cận với năng lượng tái tạo xem sao?
+[09:18] Ai sẽ chịu trách nhiệm chính cho mảng giá điện nhỉ?
+[09:38] À Bên đối tác họ cứ hỏi mãi về điện mặt trời, mình phải trả lời sao đây?
+[09:40] Nói chung là Tôi lo nhất là cái điện mặt trời, tiến độ đang bị khựng lại.
+[09:21] Vâng Mọi người nghe rõ không? Về cái than này tôi thấy có vẻ hơi vướng.
+[09:44] Cái giá điện này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+
+<|output|>
+# Báo cáo cuộc họp về Năng lượng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Năng lượng hiện tại
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý than
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho khí hóa lỏng
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ năng lượng tái tạo | Bộ phận Pháp lý | 02/10/2026 |

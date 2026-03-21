@@ -1,0 +1,88 @@
+<|input|>
+# Triển khai Lean Six Sigma nâng cao năng lực sản xuất và chất lượng sản phẩm
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khởi động chiến dịch Lean Six Sigma toàn nhà máy nhằm giảm tỉ lệ lỗi và tối ưu hóa chi phí.
+- Thống nhất các công cụ và phương pháp luận sẽ áp dụng (5S, DMAIC, Pull System).
+- Xây dựng đội ngũ nhân sự chuyên trách và lộ trình đào tạo chuyên sâu.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng lãng phí về thời gian, vận chuyển và tồn kho bán thành phẩm (WIP) ảnh hưởng nghiêm trọng đến lợi nhuận.
+- Sự cần thiết của việc đầu tư cảm biến IoT để có dữ liệu đo lường trung thực.
+- Phân tích nguyên nhân gốc rễ (Root Cause) bằng biểu đồ xương cá và Pareto cho các công đoạn trọng điểm (hàn, sơn).
+- Thách thức về tâm lý công nhân và giải pháp khích lệ thông qua khen thưởng sáng kiến.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án Lean Six Sigma làm dự án trọng điểm cấp công ty.
+- Thành lập đội dự án nòng cốt (Black Belts) và yêu cầu cấp quản lý hoàn thành chứng chỉ Green Belt.
+- Đầu tư hạ tầng số hóa (IoT) phục vụ đo lường dữ liệu sản xuất.
+- Áp dụng triệt để 5S tại tất cả phân xưởng và tổ chức "Ngày hội cải tiến" hàng tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thành lập đội dự án Black Belts | Ban Giám đốc | 25/03/2026 |
+| Khảo sát và đo lường hiện trạng (Baseline) | Team QA | 30/03/2026 |
+| Liên hệ đơn vị tư vấn và đào tạo Lean Six Sigma | Phòng Nhân sự | 05/04/2026 |
+| Lập danh sách thiết bị IoT cần đầu tư | Phòng Kỹ thuật | 15/04/2026 |
+| Triển khai chiến dịch 5S tại các phân xưởng | Quản đốc phân xưởng | 20/04/2026 |
+| Thiết kế chương trình khen thưởng sáng kiến | Phòng Nhân sự | 10/04/2026 |
+| Phân tích lỗi tại công đoạn hàn và sơn | Team QA | Chưa rõ |
+[10:50] Một vấn đề khác là lãng phí về tồn kho bán thành phẩm (WIP). Có những lô hàng nằm chờ cả tuần mới sang công đoạn tiếp theo.
+[11:00] Chúng ta sẽ chuyển sang mô hình sản xuất kéo (Pull System) thay vì sản xuất đẩy (Push System) như hiện nay để giảm tối đa WIP.
+[11:10] Việc này yêu cầu sự phối hợp cực kỳ nhịp nhàng giữa bộ phận kế hoạch và sản xuất.
+[11:20] Tôi muốn thấy tỉ lệ lỗi giảm xuống còn dưới 1% sau 1 năm triển khai. Đây là mục tiêu chiến lược.
+[11:30] Tổng ngân sách cho dự án này, bao gồm cả tư vấn, đào tạo và thiết bị giám sát là 10 tỷ đồng.
+[11:45] Số tiền này rất lớn, nhưng nếu thành công, chúng ta sẽ tiết kiệm được ít nhất 30 tỷ đồng mỗi năm từ việc giảm lãng phí và hàng lỗi.
+[12:00] Kế toán cần chuẩn bị phương án giải ngân theo từng cột mốc của dự án DMAIC.
+[12:15] Tôi cần bộ phận Truyền thông nội bộ đẩy mạnh các bài viết, video về lợi ích của Lean Six Sigma để mọi công nhân đều hiểu và ủng hộ.
+[12:30] Cuối mỗi tháng, mình sẽ tổ chức buổi "Ngày hội cải tiến" để các tổ đội trình bày kết quả và nhận thưởng nóng.
+[12:45] Hãy bắt đầu bằng việc khảo sát hiện trạng (Baseline measurement) ngay trong tuần sau.
+[13:00] Chốt lại: Triển khai Lean Six Sigma, thành lập đội Black Belts, đầu tư IoT, đào tạo Green Belt cho quản lý và chuyển sang Pull System.
+[13:15] Mọi người có quyết tâm thực hiện không?
+[13:20] Quyết tâm!
+[13:25] Tốt lắm. Buổi họp hôm nay kết thúc tại đây. Tài liệu chi tiết sẽ được gửi cho các trưởng bộ phận trong chiều nay.
+[13:30] Chào mọi người, chúng ta cùng làm nên lịch sử mới cho nhà máy.
+
+<|output|>
+# Triển khai Lean Six Sigma nâng cao năng lực sản xuất và chất lượng sản phẩm
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khởi động chiến dịch Lean Six Sigma toàn nhà máy nhằm giảm tỉ lệ lỗi và tối ưu hóa chi phí.
+- Thiết lập mục tiêu chiến lược: Giảm tỉ lệ lỗi từ 4.5% xuống dưới 1% trong vòng 1 năm.
+- Thống nhất các công cụ và phương pháp luận sẽ áp dụng (5S, DMAIC, Pull System).
+- Xây dựng đội ngũ nhân sự chuyên trách và lộ trình đào tạo chuyên sâu.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng lãng phí về thời gian, vận chuyển và tồn kho bán thành phẩm (WIP) ảnh hưởng nghiêm trọng đến lợi nhuận.
+- Sự cần thiết của việc đầu tư cảm biến IoT để có dữ liệu đo lường trung thực.
+- Phân tích nguyên nhân gốc rễ (Root Cause) bằng biểu đồ xương cá và Pareto cho các công đoạn trọng điểm (hàn, sơn).
+- Thách thức về tâm lý công nhân và giải pháp khích lệ thông qua khen thưởng sáng kiến.
+- Chuyển đổi từ mô hình sản xuất đẩy (Push) sang sản xuất kéo (Pull) để giảm tồn kho.
+- Ngân sách đầu tư 10 tỷ đồng và kỳ vọng mức tiết kiệm 30 tỷ đồng mỗi năm.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án Lean Six Sigma làm dự án trọng điểm cấp công ty.
+- Thành lập đội dự án nòng cốt (Black Belts) và yêu cầu cấp quản lý hoàn thành chứng chỉ Green Belt.
+- Đầu tư hạ tầng số hóa (IoT) phục vụ đo lường dữ liệu sản xuất.
+- Áp dụng triệt để 5S tại tất cả phân xưởng và tổ chức "Ngày hội cải tiến" hàng tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thành lập đội dự án Black Belts | Ban Giám đốc | 25/03/2026 |
+| Khảo sát và đo lường hiện trạng (Baseline) | Team QA | 30/03/2026 |
+| Liên hệ đơn vị tư vấn và đào tạo Lean Six Sigma | Phòng Nhân sự | 05/04/2026 |
+| Lập danh sách thiết bị IoT cần đầu tư | Phòng Kỹ thuật | 15/04/2026 |
+| Triển khai chiến dịch 5S tại các phân xưởng | Quản đốc phân xưởng | 20/04/2026 |
+| Thiết kế chương trình khen thưởng sáng kiến | Phòng Nhân sự | 10/04/2026 |
+| Lập kế hoạch tài chính và giải ngân dự án | Phòng Tài chính | 28/03/2026 |
+| Xây dựng tài liệu truyền thông nội bộ về Lean | Phòng Truyền thông | 02/04/2026 |
+| Phân tích lỗi tại công đoạn hàn và sơn | Team QA | Chưa rõ |
+| Thiết kế mô hình Pull System thử nghiệm | Phòng Kế hoạch | Chưa rõ |

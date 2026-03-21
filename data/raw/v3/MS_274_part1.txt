@@ -1,0 +1,52 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào mọi người, hôm nay bộ phận Chiến lược sản phẩm họp để thảo luận về kế hoạch ra mắt ứng dụng ngân hàng số (Digital Banking) thế hệ mới dành riêng cho phân khúc khách hàng trẻ Gen Z. Mục tiêu là tạo ra một trải nghiệm tài chính không chỉ an toàn mà còn phong cách và mang tính cá nhân hóa cao. Chị Linh, chị đã có kết quả khảo sát về thói quen chi tiêu của Gen Z chưa?
+[14:05] Chào anh Nam, chào cả team. Tôi là Linh, phụ trách nghiên cứu khách hàng. Kết quả khảo sát 5.000 bạn trẻ cho thấy Gen Z cực kỳ ghét các thủ tục giấy tờ và giao diện ngân hàng truyền thống vốn quá khô khan. Họ muốn mọi thứ phải hoàn thành trong "3 cú chạm". Đặc biệt, nhu cầu về quản lý tài chính cá nhân (PFM) và chia sẻ hóa đơn (Bill Split) khi đi ăn uống cùng bạn bè là rất lớn. Họ cũng thích tích điểm đổi quà (Loyalty program) gắn liền với các thương hiệu trà sữa, rạp chiếu phim và thời trang.
+[14:10] Chào chị Linh, tôi là Tuấn, kiến trúc sư giải pháp phần mềm. Để đáp ứng yêu cầu "3 cú chạm", chúng ta sẽ áp dụng công nghệ định danh điện tử eKYC bằng Video Call AI để khách hàng mở tài khoản chỉ trong 2 phút. Ngoài ra, giao diện ứng dụng sẽ cho phép người dùng tùy biến màu sắc và sắp xếp các tính năng yêu thích theo phong cách cá nhân (Customizable UI). Chúng ta cũng sẽ tích hợp một Chatbot AI có tính cách "vui vẻ, gần gũi" để hỗ trợ khách hàng thay vì các mẫu câu trả lời máy móc.
+[14:15] Chào anh Tuấn, tôi là Mai bên bộ phận Bảo mật. eKYC rất tiện nhưng rủi ro về Deepfake hiện nay đang tăng cao. Chúng ta cần tích hợp tính năng "Liveness Detection" cực mạnh để đảm bảo người đang thực hiện Video Call là người thật. Ngoài ra, em đề xuất sử dụng công nghệ sinh trắc học (biometrics) kết hợp với mã PIN dùng một lần (Soft OTP) ngay trong ứng dụng để tăng tính an toàn mà không gây phiền hà cho người dùng.
+
+<|output|>
+# Kế hoạch phát triển Ứng dụng Ngân hàng số dành cho Gen Z
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận chiến lược và các tính năng cốt lõi cho ứng dụng ngân hàng số dành riêng cho Gen Z.
+- Giải quyết các thách thức về bảo mật eKYC và tuân thủ pháp lý cho các tính năng tài chính mới.
+
+### 2. Các vấn đề đã thảo luận
+- Nghiên cứu khách hàng: Gen Z ưa chuộng sự tối giản ("3 cú chạm"), tính cá nhân hóa và các tính năng xã hội (chia hóa đơn, lì xì).
+- Công nghệ: Áp dụng eKYC Video Call AI, giao diện tùy biến (Customizable UI) và Chatbot AI thân thiện.
+- Bảo mật: Đối phó với rủi ro Deepfake bằng Liveness Detection và sinh trắc học tích hợp Soft OTP.
+- Marketing: Tập trung vào kênh TikTok/YouTube thông qua Influencer và thông điệp "Tài chính thông minh".
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương phát triển ứng dụng ngân hàng số với trải nghiệm người dùng là trọng tâm.
+- Tích hợp công nghệ bảo mật sinh trắc học đa lớp để đảm bảo an toàn tuyệt đối cho eKYC.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Prototype giao diện tùy biến (UI) | Anh Tuấn (IT/UX) | 15/04/2025 |
+| Ký kết hợp tác với các đối tác Loyalty (Trà sữa, Phim) | Chị Linh (Sản phẩm) | 30/03/2025 |
+| Thử nghiệm giải pháp Liveness Detection chống Deepfake | Chị Mai (Security) | 10/04/2025 |
+| Xây dựng kịch bản chiến dịch Marketing TikTok | Anh Hoàng (Marketing) | 05/04/2025 |

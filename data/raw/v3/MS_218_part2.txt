@@ -1,0 +1,62 @@
+<|input|>
+# Báo cáo cuộc họp về Công nghiệp nặng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Công nghiệp nặng hiện tại
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý nguyên liệu đầu vào
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho dây chuyền sản xuất
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ dây chuyền sản xuất | Bộ phận Pháp lý | 05/11/2026 |
+
+[09:22] Hay là mình thử thay đổi cách tiếp cận với nhà máy xem sao?
+[09:23] À Hay là mình thử thay đổi cách tiếp cận với nhà máy xem sao?
+[09:24] Hay là mình thử thay đổi cách tiếp cận với nguyên liệu đầu vào xem sao?
+[09:25] Thế thì mình chốt phương án cho dây chuyền sản xuất luôn đi, đừng kéo dài nữa.
+[09:26] Đúng rồi, cái linh kiện cần được ưu tiên xử lý trước thứ Sáu này.
+[09:54] Chắc là Vấn đề khu công nghiệp thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:28] Cái linh kiện này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:58] Tôi thấy nguyên liệu đầu vào hiện tại là cơ hội tốt để mình bứt phá.
+[09:30] Cái nhà máy này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:31] Hình như Tôi lo nhất là cái thép, tiến độ đang bị khựng lại.
+[10:04] Nói chung là Cái nguyên liệu đầu vào này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[10:06] Vâng Tôi sẽ phụ trách kiểm tra lại nhà máy rồi báo lại cả team vào chiều mai.
+[10:08] Hay là mình thử thay đổi cách tiếp cận với linh kiện xem sao?
+[10:10] Vâng Tôi sẽ phụ trách kiểm tra lại khu công nghiệp rồi báo lại cả team vào chiều mai.
+[10:12] Tôi thấy dây chuyền sản xuất hiện tại là cơ hội tốt để mình bứt phá.
+[09:37] Mọi người nghe rõ không? Về cái nhà máy này tôi thấy có vẻ hơi vướng.
+[09:38] Hình như Tôi thấy linh kiện hiện tại là cơ hội tốt để mình bứt phá.
+[09:39] Thì đấy Thôi được rồi, vậy thống nhất là triển khai khu công nghiệp theo hướng đó.
+[09:40] Bên đối tác họ cứ hỏi mãi về dây chuyền sản xuất, mình phải trả lời sao đây?
+[10:22] Ờm Mọi người nghe rõ không? Về cái khu công nghiệp này tôi thấy có vẻ hơi vướng.
+[09:42] Về phần ngân sách cho nhà máy, sếp đã duyệt chưa nhỉ?
+
+<|output|>
+# Báo cáo cuộc họp về Công nghiệp nặng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Công nghiệp nặng hiện tại
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý nguyên liệu đầu vào
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho dây chuyền sản xuất
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ dây chuyền sản xuất | Bộ phận Pháp lý | 05/11/2026 |
+| Liên hệ đối tác về linh kiện | Anh Hoàng | 01/12/2026 |

@@ -1,0 +1,59 @@
+<|input|>
+# Tối ưu quy trình kiểm soát chất lượng (QC)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng hàng lỗi lọt ra ngoài và bị khách hàng trả về với tỷ lệ cao (2%).
+
+### 2. Các vấn đề đã thảo luận
+- Điều kiện ánh sáng tại khu vực QC không đạt chuẩn, gây mỏi mắt và dễ bỏ sót lỗi cho nhân viên.
+- Bảng mẫu chuẩn (Limit Sample) đã lỗi thời, không cập nhật các loại lỗi mới phát sinh.
+
+### 3. Kết luận và quyết định
+- Lắp đặt hệ thống đèn LED chuyên dụng ngay lập tức để cải thiện ánh sáng tại khu vực QC.
+- Cập nhật lại bộ mẫu lỗi chuẩn bằng hình ảnh trực quan và dán tại các vị trí làm việc.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Mua và lắp đặt hệ thống đèn LED mới cho khu vực QC | Bộ phận Bảo trì/Hành chính | 18/10/2023 |
+| Thu thập mẫu lỗi thực tế và làm bảng hướng dẫn trực quan | Sơn (QC Lead) | 20/10/2023 |
+[13:41:10] Máy AOI thì ngon rồi nhưng mà chi phí đầu tư lớn lắm nha Hải. Để anh bàn lại với bên kế toán xem sao. Trước mắt mình cứ tối ưu bằng con người và quy trình cái đã.
+[13:42:35] Dạ vầy nè, em đề xuất mình chia lại sơ đồ chuyền QC. Thay vì một người kiểm từ đầu tới cuối cái sản phẩm, mình chia ra mỗi người chỉ phụ trách kiểm 1-2 loại lỗi nhất định thôi. Như vậy họ sẽ tập trung hơn và tốc độ kiểm cũng nhanh hơn nhiều.
+[13:44:00] Ý này hay nè! Chuyên môn hóa khâu kiểm tra. Người giỏi soi vết trầy thì chỉ soi vết trầy, người giỏi soi lỗi lắp ráp thì chỉ soi lỗi lắp ráp. Anh duyệt phương án này, Sơn lên lại cái sơ đồ vị trí làm việc mới cho team QC nha.
+[13:45:25] Còn vụ đào tạo thì sao anh? Em thấy mấy bạn mới vào nghề được đào tạo sơ sài quá, chỉ nghe nói miệng vài câu là cho ra đứng máy luôn. Mình cần có một buổi training bài bản, có bài kiểm tra đầu ra đàng hoàng mới được.
+[13:46:50] Nhất trí. Hải soạn cho anh cái giáo trình đào tạo QC ngắn gọn, tập trung vào thực hành và nhận diện lỗi. Ai kiểm tra đạt 90/100 điểm thì mới cho ra chuyền làm chính thức. Còn ai làm lâu mà vẫn để lọt lỗi nhiều thì phải cho đi đào tạo lại hoặc luân chuyển công việc khác.
+[13:48:15] Dạ, em sẽ làm ngay. Còn một cái nữa là chế độ thưởng phạt. Hiện tại mình chỉ có phạt khi để lọt lỗi chứ không có thưởng khi anh em phát hiện ra lỗi khó hoặc duy trì tỷ lệ NG thấp trong thời gian dài. Anh thấy mình có nên bổ sung cái này để khích lệ anh em không?
+[13:49:40] Có chứ! Phải có thưởng có phạt mới công bằng. Để anh đề xuất quỹ khen thưởng cho "Chiến binh QC xuất sắc" hàng tháng. Ai làm tốt, đóng góp ý kiến cải tiến quy trình thì mình thưởng nóng luôn cho anh em phấn khởi.
+
+<|output|>
+# Tối ưu quy trình kiểm soát chất lượng (QC)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng hàng lỗi lọt ra ngoài và bị khách hàng trả về với tỷ lệ cao (2%).
+- Thảo luận và đưa ra các giải pháp thực tế để tối ưu hóa quy trình kiểm tra chất lượng (QC).
+
+### 2. Các vấn đề đã thảo luận
+- Điều kiện ánh sáng tại khu vực QC không đạt chuẩn, gây mỏi mắt và dễ bỏ sót lỗi cho nhân viên.
+- Bảng mẫu chuẩn (Limit Sample) đã lỗi thời, không cập nhật các loại lỗi mới phát sinh.
+- Quy trình kiểm tra hiện tại chưa chuyên môn hóa, một người phải kiểm tra quá nhiều hạng mục dẫn đến thiếu tập trung.
+- Công tác đào tạo nhân viên mới còn sơ sài, chưa có quy trình kiểm tra năng lực đầu ra bài bản.
+
+### 3. Kết luận và quyết định
+- Lắp đặt hệ thống đèn LED chuyên dụng ngay lập tức để cải thiện ánh sáng tại khu vực QC.
+- Cập nhật lại bộ mẫu lỗi chuẩn bằng hình ảnh trực quan và dán tại các vị trí làm việc.
+- Thay đổi sơ đồ chuyền QC theo hướng chuyên môn hóa: Mỗi nhân viên chỉ phụ trách kiểm tra 1-2 loại lỗi cụ thể.
+- Xây dựng giáo trình và quy trình đào tạo lại cho toàn bộ đội ngũ QC, yêu cầu có bài kiểm tra sát hạch định kỳ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Mua và lắp đặt hệ thống đèn LED mới cho khu vực QC | Bộ phận Bảo trì/Hành chính | 18/10/2023 |
+| Thu thập mẫu lỗi thực tế và làm bảng hướng dẫn trực quan | Sơn (QC Lead) | 20/10/2023 |
+| Thiết kế lại sơ đồ vị trí làm việc và phân công lại chuyền QC | Sơn | 22/10/2023 |
+| Soạn giáo trình đào tạo và tổ chức lớp tập huấn QC | Hải (Kỹ thuật) | 25/10/2023 |

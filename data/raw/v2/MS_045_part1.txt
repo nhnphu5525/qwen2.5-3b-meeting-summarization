@@ -1,0 +1,49 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào anh Luật sư. Hôm nay team Founder của tụi em gồm em là Hiếu (CEO) và bạn Nam (CTO) muốn nhờ anh tư vấn về cái cơ cấu cổ đông để chuẩn bị cho vòng gọi vốn Series A sắp tới. Tụi em đang có một cái Term Sheet từ quỹ VinaCap nhưng có mấy điều khoản về quyền biểu quyết và cổ phần ưu đãi làm tụi em hơi rối.
+[09:02] Chào Hiếu, chào Nam. Rất vui được hỗ trợ hai bạn. Series A là giai đoạn cực kỳ then chốt, nếu mình không làm kỹ cái Capitalization Table (Cap Table) và các quyền kèm theo thì sau này Founder dễ bị mất quyền kiểm soát công ty lắm. Các bạn cứ nói cụ thể cái Term Sheet đó họ yêu cầu gì?
+[09:04] Dạ, đầu tiên là họ muốn sở hữu 20% cổ phần sau khi rót 5 triệu đô. Nhưng họ yêu cầu đây phải là Cổ phần ưu đãi cổ tức (Preferred Shares) và có quyền phủ quyết (Veto Rights) đối với một số quyết định quan trọng của Hội đồng quản trị.
+[09:06] Ờ... Veto Rights là chuyện bình thường ở vòng Series A thôi Nam. Thường thì các quỹ họ sẽ muốn kiểm soát các việc như: thay đổi ngành nghề kinh doanh, phát hành thêm cổ phiếu, vay nợ lớn hơn một hạn mức nhất định, hoặc bán công ty (M&A). Tuy nhiên, mình phải đàm phán danh mục các vấn đề bị phủ quyết sao cho nó không bóp nghẹt quyền điều hành hàng ngày của Founder.
+[09:08] Vâng anh, cái em lo là họ đòi quyền phủ quyết cả việc bổ nhiệm các vị trí C-level. Như vậy thì mình muốn tuyển CMO hay CFO cũng phải hỏi ý kiến họ à?
+[09:10] Đúng là có những quỹ họ đòi như vậy. Nhưng mình có thể đàm phán lại là quyền phủ quyết này chỉ áp dụng cho vị trí CEO và CFO thôi, còn các vị trí khác thì do Founder quyết định. À, còn vấn đề nữa là cơ chế chống pha loãng (Anti-dilution). Trong Term Sheet có ghi là "Full Ratchet" hay "Weighted Average"?
+[09:12] Họ ghi là Full Ratchet anh ạ. Cái này em nghe nói là cực kỳ bất lợi cho Founder nếu vòng sau định giá thấp hơn vòng này (Down round) phải không anh?
+[09:14] Chính xác! Full Ratchet là một điều khoản rất "nặng". Nếu vòng sau định giá thấp hơn, số cổ phần của quỹ sẽ được điều chỉnh tăng lên như thể họ đã mua ở giá thấp của vòng sau ngay từ đầu. Anh khuyên các bạn nên đàm phán chuyển sang Broad-based Weighted Average. Cách này công bằng hơn cho cả hai bên vì nó tính toán dựa trên trọng số của số lượng cổ phần phát hành thêm.
+
+<|output|>
+# Tư vấn cấu trúc cổ đông và đàm phán Term Sheet vòng gọi vốn Series A
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát các điều khoản trong Term Sheet từ nhà đầu tư (Series A) và đánh giá tác động đến quyền kiểm soát của Founders.
+- Thống nhất các điểm cần đàm phán lại để bảo vệ lợi ích dài hạn của công ty.
+
+### 2. Các vấn đề đã thảo luận
+- **Cổ phần ưu đãi và Quyền phủ quyết (Veto Rights):** Nhà đầu tư yêu cầu quyền phủ quyết đối với các quyết định chiến lược và nhân sự cao cấp. Founder cần giới hạn (chỉ áp dụng với CEO, CFO) để tránh bị can thiệp quá sâu vào vận hành.
+- **Chống pha loãng (Anti-dilution):** Đề xuất chuyển từ "Full Ratchet" (rất bất lợi cho Founder) sang "Broad-based Weighted Average" để công bằng hơn trong trường hợp Down round.
+
+### 3. Kết luận và quyết định
+- Ưu tiên đàm phán điểm cốt yếu: Chống pha loãng (Weighted Average).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

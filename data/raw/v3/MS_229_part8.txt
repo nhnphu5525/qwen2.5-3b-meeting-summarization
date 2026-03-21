@@ -1,0 +1,71 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Tuân thủ Pháp lý Bất động sản
+- Giải quyết các vấn đề về chuyển nhượng dự án
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho giấy phép xây dựng
+- Thiếu dữ liệu để đánh giá thẩm định giá
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện thẩm định giá
+- Phê duyệt ngân sách bổ sung cho quy hoạch đô thị
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thẩm định giá | Phòng Kỹ thuật | 03/11/2026 |
+| Họp nhóm để bàn sâu về tranh chấp đất đai | Anh Quốc | 24/11/2026 |
+
+[13:26] Thì Nói chung là mình phải chốt phương án cho giấy phép xây dựng ngay trong hôm nay.
+[13:28] Về phần giấy phép xây dựng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[13:30] Thực ra Về phần thẩm định giá thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[13:32] Hình như Thực ra thì thẩm định giá không phải là mục tiêu duy nhất của mình.
+[11:02] Mọi người cứ cho ý kiến thoải mái về giấy phép xây dựng đi ạ.
+[13:36] Chào cả nhà, chúng ta bắt đầu bàn về quy hoạch đô thị nhé.
+[11:04] Vâng Về phần tranh chấp đất đai thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[13:40] Tôi nghĩ là mình nên xem xét lại cái thẩm định giá này một chút.
+[11:06] Có ai phụ trách chính cho mảng tranh chấp đất đai chưa nhỉ?
+[11:07] Dạ Cần phải làm rõ thêm các chi tiết liên quan đến quy hoạch đô thị.
+[11:08] Thực ra thì sổ đỏ không phải là mục tiêu duy nhất của mình.
+[13:48] Để tôi check lại với bên chuyển nhượng dự án xem tình hình thế nào nhé.
+[13:50] Đừng quên là thẩm định giá cũng ảnh hưởng nhiều đến kết quả chung đó.
+[11:11] Về phần tranh chấp đất đai thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[11:12] Về phần thẩm định giá thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[13:56] Ờm, cái tranh chấp đất đai này thực ra là một vấn đề khá nan giải.
+[13:58] Thực ra thì giấy phép xây dựng không phải là mục tiêu duy nhất của mình.
+[11:15] Vâng Vâng, tôi cũng thấy việc tối ưu chuyển nhượng dự án là rất cần thiết.
+[14:02] Thế còn ngân sách cho giấy phép xây dựng thì sao hả mọi người?
+[14:04] Đừng quên là quy hoạch đô thị cũng ảnh hưởng nhiều đến kết quả chung đó.
+[14:06] Thì Chào cả nhà, chúng ta bắt đầu bàn về tranh chấp đất đai nhé.
+[11:19] Cái tranh chấp đất đai này hình như đang bị vướng chỗ nào đó đúng không?
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Tuân thủ Pháp lý Bất động sản
+- Giải quyết các vấn đề về chuyển nhượng dự án
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho giấy phép xây dựng
+- Thiếu dữ liệu để đánh giá thẩm định giá
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện thẩm định giá
+- Phê duyệt ngân sách bổ sung cho quy hoạch đô thị
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thẩm định giá | Phòng Kỹ thuật | 03/11/2026 |
+| Họp nhóm để bàn sâu về tranh chấp đất đai | Anh Quốc | 24/11/2026 |
+| Gửi email xác nhận với đối tác về chuyển nhượng dự án | Phòng Tuân thủ Pháp lý Bất động sản | 04/01/2026 |

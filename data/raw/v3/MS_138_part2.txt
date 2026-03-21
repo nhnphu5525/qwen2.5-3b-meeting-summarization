@@ -1,0 +1,54 @@
+<|input|>
+# Phân tích nguyên nhân chi phí vận hành (OPEX) tăng cao
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân chi phí vận hành (OPEX) tăng 20% so với ngân sách dự kiến trong tháng vừa qua.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân tăng chi phí:
+
+### 3. Kết luận và quyết định
+- Duyệt thay mới gioăng cửa kho lạnh ngay trong tuần tới.
+- Giao phòng Tài chính hoàn thiện báo cáo phân tích lợi ích thuê ngoài dịch vụ vận tải.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thay mới gioăng cao su cửa kho lạnh | Chị Loan - Phòng Tài chính (phối hợp Kỹ thuật) | 18/06/2024 |
+| Hoàn thiện báo cáo so sánh outsourcing vận tải | Minh - Chuyên viên phân tích | 21/06/2024 |
+[15:13:30] Tốt, làm sớm đi chị. Còn vụ đội xe cũ, Minh nghiên cứu phương án xem mình có nên thanh lý bớt mấy cái "ông già" đó rồi thuê dịch vụ vận chuyển bên ngoài (outsourcing) không? Anh thấy chi phí bảo trì cứ tăng đều thế này thì nuôi xe không còn hiệu quả nữa.
+[15:15:45] Dạ anh, em cũng đang làm một cái bài toán so sánh (Cost-benefit analysis) giữa việc tự vận hành và thuê ngoài 3PL. Bước đầu cho thấy nếu mình outsourcing 40% các tuyến đường xa thì chi phí sẽ giảm được khoảng 12% tổng chi phí vận chuyển, mà lại không phải lo gánh nặng khấu hao với bảo trì xe anh ạ.
+[15:18:00] Nghe khả thi đó. Minh hoàn thiện bản báo cáo này trước thứ Sáu để anh trình Hội đồng quản trị nha. Mà chị Loan ơi, còn cái khoản "Chi phí khác" em thấy nó cũng nhích lên đáng kể, cái đó là gồm những gì vậy chị?
+[15:20:15] Dạ cái đó chủ yếu là chi phí văn phòng phẩm với tiền tiếp khách của bộ phận kinh doanh tăng lên đó anh. Do tháng vừa rồi các bạn ấy đi công tác tỉnh nhiều để mở rộng thị trường nên chi phí xăng xe, lưu trú nó đội lên. Em đã yêu cầu các bạn ấy phải có giải trình chi tiết và đính kèm đầy đủ hóa đơn thì mới được thanh quyết toán ạ.
+[15:22:30] Ừ, quản lý chặt cái đó cho anh. Thời buổi khó khăn, cái gì tiết kiệm được thì phải tiết kiệm. Anh muốn chị Loan xây dựng lại cái hạn mức (norm) chi phí cho từng phòng ban luôn. Ai vượt quá hạn mức mà không có lý do chính đáng là trừ vào quỹ thưởng của phòng đó nha.
+[15:24:45] Dạ em nắm ý rồi anh. Em sẽ phối hợp với Minh để ra cái bộ định mức mới này. À, Minh ơi, em nhớ kiểm tra lại cái phần chi phí thuê server của phòng IT luôn nha. Anh thấy họ mới đề xuất nâng cấp gói cloud mà chi phí tăng gấp đôi đó.
+
+<|output|>
+# Phân tích nguyên nhân chi phí vận hành (OPEX) tăng cao
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân chi phí vận hành (OPEX) tăng 20% so với ngân sách dự kiến trong tháng vừa qua.
+- Đề xuất các giải pháp cắt giảm chi phí và tối ưu hóa hiệu quả vận hành các phòng ban.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân tăng chi phí:
+- Giải pháp đề xuất:
+
+### 3. Kết luận và quyết định
+- Duyệt thay mới gioăng cửa kho lạnh ngay trong tuần tới.
+- Giao phòng Tài chính hoàn thiện báo cáo phân tích lợi ích thuê ngoài dịch vụ vận tải.
+- Triển khai bộ định mức chi phí mới áp dụng từ tháng sau, gắn liền với quỹ thưởng của các phòng ban.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thay mới gioăng cao su cửa kho lạnh | Chị Loan - Phòng Tài chính (phối hợp Kỹ thuật) | 18/06/2024 |
+| Hoàn thiện báo cáo so sánh outsourcing vận tải | Minh - Chuyên viên phân tích | 21/06/2024 |
+| Xây dựng bộ định mức chi phí cho các phòng ban | Chị Loan - Trưởng phòng Tài chính | 25/06/2024 |
+| Tối ưu hóa Database và rà soát gói Cloud IT | Minh & Team IT | 28/06/2024 |

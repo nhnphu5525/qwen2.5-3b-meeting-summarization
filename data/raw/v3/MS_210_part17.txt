@@ -1,0 +1,84 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Pháp lý
+- Giải quyết các vướng mắc về hợp đồng, luật doanh nghiệp
+- Đưa ra kế hoạch triển khai cho giai đoạn tới
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Pháp lý hiện nay
+- Khó khăn trong việc xử lý bảo mật dữ liệu
+- Đề xuất cải thiện quy trình tranh chấp
+- Đánh giá tác động của các yếu tố ngoại cảnh
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Pháp lý
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+- Phân công trách nhiệm cụ thể cho các đơn vị liên quan
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý luật doanh nghiệp | Bộ phận Kỹ thuật | 13/05/2026 |
+| Xử lý tuân thủ | Chị Lan | 25/06/2026 |
+| Xử lý bảo mật dữ liệu | Anh Nam | 19/02/2026 |
+| Xử lý giấy phép | Ban Giám đốc | 03/07/2026 |
+
+[21:14] Vâng Mong là lần này hợp đồng sẽ ổn thỏa hơn mấy lần trước.
+[27:24] À còn một việc nữa là cái tuân thủ, mọi người thấy ổn chưa?
+[15:09] Bên đối tác họ cứ hối thúc vụ luật doanh nghiệp suốt.
+[27:30] Hiện tại cái luật doanh nghiệp đang bị chậm tiến độ một chút vì thiếu người.
+[21:22] Hiện tại cái giấy phép đang bị chậm tiến độ một chút vì thiếu người.
+[27:36] Chào mọi người, chúng ta tiếp tục bàn về tranh chấp nhé.
+[21:26] À Không sao, mình có thể tối ưu lại phần bảo mật dữ liệu mà.
+[27:42] Nhưng mà còn cái luật doanh nghiệp thì tính sao đây? Sắp hết hạn rồi.
+[27:45] Về phần quyền sở hữu trí tuệ ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[15:16] Thực ra Nhưng mà còn cái tuân thủ thì tính sao đây? Sắp hết hạn rồi.
+[27:51] Tôi đề xuất chốt hạn chót cho hợp đồng là cuối tháng này được không?
+[21:36] À À còn một việc nữa là cái tuân thủ, mọi người thấy ổn chưa?
+[27:57] Để tôi check lại mấy cái số liệu của tuân thủ rồi báo lại cả nhà sau.
+[15:20] Nói chung là Hiện tại cái giấy phép đang bị chậm tiến độ một chút vì thiếu người.
+[21:42] Tuần tới mình tập trung dứt điểm cái quyền sở hữu trí tuệ đi cho xong.
+[15:22] Thì đấy Để tôi check lại mấy cái số liệu của giấy phép rồi báo lại cả nhà sau.
+[15:23] Không sao, mình có thể tối ưu lại phần tranh chấp mà.
+[21:48] Mong là lần này tuân thủ sẽ ổn thỏa hơn mấy lần trước.
+[21:50] Dạ Bên đối tác họ cứ hối thúc vụ tuân thủ suốt.
+[28:18] Để tôi gửi tài liệu về giấy phép cho mọi người qua email sau buổi họp.
+[21:54] Nhưng mà còn cái tranh chấp thì tính sao đây? Sắp hết hạn rồi.
+[21:56] Không sao, mình có thể tối ưu lại phần bảo mật dữ liệu mà.
+[21:58] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Pháp lý
+- Giải quyết các vướng mắc về hợp đồng, luật doanh nghiệp
+- Đưa ra kế hoạch triển khai cho giai đoạn tới
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Pháp lý hiện nay
+- Khó khăn trong việc xử lý bảo mật dữ liệu
+- Đề xuất cải thiện quy trình tranh chấp
+- Đánh giá tác động của các yếu tố ngoại cảnh
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Pháp lý
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+- Phân công trách nhiệm cụ thể cho các đơn vị liên quan
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý luật doanh nghiệp | Bộ phận Kỹ thuật | 13/05/2026 |
+| Xử lý tuân thủ | Chị Lan | 25/06/2026 |
+| Xử lý bảo mật dữ liệu | Anh Nam | 19/02/2026 |
+| Xử lý giấy phép | Ban Giám đốc | 03/07/2026 |
+| Xử lý tranh chấp | Ban Giám đốc | 07/12/2026 |

@@ -1,0 +1,55 @@
+<|input|>
+# Đề án Tái cấu trúc Hệ thống Kho bãi Khu vực Miền Bắc
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả vận hành của hệ thống 3 kho hiện tại (Hà Nội, Bắc Ninh, Hải Phòng).
+- Thảo luận phương án hợp nhất các kho nhỏ lẻ thành một Hub trung tâm (Consolidation Hub) quy mô lớn để tối ưu chi phí và nâng cao năng lực cạnh tranh.
+
+### 2. Các vấn đề đã thảo luận
+- **Thực trạng hệ thống cũ:**
+- **Phương án tái cấu trúc:**
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng Consolidation Hub tại miền Bắc.
+- Đặt mục tiêu hoàn tất việc chọn mặt bằng và lắp đặt thiết bị trong Quý 3/2024; bắt đầu vận hành thử nghiệm trong Quý 4/2024.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập Business Case và phân tích tài chính dự án | Chị Lan (CFO) | 15/10/2024 |
+| Khảo sát thực địa và chốt địa điểm thuê Hub | Nam (Logistics) | 25/10/2024 |
+| Xây dựng sơ đồ Layout kho và thông số kỹ thuật kệ | Nam & Đội kỹ thuật | 30/10/2024 |
+[09:24:30] Nam đề xuất phương án đó hay đó. Nhưng mà Lan nè, chị lo nhất là cái vụ chi phí đền bù hợp đồng thuê kho cũ kìa. Hợp đồng ở Thanh Trì mình mới ký hồi đầu năm, thời hạn tới 3 năm. Nếu mình trả ngang xương bây giờ là mất trắng tiền cọc với lại bị phạt hợp đồng cũng bộn tiền đó nha. Chị đã xem qua điều khoản hợp đồng chưa?
+[09:28:00] Dạ em có check kỹ rồi anh Minh. Đúng là hợp đồng Thanh Trì hơi căng, nhưng mà bên chủ kho họ cũng đang có khách hàng khác muốn thuê diện tích lớn hơn mình. Nếu mình thương thảo khéo, hỗ trợ họ tìm khách thuê mới thế vào thì khả năng mình chỉ mất một phần nhỏ tiền cọc thôi. Còn kho Hải Phòng thì hợp đồng của mình đến tháng 10 này là hết hạn rồi, mình không gia hạn nữa là xong, rất thuận lợi. Tính toán sơ bộ, nếu mình dồn về một Hub, mỗi tháng mình tiết kiệm được khoảng 500 triệu tiền thuê mặt bằng và 300 triệu tiền nhân sự, quản lý. Chỉ sau khoảng 1 năm là mình bù đắp được hết các chi phí di dời và đền bù hợp đồng rồi anh ạ.
+[09:31:30] 800 triệu một tháng... Một con số đáng để mình phải quyết tâm làm đó chứ! Anh Hùng thấy sao? Nếu mình có một cái Hub hiện đại, mình có thể áp dụng thêm mấy cái công nghệ như xe nâng tự động (AGV) hay là hệ thống phân loại hàng hóa tự động (Cross-docking) không anh?
+[09:35:00] Chắc chắn là được chứ Minh. Ở mấy cái kho cũ, diện tích nhỏ lẻ nên mình không dám đầu tư máy móc xịn vì sợ lãng phí. Nếu có Hub 15.000m2, anh sẽ thiết kế lại toàn bộ quy trình vận hành. Mình sẽ chia khu vực rõ ràng: khu hàng nhanh (fast-moving), khu hàng chậm, khu hàng giá trị cao cần bảo quản đặc biệt. Với lại, quan trọng nhất là mình phải nâng cấp cái WMS của mình lên. Hiện tại mình vẫn còn dùng file Excel để đối chiếu nhiều quá, rất dễ sai sót và mất thời gian.
+
+<|output|>
+# Đề án Tái cấu trúc Hệ thống Kho bãi Khu vực Miền Bắc
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả vận hành của hệ thống 3 kho hiện tại (Hà Nội, Bắc Ninh, Hải Phòng).
+- Thảo luận phương án hợp nhất các kho nhỏ lẻ thành một Hub trung tâm (Consolidation Hub) quy mô lớn để tối ưu chi phí và nâng cao năng lực cạnh tranh.
+
+### 2. Các vấn đề đã thảo luận
+- **Thực trạng hệ thống cũ:**
+- **Phương án tái cấu trúc:**
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng Consolidation Hub tại miền Bắc.
+- Đặt mục tiêu hoàn tất việc chọn mặt bằng và lắp đặt thiết bị trong Quý 3/2024; bắt đầu vận hành thử nghiệm trong Quý 4/2024.
+- Giao Lan hoàn thiện Business Case chi tiết và phân tích ROI trình Hội đồng quản trị.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập Business Case và phân tích tài chính dự án | Chị Lan (CFO) | 15/10/2024 |
+| Khảo sát thực địa và chốt địa điểm thuê Hub | Nam (Logistics) | 25/10/2024 |
+| Xây dựng sơ đồ Layout kho và thông số kỹ thuật kệ | Nam & Đội kỹ thuật | 30/10/2024 |
+| Lập kế hoạch di dời hàng hóa chi tiết (Phase-out) | Anh Hùng (COO) | 05/11/2024 |

@@ -1,0 +1,66 @@
+<|input|>
+# Ra mắt tính năng Tiết kiệm mục tiêu trên ứng dụng ngân hàng số
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát cuối cùng về tính năng "Tiết kiệm mục tiêu" (Goal-based Savings) trước ngày ra mắt chính thức.
+
+### 2. Các vấn đề đã thảo luận
+- Lỗi hiển thị biểu đồ tiến độ trên các dòng điện thoại Android cũ màn hình nhỏ (đã có phương án fix).
+- Kết quả test tải hệ thống đạt 10.000 giao dịch/giây, đảm bảo tính realtime khi nạp tiền.
+- Quy trình xử lý tự động trích tiền khi tài khoản không đủ số dư (gửi push thông báo và thử lại).
+
+### 3. Kết luận và quyết định
+- Chốt lịch deploy tính năng vào đêm thứ Ba tuần tới (28/05/2024).
+- Phê duyệt việc điều chỉnh ngân sách để tăng giá trị quà tặng voucher lên 100k cho khách hàng mới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Fix lỗi hiển thị biểu đồ trên Android cũ | Team Design & Frontend | 24/05/2024 |
+| Hoàn thiện kịch bản deploy và phương án roll-back | Team Backend & DevOps | 25/05/2024 |
+| Điều chỉnh ngân sách Marketing và làm việc với KOLs | Chị Mai (Phòng Marketing) | 26/05/2024 |
+[09:18] Dạ rồi anh. Nếu tài khoản không đủ tiền thì hệ thống sẽ gửi một cái push notification báo cho khách biết là lệnh trích tiền không thành công, và sẽ thử lại vào ngày hôm sau. Nếu quá 3 lần không được thì mình sẽ tạm dừng cái lệnh auto đó và yêu cầu khách kiểm tra lại.
+[09:20] Ừ, xử lý vậy là hợp lý. Tránh việc mình cứ quét liên tục gây phiền cho khách hoặc làm nặng hệ thống. À Mai ơi, cái chiến dịch truyền thông cho tính năng này em đã chuẩn bị tới đâu rồi?
+[09:22] Dạ sếp, em định là mình sẽ chạy một cái campaign tên là "Tiết kiệm thông minh - Rinh ngay quà chất". Khách hàng nào tạo mục tiêu đầu tiên và nạp tối thiểu 1 triệu đồng sẽ được tặng một cái voucher mua sắm 50k. Đồng thời mình cũng mời mấy bạn TikToker mảng tài chính làm mấy cái video ngắn hướng dẫn dùng app luôn.
+[09:24] Voucher 50k thì hơi ít không em? Ngân hàng mình mà, chịu chơi chút đi, tăng lên 100k cho 1000 khách đầu tiên thử xem sao.
+[09:26] Dạ sếp, để em tính lại cái budget rồi báo cáo lại sếp sớm nha. Nếu tăng lên 100k thì mình phải cắt bớt tiền chạy ads ở mấy kênh khác á.
+[09:28] Ờ, cân đối sao cho hiệu quả là được. Anh muốn cái lượng user active hàng tháng (MAU) nó phải tăng ít nhất 15% sau khi ra cái này đó.
+[09:30] Dạ vầy thì tụi em phải đẩy mạnh cái vụ referral nữa anh ạ. Kiểu như khách mời bạn bè cùng tạo "Mục tiêu nhóm" để đi du lịch hay mua sắm chung á, cái này sẽ viral nhanh lắm.
+[09:32] Mục tiêu nhóm hả? Ủa tính năng này mình đã làm xong chưa ta? Anh nhớ đợt trước bảo là để phase 2 mà?
+[09:34] Dạ sếp nhớ đúng rồi ạ, đợt này mình chỉ ra mục tiêu cá nhân thôi. Nhưng mà trong code là em đã để sẵn cái framework cho mục tiêu nhóm rồi, chỉ cần bật switch lên và tinh chỉnh một chút là chạy được. Chắc tầm tháng sau là mình roll-out cái đó luôn là vừa đẹp.
+
+<|output|>
+# Ra mắt tính năng Tiết kiệm mục tiêu trên ứng dụng ngân hàng số
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát cuối cùng về tính năng "Tiết kiệm mục tiêu" (Goal-based Savings) trước ngày ra mắt chính thức.
+- Giải quyết các vấn đề kỹ thuật còn tồn đọng và thống nhất kế hoạch triển khai (deployment).
+
+### 2. Các vấn đề đã thảo luận
+- Lỗi hiển thị biểu đồ tiến độ trên các dòng điện thoại Android cũ màn hình nhỏ (đã có phương án fix).
+- Kết quả test tải hệ thống đạt 10.000 giao dịch/giây, đảm bảo tính realtime khi nạp tiền.
+- Quy trình xử lý tự động trích tiền khi tài khoản không đủ số dư (gửi push thông báo và thử lại).
+- Chiến dịch Marketing "Tiết kiệm thông minh - Rinh ngay quà chất" với voucher và hợp tác cùng các TikToker tài chính.
+- Đề xuất tăng giá trị voucher từ 50k lên 100k cho 1000 khách hàng đầu tiên.
+- Kế hoạch phát triển tính năng "Mục tiêu nhóm" cho giai đoạn 2 (tháng sau).
+
+### 3. Kết luận và quyết định
+- Chốt lịch deploy tính năng vào đêm thứ Ba tuần tới (28/05/2024).
+- Phê duyệt việc điều chỉnh ngân sách để tăng giá trị quà tặng voucher lên 100k cho khách hàng mới.
+- Sử dụng Smart OTP làm phương thức xác thực duy nhất cho tính năng này.
+- Đội ngũ kỹ thuật trực chiến 24/7 trong 3 ngày đầu ra mắt để xử lý sự cố.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Fix lỗi hiển thị biểu đồ trên Android cũ | Team Design & Frontend | 24/05/2024 |
+| Hoàn thiện kịch bản deploy và phương án roll-back | Team Backend & DevOps | 25/05/2024 |
+| Điều chỉnh ngân sách Marketing và làm việc với KOLs | Chị Mai (Phòng Marketing) | 26/05/2024 |
+| Gửi tài liệu FAQ cập nhật cho bộ phận CSKH | Team Product | 24/05/2024 |
+| Thiết lập tham số lãi suất ưu đãi trên hệ thống core | Team Backend | 27/05/2024 |

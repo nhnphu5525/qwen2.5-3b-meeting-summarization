@@ -1,0 +1,60 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào ban lãnh đạo và các trưởng phòng. Hôm nay chúng ta tập trung thảo luận về chuyến thăm và làm việc sắp tới của đoàn đối tác chiến lược từ tập đoàn ABC Nhật Bản. 
+[09:05] Đây là một cơ hội cực kỳ quan trọng để mình mở rộng quy mô sản xuất và tiếp cận công nghệ mới của họ. 
+[09:10] Dạ thưa sếp, bên phía Nhật Bản họ đã gửi danh sách đoàn gồm 5 thành viên cấp cao, dẫn đầu là Phó chủ tịch phụ trách đầu tư. 
+[09:15] Ờ... về vấn đề đón tiếp thì sao? Mình đã đặt phòng khách sạn với xe đưa đón chưa? 
+[09:20] Dạ, em đã đặt phòng tại khách sạn Rex và thuê xe 16 chỗ đời mới để đưa đón đoàn từ sân bay về khách sạn và đến văn phòng mình rồi ạ. 
+[09:25] Thì các anh chị lưu ý nhé, người Nhật họ rất coi trọng sự đúng giờ và tác phong làm việc chuyên nghiệp. 
+[09:30] Mọi người phải bám sát lịch trình, đừng để chậm trễ dù chỉ 1-2 phút. 
+[09:35] Ờ... về phần nội dung làm việc, mình sẽ giới thiệu những gì để thuyết phục họ đầu tư vào dự án nhà máy số 3 của mình? 
+[09:40] Dạ, em nghĩ mình nên tập trung vào các báo cáo về năng suất lao động, tỉ lệ sản phẩm lỗi thấp và cái cam kết về bảo vệ môi trường của mình. 
+[09:45] Phía Nhật họ cực kỳ quan tâm đến các tiêu chuẩn ESG (Môi trường, Xã hội và Quản trị) hiện nay. 
+[09:50] Đúng rồi, họ cũng sẽ đi tham quan thực tế xưởng sản xuất hiện tại nữa. 
+[09:55] Anh Hùng bên sản xuất phải đảm bảo 5S (Sàng lọc, Sắp xếp, Sạch sẽ, Săn sóc, Sẵn sàng) dưới xưởng thật tốt nhé. 
+[10:00] Ờ... tôi muốn thấy một nhà máy không một hạt bụi khi họ đến thăm đấy. 
+
+<|output|>
+# Chuẩn bị đón tiếp và đàm phán hợp tác chiến lược với đối tác Nhật Bản (Tập đoàn ABC)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lập kế hoạch đón tiếp phái đoàn cấp cao từ tập đoàn ABC Nhật Bản đến thăm và làm việc tại công ty.
+- Thống nhất chiến lược đàm phán và nội dung thuyết trình nhằm kêu gọi đầu tư vào dự án nhà máy số 3.
+
+### 2. Các vấn đề đã thảo luận
+- Chi tiết danh sách đoàn đối tác gồm 5 thành viên cấp cao và yêu cầu khắt khe về tính chuyên nghiệp, đúng giờ của người Nhật.
+- Công tác hậu cần: Đặt khách sạn Rex, xe đưa đón và lịch trình tham quan chi tiết.
+- Chiến lược thuyết trình: Tập trung vào năng suất, chất lượng sản phẩm và tuân thủ các tiêu chuẩn ESG để thu hút sự quan tâm của đối tác.
+- Chuẩn bị cơ sở hạ tầng nhà máy: Đảm bảo tiêu chuẩn 5S tuyệt đối tại các khu vực sản xuất khi đối tác xuống tham quan thực địa.
+
+### 3. Kết luận và quyết định
+- Phê duyệt kế hoạch đón tiếp tổng thể.
+- Giao bộ phận Sản xuất thực hiện tổng vệ sinh và nâng cấp nhà máy theo tiêu chuẩn 5S.
+- Giao phòng Marketing hoàn thiện bộ tài liệu thuyết trình.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại các đặt chỗ khách sạn và xe đưa đón | Phòng Hành chính | 20/10/2023 |
+| Hoàn thiện bài thuyết trình về năng lực và dự án mới | Team Marketing | 22/10/2023 |
+| Tổng vệ sinh và chỉnh trang khu vực xưởng sản xuất | Anh Hùng (Sản xuất) | 25/10/2023 |

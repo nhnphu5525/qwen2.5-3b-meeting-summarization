@@ -1,0 +1,60 @@
+<|input|>
+# Điều chỉnh hạn mức tín dụng khách hàng cá nhân và doanh nghiệp nhỏ
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và điều chỉnh hạn mức tín dụng cho các khách hàng thuộc mảng bán lẻ.
+- Đánh giá rủi ro nợ xấu dựa trên tình hình biến động thị trường.
+
+### 2. Các vấn đề đã thảo luận
+- Trường hợp khách hàng Nguyễn Văn A (Quận 7): Kinh doanh nhà hàng sa sút, dư nợ cao so với tài sản đảm bảo. Khách hàng đề nghị lộ trình giảm hạn mức thay vì cắt giảm ngay lập tức.
+- Trường hợp khách hàng Lan (Chuỗi cửa hàng tiện lợi): Kinh doanh tốt, có nhu cầu mở rộng chi nhánh, dòng tiền ổn định, tài sản đảm bảo có giá trị.
+
+### 3. Kết luận và quyết định
+- Đối với khách hàng Nguyễn Văn A: Thống nhất hạ hạn mức từ 5 tỷ xuống 3,5 tỷ theo lộ trình giảm dần qua các quý để hỗ trợ khách hàng.
+- Đối với khách hàng Lan: Duyệt nâng hạn mức từ 2 tỷ lên 4 tỷ. Yêu cầu khách hàng bổ sung giấy phép xây dựng các chi nhánh mới vào hồ sơ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thông báo điều chỉnh lộ trình hạn mức cho KH Nguyễn Văn A | Vy - Phòng Tín dụng | 25/11/2024 |
+| Hoàn tất thủ tục nâng hạn mức và thu thập giấy phép cho KH Lan | Vy - Phòng Tín dụng | 28/11/2024 |
+[08:45:15] Vậy chốt là duyệt cho bên chị Lan nha, nhưng mà Vy nhớ nhắc bên đó bổ sung cái giấy phép xây dựng của mấy chi nhánh mới vô hồ sơ cho nó đủ bộ.
+[08:46:40] Anh ơi, còn mấy cái thẻ tín dụng mà hạn mức trên 200 triệu cho khách VIP ấy, mình có nên siết lại bớt không anh? Tại em thấy tỷ lệ chi tiêu rút tiền mặt đợt này hơi cao.
+[08:48:05] Ừm, cái vụ rút tiền mặt đó là dấu hiệu của việc hụt dòng tiền cá nhân đó, em rà soát lại danh sách, ai mà rút trên 70% hạn mức liên tục 3 tháng thì mình tạm thời không cho nâng hạn mức tự động nữa nha.
+[08:49:30] Dạ vầy nè, để em xuất báo cáo rồi gửi qua cho phòng quản trị rủi ro họ đánh giá lại một lượt rồi mình mới ra quyết định cuối cùng cho nhóm khách này nha anh.
+[08:51:00] Nhất trí, Vy làm sớm cái báo cáo đó trong tuần này đi, có gì thứ Hai tuần sau mình ngồi lại chốt danh sách cuối cùng.
+[08:52:25] Dạ em rõ rồi, để em triển khai luôn cho kịp.
+
+<|output|>
+# Điều chỉnh hạn mức tín dụng khách hàng cá nhân và doanh nghiệp nhỏ
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và điều chỉnh hạn mức tín dụng cho các khách hàng thuộc mảng bán lẻ.
+- Đánh giá rủi ro nợ xấu dựa trên tình hình biến động thị trường.
+- Xem xét các yêu cầu nâng hoặc giảm hạn mức từ khách hàng cụ thể.
+
+### 2. Các vấn đề đã thảo luận
+- Trường hợp khách hàng Nguyễn Văn A (Quận 7): Kinh doanh nhà hàng sa sút, dư nợ cao so với tài sản đảm bảo. Khách hàng đề nghị lộ trình giảm hạn mức thay vì cắt giảm ngay lập tức.
+- Trường hợp khách hàng Lan (Chuỗi cửa hàng tiện lợi): Kinh doanh tốt, có nhu cầu mở rộng chi nhánh, dòng tiền ổn định, tài sản đảm bảo có giá trị.
+- Nhóm khách hàng VIP sử dụng thẻ tín dụng: Tỷ lệ rút tiền mặt cao (trên 70% hạn mức), dấu hiệu hụt dòng tiền cá nhân.
+- Quy trình phối hợp với phòng quản trị rủi ro để đánh giá danh sách khách hàng nghi ngờ.
+
+### 3. Kết luận và quyết định
+- Đối với khách hàng Nguyễn Văn A: Thống nhất hạ hạn mức từ 5 tỷ xuống 3,5 tỷ theo lộ trình giảm dần qua các quý để hỗ trợ khách hàng.
+- Đối với khách hàng Lan: Duyệt nâng hạn mức từ 2 tỷ lên 4 tỷ. Yêu cầu khách hàng bổ sung giấy phép xây dựng các chi nhánh mới vào hồ sơ.
+- Đối với thẻ tín dụng VIP: Tạm dừng tính năng nâng hạn mức tự động đối với các khách hàng rút tiền mặt trên 70% hạn mức trong 3 tháng liên tiếp.
+- Giao bộ phận liên quan lập báo cáo chi tiết để phòng quản trị rủi ro thẩm định lại.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thông báo điều chỉnh lộ trình hạn mức cho KH Nguyễn Văn A | Vy - Phòng Tín dụng | 25/11/2024 |
+| Hoàn tất thủ tục nâng hạn mức và thu thập giấy phép cho KH Lan | Vy - Phòng Tín dụng | 28/11/2024 |
+| Xuất báo cáo danh sách khách hàng VIP rút tiền mặt cao | Vy - Phòng Tín dụng | 22/11/2024 |
+| Thẩm định báo cáo rủi ro và chốt danh sách cuối cùng | Phòng Quản trị rủi ro | 25/11/2024 |

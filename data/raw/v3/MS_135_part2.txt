@@ -1,0 +1,58 @@
+<|input|>
+# Kế hoạch đấu thầu vật tư tiêu hao Quý III
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai công tác chuẩn bị đấu thầu vật tư tiêu hao cho Quý III/2024.
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình cung ứng Quý II: Gặp khó khăn do chuỗi cung ứng bị đứt gãy, cần tìm thêm các nhà cung cấp dự phòng.
+- Ngân sách Quý III: Dự kiến tăng 15% do biến động giá thị trường và nhu cầu từ 2 khoa mới thành lập.
+
+### 3. Kết luận và quyết định
+- Thống nhất danh mục và dự toán kinh phí cho đợt thầu Quý III.
+- Giao phòng Vật tư hoàn thiện hồ sơ mời thầu và đăng thông báo trước ngày 20/06.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện cấu hình kỹ thuật vật tư và hóa chất | Chị Hồng - Phòng Vật tư | 15/06/2024 |
+| Soạn thảo hồ sơ mời thầu và tờ trình | Chị Hồng - Phòng Vật tư | 18/06/2024 |
+[08:15:45] Dạ em nắm rõ rồi ạ. Hiện tại mình đang ưu tiên hình thức đấu thầu rộng rãi qua mạng để đảm bảo tính minh bạch. Tuy nhiên, có một số hóa chất đặc thù chỉ có một nhà cung cấp độc quyền thì mình phải làm thủ tục mua sắm trực tiếp hoặc thương thảo giá theo quy trình riêng bác sĩ ạ.
+[08:18:00] Ờ, cái đó thì đúng rồi. Mà Hồng nè, cái danh mục vật tư quý này có thay đổi gì nhiều không? Tôi thấy khoa Hồi sức cấp cứu họ đề xuất đổi loại dây truyền dịch mới sang loại có lọc khuẩn, giá có vẻ cao hơn loại cũ nhiều đấy.
+[08:20:15] Dạ đúng là bên Hồi sức có đề xuất như vậy. Qua khảo sát chuyên môn thì loại có lọc khuẩn giúp giảm tỷ lệ nhiễm khuẩn huyết đáng kể cho bệnh nhân nằm lâu. Em thấy đầu tư cái này tuy đắt hơn một chút nhưng lại tiết kiệm được chi phí điều trị biến chứng về sau cho bệnh nhân, xét về tổng thể thì lại có lợi hơn anh ạ.
+[08:22:30] Nghe cũng hợp lý. Nam thấy sao? Ngân sách có "gánh" nổi khoản này không em?
+[08:24:45] Dạ nếu bác sĩ Tuấn thấy cần thiết về mặt chuyên môn thì em sẽ cố gắng điều chuyển ngân sách từ các khoản chi không cấp thiết khác sang. Nhưng mà chị Hồng phải yêu cầu nhà cung cấp có cam kết về tiến độ giao hàng và hỗ trợ đào tạo sử dụng cho nhân viên y tế mình luôn nha.
+[08:27:00] Chắc chắn rồi Nam. Trong hồ sơ mời thầu đợt này, chị sẽ thêm điều khoản phạt nặng nếu chậm tiến độ giao hàng quá 5 ngày. Đợt trước mình hiền quá nên họ cứ nhởn nhơ mãi.
+[08:29:15] Tốt! À, còn một vấn đề nữa là khâu nhập kho và kiểm soát hạn dùng. Quý trước tôi đi kiểm tra vẫn thấy có một số lô gạc y tế sắp hết hạn mà chưa được luân chuyển. Đợt này Hồng chỉ đạo các khoa phòng rà soát lại quy trình này cho tôi.
+
+<|output|>
+# Kế hoạch đấu thầu vật tư tiêu hao Quý III
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai công tác chuẩn bị đấu thầu vật tư tiêu hao cho Quý III/2024.
+- Đảm bảo nguồn cung ổn định, không để xảy ra tình trạng thiếu hụt vật tư y tế thiết yếu.
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình cung ứng Quý II: Gặp khó khăn do chuỗi cung ứng bị đứt gãy, cần tìm thêm các nhà cung cấp dự phòng.
+- Ngân sách Quý III: Dự kiến tăng 15% do biến động giá thị trường và nhu cầu từ 2 khoa mới thành lập.
+- Danh mục vật tư: Đồng ý cập nhật loại dây truyền dịch có lọc khuẩn cho khoa Hồi sức cấp cứu để nâng cao chất lượng điều trị.
+- Hình thức đấu thầu: Ưu tiên đấu thầu rộng rãi qua mạng; áp dụng quy trình riêng cho các hóa chất độc quyền.
+
+### 3. Kết luận và quyết định
+- Thống nhất danh mục và dự toán kinh phí cho đợt thầu Quý III.
+- Giao phòng Vật tư hoàn thiện hồ sơ mời thầu và đăng thông báo trước ngày 20/06.
+- Phòng Tài chính cam kết xử lý nhanh hồ sơ liên quan trong vòng 24 giờ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện cấu hình kỹ thuật vật tư và hóa chất | Chị Hồng - Phòng Vật tư | 15/06/2024 |
+| Soạn thảo hồ sơ mời thầu và tờ trình | Chị Hồng - Phòng Vật tư | 18/06/2024 |
+| Thẩm định dự toán và duyệt ngân sách | Anh Nam - Phòng Tài chính | 19/06/2024 |
+| Đăng thông báo mời thầu trên hệ thống quốc gia | Chị Hồng - Phòng Vật tư | 20/06/2024 |

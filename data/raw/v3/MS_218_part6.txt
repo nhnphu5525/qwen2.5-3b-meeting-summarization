@@ -1,0 +1,78 @@
+<|input|>
+# Báo cáo cuộc họp về Công nghiệp nặng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Công nghiệp nặng hiện tại
+- Giải quyết các tồn đọng liên quan đến nguyên liệu đầu vào
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý nguyên liệu đầu vào
+- Thiếu hụt nguồn lực cho thép
+- Áp lực từ phía đối tác về thép
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho dây chuyền sản xuất
+- Phân bổ thêm 2 nhân sự cho mảng nhà máy
+- Hoàn thiện báo cáo khu công nghiệp trước cuối tuần
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ dây chuyền sản xuất | Bộ phận Pháp lý | 05/11/2026 |
+| Liên hệ đối tác về linh kiện | Anh Hoàng | 01/12/2026 |
+| Kiểm tra tiến độ thép | Anh Hoàng | 26/08/2026 |
+| Lập kế hoạch chi tiết cho linh kiện | Chị Mai | 07/10/2026 |
+
+[10:49] Chắc là Đúng rồi, cái linh kiện cần được ưu tiên xử lý trước thứ Sáu này.
+[10:50] Đúng rồi, cái thép cần được ưu tiên xử lý trước thứ Sáu này.
+[10:51] Mọi người có ý kiến gì thêm về linh kiện không?
+[10:52] Thì đấy Đúng rồi, cái nguyên liệu đầu vào cần được ưu tiên xử lý trước thứ Sáu này.
+[10:53] Dạ Vụ nguyên liệu đầu vào thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[10:54] Thì Cái thép này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[10:55] Hay là mình thử thay đổi cách tiếp cận với thép xem sao?
+[10:56] Thì đấy Thế thì mình chốt phương án cho linh kiện luôn đi, đừng kéo dài nữa.
+[12:54] Mọi người có ý kiến gì thêm về khu công nghiệp không?
+[10:58] À Vụ linh kiện thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[10:59] Tôi sẽ phụ trách kiểm tra lại linh kiện rồi báo lại cả team vào chiều mai.
+[13:00] Thôi được rồi, vậy thống nhất là triển khai nguyên liệu đầu vào theo hướng đó.
+[11:01] Dạ Thế thì mình chốt phương án cho nhà máy luôn đi, đừng kéo dài nữa.
+[13:04] Tôi thấy nguyên liệu đầu vào hiện tại là cơ hội tốt để mình bứt phá.
+[13:06] Hình như Đúng rồi, cái nguyên liệu đầu vào cần được ưu tiên xử lý trước thứ Sáu này.
+[13:08] Đúng rồi, cái nguyên liệu đầu vào cần được ưu tiên xử lý trước thứ Sáu này.
+[11:05] Ờm Để tôi check lại lịch của bên nguyên liệu đầu vào xem họ rảnh khi nào.
+[11:06] Tôi lo nhất là cái khu công nghiệp, tiến độ đang bị khựng lại.
+[13:14] Đừng quên vụ linh kiện cũng quan trọng không kém nhé.
+[11:08] Đúng rồi, cái dây chuyền sản xuất cần được ưu tiên xử lý trước thứ Sáu này.
+[13:18] Tôi sẽ phụ trách kiểm tra lại dây chuyền sản xuất rồi báo lại cả team vào chiều mai.
+
+<|output|>
+# Báo cáo cuộc họp về Công nghiệp nặng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Công nghiệp nặng hiện tại
+- Giải quyết các tồn đọng liên quan đến nguyên liệu đầu vào
+- Định hướng phát triển khu công nghiệp trong quý tới
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý nguyên liệu đầu vào
+- Thiếu hụt nguồn lực cho thép
+- Áp lực từ phía đối tác về thép
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho dây chuyền sản xuất
+- Phân bổ thêm 2 nhân sự cho mảng nhà máy
+- Hoàn thiện báo cáo khu công nghiệp trước cuối tuần
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ dây chuyền sản xuất | Bộ phận Pháp lý | 05/11/2026 |
+| Liên hệ đối tác về linh kiện | Anh Hoàng | 01/12/2026 |
+| Kiểm tra tiến độ thép | Anh Hoàng | 26/08/2026 |
+| Lập kế hoạch chi tiết cho linh kiện | Chị Mai | 07/10/2026 |

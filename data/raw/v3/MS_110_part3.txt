@@ -1,0 +1,108 @@
+<|input|>
+# Phòng chống tấn công Ransomware và tăng cường an ninh mạng tập đoàn
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Ứng phó khẩn cấp với rủi ro lây lan Ransomware từ công ty đối tác.
+- Rà soát toàn diện lỗ hổng bảo mật hệ thống và nâng cao quản lý kỹ thuật.
+- Triển khai các giải pháp bảo mật kỹ thuật và đào tạo nhận thức nhân viên.
+
+### 2. Các vấn đề đã thảo luận
+- Sự cố đối tác: Đối tác chiến lược bị mã hóa dữ liệu, công ty đã ngắt kết nối VPN/API để cách ly.
+- Sao lưu dữ liệu: Cần kiểm tra tính toàn vẹn của backup.
+- Tường lửa: Xuất hiện nhiều đợt port scan từ dải IP nước ngoài, cần cấu hình chặn ngay lập tức.
+- Hạ tầng cũ: Tồn tại 5 server Windows 2012 lỗi thời tại chi nhánh miền Trung, tiềm ẩn lỗ hổng nghiêm trọng.
+- Nhận thức nhân viên: Tỷ lệ "dính bẫy" Phishing giả lập lên tới 20%, cần đào tạo lại bắt buộc.
+- Giải pháp kỹ thuật: Đề xuất thay thế Antivirus truyền thống bằng hệ thống EDR; áp dụng xác thực 2 yếu tố (2FA) toàn diện.
+- Quản trị mật khẩu: Đặt mật khẩu yếu cần được cải thiện.
+
+### 3. Kết luận và quyết định
+- Cô lập hoàn toàn các server cũ vào vùng mạng VLAN riêng và lên kế hoạch thay thế.
+- Phê duyệt ngân sách 2 tỷ đồng triển khai giải pháp EDR cho toàn bộ 5.000 máy tính.
+- Ép buộc sử dụng 2FA và đổi mật khẩu phức tạp đối với mọi tài khoản hệ thống từ ngày mai.
+- Thuê đơn vị bên thứ ba (VNPT/Viettel) thực hiện đánh giá an ninh (Pentest) định kỳ hàng năm.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ngắt kết nối và cô lập server Windows 2012 | Chú Nam | 11/01/2026 |
+| Hoàn thiện đề xuất mua giải pháp EDR | Team IT Security | 11/01/2026 |
+| Triển khai cấu hình 2FA bắt buộc trên AD | Admin hệ thống | 12/01/2026 |
+| Soạn chương trình đào tạo an ninh mạng cho nhân viên | Phòng IT & Nhân sự | 20/01/2026 |
+| Liên hệ báo giá Pentest từ các đối tác viễn thông | Chú Nam | 15/01/2026 |
+[09:04] Ngoài ra, bộ phận trực SOC (Security Operations Center) phải túc trực 24/7, không được lơ là một phút nào.
+[09:06] Em thấy anh em trực đêm dạo hiện tại dạo này hay ngủ gật lắm sếp ạ.
+[09:07] Gắn thêm camera giám sát ở phòng trực SOC đi. Ai vi phạm là kỷ luật nặng.
+[09:09] Mình đang giữ "chìa khóa" dữ liệu của cả tập đoàn, trách nhiệm nặng nề lắm.
+[09:10] Dạ sếp, tụi em hiểu mà. Em sẽ chấn chỉnh lại anh em ngay.
+[09:12] Ờ... còn cái vụ máy chủ web thì sao? Có bị tấn công DDoS không?
+[09:13] Dạ có ạ, nhưng mình đang dùng dịch vụ Cloudflare nên vẫn trụ vững sếp ạ.
+[09:15] Tốt. Chốt lại kế hoạch hành động nhé: Một là cô lập mấy server cũ, hai là triển khai 2FA bắt buộc.
+[09:16] Ba là mua phần mềm EDR, bốn là đào tạo nhân viên và năm là lên lịch Pentest.
+[09:18] Dạ, em đã ghi chép đầy đủ 5 đầu việc chính rồi ạ.
+[09:19] Sếp có cần em làm báo cáo chi tiết về vụ bên đối tác bị tấn công không?
+[09:21] Có chứ, chú làm một bản phân tích xem mình có thể học được gì từ sai lầm của họ.
+[09:22] Dạ vâng, sáng mai em gửi sếp bản dự thảo.
+[09:24] Ok, cố gắng lên team. An toàn của công ty nằm trong tay các chú đấy.
+[09:25] Dạ tụi em quyết tâm ạ!
+[09:27] Thôi, giải tán đi làm việc đi.
+[09:28] Rõ ạ!
+[09:30] Chào sếp.
+[09:31] Bye anh em.
+[09:33] Cố lên nhé.
+[09:34] Dạ vâng ạ.
+[09:36] Em đi đây.
+[09:37] Chúc sếp ngày mới tốt lành.
+[09:39] Ok.
+[09:40] Hết chưa nhỉ? À còn vụ lưu trữ offline.
+[09:42] Chú Nam sắm cho anh mấy cái ổ cứng di động loại lớn, copy dữ liệu quan trọng nhất ra đó rồi cất vào két sắt cho anh.
+[09:43] Dạ, cái đó gọi là "Air-gapped backup" sếp ạ, cực kỳ an toàn luôn.
+[09:45] Ừ, làm ngay đi. Hacker nó giỏi mấy cũng không thể hack vào cái ổ cứng nằm trong két sắt được.
+[09:46] Dạ đúng rồi ạ, để chiều nay em đi mua luôn.
+[09:48] Ok, thế nhé.
+[09:49] Bye sếp.
+[09:51] À Nam ơi, cái vụ camera an ninh ở các chi nhánh cũng phải kiểm tra lại mật khẩu đấy nhé.
+[09:52] Nhiều chỗ vẫn để mật khẩu mặc định của nhà sản xuất là "admin123" đấy, cực kỳ nguy hiểm.
+[09:54] Dạ chết tiệt, để em rà soát lại ngay. Bữa trước em cũng thấy một chi nhánh bị lộ hình ảnh lên mạng do lỗi này.
+[09:55] Phải đổi hết, không được để sơ hở dù là nhỏ nhất.
+[09:57] Vâng ạ, em đã ghi chú thêm đầu việc này rồi.
+[09:58] Ok, giờ thì giải tán thật đây.
+[10:00] Dạ vâng, chào sếp!
+
+<|output|>
+# Phòng chống tấn công Ransomware và tăng cường an ninh mạng tập đoàn
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Ứng phó khẩn cấp với rủi ro lây lan Ransomware từ công ty đối tác.
+- Rà soát toàn diện lỗ hổng bảo mật hệ thống và nâng cao năng lực phòng thủ.
+- Triển khai các giải pháp bảo mật kỹ thuật và đào tạo nhận thức nhân viên.
+
+### 2. Các vấn đề đã thảo luận
+- Sự cố đối tác: Đối tác chiến lược bị mã hóa dữ liệu, công ty đã ngắt kết nối VPN/API để cách ly.
+- Hạ tầng cũ: Tồn tại 5 server Windows 2012 lỗi thời tại chi nhánh miền Trung, tiềm ẩn lỗ hổng nghiêm trọng.
+- Sao lưu dữ liệu: Cần kiểm tra tính toàn vẹn của backup và triển khai phương án lưu trữ ngoại tuyến (Air-gapped).
+- Tường lửa: Xuất hiện nhiều đợt port scan từ dải IP nước ngoài, cần cấu hình chặn ngay lập tức.
+- Nhận thức nhân viên: Tỷ lệ "dính bẫy" Phishing giả lập lên tới 20%, cần đào tạo lại bắt buộc.
+- Giải pháp kỹ thuật: Đề xuất thay thế Antivirus truyền thống bằng hệ thống EDR; áp dụng xác thực 2 yếu tố (2FA) toàn diện.
+- Quản trị mật khẩu: Tình trạng đặt mật khẩu yếu và mật khẩu mặc định trên hệ thống camera an ninh.
+- Vận hành SOC: Chấn chỉnh thái độ trực ca của nhân sự phòng vận hành an ninh.
+
+### 3. Kết luận và quyết định
+- Cô lập hoàn toàn các server cũ vào vùng mạng VLAN riêng và lên kế hoạch thay thế.
+- Phê duyệt ngân sách 2 tỷ đồng triển khai giải pháp EDR cho toàn bộ 5.000 máy tính.
+- Ép buộc sử dụng 2FA và đổi mật khẩu phức tạp đối với mọi tài khoản hệ thống từ ngày mai.
+- Thuê đơn vị bên thứ ba (VNPT/Viettel) thực hiện đánh giá an nhận (Pentest) định kỳ hàng năm.
+- Triển khai sao lưu dữ liệu quan trọng ra ổ cứng vật lý cất giữ trong két sắt an toàn.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ngắt kết nối và cô lập server Windows 2012 | Chú Nam | 11/01/2026 |
+| Hoàn thiện đề xuất mua giải pháp EDR | Team IT Security | 11/01/2026 |
+| Triển khai cấu hình 2FA bắt buộc trên AD | Admin hệ thống | 12/01/2026 |
+| Mua ổ cứng di động và thực hiện Air-gapped backup | Chú Nam | 11/01/2026 |
+| Soạn chương trình đào tạo an ninh mạng cho nhân viên | Phòng IT & Nhân sự | 20/01/2026 |
+| Đổi mật khẩu mặc định hệ thống Camera các chi nhánh | Team kỹ thuật hạ tầng | 13/01/2026 |
+| Liên hệ báo giá Pentest từ các đối tác viễn thông | Chú Nam | 15/01/2026 |
+| Phân tích bài học kinh nghiệm từ sự cố của đối tác | Trưởng phòng IT | 12/01/2026 |

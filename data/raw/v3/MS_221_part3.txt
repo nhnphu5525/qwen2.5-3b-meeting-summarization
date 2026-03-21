@@ -1,0 +1,70 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Digital Marketing
+- Giải quyết các vấn đề về phân tích thị trường
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho SEO
+- Thiếu dữ liệu để đánh giá thương hiệu
+- Khó khăn trong việc phối hợp giữa các bên về SEO
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện mạng xã hội
+- Phê duyệt ngân sách bổ sung cho influencer
+- Thiết lập nhóm đặc trách xử lý phân tích thị trường
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ doanh số | Bộ phận Tài chính | 22/06/2026 |
+| Họp nhóm để bàn sâu về phân tích thị trường | Bộ phận Tài chính | 14/01/2026 |
+| Gửi email xác nhận với đối tác về SEO | Ban điều hành | 19/09/2026 |
+| Lập báo cáo chi tiết cho mạng xã hội | Ban điều hành | 18/05/2026 |
+
+[09:17] Ờm Tôi đề xuất mình sẽ tập trung nguồn lực vào chiến dịch quảng cáo trong tuần này.
+[10:06] Vâng, tôi cũng thấy việc tối ưu phân tích thị trường là rất cần thiết.
+[10:08] Chào cả nhà, chúng ta bắt đầu bàn về doanh số nhé.
+[10:10] Mọi người cứ cho ý kiến thoải mái về thương hiệu đi ạ.
+[10:12] Tôi nghĩ là mình nên xem xét lại cái mạng xã hội này một chút.
+[09:22] Cái này nè Liệu mình có thể đẩy nhanh tiến độ cho thương hiệu được không?
+[09:23] Nói chung là mình phải chốt phương án cho doanh số ngay trong hôm nay.
+[10:18] Cái phân tích thị trường này hình như đang bị vướng chỗ nào đó đúng không?
+[09:25] Mọi người cứ cho ý kiến thoải mái về phân tích thị trường đi ạ.
+[10:22] Vâng, tôi cũng thấy việc tối ưu mạng xã hội là rất cần thiết.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Digital Marketing
+- Giải quyết các vấn đề về phân tích thị trường
+- Thống nhất kế hoạch triển khai thương hiệu
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho SEO
+- Thiếu dữ liệu để đánh giá thương hiệu
+- Khó khăn trong việc phối hợp giữa các bên về SEO
+- Sự cần thiết của việc chuẩn hóa các quy trình nội bộ
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện mạng xã hội
+- Phê duyệt ngân sách bổ sung cho influencer
+- Thiết lập nhóm đặc trách xử lý phân tích thị trường
+- Chốt thời điểm bắt đầu triển khai SEO
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ doanh số | Bộ phận Tài chính | 22/06/2026 |
+| Họp nhóm để bàn sâu về phân tích thị trường | Bộ phận Tài chính | 14/01/2026 |
+| Gửi email xác nhận với đối tác về SEO | Ban điều hành | 19/09/2026 |
+| Lập báo cáo chi tiết cho mạng xã hội | Ban điều hành | 18/05/2026 |
+| Theo dõi tiến độ thực hiện mạng xã hội | Phòng Kỹ thuật | 06/02/2026 |

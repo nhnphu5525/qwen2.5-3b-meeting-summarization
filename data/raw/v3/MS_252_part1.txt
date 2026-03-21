@@ -1,0 +1,50 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào buổi sáng cả nhà, hôm nay chúng ta tập trung phân tích tình hình thị trường tiêu dùng bán lẻ tại Việt Nam trong quý 1 năm nay. Anh Bình ơi, bên bộ phận Nghiên cứu có số liệu gì mới về xu hướng mua sắm của giới trẻ không?
+[09:05] Chào chị Thảo, chào mọi người. Số liệu từ báo cáo mới nhất cho thấy một sự chuyển dịch rất rõ rệt. Thay vì mua sắm tại các trung tâm thương mại truyền thống, hơn 65% khách hàng độ tuổi Gen Z và Millennials đang ưu tiên các nền tảng thương mại điện tử kết hợp giải trí, hay còn gọi là Shoppertainment. Đặc biệt, livestream bán hàng đang chiếm tỷ trọng ngày càng lớn trong doanh thu của các nhãn hàng thời trang và mỹ phẩm.
+[09:10] Điều này thú vị đấy. Chào anh Bình, tôi là Tú bên bộ phận Chiến lược. Tôi muốn hỏi thêm là liệu xu hướng này có bền vững không hay chỉ là nhất thời do ảnh hưởng của các đợt khuyến mãi lớn? Chào Tú, theo đánh giá của tôi thì đây là một sự thay đổi hành vi dài hạn. Khách hàng bây giờ không chỉ mua sản phẩm, họ mua cả trải nghiệm và sự tương tác. Nếu chúng ta không nhanh chóng thích nghi, chúng ta sẽ mất thị phần vào tay các đối thủ nội địa đang làm rất tốt mảng này.
+[09:15] Tôi hoàn toàn đồng ý với anh Bình. Chào mọi người, tôi là Lan phụ trách mảng Đối ngoại. Gần đây tôi có làm việc với một số KOL và KOC lớn, họ đều khẳng định rằng người tiêu dùng hiện nay rất nhạy cảm với tính xác thực. Họ thích xem những review thực tế hơn là những quảng cáo bóng bẩy. Vì vậy, chiến dịch marketing sắp tới của chúng ta cần tập trung vào việc tạo ra nội dung gần gũi hơn.
+
+<|output|>
+# Phân tích thị trường bán lẻ Q1/2025 và Chiến lược thích ứng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích xu hướng thị trường bán lẻ Việt Nam trong quý 1 năm 2025.
+- Đánh giá ảnh hưởng của lạm phát và thay đổi hành vi người tiêu dùng (Gen Z, Millennials).
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng Shoppertainment: Khách hàng trẻ ưu tiên mua sắm qua livestream và các nền tảng giải trí.
+- Hành vi người tiêu dùng: Chuyển dịch từ quảng cáo truyền thống sang nội dung thực tế từ KOL/KOC.
+- Ảnh hưởng kinh tế: Lạm phát khiến khách hàng thắt chặt chi tiêu, ưu tiên hàng giá rẻ và các gói combo tiết kiệm (FMCG).
+
+### 3. Kết luận và quyết định
+- Đẩy mạnh kênh bán hàng livestream và hợp tác với các KOC uy tín.
+- Tập trung phát triển và quảng bá dòng sản phẩm giá rẻ để phù hợp với sức mua hiện tại.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kế hoạch hợp tác KOC và nội dung livestream | Chị Lan (Marketing) | 28/03/2025 |
+| Hoàn thiện mô hình AI dự báo nhu cầu | Anh Bình (Nghiên cứu) | 25/03/2025 |
+| Đánh giá chi phí thuê kho vs Dropshipping | Chị Hồng (Tài chính) | 30/03/2025 |

@@ -1,0 +1,62 @@
+<|input|>
+# Kế hoạch thâm nhập thị trường Đông Nam Á (Thái Lan & Indonesia)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất chiến lược thâm nhập thị trường Thái Lan và Indonesia cho mảng thực phẩm chế biến.
+- Đánh giá các rào cản về văn hóa, pháp lý, logistic và đối thủ cạnh tranh.
+
+### 2. Các vấn đề đã thảo luận
+- Nghiên cứu thị trường:
+- Pháp lý và Thương hiệu:
+
+### 3. Kết luận và quyết định
+- Chốt lộ trình: Có mặt tại kệ siêu thị Thái Lan vào cuối quý IV năm nay.
+- Duyệt ngân sách cho nghiên cứu thị trường chuyên sâu và thuê Agency nội địa.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đàm phán MOU với đối tác Central Group (Thái Lan) | Chị Hà - Giám đốc chiến lược | 15/07/2024 |
+| Đăng ký bảo hộ nhãn hiệu và chứng chỉ Halal | Linh - Phòng Pháp chế | 30/07/2024 |
+| Khảo sát thực địa và hành vi tiêu dùng tại Jakarta | Tuấn - Market Research | 25/06/2024 |
+| Đàm phán giá cước vận tải dài hạn với Forwarder | Hùng - Logistic | 10/07/2024 |
+[09:29:15] Dạ ở Thái thì các tập đoàn gia đình như CP hay ThaiBev họ phủ sóng kín kẽ lắm rồi. Mình chỉ có cửa ở ngách "thực phẩm vì sức khỏe" thôi. Còn ở Indonesia thì hàng nội địa của họ rất rẻ nhưng chất lượng chưa đồng đều. Đây là cơ hội để mình định vị ở phân khúc trung và cao cấp, mang mác "Hàng Việt Nam chất lượng cao" sang chinh chiến anh ạ.
+[09:31:30] Phân khúc cao cấp thì bao bì phải xịn nha Tuấn. Hà nhớ chỉ đạo team Marketing bên mình phối hợp với đội bên đó để "địa phương hóa" (localize) thông điệp quảng cáo. Đừng có bê nguyên xi mấy cái slogan tiếng Việt sang dịch word-by-word là hỏng hết bánh kẹo đó.
+[09:33:45] Dạ em hiểu mà. Em định thuê hẳn một Agency bản địa để họ làm nội dung cho mình. Chứ mình ngồi đây đoán mò tâm lý dân bển thì không ổn đâu ạ. Anh Sơn duyệt cho em cái budget cho khâu nghiên cứu chuyên sâu và trial-marketing này nha.
+[09:36:00] Ờ, duyệt. Tiền nào của nấy, không được tiết kiệm chỗ này. Hùng nè, em tính toán thử xem nếu mình đặt một nhà máy gia công (OEM) ngay tại Indonesia để giảm thuế nhập khẩu và chi phí vận chuyển thì có khả thi không?
+[09:38:15] Dạ phương án này em cũng đã tính qua. Nếu sản lượng đạt trên 5 triệu đơn vị sản phẩm/năm thì đặt OEM bên đó cực kỳ lợi. Nhân công bên bển rẻ, mà mình lại có mác "Made in Indonesia" thì dân họ cũng ủng hộ hơn. Nhưng cái khó là kiểm soát chất lượng (QC), mình phải cử người của mình sang nằm vùng ở nhà máy họ suốt 24/7 anh ạ.
+[09:40:30] Chuyện đó tính sau, trước mắt cứ xuất khẩu thử nghiệm xem phản ứng thị trường thế nào đã. Linh với Hà phối hợp chốt cái lộ trình (roadmap) cho anh. Anh muốn cuối quý IV năm nay phải có lô hàng đầu tiên lên kệ siêu thị ở Bangkok.
+
+<|output|>
+# Kế hoạch thâm nhập thị trường Đông Nam Á (Thái Lan & Indonesia)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất chiến lược thâm nhập thị trường Thái Lan và Indonesia cho mảng thực phẩm chế biến.
+- Đánh giá các rào cản về văn hóa, pháp lý, logistic và đối thủ cạnh tranh.
+- Phân công nhiệm vụ cho các bộ phận chủ chốt để chuẩn bị cho lô hàng đầu tiên vào cuối quý IV.
+
+### 2. Các vấn đề đã thảo luận
+- Nghiên cứu thị trường:
+- Pháp lý và Thương hiệu:
+- Logistic và Phân phối:
+
+### 3. Kết luận và quyết định
+- Chốt lộ trình: Có mặt tại kệ siêu thị Thái Lan vào cuối quý IV năm nay.
+- Duyệt ngân sách cho nghiên cứu thị trường chuyên sâu và thuê Agency nội địa.
+- Cử cán bộ đi khảo sát thực tế tại Indonesia ngay trong tuần tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đàm phán MOU với đối tác Central Group (Thái Lan) | Chị Hà - Giám đốc chiến lược | 15/07/2024 |
+| Đăng ký bảo hộ nhãn hiệu và chứng chỉ Halal | Linh - Phòng Pháp chế | 30/07/2024 |
+| Khảo sát thực địa và hành vi tiêu dùng tại Jakarta | Tuấn - Market Research | 25/06/2024 |
+| Đàm phán giá cước vận tải dài hạn với Forwarder | Hùng - Logistic | 10/07/2024 |
+| Lập dự toán chi phí OEM tại Indonesia | Hùng - Logistic | 20/07/2024 |
+| Tuyển chọn Agency Marketing bản địa | Chị Hà - Giám đốc chiến lược | 05/08/2024 |

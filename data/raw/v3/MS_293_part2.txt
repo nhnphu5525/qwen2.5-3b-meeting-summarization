@@ -1,0 +1,60 @@
+<|input|>
+# Đánh giá thị trường và triển khai dự án căn hộ cao cấp Skyline Riverside
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích tình hình thị trường bất động sản khu Đông TP.HCM để định vị dự án.
+
+### 2. Các vấn đề đã thảo luận
+- Nhu cầu ổn định ở phân khúc cao cấp dù nguồn cung đang thắt chặt.
+- Giá bán dự kiến 95 triệu đồng/m2, cạnh tranh với các đối thủ cùng khu vực.
+
+### 3. Kết luận và quyết định
+- Chốt giá bán và chính sách ngân hàng để chuẩn bị mở bán vào quý III.
+- Phê duyệt phương án bổ sung tiện ích đặc quyền để tăng tính cạnh tranh.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký kết hợp tác chiến lược với ngân hàng | Phòng Nguồn vốn | 15/04/2024 |
+| Hoàn thiện thiết kế điều chỉnh tiện ích | Phòng Quản lý dự án | 20/04/2024 |
+
+[09:24] Hiện tại đã có 3 ngân hàng lớn đồng ý tham gia bảo lãnh và cho vay cho dự án. Chúng tôi đang chốt các điều khoản cuối cùng để ký kết hợp tác chiến lược vào tuần sau.
+[09:27] Về phía thiết kế, tôi đề nghị chúng ta nên bổ sung thêm các tiện ích mang tính đặc quyền (exclusive) như hồ bơi vô cực trên tầng thượng, khu vực cigar lounge và phòng gym chuẩn quốc tế.
+[09:30] Khách hàng cao cấp không chỉ mua một căn hộ, họ mua một phong cách sống. Những tiện ích này chính là yếu tố giúp chúng ta khác biệt hóa so với các dự án phổ thông xung quanh.
+[09:33] Tuy nhiên, việc tăng thêm tiện ích sẽ làm tăng chi phí xây dựng. Phòng Quản lý dự án cần tính toán lại bảng dự toán chi phí để đảm bảo biên lợi nhuận ròng của dự án không dưới 25%.
+[09:36] Tôi sẽ yêu cầu đơn vị thiết kế gửi lại phương án điều chỉnh trong tuần tới. Chúng ta cũng nên cân nhắc việc sử dụng các vật liệu xây dựng thân thiện với môi trường và các thiết bị smart-home cho từng căn hộ.
+[09:39] Việc ứng dụng công nghệ smart-home không chỉ tăng giá trị căn hộ mà còn là một điểm nhấn marketing rất tốt trong thời đại 4.0 hiện nay.
+[09:42] Về chiến dịch Marketing, bộ phận Marketing cần chuẩn bị cho sự kiện "Lễ ra quân" (Kick-off) thật hoành tráng để tạo lửa cho các sàn đại lý phân phối.
+[09:45] Chúng ta dự kiến sẽ mời khoảng 10 sàn giao dịch uy tín nhất tham gia phân phối dự án này. Cơ chế hoa hồng cho các sàn cần phải thực sự hấp dẫn để họ ưu tiên đẩy hàng cho chúng ta.
+[09:48] Tôi đề xuất mức hoa hồng từ 3% đến 5% tùy theo tốc độ bán hàng của từng sàn. Ngoài ra nên có thêm các gói thưởng nóng cho các cá nhân có doanh số xuất sắc.
+
+<|output|>
+# Đánh giá thị trường và triển khai dự án căn hộ cao cấp Skyline Riverside
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích tình hình thị trường bất động sản khu Đông TP.HCM để định vị dự án.
+- Thống nhất giá bán dự kiến, chính sách thanh toán và hỗ trợ tài chính từ ngân hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Nhu cầu ổn định ở phân khúc cao cấp dù nguồn cung đang thắt chặt.
+- Giá bán dự kiến 95 triệu đồng/m2, cạnh tranh với các đối thủ cùng khu vực.
+- Chính sách thanh toán dãn cách 5%/đợt và gói vay 0% lãi suất trong 24 tháng.
+- Bổ sung tiện ích đặc quyền: Hồ bơi vô cực, Cigar lounge, Gym 5 sao.
+
+### 3. Kết luận và quyết định
+- Chốt giá bán và chính sách ngân hàng để chuẩn bị mở bán vào quý III.
+- Phê duyệt phương án bổ sung tiện ích đặc quyền để tăng tính cạnh tranh.
+- Giao bộ phận Pháp chế hoàn tất giấy phép xây dựng phần thân trong tháng 5.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký kết hợp tác chiến lược với ngân hàng | Phòng Nguồn vốn | 15/04/2024 |
+| Hoàn thiện thiết kế điều chỉnh tiện ích | Phòng Quản lý dự án | 20/04/2024 |
+| Đôn đốc giấy phép xây dựng | Phòng Pháp chế | 30/05/2024 |

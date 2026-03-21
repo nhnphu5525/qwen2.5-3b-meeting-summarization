@@ -1,0 +1,63 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00] Chào team IT Security. Cuộc họp hôm nay cực kỳ quan trọng về tình hình an ninh mạng của tập đoàn mình nhé.
+[08:01] Dạ sếp, có chuyện gì khẩn cấp sao ạ?
+[08:03] Đêm qua hệ thống của bên công ty đối tác chiến lược vừa bị dính Ransomware, mã hóa toàn bộ dữ liệu khách hàng.
+[08:04] Trời ơi, thiệt sao sếp? Vậy là họ phải trả tiền chuộc à?
+[08:06] Họ đang thương lượng, nhưng vấn đề là mình có kết nối hệ thống với họ, rủi ro lây lan là rất cao.
+[08:07] Nguy quá, em đề nghị mình tạm thời ngắt toàn bộ các kết nối VPN và API với bên đó ngay lập tức.
+[08:09] Anh đã cho ngắt lúc 5 giờ sáng nay rồi. Bây giờ mình phải rà soát lại toàn bộ hệ thống nhà mình.
+[08:10] Ờ... chú Nam kiểm tra xem hệ thống sao lưu (backup) của mình có đang hoạt động ổn định không?
+[08:12] Dạ, hệ thống backup tự động vẫn chạy hàng ngày, nhưng em lo là bản backup cũng có thể bị nhiễm nếu mã độc nó nằm vùng lâu rồi.
+[08:13] Đúng đấy, mình phải kiểm tra tính toàn vẹn của các bản backup trong vòng 1 tháng trở lại đây.
+[08:15] Ngoài ra, em thấy hệ thống tường lửa (firewall) của mình dạo này có nhiều cảnh báo truy cập bất thường từ IP lạ.
+[08:16] Cụ thể là từ khu vực nào em?
+[08:18] Dạ chủ yếu là từ Đông Âu và một số nước Bắc Phi sếp ạ.
+[08:19] Phải cấu hình chặn ngay dải IP đó đi, đừng để họ dò quét cổng (port scan) nữa.
+[08:21] Vâng, em đang cập nhật lại luật (rules) cho firewall đây ạ.
+[08:22] Còn vụ cập nhật bản vá (patching) cho các server Windows thì sao? Có máy nào còn chạy Win Server 2012 không?
+[08:24] Dạ còn khoảng 5 máy chạy Win 2012 ở chi nhánh miền Trung ạ.
+[08:25] Sao lại để cũ kỹ vậy? Cái đó lỗ hổng nhiều như rổ, hacker nó vào dễ như trở bàn tay.
+[08:27] Dạ tại mấy máy đó chạy ứng dụng kế toán cũ, nâng cấp lên sợ nó không tương thích sếp ạ.
+[08:28] Không tương thích thì phải tìm giải pháp khác, hoặc là cô lập nó vào một vùng mạng riêng (VLAN) kín hoàn toàn.
+[08:30] Tuyệt đối không để nó thông với mạng internet và mạng lõi của công ty.
+[08:31] Vâng, em sẽ cho cô lập ngay trong sáng nay và lên kế hoạch chuyển đổi ứng dụng sang nền tảng mới.
+
+<|output|>
+# Phòng chống tấn công Ransomware và tăng cường an ninh mạng tập đoàn
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Ứng cụ khẩn cấp với rủi ro lây lan Ransomware từ công ty đối tác.
+- Rà soát toàn diện lỗ hổng bảo mật hệ thống.
+
+### 2. Các vấn đề đã thảo luận
+- Sự cố đối tác: Đối tác chiến lược bị mã hóa dữ liệu, công ty đã ngắt kết nối VPN/API để cách ly.
+- Sao lưu dữ liệu: Cần kiểm tra tính toàn vẹn của các bản backup.
+- Tường lửa: Xuất hiện nhiều đợt port scan từ dải IP nước ngoài, cần cấu hình chặn ngay lập tức.
+- Hạ tầng cũ: Tồn tại 5 server Windows 2012 lỗi thời tại chi nhánh miền Trung, tiềm ẩn lỗ hổng nghiêm trọng.
+
+### 3. Kết luận và quyết định
+- Cô lập hoàn toàn các server cũ vào vùng mạng VLAN riêng và lên kế hoạch thay thế.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ngắt kết nối và cô lập server Windows 2012 | Chú Nam | 11/01/2026 |

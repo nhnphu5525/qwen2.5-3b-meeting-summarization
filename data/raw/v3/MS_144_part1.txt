@@ -1,0 +1,53 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[23:00:00] Alo, mọi người có đó không? Tình hình căng rồi, hệ thống thanh toán đang bị treo, khách hàng không checkout được từ nãy giờ. Anh mới nhận được một đống log báo lỗi 500 từ server đây.
+[23:02:15] Dạ em đây anh Thành. Em đang check log bên phía Backend. Có vẻ như service thanh toán đang bị nghẽn ở bước gọi sang API của bên đối tác ngân hàng. Nó cứ trả về timeout liên tục luôn nè.
+[23:04:30] Ờ, thì nãy giờ anh cũng thấy mấy group hỗ trợ khách hàng báo quá trời. Huy ơi, bên Frontend có xử lý catch lỗi này chưa? Sao khách báo là nó cứ quay vòng vòng rồi trắng trang luôn vậy?
+[23:06:45] Dạ vầy nè anh, bình thường là có retry mechanism rồi, nhưng mà đợt này timeout nó lâu quá nên nó vượt quá cái limit của browser luôn. Để em push một cái hotfix để giới hạn thời gian chờ lại, cho nó hiện thông báo bảo trì tạm thời cho khách đỡ hoang mang.
+[23:09:00] Nam check lại cái query database xem có bị deadlock chỗ nào không? Anh nghi là lúc traffic cao, mấy cái transaction thanh toán nó đang tranh chấp tài nguyên với nhau đó.
+[23:11:15] Em đang dùng `pg_stat_activity` để soi đây anh. Đúng rồi! Có một cái query đang bị treo từ 15 phút trước, nó lock hết mấy cái bảng `orders` luôn. Hèn chi mấy cái request sau vào là đứng hình hết.
+[23:13:30] Trời ơi, sao tự nhiên lại bị lock lâu vậy? Có phải do cái script migration mình mới deploy hồi chiều không?
+[23:15:45] Khả năng cao là nó đó anh. Cái script đó nó add thêm một cái column mới vào bảng `orders` nhưng mà nó không dùng `ALGORITHM=INPLACE` nên nó khóa nguyên cái bảng để ghi dữ liệu lại. Với bảng lớn mấy triệu record như mình thì nó "tèo" là đúng rồi.
+[23:18:00] Thôi chết, sơ suất quá! Bây giờ xử lý sao Nam? Kill cái process đó đi có ảnh hưởng gì tới data không?
+
+<|output|>
+# Xử lý Sự cố Nghiêm trọng (Incident Report) - Hệ thống Thanh toán bị treo
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân gây ra lỗi 500 và treo hệ thống thanh toán trên môi trường production vào đêm khuya.
+- Triển khai các biện pháp khắc phục khẩn cấp để khôi phục dịch vụ cho khách hàng.
+
+### 2. Các vấn đề đã thảo luận
+- **Hiện tượng:** Khách hàng không thể thực hiện bước checkout, hệ thống báo lỗi 500 hoặc quay vòng vô tận, log server báo timeout liên tục.
+- **Nguyên nhân gốc rễ:** Script migration database (thêm cột mới vào bảng `orders`) được deploy hồi chiều đã gây ra tình trạng khóa bảng (table lock) lâu ngày do không sử dụng thuật toán tối ưu trên tập dữ liệu lớn.
+
+### 3. Kết luận và quyết định
+- Khôi phục hoàn toàn dịch vụ thanh toán ngay lập tức sau khi test thành công.
+- Team Backend (Nam) chịu trách nhiệm viết báo cáo Post-mortem chi tiết.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Viết báo cáo Post-mortem chi tiết sự cố | Nam (Backend) | 12:00 05/10/2024 |
+| Rà soát lại dữ liệu đơn hàng trong thời gian sự cố | Nam | 05/10/2024 |
+| Cập nhật quy trình CI/CD cho phần migration DB | Anh Thành & Team DevOps | 10/10/2024 |

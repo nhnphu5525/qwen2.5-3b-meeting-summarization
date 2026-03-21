@@ -1,0 +1,49 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào buổi sáng cả team Marketing. Hôm nay mình ngồi lại để chốt phương án cuối cùng cho chiến dịch "Hè Rực Rỡ" - đợt khuyến mãi lớn nhất trong quý này.
+[09:02] Theo kế hoạch ban đầu, mình sẽ chạy trong 2 tuần đầu tháng 6, nhưng tôi đang cân nhắc dời sang giữa tháng vì đợt đó sinh viên bắt đầu nghỉ hè nhiều hơn.
+[09:04] Em thấy dời sang giữa tháng 6 là hợp lý ạ. Đợt đó nhu cầu mua sắm đồ bơi, kem chống nắng và các phụ kiện du lịch sẽ tăng vọt.
+[09:06] Nhưng mình cũng phải coi chừng các đối thủ khác, họ cũng canh thời điểm đó để tung ra các chương trình tương tự.
+[09:08] Đúng rồi, vậy nên cái "Unique Selling Point" của mình đợt này phải thật sự nổi bật. Em đề xuất mình tập trung vào thông điệp "Du lịch xanh - Bảo vệ môi trường".
+[09:10] Tức là sao? Mình sẽ tặng kèm túi vải hay giảm giá cho khách mang đồ cũ đến đổi?
+[09:12] Cả hai luôn ạ. Những khách hàng mang bao bì mỹ phẩm cũ đến showroom sẽ được tặng voucher giảm giá 15% cho sản phẩm mới. Còn với hóa đơn trên 1 triệu, mình tặng túi tote thiết kế riêng.
+[09:14] Ý tưởng "đổi cũ lấy mới" này rất hay, vừa giúp đẩy doanh số tại cửa hàng vừa tăng nhận diện thương hiệu vì cộng đồng.
+
+<|output|>
+# Kế hoạch chiến dịch Marketing "Hè Rực Rỡ" cho đợt khuyến mãi tháng 6
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất thời điểm triển khai chiến dịch khuyến mãi lớn nhất quý 3.
+- Xây dựng thông điệp chiến dịch và các hoạt động thúc đẩy doanh số.
+
+### 2. Các vấn đề đã thảo luận
+- Thời gian triển khai: Quyết định dời từ đầu tháng sang giữa tháng 6 (từ 15/06) để đón đầu làn sóng nghỉ hè của học sinh, sinh viên.
+- Thông điệp chiến dịch: "Du lịch xanh - Bảo vệ môi trường" với hoạt động đổi vỏ mỹ phẩm cũ lấy voucher giảm giá 15% và tặng túi tote cho hóa đơn trên 1 triệu.
+
+### 3. Kết luận và quyết định
+- Phê duyệt thông điệp và thời gian khởi động chiến dịch vào ngày 15/06.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế túi tote và in ấn voucher | Team Design | 30/03 |

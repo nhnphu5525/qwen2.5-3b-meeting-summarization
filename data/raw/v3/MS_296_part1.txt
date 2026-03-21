@@ -1,0 +1,53 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào buổi chiều mọi người, hôm nay chúng ta họp để thảo luận về kế hoạch chuyển dịch cơ cấu năng lượng của tập đoàn, tập trung vào việc phát triển các dự án năng lượng tái tạo (điện gió, điện mặt trời) và lộ trình giảm dần sự phụ thuộc vào nhiệt điện than.
+[14:03] Theo Quy hoạch điện VIII vừa được phê duyệt, tỷ trọng năng lượng tái tạo trong cơ cấu nguồn điện sẽ phải tăng lên đáng kể trong thập kỷ tới. Đây vừa là trách nhiệm, vừa là cơ hội để chúng ta khẳng định vị thế dẫn đầu trong ngành năng lượng.
+[14:06] Tôi thấy rằng các dự án điện gió ngoài khơi tại khu vực miền Trung và miền Nam đang có tiềm năng rất lớn. Tốc độ gió ở những khu vực này đạt mức lý tưởng để vận hành các tuabin công suất lớn trên 10MW.
+[14:09] Tuy nhiên, suất đầu tư cho điện gió ngoài khơi cực kỳ cao, gấp 3-4 lần so với điện mặt trời. Ngoài ra, việc thi công trên biển đòi hỏi kỹ thuật phức tạp và sự hỗ trợ của đội ngũ chuyên gia quốc tế.
+[14:12] Chúng ta cần tìm kiếm các đối tác chiến lược từ châu Âu, những người đã có kinh nghiệm dày dặn trong việc phát triển các farm điện gió ngoài khơi tại Biển Bắc. Hợp tác liên doanh sẽ giúp chúng ta giảm bớt rủi ro tài chính và tiếp nhận chuyển giao công nghệ.
+[14:15] Về phần điện mặt trời, mặc dù giá FIT đã hết hạn, nhưng chúng ta vẫn có thể triển khai các dự án theo hình thức tự sản tự tiêu hoặc bán điện trực tiếp (DPPA) cho các khu công nghiệp lớn.
+[14:18] Cơ chế DPPA đang được các tập đoàn đa quốc gia rất mong chờ vì họ cần chứng chỉ năng lượng tái tạo (REC) để đáp ứng các tiêu chuẩn về môi trường toàn cầu của mình.
+[14:21] Tôi muốn hỏi về vấn đề giải tỏa công suất. Hiện nay hạ tầng lưới điện truyền tải ở một số khu vực có tiềm năng năng lượng tái tạo đang bị quá tải nghiêm trọng. Nhiều dự án đã hoàn thành nhưng phải cắt giảm công suất phát.
+
+<|output|>
+# Chiến lược chuyển dịch năng lượng và phát triển năng lượng tái tạo
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng lộ trình phát triển các dự án điện gió, điện mặt trời theo Quy hoạch điện VIII.
+- Thảo luận phương án giảm phát thải cho các nhà máy nhiệt điện than hiện hữu.
+
+### 2. Các vấn đề đã thảo luận
+- Tiềm năng điện gió ngoài khơi tại miền Trung, miền Nam và thách thức về suất đầu tư, kỹ thuật.
+- Hợp tác liên doanh với các đối tác châu Âu để chia sẻ rủi ro và kinh nghiệm.
+- Cơ chế mua bán điện trực tiếp (DPPA) cho các khu công nghiệp để cấp chứng chỉ REC.
+
+### 3. Kết luận và quyết định
+- Ưu tiên triển khai dự án điện gió ngoài khơi 500MW tại Bình Thuận.
+- Thành lập Ban dự án Năng lượng mới để quản lý các dự án Hydro và BESS.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ vay vốn dự án Bình Thuận | Phòng Tài chính | 30/05/2024 |
+| Soạn thảo quy hoạch dự án 2025-2030 | Ban dự án Năng lượng mới | 15/06/2024 |

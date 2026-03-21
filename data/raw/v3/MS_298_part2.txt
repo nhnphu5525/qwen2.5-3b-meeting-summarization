@@ -1,0 +1,64 @@
+<|input|>
+# Ra mắt bộ sưu tập Summer Breeze 2024 và chiến lược thời trang bền vững
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt mẫu thiết kế và chất liệu cho bộ sưu tập hè "Summer Breeze 2024".
+- Thảo luận việc ứng dụng các chất liệu tự nhiên (linen, sợi dứa, tơ chuối) và quy trình sản xuất sạch.
+
+### 2. Các vấn đề đã thảo luận
+- Bổ sung tone màu nóng (Peach Fuzz, xanh mint) để bắt kịp xu hướng Pantone 2024.
+- Hợp tác với các làng nghề tại Lâm Đồng để cung ứng vải sợi tự nhiên.
+- Yêu cầu kỹ thuật may không vắt sổ nhựa và sử dụng nút áo bằng vỏ ốc/gỗ.
+
+### 3. Kết luận và quyết định
+- Phê duyệt bảng màu bổ sung và danh mục chất liệu sinh học cho BST mới.
+- Chốt ngân sách sản xuất video tư liệu và sự kiện ra mắt tại vườn thực vật.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Casting người mẫu và chụp Lookbook | Team Marketing & Design | 15/04/2024 |
+| Sản xuất video tư liệu tại Lâm Đồng | Team Media | 25/04/2024 |
+
+[14:27] Về mặt kỹ thuật may, tôi yêu cầu các đường may phải được xử lý sạch (clean finishing), không dùng vắt sổ bằng chỉ nhựa để đảm bảo tính phân hủy sinh học hoàn toàn của sản phẩm.
+[14:30] Ngay cả nút áo cũng nên thay bằng vỏ ốc hoặc gỗ thay vì nhựa plastic như trước đây. Mọi chi tiết nhỏ nhất đều phải nhất quán với thông điệp sống xanh.
+[14:33] Tôi lo ngại về form dáng (fitting). Các chất liệu tự nhiên như linen thường dễ nhăn và có độ co rút cao sau khi giặt. Team kỹ thuật đã xử lý công đoạn hấp nhiệt và giặt cầm màu (wash) chưa?
+[14:36] Chúng tôi đã thực hiện test mẫu trên 5 lần giặt và điều chỉnh lại thông số rập để trừ hao độ co. Kết quả hiện tại đã khá ổn định.
+[14:39] Về chiến dịch Marketing, ngoài việc sử dụng Influencer, tôi muốn tổ chức một sự kiện "Fashion Show" quy mô nhỏ tại một khu vườn thực vật. Khách mời sẽ được trải nghiệm sờ tận tay chất liệu vải trước khi show bắt đầu.
+[14:42] Chúng ta sẽ mời các biên tập viên thời trang của các tạp chí lớn như Elle, Vogue Việt Nam và Harper's Bazaar. Sự công nhận từ giới chuyên môn sẽ là đòn bẩy uy tín rất lớn cho thương hiệu.
+[14:45] Về phía bán lẻ, hệ thống cửa hàng cần được thay đổi layout trưng bày theo concept mùa hè nhiệt đới. Việc sử dụng các vật liệu tái chế để làm đạo cụ trang trí (props) là bắt buộc.
+[14:48] Bộ phận Kinh doanh có ý kiến gì về kế hoạch giá bán không? Với chi phí nguyên liệu cao như vậy, biên lợi nhuận của chúng ta có bị ảnh hưởng nhiều không?
+[14:51] Nếu bán ở mức giá hiện tại, lợi nhuận sẽ giảm. Nhưng nếu chúng ta tăng giá lên 15% và đi kèm với dịch vụ "bảo hành trọn đời" (sửa chữa, thay nút miễn phí), khách hàng sẽ dễ dàng chấp nhận hơn.
+
+<|output|>
+# Ra mắt bộ sưu tập Summer Breeze 2024 và chiến lược thời trang bền vững
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt mẫu thiết kế và chất liệu cho bộ sưu tập hè "Summer Breeze 2024".
+- Thảo luận việc ứng dụng các chất liệu tự nhiên (linen, sợi dứa, tơ chuối) và quy trình sản xuất sạch.
+- Xây dựng chiến dịch truyền thông kể chuyện (storytelling) về nguồn gốc sản phẩm.
+
+### 2. Các vấn đề đã thảo luận
+- Bổ sung tone màu nóng (Peach Fuzz, xanh mint) để bắt kịp xu hướng Pantone 2024.
+- Hợp tác với các làng nghề tại Lâm Đồng để cung ứng vải sợi tự nhiên.
+- Yêu cầu kỹ thuật may không vắt sổ nhựa và sử dụng nút áo bằng vỏ ốc/gỗ.
+- Xử lý độ co rút và nhăn của vải tự nhiên thông qua kỹ thuật hấp nhiệt chuyên sâu.
+- Sản xuất video tư liệu về quy trình sản xuất thủ công để tăng giá trị thương hiệu.
+
+### 3. Kết luận và quyết định
+- Phê duyệt bảng màu bổ sung và danh mục chất liệu sinh học cho BST mới.
+- Chốt ngân sách sản xuất video tư liệu và sự kiện ra mắt tại vườn thực vật.
+- Áp dụng dịch vụ sửa chữa đồ miễn phí cho khách hàng mua dòng sản phẩm cao cấp.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Casting người mẫu và chụp Lookbook | Team Marketing & Design | 15/04/2024 |
+| Sản xuất video tư liệu tại Lâm Đồng | Team Media | 25/04/2024 |
+| Hoàn thiện 50 bộ mẫu đầu tiên | Xưởng sản xuất | 10/05/2024 |

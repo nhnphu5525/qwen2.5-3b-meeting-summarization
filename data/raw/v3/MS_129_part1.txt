@@ -1,0 +1,50 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào ban giám đốc và các trưởng bộ phận, hôm nay chúng ta họp một buổi quan trọng để chốt lại chiến lược chuyển dịch từ xe xăng sang phân phối xe điện (EV) cho giai đoạn 5 năm tới của công ty mình.
+[09:02] Dạ sếp, em thấy đây là xu thế tất yếu rồi. Nhìn ra thế giới hay ngay tại Việt Nam mình, xe điện đang phát triển cực nhanh. Nếu mình không đi ngay từ bây giờ là sẽ bị bỏ lại phía sau mất.
+[09:04] Ờ, anh cũng đồng ý là xu thế. Nhưng mà vầy nè, mình đang làm đại lý cho 3 hãng xe xăng lớn, doanh số vẫn đang ổn định. Giờ mình đổ vốn vô làm xe điện thì bài toán dòng tiền xử lý sao hả Lan?
+[09:06] Dạ sếp, em đã ngồi tính toán kỹ rồi. Đầu tư cho hạ tầng trạm sạc, xưởng dịch vụ chuyên dụng cho xe điện và training nhân sự kỹ thuật là một con số khổng lồ á. Dự kiến trong 2 năm đầu mình sẽ phải chịu lỗ để xây dựng hệ sinh thái.
+[09:08] Lỗ 2 năm hả? Ờ, con số cụ thể là bao nhiêu em? Rồi mình định hợp tác với hãng xe điện nào? Hay là mình làm đại lý đa thương hiệu như hiện nay?
+[09:10] Dạ vầy nè anh, em đã có buổi làm việc sơ bộ với hai hãng xe điện lớn từ Trung Quốc là BYD với MG, đồng thời mình cũng đang đàm phán để làm đối tác hạ tầng cho VinFast. Theo em, mình nên đi theo hướng "Đại lý xe điện đa thương hiệu" (EV Multi-brand Hub) để khách hàng có nhiều sự lựa chọn.
+[09:12] Làm đa thương hiệu thì mình phải đầu tư trạm sạc chuẩn chung đúng không Nam? Chứ mỗi hãng một kiểu sạc thì xưởng mình thành cái đống rác dây nhợ mất.
+[09:14] Dạ sếp rành quá! Hiện tại các hãng xe Trung Quốc và VinFast đều đang dần chuẩn hóa theo chuẩn sạc CCS2. Nên mình chỉ cần đầu tư hệ thống trụ sạc nhanh DC công suất lớn là dùng chung được hết. Cái khó nhất là làm việc với bên điện lực để xin cấp trạm biến áp riêng cho khu vực showroom mình á.
+
+<|output|>
+# Chiến lược chuyển dịch sang phân phối xe điện (EV) giai đoạn 2024-2029
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất lộ trình chuyển dịch mô hình kinh doanh từ xe động cơ đốt trong sang xe điện (EV).
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng phát triển mạnh mẽ của thị trường xe điện toàn cầu và tại Việt Nam.
+- Mô hình kinh doanh: "Đại lý xe điện đa thương hiệu" (EV Multi-brand Hub), hợp tác với BYD, MG và VinFast.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương chuyển dịch sang phân phối xe điện là chiến lược trọng tâm trong 5 năm tới.
+- Đồng ý phương án chuyển đổi 02 showroom tại Bình Chánh và Thủ Đức sang mô hình EV Hub.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện báo cáo tài chính và phương án thoái vốn | Chị Lan (Phòng Tài chính) | 15/06/2024 |
+| Làm việc với điện lực về trạm biến áp cho các showroom | Anh Nam (Phòng Kỹ thuật) | 20/06/2024 |

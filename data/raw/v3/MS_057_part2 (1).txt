@@ -1,0 +1,77 @@
+<|input|>
+# Dự án nâng cấp và hiện đại hóa đội tàu vận tải biển giai đoạn 2025-2030
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiện trạng đội tàu vận tải (già cỗi, tiêu hao nhiên liệu cao, không đạt chuẩn môi trường IMO).
+- Thống nhất phương án đầu tư đóng mới và cải hoán đội tàu để đáp ứng các tiêu chuẩn quốc tế về phát thải (EEXI, CII).
+
+### 2. Các vấn đề đã thảo luận
+- **Đóng mới tàu:** Quyết định thanh lý 2 tàu cũ (18 năm tuổi) và đặt đóng mới 2 tàu container sử dụng nhiên liệu kép (Dual-fuel) LNG để giảm phát thải và tăng hiệu suất cạnh tranh.
+- **Cải hoán (Retrofitting):** Đối với 3 tàu còn lại, thực hiện lắp hệ thống làm sạch khí thải Scrubber, bộ cánh quạt tiết kiệm năng lượng và sơn Nano chống hà để kéo dài thời gian khai thác.
+- **Số hóa & Tối ưu hóa:** Lắp đặt hệ thống vệ tinh băng thông rộng và phần mềm Weather Routing để giám sát tiêu thụ nhiên liệu Real-time và tối ưu hóa lộ trình.
+- **Logistic:** Phương án thuê tàu ngoài (Chartering) để duy trì dịch vụ trong thời gian các tàu nằm ụ cải hoán.
+
+### 3. Kết luận và quyết định
+- Giao phòng Kỹ thuật làm việc với các xưởng đóng tàu tại Hàn Quốc/Trung Quốc để giữ chỗ (Slot).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập báo cáo khả thi (FS) chi tiết cho dự án đóng mới tàu LNG | Phòng Kỹ thuật | 25/03/2025 |
+| Đàm phán thanh lý 2 tàu cũ với các đối tác thu mua | Phòng Kinh doanh | 15/03/2025 |
+| Tìm kiếm và đặt lịch ụ tàu (Dry-dock) cho việc lắp Scrubber | Phòng Vật tư | 20/03/2025 |
+| Đàm phán giá thuê tàu ngoài cho giai đoạn cao điểm | Team Logistics | 18/03/2025 |
+| Khảo sát và lựa chọn đối tác cung cấp hệ thống vệ tinh | Phòng IT | 12/03/2025 |
+[09:45] Thưa sếp, em muốn đề cập thêm về vấn đề nhân sự. Ờ... vận hành tàu Dual-fuel LNG đòi hỏi thuyền viên phải có chứng chỉ đặc biệt và kỹ năng an toàn rất cao. Đội ngũ hiện tại của mình cần phải được gửi đi đào tạo lại.
+[09:48] Ờ... liên hệ với trường Đại học Hàng hải xem họ có khóa đào tạo này không? Nếu không thì thuê chuyên gia nước ngoài về dạy tại chỗ. Không được để xảy ra bất kỳ sự cố cháy nổ nào trên tàu LNG, cái đó là thảm họa đấy.
+[09:51] Dạ, em sẽ lên danh sách thuyền viên ưu tú để đi tập huấn đợt 1 vào quý sau ạ. 
+[09:54] Thưa anh, về vấn đề vốn. 2 con tàu đóng mới tầm 120 triệu đô, cộng với 9 triệu đô cải hoán 3 tàu cũ. Tổng mức đầu tư lên tới gần 130 triệu USD. Ờ... mình cần làm việc với các ngân hàng để vay vốn tín dụng xanh (Green Credit) với lãi suất ưu đãi.
+[09:57] Ờ... hồ sơ vay vốn tín dụng xanh yêu cầu rất khắt khe về báo cáo đánh giá tác động môi trường. Ờ... Nam bên Tài chính phối hợp với đội kỹ thuật hoàn thiện cái hồ sơ này sớm nhé. Nếu vay được vốn này thì mình tiết kiệm được 1-2% lãi suất mỗi năm đấy.
+[10:00] Vâng, em đang làm việc với ngân hàng Standard Chartered và HSBC, họ rất quan tâm đến các dự án giảm phát thải như thế này ạ.
+[10:03] Chốt lại kế hoạch: 1. Thanh lý 2 tàu cũ, đặt đóng mới 2 tàu Dual-fuel LNG; 2. Cải hoán 3 tàu còn lại bằng Scrubber và sơn Nano; 3. Số hóa toàn bộ đội tàu; 4. Đào tạo thuyền viên và vay vốn xanh.
+[10:06] Tiến độ thế nào? Khi nào thì con tàu mới đầu tiên về đến Việt Nam?
+[10:09] Dạ, nếu mình ký hợp đồng đóng mới vào tháng tới thì sớm nhất là quý 2 năm 2027 mình mới nhận tàu được ạ. Ờ... thời gian đóng tàu hiện tại ở các xưởng bên Hàn Quốc và Trung Quốc đang rất kẹt.
+[10:12] Ờ... 2027 thì hơi lâu nhưng đành chịu thôi. Quan trọng là mình phải có lộ trình rõ ràng để báo cáo với các đối tác và cổ đông. 
+[10:15] Thôi, họp vậy là nắm được khung rồi. Mọi người về làm báo cáo khả thi (Feasibility Study) chi tiết từng phần cho tôi nhé.
+[10:18] Dạ rõ ạ!
+[10:21] OK, chào mọi người. 
+
+<|output|>
+# Dự án nâng cấp và hiện đại hóa đội tàu vận tải biển giai đoạn 2025-2030
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiện trạng đội tàu vận tải (già cỗi, tiêu hao nhiên liệu cao, không đạt chuẩn môi trường IMO).
+- Thống nhất phương án đầu tư đóng mới và cải hoán đội tàu để đáp ứng các tiêu chuẩn quốc tế về phát thải (EEXI, CII).
+- Thảo luận về số hóa vận hành, đào tạo nhân lực và phương án tài chính cho dự án quy mô lớn.
+
+### 2. Các vấn đề đã thảo luận
+- **Đóng mới tàu:** Quyết định thanh lý 2 tàu cũ (18 năm tuổi) và đặt đóng mới 2 tàu container sử dụng nhiên liệu kép (Dual-fuel) LNG để giảm phát thải và tăng hiệu suất cạnh tranh.
+- **Cải hoán (Retrofitting):** Đối với 3 tàu còn lại, thực hiện lắp hệ thống làm sạch khí thải Scrubber, bộ cánh quạt tiết kiệm năng lượng và sơn Nano chống hà để kéo dài thời gian khai thác.
+- **Số hóa & Tối ưu hóa:** Lắp đặt hệ thống vệ tinh băng thông rộng và phần mềm Weather Routing để giám sát tiêu thụ nhiên liệu Real-time và tối ưu hóa lộ trình.
+- **Nhân sự:** Xây dựng kế hoạch đào tạo và cấp chứng chỉ vận hành tàu LNG cho đội ngũ thuyền viên nòng cốt.
+- **Tài chính:** Tiếp cận nguồn vốn tín dụng xanh (Green Credit) từ các ngân hàng quốc tế để hưởng lãi suất ưu đãi cho các dự án bảo vệ môi trường.
+- **Logistic:** Phương án thuê tàu ngoài (Chartering) để duy trì dịch vụ trong thời gian các tàu nằm ụ cải hoán.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương đầu tư tổng thể trị giá khoảng 130 triệu USD.
+- Giao phòng Kỹ thuật làm việc với các xưởng đóng tàu tại Hàn Quốc/Trung Quốc để giữ chỗ (Slot).
+- Giao phòng Tài chính hoàn thiện hồ sơ báo cáo tác động môi trường để vay vốn tín dụng xanh.
+- Chốt lộ trình đào tạo thuyền viên bắt đầu từ quý tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập báo cáo khả thi (FS) chi tiết cho dự án đóng mới tàu LNG | Phòng Kỹ thuật | 25/03/2025 |
+| Đàm phán thanh lý 2 tàu cũ với các đối tác thu mua | Phòng Kinh doanh | 15/03/2025 |
+| Hoàn thiện hồ sơ năng lực môi trường để vay vốn xanh | Phòng Tài chính | 30/03/2025 |
+| Tìm kiếm và đặt lịch ụ tàu (Dry-dock) cho việc lắp Scrubber | Phòng Vật tư | 20/03/2025 |
+| Liên hệ Đại học Hàng hải về khóa đào tạo vận hành LNG | Phòng Nhân sự | 10/03/2025 |
+| Đàm phán giá thuê tàu ngoài cho giai đoạn cao điểm | Team Logistics | 18/03/2025 |
+| Khảo sát và lựa chọn đối tác cung cấp hệ thống vệ tinh | Phòng IT | 12/03/2025 |
+| Soạn thảo hợp đồng đặt đóng mới tàu (Shipbuilding Contract) | Phòng Pháp chế | 05/04/2025 |

@@ -1,0 +1,72 @@
+<|input|>
+# Đề án Tái cấu trúc Hệ thống Kho bãi Khu vực Miền Bắc
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả vận hành của hệ thống 3 kho hiện tại (Hà Nội, Bắc Ninh, Hải Phòng).
+- Thảo luận phương án hợp nhất các kho nhỏ lẻ thành một Hub trung tâm (Consolidation Hub) quy mô lớn để tối ưu chi phí và nâng cao năng lực cạnh tranh.
+- Xác định lộ trình di dời hàng hóa, kế hoạch đầu tư công nghệ và phương án xử lý nhân sự, hợp đồng cũ.
+
+### 2. Các vấn đề đã thảo luận
+- **Thực trạng hệ thống cũ:**
+- **Phương án tái cấu trúc:**
+- **Đầu tư công nghệ & Hạ tầng:**
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng Consolidation Hub tại miền Bắc.
+- Đặt mục tiêu hoàn tất việc chọn mặt bằng và lắp đặt thiết bị trong Quý 3/2024; bắt đầu vận hành thử nghiệm trong Quý 4/2024.
+- Giao Lan hoàn thiện Business Case chi tiết và phân tích ROI trình Hội đồng quản trị.
+- Giao Nam khảo sát địa điểm tại các KCN Phố Nối (Hưng Yên) và lên sơ đồ layout kho.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập Business Case và phân tích tài chính dự án | Chị Lan (CFO) | 15/10/2024 |
+| Khảo sát thực địa và chốt địa điểm thuê Hub | Nam (Logistics) | 25/10/2024 |
+| Xây dựng sơ đồ Layout kho và thông số kỹ thuật kệ | Nam & Đội kỹ thuật | 30/10/2024 |
+| Lập kế hoạch di dời hàng hóa chi tiết (Phase-out) | Anh Hùng (COO) | 05/11/2024 |
+| Rà soát nhân sự và làm việc với các chủ kho cũ | Anh Minh & Anh Hùng | 10/11/2024 |
+| Tìm kiếm và báo giá đơn vị cung cấp giải pháp WMS/RFID | Nam | 15/11/2024 |
+[09:52:30] Dạ vâng anh, em sẽ làm cái bản đó ngay trong tuần này. Em sẽ tính toán cả các kịch bản rủi ro nếu quá trình di dời kéo dài hơn dự kiến để mình có phương án dự phòng tài chính luôn ạ.
+[09:56:00] Còn Nam nè, em lo vụ đi khảo sát mặt bằng Hub mới nha. Ưu tiên mấy khu công nghiệp ở Hưng Yên như Phố Nối A, Phố Nối B hoặc khu vực gần nút giao cao tốc. Nhớ check kỹ cái tải trọng sàn kho với lại chiều cao thông thủy nha, mình làm kệ cao tầng nên mấy cái thông số đó quan trọng lắm đó.
+[09:59:30] Dạ em rõ rồi anh Minh. Sáng mai em sẽ bắt đầu đi khảo sát thực địa luôn. Em cũng sẽ làm việc với một vài đơn vị thầu xây dựng kho bãi chuyên nghiệp để họ tư vấn thêm về layout kho sao cho tối ưu nhất cho việc xe container ra vào.
+[10:03:00] Anh Hùng thì giúp em lên cái kế hoạch nhân sự cho Hub mới nha. Mình sẽ cần bao nhiêu người, bộ máy quản lý thế nào, những ai ở kho cũ có thể chuyển sang, những ai cần tuyển mới hoặc đào tạo lại. Cái này anh làm sớm để mình còn làm công tác tư tưởng cho anh em công nhân ở các kho cũ nữa, kẻo họ nghe tin mình đóng kho lại hoang mang rồi xin nghỉ hàng loạt là mình "toang" đó.
+[10:06:30] Ờ, cái này anh lo được. Anh sẽ trực tiếp xuống từng kho để họp với anh em, giải thích cho họ hiểu đây là bước đi để công ty lớn mạnh hơn và quyền lợi của họ sẽ được đảm bảo, thậm chí là tốt hơn khi làm việc ở một môi trường hiện đại. Những anh em ở xa quá không theo được về Hub mới thì mình sẽ có chính sách hỗ trợ thôi việc thỏa đáng cho họ.
+
+<|output|>
+# Đề án Tái cấu trúc Hệ thống Kho bãi Khu vực Miền Bắc
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả vận hành của hệ thống 3 kho hiện tại (Hà Nội, Bắc Ninh, Hải Phòng).
+- Thảo luận phương án hợp nhất các kho nhỏ lẻ thành một Hub trung tâm (Consolidation Hub) quy mô lớn để tối ưu chi phí và nâng cao năng lực cạnh tranh.
+- Xác định lộ trình di dời hàng hóa, kế hoạch đầu tư công nghệ và phương án xử lý nhân sự, hợp đồng cũ.
+- Thống nhất ngân sách dự kiến và phân công trách nhiệm cho các bộ phận liên quan.
+
+### 2. Các vấn đề đã thảo luận
+- **Thực trạng hệ thống cũ:**
+- **Phương án tái cấu trúc:**
+- **Đầu tư công nghệ & Hạ tầng:**
+- **Vấn đề pháp lý & Nhân sự:**
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng Consolidation Hub tại miền Bắc.
+- Đặt mục tiêu hoàn tất việc chọn mặt bằng và lắp đặt thiết bị trong Quý 3/2024; bắt đầu vận hành thử nghiệm trong Quý 4/2024.
+- Giao Lan hoàn thiện Business Case chi tiết và phân tích ROI trình Hội đồng quản trị.
+- Giao Nam khảo sát địa điểm tại các KCN Phố Nối (Hưng Yên) và lên sơ đồ layout kho.
+- Giao anh Hùng xây dựng lộ trình di dời hàng hóa và kế hoạch nhân sự chi tiết.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập Business Case và phân tích tài chính dự án | Chị Lan (CFO) | 15/10/2024 |
+| Khảo sát thực địa và chốt địa điểm thuê Hub | Nam (Logistics) | 25/10/2024 |
+| Xây dựng sơ đồ Layout kho và thông số kỹ thuật kệ | Nam & Đội kỹ thuật | 30/10/2024 |
+| Lập kế hoạch di dời hàng hóa chi tiết (Phase-out) | Anh Hùng (COO) | 05/11/2024 |
+| Rà soát nhân sự và làm việc với các chủ kho cũ | Anh Minh & Anh Hùng | 10/11/2024 |
+| Tìm kiếm và báo giá đơn vị cung cấp giải pháp WMS/RFID | Nam | 15/11/2024 |
+| Trình phê duyệt ngân sách đầu tư cuối cùng | Anh Minh | 20/11/2024 |

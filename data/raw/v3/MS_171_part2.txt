@@ -1,0 +1,67 @@
+<|input|>
+# Thảo luận về danh mục đầu tư và biến động thị trường chứng khoán
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá diễn biến thị trường chứng khoán đầu phiên sáng.
+- Rà soát danh mục đầu tư hiện tại và kế hoạch cơ cấu tài sản.
+
+### 2. Các vấn đề đã thảo luận
+- Nhóm cổ phiếu chứng khoán (SSI, VND) đang tăng mạnh nhờ kỳ vọng vào hệ thống KRX.
+- Đánh giá nhóm ngân hàng: VCB ổn định, STB đang gặp vấn đề về tin tức và tiến độ đấu giá tài sản.
+- Cân nhắc chuyển dịch dòng vốn từ STB sang nhóm đầu tư công (VCG, LCG) hoặc thép (HPG).
+
+### 3. Kết luận và quyết định
+- Theo dõi sát mốc kháng cự 1250 của VNI; nếu không vượt được trong sáng nay, tiến hành hạ tỷ trọng margin vào phiên chiều.
+- Giao bộ phận phân tích theo dõi sát giá HRC thế giới để tìm điểm vào cho nhóm thép.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Theo dõi thị trường và thực hiện lệnh hạ margin nếu cần | Nam - Phòng Đầu tư | 15/12/2024 |
+| Báo cáo chi tiết dòng vốn ngoại và biến động tỷ giá | Lan - Phòng Phân tích | 15/12/2024 |
+
+[08:05:05] Dạ rõ anh. Còn cái vụ danh mục trái phiếu thì sao anh? Bên bộ phận rủi ro mới gửi mail nhắc mình kìa.
+[08:05:30] Trái phiếu thì cứ giữ đó, mấy con mình chọn đều là doanh nghiệp đầu ngành, tài sản đảm bảo ok mà, lo gì. Để anh nói chuyện lại với bên rủi ro sau.
+[08:06:00] À mà Lan ơi, em check lại cho anh cái báo cáo dòng vốn ngoại tuần qua nhé. Thấy tụi nó bán ròng liên tục, không biết có biến gì bên tỷ giá không.
+[08:06:25] Dạ anh, tỷ giá đang căng lắm, chắc tụi ngoại nó rút về bớt để phòng thủ. Em sẽ làm bản report chi tiết rồi gửi anh trước 2h chiều nay nha.
+[08:06:50] Ok em. Mọi người tập trung nhé, giai đoạn này thị trường biến động mạnh, sơ sẩy cái là mất tết như chơi đó.
+[08:07:15] Dạ vâng ạ, tụi em bám sát bảng điện đây.
+[08:07:40] À, sẵn nhắc luôn, vụ cổ tức của con FPT sắp về rồi, Nam check xem thuế má tính toán sao nha, đừng để sai sót như đợt trước.
+[08:08:05] Dạ dạ, em nhớ rồi anh. Lần này em làm kỹ lắm, không để sếp la đâu.
+[08:08:30] Rồi, vậy cứ thế mà làm. Có biến gì hú anh liền nha.
+
+<|output|>
+# Thảo luận về danh mục đầu tư và biến động thị trường chứng khoán
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá diễn biến thị trường chứng khoán đầu phiên sáng.
+- Rà soát danh mục đầu tư hiện tại và kế hoạch cơ cấu tài sản.
+- Kiểm soát rủi ro liên quan đến tỷ trọng margin và dòng vốn ngoại.
+
+### 2. Các vấn đề đã thảo luận
+- Nhóm cổ phiếu chứng khoán (SSI, VND) đang tăng mạnh nhờ kỳ vọng vào hệ thống KRX.
+- Đánh giá nhóm ngân hàng: VCB ổn định, STB đang gặp vấn đề về tin tức và tiến độ đấu giá tài sản.
+- Cân nhắc chuyển dịch dòng vốn từ STB sang nhóm đầu tư công (VCG, LCG) hoặc thép (HPG).
+- Phân tích kỹ thuật VNI: Chỉ số đang gặp kháng cự mạnh tại vùng 1250 với thanh khoản cao.
+- Rủi ro từ dòng vốn ngoại bán ròng và áp lực tỷ giá tăng cao.
+- Nhắc nhở về quản lý danh mục trái phiếu và kiểm soát thuế cổ tức FPT.
+
+### 3. Kết luận và quyết định
+- Theo dõi sát mốc kháng cự 1250 của VNI; nếu không vượt được trong sáng nay, tiến hành hạ tỷ trọng margin vào phiên chiều.
+- Giao bộ phận phân tích theo dõi sát giá HRC thế giới để tìm điểm vào cho nhóm thép.
+- Tiếp tục giữ danh mục trái phiếu do tài sản đảm bảo an toàn.
+- Hoàn thành báo cáo dòng vốn ngoại và tỷ giá trước 14:00 hôm nay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Theo dõi thị trường và thực hiện lệnh hạ margin nếu cần | Nam - Phòng Đầu tư | 15/12/2024 |
+| Báo cáo chi tiết dòng vốn ngoại và biến động tỷ giá | Lan - Phòng Phân tích | 15/12/2024 |
+| Kiểm tra và tính toán thuế cổ tức FPT | Nam - Phòng Đầu tư | 18/12/2024 |
+| Làm việc với bộ phận Quản trị rủi ro về danh mục trái phiếu | Anh Thắng | 20/12/2024 |

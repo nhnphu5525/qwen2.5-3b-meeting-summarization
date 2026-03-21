@@ -1,0 +1,62 @@
+<|input|>
+# **Phát triển ứng dụng AI nhận diện khuôn mặt thế hệ mới cho doanh nghiệp**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:30] Chào team dự án AI-Vision. Hôm nay chúng ta có buổi họp kỹ thuật cực kỳ quan trọng để chốt cái kiến trúc hệ thống và giải quyết các bài toán hóc búa về độ chính xác của con AI nhận diện khuôn mặt mình đang làm.
+[08:33] Dạ thưa anh, thay mặt đội Dev, em xin báo cáo tình hình. Hiện tại mình đang dùng model FaceNet để trích xuất đặc trưng (Feature extraction). Ờ... kết quả test trên tập dữ liệu nội bộ (In-house dataset) thì độ chính xác đạt khoảng 92%. Nhưng mà khi đưa ra môi trường thực tế, ánh sáng yếu hoặc khách hàng đeo khẩu trang là nó "tạch" ngay, tụt xuống còn có 65%.
+[08:36] 65% thì vứt! Ờ... khách hàng họ yêu cầu ít nhất phải 98% trong điều kiện tiêu chuẩn và 90% khi có vật cản nhẹ. Mình có giải pháp gì để nâng cái này lên không?
+[08:39] Thưa sếp, em nghĩ vấn đề nằm ở khâu tiền xử lý (Pre-processing). Hiện tại mình chưa có module cân bằng ánh sáng (Histogram equalization) tốt. Với lại, để giải quyết vụ đeo khẩu trang, mình nên chuyển sang dùng model RetinaFace để detect các landmark trên khuôn mặt, sau đó tập trung vào vùng mắt và trán thôi.
+[08:42] Ờ... dùng RetinaFace thì nặng máy lắm đấy. Cái App mình định chạy trên mấy cái máy chấm công cấu hình thấp (Low-end devices). Nếu nhồi nhét nhiều model quá thì tốc độ nhận diện (Latency) sẽ bị chậm. Khách hàng họ không đợi nổi 5 giây để mở cái cửa đâu.
+[08:45] Dạ, về vấn đề Latency, em đề xuất mình dùng kỹ thuật Quantization để nén model lại. Chuyển từ Float32 sang Int8. Ờ... tốc độ sẽ tăng lên khoảng 3-4 lần mà độ chính xác chỉ giảm tầm 1% thôi ạ.
+[08:48] Quantization là một hướng. Nhưng còn vụ bảo mật thì sao? Ờ... dạo này tụi nó hay dùng ảnh chụp hoặc video để "lừa" AI (Spoofing). Nếu mình không có module Anti-spoofing (Liveness detection) thì coi như hệ thống bảo mật này vô giá trị.
+[08:51] Thưa anh, về Anti-spoofing, em đang nghiên cứu giải pháp dùng chuyển động của mắt (Eye blinking) hoặc yêu cầu người dùng quay đầu nhẹ. Nhưng mà làm vậy thì trải nghiệm người dùng (UX) lại bị phiền phức quá.
+[08:54] Có cách nào làm "thụ động" (Passive Liveness) không? Nghĩa là người dùng không cần làm gì mà mình vẫn biết đó là người thật ấy.
+[08:57] Dạ có ạ. Mình có thể phân tích cấu trúc bề mặt da (Texture analysis) hoặc dùng cảm biến hồng ngoại (IR) nếu phần cứng hỗ trợ. Ờ... nếu máy chấm công có camera hồng ngoại thì mình sẽ phân tích bản đồ nhiệt, ảnh chụp sẽ không có nhiệt độ như người thật.
+[09:00] OK, vậy ưu tiên hỗ trợ camera IR cho các dòng máy cao cấp. Còn dòng giá rẻ thì dùng AI phân tích Texture. Ờ... quay lại vụ Database. Hiện tại mình đang lưu ảnh gốc của khách hàng trên Server à? Cái này vi phạm Luật bảo vệ dữ liệu cá nhân (GDPR/Nghị định 13) đấy nhé.
+[09:03] Dạ không ạ, tụi em chỉ lưu cái Vector đặc trưng (Embedding) gồm 512 số thôi. Từ cái chuỗi số này không thể khôi phục lại ảnh gốc được. Nên sếp yên tâm về vấn đề Privacy.
+[09:06] Tốt. Vậy còn khâu Scale hệ thống thì sao? Ờ... nếu có 10.000 người cùng chấm công một lúc vào lúc 8h sáng thì Server mình có chịu tải nổi không?
+[09:09] Thưa anh, em đang thiết kế theo kiến trúc Microservices, chạy trên Kubernetes. Ờ... mình sẽ dùng Redis để cache các Embedding của những nhân viên thường xuyên đi làm sớm. Như vậy sẽ giảm tải cho DB chính rất nhiều. Tốc độ so khớp (Matching) sẽ dưới 100ms.
+
+<|output|>
+# Phát triển ứng dụng AI nhận diện khuôn mặt thế hệ mới cho doanh nghiệp
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát các thách thức kỹ thuật hiện tại của hệ thống nhận diện khuôn mặt (độ chính xác thấp trong môi trường ánh sáng yếu và khi người dùng đeo khẩu trang).
+- Thống nhất kiến trúc hệ thống, giải pháp bảo mật (Anti-spoofing) và kế hoạch tối ưu hóa hiệu suất cho thiết bị cấu hình thấp.
+
+### 2. Các vấn đề đã thảo luận
+- **Độ chính xác & Model:** Đề xuất chuyển sang dùng model RetinaFace để detect các landmark khi có vật cản.
+- **Tối ưu hiệu suất:** Sử dụng kỹ thuật Quantization (Int8) để tăng tốc độ nhận diện gấp 3-4 lần, đáp ứng yêu cầu Latency thấp.
+- **Bảo mật & Quyền riêng tư:** 
+    - Triển khai module Anti-spoofing (Liveness detection) thụ động dựa trên phân tích Texture da và cảm biến hồng ngoại (IR).
+    - Cam kết không lưu ảnh gốc, chỉ lưu Embedding vector để đảm bảo Privacy.
+- **Hạ tầng & Scale:** Sử dụng Microservices trên Kubernetes kết hợp Redis cache để xử lý tải cao, giảm tốc độ so khớp (Matching) dưới 100ms.
+
+### 3. Kết luận và quyết định
+- Chốt phương án nén model và sử dụng kiến trúc Microservices.
+- Triển khai Anti-spoofing thụ động.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Triển khai nén model bằng kỹ thuật Quantization Int8 | Team AI Dev | 10/03/2025 |
+| Phát triển module Anti-spoofing dựa trên Texture & IR | Team AI Dev | 12/03/2025 |
+| Thiết kế hệ thống Redis Cache cho so khớp 10.000+ user | Team Backend | 13/03/2025 |

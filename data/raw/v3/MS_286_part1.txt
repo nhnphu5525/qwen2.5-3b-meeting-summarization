@@ -1,0 +1,55 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào mọi người, hôm nay chúng ta họp để thảo luận về kế hoạch tuyển dụng nhân sự chất lượng cao cho dự án mở rộng thị trường miền Nam và xem xét lại chính sách giữ chân nhân tài của công ty.
+[14:03] Tôi thấy rằng trong quý vừa qua, tỷ lệ biến động nhân sự tại bộ phận Kinh doanh đang ở mức báo động, lên tới 15%. Chúng ta cần tìm hiểu nguyên nhân gốc rễ.
+[14:06] Qua các buổi phỏng vấn nghỉ việc (exit interview), hầu hết nhân viên đều cho rằng áp lực KPI quá cao trong khi chế độ hoa hồng chưa thực sự hấp dẫn so với các đối thủ cạnh tranh.
+[14:09] Điều này rất đáng lo ngại. Chúng ta không thể chỉ mải mê tuyển mới mà bỏ quên việc chăm sóc những người đang cống hiến.
+[14:12] Tôi đề nghị bộ phận C&B (Lương thưởng & Phúc lợi) thực hiện một cuộc khảo sát lương trên thị trường để điều chỉnh lại dải lương và cấu trúc thưởng cho phù hợp.
+[14:15] Bên cạnh vấn đề thu nhập, môi trường làm việc và lộ trình thăng tiến cũng là yếu tố then chốt. Nhiều bạn trẻ hiện nay rất quan tâm đến cơ hội học tập và phát triển bản thân.
+[14:18] Chúng ta nên xây dựng một "Bản đồ nghề nghiệp" (Career Map) rõ ràng cho từng vị trí, từ nhân viên cấp thấp đến quản lý cấp cao để mọi người có mục tiêu phấn đấu.
+[14:21] Về kế hoạch tuyển dụng cho miền Nam, chúng ta cần ít nhất 20 nhân sự kinh doanh và 5 quản lý khu vực trong vòng 2 tháng tới.
+[14:24] Việc tìm kiếm nhân sự có kinh nghiệm tại thị trường này không hề dễ dàng. Tôi đề xuất chúng ta nên đa dạng hóa các kênh tuyển dụng, từ LinkedIn, các trang web tìm việc đến việc sử dụng dịch vụ Headhunter cho các vị trí quản lý.
+[14:27] Ngoài ra, chương trình "Người giới thiệu" (Referral Program) cũng rất hiệu quả. Chúng ta có thể thưởng cho nhân viên hiện tại nếu họ giới thiệu được ứng viên phù hợp và vượt qua thời gian thử việc.
+
+<|output|>
+# Kế hoạch tuyển dụng và chiến lược quản trị nhân sự bền vững
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân tỷ lệ biến động nhân sự cao và đề xuất giải pháp khắc phục.
+- Lên kế hoạch tuyển dụng nhân sự chất lượng cao cho thị trường miền Nam.
+
+### 2. Các vấn đề đã thảo luận
+- Tỷ lệ nghỉ việc tại bộ phận Kinh doanh tăng cao do áp lực KPI và cơ chế thưởng chưa cạnh tranh.
+- Nhu cầu xây dựng lộ trình thăng tiến (Career Map) rõ ràng để giữ chân nhân tài.
+- Kế hoạch tuyển dụng 25 nhân sự cho văn phòng miền Nam trong 2 tháng.
+
+### 3. Kết luận và quyết định
+- Thực hiện khảo sát lương thị trường để điều chỉnh chính sách thu nhập.
+- Phê duyệt ngân sách cho kế hoạch tuyển dụng và đào tạo quý tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thực hiện khảo sát lương thị trường | Bộ phận C&B | 25/04/2024 |
+| Đăng tin tuyển dụng miền Nam | Bộ phận Tuyển dụng | 10/04/2024 |

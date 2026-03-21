@@ -1,0 +1,50 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00:00] Chào chị Lan, chào Nam với lại Phương nha. Sáng nay mình ngồi lại chút để coi cái báo cáo tài chính quý 3 vừa rồi. Chị Lan thấy con số tổng quát sao chị?
+[09:02:15] Ờ, thì nhìn chung là doanh thu mình vẫn tăng trưởng so với quý 2 đó Nam, khoảng 15%. Nhưng mà cái chị lo là cái biên lợi nhuận gộp nó đang mỏng dần đi. Quý này chỉ còn có 18% thôi, trong khi mục tiêu mình đặt ra là phải 22%.
+[09:04:30] Dạ vầy nè chị, cái này em có check bên mảng vận hành thì thấy chi phí logistics tăng đột biến trong tháng 8 với tháng 9. Do giá xăng dầu nó nhảy múa quá, rồi mấy cái phụ phí cảng biển cũng tăng nữa nên nó lẹm vào lợi nhuận của mình dữ lắm.
+[09:06:45] Phương ơi, bên mảng kinh doanh có báo cáo gì về vụ này không? Có phải do mình chạy khuyến mãi nhiều quá không mà doanh thu tăng nhưng tiền lời lại không thấy đâu hết trơn vậy?
+[09:09:00] Dạ anh, đúng là quý vừa rồi mình có đẩy mạnh mấy cái campaign "Trung thu rộn ràng" với lại "Chào thu". Chiết khấu cho đại lý có lúc lên tới 10-12% để đẩy hàng tồn kho cũ đi. Cái này thì mình đạt được mục tiêu là giải phóng kho, nhưng đúng là nó làm ảnh hưởng tới cái net profit cuối cùng thiệt.
+[09:11:15] Ừa, anh thấy cái khoản nợ phải thu cũng tăng lên kìa chị Lan. Đâu đó gần 40 tỷ rồi. Mấy đại lý họ ngâm vốn mình lâu quá, có mấy đơn từ tháng 7 mà giờ vẫn chưa thấy ting ting về tài khoản nữa.
+[09:13:30] Đúng rồi đó, chị đang định nói vụ này. Bên kế toán có lọc ra danh sách 5 đại lý lớn nhất đang nợ quá hạn trên 30 ngày. Phương coi lại chỗ này giùm chị cái. Nếu họ không thanh toán dứt điểm trong tháng 10 này thì chắc mình phải tạm ngưng cấp hàng mới cho họ thôi, chứ cứ gối đầu kiểu này rủi ro lắm.
+
+<|output|>
+# Review Báo cáo Tài chính Quý 3 và Kế hoạch Quý 4
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá kết quả hoạt động tài chính trong Quý 3.
+- Phân tích nguyên nhân khiến biên lợi nhuận gộp giảm sút dù doanh thu tăng trưởng.
+
+### 2. Các vấn đề đã thảo luận
+- **Kết quả Quý 3:** Doanh thu tăng 15% so với Quý 2 nhưng biên lợi nhuận gộp chỉ đạt 18% (thấp hơn mục tiêu 22%).
+- **Nguyên nhân biên lợi nhuận thấp:**
+
+### 3. Kết luận và quyết định
+- Ưu tiên hàng đầu là thu hồi ít nhất 20 tỷ tiền nợ trong tháng 10.
+- Tạm ngưng cấp hàng cho các đại lý nợ quá hạn nếu không thanh toán dứt điểm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thu hồi nợ quá hạn từ 5 đại lý lớn | Phương (Team Sales) | 31/10/2024 |
+| Chạy thử nghiệm đơn vị logistics mới | Nam | 15/10/2024 |

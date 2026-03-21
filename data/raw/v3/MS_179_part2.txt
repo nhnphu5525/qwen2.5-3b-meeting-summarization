@@ -1,0 +1,57 @@
+<|input|>
+# Chiến lược mở rộng chuỗi cửa hàng bán lẻ tại khu vực miền Tây
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng lộ trình mở rộng hệ thống bán lẻ vào thị trường miền Tây Nam Bộ.
+
+### 2. Các vấn đề đã thảo luận
+- Lựa chọn mặt bằng: Ưu tiên các ngã tư lớn tại Cần Thơ và khu vực gần các khu công nghiệp tại Long An để tận dụng sức mua FMCG.
+- Logistics: Quyết định thuê kho trung chuyển (DC) tại Bình Minh, Vĩnh Long để tối ưu hóa việc phân phối và giảm chi phí vận hành.
+
+### 3. Kết luận và quyết định
+- Phê duyệt kế hoạch thuê kho tại Vĩnh Long và đầu tư hệ thống bảo quản lạnh tiêu chuẩn Đức.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát và ký hợp đồng thuê kho tại Vĩnh Long | Anh Hoàng | 20/12/2024 |
+| Liên hệ và chốt danh sách hợp tác xã cung ứng nông sản | Bộ phận Thu mua | 25/12/2024 |
+
+[08:36:00] Cái đó thì mình phải đào tạo (training) kỹ vô. Phải cho họ thấy cái văn hóa phục vụ của mình là trên hết. Anh muốn mỗi nhân viên phải như một người hàng xóm thân thiết của khách hàng vậy đó.
+[08:36:45] Em thấy mình cũng nên có mấy cái chương trình khuyến mãi đặc thù cho vùng miền. Ví dụ như mùa nước nổi thì tặng áo mưa, ủng hay là có mấy combo đồ cúng rằm chẳng hạn. Dân dưới đó họ tâm linh lắm.
+[08:37:30] Ý tưởng hay đó! Lan ghi chú lại phần này nha. Marketing phải làm sao để họ thấy mình không phải là một "ông lớn" từ Sài Gòn xuống chiếm địa bàn, mà mình là người đồng hành cùng sự phát triển của địa phương.
+[08:38:15] Dạ em ghi rồi anh. Em tính mình sẽ mời mấy anh nghệ sĩ cải lương hay mấy bạn TikToker miền Tây về làm đại diện hình ảnh cho ngày khai trương. Chắc chắn là bà con sẽ kéo tới xem đông lắm.
+[08:39:00] Ừ, cải lương là "đặc sản" dưới đó rồi, cứ triển đi. Mà vụ pháp lý thì sao hả Huy? Ba cái giấy phép xây dựng với phòng cháy chữa cháy dưới đó có căng không?
+[08:39:45] Dạ cũng hơi rắc rối tí anh ơi. Mỗi tỉnh lại có một quy định hơi khác nhau chút xíu. Em đang phải nhờ mấy mối quan hệ cũ dưới đó để đẩy nhanh tiến độ, chứ đợi làm theo quy trình bình thường chắc tới tết Sang năm mới xong quá.
+[08:40:30] Thôi ráng đi em, cái gì cũng phải đúng luật nha. Đừng có đi cửa sau rồi sau này bị thanh tra là mệt lắm đó. Mình làm ăn lớn mà, phải chuẩn chỉ từ đầu.
+[08:41:15] Dạ em biết mà anh. À, còn vụ đối thủ cạnh tranh nữa. Tụi Bách Hóa Xanh với WinMart họ cũng đang phủ sóng ác lắm. Mình đi sau thì phải có cái gì đó thật sự đột phá về giá hoặc trải nghiệm thì mới kéo khách được.
+
+<|output|>
+# Chiến lược mở rộng chuỗi cửa hàng bán lẻ tại khu vực miền Tây
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng lộ trình mở rộng hệ thống bán lẻ vào thị trường miền Tây Nam Bộ.
+- Thống nhất các phương án về vị trí, logistics, nhân sự và chiến lược marketing đặc thù vùng miền.
+
+### 2. Các vấn đề đã thảo luận
+- Lựa chọn mặt bằng: Ưu tiên các ngã tư lớn tại Cần Thơ và khu vực gần các khu công nghiệp tại Long An để tận dụng sức mua FMCG.
+- Logistics: Quyết định thuê kho trung chuyển (DC) tại Bình Minh, Vĩnh Long để tối ưu hóa việc phân phối và giảm chi phí vận hành.
+- Chuỗi cung ứng: Áp dụng mô hình "hàng địa phương", nhập hàng trực tiếp từ các hợp tác xã và nhà vườn để đảm bảo độ tươi ngon và giá cạnh tranh.
+- Nhân sự: Ưu tiên tuyển dụng lao động địa phương và tổ chức đào tạo chuyên sâu về văn hóa phục vụ khách hàng.
+
+### 3. Kết luận và quyết định
+- Phê duyệt kế hoạch thuê kho tại Vĩnh Long và đầu tư hệ thống bảo quản lạnh tiêu chuẩn Đức.
+- Giao bộ phận thu mua liên hệ với Sở Công Thương các tỉnh để thiết lập mạng lưới nhà cung cấp nông sản địa phương.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát và ký hợp đồng thuê kho tại Vĩnh Long | Anh Hoàng | 20/12/2024 |
+| Liên hệ và chốt danh sách hợp tác xã cung ứng nông sản | Bộ phận Thu mua | 25/12/2024 |
+| Hoàn tất thủ tục xin phép xây dựng và PCCC | Huy - Phòng Pháp lý | 15/01/2025 |

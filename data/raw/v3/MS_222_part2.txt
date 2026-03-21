@@ -1,0 +1,72 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Kiểm toán Thuế
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho quyết toán thuế
+- Thiếu dữ liệu để đánh giá quyết toán thuế
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện kê khai thuế
+- Phê duyệt ngân sách bổ sung cho kê khai thuế
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ kê khai thuế | Chị Vân | 01/06/2026 |
+| Họp nhóm để bàn sâu về kiểm tra nội bộ | Phòng Kỹ thuật | 22/09/2026 |
+
+[08:52] Cái hóa đơn chứng từ này hình như đang bị vướng chỗ nào đó đúng không?
+[08:53] Cảm ơn mọi người, buổi họp về Kiểm toán Thuế hôm nay rất chất lượng.
+[09:18] Tôi đề xuất mình sẽ tập trung nguồn lực vào chi phí hợp lệ trong tuần này.
+[09:20] Tôi đề xuất mình sẽ tập trung nguồn lực vào kiểm tra nội bộ trong tuần này.
+[08:56] Vâng Nói chung là mình phải chốt phương án cho chi phí hợp lệ ngay trong hôm nay.
+[08:57] Cảm ơn mọi người, buổi họp về Kiểm toán Thuế hôm nay rất chất lượng.
+[08:58] Chào cả nhà, chúng ta bắt đầu bàn về kiểm tra nội bộ nhé.
+[09:28] Hình như Tôi nghĩ là mình nên xem xét lại cái kê khai thuế này một chút.
+[09:30] Ờm Tôi đề xuất mình sẽ tập trung nguồn lực vào kê khai thuế trong tuần này.
+[09:01] Ờm Mọi người có thấy vụ quyết toán thuế dạo này bị chậm không?
+[09:34] Cần phải làm rõ thêm các chi tiết liên quan đến quyết toán thuế.
+[09:36] Hình như Thế còn ngân sách cho chi phí hợp lệ thì sao hả mọi người?
+[09:04] Có ai phụ trách chính cho mảng kê khai thuế chưa nhỉ?
+[09:40] À Thôi được rồi, vậy thống nhất là làm hóa đơn chứng từ theo cách đó.
+[09:06] Tóm lại là Tôi đồng ý với ý kiến về quyết toán thuế, nên làm quyết liệt hơn.
+[09:07] Thực ra thì luật thuế không phải là mục tiêu duy nhất của mình.
+[09:46] Liệu mình có thể đẩy nhanh tiến độ cho chi phí hợp lệ được không?
+[09:48] Thì Tôi đồng ý với ý kiến về hoàn thuế, nên làm quyết liệt hơn.
+[09:10] Đừng quên là hoàn thuế cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:11] Ờm, cái kiểm tra nội bộ này thực ra là một vấn đề khá nan giải.
+[09:12] Tóm lại là Tôi đề xuất mình sẽ tập trung nguồn lực vào kê khai thuế trong tuần này.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Kiểm toán Thuế
+- Giải quyết các vấn đề về hoàn thuế
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho quyết toán thuế
+- Thiếu dữ liệu để đánh giá quyết toán thuế
+- Khó khăn trong việc phối hợp giữa các bên về kê khai thuế
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện kê khai thuế
+- Phê duyệt ngân sách bổ sung cho kê khai thuế
+- Thiết lập nhóm đặc trách xử lý hoàn thuế
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ kê khai thuế | Chị Vân | 01/06/2026 |
+| Họp nhóm để bàn sâu về kiểm tra nội bộ | Phòng Kỹ thuật | 22/09/2026 |
+| Gửi email xác nhận với đối tác về hoàn thuế | Ban điều hành | 25/08/2026 |
+| Lập báo cáo chi tiết cho quyết toán thuế | Bộ phận Tài chính | 28/11/2026 |

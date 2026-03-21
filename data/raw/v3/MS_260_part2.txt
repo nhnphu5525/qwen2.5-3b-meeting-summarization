@@ -1,0 +1,51 @@
+<|input|>
+# Đánh giá Dự án Đầu tư Năng lượng Tái tạo Ninh Thuận
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tính khả thi về tài chính, kỹ thuật và pháp lý của dự án điện gió kết hợp điện mặt trời tại Ninh Thuận.
+
+### 2. Các vấn đề đã thảo luận
+- Hiệu quả tài chính: IRR dự kiến 12-14% nhưng có nguy cơ tụt giảm nếu bị cắt giảm công suất do quá tải lưới điện quốc gia.
+- Giải pháp kỹ thuật: Đề xuất lắp đặt hệ thống lưu trữ pin (BESS) để tối ưu hóa dòng tiền và giá bán điện, dù làm tăng vốn đầu tư (CAPEX).
+
+### 3. Kết luận và quyết định
+- Yêu cầu team phân tích chạy lại mô hình tài chính với kịch bản tích hợp BESS, chi phí vận hành thực tế và chi phí phòng vệ tỷ giá.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật mô hình tài chính (BESS, OPEX, Hedging) | Anh Long (Phân tích) | 15/04/2025 |
+| Khảo sát thực địa và xác minh pháp lý tại Ninh Thuận | Chị Lan & Anh Minh | 10/04/2025 |
+
+[14:20] Chào anh Tuấn, tôi đã chạy thử kịch bản có BESS. Đúng là vốn đầu tư tăng, nhưng nó giúp dòng tiền ổn định hơn và quan trọng là chúng ta có thể bán điện với giá cao hơn vào các giờ cao điểm theo biểu giá mới của Bộ Công thương đang dự thảo. IRR lúc này rơi vào khoảng 10.5%. Chào anh Quang, tôi là Minh bên bộ phận Pháp lý. Tôi muốn bổ sung một vấn đề cực kỳ quan trọng là quy hoạch điện VIII mới vừa được phê duyệt. Dự án này liệu có nằm trong danh mục ưu tiên triển khai ngay hay thuộc nhóm dự phòng đến sau năm 2030? Nếu bị đẩy lùi tiến độ, chi phí vốn vay sẽ bào mòn lợi nhuận của chúng ta.
+[14:25] Chào Minh, theo thông tin tôi có được từ Sở Công thương Ninh Thuận, dự án này đã có đầy đủ giấy phép quy hoạch và đang hoàn thiện báo cáo đánh giá tác động môi trường (DTM). Chào mọi người, tôi là Lan bên bộ phận Đối ngoại. Việc giải phóng mặt bằng tại khu vực dự án đang gặp chút khó khăn do có khoảng 10 hộ dân chưa đồng ý với mức đền bù. Mặc dù diện tích này không lớn nhưng nó nằm ngay vị trí các trụ turbine gió quan trọng. Chủ đầu tư cam kết sẽ giải quyết dứt điểm trong quý 2 năm nay.
+[14:30] Chào Lan, cam kết của chủ đầu tư là một chuyện, nhưng thực tế thường kéo dài hơn rất nhiều. Chào anh Quang, tôi đề xuất chúng ta chỉ nên giải ngân theo tiến độ bàn giao mặt bằng thực tế. Ngoài ra, chúng ta cần xem xét kỹ năng lực quản lý vận hành của chủ đầu tư. Họ đã từng vận hành dự án nào quy mô tương tự chưa? Chào chị Thủy, đây là dự án đầu tay của họ trong mảng điện gió, dù họ đã có kinh nghiệm làm điện mặt trời áp mái. Đây cũng là một yếu tố rủi ro cần xem xét.
+
+<|output|>
+# Đánh giá Dự án Đầu tư Năng lượng Tái tạo Ninh Thuận
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tính khả thi về tài chính, kỹ thuật và pháp lý của dự án điện gió kết hợp điện mặt trời tại Ninh Thuận.
+- Nhận diện các rủi ro về truyền tải điện, giải phóng mặt bằng và huy động vốn.
+
+### 2. Các vấn đề đã thảo luận
+- Hiệu quả tài chính: IRR dự kiến 12-14% nhưng có nguy cơ tụt giảm nếu bị cắt giảm công suất do quá tải lưới điện quốc gia.
+- Giải pháp kỹ thuật: Đề xuất lắp đặt hệ thống lưu trữ pin (BESS) để tối ưu hóa dòng tiền và giá bán điện, dù làm tăng vốn đầu tư (CAPEX).
+- Pháp lý và Quy hoạch: Cần xác minh dự án có nằm trong danh mục ưu tiên của Quy hoạch điện VIII hay không.
+
+### 3. Kết luận và quyết định
+- Yêu cầu team phân tích chạy lại mô hình tài chính với kịch bản tích hợp BESS, chi phí vận hành thực tế và chi phí phòng vệ tỷ giá.
+- Cử đoàn công tác đi thực địa tại Ninh Thuận để kiểm tra thực trạng giải phóng mặt bằng và làm việc với chính quyền địa phương.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật mô hình tài chính (BESS, OPEX, Hedging) | Anh Long (Phân tích) | 15/04/2025 |
+| Khảo sát thực địa và xác minh pháp lý tại Ninh Thuận | Chị Lan & Anh Minh | 10/04/2025 |
+| Làm việc với các quỹ xanh quốc tế về nguồn vốn ESG | Anh Bình (Nguồn vốn) | 20/04/2025 |

@@ -1,0 +1,55 @@
+<|input|>
+# Chiến lược mở rộng hệ thống đại lý khu vực miền Trung năm 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng đề án tổng thể để mở rộng thị phần tại khu vực miền Trung, tập trung vào việc thiết lập hệ thống đại lý cấp 1 tại các tỉnh còn trống.
+
+### 2. Các vấn đề đã thảo luận
+- **Hạ tầng kho vận:** Khoảng cách địa lý từ hai đầu đất nước khiến phí vận chuyển cao. Thống nhất xây dựng kho trung chuyển tại Đà Nẵng để phục vụ toàn bộ khu vực miền Trung và Tây Nguyên.
+- **Chính sách đại lý:** Áp dụng mức chiết khấu ưu đãi 32-35% cho các đại lý mới trong quý I/2025. Hỗ trợ kinh phí trang trí showroom theo 3 cấp độ (Diamond, Gold, Silver) để tăng tính chuyên nghiệp và cam kết.
+
+### 3. Kết luận và quyết định
+- Chốt Đà Nẵng là địa điểm đặt kho trung chuyển và trạm kỹ thuật chính của khu vực miền Trung.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tìm kiếm mặt bằng và báo giá kho trung chuyển tại Đà Nẵng | Nam - Phòng Kinh doanh | 15/12/2024 |
+| Hoàn thiện Media Plan và kịch bản Hội nghị khách hàng | Lan - Phòng Marketing | 10/12/2024 |
+[09:21:45] Ờ, Đà Nẵng là hợp lý nhất. Còn về chính sách chiết khấu (discount) cho đại lý mới thì sao hả Nam? Mình có nên chơi sát ván để giành giật thị phần không?
+[09:24:00] Dạ em tính là đối với 10 đại lý đầu tiên ký hợp đồng trong quý I/2025 ở các tỉnh mới, mình sẽ áp dụng mức chiết khấu "Welcome" lên tới 35% cho đơn hàng đầu tiên. Sau đó duy trì ở mức 25-28% tùy doanh số. Như vậy mới đủ sức hút họ bỏ mấy nhãn hàng cũ để qua với mình.
+[09:27:15] 35% thì hơi cao đó Nam ơi, biên lợi nhuận của mình mỏng lắm. Hay là mình giảm xuống 32% nhưng bù lại mình hỗ trợ họ làm bảng hiệu, kệ trưng bày với trang trí showroom?
+[09:30:30] Dạ ý kiến chị Lan hay á. Đại lý miền Trung họ rất trọng cái "mặt tiền". Nếu mình hỗ trợ họ làm showroom đẹp, hoành tráng thì họ sẽ cảm thấy mình có cam kết lâu dài với họ.
+[09:33:45] Nhất trí. Vậy Nam lên cái bảng dự toán chi phí cho việc hỗ trợ showroom này nha. Mình phân làm 3 cấp độ: Diamond, Gold và Silver tùy theo diện tích cửa hàng của họ.
+[09:36:00] Còn vụ cạnh tranh thì sao? Em nghe nói đối thủ trực tiếp của mình là bên Long Hải đang chuẩn bị tung ra dòng sản phẩm giá rẻ ở khu vực này đó.
+[09:39:15] Dạ đúng rồi chị, bên Long Hải họ đang đánh mạnh vào phân khúc khách hàng bình dân ở nông thôn miền Trung. Sản phẩm của họ chất lượng không bằng mình nhưng giá rẻ hơn khoảng 15-20%.
+[09:42:30] Ờ, mình không thể chạy đua về giá với họ được, vì định vị của mình là hàng trung cao cấp. Cách của mình là phải làm bật lên cái sự khác biệt về dịch vụ hậu mãi và bảo hành. Lan nghiên cứu xem mình có thể cam kết bảo hành tận nơi trong vòng 24h ở khu vực miền Trung không?
+
+<|output|>
+# Chiến lược mở rộng hệ thống đại lý khu vực miền Trung năm 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng đề án tổng thể để mở rộng thị phần tại khu vực miền Trung, tập trung vào việc thiết lập hệ thống đại lý cấp 1 tại các tỉnh còn trống.
+- Giải quyết các bài toán về chi phí vận chuyển, kho bãi và nhân sự địa phương.
+
+### 2. Các vấn đề đã thảo luận
+- **Hạ tầng kho vận:** Khoảng cách địa lý từ hai đầu đất nước khiến phí vận chuyển cao. Thống nhất xây dựng kho trung chuyển tại Đà Nẵng để phục vụ toàn bộ khu vực miền Trung và Tây Nguyên.
+- **Chính sách đại lý:** Áp dụng mức chiết khấu ưu đãi 32-35% cho các đại lý mới trong quý I/2025. Hỗ trợ kinh phí trang trí showroom theo 3 cấp độ (Diamond, Gold, Silver) để tăng tính chuyên nghiệp và cam kết.
+- **Cạnh tranh:** Đối mặt với dòng sản phẩm giá rẻ của đối thủ Long Hải. Chiến lược đề ra là không chạy đua giá mà tập trung vào dịch vụ hậu mãi (Bảo hành tận nơi trong 24h-48h).
+
+### 3. Kết luận và quyết định
+- Chốt Đà Nẵng là địa điểm đặt kho trung chuyển và trạm kỹ thuật chính của khu vực miền Trung.
+- Phê duyệt chủ trương tuyển dụng nhân sự sales địa phương ngay trong tháng 12/2024.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tìm kiếm mặt bằng và báo giá kho trung chuyển tại Đà Nẵng | Nam - Phòng Kinh doanh | 15/12/2024 |
+| Hoàn thiện Media Plan và kịch bản Hội nghị khách hàng | Lan - Phòng Marketing | 10/12/2024 |
+| Soạn thảo bộ chính sách chiết khấu và hỗ trợ showroom mới | Nam - Phòng Kinh doanh | 05/12/2024 |

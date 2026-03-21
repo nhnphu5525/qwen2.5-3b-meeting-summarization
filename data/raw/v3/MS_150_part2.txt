@@ -1,0 +1,50 @@
+<|input|>
+# Chiến lược Chuyển đổi số Toàn diện Tập đoàn Giai đoạn 2026-2030
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hình tầm nhìn chiến lược chuyển đổi số toàn diện cho giai đoạn 5 năm tới (2026-2030).
+
+### 2. Các vấn đề đã thảo luận
+- **Tầm nhìn 2030:** Chuyển mình từ doanh nghiệp bán sản phẩm truyền thống thành một doanh nghiệp dựa trên dữ liệu (Data-Driven Company), lấy công nghệ làm cốt lõi của mô hình kinh doanh.
+
+### 3. Kết luận và quyết định
+- Phê duyệt khung chiến lược chuyển đổi số 2026-2030 với 4 trụ cột và lộ trình 2 giai đoạn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản thảo chiến lược 2026-2030 chi tiết | Minh (IT/Chiến lược) | 15/11/2024 |
+| Lập dự toán ngân sách chi tiết cho Giai đoạn 1 (2026-2027) | Chị Lan (CFO) | 30/11/2024 |
+[08:16:00] Đúng rồi đó Minh. Chị nhiều khi muốn xem dòng tiền thời gian thực (real-time cash flow) để ra quyết định đầu tư nhanh mà cứ phải đợi đến cuối tháng mới có số liệu chốt sổ từ các chi nhánh gởi về. Chậm trễ như vậy là mình mất hết cơ hội kinh doanh. Chị hoàn toàn ủng hộ việc xây dựng một cái nền tảng dữ liệu tập trung (Data Warehouse hoặc Data Lake) để mọi phòng ban có thể truy cập vào một "nguồn sự thật duy nhất" (Single Source of Truth).
+[08:21:30] Ờ, cái vụ Data Lake đó anh thấy hay đó. Nhưng mà anh Hùng ơi, bên mảng sản xuất của anh thì sao? Chuyển đổi số trong nhà máy mình định làm gì? Anh thấy mấy đối thủ họ bắt đầu nói về "Smart Factory" với lại "Digital Twin" rồi đó. Mình có định đưa mấy cái đó vào giai đoạn 2026-2030 không?
+[08:27:00] Báo cáo anh Thắng, đó chính là cái mà em đang ấp ủ đây ạ. Hiện tại dây chuyền mình đã tự động hóa khoảng 60% rồi, nhưng mà nó chưa "thông minh". Giai đoạn tới, em muốn lắp đặt hệ thống cảm biến IoT (Internet of Things) trên toàn bộ máy móc. Dữ liệu từ cảm biến sẽ đổ về hệ thống AI để dự báo hư hỏng (Predictive Maintenance). Thay vì đợi máy hỏng mới sửa, mình sẽ biết trước nó sắp hỏng để thay linh kiện, như vậy sẽ giảm được ít nhất 20% thời gian dừng máy ngoài kế hoạch. Còn về "Digital Twin", em dự định sẽ mô phỏng lại toàn bộ quy trình sản xuất trên không gian ảo để mình có thể thử nghiệm các kịch bản tối ưu hóa trước khi áp dụng thực tế vào nhà xưởng.
+[08:32:30] Wow, nghe như phim viễn tưởng vậy anh Hùng! Nhưng mà Nam nè, em bên mảng Nhân sự, em thấy anh em công nhân với nhân viên văn phòng mình có theo kịp cái tốc độ thay đổi này không? Anh lo nhất là công nghệ thì hiện đại mà con người thì vẫn dùng tư duy cũ thì cũng bằng thừa.
+
+<|output|>
+# Chiến lược Chuyển đổi số Toàn diện Tập đoàn Giai đoạn 2026-2030
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hình tầm nhìn chiến lược chuyển đổi số toàn diện cho giai đoạn 5 năm tới (2026-2030).
+- Xác định các trụ cột chính, lộ trình thực hiện và các mục tiêu định lượng (OKRs/KPIs).
+
+### 2. Các vấn đề đã thảo luận
+- **Tầm nhìn 2030:** Chuyển mình từ doanh nghiệp bán sản phẩm truyền thống thành một doanh nghiệp dựa trên dữ liệu (Data-Driven Company), lấy công nghệ làm cốt lõi của mô hình kinh doanh.
+- **Bốn trụ cột chiến lược:**
+
+### 3. Kết luận và quyết định
+- Phê duyệt khung chiến lược chuyển đổi số 2026-2030 với 4 trụ cột và lộ trình 2 giai đoạn.
+- Đặt mục tiêu năm 2030: Tự động hóa đạt 90%, doanh thu số chiếm 60%, giảm 50% Time-to-market.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản thảo chiến lược 2026-2030 chi tiết | Minh (IT/Chiến lược) | 15/11/2024 |
+| Lập dự toán ngân sách chi tiết cho Giai đoạn 1 (2026-2027) | Chị Lan (CFO) | 30/11/2024 |
+| Khảo sát năng lực số hiện tại của nhân viên tập đoàn | Nam (Nhân sự) | 20/11/2024 |
+| Đề xuất danh mục thiết bị IoT và AI cho nhà máy mẫu | Anh Hùng (Sản xuất) | 05/12/2024 |

@@ -1,0 +1,70 @@
+<|input|>
+# Xử lý tình trạng tỷ lệ phế phẩm tăng cao tại dây chuyền sản xuất số 2
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân gốc rễ khiến tỷ lệ phế phẩm tại dây chuyền số 2 tăng từ 2% lên 9%.
+- Đề xuất các biện pháp khắc phục ngay lập tức để giảm thiểu thiệt hại.
+
+### 2. Các vấn đề đã thảo luận
+- Lỗi lệch kích thước: Nghi vấn do chất lượng phôi thép từ nhà cung cấp mới không đồng nhất và sự co ngót nhiệt vào ca đêm.
+- Lỗi trầy xước bề mặt: Do miếng đệm cao su trên băng tải bị mòn, làm lộ khung sắt gây va chạm với sản phẩm.
+- Vấn đề nguyên liệu: Bên thu mua tự ý đổi nhà cung cấp phôi thép giá rẻ mà chưa qua kiểm định kỹ thuật.
+
+### 3. Kết luận và quyết định
+- Tạm dừng sử dụng lô phôi thép mới, chuyển sang sử dụng lô cũ để đối chứng và ổn định sản xuất.
+- Thay mới toàn bộ hệ thống đệm cao su băng tải và vệ sinh bể nước làm mát ngay trong ngày.
+- Tổ chức buổi đào tạo kỹ năng vận hành (Retraining) cho nhóm công nhân mới tại ca 2.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thay thế đệm cao su băng tải và vệ sinh máy | Tổ bảo trì | 15/12/2024 |
+| Đào tạo lại thao tác vận hành cho công nhân ca 2 | Quản lý xưởng | 16/12/2024 |
+| Kiểm định lại chất lượng lô phôi thép mới | Bộ phận KCS | 17/12/2024 |
+
+[10:05:00] Cái này là lỗi bảo trì định kỳ nè! Ông quản lý xưởng đâu, sao không cho anh em kiểm tra thay thế thường xuyên? Đợi tới lúc nó hỏng rồi mới cuống cuồng lên là sao?
+[10:05:30] Dạ em xin lỗi anh Sơn, đợt rồi nhiều đơn hàng quá, anh em tăng ca liên tục nên cũng lơ là khâu bảo trì. Em sẽ cho thay mới toàn bộ miếng đệm ngay trong chiều nay.
+[10:06:00] Thay miếng đệm xong thì nhớ vệ sinh luôn cả cái hệ thống làm mát nha. Tôi thấy nước làm mát nó đục ngầu hà, ảnh hưởng đến độ bóng của sản phẩm dữ lắm đó.
+[10:06:30] Dạ rõ anh. Còn một chuyện nữa là mấy bạn công nhân mới ở ca 2 tay nghề còn yếu quá, thao tác đặt phôi vô máy cứ bị lệch hoài. Chắc em phải xin anh cho tổ chức đào tạo lại một buổi.
+[10:07:00] Ừ, đào tạo lại đi. Chứ máy xịn mà người vận hành dở thì cũng vứt. À, ông ghi lại nhật ký sản xuất kỹ vô, để tôi còn làm việc với bên thu mua đòi bồi thường cái lô phôi lỏm kia nữa.
+[10:07:30] Dạ em ghi chép đầy đủ lắm, có cả ảnh chụp phế phẩm luôn đây nè anh.
+[10:08:00] Ok, tốt. Chốt lại nè: thay phôi cũ, thay đệm băng tải, vệ sinh hệ thống làm mát và training lại công nhân. Tôi cho các ông 2 ngày để đưa tỷ lệ phế phẩm về lại dưới 2% nha. Không được là tôi cắt thưởng cả xưởng đó.
+[10:08:30] Dạ tụi em sẽ cố hết sức ạ. Quyết tâm không để mất thưởng đâu anh ơi!
+[10:09:00] Rồi, làm đi. Tôi đi check xưởng số 3 cái đã.
+
+<|output|>
+# Xử lý tình trạng tỷ lệ phế phẩm tăng cao tại dây chuyền sản xuất số 2
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân gốc rễ khiến tỷ lệ phế phẩm tại dây chuyền số 2 tăng từ 2% lên 9%.
+- Đề xuất các biện pháp khắc phục ngay lập tức để giảm thiểu thiệt hại.
+- Chấn chỉnh công tác bảo trì và quản lý chất lượng nguyên liệu đầu vào.
+
+### 2. Các vấn đề đã thảo luận
+- Lỗi lệch kích thước: Nghi vấn do chất lượng phôi thép từ nhà cung cấp mới không đồng nhất và sự co ngót nhiệt vào ca đêm.
+- Lỗi trầy xước bề mặt: Do miếng đệm cao su trên băng tải bị mòn, làm lộ khung sắt gây va chạm với sản phẩm.
+- Vấn đề nguyên liệu: Bên thu mua tự ý đổi nhà cung cấp phôi thép giá rẻ mà chưa qua kiểm định kỹ thuật.
+- Công tác bảo trì: Bị lơ là do áp lực tiến độ đơn hàng, dẫn đến thiết bị xuống cấp (miếng đệm mòn, nước làm mát bẩn).
+- Nhân sự: Công nhân mới ở ca 2 chưa thuần thục thao tác, gây ra lỗi chủ quan khi vận hành máy.
+
+### 3. Kết luận và quyết định
+- Tạm dừng sử dụng lô phôi thép mới, chuyển sang sử dụng lô cũ để đối chứng và ổn định sản xuất.
+- Thay mới toàn bộ hệ thống đệm cao su băng tải và vệ sinh bể nước làm mát ngay trong ngày.
+- Tổ chức buổi đào tạo kỹ năng vận hành (Retraining) cho nhóm công nhân mới tại ca 2.
+- Giao bộ phận kỹ thuật lập hồ sơ sự cố để làm việc với bên thu mua và yêu cầu nhà cung cấp bồi thường.
+- Đặt mục tiêu đưa tỷ lệ phế phẩm về mức an toàn (<2%) trong vòng 48 giờ tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thay thế đệm cao su băng tải và vệ sinh máy | Tổ bảo trì | 15/12/2024 |
+| Đào tạo lại thao tác vận hành cho công nhân ca 2 | Quản lý xưởng | 16/12/2024 |
+| Kiểm định lại chất lượng lô phôi thép mới | Bộ phận KCS | 17/12/2024 |
+| Làm việc với nhà cung cấp về việc bồi thường | Bộ phận Thu mua | 20/12/2024 |
+| Giám sát tỷ lệ phế phẩm báo cáo hằng ngày | Quản lý xưởng | 15/12/2024 |

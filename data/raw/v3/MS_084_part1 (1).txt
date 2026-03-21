@@ -1,0 +1,62 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00] Chào bác sĩ Minh và ban dự án, hôm nay chúng ta họp bàn về ứng dụng Telemedicine (khám chữa bệnh từ xa) cho bệnh viện nhé.
+[10:01] Chào anh, tôi thấy cái này rất cần thiết cho bệnh nhân mãn tính ở tỉnh xa họ không phải lên tận Hà Nội tái khám ấy ạ.
+[10:03] Đúng rồi bác sĩ. Nhưng mà em lo cái phần kết nối video, ờ... nó phải rõ thì bác sĩ mới soi được họng hay da bệnh nhân chứ?
+[10:05] Chắc chắn rồi. Thì là... mình phải dùng công nghệ truyền tải 4K mới đáp ứng được yêu cầu chuyên môn chẩn đoán hình ảnh.
+[10:06] Dạ, nhưng mà... ờ... mạng ở mấy vùng sâu vùng xa đôi khi nó hơi chập chờn, mình có phương án gì dự phòng không sếp?
+[10:08] Em đề xuất là nếu video lag quá thì mình sẽ chuyển sang chế độ chụp ảnh tĩnh độ phân giải cao và gửi file lên hệ thống để bác sĩ xem sau.
+[10:10] Hay đấy. Còn vấn đề thanh toán viện phí trực tuyến và đặt lịch hẹn khám thì sao anh Hùng?
+[10:11] Ờ cái đó thì mình sẽ tích hợp ví điện tử với thẻ ngân hàng vào luôn app sếp ạ.
+[10:13] Tôi muốn hồ sơ bệnh án điện tử (EMR) phải được đồng bộ hóa hoàn toàn với hệ thống của bệnh viện mình.
+[10:15] Vâng, cái đó là bắt buộc để bác sĩ biết lịch sử dùng thuốc của bệnh nhân trước đó.
+[10:16] OK, chốt vậy đi. Team IT hoàn thiện bản demo trước ngày 15 tháng sau cho tôi nhé.
+[10:18] Dạ sếp, em sẽ cố gắng cho xong phần khung của ứng dụng ạ.
+
+<|output|>
+# Dự án phát triển ứng dụng Telemedicine cho bệnh viện
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận việc triển khai ứng dụng khám chữa bệnh từ xa nhằm hỗ trợ bệnh nhân ở các khu vực xa trung tâm.
+- Giải quyết các thách thức kỹ thuật về chất lượng hình ảnh y khoa và đường truyền mạng.
+- Thống nhất các tính năng phụ trợ như thanh toán viện phí và đồng bộ bệnh án điện tử.
+
+### 2. Các vấn đề đã thảo luận
+- Lợi ích của Telemedicine đối với bệnh nhân mắc bệnh mãn tính trong việc tái khám định kỳ.
+- Yêu cầu về độ phân giải video (4K) để đảm bảo độ chính xác trong chẩn đoán lâm sàng qua màn hình.
+- Phương án dự phòng (chế độ ảnh tĩnh) khi băng thông mạng tại vùng sâu vùng xa không ổn định.
+- Tích hợp đa dạng phương thức thanh toán trực tuyến ngay trên nền tảng ứng dụng.
+- Sự cần thiết của việc liên thông dữ liệu với hệ thống bệnh án điện tử (EMR) hiện có của bệnh viện.
+
+### 3. Kết luận và quyết định
+- Ưu tiên chất lượng hình ảnh và độ bảo mật dữ liệu y khoa trong quá trình phát triển ứng dụng.
+- Đồng bộ hóa hoàn toàn lịch sử khám chữa bệnh của bệnh nhân giữa ứng dụng và hệ thống nội bộ bệnh viện.
+- Team IT chịu trách nhiệm hoàn thiện bản demo đầy đủ tính năng cốt lõi vào giữa tháng tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xây dựng module gọi video chất lượng cao (4K) | Team Phát triển | 10/12/2024 |
+| Liên thông dữ liệu EMR giữa ứng dụng và bệnh viện | Bộ phận IT Y tế | 12/12/2024 |
+| Thiết kế quy trình đặt lịch và thanh toán viện phí | Phòng Kế hoạch | 08/12/2024 |
+| Kiểm thử bảo mật dữ liệu thông tin cá nhân bệnh nhân | Team Security | 14/12/2024 |

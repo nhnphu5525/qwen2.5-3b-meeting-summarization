@@ -1,0 +1,61 @@
+<|input|>
+# Chiến lược tối ưu hóa chuỗi cung ứng quốc tế và ứng phó biến động địa chính trị
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tác động của khủng hoảng Biển Đỏ và các biến động địa chính trị đến thời gian và chi phí vận chuyển quốc tế.
+- Thống nhất các phương thức vận chuyển thay thế và chiến lược quản trị tồn kho mới.
+- Rà soát các rào cản kỹ thuật mới của thị trường EU (CBAM).
+
+### 2. Các vấn đề đã thảo luận
+- Khủng hoảng Biển Đỏ kéo dài làm tăng transit time và cước phí tàu biển do phải đi vòng qua Mũi Hảo Vọng.
+- Giải pháp Sea-Air qua Dubai cho hàng gấp và chuyển từ 'Just-in-Time' sang 'Just-in-Case'.
+- Đáp ứng cơ chế CBAM của EU để duy trì vị thế nhà cung cấp.
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập bảng SKU phân loại phương thức vận chuyển (Sea vs Sea-Air) | Lan (Tài chính) + Logistics | 05/12/2024 |
+| Làm việc với đơn vị tư vấn CBAM rà soát quy trình sản xuất | Phòng Sản xuất | 20/12/2024 |
+| Tìm kiếm 03 nhà cung cấp nguyên liệu phụ trợ tại Đông Nam Á | Phòng Thu mua | 15/02/2025 |
+[09:28] Tốt, phải đi trước một bước như vậy. Quay lại vấn đề đối tác vận chuyển, tôi thấy mình đang ký hợp đồng với quá nhiều forwarder nhỏ lẻ. Điều này làm phân tán nguồn lực và mình không có vị thế đàm phán (bargaining power) với các hãng tàu. Tại sao mình không chọn ra 2-3 đối tác chiến lược lớn và ký hợp đồng dài hạn (Service Contract)?
+[09:30] Dạ, thực ra ký hợp đồng dài hạn trong lúc giá cước đang biến động mạnh thế này cũng là một con dao hai lưỡi. Nếu mình ký lúc giá cao mà sau đó thị trường hạ nhiệt thì mình thiệt. Nhưng em đồng ý là cần gom volume lại để có giá tốt hơn. Em đang làm việc với Maersk và ONE để xin giá đặc thù cho các tuyến trọng điểm của mình.
+[09:32] Ngoài việc xin giá, em cần yêu cầu họ cam kết về chỗ (space) và thiết bị (container). Chứ giá rẻ mà đến lúc cần đi hàng họ bảo hết chỗ thì cũng bằng thừa.
+[09:34] Vâng, em sẽ đưa các điều khoản cam kết space vào phụ lục hợp đồng. À, còn vấn đề số hóa chuỗi cung ứng. Hiện tại mình vẫn còn dùng quá nhiều giấy tờ thủ công trong khâu theo dõi đơn hàng (tracking). Nhiều lúc sếp hỏi hàng đang ở đâu, em lại phải gọi điện, email cho forwarder hỏi rồi mới báo cáo lại được, mất thời gian quá.
+[09:36] Đúng rồi, tôi muốn có một cái Dashboard (bảng điều khiển) hiển thị thời gian thực. Tôi muốn nhìn vào đó là biết ngay có bao nhiêu container đang trên biển, bao nhiêu đang ở cảng, cái nào đang bị chậm (delay). Team IT phối hợp với Logistics xây dựng cái này ngay trong quý này cho tôi.
+[09:38] Dạ, để làm được cái này thì mình cần yêu cầu các đối tác vận chuyển phải cung cấp API kết nối dữ liệu. Đa số các hãng lớn họ đều có sẵn rồi, chỉ cần mình tích hợp vào hệ thống nội bộ thôi ạ.
+[09:40] Chi phí cho việc tích hợp này có cao không?
+[09:42] Không quá cao đâu anh, chủ yếu là tốn công của team Dev nhà mình thôi. Nhưng đổi lại mình sẽ tiết kiệm được rất nhiều nhân lực cho khâu quản lý và giảm thiểu sai sót dữ liệu.
+
+<|output|>
+# Chiến lược tối ưu hóa chuỗi cung ứng quốc tế và ứng phó biến động địa chính trị
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tác động của khủng hoảng Biển Đỏ và các biến động địa chính trị đến thời gian và chi phí vận chuyển quốc tế.
+- Thống nhất các phương thức vận chuyển thay thế và chiến lược quản trị tồn kho mới.
+- Rà soát các rào cản kỹ thuật mới của thị trường EU (CBAM).
+- Thúc đẩy số hóa Logistics.
+
+### 2. Các vấn đề đã thảo luận
+- Khủng hoảng Biển Đỏ kéo dài làm tăng transit time và cước phí tàu biển do phải đi vòng qua Mũi Hảo Vọng.
+- Giải pháp Sea-Air qua Dubai cho hàng gấp và chuyển từ 'Just-in-Time' sang 'Just-in-Case'.
+- Đáp ứng cơ chế CBAM của EU để duy trì vị thế nhà cung cấp.
+- Nâng cao tính minh bạch thông qua Dashboard Tracking thời gian thực.
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập bảng SKU phân loại phương thức vận chuyển (Sea vs Sea-Air) | Lan (Tài chính) + Logistics | 05/12/2024 |
+| Làm việc với đơn vị tư vấn CBAM rà soát quy trình sản xuất | Phòng Sản xuất | 20/12/2024 |
+| Tìm kiếm 03 nhà cung cấp nguyên liệu phụ trợ tại Đông Nam Á | Phòng Thu mua | 15/02/2025 |
+| Đàm phán Service Contract với Maersk và ONE | Team Logistics | 15/12/2024 |
+| Xây dựng Dashboard Tracking thời gian thực (Bản Demo) | Team IT | 30/01/2025 |

@@ -1,0 +1,63 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Pháp lý
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Pháp lý hiện nay
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Pháp lý
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý luật doanh nghiệp | Bộ phận Kỹ thuật | 13/05/2026 |
+
+[09:46] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:24] Chào mọi người, chúng ta tiếp tục bàn về quyền sở hữu trí tuệ nhé.
+[10:15] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[10:18] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về quyền sở hữu trí tuệ.
+[10:21] Không sao, mình có thể tối ưu lại phần bảo mật dữ liệu mà.
+[10:24] Không sao, mình có thể tối ưu lại phần quyền sở hữu trí tuệ mà.
+[09:29] Để tôi gửi tài liệu về giấy phép cho mọi người qua email sau buổi họp.
+[10:00] Nhưng mà còn cái luật doanh nghiệp thì tính sao đây? Sắp hết hạn rồi.
+[10:33] À còn một việc nữa là cái bảo mật dữ liệu, mọi người thấy ổn chưa?
+[10:04] Nói chung là Mọi người cứ thoải mái đóng góp ý kiến về hợp đồng đi.
+[10:06] À À còn một việc nữa là cái tranh chấp, mọi người thấy ổn chưa?
+[10:08] Ờm Tôi lo là quyền sở hữu trí tuệ sẽ tốn nhiều chi phí hơn dự kiến.
+[10:45] Tôi lo là tranh chấp sẽ tốn nhiều chi phí hơn dự kiến.
+[10:12] Thì Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về tranh chấp.
+[10:51] Tôi đề xuất chốt hạn chót cho tranh chấp là cuối tháng này được không?
+[10:16] À Không sao, mình có thể tối ưu lại phần tranh chấp mà.
+[10:57] Để tôi check lại mấy cái số liệu của tuân thủ rồi báo lại cả nhà sau.
+[11:00] Mọi người nghĩ sao nếu mình đổi phương án cho hợp đồng?
+[11:03] Không sao, mình có thể tối ưu lại phần tranh chấp mà.
+[09:42] Tôi đề xuất chốt hạn chót cho bảo mật dữ liệu là cuối tháng này được không?
+[09:43] Vâng Nhưng mà còn cái tuân thủ thì tính sao đây? Sắp hết hạn rồi.
+[09:44] Tôi lo là luật doanh nghiệp sẽ tốn nhiều chi phí hơn dự kiến.
+[10:30] Tuần tới mình tập trung dứt điểm cái hợp đồng đi cho xong.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Pháp lý
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Pháp lý hiện nay
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Pháp lý
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý luật doanh nghiệp | Bộ phận Kỹ thuật | 13/05/2026 |

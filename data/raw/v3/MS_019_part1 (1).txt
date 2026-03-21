@@ -1,0 +1,46 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[09:00] Chào buổi sáng cả team. Hôm nay chúng ta họp về một chủ đề rất lớn: "Chiến lược bán hàng đa kênh (Omnichannel) - Xóa nhòa ranh giới giữa Online và Offline".
+[09:02] Hiện tại khách hàng của chúng ta đang phàn nàn rất nhiều về việc giá trên Website và tại cửa hàng vật lý không đồng nhất.
+[09:04] Ngoài ra, khách mua online muốn đổi trả tại cửa hàng cũng gặp khó khăn vì hệ thống POS tại cửa hàng không truy xuất được hóa đơn online.
+[09:06] Đây là một lỗ hổng rất lớn trong trải nghiệm khách hàng. Chúng ta cần một hệ thống quản lý tập trung duy nhất (OMS - Order Management System).
+[09:08] OMS sẽ giúp mình đồng bộ tồn kho realtime. Khách đặt online có thể chọn lấy hàng tại cửa hàng gần nhất (BOPIS) để tiết kiệm phí ship.
+[09:10] Việc này đòi hỏi nhân viên cửa hàng phải được đào tạo lại về quy trình soạn hàng online và bàn giao cho khách.
+
+<|output|>
+# Chiến lược bán hàng đa kênh (Omnichannel) và tối ưu hóa trải nghiệm khách hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng hệ sinh thái bán hàng đa kênh nhất quán (Online to Offline).
+- Giải quyết triệt để các rào cản về giá, tồn kho và quy trình đổi trả hàng giữa các kênh.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng thiếu đồng bộ về giá cả và hóa đơn gây phiền hà cho khách hàng.
+- Nhu cầu triển khai hệ thống quản lý đơn hàng tập trung (OMS) để vận hành BOPIS (Mua online, lấy tại store).
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án chiến lược Omnichannel làm trọng tâm phát triển trong năm tới.
+- Đồng ý đầu tư hệ thống OMS và CRM tích hợp đồng bộ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát và lựa chọn giải pháp OMS/CRM | Phòng IT | 15/05/2026 |
+| Lên kế hoạch đào tạo nhân viên cửa hàng | Team Đào tạo | 15/06/2026 |
+| Dự thảo quy trình soạn hàng online tại store | Phòng Kho vận | Chưa rõ |

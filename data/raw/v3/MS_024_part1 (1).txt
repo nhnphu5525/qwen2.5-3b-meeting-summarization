@@ -1,0 +1,47 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[15:00] Chào anh chị, buổi họp hôm nay về việc quản lý nợ phải trả cho nhà cung cấp linh kiện.
+[15:02] Hiện tại dòng tiền của mình đang bị kẹt ở các khoản phải thu từ đại lý, nên tiến độ trả nợ cho đối tác đang bị chậm 2 tuần.
+[15:04] Một số nhà cung cấp đã dọa sẽ ngừng giao hàng nếu mình không thanh toán ít nhất 50% dư nợ trong tháng này.
+[15:06] Chị Lan (Kế toán trưởng) xem có thể vay thấu chi ngân hàng để giải quyết gấp cho các nhà cung cấp quan trọng nhất không.
+
+<|output|>
+# Quản lý dòng tiền và thanh toán nợ nhà cung cấp
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng chậm thanh toán nợ cho nhà cung cấp linh kiện.
+- Tối ưu hóa dòng tiền thông qua việc vay vốn.
+
+### 2. Các vấn đề đã thảo luận
+- Áp lực từ nhà cung cấp về việc ngừng giao hàng do chậm thanh toán 2 tuần.
+
+### 3. Kết luận và quyết định
+- Ưu tiên thanh toán 50% dư nợ cho các nhà cung cấp linh kiện cốt lõi.
+- Xúc tiến thủ tục vay thấu chi để bổ sung vốn lưu động tức thì.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập danh sách ưu tiên thanh toán nợ | Chị Lan (Kế toán) | 19/03/2026 |
+| Làm việc với Ngân hàng về khoản vay thấu chi | Chị Lan (Kế toán) | 22/03/2026 |
+| Gửi thư cam kết thanh toán cho nhà cung cấp | Phòng Thu mua | 19/03/2026 |

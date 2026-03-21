@@ -1,0 +1,55 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:30] Chào buổi sáng mọi người, cảm ơn các bạn đã dành thời gian tham gia buổi thảo luận về tình hình kinh tế vĩ mô và tác động đến kế hoạch kinh doanh của chúng ta trong quý tới.
+[08:32] Như các bạn đã biết, chỉ số CPI vừa được công bố cho thấy mức tăng 0.5% so với tháng trước, điều này đặt ra khá nhiều áp lực lên chi phí đầu vào.
+[08:35] Tôi thấy giá nguyên liệu thô trên thị trường thế giới đang có xu hướng hạ nhiệt, nhưng tỷ giá hối đoái lại biến động mạnh khiến chi phí nhập khẩu thực tế vẫn rất cao.
+[08:38] Đúng vậy, tỷ giá USD/VND đang ở mức cao kỷ lục trong vòng 2 năm qua. Điều này ảnh hưởng trực tiếp đến biên lợi nhuận của các dòng sản phẩm chủ lực.
+[08:41] Vậy chúng ta có phương án nào để phòng ngừa rủi ro tỷ giá không? Tôi nhớ trước đây chúng ta từng thảo luận về các hợp đồng forward hoặc swap.
+[08:44] Hiện tại phòng Tài chính đang xem xét việc ký kết các hợp đồng kỳ hạn với ngân hàng để chốt tỷ giá cho các lô hàng nhập khẩu trong 6 tháng tới.
+[08:47] Tuy nhiên, phí hedging hiện nay cũng không hề rẻ. Chúng ta cần tính toán kỹ xem chi phí này so với rủi ro tỷ giá tự do thì bên nào có lợi hơn.
+[08:50] Ngoài vấn đề tỷ giá, lãi suất vay ngân hàng cũng đang có dấu hiệu rục rịch tăng theo đà tăng của lãi suất liên ngân hàng. Điều này sẽ làm tăng chi phí tài chính cho các dự án mở rộng sắp tới.
+[08:53] Có lẽ chúng ta nên cân nhắc việc huy động vốn từ các nguồn khác, ví dụ như phát hành trái phiếu doanh nghiệp hoặc tìm kiếm các nhà đầu tư chiến lược.
+[08:56] Về phía thị trường tiêu thụ, sức mua của người dân đang có dấu hiệu chững lại do lo ngại về lạm phát. Các báo cáo từ bộ phận Marketing cho thấy doanh số bán lẻ tại các khu vực đô thị giảm khoảng 5% so với cùng kỳ.
+
+<|output|>
+# Phân tích tác động kinh tế vĩ mô và điều chỉnh kế hoạch kinh doanh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tác động của các chỉ số kinh tế vĩ mô (CPI, tỷ giá, lãi suất) đến hoạt động của công ty.
+
+### 2. Các vấn đề đã thảo luận
+- Chỉ số CPI tăng gây áp lực lên chi phí đầu vào.
+- Tỷ giá USD/VND biến động mạnh ảnh hưởng tiêu cực đến biên lợi nhuận hàng nhập khẩu.
+- Xu hướng tăng lãi suất vay ngân hàng làm tăng chi phí tài chính cho các dự án.
+
+### 3. Kết luận và quyết định
+- Triển khai các hợp đồng hedging (forward/swap) để quản trị rủi ro tỷ giá.
+- Điều chỉnh giảm mục tiêu tăng trưởng doanh thu để phù hợp với tình hình thực tế.
+- Đẩy mạnh nội địa hóa nguồn cung ứng linh kiện (mục tiêu thay thế 30%).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký kết hợp đồng hedging tỷ giá | Phòng Tài chính | 15/04/2024 |
+| Đánh giá chất lượng nhà cung cấp nội địa | Phòng Thu mua | 20/04/2024 |

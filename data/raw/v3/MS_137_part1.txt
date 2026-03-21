@@ -1,0 +1,49 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00:00] Chào thầy Hoàng, chào em An. Hôm nay chúng ta ngồi lại để bàn về việc nâng cấp cái hệ thống E-learning của trường mình. Sau đợt khảo sát vừa rồi, tôi thấy sinh viên kêu ca nhiều quá về việc bài giảng nhàm chán, tương tác kém. Thầy Hoàng thấy bộ môn mình triển khai có vướng mắc gì không?
+[09:02:15] Dạ báo cáo cô Mai, thực tế là các thầy cô trong bộ môn cũng đang nỗ lực hết sức. Khổ nỗi là nhiều thầy cô lớn tuổi chưa quen với việc dùng mấy phần mềm tương tác như Kahoot hay Quizizz, nên hầu như chỉ có bật Slide lên rồi nói suốt 2 tiếng đồng hồ. Sinh viên nó ngủ gật hết cũng phải thôi ạ.
+[09:04:30] Em An bên IT thấy cái hạ tầng hiện tại của mình có hỗ trợ được mấy cái tool tương tác đó không? Tôi nghe nói đợt trước server hay bị lag khi sinh viên truy cập đông cùng lúc?
+[09:06:45] Dạ vầy nè cô Mai, server hiện tại mình đã nâng cấp băng thông rồi nên chuyện lag không còn là vấn đề lớn. Cái chính là mình chưa tích hợp được các công cụ đó trực tiếp vào hệ thống LMS (Learning Management System) của trường. Hiện tại sinh viên phải nhảy qua nhảy lại giữa các tab trình duyệt nên rất bất tiện ạ.
+[09:09:00] Vậy An nghiên cứu xem có cách nào nhúng trực tiếp mấy cái game tương tác đó vào bài giảng trên LMS luôn không? Chứ cứ bắt sinh viên thoát ra thoát vào thì mất tập trung lắm.
+[09:11:15] Dạ em đang tìm hiểu về chuẩn LTI (Learning Tools Interoperability). Nếu mình áp dụng chuẩn này thì có thể tích hợp được rất nhiều công cụ bên thứ ba vào LMS của mình một cách mượt mà. Tuy nhiên, mình cần phải bỏ ra một khoản phí bản quyền cho một số công cụ xịn cô ạ.
+[09:13:30] Phí bản quyền thì để tôi xin ý kiến Ban Giám hiệu sau. Quan trọng là hiệu quả giảng dạy. Thầy Hoàng nè, thầy có nghĩ tới việc thay đổi format bài giảng không? Thay vì dạy 2 tiếng liên tục, mình có thể chia nhỏ ra thành các video ngắn 10-15 phút không?
+
+<|output|>
+# Cải tiến phương pháp giảng dạy trực tuyến (E-learning)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Nâng cao chất lượng giảng dạy trực tuyến trên hệ thống LMS của trường.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Bài giảng còn một chiều, thiếu tương tác, sinh viên dễ nhàm chán.
+- Giải pháp kỹ thuật: Tích hợp chuẩn LTI để nhúng các công cụ tương tác (Kahoot, Quizizz) trực tiếp vào LMS; sử dụng Safe Exam Browser để chống gian lận thi cử.
+
+### 3. Kết luận và quyết định
+- Thống nhất chuyển đổi cấu trúc bài giảng sang mô hình Micro-learning từ học kỳ tới.
+- Duyệt tổ chức workshop đào tạo kỹ năng số cho giảng viên trong tháng 7.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn dự toán phí bản quyền các tool LTI | An - Phòng IT | 15/06/2024 |
+| Thiết kế cấu trúc khóa học Micro-learning mẫu | Thầy Hoàng - Bộ môn | 25/06/2024 |

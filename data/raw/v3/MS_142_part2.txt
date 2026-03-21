@@ -1,0 +1,58 @@
+<|input|>
+# Xây dựng Tour Du lịch Trải nghiệm Cao cấp cho Thị trường Nhật Bản
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và xây dựng sản phẩm tour mới dành riêng cho phân khúc khách du lịch Nhật Bản cao cấp.
+
+### 2. Các vấn đề đã thảo luận
+- **Xu hướng khách Nhật:** Chuyển từ tour thành phố sang tour "sống chậm", gần gũi thiên nhiên, chú trọng văn hóa bản địa và yêu cầu khắt khe về vệ sinh, lưu trú.
+- **Sản phẩm dự kiến:** Tour 5 ngày 4 đêm với tên gọi "Hơi thở của núi rừng Tây Bắc".
+
+### 3. Kết luận và quyết định
+- Chốt khung lộ trình Y Tý - Mù Cang Chải cho tour mới.
+- Xây dựng bộ tiêu chuẩn dịch vụ khắt khe về ăn uống, nghỉ ngơi phù hợp với khách Nhật.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Itinerary chi tiết và bảng báo giá | Hạnh (Phòng Sản phẩm) | 15/04/2024 |
+| Liên hệ đối tác Nhật Bản gửi Teaser giới thiệu | Tuấn (Phòng Kinh doanh) | 20/04/2024 |
+[14:16:20] Nghe hấp dẫn đấy! Tuấn nè, bên mảng đối tác bên Nhật họ có yêu cầu gì đặc biệt về hướng dẫn viên không? Anh nhớ đợt trước họ phàn nàn là HDV nói tiếng Nhật tốt nhưng kiến thức về lịch sử, văn hóa chưa đủ sâu để họ hỏi sâu thêm.
+[14:18:40] Dạ, khách Nhật họ coi HDV là linh hồn của chuyến đi luôn đó anh. Họ thích nghe những câu chuyện kể, những ý nghĩa ẩn sau mỗi phong tục tập quán. Nên đợt này em đề xuất mình chỉ chọn những HDV "lão làng", có ít nhất 10 năm kinh nghiệm đón khách Nhật và phải trải qua một khóa đào tạo chuyên sâu về văn hóa Tây Bắc do mình tổ chức nữa.
+[14:21:00] Ừ, cái đó là bắt buộc rồi. Mà chi phí thì sao? Đi mấy chỗ này đường xá cũng hơi cực, vận chuyển chắc tốn kém lắm đây.
+[14:23:20] Đúng là đường đi Y Tý hay Mù Cang Chải thì hơi vất vả thiệt, nhưng bù lại cảnh sắc nó xứng đáng lắm anh. Em tính mình sẽ dùng dòng xe Limousine 9 chỗ để đưa đón cho thoải mái. Chi phí tour chắc chắn sẽ cao hơn tour thường khoảng 30-40%, nhưng em tin là với phân khúc khách cao cấp của Nhật thì họ sẵn sàng chi trả để đổi lấy trải nghiệm độc bản này.
+[14:25:40] Anh thấy cái vụ tắm lá thuốc của người Dao đỏ cũng rất tiềm năng để đưa vào nè. Khách Nhật họ cuồng Onsen mà, mình quảng bá đây là "Vietnamese Jungle Onsen" thì chắc chắn họ sẽ mê tít cho coi.
+[14:28:00] Ý tưởng hay quá anh Sơn! Mình có thể kết hợp thêm một buổi thiền trà giữa ruộng bậc thang lúc hoàng hôn nữa. Đảm bảo khách họ sẽ "chill" không muốn về luôn.
+[14:30:20] Ok, vậy chốt lại cái khung tour là Y Tý - Mù Cang Chải, chủ đề trải nghiệm văn hóa và thiên nhiên cao cấp. Hạnh lên cái bản chi tiết lộ trình (itinerary) với lại báo giá sơ bộ cho anh trong tuần này nha.
+
+<|output|>
+# Xây dựng Tour Du lịch Trải nghiệm Cao cấp cho Thị trường Nhật Bản
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và xây dựng sản phẩm tour mới dành riêng cho phân khúc khách du lịch Nhật Bản cao cấp.
+- Tìm kiếm hướng đi mới, khác biệt so với các tour truyền thống để thu hút khách hàng thích trải nghiệm thiên nhiên và văn hóa bản địa.
+
+### 2. Các vấn đề đã thảo luận
+- **Xu hướng khách Nhật:** Chuyển từ tour thành phố sang tour "sống chậm", gần gũi thiên nhiên, chú trọng văn hóa bản địa và yêu cầu khắt khe về vệ sinh, lưu trú.
+- **Sản phẩm dự kiến:** Tour 5 ngày 4 đêm với tên gọi "Hơi thở của núi rừng Tây Bắc".
+- **Trải nghiệm đặc sắc:** 
+- **Nhân sự & Vận chuyển:** Sử dụng hướng dẫn viên kỳ cựu (trên 10 năm kinh nghiệm) và xe Limousine cao cấp.
+
+### 3. Kết luận và quyết định
+- Chốt khung lộ trình Y Tý - Mù Cang Chải cho tour mới.
+- Xây dựng bộ tiêu chuẩn dịch vụ khắt khe về ăn uống, nghỉ ngơi phù hợp với khách Nhật.
+- Triển khai chương trình Fam trip mời các KOL du lịch Nhật Bản sang trải nghiệm vào mùa lúa chín (tháng 9).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Itinerary chi tiết và bảng báo giá | Hạnh (Phòng Sản phẩm) | 15/04/2024 |
+| Liên hệ đối tác Nhật Bản gửi Teaser giới thiệu | Tuấn (Phòng Kinh doanh) | 20/04/2024 |
+| Lập danh sách KOL Nhật Bản và kế hoạch Fam trip | Tuấn | 30/04/2024 |
+| Tìm kiếm và ký kết với các đơn vị Homestay/Glamping | Hạnh | 10/05/2024 |

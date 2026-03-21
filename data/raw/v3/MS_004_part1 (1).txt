@@ -1,0 +1,50 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[15:00] Chào chị Thảo, anh Bình và mọi người. Buổi họp chiều nay mình sẽ rà soát lại ngân sách của quý 3 để chuẩn bị cho báo cáo tài chính sắp tới.
+[15:02] Theo số liệu sơ bộ thì chi phí vận hành của mình đang vượt mức dự kiến 15%, chủ yếu nằm ở mảng tiền điện và thuê ngoài kho bãi.
+[15:04] Tôi thấy lạ là tại sao tiền điện lại tăng vọt như vậy khi mình đã lắp hệ thống đèn LED tiết kiệm điện rồi?
+[15:06] Chắc do mấy tháng nay nóng quá nên máy lạnh ở xưởng chạy liên tục, với lại một số dây chuyền cũ ngốn điện hơn mức bình thường.
+[15:08] Về việc thuê ngoài kho bãi, do đợt rồi nhập linh kiện về nhiều quá mà kho mình chưa giải phóng kịp nên phải thuê thêm mặt bằng ngoài.
+[15:10] Chị Thảo xem lại dòng tiền, nếu cứ đà này thì lợi nhuận ròng của quý sẽ bị ảnh hưởng nghiêm trọng.
+[15:12] Tôi đề xuất mình cắt giảm bớt chi phí tiếp khách và các khoản chi không cấp thiết trong tháng tới.
+[15:14] Ngoài ra, cần làm việc lại với bên nhà cung cấp dịch vụ kho bãi để xin chiết khấu tốt hơn nếu mình thuê dài hạn.
+
+<|output|>
+# Rà soát ngân sách quý 3 và chuẩn bị báo cáo tài chính
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình thực hiện ngân sách trong quý 3.
+- Xác định nguyên nhân khiến chi phí vận hành vượt mức dự kiến.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí vận hành vượt 15%, tập trung ở tiền điện sản xuất và thuê kho bãi bên ngoài.
+- Đề xuất cắt giảm chi phí tiếp khách và các khoản chi không thiết yếu.
+
+### 3. Kết luận và quyết định
+- Đàm phán lại hợp đồng thuê kho bãi để hưởng mức chiết khấu dài hạn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đàm phán lại phí thuê kho bãi | Anh Bình | 25/03 |
+| Kiểm tra lại hiệu suất sử dụng điện tại xưởng | Team Kỹ thuật | 28/03 |

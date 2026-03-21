@@ -1,0 +1,77 @@
+<|input|>
+# Báo cáo cuộc họp về Thời trang
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Thời trang hiện tại
+- Giải quyết các tồn đọng liên quan đến xu hướng
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý xu hướng
+- Thiếu hụt nguồn lực cho chuỗi bán lẻ
+- Áp lực từ phía đối tác về chất liệu vải
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho xu hướng
+- Phân bổ thêm 2 nhân sự cho mảng chiến dịch ra mắt
+- Hoàn thiện báo cáo chất liệu vải trước cuối tuần
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ thiết kế | Phòng Thời trang | 03/11/2026 |
+| Liên hệ đối tác về chất liệu vải | Chị Mai | 08/01/2026 |
+| Kiểm tra tiến độ chất liệu vải | Team Technical | 27/09/2026 |
+
+[17:02] Dạ Về dài hạn thì chất liệu vải sẽ là trọng tâm của năm nay.
+[17:04] Thì Tôi sẽ phụ trách kiểm tra lại chất liệu vải rồi báo lại cả team vào chiều mai.
+[13:03] Thực ra Cần phải làm rõ hơn về bộ sưu tập trong hợp đồng mới.
+[13:04] Hình như Mọi người có ý kiến gì thêm về showroom không?
+[13:05] Thực ra Thôi được rồi, vậy thống nhất là triển khai chiến dịch ra mắt theo hướng đó.
+[13:06] Tóm lại Về dài hạn thì chất liệu vải sẽ là trọng tâm của năm nay.
+[13:07] Mọi người có ý kiến gì thêm về chiến dịch ra mắt không?
+[13:08] Tôi thấy bộ sưu tập hiện tại là cơ hội tốt để mình bứt phá.
+[17:18] Thực ra Hay là mình thử thay đổi cách tiếp cận với thiết kế xem sao?
+[17:20] Nói chung là Đừng quên vụ chất liệu vải cũng quan trọng không kém nhé.
+[17:22] Đúng rồi, cái chất liệu vải cần được ưu tiên xử lý trước thứ Sáu này.
+[17:24] Thì đấy Tôi sẽ phụ trách kiểm tra lại bộ sưu tập rồi báo lại cả team vào chiều mai.
+[17:26] Mọi người có ý kiến gì thêm về chiến dịch ra mắt không?
+[13:14] Thế thì mình chốt phương án cho xu hướng luôn đi, đừng kéo dài nữa.
+[13:15] Hay là mình thử thay đổi cách tiếp cận với thiết kế xem sao?
+[13:16] Mọi người nghe rõ không? Về cái thiết kế này tôi thấy có vẻ hơi vướng.
+[17:34] Chắc là Thôi được rồi, vậy thống nhất là triển khai chuỗi bán lẻ theo hướng đó.
+[17:36] Thì đấy Thôi được rồi, vậy thống nhất là triển khai thiết kế theo hướng đó.
+[13:19] Tôi lo nhất là cái xu hướng, tiến độ đang bị khựng lại.
+[17:40] Thôi được rồi, vậy thống nhất là triển khai showroom theo hướng đó.
+[13:21] Để tôi check lại lịch của bên chất liệu vải xem họ rảnh khi nào.
+[17:44] Thế thì mình chốt phương án cho xu hướng luôn đi, đừng kéo dài nữa.
+
+<|output|>
+# Báo cáo cuộc họp về Thời trang
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Thời trang hiện tại
+- Giải quyết các tồn đọng liên quan đến xu hướng
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý xu hướng
+- Thiếu hụt nguồn lực cho chuỗi bán lẻ
+- Áp lực từ phía đối tác về chất liệu vải
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho xu hướng
+- Phân bổ thêm 2 nhân sự cho mảng chiến dịch ra mắt
+- Hoàn thiện báo cáo chất liệu vải trước cuối tuần
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ thiết kế | Phòng Thời trang | 03/11/2026 |
+| Liên hệ đối tác về chất liệu vải | Chị Mai | 08/01/2026 |
+| Kiểm tra tiến độ chất liệu vải | Team Technical | 27/09/2026 |
+| Lập kế hoạch chi tiết cho showroom | Chị Mai | 02/11/2026 |

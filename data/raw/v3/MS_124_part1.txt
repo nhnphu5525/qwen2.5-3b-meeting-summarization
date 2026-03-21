@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00] Chào mọi người, tình hình đang rất căng thẳng nha. Sáng giờ team CSKH báo về là lượng khiếu nại trên fanpage với hotline tăng đột biến, đa số là chửi bới về vụ giao hàng chậm.
+[10:02] Dạ đúng rồi sếp, em vừa mới lướt qua một vòng các hội nhóm, khách họ đang kêu gọi tẩy chay mình vì đơn hàng đặt từ tuần trước mà giờ vẫn chưa thấy đâu.
+[10:04] Ờ, anh biết rồi. Tuấn ơi, bên kho với bên vận chuyển có vấn đề gì mà để ùn ứ dữ vậy em?
+[10:06] Dạ vầy nè anh, đợt vừa rồi mình chạy chương trình khuyến mãi "Siêu sale giữa năm", lượng đơn hàng tăng gấp 5 lần ngày thường. Trong khi đó, bên đối tác giao hàng của mình họ bị thiếu nhân sự cục bộ nên không qua lấy hàng đúng hạn được.
+[10:08] Trời ơi, sao cái này không dự báo trước để mình tìm thêm đối tác dự phòng? Để khách đợi cả tuần là không thể chấp nhận được rồi.
+[10:10] Dạ em xin lỗi sếp, em cũng có chủ quan chỗ này. Hiện tại trong kho vẫn còn khoảng 3000 đơn hàng chưa được đi, em đang cố gắng liên hệ với mấy bên khác như GHTK với Viettel Post để họ hỗ trợ đẩy hàng đi gấp.
+[10:12] Liên hệ thì liên hệ, nhưng mà phải làm liền đi. Còn cái vụ khách đang chửi bới trên mạng thì sao Linh? Em đã có phương án xử lý khủng hoảng truyền thông chưa?
+[10:14] Dạ sếp, em định là mình sẽ đăng một bài xin lỗi công khai trên fanpage, nêu rõ lý do là do lượng đơn đột biến và sự cố vận hành. Đồng thời, với mỗi đơn hàng bị chậm, mình sẽ tặng khách một voucher giảm giá 20% cho lần mua sau để xoa dịu họ.
+[10:16] Voucher thì cũng được, nhưng mà khách họ cần hàng hơn là cần voucher đó Linh. Em phải cam kết được là khi nào hàng tới tay họ kìa.
+
+<|output|>
+# Xử lý khủng hoảng khiếu nại khách hàng về giao hàng chậm
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng ùn ứ đơn hàng và xử lý khủng hoảng truyền thông do giao hàng chậm sau đợt khuyến mãi.
+
+### 2. Các vấn đề đã thảo luận
+- Lượng đơn hàng tăng đột biến (gấp 5 lần) dẫn đến quá tải kho bãi và vận chuyển.
+- Đối tác vận chuyển hiện tại thiếu nhân sự, không đáp ứng được tiến độ lấy và giao hàng.
+
+### 3. Kết luận và quyết định
+- Huy động toàn bộ nhân viên văn phòng hỗ trợ đóng gói tại kho, làm thêm ca đêm để hoàn tất đơn hàng trong 2 ngày.
+- Tìm kiếm và ký kết bổ sung các đơn vị vận chuyển dự phòng (GHTK, Viettel Post) để đẩy hàng đi ngay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Huy động nhân sự đóng gói và giải phóng 3000 đơn tồn | Anh Tuấn (Phòng Vận hành) | 25/05/2024 |
+| Soạn và đăng bài xin lỗi công khai, gửi email cho khách | Chị Linh (Phòng Marketing/CSKH) | 23/05/2024 |

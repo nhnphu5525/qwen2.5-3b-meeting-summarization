@@ -1,0 +1,40 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[09:00] Chào anh chị, sáng nay chúng ta họp nhanh về việc điều chỉnh lãi suất huy động và cho vay theo chỉ đạo mới nhất từ Ngân hàng Nhà nước.
+[09:02] Theo đó, trần lãi suất huy động kỳ hạn dưới 6 tháng sẽ giảm xuống còn 4.75%/năm.
+[09:04] Việc này sẽ giúp mình giảm chi phí vốn đầu vào, nhưng liệu có làm khách hàng rút tiền chuyển sang kênh đầu tư khác không?
+[09:06] Có thể, nhưng hiện tại các kênh như chứng khoán hay bất động sản cũng đang trầm lắng, nên tôi nghĩ dòng tiền vẫn sẽ ở lại ngân hàng nếu mình có chính sách chăm sóc khách hàng tốt.
+
+<|output|>
+# Điều chỉnh chính sách lãi suất và gói tín dụng ưu đãi
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Cập nhật và triển khai quy định mới của Ngân hàng Nhà nước về trần lãi suất huy động.
+
+### 2. Các vấn đề đã thảo luận
+- Giảm trần lãi suất huy động dưới 6 tháng xuống 4.75%/năm và đánh giá tác động đến dòng tiền gửi.
+
+### 3. Kết luận và quyết định
+- Áp dụng biểu lãi suất huy động mới ngay từ ngày mai.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật biểu lãi suất mới trên hệ thống | Phòng CNTT | 19/03/2026 |
+| Truyền thông chính sách mới đến khách hàng | Phòng Marketing | 20/03/2026 |

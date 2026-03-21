@@ -1,0 +1,58 @@
+<|input|>
+# Chiến dịch hỗ trợ tiêu thụ hành tím Vĩnh Châu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá thực trạng hành tím tại Vĩnh Châu đang bị rớt giá nghiêm trọng và ùn ứ số lượng lớn.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân rớt giá: Cung vượt cầu do tự phát mở rộng diện tích và tắc nghẽn xuất khẩu sang thị trường Trung Quốc.
+- Kênh siêu thị: Kết nối với Co.op Mart, WinMart để đưa hàng vào kệ ưu tiên, yêu cầu đảm bảo tiêu chuẩn an toàn thực phẩm và bao bì chuyên nghiệp.
+
+### 3. Kết luận và quyết định
+- Chính thức phát động chiến dịch "Hành tím nghĩa tình - Đậm tình đất mẹ".
+- Giá thu mua tại ruộng: 10.000 - 12.000đ/kg; Giá bán ra dự kiến: 15.000 - 18.000đ/kg.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế poster, slogan và lên kịch bản livestream | Nam | 14/10/2023 |
+| Liên hệ hệ thống siêu thị và chuẩn bị hồ sơ kiểm định | Hoa | 15/10/2023 |
+[08:09:50] Dạ có anh, một số hợp tác xã lớn họ làm rất chuẩn. Mình sẽ lấy hàng từ những chỗ đó trước để làm thương hiệu. Còn mấy hộ nhỏ lẻ thì mình vận động họ gom lại, mình hỗ trợ khâu đóng gói, nhãn mác cho nó chuyên nghiệp xíu thì mới vào siêu thị được.
+[10:11:15] Ngoài siêu thị ra, em thấy mình nên đánh mạnh vào kênh online nữa. Giờ livestream bán hàng đang hot, mình mời mấy bạn TikToker hay Influencer về nông nghiệp tham gia livestream "chốt đơn" trực tiếp tại ruộng luôn. Vừa tạo hiệu ứng truyền thông, vừa bán được số lượng lớn.
+[10:12:40] Anh đồng ý với Nam. Nhưng mà vụ vận chuyển thì sao? Hành tím này tuy để được lâu nhưng nếu đóng gói không kỹ, đi đường xa mà bị hầm hơi là nó thối hết. Phải tính kỹ cái khâu logistics này nè.
+[10:14:05] Dạ vầy nè, em sẽ liên hệ với bên Viettel Post hoặc GHTK. Mình xin họ gói cước ưu đãi cho chiến dịch "giải cứu" này. Nếu được thì mình lập mấy cái điểm tập kết hàng ở Cần Thơ, Sài Gòn rồi từ đó phân phối đi các nơi cho nó giảm chi phí vận chuyển.
+[10:15:30] Còn một hướng nữa là mình liên hệ với mấy khu công nghiệp, mấy bếp ăn tập thể lớn á. Mỗi công nhân chỉ cần ủng hộ 1-2 ký thôi là con số nó khủng khiếp lắm rồi. Mình bán theo túi 2kg hoặc 5kg cho nó tiện vận chuyển và phân phối.
+[10:16:55] Ừ, hướng đó cũng khả thi nè. Chị Lan bên hội phụ nữ cũng có nhiều mối quan hệ với mấy bếp ăn trường học nữa. Để anh gọi điện nhờ chị ấy hỗ trợ một tay.
+[10:18:20] Anh Nghĩa ơi, em thấy mình cũng nên tính đến chuyện chế biến sâu nữa. Cứ bán tươi hoài thì ép giá là phải rồi. Sao mình không kêu gọi mấy doanh nghiệp làm hành phi, hay là làm bột hành, nước mắm hành... họ vào cuộc thu mua giúp bà con?
+
+<|output|>
+# Chiến dịch hỗ trợ tiêu thụ hành tím Vĩnh Châu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá thực trạng hành tím tại Vĩnh Châu đang bị rớt giá nghiêm trọng và ùn ứ số lượng lớn.
+- Xây dựng kế hoạch khẩn cấp hỗ trợ bà con nông dân tiêu thụ sản phẩm qua nhiều kênh khác nhau.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân rớt giá: Cung vượt cầu do tự phát mở rộng diện tích và tắc nghẽn xuất khẩu sang thị trường Trung Quốc.
+- Kênh siêu thị: Kết nối với Co.op Mart, WinMart để đưa hàng vào kệ ưu tiên, yêu cầu đảm bảo tiêu chuẩn an toàn thực phẩm và bao bì chuyên nghiệp.
+- Kênh Online: Tổ chức livestream bán hàng trực tiếp tại ruộng với sự tham gia của Influencer để tạo sức lan tỏa.
+- Kênh Bếp ăn tập thể: Liên hệ các khu công nghiệp, trường học để vận động công nhân, nhân viên mua ủng hộ.
+
+### 3. Kết luận và quyết định
+- Chính thức phát động chiến dịch "Hành tím nghĩa tình - Đậm tình đất mẹ".
+- Giá thu mua tại ruộng: 10.000 - 12.000đ/kg; Giá bán ra dự kiến: 15.000 - 18.000đ/kg.
+- Phân công nhiệm vụ cụ thể cho từng thành viên: Liên hệ siêu thị, xây dựng kênh online, kết nối bếp ăn công nghiệp và truyền thông.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế poster, slogan và lên kịch bản livestream | Nam | 14/10/2023 |
+| Liên hệ hệ thống siêu thị và chuẩn bị hồ sơ kiểm định | Hoa | 15/10/2023 |
+| Đàm phán gói cước vận chuyển ưu đãi | Nam | 14/10/2023 |
+| Kết nối các khu công nghiệp, bếp ăn trường học | Anh Nghĩa | 16/10/2023 |

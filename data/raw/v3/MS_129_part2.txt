@@ -1,0 +1,60 @@
+<|input|>
+# Chiến lược chuyển dịch sang phân phối xe điện (EV) giai đoạn 2024-2029
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất lộ trình chuyển dịch mô hình kinh doanh từ xe động cơ đốt trong sang xe điện (EV).
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng phát triển mạnh mẽ của thị trường xe điện toàn cầu và tại Việt Nam.
+- Mô hình kinh doanh: "Đại lý xe điện đa thương hiệu" (EV Multi-brand Hub), hợp tác với BYD, MG và VinFast.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương chuyển dịch sang phân phối xe điện là chiến lược trọng tâm trong 5 năm tới.
+- Đồng ý phương án chuyển đổi 02 showroom tại Bình Chánh và Thủ Đức sang mô hình EV Hub.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện báo cáo tài chính và phương án thoái vốn | Chị Lan (Phòng Tài chính) | 15/06/2024 |
+| Làm việc với điện lực về trạm biến áp cho các showroom | Anh Nam (Phòng Kỹ thuật) | 20/06/2024 |
+[09:16] Ờ, cái vụ điện lực để anh trực tiếp quan hệ. Còn cái vụ bảo hành bảo trì thì sao Hùng? Thợ xe xăng của mình giờ có sửa được xe điện không? Hay là phải tuyển mới toàn bộ?
+[09:18] Dạ vầy nè sếp, cấu tạo xe điện nó khác hoàn toàn xe xăng. Nó không có động cơ đốt trong, không có hộp số phức tạp nhưng lại cực kỳ rắc rối về phần mềm và hệ thống pin cao áp. Em định là mình sẽ chọn ra 10 bạn kỹ thuật viên giỏi nhất hiện tại để gửi đi đào tạo chuyên sâu ở nước ngoài trong vòng 3 tháng. Song song đó mình phải tuyển thêm mấy bạn chuyên về điện tử viễn thông và IT nữa.
+[09:20] Tuyển thêm IT hả? Sửa xe mà cũng cần IT nữa sao em?
+[09:22] Dạ sếp, xe điện giờ nó như cái điện thoại di động chạy trên bánh xe vậy đó. Lỗi phần mềm, lỗi kết nối sensor là chuyện thường ngày. Không có IT là không đọc được lỗi đâu sếp.
+[09:24] Ờ, nghe cũng hợp lý. Lan nè, em tính xem tổng mức đầu tư cho cái showroom xe điện đầu tiên ở quận 7 là bao nhiêu?
+[09:26] Dạ, tiền mặt bằng mình có sẵn rồi, nhưng tiền cải tạo, lắp trạm sạc nhanh, mua trang thiết bị chẩn đoán chuyên dụng và tiền cọc nhập xe mẫu dự kiến rơi vào khoảng 50 tỷ đồng cho một điểm sếp ạ.
+[09:28] 50 tỷ... Mà mình định mở chuỗi 5 điểm trong 3 năm tới đúng không? Tức là cần 250 tỷ. Con số này không nhỏ đâu nha.
+[09:30] Dạ sếp, bởi vậy em mới đề xuất mình nên thoái vốn bớt ở 2 showroom xe xăng đang có doanh số thấp để dồn lực cho EV. Mình phải chấp nhận "chặt tay cứu thân" thôi sếp ạ.
+[09:32] Chặt tay cứu thân hả... Ờ, Lan nói cũng có lý. Cái showroom ở Bình Chánh với Thủ Đức dạo này xe xăng bán chậm thiệt. Hay là mình chuyển đổi công năng hai chỗ đó sang làm xe điện luôn được không Nam?
+
+<|output|>
+# Chiến lược chuyển dịch sang phân phối xe điện (EV) giai đoạn 2024-2029
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất lộ trình chuyển dịch mô hình kinh doanh từ xe động cơ đốt trong sang xe điện (EV).
+- Đánh giá nguồn lực tài chính, hạ tầng kỹ thuật và chiến lược hợp tác với các hãng xe điện.
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng phát triển mạnh mẽ của thị trường xe điện toàn cầu và tại Việt Nam.
+- Mô hình kinh doanh: "Đại lý xe điện đa thương hiệu" (EV Multi-brand Hub), hợp tác với BYD, MG và VinFast.
+- Hạ tầng: Đầu tư hệ thống trạm sạc nhanh chuẩn CCS2 và xin cấp trạm biến áp riêng cho showroom.
+- Tài chính: Tổng mức đầu tư dự kiến 50 tỷ đồng cho một showroom điểm. Cần 250 tỷ cho chuỗi 5 điểm trong 3 năm.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương chuyển dịch sang phân phối xe điện là chiến lược trọng tâm trong 5 năm tới.
+- Đồng ý phương án chuyển đổi 02 showroom tại Bình Chánh và Thủ Đức sang mô hình EV Hub.
+- Giao bộ phận Tài chính lập phương án thoái vốn và cân đối dòng tiền cho khoản đầu tư 250 tỷ đồng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện báo cáo tài chính và phương án thoái vốn | Chị Lan (Phòng Tài chính) | 15/06/2024 |
+| Làm việc với điện lực về trạm biến áp cho các showroom | Anh Nam (Phòng Kỹ thuật) | 20/06/2024 |
+| Đàm phán hợp đồng đại lý với các hãng xe BYD, MG | Ban Giám đốc | 30/06/2024 |
+| Lên danh sách nhân sự đi đào tạo nước ngoài | Anh Hùng (Phòng Nhân sự) | 10/06/2024 |

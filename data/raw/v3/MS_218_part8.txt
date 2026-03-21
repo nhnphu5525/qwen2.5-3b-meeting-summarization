@@ -1,0 +1,75 @@
+<|input|>
+# Báo cáo cuộc họp về Công nghiệp nặng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Công nghiệp nặng hiện tại
+- Giải quyết các tồn đọng liên quan đến nguyên liệu đầu vào
+- Định hướng phát triển khu công nghiệp trong quý tới
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý nguyên liệu đầu vào
+- Thiếu hụt nguồn lực cho thép
+- Áp lực từ phía đối tác về thép
+- Tác động của thị trường đến kế hoạch chung
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho dây chuyền sản xuất
+- Phân bổ thêm 2 nhân sự cho mảng nhà máy
+- Hoàn thiện báo cáo khu công nghiệp trước cuối tuần
+- Duyệt chi phí dự phòng cho nguyên liệu đầu vào
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ dây chuyền sản xuất | Bộ phận Pháp lý | 05/11/2026 |
+| Liên hệ đối tác về linh kiện | Anh Hoàng | 01/12/2026 |
+| Kiểm tra tiến độ thép | Anh Hoàng | 26/08/2026 |
+| Lập kế hoạch chi tiết cho linh kiện | Chị Mai | 07/10/2026 |
+| Báo cáo kết quả nhà máy | Team Technical | 04/05/2026 |
+
+[11:32] Thực ra Thôi được rồi, vậy thống nhất là triển khai dây chuyền sản xuất theo hướng đó.
+[11:33] Bên đối tác họ cứ hỏi mãi về khu công nghiệp, mình phải trả lời sao đây?
+[14:08] Để tôi check lại lịch của bên thép xem họ rảnh khi nào.
+[11:35] Để tôi check lại lịch của bên thép xem họ rảnh khi nào.
+[11:36] Dạ Vấn đề dây chuyền sản xuất thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[14:14] Đúng rồi, cái nhà máy cần được ưu tiên xử lý trước thứ Sáu này.
+[11:38] Về phần ngân sách cho nguyên liệu đầu vào, sếp đã duyệt chưa nhỉ?
+[11:39] Bên đối tác họ cứ hỏi mãi về nguyên liệu đầu vào, mình phải trả lời sao đây?
+[11:40] Để tôi check lại lịch của bên dây chuyền sản xuất xem họ rảnh khi nào.
+[11:41] Cần phải làm rõ hơn về nguyên liệu đầu vào trong hợp đồng mới.
+[14:24] Đúng rồi, cái nhà máy cần được ưu tiên xử lý trước thứ Sáu này.
+
+<|output|>
+# Báo cáo cuộc họp về Công nghiệp nặng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Công nghiệp nặng hiện tại
+- Giải quyết các tồn đọng liên quan đến nguyên liệu đầu vào
+- Định hướng phát triển khu công nghiệp trong quý tới
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý nguyên liệu đầu vào
+- Thiếu hụt nguồn lực cho thép
+- Áp lực từ phía đối tác về thép
+- Tác động của thị trường đến kế hoạch chung
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho dây chuyền sản xuất
+- Phân bổ thêm 2 nhân sự cho mảng nhà máy
+- Hoàn thiện báo cáo khu công nghiệp trước cuối tuần
+- Duyệt chi phí dự phòng cho nguyên liệu đầu vào
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ dây chuyền sản xuất | Bộ phận Pháp lý | 05/11/2026 |
+| Liên hệ đối tác về linh kiện | Anh Hoàng | 01/12/2026 |
+| Kiểm tra tiến độ thép | Anh Hoàng | 26/08/2026 |
+| Lập kế hoạch chi tiết cho linh kiện | Chị Mai | 07/10/2026 |
+| Báo cáo kết quả nhà máy | Team Technical | 04/05/2026 |

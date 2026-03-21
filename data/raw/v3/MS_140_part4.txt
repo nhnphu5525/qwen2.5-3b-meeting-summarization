@@ -1,0 +1,72 @@
+<|input|>
+# Hội nghị tổng kết năm và định hướng phát triển 5 năm (2024-2029)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Tổng kết tình hình kinh doanh, tài chính, sản xuất, marketing và IT trong năm vừa qua.
+- Đánh giá các thành tựu đạt được và những tồn đọng cần xử lý ngay trong năm tới.
+- Thảo luận và thống nhất tầm nhìn chiến lược 5 năm (2024-2029) với mục tiêu doanh thu 15.000 tỷ đồng.
+
+### 2. Các vấn đề đã thảo luận
+- Báo cáo năm cũ:
+- Định hướng 5 năm tới (3 trụ cột):
+- Vấn đề nguồn lực:
+
+### 3. Kết luận và quyết định
+- Chốt mục tiêu doanh thu 15.000 tỷ đồng vào năm 2029.
+- Phê duyệt lộ trình đầu tư IT trong 3 năm.
+- Giao nhiệm vụ cho các bộ phận chuẩn bị tiền đề cho nhà máy Dược phẩm tại Long An.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Strategic Map 2024-2029 chi tiết | Anh Thắng - Tổng Giám đốc | 15/01/2025 |
+| Lập đề án đầu tư hạ tầng Private Cloud | Anh Dũng - Giám đốc IT | 30/01/2025 |
+| Khảo sát thực địa và pháp lý đất Long An | Anh Hùng - Giám đốc Sản xuất | 20/02/2025 |
+| Xây dựng phương án huy động vốn và M&A | Chị Lan - CFO | 15/03/2025 |
+| Tuyển dụng nhân sự quản lý mảng Dược phẩm | Chị Tuyết - Giám đốc Marketing | 01/03/2025 |
+[09:37:30] Dạ để đạt chuẩn GMP thì mình phải xây mới hoàn toàn một khu xưởng riêng biệt anh ạ, không thể làm chung với thực phẩm được đâu. Em dự kiến mình sẽ sử dụng quỹ đất dự phòng ở Long An để làm nhà máy dược. Quy trình này mất ít nhất 2 năm để xin giấy phép và xây dựng. Nên nếu muốn năm 2029 có doanh thu từ mảng này thì năm sau mình phải khởi công ngay anh ạ.
+[09:43:45] Đúng vậy. Tuyết ơi, mảng dược phẩm thì cách làm marketing khác hoàn toàn thực phẩm đó nha. Em có đủ nhân sự chuyên môn để cân cái này không?
+[09:50:00] Dạ em đã bắt đầu săn đầu người cho vị trí Brand Manager mảng Dược rồi anh. Em nghĩ mình nên đi theo hướng "Dược mỹ phẩm" hoặc "Thực phẩm bảo vệ sức khỏe" có nguồn gốc thiên nhiên, vì mình đã có sẵn uy tín trong mảng thực phẩm sạch rồi, khách hàng sẽ dễ tin tưởng hơn.
+[09:56:15] Rất hay. Anh Thắng lưu ý thêm cái vụ mua bán sáp nhập (M&A) nha. Thay vì tự làm từ đầu, mình có thể tìm mấy công ty dược đang gặp khó khăn về tài chính nhưng có sẵn giấy phép và nhà máy để mua lại cho nhanh. Chị Lan nghiên cứu phương án huy động vốn qua kênh trái phiếu hoặc phát hành thêm cổ phiếu cho cổ đông chiến lược để có nguồn lực làm M&A nhé.
+[10:02:30] Dạ em đang làm việc với một số quỹ đầu tư của Singapore, họ rất quan tâm đến mô hình tăng trưởng bền vững của mình. Nếu mình trình được một bản kế hoạch 5 năm thuyết phục như hôm nay, em tin là họ sẽ xuống tiền thôi ạ.
+[10:08:45] Ok, vậy thống nhất thế này. Anh Thắng hoàn thiện bản chiến lược chi tiết, gửi cho tôi và Ban quản trị xem lại lần cuối trước Tết âm lịch. Anh Hùng lo vụ khảo sát đất đai ở Long An. Dũng bắt tay vào lập đề án Private Cloud. Chị Lan lo vụ nguồn vốn. Tuyết tiếp tục đẩy mạnh thương hiệu.
+[10:15:00] Chúng ta là một khối thống nhất. Năm qua khó khăn mình đã vượt qua được thì 5 năm tới không có lý do gì mình không làm được. Tôi tin vào năng lực và sự tận tâm của các anh chị ở đây.
+[10:21:15] Dạ, chúng em xin hứa sẽ nỗ lực hết mình ạ!
+[10:27:30] Một năm mới sắp đến, chúc mọi người nhiều sức khỏe và giữ vững ngọn lửa nhiệt huyết nhé. Hội nghị tổng kết hôm nay kết thúc tại đây. Lát nữa mời mọi người sang nhà hàng dự tiệc tất niên cùng anh em nhân viên nhé.
+[10:33:45] Dạ vâng ạ, cảm ơn Chủ tịch!
+[10:40:00] Chào anh Minh, chào mọi người nha. Hùng ơi, lát đi cùng xe với anh qua bên tiệc nhé.
+
+<|output|>
+# Hội nghị tổng kết năm và định hướng phát triển 5 năm (2024-2029)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Tổng kết tình hình kinh doanh, tài chính, sản xuất, marketing và IT trong năm vừa qua.
+- Đánh giá các thành tựu đạt được và những tồn đọng cần xử lý ngay trong năm tới.
+- Thảo luận và thống nhất tầm nhìn chiến lược 5 năm (2024-2029) với mục tiêu doanh thu 15.000 tỷ đồng.
+
+### 2. Các vấn đề đã thảo luận
+- Báo cáo năm cũ:
+- Định hướng 5 năm tới (3 trụ cột):
+- Vấn đề nguồn lực:
+
+### 3. Kết luận và quyết định
+- Chốt mục tiêu doanh thu 15.000 tỷ đồng vào năm 2029.
+- Phê duyệt lộ trình đầu tư IT trong 3 năm.
+- Giao nhiệm vụ cho các bộ phận chuẩn bị tiền đề cho nhà máy Dược phẩm tại Long An.
+- Tổng Giám đốc hoàn thiện bản kế hoạch chiến lược chi tiết trình Ban Quản trị trước Tết Nguyên đán.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Strategic Map 2024-2029 chi tiết | Anh Thắng - Tổng Giám đốc | 15/01/2025 |
+| Lập đề án đầu tư hạ tầng Private Cloud | Anh Dũng - Giám đốc IT | 30/01/2025 |
+| Khảo sát thực địa và pháp lý đất Long An | Anh Hùng - Giám đốc Sản xuất | 20/02/2025 |
+| Xây dựng phương án huy động vốn và M&A | Chị Lan - CFO | 15/03/2025 |
+| Tuyển dụng nhân sự quản lý mảng Dược phẩm | Chị Tuyết - Giám đốc Marketing | 01/03/2025 |
+| Thu hồi nợ quá hạn khu vực miền Trung | Chị Lan & Khối Kinh doanh | 31/03/2025 |

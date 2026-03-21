@@ -1,0 +1,53 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00:05] Chào các thầy cô nha. Tranh thủ giờ nghỉ trưa, mình ngồi lại xíu để bàn cái vụ triển khai chương trình STEM cho khối tiểu học trường mình năm tới nè.
+[14:01:20] Dạ, em nghe nói cái này lâu rồi mà chưa biết mình định làm cụ thể ra sao á thầy Hiệu trưởng. Thấy mấy trường khác họ làm rầm rộ quá, không biết trường mình có theo nổi không nữa.
+[14:02:45] Thì bởi vậy mới cần họp nè cô Mai. Anh thấy cái STEM này nó hay ở chỗ là cho mấy đứa nhỏ vừa học vừa chơi, mà lại rèn được tư duy thực tế. Nhưng cái khó là kinh phí với lại giáo viên mình có ai rành không?
+[14:04:10] Em thấy vầy nè, trước mắt mình đừng có làm gì đao to búa lớn quá. Cứ bắt đầu từ mấy cái mô hình đơn giản thôi, ví dụ như lắp ghép robot mini hay là làm mấy cái thí nghiệm khoa học vui vui bằng đồ tái chế á. Như vậy vừa tiết kiệm mà các con lại hào hứng.
+[14:05:35] Ý của cô Lan cũng hay đó. Nhưng mà cô ơi, đồ tái chế thì cũng phải có người hướng dẫn chứ. Em lo là giáo viên mình lâu nay quen dạy theo sách giáo khoa rồi, giờ bảo họ hướng dẫn làm ba cái đồ chơi khoa học này chắc họ lúng túng lắm.
+[14:07:00] Đúng rồi, cái khâu tập huấn là quan trọng nhất. Thầy nghĩ mình nên mời một bên chuyên gia về STEM họ về họ "training" cho đội ngũ giáo viên cốt cán của mình trước. Rồi mấy thầy cô đó về triển khai lại cho tổ chuyên môn.
+[14:08:25] Dạ, vậy thì mình phải trích ngân sách ra để mời chuyên gia rồi. Với lại phòng ốc nữa thầy ơi. Cái phòng Lab cũ của mình giờ bừa bộn quá, muốn làm STEM thì phải dọn dẹp, trang bị thêm mấy cái bàn ghế linh hoạt để các con dễ làm việc nhóm.
+
+<|output|>
+# Triển khai chương trình STEM tại trường tiểu học
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận kế hoạch triển khai chương trình giáo dục STEM cho khối tiểu học trong năm học mới.
+- Xác định các bước chuẩn bị về nhân sự, cơ sở vật chất và nội dung giảng dạy.
+
+### 2. Các vấn đề đã thảo luận
+- Hình thức triển khai: Bắt đầu từ những mô hình đơn giản, sử dụng vật liệu tái chế để tiết kiệm và tạo sự gần gũi cho học sinh.
+- Đào tạo đội ngũ: Cần mời chuyên gia về tập huấn cho giáo viên cốt cán vì giáo viên hiện tại chưa có nhiều kinh nghiệm về STEM.
+- Cơ sở vật chất: Cải tạo phòng Lab cũ và mua sắm các bộ kit, dụng cụ cần thiết (kìm, kéo, keo, linh kiện điện tử).
+
+### 3. Kết luận và quyết định
+- Thống nhất triển khai thí điểm tại một số lớp trong học kỳ 1 trước khi nhân rộng.
+- Duyệt kinh phí sửa chữa phòng Lab và mua sắm thiết bị cơ bản.
+- Quyết định mời chuyên gia tư vấn và tập huấn chuyên môn cho giáo viên.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập danh sách lớp thí điểm và liên hệ chuyên gia tập huấn | Thầy Nam | 05/11/2023 |
+| Khảo sát, lập dự toán sửa chữa phòng Lab và mua sắm thiết bị | Cô Mai | 10/11/2023 |
+| Soạn thảo tài liệu hướng dẫn STEM tích hợp cho giáo viên | Tổ chuyên môn | 20/11/2023 |

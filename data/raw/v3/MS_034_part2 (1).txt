@@ -1,0 +1,64 @@
+<|input|>
+# Quyết toán thuế năm và xử lý chứng từ kế toán
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tình hình hóa đơn, chứng từ cuối năm để chuẩn bị cho quyết toán thuế.
+- Giải quyết các tồn đọng về chi phí không hợp lệ từ bộ phận kinh doanh.
+- Đẩy nhanh tiến độ hoàn thuế GTGT.
+
+### 2. Các vấn đề đã thảo luận
+- Hóa đơn tiếp khách từ bộ phận kinh doanh bị sai thông tin hoặc thiếu bảng kê đính kèm.
+- Thiếu hóa đơn đỏ cho các chuyến vận chuyển thuê ngoài lẻ.
+- Hồ sơ hoàn thuế GTGT bị vướng do lệch ngày thanh toán qua ngân hàng quốc tế.
+
+### 3. Kết luận và quyết định
+- Kiên quyết loại bỏ các hóa đơn không hợp lệ nếu không thể bổ sung chứng từ.
+- Yêu cầu bên vận chuyển cung cấp hóa đơn hoặc lập bảng kê theo đúng quy định pháp luật.
+- Liên hệ ngân hàng để lấy xác nhận điện chuyển tiền giải trình cho hồ sơ hoàn thuế.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý hóa đơn tiếp khách của bộ phận kinh doanh | Nam | 10/12/2024 |
+| Rà soát hồ sơ vận chuyển thuê ngoài | Nam | 12/12/2024 |
+| Làm việc với ngân hàng về điện chuyển tiền (Swift) | Lan | 05/12/2024 |
+[08:50] Vâng, em sẽ làm việc ngay chiều nay. À, còn phần lương thưởng cuối năm, chị dự định hạch toán vào năm nay hay sang năm sau?
+[08:52] Để cân đối thuế thì mình nên trích trước quỹ lương dự phòng 17% theo luật. Như vậy vừa đảm bảo quyền lợi nhân viên, vừa tối ưu được chi phí thuế năm nay. Cái này em tính toán số liệu cụ thể đi.
+[08:54] Chốt lại nhé: Nam giải quyết dứt điểm đống hóa đơn kinh doanh, Lan hoàn thiện hồ sơ hoàn thuế GTGT, chị sẽ xem lại tờ khai quyết toán tạm tính quý 4. Mọi người tập trung cao độ, đừng để sai sót gì nhé.
+[08:56] Vâng ạ, tụi em sẽ cố gắng.
+[08:58] Nghỉ thôi, đi làm việc tiếp đi.
+
+<|output|>
+# Quyết toán thuế năm và xử lý chứng từ kế toán
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tình hình hóa đơn, chứng từ cuối năm để chuẩn bị cho quyết toán thuế.
+- Giải quyết các tồn đọng về chi phí không hợp lệ từ bộ phận kinh doanh.
+- Đẩy nhanh tiến độ hoàn thuế GTGT và lập kế hoạch chi phí lương thưởng cuối năm.
+
+### 2. Các vấn đề đã thảo luận
+- Hóa đơn tiếp khách từ bộ phận kinh doanh bị sai thông tin hoặc thiếu bảng kê đính kèm.
+- Thiếu hóa đơn đỏ cho các chuyến vận chuyển thuê ngoài lẻ.
+- Hồ sơ hoàn thuế GTGT bị vướng do lệch ngày thanh toán qua ngân hàng quốc tế.
+- Cần tối ưu thuế thu nhập doanh nghiệp thông qua việc trích lập dự phòng quỹ lương.
+
+### 3. Kết luận và quyết định
+- Kiên quyết loại bỏ các hóa đơn không hợp lệ nếu không thể bổ sung chứng từ.
+- Yêu cầu bên vận chuyển cung cấp hóa đơn hoặc lập bảng kê theo đúng quy định pháp luật.
+- Liên hệ ngân hàng để lấy xác nhận điện chuyển tiền giải trình cho hồ sơ hoàn thuế.
+- Thực hiện trích trước quỹ lương dự phòng 17% để đưa vào chi phí năm nay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý hóa đơn tiếp khách của bộ phận kinh doanh | Nam | 10/12/2024 |
+| Làm việc với ngân hàng về điện chuyển tiền (Swift) | Lan | 05/12/2024 |
+| Tính toán số liệu trích lập quỹ lương dự phòng | Lan | 15/12/2024 |
+| Rà soát hồ sơ vận chuyển thuê ngoài | Nam | 12/12/2024 |
+| Lập tờ khai quyết toán thuế TNDN tạm tính | Chị Kế toán trưởng | 20/12/2024 |

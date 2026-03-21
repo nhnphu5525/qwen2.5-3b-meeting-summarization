@@ -1,0 +1,61 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:30] Có ai phụ trách chính cho mảng xuất khẩu nông sản chưa nhỉ?
+[08:32] Có ai phụ trách chính cho mảng công nghệ sinh học chưa nhỉ?
+[08:32] Tôi đề xuất mình sẽ tập trung nguồn lực vào phân bón vi sinh trong tuần này.
+[08:33] Chắc là Vâng, tôi cũng thấy việc tối ưu nguồn nước sạch là rất cần thiết.
+[08:38] Thực ra thì phân bón vi sinh không phải là mục tiêu duy nhất của mình.
+[08:35] Thì đấy Liệu mình có thể đẩy nhanh tiến độ cho phân bón vi sinh được không?
+[08:36] Thì đấy Để tôi check lại với bên phân bón vi sinh xem tình hình thế nào nhé.
+[08:37] Liệu mình có thể đẩy nhanh tiến độ cho công nghệ sinh học được không?
+[08:46] Ý tôi là Tôi nghĩ là mình nên xem xét lại cái xuất khẩu nông sản này một chút.
+[08:48] Mọi người có thấy vụ nguồn nước sạch dạo này bị chậm không?
+[08:40] Chào cả nhà, chúng ta bắt đầu bàn về công nghệ sinh học nhé.
+[08:52] Cái này nè Chào cả nhà, chúng ta bắt đầu bàn về canh tác hữu cơ nhé.
+[08:42] À Vâng, tôi cũng thấy việc tối ưu canh tác hữu cơ là rất cần thiết.
+[08:43] Đừng quên là canh tác hữu cơ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[08:58] Ờm, cái quản lý sâu bệnh này thực ra là một vấn đề khá nan giải.
+[09:00] Đừng quên là nguồn nước sạch cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:02] Cần phải làm rõ thêm các chi tiết liên quan đến nguồn nước sạch.
+[09:04] Cái phân bón vi sinh này hình như đang bị vướng chỗ nào đó đúng không?
+[09:06] Cái canh tác hữu cơ này hình như đang bị vướng chỗ nào đó đúng không?
+[09:08] Đừng quên là phân bón vi sinh cũng ảnh hưởng nhiều đến kết quả chung đó.
+[08:50] Đừng quên là canh tác hữu cơ cũng ảnh hưởng nhiều đến kết quả chung đó.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Nông nghiệp Bền vững
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho nguồn nước sạch
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện công nghệ sinh học
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ xuất khẩu nông sản | Phòng Nông nghiệp Bền vững | 27/04/2026 |

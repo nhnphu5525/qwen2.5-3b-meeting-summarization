@@ -1,0 +1,62 @@
+<|input|>
+# Chốt Concept và Kế hoạch Triển khai Bộ sưu tập Thời trang Thu Đông 2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất concept, chất liệu và màu sắc chủ đạo cho bộ sưu tập (BST) Thu Đông 2024.
+- Phân chia nhiệm vụ cho các bộ phận Thiết kế, Sản xuất và Marketing.
+
+### 2. Các vấn đề đã thảo luận
+- **Concept chủ đạo:** "Modern Heritage" - Sự giao thoa giữa form dáng trang phục truyền thống Việt Nam (áo dài, áo tứ thân) và phong cách hiện đại phương Tây.
+- **Chất liệu & Màu sắc:** Sử dụng vải dạ (tweed), len (wool) cao cấp phối với lụa tơ tằm. Màu sắc chủ đạo: Nâu đất, xanh rêu đậm, đỏ rượu chát.
+
+### 3. Kết luận và quyết định
+- Phê duyệt concept "Modern Heritage" và tên dự kiến "Ký ức Đông Dương".
+- Chốt timeline: Ra mắt sản phẩm vào tháng 8/2024.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện 25 bản vẽ kỹ thuật chi tiết | Ly (Thiết kế) | 15/05/2024 |
+| Đặt vải mẫu và lên mẫu prototype đầu tiên | Nam (Sản xuất) | 30/05/2024 |
+| Liên hệ và đặt hàng gia công tại làng nghề Nam Định | Ly | 20/05/2024 |
+[10:23:00] Dạ, em dự kiến là có 15 mẫu nữ và 10 mẫu nam anh ạ. Trong đó sẽ có 5 mẫu "signature" là áo dài dạ, còn lại là các set đồ phối như blazer, chân váy midi với lại măng tô dáng dài. Em cũng muốn thêm mấy cái phụ kiện như khăn len dệt thủ công với túi xách bằng vải gấm nữa cho nó trọn bộ.
+[10:26:15] Khăn len dệt thủ công hả? Cái này tốn công lắm đó nha. Mình có đủ thợ để làm không Ly? Hay là mình phối hợp với mấy làng nghề dệt để họ làm gia công cho mình?
+[10:29:30] Dạ, em cũng đang tính phương án đó anh. Em có quen một tổ hợp dệt ở Nam Định, họ làm tay nghề khéo lắm. Mình đưa mẫu cho họ dệt thì giá thành vừa rẻ mà lại vừa tạo được công ăn việc làm cho bà con, mình lại có cái để kể câu chuyện thương hiệu (brand storytelling) nữa.
+[10:32:45] Ý tưởng đó hay đấy! Khách hàng bây giờ họ chuộng mấy cái sản phẩm có yếu tố cộng đồng và thủ công lắm. Phương nè, bên Marketing em thấy cái concept này có dễ làm campaign không?
+[10:36:00] Dạ anh, em thấy rất tiềm năng ạ. Mình có thể lấy tên BST là "Ký ức Đông Dương" chẳng hạn. Mình sẽ chụp lookbook ở mấy khu biệt thự cổ ở Hà Nội hoặc Đà Lạt, nó sẽ cực kỳ hợp với cái vibe "Modern Heritage" mà chị Ly đưa ra. Em cũng định mời một vài cặp đôi KOL có gu thời trang thanh lịch để làm gương mặt đại diện cho đợt này.
+[10:39:15] Ờ, Hà Nội mùa thu đông thì đẹp rồi, không còn gì bàn cãi. Nhưng Phương lưu ý cái timeline nha. Bây giờ là tháng 4 rồi, mình phải ra mắt BST vào tầm tháng 8 hoặc tháng 9 thì mới kịp đón sóng mùa đông. Ly phải hoàn thiện bản vẽ chi tiết và ra mẫu mẫu đầu tiên (prototype) trong tháng 5 này cho anh.
+
+<|output|>
+# Chốt Concept và Kế hoạch Triển khai Bộ sưu tập Thời trang Thu Đông 2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất concept, chất liệu và màu sắc chủ đạo cho bộ sưu tập (BST) Thu Đông 2024.
+- Phân chia nhiệm vụ cho các bộ phận Thiết kế, Sản xuất và Marketing.
+- Thiết lập lộ trình thời gian (timeline) sản xuất và ra mắt sản phẩm.
+
+### 2. Các vấn đề đã thảo luận
+- **Concept chủ đạo:** "Modern Heritage" - Sự giao thoa giữa form dáng trang phục truyền thống Việt Nam (áo dài, áo tứ thân) và phong cách hiện đại phương Tây.
+- **Chất liệu & Màu sắc:** Sử dụng vải dạ (tweed), len (wool) cao cấp phối với lụa tơ tằm. Màu sắc chủ đạo: Nâu đất, xanh rêu đậm, đỏ rượu chát.
+- **Danh mục sản phẩm:** 15 mẫu nữ, 10 mẫu nam. Bao gồm áo dài cách tân (signature), blazer, măng tô, chân váy midi và phụ kiện (khăn len dệt tay, túi gấm).
+- **Sản xuất:** Ứng dụng công nghệ cắt laser họa tiết cổ truyền trên vải dạ. Hợp tác với làng nghề dệt Nam Định cho các sản phẩm thủ công để tối ưu chi phí và tạo câu chuyện thương hiệu.
+
+### 3. Kết luận và quyết định
+- Phê duyệt concept "Modern Heritage" và tên dự kiến "Ký ức Đông Dương".
+- Chốt timeline: Ra mắt sản phẩm vào tháng 8/2024.
+- Giao Ly hoàn thiện bản vẽ kỹ thuật trong tháng 5/2024.
+- Giao Nam làm việc với nhà cung cấp vải Hàn Quốc và giám sát quy trình lên mẫu prototype.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện 25 bản vẽ kỹ thuật chi tiết | Ly (Thiết kế) | 15/05/2024 |
+| Đặt vải mẫu và lên mẫu prototype đầu tiên | Nam (Sản xuất) | 30/05/2024 |
+| Liên hệ và đặt hàng gia công tại làng nghề Nam Định | Ly | 20/05/2024 |
+| Lập kế hoạch chi tiết buổi chụp Lookbook | Phương (Marketing) | 10/06/2024 |
+| Khảo sát và chốt nhà cung cấp bao bì cao cấp | Phương | 25/05/2024 |

@@ -1,0 +1,64 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[15:00] Chào các anh chị, hôm nay chúng ta họp để đánh giá phương án mở rộng nhà máy xử lý rác thải sinh hoạt thành phân bón hữu cơ của công ty.
+[15:02] Hiện tại bãi rác của thành phố đã quá tải rồi, nếu mình không nâng công suất tách lọc rác tại nguồn thì khó mà làm xuể.
+[15:05] Tôi thấy vấn đề là rác hữu cơ vẫn bị lẫn rất nhiều túi nilon và kim loại, làm hỏng dàn máy nghiền của mình liên tục.
+[15:08] Cái này bác Thành nói đúng, khâu phân loại đầu vào đang là nút thắt cổ chai lớn nhất hiện nay.
+[15:11] Chị Minh xem thử mình có thể triển khai chương trình tặng quà đổi rác sạch cho các hộ dân xung quanh để họ phân loại kỹ hơn không?
+[15:14] Làm vậy thì tốn kém chi phí quà tặng nhưng bù lại mình giảm được tiền bảo trì máy móc và tăng chất lượng phân đầu ra.
+[15:17] Ngoài ra, tôi muốn đầu tư thêm một dây chuyền tách lọc bằng cảm biến quang học để loại bỏ nhựa tự động.
+[15:20] Chi phí đầu tư cho dây chuyền đó không rẻ đâu, bác Thành phải tính toán kỹ thời gian hoàn vốn gửi cho ban giám đốc xem xét.
+[15:23] Về đầu ra của phân bón hữu cơ, em đã liên hệ được với một số trang trại ở Lâm Đồng, họ sẵn sàng bao tiêu nếu mình đạt chứng chỉ VietGAP.
+[15:26] Vậy chị Minh phụ trách hoàn thiện hồ sơ đăng ký chất lượng và gửi mẫu đi kiểm định ngay trong tháng này nhé.
+[15:29] Hạn chót để có báo cáo khả thi cho việc đầu tư máy mới là thứ Hai tới, bác Thành lưu ý giúp em.
+[15:32] Vâng, tôi sẽ làm việc với bên cung cấp thiết bị để lấy báo giá chính xác nhất.
+
+<|output|>
+# Mở rộng năng lực xử lý rác thải và sản xuất phân bón hữu cơ
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Tìm giải pháp nâng cao hiệu quả phân loại rác đầu vào để bảo vệ máy móc.
+- Thảo luận kế hoạch đầu tư công nghệ mới và tìm kiếm thị trường đầu ra cho sản phẩm phân bón.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng bãi rác quá tải và sự cần thiết của việc nâng công suất xử lý.
+- Vấn đề rác lẫn tạp chất gây hư hỏng thiết bị và làm giảm chất lượng phân bón.
+- Đề xuất chương trình khuyến khích người dân phân loại rác tại nguồn.
+- Xem xét đầu tư dây chuyền tách lọc rác bằng cảm biến quang học hiện đại.
+- Cơ hội bao tiêu sản phẩm từ các trang trại nông nghiệp công nghệ cao.
+- Yêu cầu về chứng chỉ chất lượng để gia nhập thị trường chính ngạch.
+
+### 3. Kết luận và quyết định
+- Giao bộ phận kỹ thuật lập dự toán chi tiết cho dây chuyền tách lọc nhựa tự động.
+- Triển khai thí điểm chương trình "Đổi rác lấy quà" tại khu vực lân cận nhà máy.
+- Tiến hành kiểm định chất lượng phân bón để đăng ký chứng chỉ VietGAP.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập báo cáo khả thi đầu tư dây chuyền quang học | Bác Thành | 23/03/2026 |
+| Xây dựng kế hoạch chương trình "Đổi rác lấy quà" | Chị Minh | 26/03/2026 |
+| Gửi mẫu phân bón đi kiểm định chất lượng | Chị Minh | 28/03/2026 |
+| Liên hệ các trang trại để ký biên bản ghi nhớ bao tiêu | Phòng Kinh doanh | 10/04/2026 |
+| Rà soát quy trình bảo trì máy nghiền định kỳ | Bác Thành | 30/03/2026 |

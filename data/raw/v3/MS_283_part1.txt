@@ -1,0 +1,56 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào mọi người, hôm nay chúng ta họp để đánh giá lại quy trình chăm sóc bệnh nhân tại khoa Cấp cứu và triển khai kế hoạch nâng cấp hệ thống quản lý bệnh viện (HIS) mới.
+[09:03] Thời gian qua, tôi nhận thấy có nhiều phản hồi về việc thời gian chờ đợi tại khu vực sàng lọc quá lâu, đôi khi lên tới 45 phút trong giờ cao điểm.
+[09:06] Đúng vậy, lượng bệnh nhân nhập viện tăng đột biến trong mùa dịch sốt xuất huyết vừa qua đã làm quá tải đội ngũ điều dưỡng tại quầy tiếp đón.
+[09:09] Tôi đề xuất chúng ta cần phân loại bệnh nhân theo mô hình 5 mức độ ưu tiên của quốc tế để đảm bảo những ca nguy kịch được xử lý ngay lập tức.
+[09:12] Việc này đòi hỏi chúng ta phải có thêm ít nhất 2 bác sĩ trực chiến tại khu vực phân loại và một hệ thống bảng điện tử hiển thị thời gian chờ dự kiến.
+[09:15] Về phần hệ thống HIS, phiên bản hiện tại đã quá cũ, thường xuyên xảy ra tình trạng treo máy khi bác sĩ kê đơn thuốc hoặc tra cứu lịch sử bệnh án.
+[09:18] Hệ thống mới mà chúng ta đang xem xét có tích hợp AI để cảnh báo tương tác thuốc và hỗ trợ chẩn đoán hình ảnh. Điều này sẽ giúp giảm thiểu sai sót y khoa.
+[09:21] Tuy nhiên, việc chuyển đổi dữ liệu từ hệ thống cũ sang hệ thống mới là một thách thức lớn. Chúng ta có hàng triệu bản ghi bệnh án trong 10 năm qua.
+[09:24] Phòng Công nghệ thông tin cần phối hợp chặt chẽ với đơn vị cung cấp giải pháp để đảm bảo tính toàn vẹn của dữ liệu và không làm gián đoạn hoạt động khám chữa bệnh.
+[09:27] Tôi cũng muốn đề cập đến vấn đề an toàn người bệnh. Gần đây có một số sự cố nhầm lẫn tên bệnh nhân khi phát thuốc, rất may là đã được phát hiện kịp thời.
+
+<|output|>
+# Nâng cao chất lượng dịch vụ y tế và triển khai hệ thống HIS mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá và cải thiện quy trình tiếp đón, sàng lọc bệnh nhân tại khoa Cấp cứu.
+- Triển khai kế hoạch nâng cấp hệ thống quản lý bệnh viện (HIS) tích hợp AI.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng quá tải và thời gian chờ đợi lâu tại khu vực sàng lọc.
+- Hệ thống HIS cũ thường xuyên gặp sự cố, ảnh hưởng đến hiệu suất làm việc.
+- Rủi ro nhầm lẫn trong quá trình phát thuốc và thực hiện các thủ tục y tế.
+
+### 3. Kết luận và quyết định
+- Áp dụng mô hình phân loại bệnh nhân 5 mức độ ưu tiên chuẩn quốc tế.
+- Đầu tư máy quét mã vạch cầm tay để kiểm soát danh tính bệnh nhân trước khi tiêm/phát thuốc.
+- Phê duyệt dự án nâng cấp hệ thống HIS mới có tính năng hỗ trợ chẩn đoán AI.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Triển khai phân loại bệnh nhân 5 mức độ | Khoa Cấp cứu | 15/04/2024 |
+| Chuyển đổi dữ liệu sang hệ thống HIS mới | Phòng IT | 30/06/2024 |

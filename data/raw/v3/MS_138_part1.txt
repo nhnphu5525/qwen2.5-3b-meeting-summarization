@@ -1,0 +1,47 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[15:00:00] Chào chị Loan, chào Minh. Hôm nay mình ngồi lại rà soát cái bảng P&L tháng vừa rồi nha. Anh thấy cái chỉ số OPEX (Operating Expenses) nó vọt lên kinh quá, vượt ngân sách tới 20% lận. Chị Loan giải trình sơ bộ cho anh cái "đỉnh" này nằm ở đâu vậy chị?
+[15:02:15] Dạ anh Khánh, em với Minh cũng vừa "mổ xẻ" cái data sáng nay. Sơ bộ là có 3 mảng tăng đột biến: một là chi phí marketing cho chiến dịch hè, hai là tiền điện nước vận hành kho bãi, và ba là chi phí sửa chữa bảo trì định kỳ cho dàn xe tải phân phối ạ.
+[15:04:30] Marketing thì anh hiểu, mình đã duyệt budget tăng cho đợt launch sản phẩm mới. Nhưng còn cái tiền điện nước với bảo trì xe thì sao mà tăng khiếp thế? Minh cho anh con số cụ thể xem nào.
+[15:06:45] Dạ vầy nè anh Khánh, tiền điện tháng này tăng 35% so với tháng trước. Nguyên nhân chính là do đợt nắng nóng kéo dài, hệ thống làm mát ở kho lạnh phải chạy 24/7 ở công suất tối đa để bảo quản thực phẩm. Còn về phần bảo trì xe, do đội xe của mình cũng đã cũ, đợt này phải thay thế hàng loạt lốp xe với đại tu động cơ cho 5 chiếc xe đầu kéo nên chi phí nó dồn vào một lúc ạ.
+[15:09:00] Ờ, nắng nóng thì đúng là bất khả kháng, nhưng 35% thì phải xem lại nha. Chị Loan coi lại quy trình vận hành kho xem có chỗ nào bị rò rỉ nhiệt không? Chứ điện năng tiêu thụ thế này là không ổn đâu.
+[15:11:15] Dạ anh, em đã cho bên kỹ thuật xuống kiểm tra rồi. Đúng là mấy cái gioăng cao su ở cửa kho lạnh nó bị lão hóa, đóng không khít nên hơi lạnh thoát ra ngoài nhiều. Em đã cho lên kế hoạch thay mới toàn bộ hệ thống gioăng này trong tuần tới, dự kiến sẽ giúp tiết kiệm được khoảng 10-15% tiền điện mỗi tháng đó anh.
+
+<|output|>
+# Phân tích nguyên nhân chi phí vận hành (OPEX) tăng cao
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân chi phí vận hành (OPEX) tăng 20% so với ngân sách dự kiến trong tháng vừa qua.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân tăng chi phí:
+
+### 3. Kết luận và quyết định
+- Duyệt thay mới gioăng cửa kho lạnh ngay trong tuần tới.
+- Giao phòng Tài chính hoàn thiện báo cáo phân tích lợi ích thuê ngoài dịch vụ vận tải.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thay mới gioăng cao su cửa kho lạnh | Chị Loan - Phòng Tài chính (phối hợp Kỹ thuật) | 18/06/2024 |
+| Hoàn thiện báo cáo so sánh outsourcing vận tải | Minh - Chuyên viên phân tích | 21/06/2024 |

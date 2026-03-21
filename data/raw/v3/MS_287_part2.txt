@@ -1,0 +1,70 @@
+<|input|>
+# Chiến lược Marketing ra mắt dòng sản phẩm chăm sóc da hữu cơ
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên ý tưởng và thống nhất thông điệp chủ đạo cho chiến dịch ra mắt sản phẩm mới.
+- Xác định các kênh truyền thông mục tiêu và phương thức tiếp cận khách hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng sống xanh và nhu cầu của khách hàng Gen Z đối với mỹ phẩm sạch.
+- Thông điệp "Vẻ đẹp thuần khiết từ thiên nhiên" và bộ nhận diện màu xanh pastel.
+- Sử dụng KOC (Key Opinion Consumers) trên TikTok và Instagram để tăng tính chân thực.
+
+### 3. Kết luận và quyết định
+- Chốt kế hoạch truyền thông tập trung vào TikTok, Instagram và KOC.
+- Phê duyệt ngân sách quảng cáo chiếm 60% tổng chi phí chiến dịch.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Storyboard video TikTok | Team Content | 09/04/2024 |
+| Thiết kế bộ Banner và Layout Social | Team Design | 12/04/2024 |
+
+[09:33] Tôi sẽ làm việc với bên IT để tối ưu hóa hình ảnh và script trên trang web. Cần đảm bảo trải nghiệm mua hàng mượt mà nhất có thể.
+[09:36] Một vấn đề nữa là chương trình khuyến mãi. Thay vì giảm giá trực tiếp, chúng ta có thể tặng kèm túi vải tote hoặc bộ kit dùng thử cho các đơn hàng sớm (Early Bird).
+[09:39] Việc này vừa giúp tăng giá trị đơn hàng, vừa giúp lan tỏa thông điệp sống xanh khi khách hàng mang túi vải đi khắp nơi.
+[09:42] Tôi cũng muốn triển khai một chiến dịch User Generated Content (UGC). Khách hàng đăng ảnh check-in cùng sản phẩm với hashtag của chiến dịch sẽ được nhận voucher cho lần mua sau.
+[09:45] Về phía phân phối, bộ phận Kinh doanh cần đảm bảo hàng có mặt tại các hệ thống bán lẻ lớn ít nhất 1 tuần trước khi chiến dịch bắt đầu.
+[09:48] Chúng ta cũng cần sản xuất các bộ POSM (vật phẩm quảng cáo tại điểm bán) thân thiện với môi trường, ví dụ như kệ trưng bày bằng carton thay vì nhựa.
+[09:51] Tôi lo ngại về việc đối thủ cạnh tranh cũng sắp ra mắt dòng sản phẩm tương tự. Chúng ta cần có điểm khác biệt thực sự nổi bật (USP).
+[09:54] USP của chúng ta chính là công nghệ chiết xuất lạnh giúp giữ nguyên dưỡng chất từ thảo mộc. Đây là điều mà ít đối thủ trên thị trường làm được.
+[09:57] Cần nhấn mạnh yếu tố công nghệ này trong các video chuyên sâu về sản phẩm để xây dựng niềm tin với khách hàng khó tính.
+[10:00] Tôi yêu cầu team Content hoàn thiện bộ Storyboard cho các video TikTok vào thứ Ba tới để kịp tiến độ sản xuất.
+[10:03] Team Design cũng cần hoàn thiện các mẫu banner và layout cho social media trong tuần này để tôi duyệt lần cuối.
+[10:06] Chúng ta cũng nên có một kịch bản xử lý khủng hoảng truyền thông, phòng trường hợp có những phản hồi tiêu cực về sản phẩm.
+
+<|output|>
+# Chiến lược Marketing ra mắt dòng sản phẩm chăm sóc da hữu cơ
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên ý tưởng và thống nhất thông điệp chủ đạo cho chiến dịch ra mắt sản phẩm mới.
+- Xác định các kênh truyền thông mục tiêu và phương thức tiếp cận khách hàng.
+- Thảo luận về ngân sách, chương trình khuyến mãi và các hoạt động offline đi kèm.
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng sống xanh và nhu cầu của khách hàng Gen Z đối với mỹ phẩm sạch.
+- Thông điệp "Vẻ đẹp thuần khiết từ thiên nhiên" và bộ nhận diện màu xanh pastel.
+- Sử dụng KOC (Key Opinion Consumers) trên TikTok và Instagram để tăng tính chân thực.
+- Tổ chức sự kiện "Green Day" tại không gian mở thay vì khách sạn.
+- Tối ưu hóa trải nghiệm khách hàng trên di động và landing page.
+- Chương trình khuyến mãi tặng túi vải tote và bộ kit dùng thử cho khách hàng Early Bird.
+
+### 3. Kết luận và quyết định
+- Chốt kế hoạch truyền thông tập trung vào TikTok, Instagram và KOC.
+- Phê duyệt ngân sách quảng cáo chiếm 60% tổng chi phí chiến dịch.
+- Tổ chức workshop tái chế trong sự kiện ra mắt sản phẩm.
+- Sử dụng vật liệu thân thiện với môi trường cho tất cả các POSM tại điểm bán.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Storyboard video TikTok | Team Content | 09/04/2024 |
+| Thiết kế bộ Banner và Layout Social | Team Design | 12/04/2024 |
+| Liên hệ và gửi sản phẩm cho KOC | Bộ phận Booking | 15/04/2024 |
+| Tối ưu hóa tốc độ Landing Page | Phòng IT | 20/04/2024 |

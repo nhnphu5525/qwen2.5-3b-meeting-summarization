@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào buổi sáng mọi người, hôm nay chúng ta họp để đánh giá tình hình thị trường bất động sản phân khúc căn hộ cao cấp tại khu vực Đông TP.HCM và thảo luận về chiến lược triển khai dự án "Skyline Riverside" trong quý III tới.
+[09:03] Theo báo cáo thị trường mới nhất từ các đơn vị nghiên cứu, nguồn cung căn hộ cao cấp tại khu vực này đang có xu hướng giảm nhẹ do các rào cản về pháp lý và quỹ đất sạch ngày càng khan hiếm.
+[09:06] Tuy nhiên, nhu cầu mua để ở và đầu tư dài hạn của tầng lớp trung lưu và thượng lưu vẫn duy trì ở mức ổn định. Khách hàng hiện nay đặc biệt quan tâm đến các dự án có không gian xanh, tiện ích đồng bộ và được phát triển bởi các chủ đầu tư uy tín.
+[09:09] Dự án Skyline Riverside của chúng ta có lợi thế nằm ngay mặt tiền sông và sát cạnh các trục đường giao thông huyết mạch. Đây là điểm cộng rất lớn nhưng cũng đặt ra bài toán về giá bán sao cho cạnh tranh.
+[09:12] Tôi thấy các đối thủ xung quanh đang chào bán với mức giá từ 80 đến 100 triệu đồng mỗi mét vuông. Với tiêu chuẩn bàn giao cao cấp của chúng ta, mức giá dự kiến 95 triệu đồng có vẻ là hợp lý.
+[09:15] Để thu hút khách hàng trong giai đoạn đầu, chúng ta cần có chính sách thanh toán linh hoạt. Thay vì yêu cầu thanh toán 30% khi ký hợp đồng mua bán, chúng ta có thể chia nhỏ thành nhiều đợt, mỗi đợt 5% trong vòng 6 tháng đầu.
+[09:18] Việc này sẽ giúp khách hàng giảm bớt áp lực tài chính, đặc biệt là trong bối cảnh lãi suất vay ngân hàng vẫn đang ở mức khá cao.
+[09:21] Nhắc đến ngân hàng, bộ phận Nguồn vốn đã đàm phán xong với ngân hàng liên kết chưa? Chúng ta cần một gói vay ưu đãi lãi suất 0% và ân hạn nợ gốc trong ít nhất 24 tháng cho khách hàng.
+
+<|output|>
+# Đánh giá thị trường và triển khai dự án căn hộ cao cấp Skyline Riverside
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích tình hình thị trường bất động sản khu Đông TP.HCM để định vị dự án.
+
+### 2. Các vấn đề đã thảo luận
+- Nhu cầu ổn định ở phân khúc cao cấp dù nguồn cung đang thắt chặt.
+- Giá bán dự kiến 95 triệu đồng/m2, cạnh tranh với các đối thủ cùng khu vực.
+
+### 3. Kết luận và quyết định
+- Chốt giá bán và chính sách ngân hàng để chuẩn bị mở bán vào quý III.
+- Phê duyệt phương án bổ sung tiện ích đặc quyền để tăng tính cạnh tranh.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký kết hợp tác chiến lược với ngân hàng | Phòng Nguồn vốn | 15/04/2024 |
+| Hoàn thiện thiết kế điều chỉnh tiện ích | Phòng Quản lý dự án | 20/04/2024 |

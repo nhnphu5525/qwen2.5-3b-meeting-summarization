@@ -1,0 +1,60 @@
+<|input|>
+# **Review kết quả kiểm toán nội bộ quý 3 và phương hướng khắc phục**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00] Chào phòng Kế toán và các anh chị em kiểm toán nội bộ. Hôm nay mình ngồi lại để review kết quả kiểm toán quý 3 vừa rồi. Nhìn chung là có nhiều vấn đề cần phải "mổ xẻ" đấy.
+[10:03] Dạ thưa anh, về mảng chi phí quản lý doanh nghiệp, em thấy có một số khoản chi tiếp khách và công tác phí đang vượt định mức (Over budget) tới 20% mà không có giải trình cụ thể từ các bộ phận liên quan.
+[10:06] Ờ... cái này là do quy trình duyệt chi của mình vẫn còn lỏng lẻo. Ờ... nhiều khi anh em cứ đi về rồi mới nộp hóa đơn, lúc đó sự đã rồi, kế toán không duyệt không được.
+[10:10] Tôi yêu cầu từ quý sau, tất cả các khoản chi trên 5 triệu phải có dự toán (Estimate) được phê duyệt trước. Nếu không có dự toán mà tự ý chi thì cá nhân đó phải tự chịu trách nhiệm, công ty không thanh toán.
+[10:13] Thưa sếp, còn vụ nợ quá hạn (Overdue debt) của các đại lý miền Trung. Trong đợt kiểm toán này, em phát hiện có 3 đại lý nợ trên 6 tháng với số tiền lên đến 1.5 tỷ đồng. Nhưng bộ phận Sales vẫn tiếp tục cho xuất hàng mới cho họ.
+[10:16] Ờ... sao lại có chuyện đó? Chính sách của mình là nợ quá 3 tháng là phải dừng xuất hàng rồi mà?
+[10:19] Dạ, bên Sales họ giải trình là do tình hình bão lũ nên muốn hỗ trợ đại lý vượt qua khó khăn để giữ thị phần. Nhưng mà em thấy hồ sơ hỗ trợ này không có chữ ký duyệt của Ban Giám đốc.
+[10:22] Cái này là vi phạm nguyên tắc kiểm soát nội bộ nghiêm trọng. Kế toán trưởng đâu? Sao bên chị vẫn cho xuất hóa đơn và phiếu xuất kho khi hệ thống báo nợ quá hạn?
+[10:25] Dạ thưa sếp, thực ra là bên Sales họ có "lách" bằng cách tạo mã khách hàng mới cho cùng một chủ đại lý đó. Ờ... hệ thống mình chưa chặn được theo số CCCD hay mã số thuế nên nó không cảnh báo ạ.
+[10:28] IT phải xem lại ngay vụ này. Phải khóa chặt theo mã số thuế. Ai cố tình lách luật thì kỷ luật nặng, kể cả trưởng bộ phận Sales.
+[10:31] Thưa anh, về khâu kiểm kê kho (Stocktake). Quý 3 này mình ghi nhận chênh lệch thiếu khoảng 200 triệu tiền hàng tại kho tổng. Ờ... thủ kho báo là do hư hỏng trong quá trình vận chuyển nhưng không có biên bản hủy hàng định kỳ.
+[10:34] 200 triệu không phải con số nhỏ. Ờ... tôi nghi ngờ có sự thông đồng tuồn hàng ra ngoài. Tôi yêu cầu kiểm toán nội bộ phối hợp với bên bảo vệ kiểm tra lại camera an ninh 3 tháng gần nhất tại các cửa kho.
+
+<|output|>
+# Review kết quả kiểm toán nội bộ quý 3 và phương hướng khắc phục
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Review các sai sót và tồn tại được phát hiện trong đợt kiểm toán nội bộ quý 3.
+- Truy cứu trách nhiệm của các cá nhân, bộ phận liên quan đến việc vi phạm quy trình kiểm soát.
+- Thiết lập các biện pháp kiểm soát chặt chẽ hơn để tối ưu chi phí và hạn chế rủi ro thất thoát tài sản.
+
+### 2. Các vấn đề đã thảo luận
+- **Quản lý chi phí:** Chi phí quản lý doanh nghiệp vượt 20% định mức; quy trình phê duyệt chi sau (hợp thức hóa chứng từ) còn phổ biến.
+- **Kiểm soát nợ xấu:** Phát hiện tình trạng Sales lách luật bằng cách tạo mã khách hàng mới để xuất hàng cho đại lý nợ quá hạn (1.5 tỷ đồng).
+- **Thất thoát tài sản:** Chênh lệch thiếu 200 triệu đồng tại kho tổng không có lý do chính đáng và biên bản hợp lệ.
+
+### 3. Kết luận và quyết định
+- Áp dụng cơ chế phê duyệt dự toán trước khi chi cho tất cả các khoản chi trên 5 triệu đồng.
+- Yêu cầu IT nâng cấp hệ thống ERP để chặn mã khách hàng nợ xấu theo mã số thuế/CCCD.
+- Giao kiểm toán nội bộ phối hợp bảo vệ điều tra vụ mất hàng 200 triệu qua hệ thống camera.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn văn bản quy định về dự toán chi phí và hoàn ứng | Kế toán trưởng | 10/03/2025 |
+| Nâng cấp tính năng chặn nợ xấu trên phần mềm ERP | Phòng IT | 15/03/2025 |
+| Trích xuất camera và làm việc với tổ kho về vụ mất hàng | Team Kiểm toán NB | 12/03/2025 |
+| Làm việc với bộ phận Sales về nợ quá hạn miền Trung | Ban Giám đốc | 12/03/2025 |

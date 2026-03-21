@@ -1,0 +1,63 @@
+<|input|>
+# Xử lý sự cố An ninh mạng và Rò rỉ dữ liệu nhân sự
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân và mức độ thiệt hại của sự cố truy cập trái phép vào máy chủ dữ liệu nhân sự.
+- Triển khai các biện pháp ứng phó khẩn cấp để ngăn chặn rò rỉ dữ liệu và vá lỗ hổng hệ thống.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân sự cố: Một nhân viên phòng Tuyển dụng bị tấn công phishing chiếm đoạt tài khoản Microsoft 365 do chưa được kích hoạt xác thực đa yếu tố (MFA).
+- Thiệt hại bước đầu: Một lượng lớn hồ sơ nhân sự, CCCD, số điện thoại và hợp đồng lao động đã bị tải xuống và đẩy lên một server đám mây tại Đông Âu.
+- Lỗ hổng quy trình: Quy trình IT onboarding cho nhân viên mới bị chậm trễ, dẫn đến việc tài khoản nhân viên mới chưa được áp dụng các chính sách bảo mật bắt buộc.
+
+### 3. Kết luận và quyết định
+- Ưu tiên cao nhất là kích hoạt MFA cho toàn bộ nhân viên tập đoàn trước cuối ngày hôm nay.
+- Phê duyệt ngân sách khẩn cấp để thuê đơn vị điều tra số chuyên nghiệp (Digital Forensics).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kích hoạt MFA bắt buộc cho 100% nhân viên | Chị Linh (IT Helpdesk) | 24/03/2025 |
+| Liên hệ và ký hợp đồng với đơn vị Digital Forensics | Anh Nam (Security) | 24/03/2025 |
+| Soạn thảo email cảnh báo phishing nội bộ | Anh Khánh (Truyền thông) | 24/03/2025 |
+| Rà soát quy trình bảo mật cho nhân viên mới | Chị Mai (HR) & Anh Nam | 26/03/2025 |
+
+[09:10] Chào anh Nam, anh làm vậy là đúng. Nhưng tôi muốn hỏi thêm là liệu kẻ tấn công có kịp cài đặt mã độc (malware) hay backdoor nào vào hệ thống của chúng ta để duy trì quyền truy cập lâu dài không? Chào anh Hoàng, câu hỏi của anh rất sắc sảo. Chúng tôi đang cho quét toàn bộ hệ thống bằng các công cụ EDR (Endpoint Detection and Response). Hiện chưa thấy dấu hiệu của mã độc thực thi, nhưng chúng ta không thể chủ quan. Tôi đề xuất chúng ta nên thuê một đơn vị điều tra số (Digital Forensics) độc lập để kiểm tra lại toàn bộ mạng lưới.
+[09:15] Chào anh Nam, tôi là Hồng bên bộ phận Tài chính. Việc thuê đơn vị ngoài sẽ phát sinh chi phí khá lớn. Chúng ta có thể dùng ngân sách dự phòng khẩn cấp không? Chào chị Hồng, tôi phê duyệt việc này. An toàn dữ liệu là ưu tiên số một lúc này. Chị giúp anh Nam hoàn thiện các thủ tục thanh toán nhanh nhất có thể nhé.
+[09:20] Ngoài ra, tôi yêu cầu từ nay đến cuối ngày hôm nay, toàn bộ 100% nhân viên tập đoàn phải được kích hoạt MFA. Ai chưa làm thì IT Helpdesk trực tiếp hỗ trợ và khóa truy cập nếu không tuân thủ. Chào Linh, em có đủ nhân lực để làm việc này trong hôm nay không? Chào anh Hoàng, em sẽ huy động toàn bộ team, kể cả các bạn thực tập sinh để gọi điện và hướng dẫn từng người một ạ.
+[09:25] Chào mọi người, tôi là Khánh bên bộ phận Truyền thông nội bộ. Để tránh hoang mang dư luận trong công ty, tôi đề nghị chúng ta nên có một email thông báo về việc bảo trì hệ thống định kỳ và nhắc nhở mọi người về an toàn thông tin, thay vì nói thẳng là chúng ta đang bị tấn công. Chúng ta cần kiểm soát thông tin chặt chẽ lúc này.
+
+<|output|>
+# Xử lý sự cố An ninh mạng và Rò rỉ dữ liệu nhân sự
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân và mức độ thiệt hại của sự cố truy cập trái phép vào máy chủ dữ liệu nhân sự.
+- Triển khai các biện pháp ứng phó khẩn cấp để ngăn chặn rò rỉ dữ liệu và vá lỗ hổng hệ thống.
+- Thống nhất kịch bản truyền thông nội bộ và chuẩn bị các thủ tục pháp lý liên quan.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân sự cố: Một nhân viên phòng Tuyển dụng bị tấn công phishing chiếm đoạt tài khoản Microsoft 365 do chưa được kích hoạt xác thực đa yếu tố (MFA).
+- Thiệt hại bước đầu: Một lượng lớn hồ sơ nhân sự, CCCD, số điện thoại và hợp đồng lao động đã bị tải xuống và đẩy lên một server đám mây tại Đông Âu.
+- Lỗ hổng quy trình: Quy trình IT onboarding cho nhân viên mới bị chậm trễ, dẫn đến việc tài khoản nhân viên mới chưa được áp dụng các chính sách bảo mật bắt buộc.
+- Biện pháp khắc phục: Cô lập tài khoản bị thỏa hiệp, reset password toàn bộ phòng nhân sự, và yêu cầu kích hoạt MFA bắt buộc cho 100% nhân viên ngay trong ngày.
+
+### 3. Kết luận và quyết định
+- Ưu tiên cao nhất là kích hoạt MFA cho toàn bộ nhân viên tập đoàn trước cuối ngày hôm nay.
+- Phê duyệt ngân sách khẩn cấp để thuê đơn vị điều tra số chuyên nghiệp (Digital Forensics).
+- Gửi yêu cầu gỡ bỏ (takedown) dữ liệu đến nhà cung cấp dịch vụ lưu trữ đám mây quốc tế.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kích hoạt MFA bắt buộc cho 100% nhân viên | Chị Linh (IT Helpdesk) | 24/03/2025 |
+| Liên hệ và ký hợp đồng với đơn vị Digital Forensics | Anh Nam (Security) | 24/03/2025 |
+| Soạn thảo email cảnh báo phishing nội bộ | Anh Khánh (Truyền thông) | 24/03/2025 |
+| Rà soát quy trình bảo mật cho nhân viên mới | Chị Mai (HR) & Anh Nam | 26/03/2025 |
+| Truy vết dòng chảy dữ liệu và yêu cầu gỡ bỏ file | Anh Nam (Security) | 25/03/2025 |
+| Chuẩn bị phương án pháp lý theo Nghị định 13 | Anh Quốc (Pháp chế) | 27/03/2025 |

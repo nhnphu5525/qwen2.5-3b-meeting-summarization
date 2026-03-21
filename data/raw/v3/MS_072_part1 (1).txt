@@ -1,0 +1,56 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00] Chào team, sáng nay mình chốt cái kế hoạch chuyển đổi dữ liệu lên Azure nhé.
+[10:02] Dạ, hiện tại hệ thống server vật lý ở văn phòng đã cũ quá rồi, chạy chậm mà hay bị lỗi nữa. 
+[10:04] Thì phương án là mình sẽ bốc hết database và các service lên Cloud để đảm bảo tính sẵn sàng. 
+[10:06] Ờ... về vấn đề bảo mật thì bên Azure họ hỗ trợ tốt, nhưng mình cần cấu hình lại cái VPN để đảm bảo kết nối nội bộ.
+[10:08] Dạ, em đã thử nghiệm một phần dữ liệu nhỏ rồi, tốc độ truy cập khá ổn. 
+[10:10] Nhưng mà chi phí hàng tháng thì sao? Mình đã tính toán kỹ chưa?
+[10:12] Thì theo dự tính, mình sẽ tiết kiệm được chi phí bảo trì server vật lý và tiền điện, bù lại là phí thuê hàng tháng. 
+[10:14] Ok, vậy team IT chuẩn bị cái bảng so sánh chi tiết và lộ trình di chuyển dữ liệu từng giai đoạn nhé.
+[10:16] Vâng ạ, em sẽ gửi bản kế hoạch vào sáng mai ạ.
+
+<|output|>
+# Kế hoạch chuyển đổi dữ liệu lên Cloud Azure
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiện trạng hệ thống server vật lý và nhu cầu chuyển dịch lên điện toán đám mây.
+- Thảo luận các vấn đề về hiệu năng, bảo mật và chi phí khi sử dụng Azure Cloud.
+
+### 2. Các vấn đề đã thảo luận
+- Server vật lý cũ gặp tình trạng quá tải và lỗi thường xuyên.
+- Ưu điểm của Cloud Azure về tính sẵn sàng và khả năng mở rộng.
+- Cấu hình VPN để bảo mật kết nối giữa văn phòng và hệ thống đám mây.
+- Phân tích bài toán kinh tế giữa việc duy trì phần cứng truyền thống và thuê dịch vụ Cloud.
+
+### 3. Kết luận và quyết định
+- Chốt chủ trương chuyển đổi hệ thống lên nền tảng Azure Cloud.
+- Yêu cầu team IT xây dựng lộ trình di dời dữ liệu theo từng giai đoạn để tránh gián đoạn công việc.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập bảng so sánh chi tiết chi phí và lộ trình triển khai | Team IT | 18/10/2023 |
+| Thiết kế kiến trúc mạng và cấu hình VPN bảo mật | Anh Tuấn (IT) | 22/10/2023 |
+| Thực hiện backup dữ liệu trước khi chuyển đổi | Team Hệ thống | 25/10/2023 |
+| Đào tạo sử dụng cơ bản cho các bộ phận liên quan | Team IT | 30/10/2023 |

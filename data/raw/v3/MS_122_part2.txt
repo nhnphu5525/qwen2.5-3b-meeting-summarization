@@ -1,0 +1,67 @@
+<|input|>
+# Chuẩn bị kế hoạch đón khách cho mùa du lịch cao điểm hè
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát công tác chuẩn bị về nhân sự, cơ sở vật chất và dịch vụ cho mùa cao điểm tháng 6 - tháng 7.
+
+### 2. Các vấn đề đã thảo luận
+- Lượng khách đặt phòng tăng 30% so với cùng kỳ năm ngoái, gây áp lực lên vận hành.
+- Thiếu hụt nhân sự thời vụ và sự cần thiết của việc đào tạo nghiệp vụ cho nhân viên mới.
+
+### 3. Kết luận và quyết định
+- Tuyển thêm 20 nhân viên part-time/thực tập sinh và triển khai đào tạo nghiệp vụ từ tuần tới.
+- Tiến hành kiểm tra, bảo trì toàn bộ hệ thống điện nước, máy lạnh, thang máy trong tuần này.
+- Bổ sung thực đơn mùa hè đặc biệt và niêm yết giá công khai.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đào tạo nghiệp vụ cho nhân sự mới | Chị Lan (Phòng Nhân sự) | 30/05/2024 |
+| Tổng kiểm tra và bảo trì cơ sở vật chất | Anh Hùng (Phòng Kỹ thuật) | 25/05/2024 |
+| Liên hệ thuê thêm xe điện tham quan | Anh Hùng (Phòng Kỹ thuật) | 22/05/2024 |
+[09:22] Dạ sếp. À, còn cái thực đơn cho nhà hàng mình có cần thay đổi gì không chị Mai? Em thấy khách hè họ thích mấy món thanh mát hơn á.
+[09:24] Chị cũng đang tính bàn với bếp trưởng đây. Chắc là mình sẽ thêm mấy món gỏi với nước ép trái cây nhiệt đới vô menu đặc biệt của mùa hè này.
+[09:26] Ờ, ý tưởng hay đó. Mà nhớ là giá cả phải niêm yết rõ ràng nha, đừng có để tình trạng khách phàn nàn về giá vào mùa cao điểm, mất uy tín lắm.
+[09:28] Dạ vâng ạ. Còn một cái nữa là cái tour tham quan nội đô bằng xe điện của mình á sếp, em thấy khách họ rất thích mà hiện tại mình chỉ có 2 chiếc, không đủ đáp ứng nhu cầu.
+[09:30] Vụ này anh cũng đang cân nhắc, hay là mình thuê thêm 2 chiếc nữa từ bên đối tác trong vòng 3 tháng cao điểm được không Hùng?
+[09:32] Dạ được anh, để em liên hệ bên vận tải xem giá thuê sao rồi em báo lại anh sớm.
+[09:34] Ok, triển khai cái đó đi. À Lan nè, em xem lại cái vụ quà tặng lưu niệm cho khách check-out á, mình có cái gì mới mẻ hơn không?
+[09:36] Dạ, em định đặt làm mấy cái móc khóa có in hình khách sạn mình với mấy cái túi vải canvas nhỏ nhỏ á chị, nhìn vừa xinh mà khách họ cũng dùng được nhiều lần.
+[09:38] Ừm, cũng được đó, nhưng mà nhớ chọn chất liệu tốt chút nha.
+[09:40] Dạ sếp. Mà sếp ơi, cái vụ an ninh thì sao ạ? Mùa đông khách em sợ mấy cái tình trạng móc túi hay người lạ đột nhập vô khu vực phòng khách á.
+[09:42] Ờ, cái này quan trọng. Anh sẽ yêu cầu bên đội bảo vệ tăng cường tuần tra, đặc biệt là ban đêm và khu vực hồ bơi. Đồng thời mình cũng nên kiểm tra lại hệ thống camera giám sát xem có mắt nào bị mờ hay hỏng không.
+
+<|output|>
+# Chuẩn bị kế hoạch đón khách cho mùa du lịch cao điểm hè
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát công tác chuẩn bị về nhân sự, cơ sở vật chất và dịch vụ cho mùa cao điểm tháng 6 - tháng 7.
+- Thống nhất các kế hoạch bảo trì, nâng cấp dịch vụ và chiến dịch marketing.
+
+### 2. Các vấn đề đã thảo luận
+- Lượng khách đặt phòng tăng 30% so với cùng kỳ năm ngoái, gây áp lực lên vận hành.
+- Thiếu hụt nhân sự thời vụ và sự cần thiết của việc đào tạo nghiệp vụ cho nhân viên mới.
+- Hệ thống máy lạnh ở khu B và các thiết bị cơ sở vật chất cần được bảo trì gấp.
+- Thực đơn nhà hàng cần điều chỉnh sang các món thanh mát phù hợp với mùa hè.
+
+### 3. Kết luận và quyết định
+- Tuyển thêm 20 nhân viên part-time/thực tập sinh và triển khai đào tạo nghiệp vụ từ tuần tới.
+- Tiến hành kiểm tra, bảo trì toàn bộ hệ thống điện nước, máy lạnh, thang máy trong tuần này.
+- Bổ sung thực đơn mùa hè đặc biệt và niêm yết giá công khai.
+- Thuê thêm 2 xe điện từ đối tác để phục vụ nhu cầu tham quan của khách.
+- Tăng cường tuần tra an ninh và kiểm tra hệ thống camera giám sát.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đào tạo nghiệp vụ cho nhân sự mới | Chị Lan (Phòng Nhân sự) | 30/05/2024 |
+| Tổng kiểm tra và bảo trì cơ sở vật chất | Anh Hùng (Phòng Kỹ thuật) | 25/05/2024 |
+| Liên hệ thuê thêm xe điện tham quan | Anh Hùng (Phòng Kỹ thuật) | 22/05/2024 |
+| Xây dựng thực đơn mùa hè mới | Chị Mai (Quản lý vận hành) & Bếp trưởng | 20/05/2024 |
+| Kiểm tra hệ thống camera và tăng cường an ninh | Đội Bảo vệ | 24/05/2024 |

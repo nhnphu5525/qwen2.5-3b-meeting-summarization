@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:30] Chào mọi người, hôm nay bộ phận Quản lý sản xuất họp cùng phòng Quản lý chất lượng (QC) và đại diện xưởng cơ khí để thảo luận về việc cải tiến quy trình kiểm soát lỗi sản phẩm đầu ra. Thời gian qua, tỷ lệ hàng bị trả về (reject rate) từ khách hàng Nhật Bản đang có xu hướng tăng nhẹ, từ 0.5% lên 0.8%. Đây là một tín hiệu đáng báo động.
+[08:35] Chào anh Hùng, chào cả team. Tôi là Lan, trưởng phòng QC. Qua phân tích các lô hàng bị trả về, chúng tôi phát hiện lỗi chủ yếu nằm ở phần bề mặt sản phẩm bị trầy xước nhẹ và kích thước lỗ khoan có độ sai lệch vượt quá dung sai cho phép (0.02mm). Điều đáng nói là các sản phẩm này đều đã được dán tem đạt chuẩn (PASS) tại xưởng. Nghĩa là quy trình kiểm tra tại chỗ của chúng ta đang có vấn đề.
+[08:40] Chào chị Lan, tôi là Nam, quản đốc xưởng cơ khí. Tôi muốn giải trình một chút. Gần đây, áp lực sản lượng cho các đơn hàng cuối năm rất lớn, công nhân phải làm tăng ca liên tục. Việc kiểm tra kích thước bằng thước kẹp thủ công mất rất nhiều thời gian và dễ xảy ra sai sót do mỏi mắt hoặc do dụng cụ đo chưa được hiệu chuẩn lại thường xuyên. Ngoài ra, việc xếp chồng các sản phẩm lên nhau sau khi hoàn thiện mà không có lớp lót bảo vệ cũng là nguyên nhân gây ra trầy xước.
+[08:45] Chào anh Nam, chị Lan. Tôi là Quốc, kỹ sư quy trình. Để khắc phục vấn đề đo lường, tôi đề xuất chúng ta nên chuyển sang sử dụng máy đo CMM tự động hoặc hệ thống Vision Sensor cho các vị trí lỗ khoan quan trọng. Hệ thống này sẽ báo lỗi ngay lập tức bằng đèn tín hiệu và loại bỏ sản phẩm lỗi ra khỏi băng chuyền mà không cần sự can thiệp của con người. Về vấn đề trầy xước, chúng ta phải bắt buộc sử dụng các khay nhựa có vách ngăn (tray) thay vì thùng carton thông thường.
+
+<|output|>
+# Cải tiến Quy trình Kiểm soát Chất lượng (QC) Xưởng Cơ khí
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân tỷ lệ sản phẩm lỗi (reject rate) tăng cao trong các đơn hàng xuất khẩu Nhật Bản.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân lỗi: Sai lệch kích thước lỗ khoan (do đo thủ công kém chính xác) và trầy xước bề mặt (do đóng gói, vận chuyển không đúng cách).
+- Nhân sự: Công nhân tăng ca quá mức dẫn đến mệt mỏi và thiếu tập trung trong khâu kiểm soát lỗi.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương đầu tư hệ thống đo lường tự động để loại bỏ sai sót do con người.
+- Thực hiện hiệu chuẩn lại toàn bộ thiết bị đo lường trong xưởng ngay cuối tuần này.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập báo cáo phân tích đầu tư máy đo CMM tự động | Anh Quốc (Quy trình) | 28/03/2025 |
+| Hiệu chuẩn lại toàn bộ thiết bị đo lường tại xưởng | Chị Lan (QC) & Anh Nam | 30/03/2025 |
+| Thiết lập cơ chế giám sát chéo giữa các tổ sản xuất | Anh Nam (Quản đốc) | 26/03/2025 |

@@ -1,0 +1,72 @@
+<|input|>
+# Hợp tác Influencer quảng bá mỹ phẩm mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất chiến lược hợp tác với Influencer để ra mắt dòng mỹ phẩm thuần chay (Vegan Cosmetics).
+- Lựa chọn danh sách Influencer phù hợp với định hướng thương hiệu và ngân sách chiến dịch.
+
+### 2. Các vấn đề đã thảo luận
+- Đối tượng Influencer: Ưu tiên dàn Micro Influencer và KOC thay vì quá tập trung vào Mega Influencer để tối ưu chi phí và tăng độ tin cậy.
+- Tiêu chí lựa chọn: Phải có phong cách sống xanh, mộc mạc, quan tâm đến môi trường và có tệp khán giả phù hợp với sản phẩm.
+- Hình thức triển khai: Gửi Seed box trải nghiệm thực tế trước khi ký hợp đồng; khuyến khích sáng tạo nội dung chân thực (GRWM, vlog trải nghiệm).
+- Hoạt động điểm nhấn: Tổ chức workshop trải nghiệm làm mỹ phẩm thủ công tại không gian xanh để tạo tư liệu truyền thông chất lượng.
+- Đo lường hiệu quả: Sử dụng mã giảm giá (Promo code) định danh và link Affiliate cho từng Influencer để theo dõi tỷ lệ chuyển đổi.
+
+### 3. Kết luận và quyết định
+- Chốt phương án kết hợp giữa Macro Influencer (làm đại diện) và Micro Influencer/KOC (phủ sóng).
+- Duyệt kế hoạch tổ chức workshop trải nghiệm tại Quận 2 hoặc Quận 7.
+- Giao bộ phận Marketing hoàn thiện danh sách Influencer cuối cùng và báo giá chi tiết vào thứ Hai tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ, check lịch và xin báo giá từ các Influencer trong danh sách | Linh (Marketing) | 16/10/2023 |
+| Khảo sát địa điểm tổ chức workshop và báo giá dịch vụ | Anh Nam | 18/10/2023 |
+| Thiết kế và đặt sản xuất bao bì hộp quà (Seed box) sinh thái | Bộ phận Design | 20/10/2023 |
+| Soạn thảo hợp đồng mẫu với các điều khoản ràng buộc về drama/scandal | Bộ phận Pháp chế | 17/10/2023 |
+[14:19:45] Ừ, chi tiết đó rất quan trọng nha. Nó thể hiện cái sự tinh tế và nhất quán của thương hiệu mình. Chốt lại là: chọn dàn Micro/KOC là chính, 2-3 bạn Macro làm đại diện, tổ chức workshop trải nghiệm và dùng hộp quà sinh thái.
+[14:21:10] Dạ, vậy để em bắt đầu liên hệ với các bạn Influencer để check lịch và xin báo giá chi tiết nha. Hy vọng là các bạn ấy sẽ hào hứng với dòng sản phẩm mới này của mình.
+[14:22:35] Nhớ là phải chọn lọc kỹ nha Linh. Đừng có ham rẻ mà chọn mấy bạn có tệp fan không phù hợp. Thà ít mà chất còn hơn nhiều mà loãng. Vy muốn cái cộng đồng dùng mỹ phẩm của mình nó phải thực sự văn minh và chất lượng.
+[14:24:00] Dạ em biết rồi chị. Em sẽ kiểm tra kỹ lịch sử hoạt động và các nhãn hàng các bạn từng hợp tác trước đây để tránh xung đột lợi ích luôn.
+[14:25:25] OK, chốt vậy nha. Thứ Hai tuần sau Linh gửi chị cái danh sách cuối cùng kèm báo giá để chị trình sếp duyệt ngân sách nha. Anh Nam hỗ trợ Linh vụ tìm địa điểm làm workshop luôn nhé.
+[14:26:50] Dạ vâng, chuyện nhỏ chị ơi. Để em đi lùng mấy cái quán cafe đẹp đẹp khu vực Quận 2 với Quận 7 cho.
+[14:28:15] Tốt! Thôi giải tán đi làm việc đi mấy đứa. Cố gắng lên, campaign này thắng lớn là cuối năm có thưởng đậm nha.
+[14:29:40] Dạ tụi em sẽ cố gắng hết mình ạ. Chào chị Vy, chào anh Nam nha.
+
+<|output|>
+# Hợp tác Influencer quảng bá mỹ phẩm mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất chiến lược hợp tác với Influencer để ra mắt dòng mỹ phẩm thuần chay (Vegan Cosmetics).
+- Lựa chọn danh sách Influencer phù hợp với định hướng thương hiệu và ngân sách chiến dịch.
+- Thiết lập quy trình làm việc, đo lường hiệu quả và quản trị rủi ro trong quá trình hợp tác.
+
+### 2. Các vấn đề đã thảo luận
+- Đối tượng Influencer: Ưu tiên dàn Micro Influencer và KOC thay vì quá tập trung vào Mega Influencer để tối ưu chi phí và tăng độ tin cậy.
+- Tiêu chí lựa chọn: Phải có phong cách sống xanh, mộc mạc, quan tâm đến môi trường và có tệp khán giả phù hợp với sản phẩm.
+- Hình thức triển khai: Gửi Seed box trải nghiệm thực tế trước khi ký hợp đồng; khuyến khích sáng tạo nội dung chân thực (GRWM, vlog trải nghiệm).
+- Hoạt động điểm nhấn: Tổ chức workshop trải nghiệm làm mỹ phẩm thủ công tại không gian xanh để tạo tư liệu truyền thông chất lượng.
+- Đo lường hiệu quả: Sử dụng mã giảm giá (Promo code) định danh và link Affiliate cho từng Influencer để theo dõi tỷ lệ chuyển đổi.
+- Quản trị rủi ro: Cần có điều khoản ràng buộc chặt chẽ về phát ngôn và xử lý khủng hoảng truyền thông trong hợp đồng.
+- Bao bì quà tặng: Sử dụng vật liệu hoàn toàn thân thiện với môi trường (hộp tái chế, rơm khô, dây thừng) để nhất quán với thông điệp sản phẩm.
+
+### 3. Kết luận và quyết định
+- Chốt phương án kết hợp giữa Macro Influencer (làm đại diện) và Micro Influencer/KOC (phủ sóng).
+- Duyệt kế hoạch tổ chức workshop trải nghiệm tại Quận 2 hoặc Quận 7.
+- Giao bộ phận Marketing hoàn thiện danh sách Influencer cuối cùng và báo giá chi tiết vào thứ Hai tới.
+- Yêu cầu bộ phận Pháp chế rà soát lại các điều khoản bảo vệ thương hiệu trong hợp đồng hợp tác Influencer.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ, check lịch và xin báo giá từ các Influencer trong danh sách | Linh (Marketing) | 16/10/2023 |
+| Khảo sát địa điểm tổ chức workshop và báo giá dịch vụ | Anh Nam | 18/10/2023 |
+| Thiết kế và đặt sản xuất bao bì hộp quà (Seed box) sinh thái | Bộ phận Design | 20/10/2023 |
+| Soạn thảo hợp đồng mẫu với các điều khoản ràng buộc về drama/scandal | Bộ phận Pháp chế | 17/10/2023 |
+| Trình duyệt tổng ngân sách chiến dịch Influencer lên Ban Giám đốc | Chị Vy | 20/10/2023 |

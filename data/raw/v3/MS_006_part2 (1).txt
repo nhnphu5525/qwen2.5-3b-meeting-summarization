@@ -1,0 +1,64 @@
+<|input|>
+# Thay đổi chính sách tuyển dụng và phúc lợi năm tới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân tỉ lệ nhân viên nghỉ việc cao ở khối kỹ thuật.
+- Cải thiện chính sách đãi ngộ, phúc lợi để thu hút và giữ chân nhân tài.
+- Tối ưu hóa quy trình tuyển dụng để tăng tính cạnh tranh trên thị trường.
+
+### 2. Các vấn đề đã thảo luận
+- Tỉ lệ nghỉ việc khối kỹ thuật là 18% do lộ trình thăng tiến chưa rõ và lương chưa cạnh tranh (P50).
+- Quy trình tuyển dụng hiện tại (4 vòng) quá chậm, làm mất nhiều ứng viên tiềm năng.
+- Đề xuất tăng phúc lợi qua bảo hiểm sức khỏe cao cấp và chương trình thưởng giới thiệu ứng viên (5-10 triệu).
+
+### 3. Kết luận và quyết định
+- Rút gọn quy trình tuyển dụng xuống tối đa 2 vòng phỏng vấn.
+- Triển khai chương trình "Employee Referral" và gói bảo hiểm sức khỏe cho nhân viên thâm niên trên 2 năm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo quy trình tuyển dụng 2 vòng mới | Team Tuyển dụng | 25/03 |
+| Tính toán ngân sách bảo hiểm và thưởng referral | Bộ phận C&B | 30/03 |
+[10:20] Về môi trường làm việc, em thấy xu hướng "Hybrid Work" (làm việc linh hoạt) đang rất thịnh hành. Mình có thể cho phép nhân viên làm tại nhà 1-2 ngày mỗi tuần không?
+[10:22] Với khối văn phòng thì được, nhưng khối sản xuất và kỹ thuật hiện trường thì hơi khó. Mình cần quy định rõ đối tượng nào được áp dụng.
+[10:24] Chúng ta cũng cần chú trọng hơn vào việc đào tạo nội bộ. Thay vì thuê ngoài tốn kém, mình có thể khuyến khích các Leader đứng lớp và trả phí thù lao cho họ.
+[10:26] Ý kiến hay. Việc này vừa giúp truyền đạt kinh nghiệm thực tế, vừa giúp các Leader nâng cao kỹ năng sư phạm và có thêm thu nhập.
+[10:28] Về văn hóa công ty, em thấy các buổi Team Building hằng năm hơi nhàm chán. Năm nay mình đổi sang hình thức thiện nguyện hoặc trekking được không ạ?
+[10:30] Trekking thì hơi kén người tham gia, nhưng thiện nguyện kết hợp du lịch sinh thái thì tôi thấy ổn đấy.
+
+<|output|>
+# Thay đổi chính sách tuyển dụng và phúc lợi năm tới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân tỉ lệ nhân viên nghỉ việc cao ở khối kỹ thuật.
+- Cải thiện chính sách đãi ngộ, phúc lợi để thu hút và giữ chân nhân tài.
+- Tối ưu hóa quy trình tuyển dụng để tăng tính cạnh tranh trên thị trường.
+- Đổi mới văn hóa doanh nghiệp và môi trường làm việc.
+
+### 2. Các vấn đề đã thảo luận
+- Tỉ lệ nghỉ việc khối kỹ thuật là 18% do lộ trình thăng tiến chưa rõ và lương chưa cạnh tranh (P50).
+- Quy trình tuyển dụng hiện tại (4 vòng) quá chậm, làm mất nhiều ứng viên tiềm năng.
+- Đề xuất tăng phúc lợi qua bảo hiểm sức khỏe cao cấp và chương trình thưởng giới thiệu ứng viên (5-10 triệu).
+- Thảo luận về việc áp dụng mô hình làm việc Hybrid Work cho khối văn phòng.
+- Định hướng chuyển đổi đào tạo nội bộ thông qua các cấp quản lý trực tiếp.
+- Đổi mới hoạt động Team Building theo hướng thiện nguyện.
+
+### 3. Kết luận và quyết định
+- Rút gọn quy trình tuyển dụng xuống tối đa 2 vòng phỏng vấn.
+- Triển khai chương trình "Employee Referral" và gói bảo hiểm sức khỏe cho nhân viên thâm niên trên 2 năm.
+- Thí điểm làm việc tại nhà 1-2 ngày/tuần đối với các bộ phận không trực tiếp sản xuất.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo quy trình tuyển dụng 2 vòng mới | Team Tuyển dụng | 25/03 |
+| Tính toán ngân sách bảo hiểm và thưởng referral | Bộ phận C&B | 30/03 |
+| Xây dựng khung đào tạo nội bộ (Leader-led) | Team Đào tạo | 10/04 |
+| Lập danh sách các địa điểm Team Building thiện nguyện | Công đoàn | 15/04 |

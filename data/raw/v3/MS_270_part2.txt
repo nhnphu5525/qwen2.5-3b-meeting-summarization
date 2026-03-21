@@ -1,0 +1,60 @@
+<|input|>
+# Đề án Quy hoạch Mạng lưới Y tế Quốc gia tầm nhìn 2045
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và đóng góp ý kiến cho dự thảo đề án quy hoạch y tế quốc gia dài hạn.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Hệ thống y tế cơ sở yếu kém dẫn đến quá tải trầm trọng tại các bệnh viện tuyến trung ương.
+- Đầu tư và Tài chính: Đề xuất gói 50.000 tỷ đồng nâng cấp hạ tầng y tế xã phường; cải cách cơ chế chi trả BHYT để khuyến khích khám chữa bệnh tại cơ sở.
+- Chuyển đổi số: Triển khai Telehealth và hồ sơ sức khỏe điện tử (EHR) liên thông toàn quốc để tối ưu hóa quy trình điều trị.
+
+### 3. Kết luận và quyết định
+- Ưu tiên cao nhất cho việc hiện đại hóa y tế cơ sở và thay đổi chính sách bảo hiểm để giảm tải cho tuyến trên.
+- Phê duyệt chủ trương xây dựng khung kiến trúc y tế điện tử quốc gia làm nền tảng cho quản lý và điều trị.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Rà soát và hoàn thiện dự toán ngân sách 50.000 tỷ | Chị Lan (Kế hoạch) | 15/04/2025 |
+| Xây dựng khung kiến trúc Y tế điện tử và EHR | Anh Nam (CNTT) | 30/04/2025 |
+| Đề xuất bảng lương và phụ cấp mới cho ngành y | Anh Minh (TCCB) | 20/05/2025 |
+
+[08:15] Chào chị Lan, anh Hùng. Tôi là Nam bên bộ phận Công nghệ thông tin. Tôi đề xuất chúng ta đẩy mạnh chuyển đổi số thông qua hệ thống khám chữa bệnh từ xa (Telehealth). Các chuyên gia đầu ngành có thể hội chẩn trực tuyến với bác sĩ tuyến xã. Việc này không chỉ giúp cứu sống bệnh nhân trong các trường hợp khẩn cấp mà còn là cách đào tạo tại chỗ hiệu quả nhất cho cán bộ y tế cơ sở. Đồng thời, mỗi người dân cần có một hồ sơ sức khỏe điện tử (EHR) liên thông toàn quốc để dù khám ở đâu, bác sĩ cũng nắm được tiền sử bệnh lý.
+[08:20] Chào anh Nam, tôi là Hương bên bộ phận Quản lý dược. Về vấn đề thuốc, chúng ta cần đảm bảo an ninh dược phẩm quốc gia. Hiện tại chúng ta phụ thuộc quá nhiều vào nguyên liệu nhập khẩu từ nước ngoài. Đề án nên có cơ chế ưu tiên đặc biệt cho các doanh nghiệp dược nội địa sản xuất các loại thuốc thiết yếu và thuốc phát minh (brand-name) thông qua việc hỗ trợ lãi suất và ưu tiên trong đấu thầu thuốc tập trung.
+[08:25] Chào các anh chị, tôi là Minh bên bộ phận Tổ chức cán bộ. Nhân lực y tế đang có xu hướng dịch chuyển từ khu vực công sang khu vực tư nhân do áp lực công việc và chế độ đãi ngộ chưa tương xứng. Chúng ta cần một cuộc cải cách về tiền lương và phụ cấp nghề nghiệp đặc thù. Đặc biệt, cần có chính sách luân phiên bác sĩ từ tuyến trên về tuyến dưới làm việc có thời hạn, kèm theo các ưu đãi về thăng tiến và đào tạo sau đại học cho họ.
+
+<|output|>
+# Đề án Quy hoạch Mạng lưới Y tế Quốc gia tầm nhìn 2045
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và đóng góp ý kiến cho dự thảo đề án quy hoạch y tế quốc gia dài hạn.
+- Giải quyết tình trạng mất cân đối nguồn lực giữa các tuyến và nâng cao chất lượng y tế cơ sở.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Hệ thống y tế cơ sở yếu kém dẫn đến quá tải trầm trọng tại các bệnh viện tuyến trung ương.
+- Đầu tư và Tài chính: Đề xuất gói 50.000 tỷ đồng nâng cấp hạ tầng y tế xã phường; cải cách cơ chế chi trả BHYT để khuyến khích khám chữa bệnh tại cơ sở.
+- Chuyển đổi số: Triển khai Telehealth và hồ sơ sức khỏe điện tử (EHR) liên thông toàn quốc để tối ưu hóa quy trình điều trị.
+- Nhân lực: Cải cách tiền lương, phụ cấp nghề nghiệp và thực hiện chính sách luân phiên bác sĩ về tuyến dưới.
+- Dược phẩm: Đảm bảo an ninh dược phẩm, ưu tiên phát triển công nghiệp dược nội địa và thuốc thiết yếu.
+
+### 3. Kết luận và quyết định
+- Ưu tiên cao nhất cho việc hiện đại hóa y tế cơ sở và thay đổi chính sách bảo hiểm để giảm tải cho tuyến trên.
+- Phê duyệt chủ trương xây dựng khung kiến trúc y tế điện tử quốc gia làm nền tảng cho quản lý và điều trị.
+- Giao bộ phận nhân sự phối hợp với các cơ quan liên quan xây dựng bảng lương đặc thù cho ngành y tế.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Rà soát và hoàn thiện dự toán ngân sách 50.000 tỷ | Chị Lan (Kế hoạch) | 15/04/2025 |
+| Xây dựng khung kiến trúc Y tế điện tử và EHR | Anh Nam (CNTT) | 30/04/2025 |
+| Đề xuất bảng lương và phụ cấp mới cho ngành y | Anh Minh (TCCB) | 20/05/2025 |
+| Lấy ý kiến các bệnh viện địa phương về thực tiễn | BS Hùng | 05/05/2025 |
+| Xây dựng danh mục thuốc ưu tiên cho sản xuất nội địa | Chị Hương (Dược) | 10/05/2025 |
+| Hoàn thiện khung pháp lý hợp tác công tư (PPP) | Anh Sơn (Pháp chế) | 25/04/2025 |

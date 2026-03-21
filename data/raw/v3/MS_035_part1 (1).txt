@@ -1,0 +1,46 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào mọi người, hôm nay chúng tập trung để bàn về kế hoạch ra mắt dòng son môi mới của công ty, bộ sưu tập "Velvet Dream". Đây là sản phẩm chủ lực của quý này nên tôi muốn mọi thứ phải thật hoàn hảo.
+[09:02] Dạ chị, bên em đã làm việc với bên sản xuất rồi. Về chất son thì đã chốt mẫu cuối cùng. Tuy nhiên, ừm... cái vỏ son đang có chút vấn đề. Bên gia công báo là cái nắp nam châm nó không được khít như mẫu ban đầu, cứ bị lỏng lỏng ấy.
+[09:04] Lỏng là lỏng thế nào? Cái nắp nam châm là điểm nhấn sang trọng của dòng này mà giờ lại bị lỗi thì khách hàng họ đánh giá mình 'treo đầu dê bán thịt chó' ngay. Em đã làm việc lại với họ chưa?
+[09:06] Em có làm việc rồi ạ. Họ giải thích là do khuôn đúc đợt này bị lệch một xíu. Nếu sửa lại khuôn thì phải mất thêm ít nhất 10 ngày nữa mới có hàng loạt. Như vậy thì sẽ bị trễ ngày ra mắt dự kiến là 20/10.
+[09:08] Trễ 10 ngày à? Không được, 20/10 là ngày Phụ nữ Việt Nam, cơ hội vàng để mình chạy campaign quà tặng. Nếu lùi sang cuối tháng thì coi như mất hết nhiệt. Mọi người thấy sao? Có phương án nào khác không?
+[09:10] Hay là mình tạm thời không dùng nắp nam châm cho đợt đầu này mà chuyển sang nắp vặn truyền thống nhưng làm bằng chất liệu cao cấp hơn một chút? Kiểu như nhựa giả kim loại mạ vàng chẳng hạn.
+[09:12] Không được anh ơi. Concept "Velvet Dream" là sự tinh tế và trải nghiệm mượt mà. Cái tiếng 'tách' khi đóng nắp nam châm nó mang lại cảm giác rất 'high-end'. Nếu đổi sang nắp vặn thì định vị sản phẩm bị hạ thấp ngay lập tức. Khách hàng họ đã thấy teaser rồi mà.
+[09:14] Đúng rồi đấy. Teaser mình đã lỡ quay cảnh đóng nắp son bằng nam châm rồi, giờ thay đổi là mình tự tát vào mặt mình. Tôi quyết định vẫn giữ nắp nam châm. Bên sản xuất ép họ làm tăng ca, hoặc là mình chấp nhận ra mắt số lượng giới hạn trước, ai đặt trước thì nhận trước.
+
+<|output|>
+# Kế hoạch ra mắt bộ sưu tập son môi "Velvet Dream"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tiến độ sản xuất và giải quyết sự cố kỹ thuật của vỏ son.
+
+### 2. Các vấn đề đã thảo luận
+- Sự cố nắp nam châm bị lỏng do lỗi khuôn đúc, nếu sửa sẽ trễ ngày ra mắt 20/10.
+
+### 3. Kết luận và quyết định
+- Quyết định giữ nguyên thiết kế nắp nam châm để đảm bảo định vị phân khúc cao cấp, chấp nhận ra mắt số lượng giới hạn trước (Pre-order).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |

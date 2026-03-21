@@ -1,0 +1,53 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:00] Chào buổi sáng mọi người, hôm nay chúng ta họp để thảo luận về kế hoạch thi công dự án tổ hợp căn hộ và trung tâm thương mại "Diamond Plaza" giai đoạn 2, đồng thời rà soát các biện pháp đảm bảo an toàn lao động và chất lượng công trình trong mùa mưa sắp tới.
+[08:03] Hiện tại, phần móng và 3 tầng hầm đã hoàn thành đúng tiến độ. Chúng ta chuẩn bị bước vào giai đoạn thi công phần thân. Đây là giai đoạn quan trọng nhất quyết định đến hình dáng và độ thẩm mỹ của tòa nhà.
+[08:06] Tuy nhiên, dự báo thời tiết cho thấy năm nay mùa mưa sẽ đến sớm và lượng mưa lớn hơn trung bình nhiều năm. Điều này sẽ ảnh hưởng trực tiếp đến việc đổ bê tông sàn và các công tác hoàn thiện ngoài trời.
+[08:09] Tôi yêu cầu Ban chỉ huy công trường phải có kế hoạch che chắn kỹ lưỡng. Tuyệt đối không được đổ bê tông khi trời đang mưa to. Cần chuẩn bị sẵn các bạt che chuyên dụng và hệ thống máy bơm công suất lớn để hút nước đọng ở các hố móng và sàn.
+[08:12] Về phía vật tư, giá thép và xi măng đang có xu hướng tăng nhẹ trên thị trường. Chúng ta nên ký hợp đồng chốt giá với các nhà cung cấp cho toàn bộ phần thân để tránh rủi ro biến động giá làm đội chi phí.
+[08:15] Tôi đã làm việc với đối tác thép Hòa Phát và xi măng Insee. Họ đồng ý giữ giá cho chúng ta nếu chúng ta thanh toán trước 30% giá trị hợp đồng. Bộ phận Kế toán cần cân đối dòng tiền để thực hiện việc này.
+[08:18] Một vấn đề đau đầu là tình trạng thiếu hụt nhân công tay nghề cao, đặc biệt là thợ điện nước và thợ ốp lát. Nhiều tổ đội đã bỏ sang các công trình khác do mức lương bên đó chào mời hấp dẫn hơn.
+[08:21] Chúng ta cần xem xét lại cơ chế trả lương và thưởng theo tiến độ cho các tổ đội thầu phụ. Ngoài ra, cần đảm bảo điều kiện ăn ở, vệ sinh tại lán trại công nhân thật tốt để họ yên tâm gắn bó với dự án.
+
+<|output|>
+# Triển khai thi công phần thân dự án Diamond Plaza và quản lý chất lượng xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch thi công phần thân tòa nhà sau khi hoàn thành móng và hầm.
+- Triển khai các biện pháp ứng phó với mùa mưa và đảm bảo an toàn lao động (HSE).
+
+### 2. Các vấn đề đã thảo luận
+- Kế hoạch đổ bê tông và che chắn công trường trong điều kiện thời tiết mưa lớn.
+- Chốt giá thép và xi măng với các nhà cung cấp lớn thông qua thanh toán trước.
+- Điều chỉnh chính sách lương thưởng và cải thiện điều kiện lán trại cho công nhân.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án chốt giá vật tư phần thân với Hòa Phát và Insee.
+- Tăng 10% phụ cấp thợ giỏi và áp dụng chính sách thưởng tiến độ cho các tổ đội.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký hợp đồng chốt giá thép và xi măng | Phòng Vật tư & Kế toán | 15/04/2024 |
+| Kiểm tra toàn bộ hệ thống điện tạm | Đội HSE | 10/04/2024 |

@@ -1,0 +1,61 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[15:00] Chào anh chị em, hôm nay chúng ta ngồi lại để bàn về việc quyết toán thuế thu nhập cá nhân cho nhân viên vào cuối tháng này.
+[15:02] Năm nay có một số thay đổi về mức giảm trừ gia cảnh, nên mọi người cần chú ý hướng dẫn nhân viên cập nhật thông tin người phụ thuộc chính xác.
+[15:04] Tôi lo nhất là các trường hợp nhân viên mới vào, họ có thu nhập ở nhiều nơi thì việc tập hợp chứng từ khấu trừ thuế sẽ mất thời gian.
+[15:06] Đúng vậy, chúng ta nên gửi email thông báo sớm để họ chủ động liên hệ nơi cũ lấy chứng từ.
+[15:08] Ngoài ra, phần mềm kế toán hiện tại đang gặp lỗi khi xuất file XML để nộp qua hệ thống của Tổng cục Thuế.
+[15:10] Cái này phải báo ngay cho bên cung cấp phần mềm xử lý, không để đến sát ngày nộp mới cuống lên là hỏng việc.
+[15:12] Về việc hoàn thuế, nếu nhân viên muốn công ty quyết toán thay thì phải ký cam kết ủy quyền rõ ràng.
+[15:14] Tôi sẽ chuẩn bị mẫu ủy quyền và gửi cho các phòng ban vào ngày mai.
+[15:16] Mọi người cũng cần rà soát lại các khoản chi phí phúc lợi có tính chất tiền lương tiền công để tính thuế cho đúng, tránh bị truy thu khi thanh tra.
+[15:18] Nhất trí, chúng tôi sẽ kiểm tra lại toàn bộ bảng lương từ đầu năm đến nay.
+
+<|output|>
+# Triển khai công tác quyết toán thuế thu nhập cá nhân
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất quy trình và thời hạn quyết toán thuế TNCN cho nhân viên.
+- Xử lý các vướng mắc về chứng từ, phần mềm và thay đổi quy định thuế.
+
+### 2. Các vấn đề đã thảo luận
+- Cập nhật quy định mới về mức giảm trừ gia cảnh và người phụ thuộc.
+- Khó khăn trong việc thu thập chứng từ khấu trừ thuế của nhân sự mới.
+- Lỗi kỹ thuật của phần mềm kế toán khi xuất dữ liệu nộp thuế.
+- Quy trình ủy quyền quyết toán thuế thay cho nhân viên.
+- Kiểm tra tính hợp lệ của các khoản phụ cấp và phúc lợi chịu thuế.
+
+### 3. Kết luận và quyết định
+- Phát hành thông báo và mẫu ủy quyền quyết toán thuế sớm.
+- Yêu cầu hỗ trợ kỹ thuật sửa lỗi phần mềm xuất file XML.
+- Thực hiện rà soát tổng thể bảng lương để đảm bảo tính thuế chính xác.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Gửi email hướng dẫn và mẫu ủy quyền cho nhân viên | Phòng Nhân sự | 19/03/2026 |
+| Liên hệ nhà cung cấp phần mềm sửa lỗi xuất file | Tổ IT/Kế toán | 21/03/2026 |
+| Tổng hợp chứng từ khấu trừ thuế của nhân viên | Phòng Kế toán | 25/03/2026 |
+| Rà soát các khoản phúc lợi chịu thuế | Kế toán trưởng | 27/03/2026 |
+| Hoàn thiện hồ sơ nộp thuế | Phòng Kế toán | 30/03/2026 |

@@ -1,0 +1,55 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00:00] Chào buổi sáng cả team Marketing nhé! Hôm nay mình ngồi lại rà soát cái kế hoạch tài trợ cho giải Marathon thành phố sắp tới nè. Đây là cơ hội lớn để branding nên mọi người tập trung nha.
+[09:00:30] Dạ em chào chị Lan. Em mới nhận được cái layout vị trí đặt banner từ ban tổ chức. Họ cho mình 5 vị trí ở cổng xuất phát và 10 vị trí dọc đường chạy, nhưng toàn là mấy góc khuất không hà chị ơi.
+[09:01:00] Ơ kìa, mình tài trợ cả tỷ bạc mà sao họ đối xử với mình kỳ vậy? Em phải gọi điện làm việc lại ngay, ít nhất phải có 2 cái banner to đùng ngay vạch đích, chỗ mà mấy vận động viên hay chụp hình check-in ấy.
+[09:01:30] Dạ để em "chiến" lại với bên đó. Còn vụ áo thun cho vận động viên, em thấy cái logo mình in trên ngực hơi nhỏ, nhìn từ xa không thấy rõ thương hiệu mình đâu.
+[09:02:00] Nhỏ thì bảo họ phóng to ra, mà nhớ dặn in loại mực xịn nha, chứ chạy bộ mồ hôi ra nhiều mà nó lem nhem nhìn ghê lắm. Với lại, màu áo năm nay mình chọn màu cam neon cho nó nổi bật giữa đám đông luôn.
+[09:02:30] Chị ơi, cam neon thì nổi thật nhưng mà phối đồ hơi khó á. Hay là mình chơi màu xanh cyan đi, nhìn nó vừa năng động vừa dịu mắt, mà lại đúng màu nhận diện thương hiệu mới của mình nữa.
+[09:03:00] Ừ, xanh cyan cũng được, duyệt theo ý em. Còn vụ KOLs thì sao hả Nam? Có mời được ai "khủng" tham gia chạy cùng mình không?
+[09:03:30] Dạ em đang liên hệ với hoa hậu H'Hen Niê với anh Đen Vâu. Hen thì ok rồi, còn Đen thì ảnh đang kẹt lịch diễn, chắc chỉ tham gia được buổi khai mạc thôi chị.
+[09:04:00] Có Hen là ngon rồi, tầm ảnh hưởng của bả lớn lắm. Nhớ chuẩn bị cho bả một bộ đồ chạy thật chuyên nghiệp, có in logo mình khéo léo tí nha. Đừng có tham in to quá nhìn nó giống như đi quảng cáo dạo thì mất sang.
+
+<|output|>
+# Kế hoạch tài trợ và truyền thông cho giải chạy Marathon
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát các hạng mục tài trợ cho giải Marathon thành phố.
+- Thống nhất các phương án thiết kế vật phẩm và hoạt động tại sự kiện.
+
+### 2. Các vấn đề đã thảo luận
+- Vị trí đặt banner: Hiện tại các vị trí được giao chưa đạt yêu cầu về mức độ hiển thị (bị khuất), cần thương lượng lại vị trí tại vạch đích.
+- Thiết kế áo thun: Đổi màu sang xanh cyan để đồng nhất thương hiệu, phóng to logo và yêu cầu chất lượng mực in chống lem mồ hôi.
+- Nhân sự KOLs: Đã chốt Hoa hậu H'Hen Niê tham gia chạy chính thức, Đen Vâu tham gia khai mạc.
+
+### 3. Kết luận và quyết định
+- Giao Nam làm việc lại với Ban tổ chức về vị trí banner quảng bá.
+- Phê duyệt phương án màu xanh cyan cho áo vận động viên và các vật phẩm đi kèm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thương lượng lại vị trí đặt banner với BTC | Nam - Marketing | 17/12/2024 |
+| Chốt thiết kế áo và đặt sản xuất | Chị Lan | 20/12/2024 |
+| Ký hợp đồng với KOLs (H'Hen Niê, Đen Vâu) | Bộ phận Pháp chế | 18/12/2024 |

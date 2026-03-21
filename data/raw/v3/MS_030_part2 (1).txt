@@ -1,0 +1,80 @@
+<|input|>
+# Kế hoạch triển khai giai đoạn lắp đặt tua-bin dự án Điện gió miền Trung
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát toàn diện tiến độ thi công hạ tầng và chuẩn bị cho giai đoạn lắp đặt tua-bin.
+- Giải quyết các nút thắt về giải phóng mặt bằng đường dây truyền tải.
+- Thống nhất phương án vận chuyển thiết bị siêu trường siêu trọng và các yêu cầu bảo vệ môi trường từ đối tác tài trợ.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng 5 hộ dân chưa đồng ý đền bù hành lang tuyến gây nguy cơ chậm tiến độ đấu nối lưới điện.
+- Yêu cầu bổ sung hệ thống bảo vệ chim di cư (radar, cảm biến) từ đối tác quốc tế và dự toán chi phí phát sinh.
+- Thách thức vận chuyển cánh tua-bin 80m do sạt lở đường đèo và nhu cầu mở rộng các khúc cua gắt.
+
+### 3. Kết luận và quyết định
+- Ưu tiên giải quyết dứt điểm các vướng mắc mặt bằng thông qua đối thoại trực tiếp trong tháng 3.
+- Phê duyệt chủ trương lắp đặt hệ thống bảo vệ môi trường theo tiêu chuẩn quốc tế.
+- Xúc tiến làm việc với Sở GTVT để xin cấp phép cải tạo đường vận chuyển thiết bị.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tổ chức đối thoại đền bù với 5 hộ dân cuối cùng | Phòng Quan hệ cộng đồng | 30/03/2026 |
+| Dự toán chi phí hệ thống radar bảo vệ chim | Anh Nam (Kỹ thuật) | 25/03/2026 |
+| Xin giấy phép cải tạo khúc cua đường đèo | Team Vận chuyển | 28/03/2026 |
+| Lập báo cáo tác động môi trường cập nhật | Team HSE | 15/04/2026 |
+| Kiểm tra lại hệ thống truyền tải điện nội bộ | Team Kỹ thuật | Chưa rõ |
+[09:45] Dự án đang chịu áp lực rất lớn về dòng tiền. Ngân hàng đã giải ngân giai đoạn 3 nhưng yêu cầu mình phải chứng minh được tiến độ lắp đặt tua-bin số 1 hoàn thành trước ngày 15/05.
+[09:50] Chị Thủy (Tài chính) làm việc sát sao với bên ngân hàng, chuẩn bị hồ sơ nghiệm thu phần móng và cột trụ để họ giải ngân tiếp giai đoạn 4 đúng kế hoạch.
+[09:55] Về an toàn lao động trên công trường, dạo này tôi thấy một số nhà thầu phụ vẫn còn lơ là việc đeo dây bảo hiểm khi làm việc trên cao. Điều này là tuyệt đối cấm.
+[10:00] Đội HSE (An toàn sức khỏe môi trường) phải có mặt 24/7 tại hiện trường. Bất kỳ nhà thầu nào vi phạm quy định an toàn sẽ bị đình chỉ thi công và phạt nặng theo hợp đồng.
+[10:10] Một vấn đề kỹ thuật phát sinh: Các chuyên gia nước ngoài đang bị chậm visa do thay đổi quy định mới. Nếu họ không sang kịp trong tuần tới, việc giám sát lắp đặt tua-bin sẽ bị đình trệ.
+[10:20] Phòng Hành chính liên hệ gấp với Cục Quản lý xuất nhập khẩu để đẩy nhanh quy trình cấp phép lao động cho các chuyên gia. Cần thiết thì mình làm công văn gửi Bộ Công Thương nhờ hỗ trợ vì đây là dự án năng lượng trọng điểm.
+[10:30] Về mảng truyền thông, chúng ta cần chuẩn bị cho lễ khánh thành tua-bin đầu tiên. Tôi muốn mời đại diện các cơ quan báo chí đến đưa tin về đóng góp của dự án trong việc giảm phát thải carbon.
+[10:40] Team Marketing cần làm một video clip timelapse từ lúc khởi công đến nay để chiếu trong buổi lễ. Nhớ nhấn mạnh vào việc mình đã tạo ra hơn 500 việc làm cho người dân địa phương.
+[10:50] Sau khi vận hành, việc bảo trì định kỳ các tua-bin này cũng là bài toán lớn. Mình đã đào tạo được đội ngũ kỹ thuật địa phương chưa hay vẫn phải phụ thuộc vào chuyên gia hãng?
+
+<|output|>
+# Kế hoạch triển khai giai đoạn lắp đặt tua-bin dự án Điện gió miền Trung
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát toàn diện tiến độ thi công hạ tầng và chuẩn bị cho giai đoạn lắp đặt tua-bin.
+- Giải quyết các nút thắt về giải phóng mặt bằng đường dây truyền tải và thủ tục visa chuyên gia.
+- Thống nhất phương án vận chuyển thiết bị siêu trường siêu trọng và các yêu cầu bảo vệ môi trường từ đối tác tài trợ.
+- Đảm bảo an toàn lao động và dòng vốn giải ngân từ ngân hàng theo tiến độ dự án.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng 5 hộ dân chưa đồng ý đền bù hành lang tuyến gây nguy cơ chậm tiến độ đấu nối lưới điện.
+- Yêu cầu bổ sung hệ thống bảo vệ chim di cư (radar, cảm biến) từ đối tác quốc tế và dự toán chi phí phát sinh.
+- Thách thức vận chuyển cánh tua-bin 80m do sạt lở đường đèo và nhu cầu mở rộng các khúc cua gắt.
+- Vấn đề visa chuyên gia kỹ thuật nước ngoài bị chậm do thay đổi quy định quản lý xuất nhập khẩu.
+- Tăng cường kỷ luật an toàn lao động (HSE) tại hiện trường, đặc biệt là làm việc trên cao.
+- Công tác chuẩn bị truyền thông cho lễ khánh thành tua-bin đầu tiên và sản xuất video timelapse.
+
+### 3. Kết luận và quyết định
+- Ưu tiên giải quyết dứt điểm các vướng mắc mặt bằng thông qua đối thoại trực tiếp trong tháng 3.
+- Phê duyệt chủ trương lắp đặt hệ thống bảo vệ môi trường theo tiêu chuẩn quốc tế để đảm bảo giải ngân.
+- Xúc tiến làm việc với Sở GTVT để xin cấp phép cải tạo đường vận chuyển thiết bị.
+- Giao phòng Hành chính làm công văn gửi các bộ ngành hỗ trợ thủ tục visa cho chuyên gia.
+- Đặt mục tiêu lắp đặt thành công tua-bin số 1 trước ngày 15/05 để đáp ứng yêu cầu của ngân hàng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tổ chức đối thoại đền bù với 5 hộ dân cuối cùng | Phòng Quan hệ cộng đồng | 30/03/2026 |
+| Dự toán chi phí hệ thống radar bảo vệ chim | Anh Nam (Kỹ thuật) | 25/03/2026 |
+| Xin giấy phép cải tạo khúc cua đường đèo | Team Vận chuyển | 28/03/2026 |
+| Lập báo cáo tác động môi trường cập nhật | Team HSE | 15/04/2026 |
+| Kiểm tra lại hệ thống truyền tải điện nội bộ | Team Kỹ thuật | Chưa rõ |
+| Hoàn thiện hồ sơ giải ngân giai đoạn 4 | Chị Thủy (Tài chính) | 05/04/2026 |
+| Xúc tiến thủ tục visa chuyên gia nước ngoài | Phòng Hành chính | 25/03/2026 |
+| Giám sát an toàn lao động tại công trường 24/7 | Đội HSE | 30/06/2026 |
+| Sản xuất video timelapse dự án | Team Marketing | 05/05/2026 |
+| Chuẩn bị kịch bản lễ khánh thành tua-bin số 1 | Phòng Marketing | 20/04/2026 |
+| Thuê thiết bị cẩu tải trọng lớn tại hiện trường | Phòng Thu mua | 10/04/2026 |

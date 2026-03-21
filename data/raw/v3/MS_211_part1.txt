@@ -1,0 +1,67 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Tóm lại Tôi sẽ phụ trách kiểm tra lại quy hoạch rồi báo lại cả team vào chiều mai.
+[09:02] Tôi lo nhất là cái căn hộ, tiến độ đang bị khựng lại.
+[09:04] Hình như Mọi người nghe rõ không? Về cái giá đất này tôi thấy có vẻ hơi vướng.
+[09:06] Tôi thấy giấy phép xây dựng hiện tại là cơ hội tốt để mình bứt phá.
+[09:08] Chắc là Vấn đề dự án thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:05] Mọi người nghe rõ không? Về cái pháp lý dự án này tôi thấy có vẻ hơi vướng.
+[09:06] Cần phải làm rõ hơn về quy hoạch trong hợp đồng mới.
+[09:07] Hình như Về dài hạn thì giấy phép xây dựng sẽ là trọng tâm của năm nay.
+[09:08] Về dài hạn thì pháp lý dự án sẽ là trọng tâm của năm nay.
+[09:18] Vấn đề nhà đầu tư thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:10] Đừng quên vụ pháp lý dự án cũng quan trọng không kém nhé.
+[09:11] À Thôi được rồi, vậy thống nhất là triển khai dự án theo hướng đó.
+[09:24] Cái giá đất này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:26] Thì đấy Ai sẽ chịu trách nhiệm chính cho mảng giá đất nhỉ?
+[09:28] Tôi sẽ phụ trách kiểm tra lại quy hoạch rồi báo lại cả team vào chiều mai.
+[09:30] Tôi thấy pháp lý dự án hiện tại là cơ hội tốt để mình bứt phá.
+[09:16] Thực ra Cái quy hoạch này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:34] Thế thì mình chốt phương án cho căn hộ luôn đi, đừng kéo dài nữa.
+[09:18] Ai sẽ chịu trách nhiệm chính cho mảng dự án nhỉ?
+[09:19] Đừng quên vụ dự án cũng quan trọng không kém nhé.
+[09:40] À Đúng rồi, cái giấy phép xây dựng cần được ưu tiên xử lý trước thứ Sáu này.
+[09:21] À Đúng rồi, cái giấy phép xây dựng cần được ưu tiên xử lý trước thứ Sáu này.
+
+<|output|>
+# Báo cáo cuộc họp về Bất động sản
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Bất động sản hiện tại
+- Giải quyết các tồn đọng liên quan đến quy hoạch
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý giấy phép xây dựng
+- Thiếu hụt nguồn lực cho nhà đầu tư
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho quy hoạch
+- Phân bổ thêm 2 nhân sự cho mảng nhà đầu tư
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ giá đất | Chị Mai | 16/11/2026 |
+| Liên hệ đối tác về pháp lý dự án | Bộ phận Pháp lý | 25/03/2026 |
+| Kiểm tra tiến độ quy hoạch | Anh Hoàng | 05/11/2026 |

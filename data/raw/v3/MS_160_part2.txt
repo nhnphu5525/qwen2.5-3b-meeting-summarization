@@ -1,0 +1,56 @@
+<|input|>
+# Kế hoạch mua lại và sáp nhập (M&A) đối thủ Alpha
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận chiến lược thâu tóm công ty Alpha - đối thủ cạnh tranh lớn nhất trên thị trường.
+
+### 2. Các vấn đề đã thảo luận
+- **Lý do chiến lược:** Tăng thị phần lên mức áp đảo (60%), sở hữu hệ thống phân phối mạnh tại miền Bắc/miền Trung và tiếp nhận công nghệ sản xuất hiện đại của đối thủ.
+- **Thực trạng đối tác:** Alpha đang gặp khó khăn về dòng tiền và nợ vay ngân hàng lớn nhưng sở hữu tài sản cố định và thương hiệu có giá trị cao.
+
+### 3. Kết luận và quyết định
+- Chính thức khởi động dự án M&A mã hiệu "Dự án Alpha".
+- Thành lập 4 nhóm thẩm định chi tiết (DD): Tài chính, Pháp lý, Kỹ thuật và Nhân sự với thời hạn báo cáo trong vòng 2 tuần.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tiếp cận và đàm phán sơ bộ với Chủ tịch công ty Alpha | Anh Long | 20/10/2023 |
+| Thành lập và triển khai 4 nhóm thẩm định (DD) chi tiết | Hải (Chiến lược) | 25/10/2023 |
+[09:08:25] Còn vụ nhân sự thì sao anh? Alpha họ có cái văn hóa làm việc rất khác mình. Bên mình thì thoải mái, linh hoạt, còn bên đó nghe nói quản lý theo kiểu quân đội, kỷ luật sắt lắm. Gộp hai ông này lại với nhau, em sợ anh em sẽ "đánh nhau" chí tử vì không hợp văn hóa mất thôi.
+[09:09:50] Cái đó là bài toán hội nhập (Post-Merger Integration - PMI) cực khó đó Sơn. Anh đã tính tới chuyện thuê một đơn vị chuyên về tư vấn nhân sự để hỗ trợ mình vụ này. Mình không thể ép họ theo mình ngay lập tức được, mà phải có lộ trình hòa nhập từ từ. Những nhân sự cốt cán, những "key person" của Alpha mình phải có chính sách giữ chân họ thật tốt.
+[10:11:15] Quay lại vụ định giá đi anh. Mình định trả cho họ bao nhiêu? Em thấy giá cổ phiếu của họ trên sàn đang dao động quanh mức 45-50 ngàn. Nếu mình muốn thâu tóm thì chắc chắn phải trả một mức phí chênh lệch (premium) khoảng 20-30% thì cổ đông của họ mới chịu nhả ra chứ.
+[10:12:40] Anh tính là mình sẽ đề xuất mức giá khoảng 60-65 ngàn. Tổng giá trị thương vụ này có thể lên đến hơn 2.000 tỷ đồng. Một con số khổng lồ! Mình không thể tự gánh hết bằng vốn tự có được. Lan xem phương án vay hợp vốn từ các ngân hàng hoặc phát hành thêm trái phiếu doanh nghiệp đi.
+[10:14:05] Dạ, em đang làm việc với bên Techcombank với MBBank nè anh. Họ cũng rất hào hứng với thương vụ này và sẵn sàng tài trợ khoảng 60% tổng giá trị. Còn lại mình sẽ dùng vốn lưu động và có thể phát hành thêm cổ phiếu cho cổ đông hiện hữu để huy động thêm.
+[10:15:30] Anh ơi, còn vụ rủi ro pháp lý thì sao? Em lo là vụ này có thể dính vào luật cạnh tranh, vì sau khi sáp nhập mình chiếm thị phần quá lớn. Cục Quản lý cạnh tranh họ mà sờ gáy, bắt mình phải thoái bớt mảng này mảng kia thì cũng phiền lắm đó.
+
+<|output|>
+# Kế hoạch mua lại và sáp nhập (M&A) đối thủ Alpha
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận chiến lược thâu tóm công ty Alpha - đối thủ cạnh tranh lớn nhất trên thị trường.
+- Phân tích các cơ hội, thách thức, rủi ro tài chính và pháp lý liên quan đến thương vụ M&A.
+
+### 2. Các vấn đề đã thảo luận
+- **Lý do chiến lược:** Tăng thị phần lên mức áp đảo (60%), sở hữu hệ thống phân phối mạnh tại miền Bắc/miền Trung và tiếp nhận công nghệ sản xuất hiện đại của đối thủ.
+- **Thực trạng đối tác:** Alpha đang gặp khó khăn về dòng tiền và nợ vay ngân hàng lớn nhưng sở hữu tài sản cố định và thương hiệu có giá trị cao.
+- **Định giá và Tài chính:** Dự kiến mức giá mua lại khoảng 60.000 - 65.000đ/cổ phiếu (tổng trị giá hơn 2.000 tỷ đồng). Phương án tài trợ vốn kết hợp giữa vốn tự có, vay hợp vốn ngân hàng và phát hành trái phiếu/cổ phiếu.
+
+### 3. Kết luận và quyết định
+- Chính thức khởi động dự án M&A mã hiệu "Dự án Alpha".
+- Thành lập 4 nhóm thẩm định chi tiết (DD): Tài chính, Pháp lý, Kỹ thuật và Nhân sự với thời hạn báo cáo trong vòng 2 tuần.
+- Giao bộ phận Tài chính làm việc với các ngân hàng để chốt phương án vay vốn và cơ cấu nguồn tiền.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tiếp cận và đàm phán sơ bộ với Chủ tịch công ty Alpha | Anh Long | 20/10/2023 |
+| Thành lập và triển khai 4 nhóm thẩm định (DD) chi tiết | Hải (Chiến lược) | 25/10/2023 |
+| Chốt phương án vay hợp vốn và cơ cấu tài chính cho thương vụ | Lan (Tài chính) | 05/11/2023 |
+| Thẩm định rủi ro pháp lý và Luật cạnh tranh | Bộ phận Pháp chế | 30/10/2023 |

@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:30:15] Ờ, chào mọi người nha. Hôm nay tụi mình ngồi lại xíu để coi lại mấy cái vụ chi phí tiếp khách với công tác phí dạo này nó hơi bị "vượt khung" đó.
+[08:31:20] Dạ đúng rồi chị Linh ơi, em coi sổ sách tháng rồi thấy khoản tiếp khách của mấy anh bên kinh doanh tăng vọt luôn, mà nhiều hóa đơn nhìn nó cứ "sao sao" á, không rõ ràng mục đích lắm.
+[08:32:45] Thì đó, anh cũng thấy vậy nè. Mấy ông nội bên đó cứ hễ đi gặp khách là y như rằng thấy báo về toàn mấy nhà hàng xịn xò, mà có khi khách chỉ là hộ kinh doanh nhỏ thôi. Anh thấy mình cần siết lại cái định mức này chứ không là thâm hụt quỹ hết.
+[08:34:10] Dạ vầy nè, em đề xuất là mình phải phân loại khách hàng ra. Khách VIP thì mới được duyệt mức cao, còn khách vãng lai hay đối tác nhỏ thì mình giới hạn lại tầm 500k đến 1 triệu một bữa thôi. Chứ cái gì cũng quất vài triệu thì chịu sao thấu.
+[08:35:30] Ý này hay nè. Linh thấy sao? Với lại vụ công tác phí nữa, đợt rồi mấy bạn đi tỉnh mà tiền taxi báo về cao quá trời cao. Sao mình không yêu cầu các bạn dùng Grab hay mấy cái ứng dụng có giá sẵn cho nó minh bạch nhỉ?
+[08:36:55] Ừ, chị cũng đang tính nói cái đó. Giờ Grab nó phủ sóng hết rồi, trừ mấy chỗ vùng sâu vùng xa quá thì thôi, chứ ở thành phố là phải dùng ứng dụng để lấy hóa đơn điện tử cho nó khỏe. Chứ mấy cái phiếu thu viết tay nhìn nhức đầu lắm, mà dễ "bùa" nữa.
+[08:38:20] Với lại vụ đặt phòng khách sạn nữa chị. Em thấy mình nên ký hợp đồng nguyên tắc với một bên đại dịch vụ nào đó như Traveloka hay Agoda chẳng hạn, hoặc mấy khách sạn quen để có giá ưu đãi cố định luôn. Chứ để mấy anh tự đặt rồi mỗi người một giá, lúc thì 1 triệu, lúc thì 2 triệu, khó kiểm soát cực kỳ.
+
+<|output|>
+# Kiểm soát chi phí tiếp khách và công tác phí
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xem xét lại thực trạng chi phí tiếp khách và công tác phí đang có dấu hiệu tăng cao và thiếu minh bạch.
+- Thống nhất các biện pháp siết chặt quản lý chi phí để đảm bảo ngân sách công ty.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí tiếp khách của bộ phận kinh doanh tăng vọt, nhiều hóa đơn không rõ mục đích hoặc không tương xứng với quy mô đối tác.
+- Chi phí đi lại (taxi) khi công tác khó kiểm soát, dễ xảy ra tình trạng kê khai không trung thực.
+
+### 3. Kết luận và quyết định
+- Phân loại hạn mức tiếp khách dựa trên quy mô và tầm quan trọng của đối tác (Khách VIP vs Khách nhỏ).
+- Ưu tiên sử dụng các ứng dụng gọi xe có giá minh bạch (Grab) và hóa đơn điện tử cho các chuyến công tác tại thành phố.
+- Ký hợp đồng nguyên tắc với các đơn vị lữ hành hoặc chuỗi khách sạn để lấy giá ưu đãi cố định và thống nhất danh sách nơi lưu trú theo cấp bậc nhân viên.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo quy trình quản lý chi phí tiếp khách và công tác phí mới | Phòng Kế toán (Phương) | 15/10/2023 |
+| Tìm kiếm và đàm phán hợp đồng với các đối tác khách sạn/dịch vụ lữ hành | Phòng Hành chính (Anh Nam) | 20/10/2023 |

@@ -1,0 +1,73 @@
+<|input|>
+# Kế hoạch ra mắt Bộ sưu tập Thu Đông 2024: "Eco-Chic - Sống bền vững"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt kế hoạch sản xuất và ra mắt BST Thu Đông 2024 với định hướng thời trang bền vững (Sustainable Fashion).
+- Thống nhất chiến lược Marketing, Influencer và bao bì thân thiện môi trường.
+- Duyệt các ý tưởng sáng tạo: Chất liệu vải bã cà phê, thẻ bài chứa hạt mầm.
+
+### 2. Các vấn đề đã thảo luận
+- **Chất liệu:** Sử dụng 70% vải bền vững (sợi tre, lanh, bã cà phê). Giá vốn tăng 20%, cần đàm phán hợp đồng dài hạn với nhà cung cấp Đài Loan để giảm chi phí.
+- **Marketing:** Tập trung vào Storytelling (hành trình chất liệu). Booking KOLs sống xanh (Helly Tống, Giang Ơi, Quang Đại) tham gia trải nghiệm thực tế tại xưởng.
+- **Sản xuất:** Vải sợi tre khó may, cần thay kim chuyên dụng và thợ tay nghề cao. Nam đang chạy thử nghiệm 100 mẫu để QC.
+- **Sáng tạo:** Bao bì giấy kraft tái chế và thẻ bài (Tag) chứa hạt mầm có thể trồng cây. Lookbook chụp tại đồi cà phê Lâm Đồng.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ đề "Eco-Chic".
+- Đồng ý chi phí bao bì tái chế và thẻ bài mầm cây.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[14:28] Tuyệt vời! Chụp Lookbook giữa đồi cà phê vào buổi sớm sớm có sương mù sẽ rất lãng mạn và đúng chất Thu Đông. Nhưng Ly phải tính toán lịch trình nhé, dạo này Lâm Đồng hay có mưa chiều, sợ ảnh hưởng đến thiết bị và trang phục.
+[14:30] Về phần bán hàng (Sales), anh muốn triển khai chương trình "Thu cũ đổi mới". Khách mang quần áo cũ của hãng mình đến sẽ được giảm giá 10% khi mua BST Eco mới. Quần áo cũ đó mình sẽ đem đi tái chế hoặc làm từ thiện.
+[14:32] Ý tưởng này rất hợp với tinh thần tuần hoàn (circular fashion) sếp ạ. Em sẽ lên quy trình thu gom và phân loại ngay.
+[14:34] OK, vậy kế hoạch là: 1. Nam hoàn thiện mẫu thử và chốt quy trình may trước 10/12. 2. Mai liên hệ Influencer và lên kịch bản Vlog trải nghiệm. 3. Ly phụ trách chụp Lookbook tại Lâm Đồng. 4. Team Marketing chuẩn bị nội dung Storytelling và chương trình "Thu cũ đổi mới".
+[14:36] Deadline ra mắt BST là ngày 15/01/2025, ngay trước tết âm lịch để đón đầu nhu cầu mua sắm. Mọi người có ý kiến gì nữa không?
+[14:38] Dạ em muốn hỏi về ngân sách cho sự kiện ra mắt (Launch Event). Mình làm offline tại Store hay làm Virtual Fashion Show trên Metaverse hả sếp?
+[14:40] Anh nghĩ mình nên làm kết hợp (Hybrid). Một buổi tiệc trà nhỏ tại Flagship Store cho VIP và KOLs, đồng thời livestream trên TikTok và Facebook để tiếp cận khách hàng trẻ. Metaverse thì thôi, hiện tại chi phí cao mà hiệu quả chuyển đổi đơn hàng chưa rõ ràng.
+[14:42] Vâng anh, để em lên dự toán chi tiết cho Launch Event theo hướng Hybrid.
+[14:44] Chốt thế nhé. Cố gắng lên mọi người, đây là dự án tâm huyết nhất năm nay của anh đấy.
+[14:46] Vâng sếp! Chúng em sẽ làm hết mình.
+[14:48] Tan họp. Chào mọi người.
+
+<|output|>
+# Kế hoạch ra mắt Bộ sưu tập Thu Đông 2024: "Eco-Chic - Sống bền vững"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt kế hoạch sản xuất và ra mắt BST Thu Đông 2024 với định hướng thời trang bền vững (Sustainable Fashion).
+- Thống nhất chiến lược Marketing, Influencer và bao bì thân thiện môi trường.
+- Duyệt các ý tưởng sáng tạo: Chất liệu vải bã cà phê, Lookbook tại đồi cà phê, thẻ bài chứa hạt mầm.
+
+### 2. Các vấn đề đã thảo luận
+- **Chất liệu:** Sử dụng 70% vải bền vững (sợi tre, lanh, bã cà phê). Giá vốn tăng 20%, cần đàm phán hợp đồng dài hạn với nhà cung cấp Đài Loan để giảm chi phí.
+- **Marketing:** Tập trung vào Storytelling (hành trình chất liệu). Booking KOLs sống xanh (Helly Tống, Giang Ơi, Quang Đại) tham gia trải nghiệm thực tế tại xưởng.
+- **Sản xuất:** Vải sợi tre khó may, cần thay kim chuyên dụng và thợ tay nghề cao. Nam đang chạy thử nghiệm 100 mẫu để QC.
+- **Sáng tạo:** Thẻ bài (Tag) chứa hạt mầm có thể trồng cây. Lookbook chụp tại đồi cà phê Lâm Đồng để tạo sự kết nối với chất liệu.
+- **Bán hàng:** Triển khai chương trình "Thu cũ đổi mới" để thúc đẩy kinh tế tuần hoàn và giữ chân khách hàng.
+- **Sự kiện:** Tổ chức Launch Event theo mô hình Hybrid (Offline tại Store và Online Livestream).
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ đề "Eco-Chic" và lộ trình ra mắt vào 15/01/2025.
+- Đồng ý chi phí bao bì tái chế và thẻ bài mầm cây.
+- Giao team Marketing hoàn thiện kịch bản Storytelling và liên hệ Influencer trong tuần tới.
+- Team Sản xuất chốt quy trình may và hoàn thiện mẫu thử trước 10/12/2024.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Chốt hợp đồng cung ứng vải bã cà phê (Đài Loan) | Ly (Thiết kế) | 05/12/2024 |
+| Hoàn thiện mẫu thử (Prototyping) và quy trình may | Nam (Sản xuất) | 10/12/2024 |
+| Liên hệ và chốt hợp đồng với 03 Influencers | Mai (Marketing) | 08/12/2024 |
+| Khảo sát địa điểm chụp Lookbook tại Lâm Đồng | Ly (Thiết kế) | 12/12/2024 |
+| Thiết kế bao bì và thẻ bài hạt mầm | Team Design | 07/12/2024 |
+| Lập kế hoạch chi tiết chương trình "Thu cũ đổi mới" | Mai (Marketing) | 15/12/2024 |
+| Lên dự toán ngân sách Launch Event (Hybrid) | Mai (Marketing) | 10/12/2024 |
+| Kiểm soát chất lượng (QC) 100 mẫu chạy thử đầu tiên | Ly + Nam | 15/12/2024 |

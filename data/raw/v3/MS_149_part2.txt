@@ -1,0 +1,49 @@
+<|input|>
+# Đề án Tái cấu trúc Hệ thống Kho bãi Khu vực Miền Bắc
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả vận hành của hệ thống 3 kho hiện tại (Hà Nội, Bắc Ninh, Hải Phòng).
+
+### 2. Các vấn đề đã thảo luận
+- **Thực trạng hệ thống cũ:**
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng Consolidation Hub tại miền Bắc.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập Business Case và phân tích tài chính dự án | Chị Lan (CFO) | 15/10/2024 |
+| Khảo sát thực địa và chốt địa điểm thuê Hub | Nam (Logistics) | 25/10/2024 |
+[09:10:30] Lan nói đúng đó anh Hùng. Em thấy mình đang bị lãng phí nguồn lực rất nhiều ở khâu quản lý. Mỗi kho lại có một đội ngũ nhân sự riêng, máy móc thiết bị riêng nhưng công suất sử dụng lại không đồng đều. Có lúc kho Bắc Ninh làm không hết việc, trong khi kho Hải Phòng thì nhân viên lại ngồi chơi vì ít hàng về cảng.
+[09:14:00] Vậy nên Minh mới muốn mình ngồi lại hôm nay để bàn về phương án dồn dịch lại. Anh Hùng ơi, em đang nghĩ tới việc mình trả bớt 2 cái kho ở Hà Nội với Hải Phòng, rồi tìm một cái Hub trung tâm thật lớn, tầm 10.000 đến 15.000 mét vuông ở khu vực nút giao giữa Hà Nội và Hưng Yên hoặc Hải Dương. Anh thấy phương án này có khả thi về mặt vận hành không?
+[09:17:30] Ờ, về mặt lý thuyết thì gom về một Hub lớn (Consolidation) là xu hướng tất yếu để tối ưu hóa rồi. Nếu mình đặt kho ở khu vực Văn Giang - Hưng Yên chẳng hạn, thì từ đó tỏa đi Hà Nội, Bắc Ninh hay xuống Hải Phòng đều rất thuận tiện nhờ cái đường cao tốc Hà Nội - Hải Phòng với lại đường vành đai 3, vành đai 4 sắp tới. Tuy nhiên, cái anh lo nhất là khâu di dời hàng hóa kìa. Mình đang có hàng chục ngàn pallet hàng trong kho, di chuyển hết chỗ đó mà không làm gián đoạn chuỗi cung ứng là một bài toán cực khó đó nha.
+[09:21:00] Dạ, về vụ di dời thì em có ý kiến thế này ạ. Mình không nên làm cái rụp một cái là xong ngay. Mình nên áp dụng chiến thuật "cuốn chiếu". Đầu tiên mình thuê Hub mới, lắp đặt hệ thống kệ (racking) và hệ thống quản lý kho (WMS) chuẩn chỉnh trước. Sau đó, tất cả hàng mới về mình sẽ đổ thẳng về Hub mới. Còn hàng ở các kho cũ, mình sẽ ưu tiên xuất đi trước cho đến khi kho cạn dần thì mới chuyển phần tồn kho còn lại sang Hub mới. Cách này tuy tốn thời gian hơn một chút nhưng đảm bảo là khách hàng không bị ảnh hưởng gì hết.
+
+<|output|>
+# Đề án Tái cấu trúc Hệ thống Kho bãi Khu vực Miền Bắc
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả vận hành của hệ thống 3 kho hiện tại (Hà Nội, Bắc Ninh, Hải Phòng).
+- Thảo luận phương án hợp nhất các kho nhỏ lẻ thành một Hub trung tâm (Consolidation Hub) quy mô lớn để tối ưu chi phí và nâng cao năng lực cạnh tranh.
+
+### 2. Các vấn đề đã thảo luận
+- **Thực trạng hệ thống cũ:**
+- **Phương án tái cấu trúc:**
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng Consolidation Hub tại miền Bắc.
+- Đặt mục tiêu hoàn tất việc chọn mặt bằng và lắp đặt thiết bị trong Quý 3/2024; bắt đầu vận hành thử nghiệm trong Quý 4/2024.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập Business Case và phân tích tài chính dự án | Chị Lan (CFO) | 15/10/2024 |
+| Khảo sát thực địa và chốt địa điểm thuê Hub | Nam (Logistics) | 25/10/2024 |
+| Xây dựng sơ đồ Layout kho và thông số kỹ thuật kệ | Nam & Đội kỹ thuật | 30/10/2024 |

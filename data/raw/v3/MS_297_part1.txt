@@ -1,0 +1,52 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào buổi sáng mọi người, hôm nay chúng ta họp để đánh giá danh mục đầu tư của quỹ trong quý I và thảo luận về chiến lược phân bổ tài sản cho các quý tiếp theo trong bối cảnh thị trường tài chính thế giới đang có nhiều biến động phức tạp.
+[09:03] Nhìn vào bảng tổng kết lợi nhuận, tôi thấy mảng cổ phiếu ngành công nghệ của chúng ta đạt mức tăng trưởng ấn tượng 25% nhờ làn sóng AI. Tuy nhiên, mảng trái phiếu doanh nghiệp lại đang gặp khó khăn do lãi suất duy trì ở mức cao kéo dài.
+[09:06] Đúng vậy, giá trái phiếu giảm mạnh đã làm xói mòn một phần lợi nhuận từ cổ phiếu. Chúng ta cần xem xét việc tái cơ cấu danh mục, giảm tỷ trọng trái phiếu dài hạn và chuyển sang các công cụ thị trường tiền tệ có tính thanh khoản cao hơn.
+[09:09] Tôi cũng lo ngại về rủi ro từ thị trường bất động sản Trung Quốc đang lan rộng. Mặc dù chúng ta không đầu tư trực tiếp vào đó, nhưng các quỹ ETF mà chúng ta đang nắm giữ có một phần tỷ trọng ở khu vực châu Á - Thái Bình Dương.
+[09:12] Có lẽ chúng ta nên hedging rủi ro này bằng cách mua các hợp đồng quyền chọn bán (put options) đối với chỉ số chứng khoán khu vực. Việc này sẽ bảo vệ danh mục của chúng ta nếu thị trường có cú sập bất ngờ.
+[09:15] Về phía thị trường nội địa, tôi thấy các cổ phiếu ngành ngân hàng và bán lẻ đang có định giá khá hấp dẫn sau đợt điều chỉnh vừa rồi. P/E trung bình ngành đang ở mức thấp nhất trong vòng 3 năm qua.
+[09:18] Đây có thể là cơ hội để chúng ta giải ngân thêm vào các ngân hàng có bảng cân đối kế toán lành mạnh và tỷ lệ nợ xấu thấp. Tôi đã lọc ra được 5 cái tên sáng giá nhất để chúng ta cùng thảo luận.
+
+<|output|>
+# Đánh giá danh mục đầu tư quý I và chiến lược phân bổ tài sản quý II
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá hiệu quả đầu tư quý I (Cổ phiếu công nghệ tăng trưởng, Trái phiếu sụt giảm).
+- Thảo luận chiến lược tái cơ cấu danh mục tài sản trước biến động thị trường thế giới.
+
+### 2. Các vấn đề đã thảo luận
+- Lợi nhuận từ sóng AI bù đắp cho sự sụt giảm của mảng trái phiếu do lãi suất cao.
+- Rủi ro lan tỏa từ bất động sản Trung Quốc và phương án hedging bằng Put Options.
+- Cơ hội giải ngân vào cổ phiếu ngân hàng và bán lẻ tại Việt Nam khi định giá thấp.
+
+### 3. Kết luận và quyết định
+- Thực hiện tái cơ cấu danh mục: Giảm trái phiếu dài hạn, tăng tiền mặt và vàng.
+- Phê duyệt chủ trương ra mắt quỹ năng lượng sạch và chuẩn bị hồ sơ với UBCK.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện báo cáo phân tích ESG | Nhóm Phân tích chiến lược | 25/04/2024 |
+| Soạn hồ sơ thành lập quỹ năng lượng sạch | Trưởng phòng Pháp chế | 15/05/2024 |

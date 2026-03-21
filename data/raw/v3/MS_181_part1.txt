@@ -1,0 +1,67 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:30] Chào buổi sáng mọi người, hôm nay chúng ta ngồi lại để nhìn nhận về tình hình tỷ giá biến động mạnh trong tuần qua.
+[08:32] Đúng rồi, đồng USD đang lên giá quá nhanh so với VND, điều này ảnh hưởng trực tiếp đến chi phí nhập khẩu nguyên liệu của chúng ta.
+[08:34] Bên phía tài chính đã có phương án gì để phòng ngừa rủi ro tỷ giá chưa?
+[08:36] Chúng tôi đang xem xét việc ký kết các hợp đồng forward với ngân hàng để chốt tỷ giá cho các lô hàng nhập trong quý tới.
+[08:38] Tuy nhiên, phí forward hiện tại cũng không hề rẻ, chúng ta cần tính toán kỹ biên lợi nhuận.
+[08:40] Còn về mảng xuất khẩu thì sao? Tỷ giá tăng thì mình lại có lợi thế mà đúng không?
+[08:42] Về lý thuyết là vậy, nhưng các khách hàng ở châu Âu cũng đang yêu cầu giảm giá bán vì đồng Euro cũng mất giá so với USD.
+[08:44] Do đó, doanh thu thực tế quy đổi ra USD có thể không tăng mạnh như kỳ vọng.
+[08:46] Tôi đề nghị team kinh doanh đẩy mạnh đàm phán thanh toán bằng các rổ tiền tệ khác nếu có thể.
+[08:48] Bên cạnh đó, chúng ta cần tìm kiếm thêm các nguồn cung nguyên liệu trong nước để giảm bớt sự phụ thuộc vào nhập khẩu.
+[08:50] Việc này cần thời gian để kiểm định chất lượng, không thể xong ngay trong một sớm một chiều được.
+[08:52] Cứ bắt đầu khảo sát thị trường trước đi, ưu tiên các nhà cung cấp có chứng chỉ ISO.
+[08:54] Kế toán cần cập nhật dự báo dòng tiền hàng tuần thay vì hàng tháng như trước để lãnh đạo nắm sát tình hình.
+[08:56] Rõ rồi, chúng tôi sẽ thực hiện ngay từ tuần sau.
+
+<|output|>
+# Thảo luận về biến động tỷ giá và kế hoạch xuất khẩu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tác động của việc tỷ giá USD/VND tăng mạnh đến hoạt động kinh doanh.
+- Xây dựng phương án phòng ngừa rủi ro tỷ giá cho nhập khẩu và tối ưu doanh thu xuất khẩu.
+- Tìm kiếm giải pháp giảm sự phụ thuộc vào nguyên liệu nhập khẩu.
+
+### 2. Các vấn đề đã thảo luận
+- Đồng USD tăng giá làm tăng chi phí nhập khẩu nguyên liệu.
+- Sử dụng hợp đồng forward để chốt tỷ giá nhưng cần lưu ý về chi phí phí dịch vụ.
+- Xuất khẩu gặp áp lực giảm giá từ khách hàng châu Âu do đồng Euro yếu.
+- Đề xuất đa dạng hóa rổ tiền tệ trong thanh toán quốc tế.
+- Sự cần thiết của việc tìm kiếm nguồn nguyên liệu nội địa để thay thế.
+- Tần suất báo cáo dòng tiền cần được tăng lên để ứng phó kịp thời.
+
+### 3. Kết luận và quyết định
+- Giao phòng Tài chính làm việc với ngân hàng về các hợp đồng forward.
+- Phòng Thu mua bắt đầu khảo sát các nhà cung cấp nguyên liệu trong nước đạt chuẩn ISO.
+- Phòng Kế toán chuyển sang báo cáo dự báo dòng tiền theo định kỳ hàng tuần.
+- Team Kinh doanh đàm phán lại các điều khoản thanh toán với đối tác nước ngoài.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký hợp đồng forward chốt tỷ giá | Phòng Tài chính | 25/03/2026 |
+| Khảo sát nhà cung cấp nội địa đạt chuẩn ISO | Phòng Thu mua | 10/04/2026 |
+| Chuyển đổi định kỳ báo cáo dòng tiền sang hàng tuần | Phòng Kế toán | 23/03/2026 |
+| Đàm phán phương thức thanh toán đa ngoại tệ | Phòng Kinh doanh | 05/04/2026 |

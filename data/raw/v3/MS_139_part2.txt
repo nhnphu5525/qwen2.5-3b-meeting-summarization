@@ -1,0 +1,53 @@
+<|input|>
+# Kế hoạch thâm nhập thị trường Đông Nam Á (Thái Lan & Indonesia)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất chiến lược thâm nhập thị trường Thái Lan và Indonesia cho mảng thực phẩm chế biến.
+
+### 2. Các vấn đề đã thảo luận
+- Nghiên cứu thị trường:
+
+### 3. Kết luận và quyết định
+- Chốt lộ trình: Có mặt tại kệ siêu thị Thái Lan vào cuối quý IV năm nay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đàm phán MOU với đối tác Central Group (Thái Lan) | Chị Hà - Giám đốc chiến lược | 15/07/2024 |
+| Đăng ký bảo hộ nhãn hiệu và chứng chỉ Halal | Linh - Phòng Pháp chế | 30/07/2024 |
+[09:13:30] Nghe chừng cũng gian nan đó. Hùng ơi, còn vụ Logistic thì sao? Đường biển hay đường bộ thì tối ưu hơn cho hai thị trường này?
+[09:15:45] Dạ báo cáo anh, với Thái Lan thì đường bộ qua ngả Campuchia là nhanh nhất nhưng chi phí cầu đường với "phí gầm cầu" hơi cao. Còn Indonesia thì bắt buộc phải đi đường biển. Khổ nỗi là cảng Jakarta dạo này hay bị tắc nghẽn, hàng container của mình mà nằm chờ ở cảng quá 1 tuần là ảnh hưởng đến date sản phẩm ngay. Em đề xuất mình nên tìm các đối tác kho lạnh tại chỗ để trung chuyển hàng ngay khi cập cảng anh ạ.
+[09:18:00] Hà thấy sao về ý kiến của Hùng? Mình nên tự xây dựng hệ thống phân phối hay bắt tay với các ông lớn bán lẻ bên đó như CP All của Thái hay Indomarco của Indonesia?
+[09:20:15] Em nghĩ giai đoạn đầu mình nên "đứng trên vai người khổng lồ" anh ạ. Tự xây dựng từ đầu tốn kém và rủi ro lắm. Em đã có những liên hệ ban đầu với đại diện Central Group ở Thái. Họ khá hứng thú với dòng sản phẩm hữu cơ của mình. Còn ở Indonesia, em đang nhắm tới việc liên doanh với một doanh nghiệp địa phương để tận dụng mạng lưới phân phối sẵn có và sự am hiểu văn hóa của họ.
+[09:22:30] Liên doanh thì phải chọn mặt gửi vàng nha Linh. Coi kỹ phần tỷ lệ sở hữu với quyền biểu quyết, đừng để mình bị "nuốt chửng" sau vài năm hoạt động.
+[09:24:45] Dạ em đang soạn thảo một bản ghi nhớ (MOU) với các điều khoản bảo vệ quyền lợi cổ đông thiểu số rất chặt chẽ. Mà anh Sơn ơi, còn vụ chuyển giá với thuế suất ưu đãi giữa các nước ASEAN (ATIGA) nữa, mình cũng phải tận dụng tối đa để tối ưu lợi nhuận anh ạ.
+[09:27:00] Đúng rồi Linh. Tuấn ơi, em check lại xem đối thủ cạnh tranh trực tiếp của mình bên đó là ai? Mấy hãng của Trung Quốc hay hàng nội địa của họ mạnh hơn?
+
+<|output|>
+# Kế hoạch thâm nhập thị trường Đông Nam Á (Thái Lan & Indonesia)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất chiến lược thâm nhập thị trường Thái Lan và Indonesia cho mảng thực phẩm chế biến.
+- Đánh giá các rào cản về văn hóa, pháp lý, logistic và đối thủ cạnh tranh.
+
+### 2. Các vấn đề đã thảo luận
+- Nghiên cứu thị trường:
+- Pháp lý và Thương hiệu:
+
+### 3. Kết luận và quyết định
+- Chốt lộ trình: Có mặt tại kệ siêu thị Thái Lan vào cuối quý IV năm nay.
+- Duyệt ngân sách cho nghiên cứu thị trường chuyên sâu và thuê Agency nội địa.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đàm phán MOU với đối tác Central Group (Thái Lan) | Chị Hà - Giám đốc chiến lược | 15/07/2024 |
+| Đăng ký bảo hộ nhãn hiệu và chứng chỉ Halal | Linh - Phòng Pháp chế | 30/07/2024 |
+| Khảo sát thực địa và hành vi tiêu dùng tại Jakarta | Tuấn - Market Research | 25/06/2024 |
+| Đàm phán giá cước vận tải dài hạn với Forwarder | Hùng - Logistic | 10/07/2024 |

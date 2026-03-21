@@ -1,0 +1,57 @@
+<|input|>
+# Chiến lược đa dạng hóa nguồn cung ứng và quản trị rủi ro chuỗi cung ứng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giảm thiểu sự phụ thuộc quá lớn vào một nhà cung cấp duy nhất.
+- Đảm bảo tính liên tục của hoạt động sản xuất trước các biến động địa chính trị toàn cầu.
+- Đánh giá và tìm kiếm các nguồn cung ứng thay thế tại khu vực Đông Nam Á.
+
+### 2. Các vấn đề đã thảo luận
+- Rủi ro khi 70% nguyên liệu phụ thuộc vào một đối tác Trung Quốc.
+- Đề xuất mở rộng nguồn cung sang Thái Lan và Malaysia dù chi phí cao hơn.
+
+### 3. Kết luận và quyết định
+- Nhất trí chủ trương đa dạng hóa nhà cung cấp tại Đông Nam Á.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tìm kiếm và liên hệ các đối tác tại Thái Lan | Phòng Thu mua | 05/04/2026 |
+[09:08] Nhưng giá thành từ các nước này đang cao hơn Trung Quốc khoảng 10%, liệu mình có cân đối được lợi nhuận?
+[09:10] An toàn chuỗi cung ứng là ưu tiên hàng đầu. Mình có thể chia tỷ lệ: 50% từ nhà cung cấp chính, 30% và 20% từ các nhà cung cấp mới.
+[09:12] Ngoài ra, cần đánh giá lại năng lực sản xuất và tiêu chuẩn chất lượng của họ xem có tương thích với dây chuyền của mình không.
+[10:14] Em sẽ cử một đoàn công tác đi khảo sát trực tiếp các nhà máy tại Thái Lan vào tháng sau.
+[10:16] Việc này cần làm gấp, vì hợp đồng với đối tác cũ sẽ hết hạn vào cuối năm nay.
+
+<|output|>
+# Chiến lược đa dạng hóa nguồn cung ứng và quản trị rủi ro chuỗi cung ứng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giảm thiểu sự phụ thuộc quá lớn vào một nhà cung cấp duy nhất.
+- Đảm bảo tính liên tục của hoạt động sản xuất trước các biến động địa chính trị toàn cầu.
+- Đánh giá và tìm kiếm các nguồn cung ứng thay thế tại khu vực Đông Nam Á.
+
+### 2. Các vấn đề đã thảo luận
+- Rủi ro khi 70% nguyên liệu phụ thuộc vào một đối tác Trung Quốc.
+- Đề xuất mở rộng nguồn cung sang Thái Lan và Malaysia dù chi phí cao hơn.
+- Thiết lập tỷ lệ đặt hàng mới (50/30/20) để duy trì mối quan hệ và đảm bảo an toàn.
+- Kế hoạch khảo sát thực tế năng lực của các đối tác tiềm năng.
+
+### 3. Kết luận và quyết định
+- Nhất trí chủ trương đa dạng hóa nhà cung cấp tại Đông Nam Á.
+- Phê duyệt kế hoạch khảo sát nhà máy tại Thái Lan trong tháng tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tìm kiếm và liên hệ các đối tác tại Thái Lan | Phòng Thu mua | 05/04/2026 |
+| Lập kế hoạch công tác khảo sát nhà máy | Phòng Thu mua | 10/04/2026 |
+| Phân tích tác động chi phí nguyên liệu mới | Phòng Tài chính | 20/04/2026 |
+| Dự thảo hợp đồng khung cho các đối tác mới | Phòng Pháp chế | Chưa rõ |
+| Kiểm tra chất lượng mẫu nguyên liệu mới | Phòng QA | Chưa rõ |

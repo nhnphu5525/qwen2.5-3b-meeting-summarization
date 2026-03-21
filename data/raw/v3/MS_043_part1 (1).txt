@@ -1,0 +1,52 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00] Chào team Product và Tech. Buổi họp hôm nay cực kỳ quan trọng vì tỷ lệ rớt đơn (drop-off rate) ở bước thanh toán trên app mình đang tăng vọt lên 45%. Chúng ta cần mổ xẻ nguyên nhân ngay.
+[14:02] Dạ, em đã chạy phân tích heatmap và session recording. Có vẻ như người dùng đang gặp khó khăn ở cái form điền thông tin giao hàng. Nó quá dài và nhiều trường không cần thiết.
+[14:04] Ờ... anh cũng thấy vậy. Tại sao mình không dùng tính năng tự động gợi ý địa chỉ theo Google Maps API cho nhanh? Khách chỉ cần gõ mấy chữ là nó ra địa chỉ luôn.
+[14:06] Vâng anh, cái đó em đã đưa vào backlog rồi. Nhưng vấn đề lớn hơn là tốc độ load trang thanh toán. Hiện tại mất trung bình 5-7 giây để load xong các phương thức thanh toán. Khách họ không đủ kiên nhẫn đâu, 3 giây là họ thoát rồi.
+[14:08] 5-7 giây? Sao lâu thế hả Quân? Server mình đang gặp vấn đề gì à?
+[14:10] Dạ không hẳn là server ạ. Do mình đang gọi quá nhiều API từ các đối tác thanh toán cùng một lúc để check khuyến mãi và trạng thái ví. Em đề xuất mình sẽ chuyển sang cơ chế load bất đồng bộ (async load). Cái nào xong trước hiện trước, đừng bắt khách đợi cả đám.
+[14:12] Đồng ý. Còn vụ tích hợp thêm cổng thanh toán Apple Pay và Google Pay thì sao? Anh thấy đối thủ họ làm hết rồi, mình vẫn lẹt đẹt mấy cái thẻ nội địa với ví MoMo.
+[14:14] Apple Pay thì mình đang chờ phía ngân hàng đối tác xác thực chứng chỉ bảo mật. Dự kiến mất khoảng 2 tuần nữa. Còn Google Pay thì xong rồi, chỉ cần bật switch là chạy thôi ạ.
+[14:16] Tốt! Quân lưu ý tối ưu cái UI cho bước chọn voucher nhé. Hiện tại danh sách voucher hiện ra lộn xộn quá, khách chả biết cái nào áp dụng được cái nào không.
+
+<|output|>
+# Tối ưu hóa trải nghiệm người dùng (UX/UI) và hiệu năng thanh toán trên App thương mại điện tử
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giảm tỷ lệ bỏ giỏ hàng (drop-off rate) tại bước thanh toán.
+- Tăng tốc độ tải trang và tích hợp các phương thức thanh toán hiện đại.
+
+### 2. Các vấn đề đã thảo luận
+- Form điền địa chỉ rườm rà: Đề xuất giải pháp tích hợp Google Maps API để tự động gợi ý địa chỉ.
+- Tốc độ load trang thanh toán quá chậm (5-7s) do gọi nhiều API cùng lúc: Chuyển sang cơ chế load API bất đồng bộ (async load).
+- Cần tích hợp thêm các cổng thanh toán quốc tế: Apple Pay đang chờ xác thực bảo mật, Google Pay đã hoàn tất và sẵn sàng.
+- UX chọn voucher gây bối rối cho người dùng vì danh sách hiển thị lộn xộn.
+
+### 3. Kết luận và quyết định
+- Chuyên viên phát triển hệ thống cần tối ưu giao diện chọn voucher để cải thiện UX.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

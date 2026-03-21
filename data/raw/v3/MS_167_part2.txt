@@ -1,0 +1,73 @@
+<|input|>
+# Thiết kế bộ học liệu cho khóa đào tạo "Kỹ năng lãnh đạo trong kỷ nguyên số"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất cấu trúc và hình thức thể hiện của bộ học liệu dành cho khóa đào tạo quản lý cấp trung.
+- Đổi mới phương pháp đào tạo thông qua các công cụ tương tác hiện đại và nội dung bám sát thực tế kỷ nguyên số.
+
+### 2. Các vấn đề đã thảo luận
+- **Chủ đề mới:** Đưa nội dung "Lãnh đạo từ xa" (Remote Leadership) và "Kết nối tâm lý trong làm việc nhóm" vào chương trình học để giải quyết các khó khăn thực tế của quản lý hiện nay.
+- **Hình thức tương tác:** Sử dụng video tình huống thực tế thay vì lý thuyết suông. Tích hợp mã QR trên tài liệu giấy để học viên tham gia poll/khảo sát trực tuyến qua điện thoại.
+- **Sổ tay thực hành (Workbook):** Thiết kế theo dạng Journaling (ghi chép tự phản chiếu) để thúc đẩy học viên thay đổi tư duy lãnh đạo cá nhân.
+
+### 3. Kết luận và quyết định
+- Chốt bộ học liệu gồm 4 thành phần chính: Slide tương tác, Video tình huống, Workbook Journaling và Prompt Kit.
+- Chấp nhận chi phí in ấn cao hơn dự kiến để đảm bảo chất lượng hình ảnh và Workbook in màu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế Layout Slide và Workbook | Đức - Team Design | 22/11/2024 |
+| Soạn nội dung Video tình huống và Prompt Kit | Lan - Team Content | 22/11/2024 |
+| Tuyển chọn case study và review bản thảo | Chị Thảo - Trưởng dự án | 25/11/2024 |
+[09:20:10] Ờ cái hướng đó tốt đó. Nhưng mà Đức nhớ canh chỉnh tone màu với layout cho nó hiện đại tí nha. Đừng có làm kiểu giáo khoa cũ kỹ, nhìn chán lắm.
+[09:22:25] Dạ chị yên tâm, em đang dùng tone màu xanh navy phối với cam san hô, nhìn nó vừa chuyên nghiệp mà vừa năng động đúng chất Digital Leader luôn.
+[09:24:40] Còn vụ bản quyền hình ảnh với tài liệu tham khảo thì sao hả Lan? Mình dùng nhiều case study của nước ngoài thì phải ghi nguồn cho rõ ràng nha, tránh rắc rối sau này.
+[09:26:55] Dạ em đã tổng hợp danh mục tài liệu tham khảo ở trang cuối rồi chị. Với lại mấy cái hình minh họa em cũng mua stock xịn hết rồi, không lo vụ bản quyền đâu ạ.
+[09:29:10] Tốt. Chị Thảo ơi, còn cái phần "Trí tuệ nhân tạo trong quản trị" (AI in Management) mình có đưa vào không chị? Em thấy giờ quản lý nào cũng hỏi về cái này.
+[09:31:25] Có chứ, cái đó phải là một module riêng luôn. Mình sẽ dạy họ cách dùng ChatGPT hay mấy công cụ AI để lập kế hoạch, phân tích báo cáo nhanh hơn. Lan tìm thêm mấy cái prompt hay hay dành cho quản lý để đưa vào sổ tay luôn nha.
+[09:33:40] Dạ vâng, để em soạn một bộ "Prompt Kit" tặng kèm cho học viên luôn. Chắc chắn họ sẽ thích lắm.
+[09:35:55] Ok, vậy chốt lại là mình có: Slide tương tác tích hợp QR code, Video tình huống, Workbook dạng Journaling, và bộ Prompt Kit cho AI.
+[09:38:10] Chị Thảo thấy tiến độ hoàn thiện bản thảo vào thứ Sáu tới kịp không chị? Để mình còn gửi bên in ấn cho kịp ngày khai giảng mùng 10/12.
+[09:40:25] Chị nghĩ là kịp nếu mọi người tập trung cao độ. Đức lo phần layout với Slide, Lan lo phần content video với Prompt Kit. Chị sẽ là người review cuối cùng và chốt các case study.
+[09:42:40] Dạ vâng, tụi em sẽ cố gắng. À mà chị ơi, cái chi phí in ấn đợt này do mình làm Workbook dạng màu nên chắc sẽ cao hơn dự kiến tí đó chị.
+[09:44:55] Thôi kệ, chất lượng bộ học liệu là bộ mặt của trung tâm mình mà. Chị sẽ giải trình với bên tài chính sau. Quan trọng là học viên họ cảm thấy đáng đồng tiền bát gạo.
+[09:47:10] Dạ vậy thì tụi em yên tâm làm rồi. Cảm ơn chị Thảo.
+[09:49:25] Thôi mọi người giải tán đi làm việc đi. Có gì khó khăn cứ hú chị ngay nhé.
+[09:51:40] Dạ chào chị, chào Lan với Đức.
+
+<|output|>
+# Thiết kế bộ học liệu cho khóa đào tạo "Kỹ năng lãnh đạo trong kỷ nguyên số"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất cấu trúc và hình thức thể hiện của bộ học liệu dành cho khóa đào tạo quản lý cấp trung.
+- Đổi mới phương pháp đào tạo thông qua các công cụ tương tác hiện đại và nội dung bám sát thực tế kỷ nguyên số.
+- Phân công nhiệm vụ và chốt timeline hoàn thiện để kịp tiến độ in ấn.
+
+### 2. Các vấn đề đã thảo luận
+- **Chủ đề mới:** Đưa nội dung "Lãnh đạo từ xa" (Remote Leadership) và "Kết nối tâm lý trong làm việc nhóm" vào chương trình học để giải quyết các khó khăn thực tế của quản lý hiện nay.
+- **Hình thức tương tác:** Sử dụng video tình huống thực tế thay vì lý thuyết suông. Tích hợp mã QR trên tài liệu giấy để học viên tham gia poll/khảo sát trực tuyến qua điện thoại.
+- **Sổ tay thực hành (Workbook):** Thiết kế theo dạng Journaling (ghi chép tự phản chiếu) để thúc đẩy học viên thay đổi tư duy lãnh đạo cá nhân.
+- **Ứng dụng AI:** Thêm module "AI trong quản trị" và tặng kèm bộ "Prompt Kit" hướng dẫn sử dụng ChatGPT/AI để tối ưu hóa hiệu suất làm việc cho quản lý.
+- **Thiết kế & Bản quyền:** Sử dụng bộ nhận diện hiện đại (Xanh Navy & Cam San hô), cam kết sử dụng hình ảnh có bản quyền và trích dẫn nguồn tài liệu tham khảo đầy đủ.
+
+### 3. Kết luận và quyết định
+- Chốt bộ học liệu gồm 4 thành phần chính: Slide tương tác, Video tình huống, Workbook Journaling và Prompt Kit.
+- Chấp nhận chi phí in ấn cao hơn dự kiến để đảm bảo chất lượng hình ảnh và Workbook in màu.
+- Deadline hoàn thiện bản thảo cuối cùng: Thứ Sáu (22/11/2024).
+- Review cuối cùng bởi Trưởng dự án trước khi gửi nhà in vào đầu tuần sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế Layout Slide và Workbook | Đức - Team Design | 22/11/2024 |
+| Soạn nội dung Video tình huống và Prompt Kit | Lan - Team Content | 22/11/2024 |
+| Tuyển chọn case study và review bản thảo | Chị Thảo - Trưởng dự án | 25/11/2024 |
+| Liên hệ nhà in và chốt báo giá cuối cùng | Lan - Team Content | 26/11/2024 |
+| Kiểm tra lại bản quyền hình ảnh và nguồn tài liệu | Đức - Team Design | 23/11/2024 |

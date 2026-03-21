@@ -1,0 +1,75 @@
+<|input|>
+# Xử lý sự cố An ninh mạng và Rò rỉ dữ liệu nhân sự
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân và mức độ thiệt hại của sự cố truy cập trái phép vào máy chủ dữ liệu nhân sự.
+- Triển khai các biện pháp ứng phó khẩn cấp để ngăn chặn rò rỉ dữ liệu và vá lỗ hổng hệ thống.
+- Thống nhất kịch bản truyền thông nội bộ và chuẩn bị các thủ tục pháp lý liên quan.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân sự cố: Một nhân viên phòng Tuyển dụng bị tấn công phishing chiếm đoạt tài khoản Microsoft 365 do chưa được kích hoạt xác thực đa yếu tố (MFA).
+- Thiệt hại bước đầu: Một lượng lớn hồ sơ nhân sự, CCCD, số điện thoại và hợp đồng lao động đã bị tải xuống và đẩy lên một server đám mây tại Đông Âu.
+- Lỗ hổng quy trình: Quy trình IT onboarding cho nhân viên mới bị chậm trễ, dẫn đến việc tài khoản nhân viên mới chưa được áp dụng các chính sách bảo mật bắt buộc.
+- Biện pháp khắc phục: Cô lập tài khoản bị thỏa hiệp, reset password toàn bộ phòng nhân sự, và yêu cầu kích hoạt MFA bắt buộc cho 100% nhân viên ngay trong ngày.
+
+### 3. Kết luận và quyết định
+- Ưu tiên cao nhất là kích hoạt MFA cho toàn bộ nhân viên tập đoàn trước cuối ngày hôm nay.
+- Phê duyệt ngân sách khẩn cấp để thuê đơn vị điều tra số chuyên nghiệp (Digital Forensics).
+- Gửi yêu cầu gỡ bỏ (takedown) dữ liệu đến nhà cung cấp dịch vụ lưu trữ đám mây quốc tế.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kích hoạt MFA bắt buộc cho 100% nhân viên | Chị Linh (IT Helpdesk) | 24/03/2025 |
+| Liên hệ và ký hợp đồng với đơn vị Digital Forensics | Anh Nam (Security) | 24/03/2025 |
+| Soạn thảo email cảnh báo phishing nội bộ | Anh Khánh (Truyền thông) | 24/03/2025 |
+| Rà soát quy trình bảo mật cho nhân viên mới | Chị Mai (HR) & Anh Nam | 26/03/2025 |
+| Truy vết dòng chảy dữ liệu và yêu cầu gỡ bỏ file | Anh Nam (Security) | 25/03/2025 |
+| Chuẩn bị phương án pháp lý theo Nghị định 13 | Anh Quốc (Pháp chế) | 27/03/2025 |
+
+[09:30] Đồng ý với Khánh. Tuy nhiên, email cần nhấn mạnh vào việc nâng cao cảnh giác với các email lừa đảo. Chào chị Mai, chị và anh Nam giúp tôi rà soát lại quy trình IT onboarding cho nhân viên mới. Không thể để tình trạng nhân viên làm việc cả tuần mà chưa có MFA được.
+[09:35] Vâng thưa anh Hoàng, chúng tôi sẽ cập nhật lại quy trình ngay lập tức. Chào Trang, em đừng quá lo lắng, hãy hợp tác tối đa với team IT để cung cấp các thông tin về email phishing đó nhé. Vâng ạ, em cảm ơn mọi người đã hỗ trợ, em sẽ chú ý hơn rất nhiều ạ.
+[09:40] Anh Nam có thể cho biết dự kiến bao lâu thì chúng ta có báo cáo sơ bộ từ đơn vị Digital Forensics không? Chào anh Hoàng, nếu ký hợp đồng trong sáng nay thì chiều nay họ sẽ bắt đầu làm việc. Dự kiến sau 48 giờ chúng ta sẽ có báo cáo phân tích chi tiết về mức độ thiệt hại và các lỗ hổng cần vá.
+[09:45] Tốt. Vậy chúng ta thống nhất: Một là, team IT của Nam và Linh triển khai MFA toàn tập đoàn ngay lập tức. Hai là, thuê đơn vị Digital Forensics độc lập. Ba là, chị Mai và anh Nam rà soát quy trình bảo mật nhân sự. Bốn là, anh Quốc và Khánh chuẩn bị kịch bản truyền thông và pháp lý.
+[09:50] Chào mọi người, buổi họp hôm nay rất căng thẳng nhưng chúng ta đã có hướng xử lý kịp thời. Tôi hy vọng chúng ta sẽ vượt qua sự cố này với thiệt hại thấp nhất. Anh Nam giữ liên lạc liên tục với tôi để cập nhật tình hình nhé.
+[09:55] Vâng anh Hoàng, tôi đã rõ. Chào mọi người.
+[10:00] Chào tạm biệt mọi người, chúng ta giải tán và bắt tay vào việc thôi.
+
+<|output|>
+# Xử lý sự cố An ninh mạng và Rò rỉ dữ liệu nhân sự
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân và mức độ thiệt hại của sự cố truy cập trái phép vào máy chủ dữ liệu nhân sự.
+- Triển khai các biện pháp ứng phó khẩn cấp để ngăn chặn rò rỉ dữ liệu và vá lỗ hổng hệ thống.
+- Thống nhất kịch bản truyền thông nội bộ và chuẩn bị các thủ tục pháp lý liên quan.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân sự cố: Một nhân viên phòng Tuyển dụng bị tấn công phishing chiếm đoạt tài khoản Microsoft 365 do chưa được kích hoạt xác thực đa yếu tố (MFA).
+- Thiệt hại bước đầu: Một lượng lớn hồ sơ nhân sự, CCCD, số điện thoại và hợp đồng lao động đã bị tải xuống và đẩy lên một server đám mây tại Đông Âu.
+- Lỗ hổng quy trình: Quy trình IT onboarding cho nhân viên mới bị chậm trễ, dẫn đến việc tài khoản nhân viên mới chưa được áp dụng các chính sách bảo mật bắt buộc.
+- Biện pháp khắc phục: Cô lập tài khoản bị thỏa hiệp, reset password toàn bộ phòng nhân sự, và yêu cầu kích hoạt MFA bắt buộc cho 100% nhân viên ngay trong ngày.
+- Điều tra chuyên sâu: Đề xuất thuê đơn vị Digital Forensics độc lập để kiểm tra mã độc và đánh giá chi tiết thiệt hại.
+
+### 3. Kết luận và quyết định
+- Ưu tiên cao nhất là kích hoạt MFA cho toàn bộ nhân viên tập đoàn trước cuối ngày hôm nay.
+- Phê duyệt ngân sách khẩn cấp để thuê đơn vị điều tra số chuyên nghiệp (Digital Forensics).
+- Gửi yêu cầu gỡ bỏ (takedown) dữ liệu đến nhà cung cấp dịch vụ lưu trữ đám mây quốc tế.
+- Cập nhật quy trình IT onboarding: Nhân viên mới bắt buộc phải hoàn thành các bước thiết lập bảo mật trước khi được cấp quyền truy cập dữ liệu nhạy cảm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kích hoạt MFA bắt buộc cho 100% nhân viên | Chị Linh (IT Helpdesk) | 24/03/2025 |
+| Liên hệ và ký hợp đồng với đơn vị Digital Forensics | Anh Nam (Security) | 24/03/2025 |
+| Soạn thảo email cảnh báo phishing nội bộ | Anh Khánh (Truyền thông) | 24/03/2025 |
+| Rà soát quy trình bảo mật cho nhân viên mới | Chị Mai (HR) & Anh Nam | 26/03/2025 |
+| Truy vết dòng chảy dữ liệu và yêu cầu gỡ bỏ file | Anh Nam (Security) | 25/03/2025 |
+| Chuẩn bị phương án pháp lý theo Nghị định 13 | Anh Quốc (Pháp chế) | 27/03/2025 |
+| Cung cấp ngân sách cho các hoạt động ứng phó | Chị Hồng (Tài chính) | 24/03/2025 |
+| Giám sát tổng thể và báo cáo Ban Giám đốc | Anh Hoàng (CTO) | Định kỳ |

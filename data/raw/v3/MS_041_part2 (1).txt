@@ -1,0 +1,64 @@
+<|input|>
+# Triển khai hệ thống tưới tiêu thông minh Israel cho trang trại sầu riêng Đắk Lắk
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất phương án kỹ thuật và thiết bị cho hệ thống tưới tiêu 20 héc-ta sầu riêng.
+- Đánh giá ngân sách và giải pháp tối ưu chi phí.
+- Tích hợp công nghệ cảm biến và điều khiển tự động qua smartphone.
+
+### 2. Các vấn đề đã thảo luận
+- Khó khăn về địa hình dốc tại Đắk Lắk yêu cầu sử dụng đầu tưới bù áp Israel.
+- Ngân sách tăng từ 1.5 tỷ lên 2.2 tỷ nếu dùng 100% hàng nhập khẩu; giải pháp là kết hợp ống nội địa và thiết bị lõi nhập khẩu.
+- Ứng dụng công nghệ LoRa cho cảm biến độ ẩm đất và điều khiển Cloud.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án kết hợp thiết bị: Ống HDPE nội địa + Thiết bị điều khiển và đầu tưới Israel.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[08:16] Nghe xịn đấy! Nhưng mà sóng LoRa ở vùng sâu vùng xa Đắk Lắk có ổn định không em? Sợ mất kết nối rồi nó cứ tưới mãi thì úng rễ mất.
+[08:18] Anh yên tâm, LoRa là chuyên dụng cho nông nghiệp mà, tầm xa vài km trong điều kiện cây cối rậm rạp vẫn tốt. Với lại tụi em có cài đặt cơ chế an toàn (fail-safe). Nếu mất kết nối quá 30 phút, hệ thống sẽ tự động đóng van và báo lỗi về máy sếp ngay.
+[08:20] Ờ... vậy thì yên tâm. Mai ơi, em cân đối lại xem, nếu mình triển khai trước 10 héc-ta trong năm nay rồi năm sau làm tiếp 10 héc còn lại thì có tiết kiệm được chi phí lắp đặt không?
+[08:22] Nếu chia làm 2 giai đoạn thì chi phí nhân công và máy móc vận chuyển sẽ bị đội lên khoảng 15% so với làm một lèo anh ạ. Tuy nhiên áp lực tài chính sẽ nhẹ hơn. Em đề xuất mình cứ nhập đủ bộ trung tâm cho 20 héc ngay từ đầu, còn phần ống và đầu tưới thì lắp trước cho khu vực sầu riêng sắp cho thu hoạch.
+[08:24] Ý kiến hay đấy. Hiếu lập lại bảng báo giá chi tiết theo phương án này nhé. Chia rõ giai đoạn 1 và giai đoạn 2.
+[08:26] Dạ vâng, để chiều nay em làm lại rồi gửi chị Mai kiểm tra trước khi trình sếp ký ạ. À, còn vấn đề phân bón hòa tan qua hệ thống tưới (fertigation). Sếp cần chọn loại phân bón tinh khiết 100% để tránh đóng cặn làm hỏng bộ lọc nhé.
+[08:28] Cái đó anh biết rồi. Bên cung cấp giống cũng đã dặn kỹ vụ này. Thôi, tạm thời thế đã. Tuần sau Hiếu cùng anh lên Đắk Lắk một chuyến để chốt vị trí đặt bể chứa nước nhé.
+[08:30] Dạ vâng ạ. Hẹn gặp sếp tuần sau.
+
+<|output|>
+# Triển khai hệ thống tưới tiêu thông minh Israel cho trang trại sầu riêng Đắk Lắk
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất phương án kỹ thuật và thiết bị cho hệ thống tưới tiêu 20 héc-ta sầu riêng.
+- Đánh giá ngân sách và phương án phân kỳ đầu tư để giảm áp lực tài chính.
+- Tích hợp công nghệ cảm biến và điều khiển tự động qua smartphone.
+
+### 2. Các vấn đề đã thảo luận
+- Khó khăn về địa hình dốc tại Đắk Lắk yêu cầu sử dụng đầu tưới bù áp Israel.
+- Ngân sách tăng từ 1.5 tỷ lên 2.2 tỷ nếu dùng 100% hàng nhập khẩu; giải pháp là kết hợp ống nội địa và thiết bị lõi nhập khẩu.
+- Ứng dụng công nghệ LoRa cho cảm biến độ ẩm đất và điều khiển Cloud, có cơ chế fail-safe đảm bảo an toàn.
+- Phân kỳ đầu tư làm 2 giai đoạn để cân đối dòng tiền nhưng vẫn mua bộ trung tâm tổng ngay từ đầu.
+- Yêu cầu về phân bón tinh khiết cho hệ thống Fertigation để tránh tắc nghẽn.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án kết hợp thiết bị: Ống HDPE nội địa + Thiết bị điều khiển và đầu tưới Israel.
+- Triển khai trước 10 héc-ta cho khu vực ưu tiên, chuẩn bị hạ tầng trung tâm cho toàn bộ 20 héc-ta.
+- Chấp nhận chi phí đội thêm 15% do chia giai đoạn để đảm bảo an toàn tài chính.
+- Sử dụng công nghệ cảm biến LoRa tích hợp App điều khiển.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập bảng báo giá chi tiết phân kỳ 2 giai đoạn | Hiếu (Kỹ thuật) | 01/12/2024 |
+| Rà soát dòng tiền và trình phương án thanh toán | Mai (Kế toán) | 03/12/2024 |
+| Khảo sát thực địa chốt vị trí bể chứa tại Đắk Lắk | Anh Hiếu + Sếp | 10/12/2024 |
+| Liên hệ nhà cung cấp thiết bị Israel đặt hàng bộ trung tâm | Hiếu (Kỹ thuật) | 15/12/2024 |
+| Tìm kiếm nguồn cung phân bón tinh khiết phù hợp hệ thống | Phòng Thu mua | 20/12/2024 |

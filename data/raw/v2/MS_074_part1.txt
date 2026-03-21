@@ -1,0 +1,56 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00] Chào tổ kỹ thuật, chiều nay mình chốt lịch bảo trì hệ thống điện tòa nhà tháng này nhé. 
+[14:02] Dạ sếp, em thấy mấy cái tủ điện tầng 5, tầng 6 đang có dấu hiệu quá nhiệt, cần phải kiểm tra kỹ. 
+[14:04] Ờ... đợt vừa rồi có mấy phòng báo là hay bị nhảy át-tô-mát lúc bật máy lạnh công suất lớn. 
+[14:06] Thì mình dự kiến làm vào cuối tuần này hay sao sếp? 
+[14:08] Dạ, em đề xuất làm vào đêm thứ 7 hoặc sáng chủ nhật để ít ảnh hưởng đến mọi người làm việc nhất. 
+[14:10] Nhưng mà phải báo trước cho các phòng ban để họ sao lưu dữ liệu nhé. 
+[14:12] Thì mình sẽ cắt điện luân phiên từng tầng thôi, không cắt hết cả tòa nhà đâu. 
+[14:14] Ok, vậy chú ý kiểm tra kỹ các mối nối và vệ sinh tủ điện cho sạch sẽ nhé. 
+[14:16] Dạ vâng, em sẽ chuẩn bị đầy đủ dụng cụ và thiết bị đo nhiệt hồng ngoại để kiểm tra ạ.
+
+<|output|>
+# Kế hoạch bảo trì định kỳ hệ thống điện tòa nhà
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lập kế hoạch bảo trì định kỳ nhằm đảm bảo an toàn vận hành hệ thống điện.
+- Xử lý các sự cố quá nhiệt và nhảy át-tô-mát tại một số tầng cụ thể.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng quá nhiệt tại tủ điện tầng 5 và 6 cần được ưu tiên kiểm tra.
+- Các sự cố ngắt điện cục bộ khi sử dụng thiết bị công suất cao (máy lạnh).
+- Lựa chọn thời gian thực hiện vào cuối tuần để giảm thiểu tác động đến hoạt động của văn phòng.
+- Phương án cắt điện luân phiên để duy trì hoạt động tối thiểu cho tòa nhà.
+
+### 3. Kết luận và quyết định
+- Chốt lịch bảo trì vào đêm Thứ Bảy và sáng Chủ Nhật tuần này.
+- Sử dụng thiết bị chuyên dụng (máy đo nhiệt hồng ngoại) để kiểm tra các điểm xung yếu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thông báo lịch cắt điện cho các phòng ban | Ban quản lý tòa nhà | 19/10/2023 |
+| Chuẩn bị dụng cụ và vật tư thay thế | Đội kỹ thuật | 20/10/2023 |
+| Thực hiện kiểm tra và vệ sinh hệ thống tủ điện | Anh Nam (Kỹ thuật) | 22/10/2023 |
+| Lập biên bản nghiệm thu sau bảo trì | Đội kỹ thuật | 23/10/2023 |

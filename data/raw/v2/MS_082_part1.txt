@@ -1,0 +1,63 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào ban giám đốc và bộ phận tài chính, hôm nay chúng ta họp chốt lại cái timeline cho kế hoạch IPO vào năm sau nhé.
+[09:01] Dạ, hiện tại sếp ơi, cái hồ sơ kiểm toán cho 3 năm gần nhất... ờ... mình vẫn đang đợi bên kiểm toán độc lập họ xác nhận cái phần tài sản vô hình ấy ạ.
+[09:03] Đúng rồi, thì là... cái bằng sáng chế công nghệ của mình giá trị cao thế, phải làm sao để họ định giá cho chuẩn thì IPO mới "ngon" được.
+[09:05] Em thấy mình cũng cần phải xem lại cái cơ cấu cổ đông hiện tại. Có mấy cổ đông cá nhân... dạ... họ cũng muốn thoái vốn ngay khi mình lên sàn.
+[09:06] Ờ cái đó thì bình thường thôi, nhưng mà mình phải đảm bảo cái tỷ lệ "free float" cho nó hợp lý để thanh khoản nó tốt.
+[09:08] Quan trọng là cái câu chuyện tăng trưởng (growth story) của mình sếp ạ. Các nhà đầu tư họ muốn thấy mình sẽ làm gì với cái đống tiền huy động được ấy.
+[09:09] Ý hay đấy. Mình sẽ tập trung vào việc mở rộng thị trường sang khu vực Đông Nam Á và nghiên cứu thêm về AI thế hệ mới.
+[09:11] Vâng, nhưng mà thủ tục pháp lý ở sở giao dịch chứng khoán (HOSE) nghe đâu là dạo này... ờ... cũng khắt khe lắm, phải chuẩn bị thật kỹ cái bộ hồ sơ.
+[09:13] OK, vậy anh Nam lo cái phần làm việc với bên tư vấn luật và đơn vị bảo lãnh phát hành nhé.
+[09:14] Dạ sếp, em sẽ báo cáo tiến độ hàng tuần ạ.
+[09:16] Tốt, còn cái Roadshow giới thiệu nhà đầu tư thì sao? Mình định làm ở những đâu?
+[09:17] Em tính là làm ở Hà Nội, TP.HCM với lại sang Singapore một buổi cho các quỹ ngoại họ ngó qua luôn sếp nhỉ?
+[09:19] Chốt thế đi. Mọi người tập trung cao độ nhé, IPO là bước ngoặt của đời mình đấy!
+
+<|output|>
+# Kế hoạch chuẩn bị IPO cho Startup công nghệ (2025)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát lộ trình chuẩn bị niêm yết cổ phiếu lần đầu ra công chúng (IPO).
+- Giải quyết các vướng mắc trong khâu kiểm toán và định giá tài sản vô hình.
+- Thống nhất chiến lược thu hút nhà đầu tư thông qua câu chuyện tăng trưởng.
+
+### 2. Các vấn đề đã thảo luận
+- Tiến độ kiểm toán báo cáo tài chính 3 năm gần nhất và khó khăn trong việc định giá các bằng sáng chế công nghệ.
+- Tái cơ cấu cổ đông để đảm bảo tỷ lệ cổ phiếu tự do chuyển nhượng (free-float) hợp lý sau khi lên sàn.
+- Xây dựng nội dung "Growth Story" tập trung vào việc ứng dụng AI và mở rộng quy mô quốc tế.
+- Các yêu cầu pháp lý nghiêm ngặt từ Sở Giao dịch Chứng khoán và vai trò của đơn vị tư vấn luật.
+- Kế hoạch tổ chức chuỗi sự kiện Roadshow tại các trung tâm tài chính lớn để tiếp cận nhà đầu tư tiềm năng.
+
+### 3. Kết luận và quyết định
+- Giao bộ phận Tài chính phối hợp chặt chẽ với đơn vị kiểm toán để dứt điểm việc định giá tài sản trong tháng tới.
+- Phê duyệt kế hoạch Roadshow tại Hà Nội, TP.HCM và Singapore để thu hút dòng vốn ngoại.
+- Thiết lập kênh báo cáo định kỳ hàng tuần cho Ban dự án IPO.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện định giá bằng sáng chế công nghệ | Phòng Tài chính | 15/12/2024 |
+| Làm việc với đơn vị bảo lãnh phát hành chứng khoán | Anh Nam | 20/12/2024 |
+| Soạn thảo tài liệu giới thiệu cho nhà đầu tư (IM) | Team Marketing/IR | 05/01/2025 |
+| Rà soát hồ sơ pháp lý theo quy định của HOSE | Ban Pháp chế | 10/01/2025 |

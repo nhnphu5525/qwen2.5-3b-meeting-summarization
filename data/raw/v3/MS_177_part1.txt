@@ -1,0 +1,54 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00:00] Chào anh chị em phòng Nhân sự nhé. Hôm nay mình thảo luận về cái dự án "nâng cấp" hệ thống đánh giá hiệu suất 360 độ mà sếp cứ nhắc hoài nè.
+[14:00:30] Dạ em nghe nói đợt này sếp muốn bỏ cái kiểu đánh giá cũ kỹ qua file Excel, chuyển hết lên phần mềm mà phải có cả đồng nghiệp, cấp dưới đánh giá chéo nhau nữa đúng không chị?
+[14:01:00] Đúng rồi em, 360 độ là vậy đó. Chứ lâu nay cứ để sếp trực tiếp đánh giá thì đôi khi cũng có cảm tính, không khách quan lắm. Nhưng mà cái khó là làm sao để mọi người dám nói thật mà không sợ bị trù dập kìa.
+[14:01:30] Em thấy vầy nè, mình phải để chế độ ẩn danh hoàn toàn (Anonymous). Người được đánh giá chỉ thấy được tổng điểm với mấy lời nhận xét chung chung thôi, chứ không được biết ai đã viết cái gì.
+[14:02:00] Ẩn danh thì cũng tốt, nhưng em sợ có mấy ông lợi dụng cái này để "đâm thọc" nhau thì sao chị? Kiểu như ghét nhau cái là vào vote 1 sao hết luôn thì chết người ta.
+[14:02:30] Cái đó thì mình phải thiết lập bộ câu hỏi thật khoa học. Thay vì hỏi chung chung là "Anh/chị thấy người này làm việc thế nào?" thì mình sẽ chia ra các tiêu chí cụ thể: năng lực chuyên môn, thái độ hợp tác, khả năng lãnh đạo... Mỗi tiêu chí phải có thang điểm và ví dụ minh họa rõ ràng.
+[14:03:00] Dạ, với lại mình cũng nên có cái bước "Hậu kiểm". Nghĩa là sau khi có kết quả đánh giá, bộ phận HR mình sẽ ngồi lại với quản lý trực tiếp để xem xét những trường hợp điểm cao đột biến hoặc thấp đột biến để xem có gì bất thường không.
+[14:03:30] Anh đồng ý. Mà còn vụ phần mềm thì sao? Mình tự build hay mua ngoài? Anh thấy mấy con phần mềm của nước ngoài nó xịn nhưng giao diện toàn tiếng Anh, mấy bác lớn tuổi trong công ty mình chắc đọc không hiểu gì đâu.
+
+<|output|>
+# Nâng cấp hệ thống đánh giá hiệu suất 360 độ
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chuyển đổi phương thức đánh giá nhân sự từ truyền thống sang hệ thống 360 độ trên nền tảng số.
+- Đảm bảo tính khách quan, đa chiều và công bằng trong việc đánh giá hiệu suất làm việc.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên tắc đánh giá: Áp dụng cơ chế ẩn danh (Anonymous) để khuyến khích sự trung thực, nhưng cần kiểm soát để tránh tình trạng công kích cá nhân.
+- Xây dựng bộ tiêu chí: Chia nhỏ thành các nhóm năng lực (chuyên môn, thái độ, lãnh đạo) với thang điểm và ví dụ cụ thể.
+- Lựa chọn phần mềm: Ưu tiên đối tác trong nước để thuận tiện trong việc tùy chỉnh giao diện tiếng Việt và tối ưu chi phí.
+
+### 3. Kết luận và quyết định
+- Chọn phòng Kinh doanh làm đơn vị thí điểm (pilot) cho hệ thống mới trong vòng 2 tuần.
+- Liên hệ đối tác phần mềm HRM trong nước để cung cấp bản dùng thử và báo giá chi tiết.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ đối tác phần mềm lấy account demo | Em Lan - HR | 16/12/2024 |
+| Hoàn thiện bộ tiêu chí và thang điểm đánh giá | Chị Thảo - Trưởng phòng | 20/12/2024 |
+| Lên kịch bản và chuẩn bị tài liệu Workshop | Em Hùng - HR | 22/12/2024 |

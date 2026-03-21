@@ -1,0 +1,57 @@
+<|input|>
+# **Dự án mở rộng nhà máy lắp ráp linh kiện điện tử giai đoạn 2 (Rising Sun)**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00] Chào Ban dự án Mở rộng Nhà máy (Project Expansion Team) và đại diện các nhà thầu. Hôm nay chúng ta họp buổi khởi động (Kick-off) chi tiết cho dự án mở rộng nhà máy lắp ráp linh kiện điện tử giai đoạn 2 – Dự án "Rising Sun". Đây là dự án sống còn của tập đoàn trong năm tới để đáp ứng các đơn hàng mới từ thị trường Mỹ và Châu Âu.
+[08:05] Dạ thưa Giám đốc dự án, em xin báo cáo sơ bộ về mặt bằng. Hiện tại khâu san lấp mặt bằng (Land clearance) đã hoàn thành 95%. Ờ... còn vướng một chút ở góc phía Tây do vướng hệ thống đường ống nước ngầm cũ của khu công nghiệp, cần phải di dời trước khi ép cọc.
+[08:10] Ờ... sao cái vụ đường ống nước này đến giờ mới phát hiện ra? Trong bản vẽ quy hoạch (Master plan) không có à?
+[08:15] Thưa anh, đây là đường ống cũ từ những năm 90, không nằm trong bản đồ số của KCN. Ờ... tụi em đã làm việc với Ban quản lý KCN để xin sơ đồ hoàn công cũ bằng giấy thì mới thấy. Việc di dời này sẽ mất khoảng 1 tuần và tốn thêm tầm 200 triệu phí phát sinh.
+[08:20] 200 triệu không phải vấn đề, vấn đề là cái tiến độ ép cọc (Piling). Ờ... nhà thầu Delta đã sẵn sàng máy móc chưa? Nếu chậm 1 tuần di dời ống nước thì họ có tính phí chờ máy (Standby fee) cho mình không?
+[08:25] Dạ thưa sếp, đại diện nhà thầu Delta đây ạ. Ờ... thực tế là máy móc tụi em đã tập kết sát cổng rồi. Nếu chậm 1 tuần thì phí standby mỗi ngày là 30 triệu. Ờ... tuy nhiên, để hỗ trợ chủ đầu tư, tụi em đề xuất sẽ triển khai ép cọc ở khu vực phía Đông trước, còn khu vực phía Tây sẽ làm sau khi di dời xong ống nước. Như vậy sẽ không bị trễ tiến độ tổng thể.
+[08:30] Phương án đó duyệt. Ờ... Nam bên Kỹ thuật giám sát chặt khâu này nhé, tránh để nhà thầu "vẽ" thêm việc. Quay lại vấn đề chính: Thiết kế nhà xưởng. Tôi muốn nhà xưởng giai đoạn 2 phải đạt chuẩn LEED (Leadership in Energy and Environmental Design) của Mỹ. Các đối tác lớn bây giờ họ soi cái này kỹ lắm.
+[08:35] Thưa anh, để đạt chuẩn LEED thì chi phí vật liệu xây dựng và hệ thống cơ điện (M&E) sẽ tăng thêm ít nhất 20%. Ờ... riêng cái hệ thống điều hòa trung tâm (Chiller) phải dùng loại hiệu suất cao và dùng môi chất lạnh thân thiện môi trường. Ờ... rồi còn hệ thống đèn LED cảm biến, pin năng lượng mặt trời trên mái nữa.
+[08:40] Ờ... tăng 20% đầu tư ban đầu nhưng mình sẽ tiết kiệm được 30% tiền điện mỗi tháng và quan trọng nhất là "tấm vé" để vào chuỗi cung ứng của các tập đoàn Big Tech. Ờ... bên tư vấn thiết kế đã lên layout cho khu vực phòng sạch (Cleanroom) chưa? Cấp độ sạch là bao nhiêu?
+[08:45] Dạ, khu vực lắp ráp SMT (Surface Mount Technology) tụi em thiết kế chuẩn Class 10.000, còn khu vực đóng gói vi mạch thì phải lên tới Class 1.000 ạ. Ờ... hệ thống lọc khí HEPA và kiểm soát độ ẩm (Dehumidifier) sẽ được nhập khẩu nguyên chiếc từ Nhật Bản để đảm bảo độ tin cậy.
+
+<|output|>
+# Dự án mở rộng nhà máy lắp ráp linh kiện điện tử giai đoạn 2 (Rising Sun)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khởi động chi tiết dự án mở rộng nhà máy giai đoạn 2 nhằm nâng cao năng lực sản xuất, đáp ứng đơn hàng xuất khẩu.
+- Giải quyết các vướng mắc về mặt bằng, hạ tầng kỹ thuật.
+
+### 2. Các vấn đề đã thảo luận
+- **Hạ tầng xây dựng:** 
+    - Xử lý việc di dời đường ống nước ngầm cũ phát sinh tại khu phía Tây để đảm bảo tiến độ ép cọc.
+    - Áp dụng tiêu chuẩn LEED cho thiết kế nhà xưởng.
+- **Công nghệ & Tự động hóa:**
+    - Thiết lập phòng sạch (Cleanroom) Class 1.000 và Class 10.000 với hệ thống lọc HEPA nhập khẩu.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án thi công cuốn chiếu (ép cọc phía Đông trước) để không gián đoạn tiến độ tổng thể.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Di dời đường ống nước ngầm khu phía Tây | Ban Quản lý KCN | 10/03/2025 |
+| Hoàn thiện thiết kế chi tiết nhà xưởng chuẩn LEED | Đơn vị Tư vấn | 25/03/2025 |
+| Chuẩn bị hồ sơ nghiệm thu ép cọc đợt 1 | Team Giám sát | 10/04/2025 |
+| Khảo sát nhà cung cấp hệ thống phòng sạch (Cleanroom) | Phòng Vật tư | 15/04/2025 |

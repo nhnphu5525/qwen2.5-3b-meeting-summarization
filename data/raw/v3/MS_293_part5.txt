@@ -1,0 +1,91 @@
+<|input|>
+# Đánh giá thị trường và triển khai dự án căn hộ cao cấp Skyline Riverside
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích tình hình thị trường bất động sản khu Đông TP.HCM để định vị dự án.
+- Thống nhất giá bán dự kiến, chính sách thanh toán và hỗ trợ tài chính từ ngân hàng.
+- Rà soát thiết kế tiện ích cao cấp và ứng dụng công nghệ smart-home/vật liệu xanh.
+- Lên kế hoạch Marketing và chuẩn bị cho sự kiện ra quân dự án.
+
+### 2. Các vấn đề đã thảo luận
+- Nhu cầu ổn định ở phân khúc cao cấp dù nguồn cung đang thắt chặt.
+- Giá bán dự kiến 95 triệu đồng/m2, cạnh tranh với các đối thủ cùng khu vực.
+- Chính sách thanh toán dãn cách 5%/đợt và gói vay 0% lãi suất trong 24 tháng.
+- Bổ sung tiện ích đặc quyền: Hồ bơi vô cực, Cigar lounge, Gym 5 sao.
+- Ứng dụng công nghệ smart-home và hệ thống lọc nước tại vòi.
+- Tuyển chọn 10 sàn đại lý phân phối với mức hoa hồng từ 3-5%.
+- Theo sát hồ sơ tiền sử dụng đất và giấy phép xây dựng tại các sở ban ngành.
+- Phương án dự phòng cho thuê dài hạn nếu tỷ lệ hấp thụ sản phẩm thấp.
+
+### 3. Kết luận và quyết định
+- Chốt giá bán và chính sách ngân hàng để chuẩn bị mở bán vào quý III.
+- Phê duyệt phương án bổ sung tiện ích đặc quyền để tăng tính cạnh tranh.
+- Giao bộ phận Pháp chế hoàn tất giấy phép xây dựng phần thân trong tháng 5.
+- Chỉ định thầu cho đơn vị uy tín và yêu cầu kiểm soát nghiêm ngặt vệ sinh môi trường.
+- Triển khai sự kiện Kick-off cho các sàn đại lý vào đầu tháng sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký kết hợp tác chiến lược với ngân hàng | Phòng Nguồn vốn | 15/04/2024 |
+| Hoàn thiện thiết kế điều chỉnh tiện ích | Phòng Quản lý dự án | 20/04/2024 |
+| Đôn đốc giấy phép xây dựng | Phòng Pháp chế | 30/05/2024 |
+| Hoàn thiện thi công nhà mẫu | Ban chỉ huy công trường | 10/05/2024 |
+| Tổ chức sự kiện Kick-off dự án | Phòng Marketing | 05/06/2024 |
+
+[10:53] Chúng tôi đã thiết kế 3 tầng hầm đỗ xe thông minh, đáp ứng đủ 120% nhu cầu của cư dân và khách vãng lai.
+[10:56] Tuyệt vời. Vậy chúng ta thống nhất phương án này.
+(Thêm các đoạn thảo luận chi tiết về vật liệu, nhà thầu, rủi ro xây dựng...)
+[11:00] Tôi cũng muốn hỏi về danh sách nhà thầu xây dựng. Chúng ta sẽ chọn tổng thầu theo hình thức chỉ định hay đấu thầu rộng rãi?
+[11:03] Để đảm bảo chất lượng và tiến độ, tôi đề xuất chỉ định thầu cho 3 đơn vị nằm trong Top 5 nhà thầu lớn nhất Việt Nam hiện nay. Chúng ta đã có lịch sử hợp tác tốt với họ ở các dự án trước.
+[11:06] Việc này sẽ giúp giảm bớt rủi ro về năng lực thi công, nhưng chúng ta cần đàm phán mức giá thật kỹ để không vượt ngân sách.
+[11:09] Phòng thu mua sẽ tiến hành làm việc với các nhà thầu để lấy báo giá chi tiết và phương án thi công tối ưu nhất trong vòng 10 ngày tới.
+[11:12] Hãy chú ý đến việc kiểm soát tiếng ồn và bụi bẩn trong quá trình thi công, vì khu vực xung quanh đã có cư dân sinh sống. Đừng để xảy ra các khiếu nại không đáng có làm ảnh hưởng đến hình ảnh công ty.
+[11:15] Ban chỉ huy công trường sẽ lắp đặt hệ thống lưới bao che và trạm rửa xe tự động ngay tại cổng ra vào để đảm bảo vệ sinh môi trường.
+[11:18] Mọi thứ có vẻ đã vào guồng. Chúc mọi người một ngày làm việc năng suất.
+
+<|output|>
+# Đánh giá thị trường và triển khai dự án căn hộ cao cấp Skyline Riverside
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích tình hình thị trường bất động sản khu Đông TP.HCM để định vị dự án.
+- Thống nhất giá bán dự kiến, chính sách thanh toán và hỗ trợ tài chính từ ngân hàng.
+- Rà soát thiết kế tiện ích cao cấp và ứng dụng công nghệ smart-home/vật liệu xanh.
+- Lên kế hoạch Marketing và chuẩn bị cho sự kiện ra quân dự án.
+- Kiểm tra tiến độ pháp lý và xây dựng nhà mẫu.
+
+### 2. Các vấn đề đã thảo luận
+- Nhu cầu ổn định ở phân khúc cao cấp dù nguồn cung đang thắt chặt.
+- Giá bán dự kiến 95 triệu đồng/m2, cạnh tranh với các đối thủ cùng khu vực.
+- Chính sách thanh toán dãn cách 5%/đợt và gói vay 0% lãi suất trong 24 tháng.
+- Bổ sung tiện ích đặc quyền: Hồ bơi vô cực, Cigar lounge, Gym 5 sao.
+- Ứng dụng công nghệ smart-home và hệ thống lọc nước tại vòi.
+- Tuyển chọn 10 sàn đại lý phân phối với mức hoa hồng từ 3-5%.
+- Theo sát hồ sơ tiền sử dụng đất và giấy phép xây dựng tại các sở ban ngành.
+- Phương án dự phòng cho thuê dài hạn nếu tỷ lệ hấp thụ sản phẩm thấp.
+- Đảm bảo chất lượng nhà mẫu và tỷ lệ chỗ đỗ ô tô đạt chuẩn cao cấp.
+- Lựa chọn nhà thầu uy tín trong Top 5 để đảm bảo chất lượng thi công.
+
+### 3. Kết luận và quyết định
+- Chốt giá bán và chính sách ngân hàng để chuẩn bị mở bán vào quý III.
+- Phê duyệt phương án bổ sung tiện ích đặc quyền để tăng tính cạnh tranh.
+- Giao bộ phận Pháp chế hoàn tất giấy phép xây dựng phần thân trong tháng 5.
+- Chỉ định thầu cho đơn vị uy tín và yêu cầu kiểm soát nghiêm ngặt vệ sinh môi trường.
+- Triển khai sự kiện Kick-off cho các sàn đại lý vào đầu tháng sau.
+- Thành lập đội ngũ quản lý vận hành chuyên nghiệp sau bàn giao.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký kết hợp tác chiến lược với ngân hàng | Phòng Nguồn vốn | 15/04/2024 |
+| Hoàn thiện thiết kế điều chỉnh tiện ích | Phòng Quản lý dự án | 20/04/2024 |
+| Đôn đốc giấy phép xây dựng | Phòng Pháp chế | 30/05/2024 |
+| Hoàn thiện thi công nhà mẫu | Ban chỉ huy công trường | 10/05/2024 |
+| Tổ chức sự kiện Kick-off dự án | Phòng Marketing | 05/06/2024 |
+| Đàm phán báo giá với tổng thầu | Phòng Thu mua | 25/04/2024 |

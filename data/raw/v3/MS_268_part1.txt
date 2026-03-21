@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào mọi người, hôm nay chúng ta họp để thảo luận về tác động của các hiệp định thương mại tự do (FTA) thế hệ mới đến hoạt động xuất khẩu nông sản của Việt Nam sang thị trường EU và Mỹ. Chào anh Bình, tôi là Thảo, Giám đốc Chiến lược. Anh Bình có thể cập nhật các rào cản kỹ thuật (TBT) mới nhất mà chúng ta đang đối mặt không?
+[09:05] Chào chị Thảo, chào cả team. Tôi là Bình, chuyên gia thương mại quốc tế. Thị trường EU vừa ban hành quy định mới về chống phá rừng (EUDR). Theo đó, các sản phẩm như cà phê, cao su và gỗ nếu không chứng minh được nguồn gốc không gây mất rừng sau năm 2020 sẽ bị cấm nhập khẩu vào EU. Đây là một thách thức cực lớn vì hệ thống truy xuất nguồn gốc của chúng ta ở cấp độ nông hộ còn rất lỏng lẻo. Ngoài ra, dư lượng thuốc bảo vệ thực vật (MRLs) tiếp tục bị siết chặt, nhiều lô hàng tiêu và điều của ta đã bị cảnh báo trong quý vừa qua.
+[09:10] Chào anh Bình, tôi là Minh bên bộ phận Thu mua và Quản lý chất lượng. Vấn đề truy xuất nguồn gốc cà phê đúng là rất nan giải. Chúng ta có hàng vạn nông hộ sản xuất nhỏ lẻ, việc số hóa bản đồ vùng trồng đòi hỏi kinh phí và nhân lực rất lớn. Tôi đề xuất chúng ta phối hợp với các hợp tác xã để triển khai phần mềm quản lý vùng trồng dựa trên GPS. Nếu không làm ngay, chúng ta sẽ mất trắng thị trường EU vào tay các đối thủ như Brazil hay Colombia.
+[09:15] Chào chị Thảo, anh Minh. Tôi là Lan bên bộ phận Logistic và Xuất nhập khẩu. Ngoài rào cản kỹ thuật, giá cước vận tải biển đi tuyến Mỹ và EU đang tăng phi mã do tình hình bất ổn tại biển Đỏ. Thời gian vận chuyển kéo dài thêm 15-20 ngày khiến chất lượng nông sản tươi bị ảnh hưởng nghiêm trọng. Chúng ta cần xem xét chuyển một số mặt hàng sang đường hàng không hoặc tìm kiếm các thị trường gần hơn như Nhật Bản và Hàn Quốc để giảm áp lực chi phí.
+
+<|output|>
+# Thích ứng với Rào cản Thương mại và FTA thế hệ mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích các rào cản kỹ thuật mới (EUDR, MRLs) và tình hình thực thi FTA tại thị trường EU, Mỹ.
+
+### 2. Các vấn đề đã thảo luận
+- Quy định EUDR: Lệnh cấm nhập khẩu sản phẩm liên quan đến phá rừng từ EU gây áp lực lớn cho ngành cà phê, gỗ và cao su.
+- Logistics: Giá cước vận tải biển tăng cao và thời gian giao hàng kéo dài do bất ổn địa chính trị.
+
+### 3. Kết luận và quyết định
+- Triển khai số hóa vùng trồng và hệ thống truy xuất nguồn gốc GPS cho cà phê phối hợp với các hợp tác xã.
+- Làm việc với các tổ chức quốc tế để lấy chứng chỉ bền vững (Rainforest Alliance, 4C) cho vùng nguyên liệu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Số hóa bản đồ vùng trồng và GPS truy xuất nguồn gốc | Anh Minh (Thu mua) | 20/04/2025 |
+| Liên hệ tổ chức cấp chứng chỉ bền vững (Rainforest) | Anh Minh (Thu mua) | 10/04/2025 |
+| Xây dựng dự án Pilot thương hiệu tại Đức | Anh Sơn (Marketing) | 01/05/2025 |

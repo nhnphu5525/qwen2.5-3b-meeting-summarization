@@ -1,0 +1,58 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[15:00] Chào mọi người, hôm nay chúng ta họp để rà soát lại các điều khoản trong hợp đồng hợp tác chiến lược với đối tác nước ngoài và thảo luận về việc tuân thủ các quy định mới của Luật Doanh nghiệp.
+[15:03] Tôi thấy có một số điều khoản về bảo hộ quyền sở hữu trí tuệ trong bản thảo hợp đồng hiện tại vẫn còn khá lỏng lẻo. Chúng ta cần quy định rõ ràng hơn về việc sử dụng các bằng sáng chế dùng chung.
+[15:06] Đúng vậy, nếu không quy định chi tiết, rất dễ xảy ra tranh chấp sau này khi dự án kết thúc. Tôi đề nghị bổ sung thêm một chương riêng về quyền sở hữu và khai thác tài sản trí tuệ.
+[15:09] Bên cạnh đó, điều khoản về giải quyết tranh chấp cũng cần được xem xét lại. Hiện tại đối tác đang muốn chọn trọng tài tại Singapore, nhưng chúng ta nên ưu tiên trọng tài tại Việt Nam để tiết kiệm chi phí.
+[15:12] Tuy nhiên, đối tác thường có tâm lý tin tưởng vào các trung tâm trọng tài quốc tế hơn. Chúng ta có thể thỏa hiệp bằng cách chọn một trung tâm trọng tài quốc tế có chi nhánh tại Việt Nam.
+[15:15] Về việc tuân thủ Luật Doanh nghiệp mới, có một vài thay đổi về quyền hạn của Hội đồng quản trị và Ban kiểm soát mà chúng ta cần cập nhật vào Điều lệ công ty.
+[15:18] Tôi sẽ phụ trách việc soạn thảo bản sửa đổi Điều lệ và gửi cho các thành viên Hội đồng quản trị xem xét trước khi trình Đại hội đồng cổ đông phê duyệt.
+[15:21] Nhắc đến vấn đề pháp lý, tôi lưu ý bộ phận Nhân sự cần kiểm tra lại các hợp đồng lao động của nhân viên. Gần đây có nhiều thay đổi về luật bảo hiểm và chế độ nghỉ thai sản.
+[15:24] Chúng ta cũng cần rà soát lại các quy định về bảo vệ dữ liệu cá nhân (GDPR của Việt Nam sắp có hiệu lực). Việc thu thập và lưu trữ thông tin khách hàng cần phải cực kỳ cẩn trọng.
+
+<|output|>
+# Rà soát điều khoản hợp đồng quốc tế và tuân thủ quy định pháp luật
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát bản thảo hợp đồng hợp tác chiến lược với đối tác nước ngoài.
+- Thảo luận việc cập nhật Điều lệ công ty theo Luật Doanh nghiệp mới.
+
+### 2. Các vấn đề đã thảo luận
+- Sự thiếu chặt chẽ trong điều khoản bảo hộ quyền sở hữu trí tuệ.
+- Đàm phán địa điểm giải quyết tranh chấp (Trọng tài Singapore vs Việt Nam).
+- Cập nhật quyền hạn của HĐQT và Ban kiểm soát vào Điều lệ.
+- Rà soát hợp đồng lao động theo quy định mới về bảo hiểm và phúc lợi.
+- Tuân thủ các quy định về bảo vệ dữ liệu cá nhân của người tiêu dùng.
+
+### 3. Kết luận và quyết định
+- Bổ sung chương riêng về sở hữu trí tuệ vào hợp đồng hợp tác.
+- Soạn thảo bản sửa đổi Điều lệ công ty trình HĐQT và cổ đông.
+- Triển khai bộ quy tắc bảo mật dữ liệu tích hợp lên website công ty.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Sửa đổi điều khoản sở hữu trí tuệ | Phòng Pháp chế | 15/04/2024 |
+| Soạn thảo bản sửa đổi Điều lệ công ty | Trưởng phòng Pháp chế | 30/04/2024 |
+| Rà soát hợp đồng lao động | Bộ phận Nhân sự | 10/05/2024 |

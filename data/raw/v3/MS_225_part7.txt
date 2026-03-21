@@ -1,0 +1,82 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Nông nghiệp Bền vững
+- Giải quyết các vấn đề về phân bón vi sinh
+- Thống nhất kế hoạch triển khai công nghệ sinh học
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho nguồn nước sạch
+- Thiếu dữ liệu để đánh giá canh tác hữu cơ
+- Khó khăn trong việc phối hợp giữa các bên về công nghệ sinh học
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện công nghệ sinh học
+- Phê duyệt ngân sách bổ sung cho xuất khẩu nông sản
+- Thiết lập nhóm đặc trách xử lý xuất khẩu nông sản
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ xuất khẩu nông sản | Phòng Nông nghiệp Bền vững | 27/04/2026 |
+| Họp nhóm để bàn sâu về nguồn nước sạch | Phòng Kỹ thuật | 22/09/2026 |
+| Gửi email xác nhận với đối tác về xuất khẩu nông sản | Phòng Kỹ thuật | 08/06/2026 |
+| Lập báo cáo chi tiết cho xuất khẩu nông sản | Phòng Kỹ thuật | 28/05/2026 |
+
+[10:37] Ờm Cần phải làm rõ thêm các chi tiết liên quan đến canh tác hữu cơ.
+[12:46] Vâng Tôi nghĩ là mình nên xem xét lại cái nguồn nước sạch này một chút.
+[12:48] Thì đấy Chào cả nhà, chúng ta bắt đầu bàn về quản lý sâu bệnh nhé.
+[12:50] Ờm, cái xuất khẩu nông sản này thực ra là một vấn đề khá nan giải.
+[10:41] Chào cả nhà, chúng ta bắt đầu bàn về canh tác hữu cơ nhé.
+[10:42] Ờm, cái nguồn nước sạch này thực ra là một vấn đề khá nan giải.
+[12:56] Tôi nghĩ là mình nên xem xét lại cái công nghệ sinh học này một chút.
+[12:58] Thực ra thì canh tác hữu cơ không phải là mục tiêu duy nhất của mình.
+[13:00] Tôi nghĩ là mình nên xem xét lại cái quản lý sâu bệnh này một chút.
+[13:02] Hình như Cảm ơn mọi người, buổi họp về Nông nghiệp Bền vững hôm nay rất chất lượng.
+[13:04] Chào cả nhà, chúng ta bắt đầu bàn về canh tác hữu cơ nhé.
+[10:48] Chào cả nhà, chúng ta bắt đầu bàn về nguồn nước sạch nhé.
+[10:49] Mọi người có thấy vụ canh tác hữu cơ dạo này bị chậm không?
+[13:10] Ờm, cái nguồn nước sạch này thực ra là một vấn đề khá nan giải.
+[13:12] Liệu mình có thể đẩy nhanh tiến độ cho phân bón vi sinh được không?
+[10:52] Cảm ơn mọi người, buổi họp về Nông nghiệp Bền vững hôm nay rất chất lượng.
+[13:16] Chắc là Mọi người cứ cho ý kiến thoải mái về công nghệ sinh học đi ạ.
+[10:54] Thì Nói chung là mình phải chốt phương án cho canh tác hữu cơ ngay trong hôm nay.
+[10:55] Thực ra thì phân bón vi sinh không phải là mục tiêu duy nhất của mình.
+[10:56] Ờm Về phần công nghệ sinh học thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[13:24] Đừng quên là nguồn nước sạch cũng ảnh hưởng nhiều đến kết quả chung đó.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Nông nghiệp Bền vững
+- Giải quyết các vấn đề về phân bón vi sinh
+- Thống nhất kế hoạch triển khai công nghệ sinh học
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho nguồn nước sạch
+- Thiếu dữ liệu để đánh giá canh tác hữu cơ
+- Khó khăn trong việc phối hợp giữa các bên về công nghệ sinh học
+- Sự cần thiết của việc chuẩn hóa các quy trình nội bộ
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện công nghệ sinh học
+- Phê duyệt ngân sách bổ sung cho xuất khẩu nông sản
+- Thiết lập nhóm đặc trách xử lý xuất khẩu nông sản
+- Chốt thời điểm bắt đầu triển khai phân bón vi sinh
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ xuất khẩu nông sản | Phòng Nông nghiệp Bền vững | 27/04/2026 |
+| Họp nhóm để bàn sâu về nguồn nước sạch | Phòng Kỹ thuật | 22/09/2026 |
+| Gửi email xác nhận với đối tác về xuất khẩu nông sản | Phòng Kỹ thuật | 08/06/2026 |
+| Lập báo cáo chi tiết cho xuất khẩu nông sản | Phòng Kỹ thuật | 28/05/2026 |
+| Theo dõi tiến độ thực hiện công nghệ sinh học | Phòng Nông nghiệp Bền vững | 15/05/2026 |

@@ -1,0 +1,62 @@
+<|input|>
+# Rà soát điều khoản hợp đồng cổ đông và chuẩn bị hồ sơ IPO
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và hiệu chỉnh các điều khoản trong Hợp đồng cổ đông (SHA) để phù hợp với các tiêu chuẩn niêm yết.
+
+### 2. Các vấn đề đã thảo luận
+- Quyền biểu quyết: Chuyển đổi quyền Veto của nhóm sáng lập sang hình thức "Cổ phần ưu đãi biểu quyết" với thời hạn 3-5 năm để đảm bảo tính đại chúng sau IPO.
+- Quyền Drag-along: Nâng ngưỡng đồng ý lên 65% (theo Luật Doanh nghiệp) để cân bằng giữa quyền lợi cổ đông lớn và bảo vệ cổ đông nhỏ.
+- Cam kết không cạnh tranh: Áp dụng thời hạn 2 năm đối với các thành viên HĐQT sau khi rời vị trí, kèm theo phụ lục định nghĩa chi tiết về ngành nghề kinh doanh.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án điều chỉnh SHA và lộ trình phát hành ESOP như đã thảo luận.
+- Giao team Pháp lý phối hợp với công ty chứng khoán tư vấn để hoàn thiện hồ sơ đăng ký niêm yết.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản dự thảo SHA mới nhất | Huy - Phòng Pháp lý | 20/12/2024 |
+| Lập báo cáo đối chiếu tài chính VAS-IFRS | Lan - Kế toán trưởng | 30/12/2024 |
+
+[10:06:45] Dạ vậy chốt 65% nha anh. Còn vụ cam kết không cạnh tranh (Non-compete) của các thành viên HĐQT, em thấy mình cần bổ sung điều khoản cấm thành lập hoặc góp vốn vào các công ty cùng ngành trong vòng 3 năm kể từ khi rời khỏi công ty. Hiện tại mình mới để 1 năm là hơi ngắn.
+[10:07:30] 3 năm thì hơi gắt cho mấy ảnh quá không? Thôi cứ để 2 năm đi, trung dung tí. Quan trọng là cái định nghĩa "cùng ngành" phải thật rõ ràng, chứ không là mai mốt lôi nhau ra tòa mệt lắm.
+[10:08:15] Dạ em sẽ quy định chi tiết danh mục các sản phẩm, dịch vụ tương đương trong phụ lục hợp đồng. À, còn hồ sơ IPO, bên công ty chứng khoán tư vấn họ đang nhắc mình hoàn thiện cái báo cáo tài chính 3 năm gần nhất theo chuẩn mực quốc tế IFRS thay vì chỉ dùng VAS như hiện tại.
+[10:09:00] Cái này căng nè. Chuyển sang IFRS là bao nhiêu chi phí khấu hao với dự phòng nó lòi ra hết, lợi nhuận có khi sụt giảm đáng kể đó. Em đã làm việc với bên kiểm toán chưa?
+[10:09:45] Dạ em có trao đổi sơ qua. Họ bảo là bước đầu mình cứ làm bản đối chiếu (reconciliation) giữa VAS và IFRS để nhà đầu tư họ thấy được bức tranh tổng thể. Còn khi chính thức niêm yết thì bắt buộc phải theo chuẩn mới thôi anh.
+[10:10:30] Thôi thì phải chấp nhận cuộc chơi thôi. Muốn huy động vốn lớn thì phải minh bạch. Lan bên kế toán phối hợp chặt chẽ với Huy để làm vụ này nha. Đừng để sai sót số liệu là Ủy ban Chứng khoán họ bác hồ sơ mình ngay.
+[10:11:15] Dạ anh yên tâm, em sẽ bám sát bên kiểm toán. Còn một việc nữa là chương trình ESOP cho nhân viên. Sếp muốn phát hành bao nhiêu % trước khi IPO để giữ chân người tài?
+[10:12:00] Anh dự định là khoảng 5%. Nhưng phải có điều khoản hạn chế chuyển nhượng trong vòng 2-3 năm để anh em gắn bó lâu dài, chứ không là lên sàn xong họ xả hàng lấy tiền đi hết thì công ty còn cái xác không hà.
+
+<|output|>
+# Rà soát điều khoản hợp đồng cổ đông và chuẩn bị hồ sơ IPO
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và hiệu chỉnh các điều khoản trong Hợp đồng cổ đông (SHA) để phù hợp với các tiêu chuẩn niêm yết.
+- Thống nhất các vấn đề trọng yếu liên quan đến quyền kiểm soát, quản trị công ty và lộ trình IPO.
+
+### 2. Các vấn đề đã thảo luận
+- Quyền biểu quyết: Chuyển đổi quyền Veto của nhóm sáng lập sang hình thức "Cổ phần ưu đãi biểu quyết" với thời hạn 3-5 năm để đảm bảo tính đại chúng sau IPO.
+- Quyền Drag-along: Nâng ngưỡng đồng ý lên 65% (theo Luật Doanh nghiệp) để cân bằng giữa quyền lợi cổ đông lớn và bảo vệ cổ đông nhỏ.
+- Cam kết không cạnh tranh: Áp dụng thời hạn 2 năm đối với các thành viên HĐQT sau khi rời vị trí, kèm theo phụ lục định nghĩa chi tiết về ngành nghề kinh doanh.
+- Chuẩn mực kế toán: Thực hiện chuyển đổi báo cáo tài chính từ VAS sang IFRS để minh bạch hóa số liệu với nhà đầu tư quốc tế.
+- Chương trình ESOP: Phát hành 5% cổ phần cho nhân viên với lộ trình khóa chuyển nhượng theo tỷ lệ 30-30-40 trong vòng 3 năm.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án điều chỉnh SHA và lộ trình phát hành ESOP như đã thảo luận.
+- Giao team Pháp lý phối hợp với công ty chứng khoán tư vấn để hoàn thiện hồ sơ đăng ký niêm yết.
+- Yêu cầu bộ phận Kế toán làm việc với đơn vị kiểm toán để thực hiện báo cáo đối chiếu VAS-IFRS.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản dự thảo SHA mới nhất | Huy - Phòng Pháp lý | 20/12/2024 |
+| Lập báo cáo đối chiếu tài chính VAS-IFRS | Lan - Kế toán trưởng | 30/12/2024 |
+| Soạn thảo quy chế chương trình ESOP | Phòng Nhân sự + Pháp lý | 05/01/2025 |
+| Làm việc với công ty chứng khoán về lộ trình IPO | Anh Minh - CEO | 10/01/2025 |

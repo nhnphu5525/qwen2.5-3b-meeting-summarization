@@ -1,0 +1,56 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:00:12] Chào cả nhà nhé, sáng nay cafe chưa? Vô việc luôn cho nóng nè.
+[08:00:45] Dạ em chào anh Thắng, chào mọi người. Em mới lướt qua bảng điện sáng nay, thấy mấy con dòng chứng nó đang húng quá anh ơi.
+[08:01:10] Ừ, anh cũng đang coi đây. SSI với VND lệnh vào dã man thật, mà hình như có tin gì về hệ thống KRX sắp run hay sao ấy nhỉ?
+[08:01:35] Em nghe phong phanh là cuối tháng này test đợt cuối đó anh. Mà anh thấy cái danh mục của quỹ mình hiện tại, tỷ trọng cổ phiếu đang hơi cao, có nên chốt bớt mấy con ngân hàng không?
+[08:02:02] Ngân hàng hả? Anh thấy con VCB vẫn còn khỏe mà, đâu có gì phải xoắn. Có con STB thì hơi dật dẹo tí, chắc tại vụ đấu giá tài sản gì đó chưa xong.
+[08:02:30] Đúng rồi anh, STB em thấy tin tức nó cứ mập mờ sao đó. Hay là mình cơ cấu bớt STB qua đầu tư công đi? Em thấy mấy dự án sân bay Long Thành đang đẩy tiến độ ác lắm.
+[08:02:55] Đầu tư công thì cũng được, mà chọn con nào? VCG hay LCG? Mấy con đó biên lợi nhuận mỏng lắm nha, coi chừng "bánh vẽ" thôi đó.
+[08:03:20] Em thì lại thích mấy con thép hơn. Giá HRC thế giới đang có dấu hiệu tạo đáy rồi. HPG mà về vùng 25-26 là em múc mạnh đó anh.
+[08:03:45] Anh cũng đồng ý với Nam vụ thép, mà phải quan sát kỹ thị trường chung đã. VNI đang gặp cản ở vùng 1250, nãy giờ cứ dứ dứ mà chưa qua được.
+[08:04:10] Dạ, thanh khoản sáng nay cũng cao, chắc tầm 20 ngàn tỷ là ít. Em sợ chiều nó úp sọt một cái thì trở tay không kịp.
+[08:04:35] Thôi vậy vầy nè, Nam chú ý cho anh mấy con đang nắm giữ. Nếu VNI không vượt được 1250 trong sáng nay thì chiều mình hạ tỷ trọng margin xuống cho an toàn.
+
+<|output|>
+# Thảo luận về danh mục đầu tư và biến động thị trường chứng khoán
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá diễn biến thị trường chứng khoán đầu phiên sáng.
+- Rà soát danh mục đầu tư hiện tại và kế hoạch cơ cấu tài sản.
+
+### 2. Các vấn đề đã thảo luận
+- Nhóm cổ phiếu chứng khoán (SSI, VND) đang tăng mạnh nhờ kỳ vọng vào hệ thống KRX.
+- Đánh giá nhóm ngân hàng: VCB ổn định, STB đang gặp vấn đề về tin tức và tiến độ đấu giá tài sản.
+- Cân nhắc chuyển dịch dòng vốn từ STB sang nhóm đầu tư công (VCG, LCG) hoặc thép (HPG).
+
+### 3. Kết luận và quyết định
+- Theo dõi sát mốc kháng cự 1250 của VNI; nếu không vượt được trong sáng nay, tiến hành hạ tỷ trọng margin vào phiên chiều.
+- Giao bộ phận phân tích theo dõi sát giá HRC thế giới để tìm điểm vào cho nhóm thép.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Theo dõi thị trường và thực hiện lệnh hạ margin nếu cần | Nam - Phòng Đầu tư | 15/12/2024 |
+| Báo cáo chi tiết dòng vốn ngoại và biến động tỷ giá | Lan - Phòng Phân tích | 15/12/2024 |

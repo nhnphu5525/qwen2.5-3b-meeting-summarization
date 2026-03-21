@@ -1,0 +1,49 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào mọi người, hôm nay bộ phận Nhân sự họp cùng đại diện Ban Giám đốc và các trưởng phòng ban để thảo luận về kế hoạch xây dựng và lan tỏa Văn hóa doanh nghiệp (Corporate Culture) trong giai đoạn chuyển đổi số hiện nay. Tôi là Lan, Trưởng phòng Nhân sự. Anh Vinh, anh có thể chia sẻ tầm nhìn của Ban Giám đốc về giá trị cốt lõi mà công ty muốn hướng tới không?
+[09:05] Chào Lan, chào các cộng sự. Tôi là Vinh. Trong bối cảnh thế giới thay đổi nhanh chóng, tôi muốn xây dựng một văn hóa "Học tập không ngừng" và "Đổi mới sáng tạo". Chúng ta không chỉ làm việc chăm chỉ mà phải làm việc thông minh. Sự minh bạch và tinh thần trách nhiệm (accountability) cũng là những yếu tố then chốt. Mỗi nhân viên cần hiểu rằng thành công của công ty gắn liền với sự phát triển của cá nhân họ.
+[09:10] Chào anh Vinh, tôi là Mạnh bên bộ phận Kinh doanh. Tôi thấy văn hóa minh bạch là rất quan trọng, đặc biệt là trong khâu thưởng phạt và thăng tiến. Hiện tại, một số anh em sales vẫn còn cảm giác các tiêu chí đánh giá chưa thật sự rõ ràng. Để lan tỏa văn hóa này, chúng ta cần một hệ thống quản trị mục tiêu (như OKR) để mọi người đều nhìn thấy đóng góp của mình vào bức tranh chung.
+[09:15] Chào anh Mạnh, anh Vinh. Tôi là Phương, chuyên viên truyền thông nội bộ. Để văn hóa không chỉ nằm trên giấy, tôi đề xuất chúng ta nên tổ chức các sự kiện "Town Hall Meeting" hàng tháng để Ban Giám đốc trực tiếp đối thoại và giải đáp thắc mắc của nhân viên. Ngoài ra, chúng ta có thể xây dựng một ứng dụng nội bộ để nhân viên "Kudos" (khen ngợi) lẫn nhau khi có những hành động đúng với giá trị cốt lõi của công ty.
+
+<|output|>
+# Xây dựng và Lan tỏa Văn hóa Doanh nghiệp trong Kỷ nguyên số
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hình các giá trị cốt lõi của công ty trong giai đoạn chuyển đổi số và phát triển bền vững.
+
+### 2. Các vấn đề đã thảo luận
+- Giá trị cốt lõi: Nhấn mạnh tinh thần học tập suốt đời, đổi mới sáng tạo, minh bạch và trách nhiệm cá nhân.
+- Quản trị mục tiêu: Áp dụng OKR để đảm bảo sự minh bạch trong đánh giá và gắn kết nỗ lực cá nhân với mục tiêu chung của tập đoàn.
+- Truyền thông nội bộ: Tổ chức các buổi đối thoại định kỳ (Town Hall) và ứng dụng khen thưởng (Kudos) giữa đồng nghiệp.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng văn hóa doanh nghiệp dựa trên 4 trụ cột: Học tập - Sáng tạo - Minh bạch - Trách nhiệm.
+- Triển khai thí điểm hệ thống OKR tại bộ phận Kinh doanh và IT trước khi nhân rộng toàn công ty.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật Nội quy lao động và Thỏa ước lao động | Chị Lan (HR) & Anh Tú | 15/04/2025 |
+| Xây dựng và hướng dẫn triển khai OKR thí điểm | Anh Mạnh (Kinh doanh) | 30/03/2025 |
+| Lên kế hoạch tổ chức Town Hall Meeting đầu tiên | Chị Phương (Truyền thông) | 05/04/2025 |

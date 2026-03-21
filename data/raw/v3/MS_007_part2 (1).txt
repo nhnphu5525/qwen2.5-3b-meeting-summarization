@@ -1,0 +1,55 @@
+<|input|>
+# Kế hoạch chuyển đổi sang Cloud Infrastructure (AWS)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận việc thay thế hệ thống server vật lý (On-premise) bằng hạ tầng điện toán đám mây.
+- Đánh giá các nhà cung cấp dịch vụ Cloud hàng đầu (AWS, Azure, GCP).
+
+### 2. Các vấn đề đã thảo luận
+- Hệ thống cũ thường xuyên gặp sự cố phần cứng và chi phí bảo trì cao.
+- So sánh AWS và Azure: AWS được ưu tiên nhờ hệ sinh thái dịch vụ đa dạng và tốc độ truy cập ổn định tại khu vực.
+
+### 3. Kết luận và quyết định
+- Thành lập nhóm FinOps để giám sát và tối ưu hóa chi phí sử dụng hàng tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết lập hệ thống giám sát chi phí (FinOps) | Team Tài chính | 20/04 |
+[11:22] Quy trình migrate dự kiến sẽ như thế nào? Mình chuyển "Lift and Shift" hay là refactor lại ứng dụng sang Microservices luôn?
+[11:24] Nếu "Lift and Shift" thì nhanh nhưng không tận dụng được sức mạnh của Cloud. Em đề xuất mình nên refactor những module quan trọng nhất trước.
+[11:26] Vậy còn dữ liệu khách hàng thì sao? Chuyển lên Cloud có đảm bảo an toàn không? Sợ nhất là bị hack hoặc rò rỉ dữ liệu.
+[11:28] Cloud bây giờ bảo mật rất tốt, thậm chí tốt hơn server mình tự quản lý. Quan trọng là mình phải tuân thủ các quy tắc về mã hóa dữ liệu (Encryption) và IAM phân quyền.
+[11:30] Anh muốn team Dev chuẩn bị một bản demo thử nghiệm (PoC) chuyển module thanh toán lên Cloud trong vòng 2 tuần tới.
+[11:32] Module thanh toán rất nhạy cảm, em nghĩ mình nên bắt đầu với module tin tức hoặc thông tin sản phẩm trước để đảm bảo an toàn.
+[11:34] Được, vậy đổi lại, làm PoC cho module tin tức trước.
+
+<|output|>
+# Kế hoạch chuyển đổi sang Cloud Infrastructure (AWS)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận việc thay thế hệ thống server vật lý (On-premise) bằng hạ tầng điện toán đám mây.
+- Đánh giá các nhà cung cấp dịch vụ Cloud hàng đầu (AWS, Azure, GCP).
+- Xây dựng lộ trình dịch chuyển dữ liệu (Migration) và đào tạo nhân sự.
+
+### 2. Các vấn đề đã thảo luận
+- Hệ thống cũ thường xuyên gặp sự cố phần cứng và chi phí bảo trì cao.
+- So sánh AWS và Azure: AWS được ưu tiên nhờ hệ sinh thái dịch vụ đa dạng và tốc độ truy cập ổn định tại khu vực.
+- Quan ngại về việc kiểm soát chi phí hàng tháng trên Cloud và vấn đề bảo mật dữ liệu khách hàng.
+- Chiến lược migration: Quyết định không chuyển toàn bộ ngay lập tức (Lift and Shift) mà sẽ thực hiện refactor từng module (Microservices).
+
+### 3. Kết luận và quyết định
+- Triển khai bản thử nghiệm (PoC) với module Tin tức trước khi áp dụng cho các module nhạy cảm (Thanh toán).
+- Thành lập nhóm FinOps để giám sát và tối ưu hóa chi phí sử dụng hàng tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thực hiện PoC module Tin tức trên AWS | Team Dev | 15/04 |
+| Thiết lập hệ thống giám sát chi phí (FinOps) | Team Tài chính | 20/04 |

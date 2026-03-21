@@ -1,0 +1,63 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Pháp lý
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Pháp lý hiện nay
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Pháp lý
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý luật doanh nghiệp | Bộ phận Kỹ thuật | 13/05/2026 |
+
+[10:31] Chào mọi người, chúng ta tiếp tục bàn về giấy phép nhé.
+[12:04] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[13:39] Tôi lo là tuân thủ sẽ tốn nhiều chi phí hơn dự kiến.
+[12:08] Đúng rồi, tôi cũng nghĩ thế, cái tuân thủ nên được ưu tiên.
+[12:10] Tôi lo là luật doanh nghiệp sẽ tốn nhiều chi phí hơn dự kiến.
+[13:48] Mọi người cứ thoải mái đóng góp ý kiến về quyền sở hữu trí tuệ đi.
+[13:51] Thực ra Mong là lần này luật doanh nghiệp sẽ ổn thỏa hơn mấy lần trước.
+[13:54] À Tuần tới mình tập trung dứt điểm cái quyền sở hữu trí tuệ đi cho xong.
+[12:18] Không sao, mình có thể tối ưu lại phần quyền sở hữu trí tuệ mà.
+[14:00] Vâng Để tôi check lại mấy cái số liệu của tranh chấp rồi báo lại cả nhà sau.
+[14:03] Nói chung là Tuần tới mình tập trung dứt điểm cái quyền sở hữu trí tuệ đi cho xong.
+[14:06] Tôi lo là giấy phép sẽ tốn nhiều chi phí hơn dự kiến.
+[12:26] Cảm ơn mọi người, buổi họp hôm nay về Pháp lý rất hiệu quả.
+[12:28] Thì Cảm ơn mọi người, buổi họp hôm nay về Pháp lý rất hiệu quả.
+[10:45] Tôi thấy vấn đề luật doanh nghiệp này quan trọng phết, cần xử lý sớm.
+[14:18] Tôi thấy vấn đề bảo mật dữ liệu này quan trọng phết, cần xử lý sớm.
+[10:47] Thì đấy Về phần bảo mật dữ liệu ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[12:36] Để tôi check lại mấy cái số liệu của bảo mật dữ liệu rồi báo lại cả nhà sau.
+[14:27] Mọi người cứ thoải mái đóng góp ý kiến về bảo mật dữ liệu đi.
+[14:30] Tuần tới mình tập trung dứt điểm cái tuân thủ đi cho xong.
+[10:51] Hiện tại cái hợp đồng đang bị chậm tiến độ một chút vì thiếu người.
+[12:44] Nói chung là Đúng rồi, tôi cũng nghĩ thế, cái giấy phép nên được ưu tiên.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Pháp lý
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Pháp lý hiện nay
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Pháp lý
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý luật doanh nghiệp | Bộ phận Kỹ thuật | 13/05/2026 |
+| Xử lý tuân thủ | Chị Lan | 25/06/2026 |

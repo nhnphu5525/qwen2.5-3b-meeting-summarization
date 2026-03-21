@@ -1,0 +1,55 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào anh em ban quản lý rủi ro. Hôm nay mình ngồi lại đánh giá tình hình nợ xấu quý này nhé.
+[09:01] Dạ anh, nhìn chung thì tỉ lệ nợ xấu đang có xu hướng tăng nhẹ, nhất là ở mảng cho vay tiêu dùng.
+[09:03] Cụ thể là tăng bao nhiêu phần trăm em? Có con số chính xác chưa?
+[09:04] Dạ, so với quý trước là tăng khoảng 0.5%, hiện tại đang ở mức 2.8% anh ạ.
+[09:06] Ờ... 2.8% là bắt đầu chạm ngưỡng cảnh báo rồi đấy. Nguyên nhân chính là do đâu?
+[09:07] Em thấy chủ yếu là do tình hình kinh tế khó khăn, thu nhập của khách hàng cá nhân bị sụt giảm nên họ chậm thanh toán.
+[09:09] Ngoài ra, một số hồ sơ duyệt vay đợt cuối năm ngoái dường như hơi lỏng lẻo ở khâu thẩm định thực tế.
+[09:10] Cái này nguy hiểm nha. Anh đã dặn bao nhiêu lần là không được chạy theo chỉ tiêu mà hạ chuẩn cho vay rồi.
+[09:12] Dạ, em xin rút kinh nghiệm. Hiện tại em đang cho rà soát lại toàn bộ các khoản nợ nhóm 2 để có biện pháp xử lý sớm.
+[09:13] Nhóm 2 là nhóm nợ cần chú ý đúng không? Tỉ lệ chuyển dịch từ nhóm 2 sang nhóm 3 (nợ xấu) thế nào?
+[09:15] Dạ có khoảng 15% nợ nhóm 2 đang có nguy cơ nhảy nhóm trong tháng tới nếu mình không thúc giục thu hồi nợ quyết liệt.
+[09:16] Anh đề nghị bộ phận thu hồi nợ tăng cường gọi điện, thậm chí là cử người đến tận nơi đối với các khoản vay lớn.
+[09:18] Vâng sếp, tụi em cũng đang phối hợp với bên công ty luật để xử lý mấy ca chây ì, cố tình không trả.
+
+<|output|>
+# Đánh giá và kiểm soát rủi ro nợ xấu quý hiện tại
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Phân tích tình hình gia tăng nợ xấu (đặc biệt là mảng cho vay tiêu dùng).
+- Đề xuất các biện pháp thu hồi nợ.
+
+### 2. Các vấn đề đã thảo luận
+- Tỉ lệ nợ xấu tăng 0.5% so với quý trước, chạm mức 2.8% (ngưỡng cảnh báo).
+- Nguyên nhân: Suy giảm kinh tế ảnh hưởng thu nhập khách hàng và sự lỏng lẻo trong thẩm định hồ sơ giai đoạn trước.
+- Rủi ro nhảy nhóm nợ: 15% nợ nhóm 2 có nguy cơ chuyển sang nhóm nợ xấu trong tháng tới.
+- Giải pháp thu hồi: Tăng cường nhắc nợ, đối thoại trực tiếp và phối hợp với công ty luật xử lý nợ quá hạn.
+
+### 3. Kết luận và quyết định
+- Rà soát và xử lý nợ nhóm 2 ngay lập tức.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Rà soát và xử lý nợ nhóm 2 | Bộ phận Thu hồi nợ | 20/01/2026 |
+| Phối hợp công ty luật xử lý các ca nợ chây ì | Team Pháp chế | Chưa rõ |

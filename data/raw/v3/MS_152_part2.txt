@@ -1,0 +1,70 @@
+<|input|>
+# Triển khai chương trình STEM tại trường tiểu học
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận kế hoạch triển khai chương trình giáo dục STEM cho khối tiểu học trong năm học mới.
+- Xác định các bước chuẩn bị về nhân sự, cơ sở vật chất và nội dung giảng dạy.
+
+### 2. Các vấn đề đã thảo luận
+- Hình thức triển khai: Bắt đầu từ những mô hình đơn giản, sử dụng vật liệu tái chế để tiết kiệm và tạo sự gần gũi cho học sinh.
+- Đào tạo đội ngũ: Cần mời chuyên gia về tập huấn cho giáo viên cốt cán vì giáo viên hiện tại chưa có nhiều kinh nghiệm về STEM.
+- Cơ sở vật chất: Cải tạo phòng Lab cũ và mua sắm các bộ kit, dụng cụ cần thiết (kìm, kéo, keo, linh kiện điện tử).
+
+### 3. Kết luận và quyết định
+- Thống nhất triển khai thí điểm tại một số lớp trong học kỳ 1 trước khi nhân rộng.
+- Duyệt kinh phí sửa chữa phòng Lab và mua sắm thiết bị cơ bản.
+- Quyết định mời chuyên gia tư vấn và tập huấn chuyên môn cho giáo viên.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập danh sách lớp thí điểm và liên hệ chuyên gia tập huấn | Thầy Nam | 05/11/2023 |
+| Khảo sát, lập dự toán sửa chữa phòng Lab và mua sắm thiết bị | Cô Mai | 10/11/2023 |
+| Soạn thảo tài liệu hướng dẫn STEM tích hợp cho giáo viên | Tổ chuyên môn | 20/11/2023 |
+[14:09:50] Ờ, cái phòng Lab đó thì anh duyệt cho sửa sang lại. Cô Mai coi liệt kê ra mấy cái món đồ cần thiết đi: kìm, kéo, keo dán, rồi mấy cái bộ kit điện tử cơ bản chẳng hạn. Liệt kê xong gửi anh xem cái tổng chi phí là bao nhiêu nha.
+[14:11:15] Em thấy mình cũng nên lồng ghép vào mấy tiết khoa học tự nhiên luôn, chứ không cần phải tách ra thành môn riêng biệt đâu. Như vậy thì thời khóa biểu nó không bị quá tải, mà học sinh cũng thấy bài học nó gần gũi hơn.
+[14:12:40] Dạ đúng, em đồng ý với thầy Nam. Ví dụ như bài về sự nảy mầm của hạt, thay vì chỉ vẽ hình thì mình cho các con làm một cái hệ thống tưới nước tự động bằng chai nhựa luôn. Vừa dạy được khoa học, vừa dạy được kỹ thuật với công nghệ luôn, đúng chất STEM luôn á.
+[14:14:05] Nghe hấp dẫn quá ha. Nhưng mà còn phụ huynh thì sao thầy? Em sợ họ thấy con đi học mà cứ suốt ngày hí hoáy làm đồ chơi rồi lại bảo trường mình không lo dạy chữ.
+[14:15:30] Cái đó thì mình phải truyền thông cô ạ. Trong mấy buổi họp phụ huynh đầu năm, mình phải giải thích rõ cái lợi ích của STEM. Mình có thể tổ chức một "Ngày hội STEM" để các con trưng bày sản phẩm cho ba mẹ coi. Ba mẹ thấy con mình thông minh, lanh lợi ra thì ai mà chẳng ủng hộ.
+[14:16:55] Ừ, cái vụ Ngày hội STEM này hay nè. Chốt là mình sẽ làm vào cuối học kỳ 1 đi. Từ giờ đến đó mình cứ triển khai thí điểm ở một vài lớp trước để rút kinh nghiệm đã.
+[14:18:20] Dạ, vậy em sẽ phụ trách lên cái danh sách các lớp thí điểm với lại liên hệ mời chuyên gia tập huấn nha thầy. Còn cô Mai thì lo vụ sửa sang phòng Lab với mua sắm thiết bị nhé.
+[14:19:45] OK, vậy là cơ bản thống nhất vậy nha. Mấy thầy cô cố gắng xíu, cái này mới nên chắc chắn sẽ cực á, nhưng mà vì học trò thì mình ráng thôi. À, nhớ là làm gì thì làm cũng phải đặt cái an toàn của mấy đứa nhỏ lên hàng đầu nha, nhất là mấy cái thí nghiệm có dùng điện hay nhiệt á.
+[14:21:10] Dạ thầy yên tâm, tụi em sẽ giám sát kỹ lắm. Vậy mình nghỉ ha thầy, tới giờ vào lớp rồi.
+[14:22:35] Ừ thôi đi dạy đi. Cảm ơn mọi người nhiều nha.
+
+<|output|>
+# Triển khai chương trình STEM tại trường tiểu học
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận kế hoạch triển khai chương trình giáo dục STEM cho khối tiểu học trong năm học mới.
+- Xác định các bước chuẩn bị về nhân sự, cơ sở vật chất và nội dung giảng dạy.
+- Giải quyết các lo ngại về kinh phí, trình độ giáo viên và sự đồng thuận của phụ huynh.
+
+### 2. Các vấn đề đã thảo luận
+- Hình thức triển khai: Bắt đầu từ những mô hình đơn giản, sử dụng vật liệu tái chế để tiết kiệm và tạo sự gần gũi cho học sinh.
+- Đào tạo đội ngũ: Cần mời chuyên gia về tập huấn cho giáo viên cốt cán vì giáo viên hiện tại chưa có nhiều kinh nghiệm về STEM.
+- Cơ sở vật chất: Cải tạo phòng Lab cũ và mua sắm các bộ kit, dụng cụ cần thiết (kìm, kéo, keo, linh kiện điện tử).
+- Tích hợp chương trình: Lồng ghép STEM vào các môn học chính khóa như Khoa học tự nhiên để tránh quá tải thời khóa biểu.
+- Truyền thông với phụ huynh: Giải thích lợi ích của STEM qua các buổi họp phụ huynh và tổ chức Ngày hội STEM để trình diễn sản phẩm của học sinh.
+
+### 3. Kết luận và quyết định
+- Thống nhất triển khai thí điểm tại một số lớp trong học kỳ 1 trước khi nhân rộng.
+- Duyệt kinh phí sửa chữa phòng Lab và mua sắm thiết bị cơ bản.
+- Quyết định mời chuyên gia tư vấn và tập huấn chuyên môn cho giáo viên.
+- Dự kiến tổ chức "Ngày hội STEM" vào cuối học kỳ 1 để tổng kết và quảng bá kết quả.
+- Ưu tiên hàng đầu vấn đề an toàn cho học sinh trong các hoạt động thực hành.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập danh sách lớp thí điểm và liên hệ chuyên gia tập huấn | Thầy Nam | 05/11/2023 |
+| Khảo sát, lập dự toán sửa chữa phòng Lab và mua sắm thiết bị | Cô Mai | 10/11/2023 |
+| Soạn thảo tài liệu hướng dẫn STEM tích hợp cho giáo viên | Tổ chuyên môn | 20/11/2023 |
+| Lên kế hoạch truyền thông và tổ chức Ngày hội STEM | Ban Giám hiệu | 30/11/2023 |
+| Thực hiện sửa chữa và lắp đặt thiết bị phòng Lab | Bộ phận Hành chính | 15/12/2023 |

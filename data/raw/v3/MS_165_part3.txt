@@ -1,0 +1,73 @@
+<|input|>
+# Triển khai hệ thống bệnh án điện tử (EMR) cho khoa Khám bệnh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch chi tiết triển khai hệ thống bệnh án điện tử (EMR) tại khoa Khám bệnh.
+- Giải quyết các lo ngại về khâu nhập liệu, bảo mật thông tin và thói quen sử dụng công nghệ của bệnh nhân.
+
+### 2. Các vấn đề đã thảo luận
+- **Giao diện và thao tác:** Bác sĩ lo ngại việc nhập liệu tốn thời gian gây ùn tắc. Bộ phận CNTT đề xuất giao diện "one-click", danh mục có sẵn và tích hợp Speech-to-Text để tối ưu hóa tốc độ.
+- **Bảo mật:** Sử dụng mã hóa đầu cuối và phân quyền chặt chẽ theo vai trò (bác sĩ điều trị, nhân viên nhà thuốc, điều dưỡng).
+- **Hỗ trợ bệnh nhân:** Người lớn tuổi gặp khó khăn với mã QR. Thống nhất duy trì song song hình thức truyền thống và công nghệ trong giai đoạn đầu, có điều dưỡng hỗ trợ tại sảnh.
+- **Pháp lý và vận hành:** Triển khai chữ ký số để thay thế ký tay và đóng dấu đỏ truyền thống. Cần cấp tài khoản chữ ký số cho tất cả bác sĩ có chứng chỉ hành nghề.
+
+### 3. Kết luận và quyết định
+- Chạy thử nghiệm (pilot) tại 3 phòng khám nội trú từ ngày 01/12/2024.
+- Triển khai đại trà cho toàn khoa Khám bệnh từ ngày 15/12/2024 sau khi đánh giá kết quả pilot.
+- Tổ chức buổi tập huấn sử dụng phần mềm cho toàn bộ bác sĩ vào thứ Bảy (30/11/2024).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn tất cấp tài khoản chữ ký số cho bác sĩ | Nam - Phòng CNTT | 28/11/2024 |
+| Tổ chức tập huấn sử dụng phần mềm EMR | Bác sĩ Hùng - Trưởng khoa | 30/11/2024 |
+| Sắp xếp nhân sự hỗ trợ bệnh nhân tại sảnh chờ | Chị Lan - Phòng Điều dưỡng | 01/12/2024 |
+| Kiểm tra hạ tầng server và hệ thống backup | Nam - Phòng CNTT | 25/11/2024 |
+[08:33:40] Dạ cái này bên em đang hoàn tất thủ tục với bên VNPT rồi ạ. Dự kiến tuần sau là có thể cấp lượt đầu cho các trưởng khoa với bác sĩ chính ở khoa Khám bệnh.
+[08:35:55] Tốt quá. Vậy timeline cụ thể như thế nào hả Nam? Khi nào thì mình bắt đầu chạy thử nghiệm được?
+[08:38:10] Dạ dự kiến từ ngày 1/12 mình sẽ chạy pilot tại 3 phòng khám nội trú của khoa Khám bệnh trước ạ. Sau 2 tuần nếu ổn định thì mình mới triển khai đại trà cho toàn khoa vào giữa tháng 12.
+[08:40:25] Ok, vậy Nam lo phần kỹ thuật với chữ ký số. Chị Lan lo sắp xếp nhân sự điều dưỡng hỗ trợ bệnh nhân ở khu vực sảnh chờ nha. Còn bác sĩ Hùng nhớ đôn đốc các bác sĩ trong khoa tham gia đầy đủ buổi tập huấn sử dụng phần mềm vào thứ Bảy tuần tới nhé.
+[08:42:40] Dạ rõ anh, tôi sẽ nhắc nhở anh em. Mà anh nhớ duyệt cho cái khoản bồi dưỡng tập huấn nha, mấy anh em trực đêm rồi sáng lại đi học cũng vất vả lắm.
+[08:44:55] Rồi, cái đó tôi hứa sẽ có chế độ xứng đáng. Quan trọng là mình phải làm cho bằng được cái EMR này để nâng cao chất lượng dịch vụ cho bà con.
+[08:47:10] Dạ thay mặt anh em CNTT, em cảm ơn anh giám đốc đã tin tưởng. Tụi em sẽ cố gắng hết sức để hệ thống chạy mượt mà nhất có thể.
+[08:49:25] Còn một việc nữa là cái hệ thống dự phòng (backup) dữ liệu đó Nam. Lỡ may mà đứt cáp hay mất điện thì dữ liệu đang nhập dở có bị mất không?
+[08:51:40] Dạ hệ thống có tính năng tự động lưu (auto-save) sau mỗi 30 giây anh ạ. Và tụi em có server dự phòng đặt ở trung tâm dữ liệu riêng, nên rủi ro mất dữ liệu là cực kỳ thấp.
+[08:53:55] Vậy thì an tâm rồi. Thôi cuộc họp hôm nay chốt vậy nha. Mọi người về triển khai theo đúng kế hoạch.
+[08:56:10] Dạ chào anh, chào bác sĩ Hùng với chị Lan.
+[08:58:25] Chào mọi người, chúc ngày mới làm việc hiệu quả.
+
+<|output|>
+# Triển khai hệ thống bệnh án điện tử (EMR) cho khoa Khám bệnh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch chi tiết triển khai hệ thống bệnh án điện tử (EMR) tại khoa Khám bệnh.
+- Giải quyết các lo ngại về khâu nhập liệu, bảo mật thông tin và thói quen sử dụng công nghệ của bệnh nhân.
+- Thống nhất timeline chạy thử nghiệm (pilot) và quy trình sử dụng chữ ký số.
+
+### 2. Các vấn đề đã thảo luận
+- **Giao diện và thao tác:** Bác sĩ lo ngại việc nhập liệu tốn thời gian gây ùn tắc. Bộ phận CNTT đề xuất giao diện "one-click", danh mục có sẵn và tích hợp Speech-to-Text để tối ưu hóa tốc độ.
+- **Bảo mật:** Sử dụng mã hóa đầu cuối và phân quyền chặt chẽ theo vai trò (bác sĩ điều trị, nhân viên nhà thuốc, điều dưỡng).
+- **Hỗ trợ bệnh nhân:** Người lớn tuổi gặp khó khăn với mã QR. Thống nhất duy trì song song hình thức truyền thống và công nghệ trong giai đoạn đầu, có điều dưỡng hỗ trợ tại sảnh.
+- **Pháp lý và vận hành:** Triển khai chữ ký số để thay thế ký tay và đóng dấu đỏ truyền thống. Cần cấp tài khoản chữ ký số cho tất cả bác sĩ có chứng chỉ hành nghề.
+- **Hạ tầng:** Hệ thống có tính năng auto-save và server dự phòng để đảm bảo an toàn dữ liệu khi có sự cố kỹ thuật.
+
+### 3. Kết luận và quyết định
+- Chạy thử nghiệm (pilot) tại 3 phòng khám nội trú từ ngày 01/12/2024.
+- Triển khai đại trà cho toàn khoa Khám bệnh từ ngày 15/12/2024 sau khi đánh giá kết quả pilot.
+- Tổ chức buổi tập huấn sử dụng phần mềm cho toàn bộ bác sĩ vào thứ Bảy (30/11/2024).
+- Duyệt chi phí bồi dưỡng tập huấn cho nhân viên y tế.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn tất cấp tài khoản chữ ký số cho bác sĩ | Nam - Phòng CNTT | 28/11/2024 |
+| Tổ chức tập huấn sử dụng phần mềm EMR | Bác sĩ Hùng - Trưởng khoa | 30/11/2024 |
+| Sắp xếp nhân sự hỗ trợ bệnh nhân tại sảnh chờ | Chị Lan - Phòng Điều dưỡng | 01/12/2024 |
+| Kiểm tra hạ tầng server và hệ thống backup | Nam - Phòng CNTT | 25/11/2024 |
+| Soạn thảo quy trình vận hành EMR tạm thời | Bác sĩ Hùng & Nam | 27/11/2024 |

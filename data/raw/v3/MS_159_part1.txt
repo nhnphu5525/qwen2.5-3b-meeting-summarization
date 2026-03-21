@@ -1,0 +1,47 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:30:15] Chào mọi người. Sáng nay mình ngồi lại để thảo luận về một việc cực kỳ quan trọng cho năm tới, đó là xây dựng lại bộ chỉ số KPI cho toàn công ty. Dạo này sếp tổng cứ than phiền là mọi người làm việc không có mục tiêu rõ ràng, thưởng phạt cũng cảm tính quá nên anh muốn mình làm cho nó chuyên nghiệp luôn.
+[08:31:30] Dạ đúng rồi anh Long, em bên Nhân sự cũng nhận được nhiều phản hồi từ anh em nhân viên. Mọi người bảo là nhiều khi làm muốn chết mà cuối tháng đánh giá vẫn chỉ mức "Hoàn thành nhiệm vụ", trong khi có người làm tà tà lại được mức "Xuất sắc" chỉ vì sếp trực tiếp quý hơn.
+[08:32:45] Thì đó, cái vụ đánh giá cảm tính là cái "ung nhọt" làm mất động lực của anh em lắm. Anh muốn đợt này mình xây dựng KPI dựa trên số liệu thực tế, có định lượng đàng hoàng chứ không có chuyện "anh thấy", "em thấy" nữa nha.
+[08:34:10] Dạ vầy nè anh, em thấy cái khó nhất là áp KPI cho mấy bộ phận hỗ trợ (Back office) á. Bên Sale thì dễ rồi, cứ doanh số với khách hàng mới mà quất. Nhưng bên Hành chính, Kế toán hay IT thì mình đo lường sao cho chuẩn đây anh?
+[08:35:35] Ừ, câu hỏi của Lan rất đúng. Ví dụ bên IT đi, mình có thể đo bằng thời gian xử lý sự cố (SLA), tỉ lệ uptime của hệ thống, hay là số lượng dự án hoàn thành đúng tiến độ. Chứ không thể nói là IT ngồi chơi không có việc gì làm là không đúng.
+[08:37:00] Còn bên Kế toán, em nghĩ có thể tính KPI dựa trên độ chính xác của báo cáo tài chính, thời gian hoàn thành quyết toán thuế, hay là tỉ lệ thu hồi công nợ quá hạn. Miễn là mình tìm ra được cái "output" cuối cùng của họ là gì.
+
+<|output|>
+# Xây dựng bộ chỉ số KPI cho toàn công ty
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai kế hoạch xây dựng và áp dụng bộ chỉ số đánh giá hiệu quả công việc (KPI) cho toàn bộ nhân viên công ty.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Đánh giá nhân viên hiện tại còn mang tính chủ quan của quản lý trực tiếp, dẫn đến sự bất mãn và thiếu công bằng.
+- Nguyên tắc xây dựng: KPI phải định lượng được bằng số liệu thực tế, lấy trực tiếp từ các hệ thống quản trị (CRM, ERP, phần mềm chuyên dụng) để đảm bảo tính khách quan.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng hệ thống KPI toàn diện và tự động hóa khâu tính toán, báo cáo qua Dashboard.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo danh sách chỉ số KPI dự kiến cho từng phòng ban | Lan (HR) | 25/10/2023 |
+| Thiết kế biểu mẫu đánh giá và xây dựng Dashboard theo dõi KPI | Phương (IT/Data) | 30/10/2023 |

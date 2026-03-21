@@ -1,0 +1,65 @@
+<|input|>
+# Chiến lược mở rộng hệ thống đại lý khu vực miền Trung năm 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng đề án tổng thể để mở rộng thị phần tại khu vực miền Trung, tập trung vào việc thiết lập hệ thống đại lý cấp 1 tại các tỉnh còn trống.
+- Giải quyết các bài toán về chi phí vận chuyển, kho bãi và nhân sự địa phương.
+
+### 2. Các vấn đề đã thảo luận
+- **Hạ tầng kho vận:** Khoảng cách địa lý từ hai đầu đất nước khiến phí vận chuyển cao. Thống nhất xây dựng kho trung chuyển tại Đà Nẵng để phục vụ toàn bộ khu vực miền Trung và Tây Nguyên.
+- **Chính sách đại lý:** Áp dụng mức chiết khấu ưu đãi 32-35% cho các đại lý mới trong quý I/2025. Hỗ trợ kinh phí trang trí showroom theo 3 cấp độ (Diamond, Gold, Silver) để tăng tính chuyên nghiệp và cam kết.
+- **Cạnh tranh:** Đối mặt với dòng sản phẩm giá rẻ của đối thủ Long Hải. Chiến lược đề ra là không chạy đua giá mà tập trung vào dịch vụ hậu mãi (Bảo hành tận nơi trong 24h-48h).
+
+### 3. Kết luận và quyết định
+- Chốt Đà Nẵng là địa điểm đặt kho trung chuyển và trạm kỹ thuật chính của khu vực miền Trung.
+- Phê duyệt chủ trương tuyển dụng nhân sự sales địa phương ngay trong tháng 12/2024.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tìm kiếm mặt bằng và báo giá kho trung chuyển tại Đà Nẵng | Nam - Phòng Kinh doanh | 15/12/2024 |
+| Hoàn thiện Media Plan và kịch bản Hội nghị khách hàng | Lan - Phòng Marketing | 10/12/2024 |
+| Soạn thảo bộ chính sách chiết khấu và hỗ trợ showroom mới | Nam - Phòng Kinh doanh | 05/12/2024 |
+[09:45:45] Dạ nếu mình có kho và trạm kỹ thuật ở Đà Nẵng thì việc bảo hành trong 24h ở các tỉnh lân cận như Quảng Nam, Huế là khả thi. Còn xa hơn như Thanh Hóa hay Bình Thuận thì chắc phải 48h anh ạ.
+[09:48:00] Ừ, vậy mình đưa cái cam kết "Vàng" về bảo hành này vào bộ Profile gửi đại lý luôn. Đó sẽ là vũ khí sắc bén để mình đánh bại Long Hải.
+[09:51:15] Anh ơi, còn vụ nhân sự thị trường (Sales Supervisor) thì sao ạ? Hiện tại mình chỉ có 2 bạn phụ trách cả miền Trung là quá tải rồi. Em đề xuất tuyển thêm ít nhất 4 bạn nữa, mỗi bạn cắm chốt tại 1 cụm tỉnh.
+[09:54:30] Nhất trí hoàn toàn. Tuyển người địa phương luôn cho họ rành đường đi nước bước và giọng nói cũng dễ đi vào lòng người hơn. Nam làm việc với phòng Nhân sự để đăng tin tuyển dụng ngay trong tháng 12 này nha.
+[09:57:45] Dạ em note lại rồi ạ. Còn cái sự kiện "Hội nghị khách hàng miền Trung" mình dự kiến tổ chức ở đâu và khi nào anh?
+[10:01:00] Chị tính là làm vào khoảng giữa tháng 1 ở Đà Nẵng. Mình mời tất cả các đại lý tiềm năng đến, cho họ trải nghiệm sản phẩm trực tiếp, nghe mình trình bày chiến lược và chốt hợp đồng ngay tại chỗ với những ưu đãi khủng.
+[10:04:15] Dạ ý tưởng này tuyệt vời nè anh. Để em lên danh sách khách mời. Mình sẽ lọc ra những ông đại lý lớn nhất của các đối thủ để "săn" họ về phía mình luôn.
+[10:07:30] Ờ, "nhập gia tùy tục", nhớ chuẩn bị quà cáp cho nó phù hợp với văn hóa miền Trung nha Lan. Họ thích cái gì đó thiết thực và tình cảm.
+[10:10:45] Dạ anh yên tâm, em sẽ chuẩn bị chu đáo. À, còn cái phần ngân sách marketing cho khu vực miền Trung, em tính xin khoảng 2 tỷ cho quý I để làm truyền thông trên các đài truyền hình địa phương và treo băng rôn, billboard dọc quốc lộ 1A.
+
+<|output|>
+# Chiến lược mở rộng hệ thống đại lý khu vực miền Trung năm 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng đề án tổng thể để mở rộng thị phần tại khu vực miền Trung, tập trung vào việc thiết lập hệ thống đại lý cấp 1 tại các tỉnh còn trống.
+- Giải quyết các bài toán về chi phí vận chuyển, kho bãi và nhân sự địa phương.
+- Đưa ra các chính sách cạnh tranh để thu hút đại lý từ các đối thủ trực tiếp.
+
+### 2. Các vấn đề đã thảo luận
+- **Hạ tầng kho vận:** Khoảng cách địa lý từ hai đầu đất nước khiến phí vận chuyển cao. Thống nhất xây dựng kho trung chuyển tại Đà Nẵng để phục vụ toàn bộ khu vực miền Trung và Tây Nguyên.
+- **Chính sách đại lý:** Áp dụng mức chiết khấu ưu đãi 32-35% cho các đại lý mới trong quý I/2025. Hỗ trợ kinh phí trang trí showroom theo 3 cấp độ (Diamond, Gold, Silver) để tăng tính chuyên nghiệp và cam kết.
+- **Cạnh tranh:** Đối mặt với dòng sản phẩm giá rẻ của đối thủ Long Hải. Chiến lược đề ra là không chạy đua giá mà tập trung vào dịch vụ hậu mãi (Bảo hành tận nơi trong 24h-48h).
+- **Nhân sự:** Tuyển dụng thêm 4 giám sát bán hàng (Sales Supervisor) là người địa phương để bám sát thị trường cụ thể tại từng cụm tỉnh.
+
+### 3. Kết luận và quyết định
+- Chốt Đà Nẵng là địa điểm đặt kho trung chuyển và trạm kỹ thuật chính của khu vực miền Trung.
+- Phê duyệt chủ trương tuyển dụng nhân sự sales địa phương ngay trong tháng 12/2024.
+- Giao bộ phận kinh doanh hoàn thiện bảng dự toán chi tiết cho chính sách chiết khấu và hỗ trợ showroom.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tìm kiếm mặt bằng và báo giá kho trung chuyển tại Đà Nẵng | Nam - Phòng Kinh doanh | 15/12/2024 |
+| Hoàn thiện Media Plan và kịch bản Hội nghị khách hàng | Lan - Phòng Marketing | 10/12/2024 |
+| Soạn thảo bộ chính sách chiết khấu và hỗ trợ showroom mới | Nam - Phòng Kinh doanh | 05/12/2024 |
+| Đăng tin tuyển dụng và phỏng vấn Sales miền Trung | Phòng Nhân sự & Nam | 25/12/2024 |
+| Khảo sát các đại lý lớn của đối thủ tại Quảng Bình, Quảng Trị, Phú Yên | Nam & Lan | 20/12/2024 |

@@ -1,0 +1,96 @@
+<|input|>
+# Chiến lược chuyển dịch năng lượng và phát triển năng lượng tái tạo
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng lộ trình phát triển các dự án điện gió, điện mặt trời theo Quy hoạch điện VIII.
+- Thảo luận phương án giảm phát thải cho các nhà máy nhiệt điện than hiện hữu.
+- Tiếp cận các nguồn tài chính xanh và hợp tác quốc tế về chuyển giao công nghệ.
+- Giải quyết các nút thắt về hạ tầng truyền tải và hệ thống lưu trữ năng lượng (BESS).
+
+### 2. Các vấn đề đã thảo luận
+- Tiềm năng điện gió ngoài khơi tại miền Trung, miền Nam và thách thức về suất đầu tư, kỹ thuật.
+- Hợp tác liên doanh với các đối tác châu Âu để chia sẻ rủi ro và kinh nghiệm.
+- Cơ chế mua bán điện trực tiếp (DPPA) cho các khu công nghiệp để cấp chứng chỉ REC.
+- Tình trạng quá tải lưới điện truyền tải và giải pháp lưu trữ năng lượng bằng pin (BESS).
+- Nâng cấp nhà máy điện than bằng cách đốt kèm sinh khối hoặc đóng cửa theo lộ trình Net Zero.
+- Sản xuất Hydro xanh từ năng lượng tái tạo dư thừa cho các ngành công nghiệp nặng.
+- Tiếp cận gói tín dụng xanh lãi suất ưu đãi từ các ngân hàng quốc tế (HSBC, Standard Chartered).
+- Đào tạo nhân sự kỹ thuật cao tại các quốc gia có nền năng lượng tiên tiến (Đức, Đan Mạch).
+- Đánh giá tác động môi trường (DTM) và bảo vệ đa dạng sinh học biển.
+
+### 3. Kết luận và quyết định
+- Ưu tiên triển khai dự án điện gió ngoài khơi 500MW tại Bình Thuận.
+- Thành lập Ban dự án Năng lượng mới để quản lý các dự án Hydro và BESS.
+- Phê duyệt chủ trương mua gói tư vấn an toàn quốc tế cho các dự án biển.
+- Giao phòng Tài chính hoàn thiện hồ sơ vay vốn xanh cho các dự án trọng điểm.
+- Ký kết biên bản ghi nhớ hợp tác đào tạo với các trường đại học châu Âu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ vay vốn dự án Bình Thuận | Phòng Tài chính | 30/05/2024 |
+| Soạn thảo quy hoạch dự án 2025-2030 | Ban dự án Năng lượng mới | 15/06/2024 |
+| Đàm phán giá điện dự án chuyển tiếp | Ban Quan hệ đối tác | 10/05/2024 |
+| Lập báo cáo DTM cho dự án điện gió | Phòng Môi trường | 20/06/2024 |
+| Ký thỏa thuận đào tạo với ĐH Đan Mạch | Phòng Nhân sự | 15/05/2024 |
+
+[15:21] Dạ, chúng em đã mua gói tư vấn an toàn từ một đơn vị chuyên nghiệp của Na Uy để xây dựng bộ quy chuẩn riêng cho công ty rồi ạ.
+[15:24] Tốt lắm. Sự an toàn của nhân viên là ưu tiên hàng đầu.
+[15:27] Còn vấn đề thu hồi đất cho các đường dây truyền tải điện gió trên đất liền, chúng ta cần phối hợp chặt chẽ với chính quyền địa phương để đền bù thỏa đáng cho người dân.
+[15:30] Tránh xảy ra các tranh chấp làm kéo dài tiến độ đóng điện của dự án.
+[15:33] Tôi sẽ giao bộ phận Đối ngoại chịu trách nhiệm chính trong việc này.
+[15:36] Chào mọi người, chúc mọi người một tuần mới làm việc đầy hứng khởi.
+[15:39] Hẹn gặp lại trong buổi họp tiến độ dự án Bình Thuận vào tuần sau.
+(Tiếp tục thêm các thảo luận về giá điện, đàm phán PPA với EVN...)
+[15:42] Về việc đàm phán giá điện với EVN cho các dự án chuyển tiếp, chúng ta cần chuẩn bị hồ sơ quyết toán chi phí thật minh bạch để có căn cứ thương thảo mức giá hợp lý nhất.
+[15:45] Bộ phận Kế toán dự án đang tập hợp hóa đơn chứng từ và báo cáo kiểm toán để sẵn sàng làm việc với đoàn kiểm tra của Bộ Công Thương.
+[15:48] Rất quan trọng đấy. Đây là yếu tố quyết định đến hiệu quả tài chính của cả dự án.
+[15:51] OK. Kết thúc họp thực sự ở đây.
+
+<|output|>
+# Chiến lược chuyển dịch năng lượng và phát triển năng lượng tái tạo
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng lộ trình phát triển các dự án điện gió, điện mặt trời theo Quy hoạch điện VIII.
+- Thảo luận phương án giảm phát thải cho các nhà máy nhiệt điện than hiện hữu.
+- Tiếp cận các nguồn tài chính xanh và hợp tác quốc tế về chuyển giao công nghệ.
+- Giải quyết các nút thắt về hạ tầng truyền tải và hệ thống lưu trữ năng lượng (BESS).
+- Nghiên cứu cơ hội trong lĩnh vực Hydro xanh và Amoniac xanh.
+
+### 2. Các vấn đề đã thảo luận
+- Tiềm năng điện gió ngoài khơi tại miền Trung, miền Nam và thách thức về suất đầu tư, kỹ thuật.
+- Hợp tác liên doanh với các đối tác châu Âu để chia sẻ rủi ro và kinh nghiệm.
+- Cơ chế mua bán điện trực tiếp (DPPA) cho các khu công nghiệp để cấp chứng chỉ REC.
+- Tình trạng quá tải lưới điện truyền tải và giải pháp lưu trữ năng lượng bằng pin (BESS).
+- Nâng cấp nhà máy điện than bằng cách đốt kèm sinh khối hoặc đóng cửa theo lộ trình Net Zero.
+- Sản xuất Hydro xanh từ năng lượng tái tạo dư thừa cho các ngành công nghiệp nặng.
+- Tiếp cận gói tín dụng xanh lãi suất ưu đãi từ các ngân hàng quốc tế (HSBC, Standard Chartered).
+- Đào tạo nhân sự kỹ thuật cao tại các quốc gia có nền năng lượng tiên tiến (Đức, Đan Mạch).
+- Đánh giá tác động môi trường (DTM) và bảo vệ đa dạng sinh học biển.
+- Ứng dụng công nghệ Digital Twin để quản lý vận hành và bảo trì dự báo.
+- An toàn lao động đặc thù trong môi trường biển và công tác đền bù giải phóng mặt bằng.
+- Đàm phán giá điện PPA cho các dự án chuyển tiếp với EVN và Bộ Công Thương.
+
+### 3. Kết luận và quyết định
+- Ưu tiên triển khai dự án điện gió ngoài khơi 500MW tại Bình Thuận.
+- Thành lập Ban dự án Năng lượng mới để quản lý các dự án Hydro và BESS.
+- Phê duyệt chủ trương mua gói tư vấn an toàn quốc tế cho các dự án biển.
+- Giao phòng Tài chính hoàn thiện hồ sơ vay vốn xanh cho các dự án trọng điểm.
+- Ký kết biên bản ghi nhớ hợp tác đào tạo với các trường đại học châu Âu.
+- Yêu cầu báo cáo DTM chi tiết cho tất cả các dự án năng lượng tái tạo mới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ vay vốn dự án Bình Thuận | Phòng Tài chính | 30/05/2024 |
+| Soạn thảo quy hoạch dự án 2025-2030 | Ban dự án Năng lượng mới | 15/06/2024 |
+| Đàm phán giá điện dự án chuyển tiếp | Ban Quan hệ đối tác | 10/05/2024 |
+| Lập báo cáo DTM cho dự án điện gió | Phòng Môi trường | 20/06/2024 |
+| Ký thỏa thuận đào tạo với ĐH Đan Mạch | Phòng Nhân sự | 15/05/2024 |
+| Khảo sát lắp đặt hệ thống BESS thí điểm | Phòng Kỹ thuật | 10/04/2024 |

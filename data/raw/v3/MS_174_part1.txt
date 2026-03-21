@@ -1,0 +1,66 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[10:30:15] Chào bác sĩ Hưng và các anh chị điều dưỡng nha. Nay mình họp nhanh cái vụ cải thiện quy trình lấy số với phân luồng bệnh nhân ở sảnh chính, chứ em thấy sáng nào cũng như cái chợ, bà con than phiền dữ quá.
+[10:30:45] Đúng rồi đó, nhiều người tới từ 4-5 giờ sáng mà vẫn phải đợi lâu, rồi chen lấn ngay chỗ quầy bốc số nhìn lộn xộn lắm. Anh thấy cái máy phát số tự động của mình dạo này hay bị kẹt giấy nữa chứ.
+[10:31:15] Dạ vầy nè, em đề xuất mình triển khai thêm cái vụ đặt lịch khám qua app hoặc website đi. Ai đặt trước thì có mã QR, tới nơi chỉ cần quét một cái là vô khám luôn, khỏi phải đợi lấy số thủ tục rườm rà.
+[10:31:45] Cái đó thì hay, nhưng bệnh nhân của mình đa phần là người lớn tuổi, họ đâu có rành xài app đâu em. Phải có cách gì đó thủ công mà vẫn nhanh gọn kìa.
+[10:32:15] Hay là mình chia thêm các luồng ưu tiên đi ạ? Ví dụ như người già trên 70 tuổi, phụ nữ mang thai với trẻ em dưới 6 tuổi là có một quầy riêng, một lối đi riêng luôn. Như vậy sẽ giảm áp lực cho cái luồng chính.
+[10:32:45] Anh đồng ý vụ phân luồng ưu tiên. Mà phải làm bảng hướng dẫn to rõ vô, chứ không bà con cứ nhào vô một chỗ rồi cự cãi nhau mệt lắm. À, còn cái vụ mấy bác bảo vệ nữa, cần nhắc nhở mấy ảnh hỗ trợ hướng dẫn người dân lúc mới bước vô sảnh, chứ đừng có ngồi một chỗ bấm điện thoại.
+[10:33:15] Dạ em sẽ làm việc lại với đội bảo vệ. Còn vụ thanh toán nữa anh Hưng ơi, giờ người ta đứng xếp hàng đóng tiền khám cũng đông kịt hà. Mình có nên đặt thêm mấy cái máy Kiosk tự động để bà con tự thanh toán bằng thẻ hoặc chuyển khoản không?
+[10:33:45] Triển khai Kiosk là xu hướng đó, nhưng bước đầu chắc mình cứ thí điểm 2 máy trước xem sao. Với lại phải có nhân viên đứng đó hướng dẫn bà con xài, chứ không máy lại thành đống sắt vụn thì phí lắm.
+[10:34:15] Em thấy bên mình cũng nên cải thiện lại cái loa thông báo. Nhiều lúc ồn quá bệnh nhân không nghe rõ số của mình, cái họ lại chạy lên hỏi tới hỏi lui mất thời gian của nhân viên y tế lắm.
+[10:34:45] Ok, vậy chốt lại là: một là bảo trì máy bốc số, hai là phân luồng ưu tiên rõ ràng, ba là triển khai app với Kiosk thanh toán thí điểm. Mọi người triển khai sớm giùm tôi nha.
+[10:35:15] Dạ, tụi em sẽ bắt tay vào làm ngay. Hy vọng tuần sau tình hình sẽ ổn hơn.
+[10:35:45] Cố gắng lên nhé, vì sự hài lòng của bệnh nhân mà.
+
+<|output|>
+# Cải thiện quy trình lấy số thứ tự và phân luồng bệnh nhân
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khắc phục tình trạng ùn tắc và mất trật tự tại sảnh lấy số khám bệnh.
+- Tối ưu hóa quy trình phân luồng bệnh nhân để giảm thời gian chờ đợi.
+- Áp dụng công nghệ để hiện đại hóa công tác tiếp đón và thanh toán.
+
+### 2. Các vấn đề đã thảo luận
+- Máy phát số tự động thường xuyên gặp sự cố kỹ thuật (kẹt giấy).
+- Thiếu các luồng ưu tiên cho các đối tượng đặc biệt dẫn đến chen lấn.
+- Hệ thống loa thông báo chưa đủ to và rõ trong môi trường ồn ào.
+- Quy trình thanh toán thủ công gây quá tải tại các quầy thu ngân.
+- Đội ngũ bảo vệ và nhân viên hướng dẫn chưa thực hiện tốt vai trò phân luồng từ cửa vào.
+
+### 3. Kết luận và quyết định
+- Thiết lập ngay các quầy ưu tiên dành cho người già (>70 tuổi), trẻ em (<6 tuổi) và phụ nữ mang thai.
+- Bảo trì định kỳ và nâng cấp hệ thống máy bốc số tự động.
+- Thí điểm 2 máy Kiosk tự động hỗ trợ thanh toán không dùng tiền mặt.
+- Phát triển và truyền thông rộng rãi ứng dụng đặt lịch khám trực tuyến qua mã QR.
+- Thay mới hoặc điều chỉnh hệ thống loa thông báo tại sảnh chính.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lắp đặt bảng chỉ dẫn luồng ưu tiên | Bộ phận Hành chính | 18/12/2024 |
+| Bảo trì máy bốc số và kiểm tra hệ thống loa | Tổ Kỹ thuật | 16/12/2024 |
+| Triển khai thí điểm 2 máy Kiosk thanh toán | Phòng Tài chính + IT | 25/12/2024 |
+| Tập huấn đội bảo vệ về quy trình hướng dẫn bệnh nhân | Chị Lan - Trưởng phòng ĐD | 20/12/2024 |
+| Hoàn thiện app đặt lịch khám trực tuyến | Đơn vị cung cấp phần mềm | 05/01/2025 |

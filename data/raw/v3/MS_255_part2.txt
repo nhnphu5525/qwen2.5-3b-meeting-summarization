@@ -1,0 +1,58 @@
+<|input|>
+# Rà soát hồ sơ quyết toán thuế giai đoạn 2022-2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tiến độ chuẩn bị hồ sơ cho đợt kiểm toán quyết toán thuế TNDN, TNCN và GTGT.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí doanh nghiệp: Hóa đơn tiếp khách và công tác thiếu chứng từ chứng minh mục đích kinh doanh.
+- Thuế TNCN: Sai sót trong tính toán thuế cho chuyên gia nước ngoài do thay đổi quy định và hợp đồng lao động.
+
+### 3. Kết luận và quyết định
+- Thuê đơn vị tư vấn thuế bên ngoài để thực hiện hồ sơ giao dịch liên kết và soát xét tổng thể.
+- Lập hội đồng kiểm kê và thanh lý hàng hỏng ngay trong tuần này để hợp thức hóa chi phí.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thu thập báo giá và chọn đơn vị tư vấn thuế | Chị Mai (Kế toán) | 28/03/2025 |
+| Hoàn thiện bộ hồ sơ hoàn thuế GTGT dự án Long An | Chị Linh (Kế toán) | 26/03/2025 |
+| Kiểm kê, lập biên bản thanh lý hàng hỏng | Anh Tuấn (Kho) & Chị Linh | 27/03/2025 |
+
+[09:20] Linh cần ưu tiên hoàn thiện bộ hồ sơ này ngay trong tuần. Việc hoàn thuế sẽ giúp công ty có thêm dòng tiền cho hoạt động sản xuất. Chào mọi người, tôi là Tuấn bên bộ phận Kho. Tiện đây tôi muốn báo cáo về sự lệch giữa kho vật lý và sổ sách kế toán mà chị Mai đã nhắc hôm trước. Sau khi kiểm kê lại, chúng tôi phát hiện một lượng hàng hỏng hóc chưa được lập biên bản thanh lý đúng quy định. Nếu không có biên bản này, chi phí hủy hàng sẽ không được trừ khi quyết toán thuế.
+[09:25] Đúng vậy anh Tuấn. Chào anh Hùng, tôi đề xuất chúng ta lập ngay một hội đồng kiểm kê và thanh lý hàng hỏng trong tuần này. Chị Linh sẽ hỗ trợ anh Tuấn về mặt thủ tục giấy tờ kế toán để đảm bảo đúng quy định của thông tư 78. Ngoài ra, tôi muốn nhắc Đức về việc chốt số liệu bảo hiểm xã hội, vì nó liên quan trực tiếp đến phần chi phí tiền lương được trừ.
+[09:30] Chào chị Mai, em đã liên hệ với bên bảo hiểm rồi, dự kiến thứ Năm này sẽ có bản đối chiếu cuối cùng. Tuy nhiên, em lo ngại về phần chi phí trang phục cho nhân viên. Năm ngoái chúng ta chi bằng tiền mặt vượt mức 5 triệu đồng/người/năm cho một số bộ phận. Khoản vượt này chắc chắn sẽ bị loại.
+[09:35] Khoản nào vượt thì chúng ta tự giác loại ra khi lập tờ khai quyết toán để tránh bị phạt vi phạm hành chính về thuế. Chào mọi người, tôi là Sơn bên bộ phận Pháp chế. Tôi lưu ý thêm về các giao dịch liên kết. Năm nay chúng ta có phát sinh giao dịch cho vay nội bộ với công ty mẹ ở Singapore. Chúng ta bắt buộc phải lập hồ sơ xác định giá giao dịch liên kết theo Nghị định 132. Đây là mảng mà cơ quan thuế sẽ soi rất kỹ.
+
+<|output|>
+# Rà soát hồ sơ quyết toán thuế giai đoạn 2022-2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tiến độ chuẩn bị hồ sơ cho đợt kiểm toán quyết toán thuế TNDN, TNCN và GTGT.
+- Nhận diện các rủi ro về chi phí không hợp lệ và sai sót trong chứng từ.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí doanh nghiệp: Hóa đơn tiếp khách và công tác thiếu chứng từ chứng minh mục đích kinh doanh.
+- Thuế TNCN: Sai sót trong tính toán thuế cho chuyên gia nước ngoài do thay đổi quy định và hợp đồng lao động.
+- Hoàn thuế GTGT: Hồ sơ dự án Long An bị thiếu chứng từ nghiệm thu và thanh toán ngân hàng.
+- Quản lý kho: Chênh lệch kho và hàng hỏng chưa có biên bản thanh lý hợp lệ để tính vào chi phí.
+
+### 3. Kết luận và quyết định
+- Thuê đơn vị tư vấn thuế bên ngoài để thực hiện hồ sơ giao dịch liên kết và soát xét tổng thể.
+- Lập hội đồng kiểm kê và thanh lý hàng hỏng ngay trong tuần này để hợp thức hóa chi phí.
+- Tự giác loại bỏ các khoản chi vượt định mức (trang phục, tiếp khách thiếu chứng từ) khi lập tờ khai.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thu thập báo giá và chọn đơn vị tư vấn thuế | Chị Mai (Kế toán) | 28/03/2025 |
+| Hoàn thiện bộ hồ sơ hoàn thuế GTGT dự án Long An | Chị Linh (Kế toán) | 26/03/2025 |
+| Kiểm kê, lập biên bản thanh lý hàng hỏng | Anh Tuấn (Kho) & Chị Linh | 27/03/2025 |
+| Rà soát hồ sơ thuế TNCN chuyên gia nước ngoài | Anh Đức (Nhân sự) | 30/03/2025 |
+| Đối chiếu số liệu bảo hiểm xã hội | Anh Đức (Nhân sự) | 25/03/2025 |

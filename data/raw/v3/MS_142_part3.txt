@@ -1,0 +1,69 @@
+<|input|>
+# Xây dựng Tour Du lịch Trải nghiệm Cao cấp cho Thị trường Nhật Bản
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và xây dựng sản phẩm tour mới dành riêng cho phân khúc khách du lịch Nhật Bản cao cấp.
+- Tìm kiếm hướng đi mới, khác biệt so với các tour truyền thống để thu hút khách hàng thích trải nghiệm thiên nhiên và văn hóa bản địa.
+
+### 2. Các vấn đề đã thảo luận
+- **Xu hướng khách Nhật:** Chuyển từ tour thành phố sang tour "sống chậm", gần gũi thiên nhiên, chú trọng văn hóa bản địa và yêu cầu khắt khe về vệ sinh, lưu trú.
+- **Sản phẩm dự kiến:** Tour 5 ngày 4 đêm với tên gọi "Hơi thở của núi rừng Tây Bắc".
+- **Trải nghiệm đặc sắc:** 
+- **Nhân sự & Vận chuyển:** Sử dụng hướng dẫn viên kỳ cựu (trên 10 năm kinh nghiệm) và xe Limousine cao cấp.
+
+### 3. Kết luận và quyết định
+- Chốt khung lộ trình Y Tý - Mù Cang Chải cho tour mới.
+- Xây dựng bộ tiêu chuẩn dịch vụ khắt khe về ăn uống, nghỉ ngơi phù hợp với khách Nhật.
+- Triển khai chương trình Fam trip mời các KOL du lịch Nhật Bản sang trải nghiệm vào mùa lúa chín (tháng 9).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Itinerary chi tiết và bảng báo giá | Hạnh (Phòng Sản phẩm) | 15/04/2024 |
+| Liên hệ đối tác Nhật Bản gửi Teaser giới thiệu | Tuấn (Phòng Kinh doanh) | 20/04/2024 |
+| Lập danh sách KOL Nhật Bản và kế hoạch Fam trip | Tuấn | 30/04/2024 |
+| Tìm kiếm và ký kết với các đơn vị Homestay/Glamping | Hạnh | 10/05/2024 |
+[14:32:40] Dạ anh, để em làm rồi gởi anh xem. Còn Tuấn, em liên hệ với mấy đối tác lớn bên Tokyo với Osaka gởi cái "teaser" giới thiệu ý tưởng tour này xem phản ứng của họ thế nào nha.
+[14:35:00] Dạ em làm liền anh. À mà anh Sơn ơi, mình có nên mời một vài blogger hay KOL du lịch nổi tiếng bên Nhật qua trải nghiệm thử (fam trip) không anh? Để họ làm truyền thông trước thì khi mình mở bán sẽ dễ hơn.
+[14:37:20] Ý kiến hay đó Tuấn. Em lên danh sách khoảng 3-4 người phù hợp đi, rồi mình tính toán ngân sách mời họ qua vào mùa lúa chín tháng 9 này là đẹp nhất luôn.
+[14:39:40] Dạ vâng ạ. Vậy là mình phải tăng tốc lên mới kịp mùa lúa năm nay đó anh chị ơi.
+[14:42:00] Ừ, mọi người tập trung nha. Tour này mà thành công là mình mở ra được một hướng đi mới cực kỳ chất lượng cho công ty đó. Thôi, giải tán đi làm thôi!
+[14:44:20] Dạ, em chào anh chị ạ.
+[14:46:40] Ok, chào mấy đứa nha. Cố lên!
+
+<|output|>
+# Xây dựng Tour Du lịch Trải nghiệm Cao cấp cho Thị trường Nhật Bản
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và xây dựng sản phẩm tour mới dành riêng cho phân khúc khách du lịch Nhật Bản cao cấp.
+- Tìm kiếm hướng đi mới, khác biệt so với các tour truyền thống để thu hút khách hàng thích trải nghiệm thiên nhiên và văn hóa bản địa.
+- Thống nhất lộ trình, dịch vụ đi kèm và chiến lược truyền thông cho sản phẩm.
+
+### 2. Các vấn đề đã thảo luận
+- **Xu hướng khách Nhật:** Chuyển từ tour thành phố sang tour "sống chậm", gần gũi thiên nhiên, chú trọng văn hóa bản địa và yêu cầu khắt khe về vệ sinh, lưu trú.
+- **Sản phẩm dự kiến:** Tour 5 ngày 4 đêm với tên gọi "Hơi thở của núi rừng Tây Bắc".
+- **Trải nghiệm đặc sắc:** 
+- **Nhân sự & Vận chuyển:** Sử dụng hướng dẫn viên kỳ cựu (trên 10 năm kinh nghiệm) và xe Limousine cao cấp.
+- **Chi phí:** Dự kiến cao hơn tour thông thường 30-40%, tập trung vào phân khúc khách hàng chi trả cao.
+
+### 3. Kết luận và quyết định
+- Chốt khung lộ trình Y Tý - Mù Cang Chải cho tour mới.
+- Xây dựng bộ tiêu chuẩn dịch vụ khắt khe về ăn uống, nghỉ ngơi phù hợp với khách Nhật.
+- Triển khai chương trình Fam trip mời các KOL du lịch Nhật Bản sang trải nghiệm vào mùa lúa chín (tháng 9).
+- Đẩy mạnh marketing tại các thị trường trọng điểm Tokyo và Osaka.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Itinerary chi tiết và bảng báo giá | Hạnh (Phòng Sản phẩm) | 15/04/2024 |
+| Liên hệ đối tác Nhật Bản gửi Teaser giới thiệu | Tuấn (Phòng Kinh doanh) | 20/04/2024 |
+| Lập danh sách KOL Nhật Bản và kế hoạch Fam trip | Tuấn | 30/04/2024 |
+| Tìm kiếm và ký kết với các đơn vị Homestay/Glamping | Hạnh | 10/05/2024 |
+| Tuyển chọn và đào tạo HDV chuyên biệt cho tour | Anh Sơn | 15/05/2024 |
+| Xây dựng thực đơn kết hợp Việt - Nhật | Hạnh & Team Bếp | 05/05/2024 |

@@ -1,0 +1,55 @@
+<|input|>
+# Tư vấn cấu trúc cổ đông và đàm phán Term Sheet vòng gọi vốn Series A
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát các điều khoản trong Term Sheet từ nhà đầu tư (Series A) và đánh giá tác động đến quyền kiểm soát của Founders.
+- Thống nhất các điểm cần đàm phán lại để bảo vệ lợi ích dài hạn của công ty.
+
+### 2. Các vấn đề đã thảo luận
+- **Cổ phần ưu đãi và Quyền phủ quyết (Veto Rights):** Nhà đầu tư yêu cầu quyền phủ quyết đối với các quyết định chiến lược và nhân sự cao cấp. Founder cần giới hạn (chỉ áp dụng với CEO, CFO) để tránh bị can thiệp quá sâu vào vận hành.
+- **Chống pha loãng (Anti-dilution):** Đề xuất chuyển từ "Full Ratchet" (rất bất lợi cho Founder) sang "Broad-based Weighted Average" để công bằng hơn trong trường hợp Down round.
+
+### 3. Kết luận và quyết định
+- Ưu tiên đàm phán điểm cốt yếu: Chống pha loãng (Weighted Average).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[09:16] Ờ... để em ghi lại cái này. "Broad-based Weighted Average". Còn vụ ESOP (Employee Stock Ownership Plan) thì sao anh? Quỹ họ muốn mình dành ra 15% cổ phần cho ESOP trước khi họ rót vốn (Pre-money ESOP pool).
+[09:18] Cái này là "chiêu" kinh điển của các quỹ để đẩy định giá Pre-money xuống đấy. Nếu mình lập Pool ESOP trước khi rót vốn, thì toàn bộ sự pha loãng đó sẽ do Founder chịu. Anh đề xuất mình đàm phán là Pool ESOP sẽ được lập Post-money, tức là cả Founder và quỹ cùng chịu pha loãng để thu hút nhân tài. Hoặc ít nhất là giảm cái tỷ lệ 15% xuống khoảng 7-10% thôi, khi nào dùng hết thì phát hành thêm.
+[09:20] Dạ, hiện tại tụi em mới chỉ hứa miệng cho mấy bạn nhân viên cốt cán khoảng 3%. Nếu dành hẳn 15% thì đúng là hơi nhiều thật. À, anh tư vấn thêm cho tụi em về quyền Tag-along và Drag-along với. Trong Term Sheet họ yêu cầu Drag-along ở mức 51%.
+[09:22] Tag-along là quyền đi theo, tức là nếu Founder bán cổ phần cho bên thứ ba thì cổ đông thiểu số (là quỹ) cũng có quyền bán theo cùng điều kiện. Cái này là để bảo vệ họ, mình nên chấp nhận. Còn Drag-along là quyền kéo theo. Nếu 51% cổ đông đồng ý bán công ty thì họ có quyền ép các cổ đông còn lại (kể cả Founder) phải bán theo. Mức 51% là quá thấp! Founder hiện tại nắm 80%, nếu các bạn đồng ý 51% thì quỹ chỉ cần bắt tay với một vài cổ đông nhỏ khác là có thể ép các bạn bán công ty dù các bạn không muốn.
+[09:24] Nguy hiểm vậy sao anh? Vậy mình nên để mức bao nhiêu là an toàn?
+[09:26] Thông thường nên để mức 75% hoặc ít nhất là phải có sự đồng ý của đa số cổ đông sáng lập (Founders' Majority). Như vậy các bạn mới giữ được cái "nút thắt" cuối cùng cho vận mệnh của công ty mình.
+[09:28] Ờ... Nam thấy sao? Vụ Drag-along này quan trọng nè. Mình phải giữ được quyền quyết định công ty có bán hay không chứ.
+[09:30] Dạ em đồng ý với anh Luật sư. Còn một cái nữa là "Liquidation Preference" (Ưu tiên thanh toán khi thanh lý). Họ đòi 2x Participating Preferred. Cái này nghĩa là gì hả anh?
+[09:32] Ôi trời, 2x Participating là "tham lam" lắm đấy nhé. Nghĩa là khi bán công ty, đầu tiên họ lấy về gấp 2 lần số tiền đã đầu tư (tức là 10 triệu đô dù họ chỉ bỏ vào 5 triệu). Sau đó, họ vẫn tiếp tục được chia phần trong số tiền còn lại theo tỷ lệ sở hữu 20% của họ. Ở thị trường Việt Nam hiện nay, mức chuẩn (Standard) chỉ là 1x Non-participating thôi. Tức là họ được chọn: hoặc lấy lại đúng số vốn đã góp (1x), hoặc chia theo tỷ lệ sở hữu (Convert sang Common Shares), cái nào cao hơn thì lấy.
+
+<|output|>
+# Tư vấn cấu trúc cổ đông và đàm phán Term Sheet vòng gọi vốn Series A
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát các điều khoản trong Term Sheet từ nhà đầu tư (Series A) và đánh giá tác động đến quyền kiểm soát của Founders.
+- Thống nhất các điểm cần đàm phán lại để bảo vệ lợi ích dài hạn của công ty.
+
+### 2. Các vấn đề đã thảo luận
+- **Cổ phần ưu đãi và Quyền phủ quyết (Veto Rights):** Founder cần giới hạn quyền phủ quyết để tránh bị can thiệp quá sâu vào vận hành.
+- **Chống pha loãng (Anti-dilution):** Đề xuất chuyển sang "Broad-based Weighted Average".
+- **ESOP Pool:** Đàm phán lập Pool ESOP ở giai đoạn Post-money thay vì Pre-money để nhà đầu tư cùng chia sẻ pha loãng, và giảm tỷ lệ dự phòng xuống mức 7-10%.
+- **Quyền Drag-along (Kéo theo):** Nhà đầu tư đòi mức 51% đe dọa quyền quyết định bán công ty của Founder. Cần nâng lên mức 75% hoặc yêu cầu Founders' Majority.
+- **Liquidation Preference (Ưu tiên thanh lý):** Phản đối mức 2x Participating Preferred và đề xuất mức chuẩn thị trường là 1x Non-participating.
+
+### 3. Kết luận và quyết định
+- Ưu tiên đàm phán các điểm cốt yếu: Chống pha loãng (Weighted Average), Ưu tiên thanh lý (1x Non-participating) và Quyền Drag-along (75%).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

@@ -1,0 +1,61 @@
+<|input|>
+# Rà soát số liệu quyết toán thuế và công nợ năm tài chính
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Kiểm tra tính hợp lệ và đầy đủ của chứng từ chi phí trước khi quyết toán thuế.
+- Rà soát việc trích khấu hao tài sản cố định và xử lý các khoản công nợ quá hạn.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí tiếp khách vượt định mức và thiếu chứng từ đi kèm.
+- Sai sót trong việc trích khấu hao máy móc thiết bị mới nhập.
+- Khoản nợ quá hạn của đối tác X cần được xử lý trích lập dự phòng.
+
+### 3. Kết luận và quyết định
+- Yêu cầu bổ sung đầy đủ chứng từ trước ngày chốt sổ.
+- Cập nhật lại bảng trích khấu hao trên phần mềm kế toán.
+- Thực hiện trích lập dự phòng cho các khoản nợ quá hạn nếu không có cam kết thanh toán.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thu hồi và kiểm tra chứng từ chi phí tiếp khách | Kế toán Lan | 25/03/2026 |
+| Cập nhật khấu hao máy in trên phần mềm | Anh Minh | 22/03/2026 |
+| Làm việc với đối tác X về kế hoạch trả nợ | Phòng Kinh doanh | 30/03/2026 |
+| Lập bảng dự toán trích lập dự phòng nợ xấu | Kế toán Lan | 31/03/2026 |
+[15:12] Về thuế thu nhập cá nhân, có một vài nhân sự mới vào chưa làm cam kết 08 nên mình vẫn đang khấu trừ 10% tại nguồn.
+[15:14] Nhờ nhân sự thông báo cho các bạn đó bổ sung hồ sơ để mình kịp điều chỉnh trước khi chốt sổ.
+[15:16] Chốt lại: Hoàn thiện chứng từ chi phí, kiểm tra khấu hao và trích lập dự phòng nợ xấu.
+
+<|output|>
+# Rà soát số liệu quyết toán thuế và công nợ năm tài chính
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Kiểm tra tính hợp lệ và đầy đủ của chứng từ chi phí trước khi quyết toán thuế.
+- Rà soát việc trích khấu hao tài sản cố định và xử lý các khoản công nợ quá hạn.
+- Đảm bảo tuân thủ các quy định về thuế thu nhập cá nhân cho nhân viên.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí tiếp khách vượt định mức và thiếu chứng từ đi kèm.
+- Sai sót trong việc trích khấu hao máy móc thiết bị mới nhập.
+- Khoản nợ quá hạn của đối tác X cần được xử lý trích lập dự phòng.
+- Hồ sơ thuế thu nhập cá nhân cho nhân viên mới chưa hoàn thiện.
+
+### 3. Kết luận và quyết định
+- Yêu cầu bổ sung đầy đủ chứng từ trước ngày chốt sổ.
+- Cập nhật lại bảng trích khấu hao trên phần mềm kế toán.
+- Thực hiện trích lập dự phòng cho các khoản nợ quá hạn nếu không có cam kết thanh toán.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thu hồi và kiểm tra chứng từ chi phí tiếp khách | Kế toán Lan | 25/03/2026 |
+| Cập nhật khấu hao máy in trên phần mềm | Anh Minh | 22/03/2026 |
+| Làm việc với đối tác X về kế hoạch trả nợ | Phòng Kinh doanh | 30/03/2026 |
+| Thông báo nhân sự bổ sung hồ sơ cam kết thuế | Phòng Nhân sự | 24/03/2026 |
+| Lập bảng dự toán trích lập dự phòng nợ xấu | Kế toán Lan | 31/03/2026 |

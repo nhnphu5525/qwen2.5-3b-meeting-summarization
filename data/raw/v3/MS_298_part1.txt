@@ -1,0 +1,54 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào buổi chiều team thiết kế và marketing, hôm nay chúng ta họp để chốt bộ sưu tập "Summer Breeze 2024" và thảo luận về xu hướng thời trang bền vững (sustainable fashion) đang chiếm lĩnh thị trường toàn cầu.
+[14:03] Tôi đã xem qua các mẫu phác thảo cuối cùng. Sự kết hợp giữa chất liệu linen tự nhiên và các họa tiết thêu tay truyền thống thực sự mang lại cảm giác phóng khoáng nhưng vẫn rất tinh tế cho bộ sưu tập lần này.
+[14:06] Tuy nhiên, tôi lo ngại về bảng màu. Hiện tại chúng ta đang dùng quá nhiều tone trung tính. Xu hướng hè năm nay theo dự báo của Pantone là các màu rực rỡ như "Peach Fuzz" hay xanh mint đậm.
+[14:09] Chúng ta nên bổ sung thêm ít nhất 3 mẫu váy maxi và áo sơ mi với những tone màu này để tạo điểm nhấn cho bộ sưu tập, đồng thời đáp ứng thị hiếu của khách hàng trẻ thích chụp ảnh check-in.
+[14:12] Về mặt chất liệu, chúng ta đã chốt được nhà cung cấp vải sợi dứa và tơ chuối cho dòng sản phẩm eco-friendly chưa? Đây là linh hồn của bộ sưu tập lần này nên không được có sai sót.
+[14:15] Hiện tại chúng tôi đã ký biên bản ghi nhớ với một làng nghề tại Lâm Đồng. Họ có khả năng cung cấp đủ số lượng cho đợt hàng đầu tiên, nhưng giá thành sẽ cao hơn khoảng 20% so với vải cotton thông thường.
+[14:18] Chúng ta sẽ định vị đây là dòng sản phẩm cao cấp (Limited Edition). Khách hàng bây giờ sẵn sàng trả giá cao cho những sản phẩm có câu chuyện về môi trường và hỗ trợ cộng đồng địa phương.
+[14:21] Vậy chiến dịch truyền thông cần tập trung vào quá trình sản xuất ra tấm vải đó. Hãy gửi một đội quay phim lên Lâm Đồng để ghi lại cảnh người dân thu hoạch dứa và tách sợi thủ công.
+[14:24] Những thước phim đó sẽ cực kỳ giá trị khi chạy quảng cáo trên Instagram và trình chiếu tại các cửa hàng flagship của chúng ta.
+
+<|output|>
+# Ra mắt bộ sưu tập Summer Breeze 2024 và chiến lược thời trang bền vững
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt mẫu thiết kế và chất liệu cho bộ sưu tập hè "Summer Breeze 2024".
+- Thảo luận việc ứng dụng các chất liệu tự nhiên (linen, sợi dứa, tơ chuối) và quy trình sản xuất sạch.
+
+### 2. Các vấn đề đã thảo luận
+- Bổ sung tone màu nóng (Peach Fuzz, xanh mint) để bắt kịp xu hướng Pantone 2024.
+- Hợp tác với các làng nghề tại Lâm Đồng để cung ứng vải sợi tự nhiên.
+- Yêu cầu kỹ thuật may không vắt sổ nhựa và sử dụng nút áo bằng vỏ ốc/gỗ.
+
+### 3. Kết luận và quyết định
+- Phê duyệt bảng màu bổ sung và danh mục chất liệu sinh học cho BST mới.
+- Chốt ngân sách sản xuất video tư liệu và sự kiện ra mắt tại vườn thực vật.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Casting người mẫu và chụp Lookbook | Team Marketing & Design | 15/04/2024 |
+| Sản xuất video tư liệu tại Lâm Đồng | Team Media | 25/04/2024 |

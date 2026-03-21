@@ -1,0 +1,55 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào buổi sáng cả nhà, hôm nay mình họp sớm chút để chốt cái kế hoạch đón khách cho mùa cao điểm hè sắp tới nha.
+[09:02] Dạ sếp, em thấy tình hình năm nay có vẻ khởi sắc đó, lượng khách đặt phòng trước cho tháng 6, tháng 7 tăng khoảng 30% so với năm ngoái rồi.
+[09:04] Ờ, con số đó ấn tượng đó Hùng, nhưng mà lượng khách tăng thì áp lực lên bộ phận vận hành của mình cũng lớn lắm đó nha.
+[09:06] Dạ vầy nè sếp, em lo nhất là cái khâu nhân sự thời vụ á. Mấy năm trước mình cứ tới nước đến chân mới nhảy, tuyển người không kịp nên chất lượng phục vụ nó bị đi xuống.
+[09:08] Đúng rồi, chị cũng thấy vậy đó. Năm nay Lan bên nhân sự đã có kế hoạch gì chưa em?
+[09:10] Dạ, em đã liên hệ với mấy trường du lịch để tuyển thực tập sinh với nhân viên part-time rồi chị. Dự kiến mình cần thêm khoảng 20 bạn cho cả hai cơ sở.
+[09:12] Ừm, tuyển thì tuyển nhưng mà phải training cho kỹ nha Lan. Đừng có để mấy bạn mới ra đứng sảnh mà lơ ngơ, khách họ hỏi gì cũng không biết là chết chị luôn đó.
+[09:14] Dạ chị yên tâm, em lên lịch training nghiệp vụ buồng phòng với lễ tân cho các bạn rồi, bắt đầu từ tuần sau là vô học luôn.
+[09:16] À, còn cái vụ bảo trì cơ sở vật chất nữa Hùng ơi. Chị thấy mấy cái máy lạnh ở khu B dạo này nó cứ kêu rè rè, khách họ phàn nàn quá trời.
+[09:18] Ờ, cái này em ghi nhận rồi chị Mai. Em định là trong tuần này sẽ cho đội kỹ thuật đi kiểm tra toàn bộ hệ thống máy lạnh, điện nước với thang máy luôn. Cái nào hư là thay mới liền chứ để vô mùa là không có thợ đâu.
+[09:20] Đúng rồi, làm sớm đi em. Tiền bạc thì cứ báo cáo để anh duyệt, quan trọng là mọi thứ phải vận hành trơn tru.
+
+<|output|>
+# Chuẩn bị kế hoạch đón khách cho mùa du lịch cao điểm hè
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát công tác chuẩn bị về nhân sự, cơ sở vật chất và dịch vụ cho mùa cao điểm tháng 6 - tháng 7.
+
+### 2. Các vấn đề đã thảo luận
+- Lượng khách đặt phòng tăng 30% so với cùng kỳ năm ngoái, gây áp lực lên vận hành.
+- Thiếu hụt nhân sự thời vụ và sự cần thiết của việc đào tạo nghiệp vụ cho nhân viên mới.
+
+### 3. Kết luận và quyết định
+- Tuyển thêm 20 nhân viên part-time/thực tập sinh và triển khai đào tạo nghiệp vụ từ tuần tới.
+- Tiến hành kiểm tra, bảo trì toàn bộ hệ thống điện nước, máy lạnh, thang máy trong tuần này.
+- Bổ sung thực đơn mùa hè đặc biệt và niêm yết giá công khai.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đào tạo nghiệp vụ cho nhân sự mới | Chị Lan (Phòng Nhân sự) | 30/05/2024 |
+| Tổng kiểm tra và bảo trì cơ sở vật chất | Anh Hùng (Phòng Kỹ thuật) | 25/05/2024 |
+| Liên hệ thuê thêm xe điện tham quan | Anh Hùng (Phòng Kỹ thuật) | 22/05/2024 |

@@ -1,0 +1,53 @@
+<|input|>
+# Định hướng chiến lược ESG và phát triển bền vững tập đoàn giai đoạn 2025-2035
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác lập tầm nhìn chiến lược dài hạn về ESG (Môi trường - Xã hội - Quản trị) cho toàn tập đoàn.
+
+### 2. Các vấn đề đã thảo luận
+- **Trụ cột Môi trường (Environmental):** 
+
+### 3. Kết luận và quyết định
+- Phê duyệt lộ trình 10 năm phát triển bền vững 2025-2035.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập phương án vay vốn xanh cho dự án nhà máy Bình Dương | Hùng - Khối Sản xuất | 15/12/2024 |
+| Soạn thảo khung chỉ số KPI liên quan đến ESG | Mai - Khối Nhân sự | 20/12/2024 |
+[08:30:30] Ờ, vậy thì tính ra chỉ sau 10 năm là mình thu hồi vốn đầu tư rồi, chưa kể cái lợi ích vô hình về thương hiệu xanh nữa. Tôi duyệt chủ trương này, Hùng phối hợp với bên Tài chính lập phương án vay vốn xanh (Green Loan) đi, nghe nói lãi suất đang rất ưu đãi.
+[08:35:45] Còn mảng "Social" - Xã hội thì sao chị Mai? Tôi thấy mình làm từ thiện cũng nhiều, nhưng hình như nó vẫn chưa mang tính hệ thống và bền vững đúng không?
+[08:40:00] Dạ đúng rồi anh. Lâu nay mình làm theo kiểu "mùa vụ", ai xin gì cho nấy. Chiến lược mới của em là tập trung vào "Đào tạo và Phát triển cộng đồng địa phương". Mình sẽ lập một quỹ học bổng cho con em công nhân và xây dựng các trung tâm đào tạo nghề tại những tỉnh mình có nhà máy.
+[08:45:15] Hay quá Mai. Mình tạo ra nguồn nhân lực chất lượng cao cho chính mình, đồng thời giúp đỡ xã hội một cách thực chất nhất. Chị nhớ đưa thêm cái chỉ số về bình đẳng giới và an toàn lao động vào báo cáo ESG hàng năm nha.
+[08:50:30] Dạ vâng anh. Về an toàn lao động, em đang triển khai hệ thống quản lý theo tiêu chuẩn ISO 45001 cho toàn bộ các công ty con. Mục tiêu là "Zero Accident" (Không tai nạn lao động) vào năm 2027.
+[08:55:45] Còn về chữ G - Governance (Quản trị). Tôi thấy cái vụ minh bạch thông tin với quản trị rủi ro của mình vẫn còn lỏng lẻo lắm. Đợt rồi có mấy vụ xung đột lợi ích ở bộ phận mua hàng mà mình phát hiện hơi muộn đó.
+[09:00:00] Ờ cái này tôi nhận trách nhiệm. Sắp tới tôi sẽ thành lập Ủy ban Kiểm soát Nội bộ trực thuộc Hội đồng Quản trị. Tất cả các giao dịch trên 1 tỷ đều phải qua hệ thống phê duyệt đa tầng và có sự giám sát của bên độc lập.
+
+<|output|>
+# Định hướng chiến lược ESG và phát triển bền vững tập đoàn giai đoạn 2025-2035
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác lập tầm nhìn chiến lược dài hạn về ESG (Môi trường - Xã hội - Quản trị) cho toàn tập đoàn.
+- Thống nhất các hạng mục đầu tư trọng điểm và lộ trình thực hiện để đạt được các tiêu chuẩn bền vững quốc tế.
+
+### 2. Các vấn đề đã thảo luận
+- **Trụ cột Môi trường (Environmental):** 
+- **Trụ cột Xã hội (Social):**
+
+### 3. Kết luận và quyết định
+- Phê duyệt lộ trình 10 năm phát triển bền vững 2025-2035.
+- Năm 2025 tập trung vào 3 nhiệm vụ chính: Hoàn thiện khung quản trị ESG, khởi công dự án nhà máy xanh và ra mắt báo cáo bền vững theo chuẩn GRI.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập phương án vay vốn xanh cho dự án nhà máy Bình Dương | Hùng - Khối Sản xuất | 15/12/2024 |
+| Soạn thảo khung chỉ số KPI liên quan đến ESG | Mai - Khối Nhân sự | 20/12/2024 |
+| Triển khai POC Blockchain cho chuỗi cung ứng xuất khẩu | Nam - Khối CNTT | 30/01/2025 |
+| Liên hệ đơn vị kiểm toán báo cáo bền vững (Big4) | Phòng Tài chính | 10/12/2024 |

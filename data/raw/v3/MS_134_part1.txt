@@ -1,0 +1,53 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00:00] Chào buổi sáng cả team. Hôm nay mình "brainstorm" nát cái đầu để ra được cái concept cho video viral Tết năm nay nha. Sếp tổng vừa nhắc chị là phải làm sao cho nó khác biệt, chứ đừng có mấy cái motif cũ rích như "về nhà ăn Tết" hay "sum họp" hoài nha.
+[10:01:15] Dạ chị Vy, em cũng đang trăn trở cái này. Tết mà không "về nhà" thì hơi khó, nhưng mình có thể khai thác theo góc nhìn khác. Em đang định hướng là làm một cái video về "Tết của những người không có Tết" nhưng theo kiểu hài hước, tích cực á chị.
+[10:02:30] Ý tưởng đó cụ thể là sao Đức? My thấy sao về hướng này?
+[10:03:45] Em thấy cũng ổn đó chị Vy. Nhưng mà mình phải lồng ghép sản phẩm bánh kẹo của mình vô sao cho nó duyên. Chứ video viral mà quảng cáo lộ quá là dân mạng họ "next" liền.
+[10:05:00] Dạ vầy nè chị, em định xây dựng nhân vật là một anh chàng shipper, ngày 30 Tết vẫn còn đang đi giao những đơn hàng bánh kẹo cuối cùng. Mỗi điểm anh ấy đến là một tình huống dở khóc dở cười, và cuối cùng chính khách hàng lại là người tặng quà Tết cho anh ấy.
+[10:06:15] Nghe cũng cảm động đó, nhưng có vẻ hơi kịch tính quá không? Chị muốn cái gì đó nó "vui vẻ không quạu" hơn chút. Hay là mình làm theo kiểu nhạc chế? Năm nay mấy cái bài trend trên TikTok đang mạnh, mình chế lời rồi thuê mấy bạn KOLs nhảy theo thì sao?
+[10:07:30] Nhạc chế thì viral nhanh thật chị Vy ạ, nhưng mà để lại dấu ấn thương hiệu sâu sắc thì em hơi lo. Hay là mình kết hợp cả hai? Một cái clip ngắn hài hước rồi có đoạn "dance challenge" ở cuối?
+[10:08:45] My nói đúng đó. Mà Đức nè, em có nghĩ tới việc mời nghệ sĩ nào chưa? Ngân sách đợt này sếp cho cũng khá, mình có thể mời được một gương mặt hạng A đó.
+
+<|output|>
+# Ý tưởng kịch bản video viral chiến dịch Tết
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Brainstorm ý tưởng cho video viral chiến dịch Tết năm nay của thương hiệu bánh kẹo.
+- Xác định concept chủ đạo, thông điệp truyền tải và đối tượng nghệ sĩ tham gia.
+
+### 2. Các vấn đề đã thảo luận
+- Tránh các motif "về quê ăn Tết" cũ kỹ, hướng tới góc nhìn mới mẻ và tích cực.
+- Ý tưởng 1: Câu chuyện anh shipper giao hàng ngày 30 Tết (cảm động, nhân văn).
+- Ý tưởng 2: Nhạc chế kết hợp Dance Challenge trên TikTok (viral nhanh, trẻ trung).
+
+### 3. Kết luận và quyết định
+- Thống nhất chọn concept "Mang Tết về cho xóm" kết hợp âm nhạc bắt tai (dự kiến thuê Touliver làm beat).
+- Nghệ sĩ mục tiêu: Đen Vâu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện kịch bản chi tiết (Outline) | Đức - Creative | 14/06/2024 |
+| Liên hệ Production House và tìm bối cảnh | My - Account | 15/06/2024 |
+| Gửi thư mời hợp tác cho nghệ sĩ (KOLs) | My - Account | 16/06/2024 |

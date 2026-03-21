@@ -1,0 +1,50 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00] Chào anh chị, hôm nay mình ngồi lại với bên đơn vị tư vấn để bàn về cái dự án lắp đặt hệ thống điện mặt trời áp mái cho nhà máy mình nha.
+[14:02] Dạ chào sếp, chào anh Nam bên công ty giải pháp năng lượng ạ. Em đã nhận được bản khảo sát sơ bộ từ bên anh Nam rồi, hôm nay mình thảo luận kỹ hơn về mấy cái thông số kỹ thuật với phương án tài chính nha.
+[14:04] Ờ, chào mọi người. Vầy nè, sau khi khảo sát cái diện tích mái của hai phân xưởng A với B, bên tôi tính toán là mình có thể lắp được hệ thống công suất khoảng 1.2 MWp. Với công suất này thì mỗi năm mình tiết kiệm được đâu đó tầm 25-30% chi phí tiền điện đó anh.
+[14:06] 30% tiền điện mỗi tháng là con số lớn đó nha sếp. Hiện tại mỗi tháng nhà máy mình trả tiền điện trung bình tầm 800 triệu, nếu giảm được 200-240 triệu thì quá tốt luôn.
+[14:08] Ừ, con số thì nghe hấp dẫn đó. Nhưng mà anh Nam ơi, cái chi phí đầu tư cho hệ thống 1.2 MWp này là bao nhiêu? Và bao lâu thì mình thu hồi vốn được?
+[14:10] Dạ vầy nè sếp, tổng mức đầu tư cho hệ thống dùng tấm pin Tier 1 của Jinko Solar với Inverter của Huawei dự kiến là khoảng 15 tỷ đồng. Nếu tính theo giá điện sản xuất hiện tại và tỷ lệ tự dùng 100% của nhà máy mình thì tầm 4.5 đến 5 năm là mình thu hồi vốn xong. Sau đó là mình xài điện miễn phí trong ít nhất 20 năm nữa.
+[14:12] 15 tỷ... Ờ, con số đầu tư ban đầu cũng hơi nặng đó nha. Chỗ chị Lan bên kế hoạch thấy sao em? Mình có phương án vay vốn hay hợp tác kiểu gì không?
+[14:14] Dạ sếp, em đang cân nhắc hai phương án. Một là mình tự đầu tư 100% bằng vốn tự có và vay ngân hàng xanh với lãi suất ưu đãi. Hai là mình chơi theo kiểu mô hình PPA, tức là bên thứ ba họ bỏ vốn ra lắp, mình chỉ cam kết mua lại điện của họ với giá rẻ hơn giá EVN khoảng 15-20%.
+
+<|output|>
+# Thảo luận lắp đặt hệ thống điện mặt trời áp mái cho nhà máy sản xuất
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá khả năng triển khai dự án điện mặt trời áp mái tại nhà máy (phân xưởng A và B).
+
+### 2. Các vấn đề đã thảo luận
+- Quy mô dự án: Công suất dự kiến 1.2 MWp, tiết kiệm 25-30% chi phí tiền điện hàng tháng (khoảng 200-240 triệu đồng).
+- Chi phí đầu tư: Dự kiến 15 tỷ đồng, sử dụng pin Jinko Solar và Inverter Huawei. Thời gian hoàn vốn 4.5 - 5 năm.
+
+### 3. Kết luận và quyết định
+- Ưu tiên phương án nhà máy tự đầu tư 100% để tối ưu lợi ích lâu dài.
+- Thuê đơn vị kiểm định độc lập để đánh giá kết cấu mái xưởng trước khi triển khai.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập bảng so sánh tài chính (Tự đầu tư vs PPA) | Chị Lan (Phòng Kế hoạch) | 28/05/2024 |
+| Làm việc với ngân hàng về lãi suất vay vốn xanh | Chị Lan (Phòng Kế hoạch) | 30/05/2024 |

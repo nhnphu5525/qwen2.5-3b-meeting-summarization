@@ -1,0 +1,70 @@
+<|input|>
+# Kế hoạch chuẩn bị chiến dịch khuyến mãi Black Friday
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Rà soát các khâu chuẩn bị cuối cùng cho sự kiện Black Friday.
+- Đảm bảo hạ tầng kỹ thuật, nguồn hàng.
+- Tối ưu hóa hiệu quả doanh thu thông qua các hoạt động Marketing.
+
+### 2. Các vấn đề đã thảo luận
+- Hạ tầng IT: Nâng cấp máy chủ để tránh tình trạng sập web do truy cập đột biến.
+- Sản phẩm: Đã chốt 50 mã giảm giá sâu (đến 70%) và xác nhận tồn kho 100% chính xác.
+- Marketing: Triển khai Landing page preview và chạy quảng cáo đa kênh (TikTok, Facebook) với ngân sách 500 triệu đồng.
+- Voucher: Sử dụng cơ chế mã giảm giá giới hạn số lượng để kích cầu.
+
+### 3. Kết luận và quyết định
+- Phê duyệt toàn bộ kế hoạch hành động và ngân sách quảng cáo.
+- Yêu cầu các bộ phận phối hợp chặt chẽ, đặc biệt là khâu đồng bộ dữ liệu giữa kho và sàn.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cho chạy Landing page preview | Marketing | 12/01/2026 |
+| Giám sát tồn kho thực tế hàng giờ | Team Kho | Trong chiến dịch |
+[10:21] Dạ rồi ạ, em đã huy động toàn bộ nhân sự, chia làm 3 ca trực 24/7 để trả lời tin nhắn của khách.
+[10:22] Chú ý khâu đóng gói và giao hàng nữa nhé. Black Friday đơn về dồn dập, bên vận chuyển họ hay bị quá tải lắm.
+[10:24] Em đã ký hợp đồng với thêm 2 đơn vị vận chuyển dự phòng để đảm bảo hàng đi nhanh nhất có thể.
+[10:25] Rất tốt. À, còn cái vụ hoàn tiền (refund) nếu hàng lỗi thì quy trình thế nào cho nhanh nhất?
+[10:27] Dạ, em đã tối ưu quy trình trên app, khách chỉ cần chụp ảnh và gửi yêu cầu, mình sẽ xử lý trong vòng 24h ạ.
+[10:28] Tuyệt vời. Nếu làm đúng như kế hoạch này thì anh tin doanh thu năm nay sẽ phá kỷ lục.
+[10:30] Dạ, tụi em cũng đang hừng hực khí thế đây ạ.
+[10:31] Có vấn đề gì phát sinh là phải báo ngay cho anh, bất kể giờ giấc nhé.
+[10:33] Dạ vâng, em nhớ rồi.
+[10:34] Thôi mọi người tiếp tục đi, cần gì cứ đề xuất.
+[10:36] Cảm ơn sếp!
+[10:37] Quyết thắng nha anh em!
+[10:39] Dạ vâng!
+
+<|output|>
+# Kế hoạch chuẩn bị chiến dịch khuyến mãi Black Friday
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Rà soát các khâu chuẩn bị cuối cùng cho sự kiện Black Friday.
+- Đảm bảo hạ tầng kỹ thuật, nguồn hàng và dịch vụ chăm sóc khách hàng vận hành trơn tru.
+- Tối ưu hóa hiệu quả doanh thu thông qua các hoạt động Marketing và vận chuyển.
+
+### 2. Các vấn đề đã thảo luận
+- Hạ tầng IT: Nâng cấp máy chủ để tránh tình trạng sập web do truy cập đột biến.
+- Sản phẩm: Đã chốt 50 mã giảm giá sâu (đến 70%) và xác nhận tồn kho 100% chính xác.
+- Marketing: Triển khai Landing page preview và chạy quảng cáo đa kênh (TikTok, Facebook) với ngân sách 500 triệu đồng.
+- Voucher: Sử dụng cơ chế mã giảm giá giới hạn số lượng để kích cầu.
+- CSKH: Tổ chức trực 24/7 trong suốt thời gian diễn ra chiến dịch.
+- Vận chuyển: Ký kết bổ sung với 2 đơn vị vận chuyển dự phòng để giảm áp lực giao hàng.
+- Hậu mãi: Tối ưu quy trình hoàn tiền tự động trên ứng dụng trong vòng 24h.
+
+### 3. Kết luận và quyết định
+- Phê duyệt toàn bộ kế hoạch hành động và ngân sách quảng cáo.
+- Yêu cầu các bộ phận phối hợp chặt chẽ, đặc biệt là khâu đồng bộ dữ liệu giữa kho và sàn.
+- Thiết lập kênh báo cáo nóng 24/7 để xử lý sự cố ngay lập tức.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cho chạy Landing page preview | Marketing | 12/01/2026 |
+| Kiểm tra tải lần cuối hệ thống thanh toán | IT | 15/01/2026 |
+| Phân ca trực 24/7 cho team CSKH | Trưởng bộ phận CSKH | 18/01/2026 |
+| Chốt hợp đồng với đơn vị vận chuyển dự phòng | Bộ phận Ops | 14/01/2026 |
+| Giám sát tồn kho thực tế hàng giờ | Team Kho | Trong chiến dịch |
+| Xử lý yêu cầu hoàn tiền/đổi trả | Team CSKH | 24h kể từ khi nhận |

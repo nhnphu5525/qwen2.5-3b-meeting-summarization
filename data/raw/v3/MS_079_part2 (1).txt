@@ -1,0 +1,78 @@
+<|input|>
+# Chuẩn bị đón tiếp và đàm phán hợp tác chiến lược với đối tác Nhật Bản (Tập đoàn ABC)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lập kế hoạch đón tiếp phái đoàn cấp cao từ tập đoàn ABC Nhật Bản đến thăm và làm việc tại công ty.
+- Thống nhất chiến lược đàm phán và nội dung thuyết trình nhằm kêu gọi đầu tư vào dự án nhà máy số 3.
+
+### 2. Các vấn đề đã thảo luận
+- Chi tiết danh sách đoàn đối tác gồm 5 thành viên cấp cao và yêu cầu khắt khe về tính chuyên nghiệp, đúng giờ của người Nhật.
+- Công tác hậu cần: Đặt khách sạn Rex, xe đưa đón và lịch trình tham quan chi tiết.
+- Chiến lược thuyết trình: Tập trung vào năng suất, chất lượng sản phẩm và tuân thủ các tiêu chuẩn ESG để thu hút sự quan tâm của đối tác.
+- Chuẩn bị cơ sở hạ tầng nhà máy: Đảm bảo tiêu chuẩn 5S tuyệt đối tại các khu vực sản xuất khi đối tác xuống tham quan thực địa.
+
+### 3. Kết luận và quyết định
+- Phê duyệt kế hoạch đón tiếp tổng thể.
+- Giao bộ phận Sản xuất thực hiện tổng vệ sinh và nâng cấp nhà máy theo tiêu chuẩn 5S.
+- Giao phòng Marketing hoàn thiện bộ tài liệu thuyết trình.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại các đặt chỗ khách sạn và xe đưa đón | Phòng Hành chính | 20/10/2023 |
+| Hoàn thiện bài thuyết trình về năng lực và dự án mới | Team Marketing | 22/10/2023 |
+| Tổng vệ sinh và chỉnh trang khu vực xưởng sản xuất | Anh Hùng (Sản xuất) | 25/10/2023 |
+[10:05] Dạ sếp yên tâm, em đã lên lịch tổng vệ sinh và sơn lại một số khu vực bị cũ rồi ạ. 
+[10:10] Về vấn đề quà tặng và tiệc chiêu đãi thì sao? Có cần lưu ý gì đặc biệt không? 
+[10:15] Dạ, em tìm hiểu thì sếp đoàn họ không thích các loại hải sản tươi sống, nên mình đặt tiệc theo hướng ẩm thực Việt Nam tinh tế nhưng dễ ăn thôi ạ. 
+[10:20] Quà tặng thì mình nên chọn các sản phẩm thủ công mỹ nghệ cao cấp mang đậm nét văn hóa Việt như tranh sơn mài hay lụa tơ tằm. 
+[10:25] Thì quà tặng không cần quá đắt tiền nhưng phải trang trọng và có ý nghĩa. 
+[10:30] Ờ... còn cái việc ký kết biên bản ghi nhớ (MOU) thì sao? Pháp lý đã rà soát lại dự thảo chưa? 
+[10:35] Dạ, bên em đã xem kỹ các điều khoản về bảo mật thông tin và quyền ưu tiên hợp tác rồi ạ. 
+[10:40] Tuy nhiên mình cũng cần linh hoạt một chút trong việc đàm phán tỷ lệ góp vốn trong giai đoạn đầu. 
+[10:45] Ok, vậy mọi người tập trung hoàn thiện bài thuyết trình bằng tiếng Nhật và tiếng Anh thật chỉn chu nhé. 
+[10:50] Mình cần một bạn phiên dịch chuyên nghiệp thực thụ, chứ mấy bạn trong công ty nói tiếng Nhật bồi là không ổn đâu. 
+[10:55] Dạ, em đã liên hệ với trung tâm dịch thuật chuyên nghiệp để thuê một bạn giỏi nhất về kỹ thuật và đầu tư rồi ạ. 
+[11:00] Tốt, mọi việc phải thật hoàn hảo. Đây là bước ngoặt lớn của công ty mình đấy. 
+[11:05] Vâng sếp, tụi em sẽ cố gắng hết sức để thương vụ này thành công tốt đẹp ạ. 
+
+<|output|>
+# Chuẩn bị đón tiếp và đàm phán hợp tác chiến lược với đối tác Nhật Bản (Tập đoàn ABC)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lập kế hoạch đón tiếp phái đoàn cấp cao từ tập đoàn ABC Nhật Bản đến thăm và làm việc tại công ty.
+- Thống nhất chiến lược đàm phán và nội dung thuyết trình nhằm kêu gọi đầu tư vào dự án nhà máy số 3.
+- Rà soát các công tác chuẩn bị về hậu cần, lễ tân, quà tặng và pháp lý cho buổi ký kết MOU.
+
+### 2. Các vấn đề đã thảo luận
+- Chi tiết danh sách đoàn đối tác gồm 5 thành viên cấp cao và yêu cầu khắt khe về tính chuyên nghiệp, đúng giờ của người Nhật.
+- Công tác hậu cần: Đặt khách sạn Rex, xe đưa đón và lịch trình tham quan chi tiết.
+- Chiến lược thuyết trình: Tập trung vào năng suất, chất lượng sản phẩm và tuân thủ các tiêu chuẩn ESG để thu hút sự quan tâm của đối tác.
+- Chuẩn bị cơ sở hạ tầng nhà máy: Đảm bảo tiêu chuẩn 5S tuyệt đối tại các khu vực sản xuất khi đối tác xuống tham quan thực địa.
+- Lễ tân và quà tặng: Lựa chọn ẩm thực Việt Nam tinh tế và quà tặng thủ công mỹ nghệ mang đậm bản sắc văn hóa dân tộc.
+- Thuê phiên dịch viên chuyên nghiệp về mảng đầu tư - kỹ thuật để đảm bảo tính chính xác trong đàm phán.
+- Rà soát dự thảo biên bản ghi nhớ (MOU) với các điều khoản bảo mật và tỷ lệ góp vốn linh hoạt.
+
+### 3. Kết luận và quyết định
+- Phê duyệt kế hoạch đón tiếp tổng thể và ngân sách dự kiến cho sự kiện.
+- Giao bộ phận Sản xuất thực hiện tổng vệ sinh và nâng cấp nhà máy theo tiêu chuẩn 5S.
+- Giao phòng Marketing hoàn thiện bộ tài liệu thuyết trình song ngữ (Nhật - Anh).
+- Ưu tiên các quà tặng văn hóa như tranh sơn mài hoặc lụa tơ tằm cao cấp.
+- Chốt nhân sự chủ chốt tham gia buổi đàm phán trực tiếp cùng Ban Giám đốc.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại các đặt chỗ khách sạn và xe đưa đón | Phòng Hành chính | 20/10/2023 |
+| Hoàn thiện bài thuyết trình về năng lực và dự án mới | Team Marketing | 22/10/2023 |
+| Tổng vệ sinh và chỉnh trang khu vực xưởng sản xuất | Anh Hùng (Sản xuất) | 25/10/2023 |
+| Mua sắm quà tặng đối ngoại theo yêu cầu | Bộ phận Lễ tân | 24/10/2023 |
+| Rà soát và hoàn thiện bản dự thảo MOU cuối cùng | Phòng Pháp lý | 23/10/2023 |
+| Thuê và làm việc trước với phiên dịch viên cao cấp | Phòng Đối ngoại | 21/10/2023 |
+| Kiểm tra thực đơn tiệc chiêu đãi tại nhà hàng | Phòng Hành chính | 26/10/2023 |

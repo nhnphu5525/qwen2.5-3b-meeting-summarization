@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:30] Chào anh chị em, hôm nay mình họp gấp ở ngay tại xưởng để xử lý dứt điểm cái vụ "nút thắt cổ chai" ở khâu đóng gói nha. Mấy ngày nay hàng ra tới đây là kẹt cứng, không kịp đóng thùng để đi giao cho khách luôn.
+[08:32] Dạ sếp, em cũng đang đau đầu vụ này đây. Cái máy đóng màng co tự động số 2 nó cứ hay bị kẹt màng, trung bình một ca 8 tiếng thì nó dừng hết 1 tiếng để sửa rồi.
+[08:34] Ờ, sao lỗi này lặp lại hoài vậy Hùng? Đội bảo trì bên em đã kiểm tra kỹ chưa? Do máy cũ quá hay do chất lượng màng co mình mới nhập về có vấn đề?
+[08:36] Dạ vầy nè sếp, em có cho anh em kiểm tra rồi. Máy thì vẫn ổn, nhưng cái màng co đợt này bên nhà cung cấp mới họ làm hơi mỏng hơn 2 micron so với chuẩn cũ. Thành ra lúc máy chạy tốc độ cao là nó bị dãn rồi rối nùi trong trục cuốn luôn.
+[08:38] Trời ơi, sao lại đổi nhà cung cấp mà không test kỹ trước vậy chị Lan? Tiết kiệm được mấy đồng tiền màng mà giờ nó làm đình trệ cả dây chuyền vầy nè.
+[08:40] Dạ sếp, bên thu mua họ báo là nhà cung cấp cũ họ tăng giá 15% nên mình mới thử qua bên này. Em cũng không ngờ cái sai số nhỏ vậy mà nó ảnh hưởng dữ thần vầy.
+[08:42] Thôi, giờ không đổ lỗi nữa. Hùng ơi, nếu giờ mình đổi lại màng cũ thì máy có chạy bình thường được không?
+[08:44] Dạ được sếp, nhưng mà cái màng cũ hiện tại trong kho mình chỉ còn đủ dùng cho hết ngày hôm nay thôi. Phải đặt hàng gấp thì ít nhất 3 ngày nữa họ mới giao tới.
+[08:46] 3 ngày nữa thì muộn quá. Trong 3 ngày đó hàng mình chất đống ra đây à? Vầy nè, Hùng xem có phương án nào đóng gói thủ công tạm thời cho mấy đơn hàng gấp không?
+
+<|output|>
+# Giải quyết nút thắt cổ chai trong dây chuyền đóng gói
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xử lý tình trạng ùn ứ hàng hóa tại khâu đóng gói do lỗi kỹ thuật và quy trình vận hành.
+
+### 2. Các vấn đề đã thảo luận
+- Máy đóng màng co tự động số 2 thường xuyên bị kẹt màng (dừng 1 tiếng mỗi ca).
+- Nguyên nhân do màng co mới nhập mỏng hơn 2 micron, không tương thích với thông số máy hiện tại.
+
+### 3. Kết luận và quyết định
+- Ngừng sử dụng loại màng co mỏng không đạt chuẩn, liên hệ nhà cung cấp cũ để giao hàng loại chuẩn ngay lập tức (chịu phí vận chuyển nhanh).
+- Trả hàng và xem xét phạt vi phạm chất lượng đối với nhà cung cấp màng co không đạt yêu cầu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ nhà cung cấp cũ đặt màng co chuẩn | Chị Lan (Phòng Thu mua) | 22/05/2024 |
+| Điều động nhân sự hỗ trợ và sắp xếp tăng ca | Chị Lan (Phòng Nhân sự) | 22/05/2024 |

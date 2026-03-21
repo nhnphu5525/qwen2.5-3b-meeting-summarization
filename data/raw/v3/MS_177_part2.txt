@@ -1,0 +1,70 @@
+<|input|>
+# Nâng cấp hệ thống đánh giá hiệu suất 360 độ
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chuyển đổi phương thức đánh giá nhân sự từ truyền thống sang hệ thống 360 độ trên nền tảng số.
+- Đảm bảo tính khách quan, đa chiều và công bằng trong việc đánh giá hiệu suất làm việc.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên tắc đánh giá: Áp dụng cơ chế ẩn danh (Anonymous) để khuyến khích sự trung thực, nhưng cần kiểm soát để tránh tình trạng công kích cá nhân.
+- Xây dựng bộ tiêu chí: Chia nhỏ thành các nhóm năng lực (chuyên môn, thái độ, lãnh đạo) với thang điểm và ví dụ cụ thể.
+- Lựa chọn phần mềm: Ưu tiên đối tác trong nước để thuận tiện trong việc tùy chỉnh giao diện tiếng Việt và tối ưu chi phí.
+
+### 3. Kết luận và quyết định
+- Chọn phòng Kinh doanh làm đơn vị thí điểm (pilot) cho hệ thống mới trong vòng 2 tuần.
+- Liên hệ đối tác phần mềm HRM trong nước để cung cấp bản dùng thử và báo giá chi tiết.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ đối tác phần mềm lấy account demo | Em Lan - HR | 16/12/2024 |
+| Hoàn thiện bộ tiêu chí và thang điểm đánh giá | Chị Thảo - Trưởng phòng | 20/12/2024 |
+| Lên kịch bản và chuẩn bị tài liệu Workshop | Em Hùng - HR | 22/12/2024 |
+
+[14:04:00] Em mới tìm được một đối tác trong nước, họ có cái nền tảng HRM tích hợp sẵn module 360 này luôn, mà quan trọng là họ cho phép mình tùy chỉnh (customize) theo văn hóa công ty mình. Giá cũng mềm hơn tụi nước ngoài nhiều.
+[14:04:30] Vậy em liên hệ họ cho mình dùng thử (trial) khoảng 2 tuần đi. Chọn ra một phòng ban làm thí điểm trước, ví dụ phòng Kinh doanh đi, bên đó họ máu lửa, chắc sẽ phản hồi nhanh cho mình.
+[14:05:00] Dạ để em báo bên họ setup tài khoản demo cho mình. À chị ơi, còn cái vụ trọng số điểm thì tính sao chị? Sếp đánh giá chiếm bao nhiêu %, đồng nghiệp bao nhiêu %?
+[14:05:30] Chị tính vầy: Sếp trực tiếp 50%, đồng nghiệp 30%, còn lại 20% là nhân viên cấp dưới và tự đánh giá. Như vậy là hài hòa nhất, vẫn giữ được quyền quyết định chính cho quản lý nhưng vẫn nghe được tiếng nói đa chiều.
+[14:06:00] Em thấy 20% cho cấp dưới hơi ít á. Tại nhiều ông sếp trước mặt lãnh đạo thì hiền lành mà xuống dưới hành hạ nhân viên dữ lắm. Nên tăng lên 30% cho cấp dưới đi chị.
+[14:06:30] Thôi, mới làm lần đầu mà ép mấy sếp quá mấy ổng phản ứng đó. Cứ để 20% đi, năm sau ổn ổn rồi mình điều chỉnh tiếp. Làm nhân sự là phải khéo léo tí em ơi.
+[14:07:00] Dạ chị nói cũng đúng. Vậy để em hoàn thiện cái bộ tiêu chí đánh giá rồi gửi chị duyệt nha.
+[14:07:30] Ok. Với lại nhớ chuẩn bị một buổi workshop để hướng dẫn mọi người cách đánh giá sao cho đúng, cho văn minh nha. Chứ không là nó biến thành cái "chợ" nói xấu nhau thì khổ.
+[14:08:00] Dạ vâng, em sẽ lên kịch bản buổi workshop luôn.
+[14:08:30] Rồi, cố gắng hoàn thành trong tháng này để tháng sau mình bắt đầu triển khai thí điểm nha cả nhà.
+[14:09:00] Dạ, tụi em sẽ cố gắng ạ!
+
+<|output|>
+# Nâng cấp hệ thống đánh giá hiệu suất 360 độ
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chuyển đổi phương thức đánh giá nhân sự từ truyền thống sang hệ thống 360 độ trên nền tảng số.
+- Đảm bảo tính khách quan, đa chiều và công bằng trong việc đánh giá hiệu suất làm việc.
+- Lựa chọn giải pháp phần mềm và xây dựng quy trình triển khai thí điểm.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên tắc đánh giá: Áp dụng cơ chế ẩn danh (Anonymous) để khuyến khích sự trung thực, nhưng cần kiểm soát để tránh tình trạng công kích cá nhân.
+- Xây dựng bộ tiêu chí: Chia nhỏ thành các nhóm năng lực (chuyên môn, thái độ, lãnh đạo) với thang điểm và ví dụ cụ thể.
+- Lựa chọn phần mềm: Ưu tiên đối tác trong nước để thuận tiện trong việc tùy chỉnh giao diện tiếng Việt và tối ưu chi phí.
+- Trọng số điểm: Thống nhất tỷ lệ Sếp trực tiếp (50%) - Đồng nghiệp (30%) - Cấp dưới/Tự đánh giá (20%).
+- Công tác truyền thông: Tổ chức workshop hướng dẫn nhân viên cách đánh giá văn minh và khách quan.
+
+### 3. Kết luận và quyết định
+- Chọn phòng Kinh doanh làm đơn vị thí điểm (pilot) cho hệ thống mới trong vòng 2 tuần.
+- Liên hệ đối tác phần mềm HRM trong nước để cung cấp bản dùng thử và báo giá chi tiết.
+- Giao bộ phận HR xây dựng bộ câu hỏi chuẩn hóa và kịch bản buổi workshop hướng dẫn.
+- Giữ nguyên tỷ lệ trọng số điểm như đã thảo luận để đảm bảo sự ổn định trong giai đoạn đầu triển khai.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ đối tác phần mềm lấy account demo | Em Lan - HR | 16/12/2024 |
+| Hoàn thiện bộ tiêu chí và thang điểm đánh giá | Chị Thảo - Trưởng phòng | 20/12/2024 |
+| Lên kịch bản và chuẩn bị tài liệu Workshop | Em Hùng - HR | 22/12/2024 |
+| Triển khai đánh giá thí điểm tại phòng Kinh doanh | Team HR | 25/12/2024 |
+| Tổng hợp phản hồi và hiệu chỉnh hệ thống | Chị Thảo | 05/01/2025 |

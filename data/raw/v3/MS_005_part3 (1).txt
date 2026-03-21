@@ -1,0 +1,74 @@
+<|input|>
+# Kế hoạch chiến dịch Marketing "Hè Rực Rỡ" cho đợt khuyến mãi tháng 6
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất thời điểm triển khai chiến dịch khuyến mãi lớn nhất quý 3.
+- Xây dựng thông điệp chiến dịch và các hoạt động thúc đẩy doanh số.
+- Phân bổ ngân sách Marketing và lựa chọn kênh truyền thông chủ lực.
+
+### 2. Các vấn đề đã thảo luận
+- Thời gian triển khai: Quyết định dời từ đầu tháng sang giữa tháng 6 (từ 15/06) để đón đầu làn sóng nghỉ hè của học sinh, sinh viên.
+- Thông điệp chiến dịch: "Du lịch xanh - Bảo vệ môi trường" với hoạt động đổi vỏ mỹ phẩm cũ lấy voucher giảm giá 15% và tặng túi tote cho hóa đơn trên 1 triệu.
+- Kênh truyền thông: Chuyển trọng tâm từ Facebook sang TikTok, hợp tác với 5-10 KOC để review sản phẩm và gắn giỏ hàng trực tiếp.
+- Ngân sách: Tổng mức 500 triệu đồng (Booking KOC: 200tr, Ads: 150tr, Sản xuất nội dung: 100tr, Quà tặng: 50tr).
+
+### 3. Kết luận và quyết định
+- Phê duyệt thông điệp và thời gian khởi động chiến dịch vào ngày 15/06.
+- Đồng ý thuê production house bên ngoài để đảm bảo chất lượng video viral nhưng cần so sánh báo giá.
+- Áp dụng bộ quy tắc hướng dẫn nội dung chặt chẽ cho tất cả KOC tham gia dự án.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tìm và so sánh báo giá Production House | Lan (Marketing) | 22/03 |
+| Lên danh sách 10 KOC phù hợp với tệp khách hàng | Team Marketing | 25/03 |
+| Thiết kế túi tote và in ấn voucher | Team Design | 30/03 |
+| Soạn thảo Brand Guideline cho KOC | Lan (Marketing) | 28/03 |
+[09:38] Còn về phía vận hành, kho bãi và logistics đã sẵn sàng cho lượng đơn hàng dự kiến tăng gấp 3 chưa?
+[09:40] Em đã làm việc với bên kho, họ cam kết sẽ tăng cường nhân sự đóng gói làm ca đêm nếu cần thiết. Bên vận chuyển cũng đã ký cam kết đảm bảo thời gian giao hàng trong nội thành không quá 24h.
+[09:42] Rất tốt. Còn một điểm nữa, chương trình "Flash Sale" hàng đêm vào lúc 20h. Mình cần chuẩn bị hạ tầng server web thật tốt, tránh tình trạng bị sập như đợt Tết.
+[09:44] IT báo là đã nâng cấp băng thông và bổ sung thêm server dự phòng rồi anh, đợt này chắc chắn sẽ mượt mà hơn.
+[09:46] OK, vậy chốt lại timeline: Tuần sau hoàn thiện kịch bản nội dung, tuần kế tiếp bắt đầu booking KOC, và chính thức "on-air" vào ngày 15/06.
+[09:48] Mọi người có ý kiến gì khác không?
+[09:50] Dạ không, chúng em sẽ bắt tay vào làm ngay.
+[09:52] Cố gắng nhé, chiến dịch này rất quan trọng để bù đắp cho quý 2 hơi trầm lắng vừa rồi.
+[09:54] Buổi họp hôm nay thế là đủ rồi, mọi người nghỉ thôi.
+
+<|output|>
+# Kế hoạch chiến dịch Marketing "Hè Rực Rỡ" cho đợt khuyến mãi tháng 6
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất thời điểm triển khai chiến dịch khuyến mãi lớn nhất quý 3.
+- Xây dựng thông điệp chiến dịch và các hoạt động thúc đẩy doanh số.
+- Phân bổ ngân sách Marketing và lựa chọn kênh truyền thông chủ lực.
+- Kiểm tra công tác chuẩn bị của các bộ phận vận hành và IT.
+
+### 2. Các vấn đề đã thảo luận
+- Thời gian triển khai: Quyết định dời từ đầu tháng sang giữa tháng 6 (từ 15/06) để đón đầu làn sóng nghỉ hè của học sinh, sinh viên.
+- Thông điệp chiến dịch: "Du lịch xanh - Bảo vệ môi trường" với hoạt động đổi vỏ mỹ phẩm cũ lấy voucher giảm giá 15% và tặng túi tote cho hóa đơn trên 1 triệu.
+- Kênh truyền thông: Chuyển trọng tâm từ Facebook sang TikTok, hợp tác với 5-10 KOC để review sản phẩm và gắn giỏ hàng trực tiếp.
+- Ngân sách: Tổng mức 500 triệu đồng (Booking KOC: 200tr, Ads: 150tr, Sản xuất nội dung: 100tr, Quà tặng: 50tr).
+- Vận hành: Kho bãi sẵn sàng làm thêm ca đêm, đơn vị vận chuyển cam kết giao nhanh nội thành dưới 24h.
+- Hạ tầng IT: Nâng cấp server để phục vụ khung giờ Flash Sale 20h hàng ngày.
+
+### 3. Kết luận và quyết định
+- Phê duyệt thông điệp và thời gian khởi động chiến dịch vào ngày 15/06.
+- Đồng ý thuê production house bên ngoài để đảm bảo chất lượng video viral nhưng cần so sánh báo giá.
+- Áp dụng bộ quy tắc hướng dẫn nội dung chặt chẽ cho tất cả KOC tham gia dự án.
+- Ưu tiên tối ưu hóa trải nghiệm khách hàng trên thiết bị di động cho các hoạt động livestream và flash sale.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tìm và so sánh báo giá Production House | Lan (Marketing) | 22/03 |
+| Lên danh sách 10 KOC phù hợp với tệp khách hàng | Team Marketing | 25/03 |
+| Thiết kế túi tote và in ấn voucher | Team Design | 30/03 |
+| Kiểm tra lại hạ tầng server và băng thông | Team IT | 10/06 |
+| Soạn thảo Brand Guideline cho KOC | Lan (Marketing) | 28/03 |
+| Làm việc chi tiết với bên vận chuyển về phí ship | Team Vận hành | 05/06 |

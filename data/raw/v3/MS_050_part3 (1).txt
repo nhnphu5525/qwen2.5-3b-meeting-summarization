@@ -1,0 +1,58 @@
+<|input|>
+# Nghiên cứu và phát triển dòng sữa hạt dinh dưỡng thế hệ mới "Green Nutri 2025"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt công thức phối trộn (Formula) cho dòng sản phẩm sữa hạt thế hệ mới, giải quyết các thách thức kỹ thuật tiệt trùng UHT và đồng hóa.
+- Thống nhất các cải tiến về mùi vị và bổ sung dưỡng chất theo kết quả thử nghiệm người dùng (Sensory Test).
+
+### 2. Các vấn đề đã thảo luận
+- **Kỹ thuật sản xuất:** 
+    - Giải quyết hiện tượng "Burn-on" khi tiệt trùng UHT bằng hệ ổn định tự nhiên (Carrageenan, Pectin) và đồng hóa áp suất mức 250 bar để tránh tách lớp/béo.
+- **Công thức & Dinh dưỡng:** 
+    - Đề xuất bổ sung tinh chất gạo lứt vào dòng hạt sen yến mạch để trung hòa độ ngấy sau thử nghiệm Test với 500 khách hàng.
+    - Bổ sung Canxi hữu cơ từ tảo biển, Vitamin D3, K2 cho đối tượng mẹ và bé. Sử dụng hương vani tự nhiên át đi vị tanh nhẹ của tảo biển. Thành phần "Clean Label".
+
+### 3. Kết luận và quyết định
+- Duyệt hệ ổn định đạt chuẩn "Clean Label".
+- Thử nghiệm lại mẫu dòng hạt sen yến mạch với phụ gia gạo lứt và xử lý hương vị tanh của canxi tảo biển. 
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[10:05] Vâng sếp, bao bì em định dùng dạng hộp giấy SIG Combibloc của Đức, loại có nắp vặn tiện dụng. Màu sắc sẽ theo tông xanh lá pastel và màu nâu gỗ của hạt để tạo cảm giác organic. Đặc biệt, trên mỗi hộp sẽ có một mã QR Code để khách hàng truy xuất nguồn gốc (Traceability) từ vùng nguyên liệu hạnh nhân ở California hay Macca ở Đắk Lắk.
+[10:10] QR Code truy xuất nguồn gốc là một điểm cộng lớn cho sự minh bạch. À, nhắc đến nguyên liệu, phòng Thu mua đã chốt được nhà cung cấp hạt chưa? Anh lo nhất là dư lượng thuốc bảo vệ thực vật và nấm mốc (Aflatoxin) trong hạt khô.
+[10:15] Dạ, tụi em đã sang tận các farm ở Đắk Lắk để kiểm tra quy trình thu hoạch và sấy. Riêng hạnh nhân và óc chó nhập khẩu, tụi em chỉ làm việc với các đối tác có chứng chỉ Global GAP và chứng thư kiểm dịch thực vật của Mỹ. Mỗi lô hàng về đều được Lab của mình lấy mẫu kiểm tra 100% các chỉ tiêu vi sinh và kim loại nặng trước khi nhập kho.
+[10:20] Quy trình như vậy là ổn. Quay lại khâu sản xuất quy mô lớn (Mass production). Nếu mình chạy công suất 10.000 hộp/giờ thì hệ thống chiết rót vô trùng (Aseptic filling) của mình có đáp ứng được không?
+[10:25] Dạ, hệ thống của mình là đời mới nhất của Tetra Pak. Tuy nhiên, em lo là khâu vệ sinh đường ống (CIP - Cleaning in Place). Do sữa hạt có nhiều chất béo và protein thực vật, nó bám dính rất dai dẳng. Nếu mình không CIP kỹ bằng hóa chất chuyên dụng và nước nóng 90 độ C sau mỗi ca sản xuất, nguy cơ nhiễm khuẩn chéo là rất cao.
+[10:30] CIP là khâu sống còn của nhà máy thực phẩm. Anh yêu cầu QA phải giám sát chặt chẽ chỉ số độ dẫn điện (Conductivity) của nước rửa cuối cùng để đảm bảo không còn dư lượng hóa chất tẩy rửa trong đường ống. Tuyệt đối không được vì áp lực tiến độ mà làm ẩu khâu này.
+[10:35] Vâng thưa anh, tụi em đã lập quy trình vận hành tiêu chuẩn (SOP) cho CIP rồi ạ. Mỗi ca trực đều phải ký xác nhận và lưu mẫu đối chứng cho từng lô hàng trong suốt thời hạn sử dụng 9 tháng.
+
+<|output|>
+# Nghiên cứu và phát triển dòng sữa hạt dinh dưỡng thế hệ mới "Green Nutri 2025"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt phương pháp kiểm soát nguyên liệu đóng vương nhãn mác.
+- Thống nhất quy trình kiểm soát chất lượng (QA/QC) nghiêm ngặt từ khâu nguyên liệu đầu vào đến vệ sinh đường ống đóng hộp.
+
+### 2. Các vấn đề đã thảo luận
+- **Marketing & Bao bì:** Sử dụng hộp giấy SIG Combibloc có nắp vặn màu organic, tích hợp QR Code truy xuất nguồn gốc.
+- **Kiểm soát nguyên liệu:** Sàng lọc kỹ vùng nguyên liệu ở Đắk Lắk và nhập khẩu Mỹ chuẩn Global GAP, kiểm soát dư lượng bảo vệ thực vật, hóa chất kim loại nặng và nấm mốc 100%. 
+- **Kỹ thuật sản xuất & QA/QC:**
+    - Khả năng duy trì Aseptic filling cho 10.000 hộp/giờ với máy Tetra Pak.
+    - CIP (Cleaning in Place) với mức chỉ số nước rửa cuối để tránh tồn dư hóa chất làm mất hương vì và lây nhiễm khuẩn. Các ca sản xuất đều áp dụng đúng luật (SOP).
+
+### 3. Kết luận và quyết định
+- Phê duyệt hình thức thiết kế bao bì cho sản phẩm.
+- Thực hiện nghiêm ngặt quy trình làm sạch CIP.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||

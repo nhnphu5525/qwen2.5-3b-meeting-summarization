@@ -1,0 +1,56 @@
+<|input|>
+# Kế hoạch Xuất khẩu Sầu riêng sang Thị trường Trung Quốc - Vụ mùa 2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát công tác chuẩn bị cho chiến dịch xuất khẩu sầu riêng chính ngạch sang Trung Quốc.
+
+### 2. Các vấn đề đã thảo luận
+- **Mã số vùng trồng:** Đã được phê duyệt thêm 20 ha, nâng tổng diện tích đạt chuẩn lên 50 ha. Cần duy trì nhật ký vườn nghiêm ngặt để sẵn sàng kiểm tra đột xuất.
+- **Kiểm soát chất lượng:** 
+
+### 3. Kết luận và quyết định
+- Bắt đầu chiến dịch thu hoạch và xuất khẩu lứa đầu tiên vào tuần tới.
+- Giao chị Hồng chịu trách nhiệm thu mua và điều phối nhân sự tại vườn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký hợp đồng thuê 10 xe container lạnh/tuần | Tuấn | 10/10/2024 |
+| Hoàn thiện hồ sơ vay vốn ngắn hạn ngân hàng | Chị Hồng | 12/10/2024 |
+[08:16:15] Ờ, mấy trái quá khổ đó thì mình lọc ra bán nội địa hoặc cấp đông thôi chị Hồng. Đừng có cố nhét vào thùng xuất khẩu, họ kiểm tra thấy không đồng đều là họ ép giá mình ngay. Tuấn nè, cái vụ container lạnh mình đã đặt trước chưa? Đợt này nghe nói xe nằm chờ ở cửa khẩu Hữu Nghị đông lắm, nếu không có xe lạnh chuẩn là hàng hỏng hết.
+[08:19:30] Dạ em đã làm việc với bên logistics rồi. Họ cam kết cung cấp cho mình 10 xe lạnh loại 40 feet mỗi tuần. Nhưng mà giá cước đợt này tăng cao quá anh ơi, tăng gần 20% so với tháng trước luôn. Họ giải thích là do phí cầu đường với lại phí kiểm soát dịch bệnh bên phía bạn tăng.
+[08:22:45] Giá cước tăng thì mình phải chịu thôi chứ biết sao giờ, miễn là hàng đi trót lọt. Chị Hồng nè, chị phải giám sát chặt cái khâu dán tem truy xuất nguồn gốc nha. Tem phải dán đúng vị trí, rõ nét, không được bong tróc. Đợt trước có cái HTX bên tỉnh bên bị trả hàng về chỉ vì tem dán lộn xộn đó.
+[08:26:00] Dạ em biết rồi. Mà anh Bảy ơi, em nghe nói sắp tới họ còn yêu cầu mình phải có hình ảnh hoặc video chứng minh quá trình thu hoạch và đóng gói nữa đó. Mình có nên thuê người về quay phim lại không anh?
+[08:29:15] Cái đó là cái mới đó chị Hồng. Theo tôi thì mình không cần thuê chuyên nghiệp đâu, Tuấn dùng điện thoại quay lại mấy cái công đoạn chính là được rồi. Từ lúc cắt trái trên cây, rồi vận chuyển về kho, lúc rửa trái, đóng thùng, rồi lúc niêm phong container. Cứ làm cẩn thận để nếu họ có truy vấn gì thì mình có bằng chứng đối chiếu.
+[08:32:30] Ờ, ý đó hay đó anh Bảy. Sẵn tiện mình dùng mấy cái clip đó quảng bá thương hiệu sầu riêng của HTX mình luôn. Tuấn ơi, em lo vụ hồ sơ kiểm dịch với lại CO (chứng nhận xuất xứ) cho nó mượt nha. Đừng để tới lúc xe ra tới biên giới rồi mới thiếu cái này thiếu cái kia là mệt lắm.
+
+<|output|>
+# Kế hoạch Xuất khẩu Sầu riêng sang Thị trường Trung Quốc - Vụ mùa 2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát công tác chuẩn bị cho chiến dịch xuất khẩu sầu riêng chính ngạch sang Trung Quốc.
+- Thống nhất quy trình kiểm soát chất lượng tại vùng trồng và cơ sở đóng gói theo tiêu chuẩn mới của phía bạn.
+
+### 2. Các vấn đề đã thảo luận
+- **Mã số vùng trồng:** Đã được phê duyệt thêm 20 ha, nâng tổng diện tích đạt chuẩn lên 50 ha. Cần duy trì nhật ký vườn nghiêm ngặt để sẵn sàng kiểm tra đột xuất.
+- **Kiểm soát chất lượng:** 
+- **Đóng gói và Bao bì:** Sử dụng thùng carton 5 lớp chịu lực cao, có lỗ thông hơi và tích hợp mã QR truy xuất nguồn gốc. Quay phim/chụp ảnh toàn bộ quá trình đóng gói làm bằng chứng đối chiếu.
+
+### 3. Kết luận và quyết định
+- Bắt đầu chiến dịch thu hoạch và xuất khẩu lứa đầu tiên vào tuần tới.
+- Giao chị Hồng chịu trách nhiệm thu mua và điều phối nhân sự tại vườn.
+- Giao anh Bảy giám sát trực tiếp tại kho đóng gói và quy trình rửa trái áp lực cao.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Ký hợp đồng thuê 10 xe container lạnh/tuần | Tuấn | 10/10/2024 |
+| Hoàn thiện hồ sơ vay vốn ngắn hạn ngân hàng | Chị Hồng | 12/10/2024 |
+| Kiểm tra cuối cùng mã QR và tem truy xuất trên bao bì | Tuấn | 14/10/2024 |
+| Tập huấn lại quy trình rửa trái cho nhân công kho | Anh Bảy | 15/10/2024 |

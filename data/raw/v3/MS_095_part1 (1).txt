@@ -1,0 +1,60 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào team, sáng nay mình kickoff dự án Mobile App mới cho khách hàng bên mảng bất động sản nhé.
+[09:02] Dạ, em đã xem qua cái bản yêu cầu nghiệp vụ (BRD) của họ rồi, nhìn chung là khá nhiều tính năng đấy.
+[09:03] Họ muốn có cả tích hợp bản đồ này, rồi xem nhà 3D, với lại nhắn tin trực tiếp với môi giới luôn đúng không anh?
+[09:05] Đúng rồi, cái tính năng xem nhà 3D (VR Tour) là quan trọng nhất, họ muốn tạo sự khác biệt với đối thủ mà.
+[09:06] Nhưng mà... em lo cái vụ hiệu năng app khi chạy VR ấy, nếu không tối ưu kỹ là máy yếu chạy lag lắm.
+[09:08] Ờ... mình nên dùng Flutter hay React Native cho dự án này nhỉ? Mọi người thấy cái nào ổn hơn?
+[09:09] Theo em thì Flutter có vẻ mượt hơn cho mấy cái chuyển cảnh phức tạp, nhưng mà team mình lại đang mạnh React Native hơn.
+[15:11] Hay là mình cứ làm một cái bản demo nhỏ (PoC) trước để test cái tính năng VR kia đi, xem nó hoạt động thế nào đã.
+[09:12] Ý kiến hay đó, chứ cứ đâm đầu vào làm luôn xong lúc sau sửa lại thì mệt lắm.
+[09:14] Về phần backend, họ yêu cầu lưu trữ dữ liệu lớn và phản hồi nhanh, mình có nên dùng Firebase hay là tự build một cái Node.js?
+[09:16] Em nghĩ là nên tự build Node.js đi cho nó chủ động, sau này khách hàng có muốn mở rộng tính năng cũng dễ hơn.
+[09:18] Okay, còn cái vụ bảo mật thì sao? App bất động sản liên quan đến tiền nong cọc cạch này kia nên phải cực kỳ cẩn thận nhé.
+[09:20] Dạ vâng, em sẽ thiết lập mấy cái lớp mã hóa dữ liệu với lại xác thực hai yếu tố (2FA) cho yên tâm.
+
+<|output|>
+# Dự án phát triển Mobile App Bất động sản
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khởi động dự án phát triển ứng dụng di động cho mảng bất động sản.
+- Thảo luận về các tính năng chính, đặc biệt là VR Tour (xem nhà 3D).
+
+### 2. Các vấn đề đã thảo luận
+- Các tính năng yêu cầu: VR Tour, bản đồ tích hợp, chat trực tiếp với môi giới.
+- Lựa chọn công nghệ: Cân nhắc giữa Flutter và React Native; quyết định làm PoC cho tính năng VR trước.
+- Backend: Sử dụng Node.js để tăng tính chủ động và khả năng mở rộng.
+
+### 3. Kết luận và quyết định
+- Xây dựng bản PoC cho tính năng VR Tour để kiểm tra hiệu năng.
+- Tự build hệ thống Backend bằng Node.js.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xây dựng bản PoC cho tính năng VR Tour | Thắng | 15/01/2026 |
+| Thiết lập cấu trúc Backend và API ban đầu | Team Backend | 22/01/2026 |
+| | | |
+| | | |
+| | | |

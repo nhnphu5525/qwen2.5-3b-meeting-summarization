@@ -1,0 +1,59 @@
+<|input|>
+# Cải tiến Quy trình Kiểm soát Chất lượng (QC) Xưởng Cơ khí
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân tỷ lệ sản phẩm lỗi (reject rate) tăng cao trong các đơn hàng xuất khẩu Nhật Bản.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân lỗi: Sai lệch kích thước lỗ khoan (do đo thủ công kém chính xác) và trầy xước bề mặt (do đóng gói, vận chuyển không đúng cách).
+- Nhân sự: Công nhân tăng ca quá mức dẫn đến mệt mỏi và thiếu tập trung trong khâu kiểm soát lỗi.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương đầu tư hệ thống đo lường tự động để loại bỏ sai sót do con người.
+- Thực hiện hiệu chuẩn lại toàn bộ thiết bị đo lường trong xưởng ngay cuối tuần này.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập báo cáo phân tích đầu tư máy đo CMM tự động | Anh Quốc (Quy trình) | 28/03/2025 |
+| Hiệu chuẩn lại toàn bộ thiết bị đo lường tại xưởng | Chị Lan (QC) & Anh Nam | 30/03/2025 |
+| Thiết lập cơ chế giám sát chéo giữa các tổ sản xuất | Anh Nam (Quản đốc) | 26/03/2025 |
+
+[08:50] Ý kiến của Quốc rất hay nhưng việc mua máy CMM mới sẽ tốn kém. Chào anh Hùng, tôi là Mai bên bộ phận Tài chính. Chúng ta có thể cân nhắc việc thuê thiết bị hoặc nâng cấp các máy hiện có trước không? Chào chị Mai, tôi nghĩ đầu tư vào chất lượng là đầu tư sinh lời bền vững nhất. Nếu để khách hàng Nhật hủy hợp đồng, thiệt hại sẽ lớn gấp nhiều lần giá trị cái máy đo. Anh Hùng thấy sao ạ?
+[08:55] Tôi đồng ý với Lan. Chúng ta không thể đánh cược uy tín của công ty. Quốc giúp tôi lập báo cáo so sánh hiệu quả (Cost-Benefit Analysis) giữa việc đầu tư máy tự động và việc duy trì kiểm tra thủ công hiện tại. Chào anh Nam, anh cần rà soát lại ngay thái độ làm việc của công nhân ca đêm. Không thể lấy lý do tăng ca để làm ẩu. Tôi yêu cầu tăng cường thêm một cấp giám sát chéo giữa các tổ sản xuất.
+[09:00] Vâng anh Hùng, tôi sẽ thực hiện ngay. Chào chị Lan, chị giúp tôi lên lịch hiệu chuẩn lại toàn bộ thiết bị đo trong xưởng vào chủ nhật tuần này nhé. Chúng ta cần đảm bảo mọi thước kẹp và panme đều đang ở trạng thái chính xác nhất. Chào anh Nam, tôi đã ghi lại lịch này và sẽ cử 2 nhân viên kỹ thuật hỗ trợ anh.
+[09:05] Chào mọi người, tôi là Bình bên bộ phận Kho vận. Tôi muốn bổ sung là việc đóng gói cuối cùng cũng rất quan trọng. Nhân viên kho cần được hướng dẫn lại cách bọc màng co (stretch film) sao cho chắc chắn để tránh sản phẩm va đập vào nhau trong quá trình vận chuyển lên container. Chào anh Bình, anh chủ động soạn một bộ quy chuẩn đóng gói mới và tập huấn cho anh em kho trong tuần tới nhé.
+
+<|output|>
+# Cải tiến Quy trình Kiểm soát Chất lượng (QC) Xưởng Cơ khí
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân tỷ lệ sản phẩm lỗi (reject rate) tăng cao trong các đơn hàng xuất khẩu Nhật Bản.
+- Đề xuất các giải pháp kỹ thuật, quy trình và kỷ luật lao động để giảm thiểu lỗi trầy xước và sai lệch kích thước.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân lỗi: Sai lệch kích thước lỗ khoan (do đo thủ công kém chính xác) và trầy xước bề mặt (do đóng gói, vận chuyển không đúng cách).
+- Nhân sự: Công nhân tăng ca quá mức dẫn đến mệt mỏi và thiếu tập trung trong khâu kiểm soát lỗi.
+- Thiết bị: Dụng cụ đo chưa được hiệu chuẩn thường xuyên; đề xuất chuyển sang hệ thống đo tự động (CMM/Vision Sensor).
+- Quy trình: Thiếu sự giám sát chéo giữa các công đoạn; khâu đóng gói chưa có lớp lót bảo vệ sản phẩm.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương đầu tư hệ thống đo lường tự động để loại bỏ sai sót do con người.
+- Thực hiện hiệu chuẩn lại toàn bộ thiết bị đo lường trong xưởng ngay cuối tuần này.
+- Thay đổi vật liệu đóng gói sang tray nhựa chuyên dụng để chống trầy xước.
+- Áp dụng cơ chế giám sát chéo và khen thưởng dựa trên tỷ lệ lỗi sản phẩm của từng tổ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập báo cáo phân tích đầu tư máy đo CMM tự động | Anh Quốc (Quy trình) | 28/03/2025 |
+| Hiệu chuẩn lại toàn bộ thiết bị đo lường tại xưởng | Chị Lan (QC) & Anh Nam | 30/03/2025 |
+| Thiết lập cơ chế giám sát chéo giữa các tổ sản xuất | Anh Nam (Quản đốc) | 26/03/2025 |
+| Triển khai dự án Kaizen và 5S tại khu vực kiểm tra | Chị Lan (QC) | 05/04/2025 |
+| Soạn thảo và tập huấn quy chuẩn đóng gói mới | Anh Bình (Kho vận) | 02/04/2025 |

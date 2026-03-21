@@ -1,0 +1,65 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Về dài hạn thì giống cây sẽ là trọng tâm của năm nay.
+[09:02] Về phần ngân sách cho chế biến, sếp đã duyệt chưa nhỉ?
+[09:02] Tóm lại Thôi được rồi, vậy thống nhất là triển khai công nghệ sinh học theo hướng đó.
+[09:06] Đừng quên vụ chế biến cũng quan trọng không kém nhé.
+[09:08] Thế thì mình chốt phương án cho công nghệ sinh học luôn đi, đừng kéo dài nữa.
+[09:05] Chắc là Về phần ngân sách cho phân bón, sếp đã duyệt chưa nhỉ?
+[09:06] Thì đấy Vấn đề phân bón thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:07] Hình như Về dài hạn thì thủy lợi sẽ là trọng tâm của năm nay.
+[09:16] Vấn đề thủy lợi thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:09] Chắc là Đúng rồi, cái xuất khẩu cần được ưu tiên xử lý trước thứ Sáu này.
+[09:10] Ờm Thôi được rồi, vậy thống nhất là triển khai nông sản theo hướng đó.
+[09:22] Hay là mình thử thay đổi cách tiếp cận với công nghệ sinh học xem sao?
+[09:24] Nói chung là Cảm ơn mọi người, cuộc họp về Nông nghiệp tạm dừng tại đây.
+[09:26] À Về dài hạn thì xuất khẩu sẽ là trọng tâm của năm nay.
+[09:28] Thì Vấn đề phân bón thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:15] Thế thì mình chốt phương án cho phân bón luôn đi, đừng kéo dài nữa.
+[09:16] Thôi được rồi, vậy thống nhất là triển khai phân bón theo hướng đó.
+[09:17] Tóm lại Mọi người nghe rõ không? Về cái công nghệ sinh học này tôi thấy có vẻ hơi vướng.
+[09:36] Tóm lại Ai sẽ chịu trách nhiệm chính cho mảng xuất khẩu nhỉ?
+[09:38] Ai sẽ chịu trách nhiệm chính cho mảng công nghệ sinh học nhỉ?
+[09:20] Tôi sẽ phụ trách kiểm tra lại thủy lợi rồi báo lại cả team vào chiều mai.
+[09:42] Mọi người nghe rõ không? Về cái chế biến này tôi thấy có vẻ hơi vướng.
+
+<|output|>
+# Báo cáo cuộc họp về Nông nghiệp
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Nông nghiệp hiện tại
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý công nghệ sinh học
+- Thiếu hụt nguồn lực cho chế biến
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho nông sản
+- Phân bổ thêm 2 nhân sự cho mảng chế biến
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ nông sản | Anh Hoàng | 07/03/2026 |
+| Liên hệ đối tác về thủy lợi | Phòng Kế hoạch | 13/10/2026 |

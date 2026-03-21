@@ -1,0 +1,61 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00:15] Chào mọi người, hôm nay chúng ta họp gấp để rà soát lại tiến độ quyết toán thuế thu nhập doanh nghiệp năm vừa rồi nhé. Sắp hết hạn nộp rồi mà kế toán trưởng báo là còn nhiều chỗ chưa khớp lắm.
+[10:01:25] Em thấy phần chi phí tiếp khách đang bị vượt định mức nhiều quá chị Lan ạ. Nếu mình đưa hết vào thì cơ quan thuế sẽ loại ra ngay.
+[10:02:40] Minh kiểm tra lại mấy cái hóa đơn đỏ bên mảng marketing xem sao. Dạo này chị thấy nhiều hóa đơn bị treo vì thiếu thông tin mã số thuế của đối tác đấy.
+[10:03:55] Để em rà lại. Hình như có mấy cái của bên Agency chưa kịp xuất hóa đơn điện tử cho mình. Chắc phải giục họ xuất gấp trong tuần này thôi.
+[10:05:10] Về phần bảo hiểm xã hội và thuế thu nhập cá nhân thì sao hả Tú? Anh thấy danh sách nhân sự mới biến động liên tục, không biết kế toán lương đã cập nhật hết chưa?
+[10:06:25] Em đang cho đối soát lại với bên BHXH huyện. Có một số bạn nghỉ việc rồi mà mình vẫn chưa báo giảm kịp, nên số tiền đóng bảo hiểm đang bị chênh lệch một chút.
+[10:07:45] Cái này Tú phải làm quyết liệt vào, không là mình bị phạt chậm nộp bảo hiểm đấy. Lan nhắc nhở các phòng ban gửi hết hồ sơ thanh toán còn tồn đọng về phòng kế toán trong ngày mai nhé.
+[10:09:00] Vâng anh, em sẽ gửi mail thông báo cho toàn bộ trưởng phòng ngay bây giờ. Ai nộp muộn sau ngày mai thì phòng kế toán sẽ không giải quyết chi nữa.
+[10:10:20] Minh tập hợp lại toàn bộ file cứng để đối chiếu với phần mềm kế toán. Chị muốn số liệu phải thật sạch trước khi mình chốt file gửi cục thuế.
+[10:11:35] Dạ chị, em sẽ cố gắng làm xong trong cuối tuần này. Mà chị Lan ơi, vụ hoàn thuế VAT cho dự án X thì mình đã làm hồ sơ chưa ạ?
+[10:12:50] Dự án đó vẫn đang chờ nghiệm thu đợt cuối nên hồ sơ chưa đủ đâu Minh. Cứ tập trung vào quyết toán thuế TNDN trước đã.
+[10:14:10] OK, vậy Tú lo BHXH, Minh lo hóa đơn marketing và chi phí tiếp khách, Lan điều phối các phòng ban. Thứ Hai họp lại chốt số cuối.
+
+<|output|>
+# Rà soát tiến độ quyết toán thuế và đối soát sổ sách kế toán
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Kiểm tra và hoàn thiện các hồ sơ cần thiết cho việc quyết toán thuế thu nhập doanh nghiệp (TNDN) cuối năm.
+- Giải quyết các sai sót trong quản lý hóa đơn và chi phí nội bộ.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí tiếp khách đang vượt định mức, cần phân bổ lại cho hợp lý để tránh bị cơ quan thuế loại.
+- Nhiều hóa đơn từ các Agency marketing đang bị thiếu thông tin hoặc chưa xuất kịp thời.
+- Sai lệch thông tin đóng BHXH do chưa kịp thời báo giảm cho nhân sự đã nghỉ việc.
+- Hồ sơ thanh toán từ các phòng ban khác gửi về muộn gây khó khăn cho việc đối soát.
+
+### 3. Kết luận và quyết định
+- Yêu cầu toàn bộ công ty nộp hồ sơ thanh toán tồn đọng trước cuối ngày mai.
+- Tập trung dứt điểm việc quyết toán thuế TNDN trước khi chuyển sang các hạng mục khác (như hoàn thuế VAT).
+- Thực hiện đối soát thủ công giữa file cứng và phần mềm để đảm bảo tính chính xác tuyệt đối.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đối soát và báo giảm nhân sự nghỉ việc với cơ quan BHXH | Tú | Thứ Sáu tới |
+| Giục Agency xuất hóa đơn và rà soát chi phí Marketing | Minh | Thứ Bảy tới |
+| Gửi thông báo chốt thời hạn nộp hồ sơ thanh toán cho toàn công ty | Lan | Hôm nay |
+| Tổng hợp và chốt số liệu quyết toán thuế TNDN | Minh & Lan | Thứ Hai tuần sau |
+| Kiểm tra lại định mức chi phí tiếp khách | Minh | Thứ Sáu tới |

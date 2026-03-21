@@ -1,0 +1,58 @@
+<|input|>
+# Rà soát và Bảo hộ Tài sản Sở hữu trí tuệ (IP)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tiến độ đăng ký nhãn hiệu, bản quyền phần mềm và sáng chế kỹ thuật.
+
+### 2. Các vấn đề đã thảo luận
+- Nhãn hiệu: Nhãn hiệu "EcoTech" bị phản đối do trùng lặp tên gọi với "EcoWorld"; cần chứng minh sự khác biệt về đồ họa và lĩnh vực hoạt động.
+- Bản quyền phần mềm: Cần chuẩn bị hồ sơ đăng ký bản quyền cho phần mềm quản lý kho; lưu ý ký thỏa thuận chuyển giao quyền với cộng tác viên bên ngoài.
+
+### 3. Kết luận và quyết định
+- Gửi văn bản phản hồi Cục Sở hữu trí tuệ để bảo vệ nhãn hiệu "EcoTech" dựa trên sự khác biệt về ngành hàng.
+- Ưu tiên đăng ký Bằng sáng chế cho thuật toán mới để đảm bảo thời gian bảo hộ tối đa.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn phản hồi vụ phản đối nhãn hiệu EcoTech | Chị Nga (Pháp chế) | 05/04/2025 |
+| Ký thỏa thuận IP với các CTV lập trình | Anh Kiên (Trưởng phòng) | 28/03/2025 |
+| Đăng ký bản quyền tác giả phần mềm quản lý kho | Chị Linh (Pháp chế) | 10/04/2025 |
+
+[10:20] Ý kiến của Linh rất quan trọng. Chào Linh, anh sẽ ký các thỏa thuận chuyển giao quyền sở hữu trí tuệ với các đối tác thuê ngoài ngay trong tuần này. Còn về các sáng chế kỹ thuật thì sao? Chào mọi người, tôi là Hùng bên bộ phận R&D. Chúng tôi vừa phát triển được một thuật toán tối ưu hóa điện năng cho chip. Chúng tôi muốn đăng ký dưới dạng "Giải pháp hữu ích" thay vì "Bằng sáng chế" để quy trình xét duyệt nhanh hơn. Anh Kiên thấy thế nào?
+[10:25] Chào Hùng, giải pháp hữu ích cũng tốt nhưng thời gian bảo hộ sẽ ngắn hơn. Nếu thuật toán này có tính đột phá cao và có thể áp dụng lâu dài, tôi khuyên nên kiên trì theo đuổi Bằng sáng chế để có sự bảo hộ mạnh mẽ nhất. Chị Nga nghiên cứu kỹ các điều kiện bảo hộ cho thuật toán này nhé, vì không phải thuật toán nào cũng được coi là đối tượng bảo hộ sáng chế.
+[10:30] Chào anh Kiên, tôi sẽ làm việc với bên tư vấn sở hữu trí tuệ để đánh giá tính mới (novelty) và tính sáng tạo của thuật toán này. Ngoài ra, tôi muốn nhắc nhở mọi người về vấn đề bảo mật bí mật kinh doanh. Gần đây tôi thấy một số tài liệu kỹ thuật quan trọng được gửi qua các ứng dụng chat không mã hóa. Điều này cực kỳ rủi ro. Chúng ta cần ban hành ngay quy định về quản lý và lưu trữ thông tin mật.
+[10:35] Chào chị Nga, tôi là Sơn bên bộ phận IT. Tôi đã thiết lập hệ thống lưu trữ nội bộ có phân quyền và mã hóa đầu cuối. Tôi đề nghị bộ phận Pháp chế soạn thảo một bản cam kết bảo mật (NDA) mới để yêu cầu toàn bộ nhân viên ký lại, đặc biệt là những người làm việc trực tiếp với các dự án R&D. Chào anh Sơn, em sẽ soạn bản NDA đó và gửi anh Kiên duyệt vào chiều nay.
+
+<|output|>
+# Rà soát và Bảo hộ Tài sản Sở hữu trí tuệ (IP)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tiến độ đăng ký nhãn hiệu, bản quyền phần mềm và sáng chế kỹ thuật.
+- Giải quyết sự cố tranh chấp nhãn hiệu "EcoTech" với bên thứ ba.
+
+### 2. Các vấn đề đã thảo luận
+- Nhãn hiệu: Nhãn hiệu "EcoTech" bị phản đối do trùng lặp tên gọi với "EcoWorld"; cần chứng minh sự khác biệt về đồ họa và lĩnh vực hoạt động.
+- Bản quyền phần mềm: Cần chuẩn bị hồ sơ đăng ký bản quyền cho phần mềm quản lý kho; lưu ý ký thỏa thuận chuyển giao quyền với cộng tác viên bên ngoài.
+- Sáng chế: Đề xuất đăng ký thuật toán tối ưu điện năng dưới dạng Bằng sáng chế hoặc Giải pháp hữu ích.
+- Bảo mật thông tin: Rủi ro rò rỉ dữ liệu qua các ứng dụng chat; cần yêu cầu nhân viên ký lại cam kết bảo mật (NDA) và sử dụng hệ thống lưu trữ nội bộ.
+
+### 3. Kết luận và quyết định
+- Gửi văn bản phản hồi Cục Sở hữu trí tuệ để bảo vệ nhãn hiệu "EcoTech" dựa trên sự khác biệt về ngành hàng.
+- Ưu tiên đăng ký Bằng sáng chế cho thuật toán mới để đảm bảo thời gian bảo hộ tối đa.
+- Ký kết thỏa thuận sở hữu IP với toàn bộ cộng tác viên và đối tác thuê ngoài cung cấp source code.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn phản hồi vụ phản đối nhãn hiệu EcoTech | Chị Nga (Pháp chế) | 05/04/2025 |
+| Ký thỏa thuận IP với các CTV lập trình | Anh Kiên (Trưởng phòng) | 28/03/2025 |
+| Đăng ký bản quyền tác giả phần mềm quản lý kho | Chị Linh (Pháp chế) | 10/04/2025 |
+| Đánh giá tính mới của thuật toán để đăng ký sáng chế | Anh Hùng (R&D) & Chị Nga | 15/04/2025 |
+| Soạn thảo và triển khai ký NDA cho nhân viên | Chị Linh (Pháp chế) | 30/03/2025 |

@@ -1,0 +1,46 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00] Chào team du lịch, hôm nay mình bàn về việc đóng gói các combo du lịch hè cho thị trường nội địa.
+[14:02] Theo em thấy, xu hướng năm nay khách thích đi các tour trải nghiệm thiên nhiên hơn là chỉ nằm ở resort.
+[14:04] Vậy mình tập trung vào các gói trekking ở Hà Giang và lặn ngắm san hô ở Phú Quý đi.
+[14:06] Nhưng giá vé máy bay đang tăng chóng mặt, nếu làm combo gồm vé thì giá sẽ rất cao, khó cạnh tranh.
+
+<|output|>
+# Xây dựng combo du lịch hè và chiến lược cạnh tranh giá
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hướng sản phẩm du lịch hè tập trung vào trải nghiệm thiên nhiên.
+- Tìm giải pháp bình ổn giá combo trong bối cảnh vé máy bay tăng cao.
+
+### 2. Các vấn đề đã thảo luận
+- Chuyển dịch xu hướng từ du lịch nghỉ dưỡng sang du lịch trải nghiệm (Trekking, lặn biển).
+- Áp lực từ giá vé máy bay tăng cao ảnh hưởng đến giá thành combo.
+
+### 3. Kết luận và quyết định
+- Ưu tiên phát triển 2 tuyến tour chính: Hà Giang và Phú Quý.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế lịch trình chi tiết tour trải nghiệm | Phòng Sản phẩm | 28/03/2026 |
+| Khảo sát dịch vụ thực tế tại Phú Quý | Phòng Sản phẩm | Chưa rõ |

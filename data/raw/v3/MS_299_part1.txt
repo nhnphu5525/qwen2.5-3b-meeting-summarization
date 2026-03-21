@@ -1,0 +1,54 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào mọi người, hôm nay chúng ta họp để thảo luận về kế hoạch chuyển đổi số cho tòa soạn và chiến lược phát triển đa kênh nhằm tiếp cận độc giả trẻ Gen Z và Gen Alpha.
+[09:03] Theo báo cáo phân tích dữ liệu từ Google Analytics, lượng truy cập trực tiếp vào website của chúng ta đã giảm 15% trong quý vừa qua. Ngược lại, lượng tiếp cận thông qua các nền tảng mạng xã hội như TikTok và YouTube Shorts lại tăng gấp đôi.
+[09:06] Điều này cho thấy thói quen tiêu thụ tin tức của độc giả đã thay đổi hoàn toàn. Họ không còn đủ kiên nhẫn để đọc những bài phân tích dài 2000 chữ trên web mà thích xem những video ngắn tóm tắt nội dung dưới 60 giây.
+[09:09] Tôi đề xuất chúng ta nên thành lập một "Social-first Newsroom". Mọi tin tức nóng (breaking news) sẽ được ưu tiên sản xuất dưới dạng video ngắn hoặc infographic để đẩy lên TikTok và Facebook Reel ngay lập tức, sau đó mới viết bài chi tiết trên web.
+[09:12] Việc sản xuất video ngắn đòi hỏi tư duy hình ảnh rất khác so với viết báo truyền thống. Các phóng viên của chúng ta cần được đào tạo lại về kỹ năng quay dựng cơ bản trên điện thoại và cách viết script sao cho "bắt trend".
+[14:15] Tôi sẽ mời các chuyên gia từ TikTok và các YouTuber nổi tiếng về chia sẻ kinh nghiệm và hướng dẫn các thao tác thực tế cho anh em phóng viên trong tuần tới.
+[09:18] Bên cạnh video ngắn, mảng Podcast cũng đang có sự tăng trưởng rất tốt. Chúng ta nên xây dựng các series Podcast chuyên sâu về Kinh tế, Công nghệ và Lối sống bền vững.
+[09:21] Podcast là một cách tuyệt vời để xây dựng cộng đồng độc giả trung thành. Khách mời có thể là các chuyên gia đầu ngành hoặc những người có tầm ảnh hưởng lớn trong xã hội.
+[09:24] Về mặt công nghệ, hệ thống CMS hiện tại của tòa soạn đã quá lỗi thời, gây khó khăn cho việc nhúng các định dạng đa phương tiện (Multimedia) vào bài viết.
+
+<|output|>
+# Kế hoạch chuyển đổi số toàn diện và chiến lược phát triển tòa soạn đa phương tiện
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng lộ trình chuyển đổi từ tòa soạn báo điện tử truyền thống sang mô hình "Social-first Newsroom".
+- Thống nhất chiến lược sản xuất nội dung đa định dạng: Video ngắn (TikTok/Shorts), Podcast, Multimedia.
+
+### 2. Các vấn đề đã thảo luận
+- Sự sụt giảm truy cập trực tiếp và xu hướng độc giả chuyển sang tiêu thụ nội dung trên mạng xã hội.
+- Đào tạo lại kỹ năng quay dựng video ngắn và viết script cho đội ngũ phóng viên.
+- Phát triển các series Podcast chuyên sâu để xây dựng cộng đồng độc giả trung thành.
+
+### 3. Kết luận và quyết định
+- Phê duyệt đề án "Tòa soạn đa phương tiện 2024" và ngân sách nâng cấp hệ thống CMS.
+- Thành lập nhóm Social-first chuyên trách sản xuất nội dung cho TikTok và YouTube.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nâng cấp hệ thống CMS Mobile-first | Phòng CNTT | 30/06/2024 |
+| Đào tạo quay dựng video ngắn cho phóng viên | Ban Biên tập & Chuyên gia | 15/05/2024 |

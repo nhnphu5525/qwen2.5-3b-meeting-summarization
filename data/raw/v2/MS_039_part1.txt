@@ -1,0 +1,47 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00] Chào buổi sáng team kỹ thuật và dự án. Hôm nay chúng ta dành cả buổi sáng để rà soát chi tiết phương án tự động hóa dây chuyền đóng gói số 2 tại nhà máy Bình Dương. Đây là dự án trọng điểm để cắt giảm chi phí nhân công và nâng cao năng suất lên gấp đôi.
+[08:02] Dạ thưa anh, hiện tại phương án kỹ thuật tổng thể đã được em và team thiết kế cơ khí hoàn thiện. Chúng ta sẽ sử dụng 3 cánh tay Robot Delta của ABB cho khâu gắp sản phẩm vào hộp, và 1 Robot Palletizing 6 trục cho khâu xếp chồng thùng lên pallet.
+[08:04] Dùng Robot Delta là hợp lý vì tốc độ gắp (pick-and-place) của nó rất nhanh. Tuy nhiên, em có lo ngại về hệ thống Vision (thị giác máy tính). Sản phẩm của mình có nhiều kích thước và màu sắc bao bì khác nhau, liệu camera hiện tại có phân biệt chính xác được không?
+[08:06] Chỗ này em xin giải thích thêm. Chúng ta sẽ dùng camera Cognex dòng In-Sight mới nhất, có tích hợp AI để học sâu các mẫu bao bì. Dù màu sắc có thay đổi hay bị lóa sáng nhẹ thì hệ thống vẫn nhận diện được tọa độ tâm sản phẩm để Robot gắp chính xác.
+[08:08] Ừm... camera xịn thì tốt rồi. Nhưng còn tốc độ xử lý ảnh thì sao? Dây chuyền mình chạy 120 sản phẩm/phút, nếu camera xử lý không kịp thì Robot sẽ gắp hụt hoặc gắp sai vị trí ngay.
+[08:10] Về tốc độ, em đã tính toán thời gian trễ (latency). Mỗi khung hình camera xử lý chỉ mất khoảng 15ms, cộng thêm thời gian truyền tín hiệu qua cổng Ethernet/IP đến bộ điều khiển Robot mất 5ms nữa. Tổng cộng 20ms là hoàn toàn đáp ứng được tốc độ băng tải hiện tại.
+[08:12] Nghe có vẻ ổn. Nhưng tôi muốn hỏi về khâu dán nhãn tự động. Hiện tại máy dán nhãn cũ của mình hay bị nhăn nhãn hoặc dán lệch khi chạy tốc độ cao. Các cậu có định thay mới hay nâng cấp gì không?
+[08:14] Dạ có chứ anh. Trong gói thầu này em đã đưa vào máy dán nhãn tốc độ cao của bên đối tác Nhật. Nó có cảm biến căn lề tự động bằng laser, đảm bảo sai số không quá 0.5mm. Hơn nữa, máy này còn có chức năng in date trực tiếp bằng laser luôn, không cần dùng mực in phun như cũ, đỡ tốn chi phí vật tư tiêu hao.
+
+<|output|>
+# Dự án tự động hóa dây chuyền đóng gói số 2 - Nhà máy Bình Dương
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát phương án kỹ thuật tổng thể cho việc tự động hóa dây chuyền đóng gói.
+
+### 2. Các vấn đề đã thảo luận
+- Sử dụng Robot Delta ABB và Robot Palletizing 6 trục kết hợp với hệ thống Vision AI của Cognex.
+- Thách thức về nhận diện bao bì đa dạng màu sắc và tốc độ xử lý ảnh (latency) của camera.
+- Nâng cấp máy dán nhãn và in date laser để tiết kiệm vật tư tiêu hao, dù chi phí đầu tư ban đầu cao.
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |

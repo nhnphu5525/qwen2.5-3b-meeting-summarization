@@ -1,0 +1,68 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[10:00] Chào anh chị em, hôm nay mình rà soát lại các mẫu hợp đồng bảo mật thông tin (NDA) và quy định nội bộ nhé.
+[10:02] Dạo này thấy tình trạng rò rỉ thông tin khách hàng ra bên ngoài hơi nhiều, phải siết lại thôi.
+[10:04] Cái mẫu NDA cũ mình dùng từ 3 năm trước rồi, nhiều điều khoản giờ không còn phù hợp với luật an ninh mạng mới.
+[10:06] Tôi thấy cần bổ sung thêm phần trách nhiệm bồi thường thiệt hại cụ thể khi vi phạm, chứ chung chung quá khó đòi.
+[10:08] Ngoài ra, đối với các nhân sự nghỉ việc, mình có điều khoản cấm làm việc cho đối thủ cạnh tranh trong vòng 6 tháng không?
+[10:10] Có, nhưng theo luật lao động thì điều khoản này hơi nhạy cảm, mình phải lách khéo bằng các khoản hỗ trợ tài chính đi kèm.
+[10:12] Còn về việc sử dụng thiết bị cá nhân trong công việc (BYOD) thì sao? Nhiều bạn hay copy tài liệu công ty vào USB hoặc máy cá nhân.
+[10:14] Phải cấm tuyệt đối việc dùng USB không được mã hóa. Hệ thống IT cần khóa hết các cổng kết nối ngoại vi trên máy tính văn phòng.
+[10:16] Mấy bạn bên team Marketing hay làm việc với Agency, mình cũng phải bắt họ ký cam kết bảo mật trước khi gửi brief nhé.
+[10:18] Rất đúng, nhiều vụ lộ ý tưởng chiến dịch toàn từ mấy ông đối tác bên ngoài mà ra.
+[10:20] Pháp chế sẽ soạn lại mẫu NDA mới, chia thành 2 loại: cho nhân viên và cho đối tác bên ngoài.
+[10:22] Team IT xây dựng quy trình phân quyền truy cập dữ liệu theo cấp bậc (Tiering), ai cần việc gì thì mới được xem cái đó thôi.
+[10:24] Tuần tới mình tổ chức một buổi phổ biến quy định mới cho toàn thể nhân viên đi, để mọi người hiểu mức độ nghiêm trọng.
+[10:26] Nhất trí, phòng nhân sự sắp xếp lịch họp qua Zoom nhé.
+
+<|output|>
+# Rà soát và cập nhật quy định bảo mật thông tin (NDA)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Cập nhật các mẫu hợp đồng bảo mật thông tin (NDA) phù hợp với luật hiện hành.
+- Thắt chặt quy trình quản lý dữ liệu và ngăn ngừa rò rỉ thông tin khách hàng.
+- Thống nhất các biện pháp kỹ thuật và pháp lý đối với nhân viên và đối tác.
+
+### 2. Các vấn đề đã thảo luận
+- Sự lạc hậu của mẫu NDA cũ so với Luật An ninh mạng mới.
+- Cần cụ thể hóa mức bồi thường thiệt hại khi xảy ra vi phạm bảo mật.
+- Rủi ro pháp lý khi áp dụng điều khoản hạn chế cạnh tranh sau khi nghỉ việc.
+- Quản lý việc sử dụng thiết bị cá nhân (BYOD) và thiết bị lưu trữ ngoại vi trong văn phòng.
+- Kiểm soát bảo mật thông tin khi làm việc với các đơn vị Agency bên ngoài.
+- Hệ thống phân quyền truy cập dữ liệu dựa trên nhu cầu thực tế của từng vị trí công việc.
+
+### 3. Kết luận và quyết định
+- Phòng Pháp chế soạn thảo 02 mẫu NDA mới dành riêng cho nội bộ và đối tác.
+- Phòng IT triển khai khóa cổng USB và thiết lập hệ thống phân quyền truy cập mới.
+- Tổ chức buổi đào tạo nâng cao nhận thức về an toàn thông tin cho toàn bộ nhân viên.
+- Áp dụng ký lại cam kết bảo mật đối với toàn bộ nhân sự hiện có.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo mẫu NDA nội bộ và đối tác mới | Phòng Pháp chế | 25/03/2026 |
+| Triển khai kỹ thuật phân quyền truy cập dữ liệu | Phòng IT | 30/03/2026 |
+| Tổ chức buổi phổ biến quy định bảo mật | Phòng Nhân sự | 02/04/2026 |
+| Rà soát danh sách đối tác cần ký lại NDA | Phòng Kinh doanh | 05/04/2026 |
+| Lắp đặt hệ thống giám sát cổng kết nối máy tính | Phòng IT | 28/03/2026 |

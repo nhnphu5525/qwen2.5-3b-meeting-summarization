@@ -1,0 +1,65 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Mua sắm Thiết bị Y tế
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho bảo trì thiết bị
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hợp đồng thầu
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ bảo trì thiết bị | Bộ phận Tài chính | 01/05/2026 |
+
+[08:52] Thế còn ngân sách cho máy chụp X-quang thì sao hả mọi người?
+[09:16] Chào cả nhà, chúng ta bắt đầu bàn về bảo trì thiết bị nhé.
+[08:54] Cảm ơn mọi người, buổi họp về Mua sắm Thiết bị Y tế hôm nay rất chất lượng.
+[08:55] Ý tôi là Liệu mình có thể đẩy nhanh tiến độ cho ngân sách bệnh viện được không?
+[08:56] Dạ Tôi đề xuất mình sẽ tập trung nguồn lực vào vật tư tiêu hao trong tuần này.
+[08:57] Cái máy chụp X-quang này hình như đang bị vướng chỗ nào đó đúng không?
+[09:26] Để tôi check lại với bên máy chụp X-quang xem tình hình thế nào nhé.
+[09:28] Liệu mình có thể đẩy nhanh tiến độ cho tiêu chuẩn y tế được không?
+[09:30] Chào cả nhà, chúng ta bắt đầu bàn về ngân sách bệnh viện nhé.
+[09:32] Mọi người có thấy vụ ngân sách bệnh viện dạo này bị chậm không?
+[09:34] Mọi người có thấy vụ máy chụp X-quang dạo này bị chậm không?
+[09:36] Thực ra Tôi đề xuất mình sẽ tập trung nguồn lực vào máy chụp X-quang trong tuần này.
+[09:38] Đừng quên là máy chụp X-quang cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:05] Ờm, cái ngân sách bệnh viện này thực ra là một vấn đề khá nan giải.
+[09:06] Thực ra Tôi đồng ý với ý kiến về bảo trì thiết bị, nên làm quyết liệt hơn.
+[09:07] Tôi nghĩ là mình nên xem xét lại cái bảo trì thiết bị này một chút.
+[09:08] Tôi đồng ý với ý kiến về tiêu chuẩn y tế, nên làm quyết liệt hơn.
+[09:09] Tôi đồng ý với ý kiến về vật tư tiêu hao, nên làm quyết liệt hơn.
+[09:10] Cái hợp đồng thầu này hình như đang bị vướng chỗ nào đó đúng không?
+[09:52] Cần phải làm rõ thêm các chi tiết liên quan đến vật tư tiêu hao.
+[09:54] Tôi đồng ý với ý kiến về hợp đồng thầu, nên làm quyết liệt hơn.
+[09:13] Nói chung là Tôi nghĩ là mình nên xem xét lại cái tiêu chuẩn y tế này một chút.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Mua sắm Thiết bị Y tế
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho bảo trì thiết bị
+- Thiếu dữ liệu để đánh giá tiêu chuẩn y tế
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hợp đồng thầu
+- Phê duyệt ngân sách bổ sung cho tiêu chuẩn y tế
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ bảo trì thiết bị | Bộ phận Tài chính | 01/05/2026 |
+| Họp nhóm để bàn sâu về hợp đồng thầu | Bộ phận Tài chính | 23/01/2026 |

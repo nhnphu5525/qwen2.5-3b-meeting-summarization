@@ -1,0 +1,49 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00:15] Chào anh chị em nha. Sáng nay mình ngồi lại gấp xíu để bàn cái vụ hành tím dưới Vĩnh Châu đang bị rớt giá thê thảm quá. Bà con mình đang khóc ròng dưới đó, mình là Hội hỗ trợ nông nghiệp thì không thể ngồi yên được.
+[08:01:30] Dạ đúng rồi anh Nghĩa, em mới đi thực tế dưới đó về nè. Nhìn cảnh hành chất đống ngoài đồng mà thương lắm. Thương lái ép giá chỉ còn có 3-4 ngàn một ký, trong khi giá thành sản xuất đã tầm 7-8 ngàn rồi. Càng bán càng lỗ anh ơi.
+[08:02:45] Trời đất, rớt giá dữ vậy sao? Mọi năm anh thấy cũng ổn mà, sao năm nay lại ra nông nỗi này? Do cung vượt cầu hay là do xuất khẩu bị tắc nghẽn vậy cô Hoa?
+[08:04:10] Dạ vầy nè anh, năm nay bà con mình thấy năm ngoái được giá nên ồ ạt mở rộng diện tích. Khổ cái là thị trường truyền thống của mình là Trung Quốc nó lại đang thắt chặt kiểm dịch, xe hàng ùn ứ ở cửa khẩu không qua được. Thành ra hàng nó dội ngược về nội địa, mà dân mình thì tiêu thụ không hết bấy nhiêu đó.
+[08:05:35] Anh thấy cái kịch bản này nó cứ lặp đi lặp lại hoài ha. Cứ được giá là trồng, rồi lại "giải cứu". Nhưng mà thôi, chuyện đó bàn sau, giờ cái bụng bà con đang đói, mình phải tính cách đẩy hàng đi gấp đã.
+[08:07:00] Em có ý kiến là mình triển khai ngay chiến dịch "Hành tím nghĩa tình" đi anh. Mình kết nối với mấy hệ thống siêu thị lớn như Co.op Mart hay WinMart, xin họ hỗ trợ mấy cái kệ trưng bày riêng cho hành Vĩnh Châu, bán không lợi nhuận để hỗ trợ bà con.
+[08:08:25] Ý này hay đó. Nhưng mà siêu thị họ cũng có quy trình, kiểm định chất lượng gắt lắm nha. Hành dưới đó có đảm bảo tiêu chuẩn VietGAP hay an toàn thực phẩm gì không Hoa? Chứ đưa vô siêu thị mà bị phát hiện dư lượng thuốc bảo vệ thực vật là mệt lắm đó.
+
+<|output|>
+# Chiến dịch hỗ trợ tiêu thụ hành tím Vĩnh Châu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá thực trạng hành tím tại Vĩnh Châu đang bị rớt giá nghiêm trọng và ùn ứ số lượng lớn.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân rớt giá: Cung vượt cầu do tự phát mở rộng diện tích và tắc nghẽn xuất khẩu sang thị trường Trung Quốc.
+- Kênh siêu thị: Kết nối với Co.op Mart, WinMart để đưa hàng vào kệ ưu tiên, yêu cầu đảm bảo tiêu chuẩn an toàn thực phẩm và bao bì chuyên nghiệp.
+
+### 3. Kết luận và quyết định
+- Chính thức phát động chiến dịch "Hành tím nghĩa tình - Đậm tình đất mẹ".
+- Giá thu mua tại ruộng: 10.000 - 12.000đ/kg; Giá bán ra dự kiến: 15.000 - 18.000đ/kg.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế poster, slogan và lên kịch bản livestream | Nam | 14/10/2023 |
+| Liên hệ hệ thống siêu thị và chuẩn bị hồ sơ kiểm định | Hoa | 15/10/2023 |

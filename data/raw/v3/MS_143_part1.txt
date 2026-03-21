@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00:00] Dạ, em chào các anh chị phụ huynh đã dành thời gian đến dự buổi họp đầu năm của lớp 12A1 mình ạ. Em là Minh, giáo viên chủ nhiệm năm nay của các con. Chắc mọi người cũng biết rồi, năm nay là năm "về đích" nên áp lực sẽ rất lớn đó ạ.
+[08:02:30] Chào thầy Minh. Tôi là ba của em Tuấn. Thầy cho hỏi cái lộ trình ôn thi năm nay trường mình tính sao thầy? Nghe nói đề thi năm nay có nhiều đổi mới, tụi tui ở nhà cũng lo sốt vó lên đây.
+[08:05:00] Ờ, thì đúng là đề thi năm nay sẽ bám sát chương trình mới nên cấu trúc có thay đổi chút đỉnh. Tuy nhiên, nhà trường đã có kế hoạch ôn tập chia làm 3 giai đoạn rồi anh. Giai đoạn 1 là hệ thống lại kiến thức cơ bản, giai đoạn 2 là luyện chuyên đề và giai đoạn 3 là tổng lực luyện đề thực tế.
+[08:07:30] Thầy ơi, tôi là mẹ bé Lan. Tôi thấy lịch học thêm của các con ở trường dày quá, chiều nào cũng 5 giờ mới về, rồi tối lại đi học trung tâm nữa. Tôi sợ con nó đuối sức, thầy xem có cách nào giảm tải bớt không thầy?
+[08:10:00] Dạ vầy nè chị, em hiểu nỗi lo của chị. Nhưng mà chị ơi, lớp 12 mà mình không tăng tốc bây giờ thì đến lúc nước đến chân mới nhảy là không kịp đâu ạ. Các con lớp mình hầu hết đều đặt mục tiêu vào các trường Top 1 như Ngoại thương, Bách khoa... nên cường độ học tập như vậy là mức tối thiểu rồi đó chị.
+[08:12:30] Thầy Minh cho tôi hỏi tí, vụ định hướng nghề nghiệp thì sao? Con tôi nó cứ đòi thi vào mấy ngành hot như AI với Logistics mà tôi thấy nó học mấy môn tự nhiên cũng thường thôi. Thầy có tư vấn gì thêm cho gia đình không?
+
+<|output|>
+# Họp Phụ huynh Đầu năm Lớp 12A1 - Năm học 2024-2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phổ biến lộ trình ôn thi tốt nghiệp THPT và xét tuyển Đại học năm 2025.
+- Thống nhất kế hoạch học tập, ôn luyện tăng cường cho các con trong năm cuối cấp.
+
+### 2. Các vấn đề đã thảo luận
+- **Lộ trình học tập:** Chia làm 3 giai đoạn: Hệ thống kiến thức (GĐ1), Luyện chuyên đề (GĐ2), Luyện đề thực chiến (GĐ3). Đề thi năm nay có nhiều đổi mới theo chương trình giáo dục phổ thông mới.
+- **Áp lực học tập:** Phụ huynh lo ngại về lịch học dày đặc, tuy nhiên giáo viên nhấn mạnh đây là cường độ cần thiết để đạt mục tiêu vào các trường đại học Top đầu.
+- **Định hướng nghề nghiệp:** Nhà trường sẽ tổ chức test năng lực/tính cách MBTI và tư vấn 1-1 cho từng học sinh dựa trên học lực và sở thích thực tế.
+
+### 3. Kết luận và quyết định
+- Phụ huynh đồng ý với lộ trình ôn tập và lịch học phụ đạo do nhà trường đề ra.
+- Thực hiện nghiêm túc quy định không sử dụng điện thoại trong giờ học.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tổ chức test MBTI cho học sinh | Thầy Minh & Tâm lý học đường | 15/10/2024 |
+| Gửi tài liệu hướng dẫn cấu trúc đề thi mới | Thầy Minh | 30/09/2024 |
+| Tư vấn hướng nghiệp 1-1 cho phụ huynh và học sinh | Thầy Minh | 20/10/2024 |

@@ -1,0 +1,73 @@
+<|input|>
+# Dự án mở rộng nhà máy lắp ráp linh kiện điện tử giai đoạn 2 (Rising Sun)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khởi động chi tiết dự án mở rộng nhà máy giai đoạn 2 nhằm nâng cao năng lực sản xuất, đáp ứng đơn hàng xuất khẩu.
+- Giải quyết các vướng mắc về mặt bằng, hạ tầng kỹ thuật.
+
+### 2. Các vấn đề đã thảo luận
+- **Hạ tầng xây dựng:** 
+    - Xử lý việc di dời đường ống nước ngầm cũ phát sinh tại khu phía Tây để đảm bảo tiến độ ép cọc.
+    - Áp dụng tiêu chuẩn LEED cho thiết kế nhà xưởng.
+- **Công nghệ & Tự động hóa:**
+    - Thiết lập phòng sạch (Cleanroom) Class 1.000 và Class 10.000 với hệ thống lọc HEPA nhập khẩu.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án thi công cuốn chiếu (ép cọc phía Đông trước) để không gián đoạn tiến độ tổng thể.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Di dời đường ống nước ngầm khu phía Tây | Ban Quản lý KCN | 10/03/2025 |
+| Hoàn thiện thiết kế chi tiết nhà xưởng chuẩn LEED | Đơn vị Tư vấn | 25/03/2025 |
+| Chuẩn bị hồ sơ nghiệm thu ép cọc đợt 1 | Team Giám sát | 10/04/2025 |
+| Khảo sát nhà cung cấp hệ thống phòng sạch (Cleanroom) | Phòng Vật tư | 15/04/2025 |
+[08:50] Class 1.000 là tiêu chuẩn rất khắt khe đấy. Ờ... khâu quản lý công nhân vào phòng sạch phải cực kỳ bài bản. Phải có buồng tắm khí (Air Shower) và quy trình thay đồ bảo hộ vô trùng. Ờ... nếu để bụi lọt vào là hỏng cả lô hàng triệu đô như chơi.
+[08:55] Vâng thưa anh, tụi em đã đưa các yêu cầu này vào SOP vận hành rồi ạ. Ờ... còn cái vụ dây chuyền sản xuất tự động (Automation). Mình định nhập 10 robot cánh tay vẩy của ABB hay Fanuc?
+[09:00] Tôi đang nghiêng về phương án Fanuc vì họ có đội ngũ kỹ thuật hỗ trợ tại Việt Nam tốt hơn. Ờ... nhưng mà giá thì Fanuc lại nhỉnh hơn ABB khoảng 15%. Ờ... Nam bên Thu mua liên hệ lại với cả hai bên, ép họ giảm giá hoặc tăng thời gian bảo trì định kỳ lên 5 năm cho mình.
+[09:05] Dạ, em đang "đấu" giá với họ đây ạ. Ờ... Fanuc họ hứa nếu mình lấy combo 10 robot thì họ sẽ tặng kèm khóa đào tạo lập trình robot cho 5 kỹ sư nòng cốt của mình tại Nhật. 
+[09:10] Ờ... đi Nhật à? Nghe cũng hấp dẫn đấy, nhưng mà phải cam kết làm việc cho mình ít nhất 3 năm sau khi về nhé, chứ không tụi nó lại "nhảy" sang công đối thủ thì mình mất trắng.
+[09:15] Vâng, cái này em sẽ làm việc với phòng Nhân sự để bổ sung phụ lục hợp đồng đào tạo ạ. Ờ... thưa sếp, còn một vấn đề đau đầu là khâu Logistic đầu vào. Khi nhà máy mở rộng, lượng linh kiện nhập khẩu từ Trung Quốc và Đài Loan sẽ tăng gấp 3. Cảng Cát Lái hiện tại thường xuyên kẹt, em lo là không kịp hàng cho sản xuất.
+[09:20] Ờ... tại sao mình không dùng cảng Cái Mép - Thị Vải? Ờ... mặc dù xa hơn một chút nhưng thông quan nhanh và tàu mẹ vào thẳng được, không phải trung chuyển qua Singapore. Ờ... tính toán lại chi phí vận tải đường bộ từ Cái Mép về nhà máy mình xem có bù trừ được với thời gian chờ ở Cát Lái không?
+[09:25] Dạ, em đã tính rồi ạ. Nếu dùng Cái Mép thì chi phí truck (vận tải bộ) tăng 15%, nhưng thời gian quay vòng container giảm được 2 ngày. Ờ... tính ra mình vẫn lợi hơn vì không bị đứt gãy chuỗi sản xuất.
+[09:30] OK, chuyển hướng dần qua Cái Mép đi. Ờ... quay lại khâu thi công nhà xưởng. Nhà thầu xây dựng báo giá bao nhiêu cho cái mái bằng panel cách nhiệt chống cháy lan (Rockwool)? Tôi thấy báo giá này cao bất thường.
+[09:35] Thưa anh, do dạo này giá thép thế giới đang biến động, cộng với phí vận chuyển đường biển tăng nên các loại panel nhập khẩu đều tăng giá. Ờ... em đề xuất mình dùng hàng nội địa của các hãng lớn như Phương Nam hay Tonmat, chất lượng cũng đạt 90% so với hàng nhập mà giá rẻ hơn 30%.
+
+<|output|>
+# Dự án mở rộng nhà máy lắp ráp linh kiện điện tử giai đoạn 2 (Rising Sun)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khởi động chi tiết dự án mở rộng nhà máy giai đoạn 2 nhằm nâng cao năng lực sản xuất, đáp ứng đơn hàng xuất khẩu.
+- Giải quyết các vướng mắc về mặt bằng, hạ tầng kỹ thuật và thống nhất phương án công nghệ (Automation, Smart Factory).
+
+### 2. Các vấn đề đã thảo luận
+- **Hạ tầng xây dựng:** 
+    - Xử lý việc di dời đường ống nước ngầm cũ phát sinh tại khu phía Tây để đảm bảo tiến độ ép cọc.
+    - Áp dụng tiêu chuẩn LEED cho thiết kế nhà xưởng; sử dụng vật liệu panel cách nhiệt nội địa đạt chuẩn PCCC để tối ưu chi phí.
+- **Công nghệ & Tự động hóa:**
+    - Thiết lập phòng sạch (Cleanroom) Class 1.000 và Class 10.000 với hệ thống lọc HEPA nhập khẩu.
+    - Lựa chọn Robot Fanuc (Nhật Bản) đi kèm gói đào tạo chuyên sâu cho kỹ sư tại nước ngoài.
+- **Logistic & Chuỗi cung ứng:**
+    - Chuyển hướng nhập khẩu hàng hóa từ cảng Cát Lái sang Cái Mép - Thị Vải để tránh ùn tắc và rút ngắn thời gian quay vòng container.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án thi công cuốn chiếu (ép cọc phía Đông trước) để không gián đoạn tiến độ tổng thể.
+- Đồng ý chủ trương dùng vật liệu nội địa và robot Nhật Bản.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Di dời đường ống nước ngầm khu phía Tây | Ban Quản lý KCN | 10/03/2025 |
+| Đàm phán chốt hợp đồng robot Fanuc & Gói đào tạo | Phòng Thu mua | 15/03/2025 |
+| Hoàn thiện thiết kế chi tiết nhà xưởng chuẩn LEED | Đơn vị Tư vấn | 25/03/2025 |
+| Ký hợp đồng nguyên tắc vận chuyển với đối tác Cái Mép | Team Logistics | 22/03/2025 |
+| Kiểm định mẫu panel cách nhiệt nội địa tại Cục PCCC | Phòng QA/QC | 14/03/2025 |
+| Xây dựng chính sách giữ chân kỹ sư sau đào tạo tại Nhật | Phòng Nhân sự | 16/03/2025 |
+| Chuẩn bị hồ sơ nghiệm thu ép cọc đợt 1 | Team Giám sát | 10/04/2025 |
+| Khảo sát nhà cung cấp hệ thống phòng sạch (Cleanroom) | Phòng Vật tư | 15/04/2025 |

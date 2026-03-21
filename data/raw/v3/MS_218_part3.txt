@@ -1,0 +1,68 @@
+<|input|>
+# Báo cáo cuộc họp về Công nghiệp nặng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Công nghiệp nặng hiện tại
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý nguyên liệu đầu vào
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho dây chuyền sản xuất
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ dây chuyền sản xuất | Bộ phận Pháp lý | 05/11/2026 |
+| Liên hệ đối tác về linh kiện | Anh Hoàng | 01/12/2026 |
+
+[10:26] Bên đối tác họ cứ hỏi mãi về linh kiện, mình phải trả lời sao đây?
+[10:28] Về dài hạn thì thép sẽ là trọng tâm của năm nay.
+[09:45] Tôi lo nhất là cái thép, tiến độ đang bị khựng lại.
+[10:32] Ờm Tôi thấy nhà máy hiện tại là cơ hội tốt để mình bứt phá.
+[09:47] Tôi thấy nguyên liệu đầu vào hiện tại là cơ hội tốt để mình bứt phá.
+[09:48] Tóm lại Tôi sẽ phụ trách kiểm tra lại nguyên liệu đầu vào rồi báo lại cả team vào chiều mai.
+[10:38] Về phần ngân sách cho dây chuyền sản xuất, sếp đã duyệt chưa nhỉ?
+[10:40] Cái nhà máy này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:51] À Hay là mình thử thay đổi cách tiếp cận với thép xem sao?
+[10:44] Thì đấy Đừng quên vụ nguyên liệu đầu vào cũng quan trọng không kém nhé.
+[10:46] Tóm lại Về dài hạn thì nhà máy sẽ là trọng tâm của năm nay.
+[09:54] Ai sẽ chịu trách nhiệm chính cho mảng linh kiện nhỉ?
+[09:55] Cái linh kiện này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[10:52] Thôi được rồi, vậy thống nhất là triển khai nguyên liệu đầu vào theo hướng đó.
+[10:54] Ờm Đúng rồi, cái linh kiện cần được ưu tiên xử lý trước thứ Sáu này.
+[09:58] Ai sẽ chịu trách nhiệm chính cho mảng nhà máy nhỉ?
+[09:59] Mọi người có ý kiến gì thêm về linh kiện không?
+[11:00] Thực ra Cái nguyên liệu đầu vào này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[11:02] Cảm ơn mọi người, cuộc họp về Công nghiệp nặng tạm dừng tại đây.
+[11:04] Tôi lo nhất là cái nguyên liệu đầu vào, tiến độ đang bị khựng lại.
+[11:06] Cái nguyên liệu đầu vào này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[11:08] Mọi người có ý kiến gì thêm về khu công nghiệp không?
+[10:05] À Vấn đề dây chuyền sản xuất thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+
+<|output|>
+# Báo cáo cuộc họp về Công nghiệp nặng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Công nghiệp nặng hiện tại
+- Giải quyết các tồn đọng liên quan đến nguyên liệu đầu vào
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý nguyên liệu đầu vào
+- Thiếu hụt nguồn lực cho thép
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho dây chuyền sản xuất
+- Phân bổ thêm 2 nhân sự cho mảng nhà máy
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ dây chuyền sản xuất | Bộ phận Pháp lý | 05/11/2026 |
+| Liên hệ đối tác về linh kiện | Anh Hoàng | 01/12/2026 |

@@ -1,0 +1,60 @@
+<|input|>
+# Giải quyết nút thắt cổ chai trong dây chuyền đóng gói
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xử lý tình trạng ùn ứ hàng hóa tại khâu đóng gói do lỗi kỹ thuật và quy trình vận hành.
+
+### 2. Các vấn đề đã thảo luận
+- Máy đóng màng co tự động số 2 thường xuyên bị kẹt màng (dừng 1 tiếng mỗi ca).
+- Nguyên nhân do màng co mới nhập mỏng hơn 2 micron, không tương thích với thông số máy hiện tại.
+
+### 3. Kết luận và quyết định
+- Ngừng sử dụng loại màng co mỏng không đạt chuẩn, liên hệ nhà cung cấp cũ để giao hàng loại chuẩn ngay lập tức (chịu phí vận chuyển nhanh).
+- Trả hàng và xem xét phạt vi phạm chất lượng đối với nhà cung cấp màng co không đạt yêu cầu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ nhà cung cấp cũ đặt màng co chuẩn | Chị Lan (Phòng Thu mua) | 22/05/2024 |
+| Điều động nhân sự hỗ trợ và sắp xếp tăng ca | Chị Lan (Phòng Nhân sự) | 22/05/2024 |
+[08:48] Dạ sếp, nếu đóng thủ công thì em cần thêm ít nhất 10 người mỗi ca mới kịp tiến độ. Mà giờ nhân sự xưởng mình đang full hết rồi, không biết điều động từ đâu qua đây.
+[08:50] Lan ơi, em xem bên kho hay bên mấy khâu sơ chế có bạn nào hỗ trợ được không? Điều động qua khâu đóng gói gấp cho anh trong 3 ngày tới.
+[08:52] Dạ sếp, để em xuống làm việc với các tổ trưởng xem sao. Chắc là mình sẽ phải cho mấy bạn bên kho tăng ca thêm 2 tiếng mỗi ngày để vừa làm việc kho vừa hỗ trợ đóng gói á sếp.
+[08:54] Ờ, tăng ca thì phải tính lương hỗ trợ thỏa đáng cho anh em nha. Còn cái vụ máy số 2, Hùng có cách nào điều chỉnh thông số máy để nó "ăn" được cái màng mỏng này không? Giảm tốc độ xuống chút xíu có được không?
+[08:56] Dạ em có thử giảm tốc độ xuống 30% thì nó ít kẹt hơn, nhưng mà năng suất nó thấp quá, không bù nổi lượng hàng từ khâu dán nhãn chuyển qua.
+[08:58] Ừm, vậy là lỗi hệ thống rồi. Ngoài cái vụ màng co, anh thấy cái khâu xếp thùng vào pallet cũng đang chậm lắm. Có 2 bạn làm mà cứ loay hoay mãi.
+[09:00] Dạ chỗ đó là do không gian nó hơi chật á sếp. Cái băng tải nó ngắn quá, hàng ra là rớt xuống đất nếu không kịp bốc. Em định là mình nối dài cái băng tải thêm 2 mét nữa và lắp thêm cái tay robot xếp pallet tự động mà sếp hứa hồi đầu năm á.
+[09:02] Robot hả? Ờ, anh nhớ rồi. Nhưng mà đầu tư robot lúc này thì không giải quyết được cái vụ kẹt hàng ngay bây giờ. Thôi vầy, trước mắt Hùng cho thợ cơ khí nối dài băng tải ngay trong đêm nay đi. Còn robot thì Lan làm hồ sơ trình anh duyệt sớm, mình triển khai trong quý tới luôn.
+
+<|output|>
+# Giải quyết nút thắt cổ chai trong dây chuyền đóng gói
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xử lý tình trạng ùn ứ hàng hóa tại khâu đóng gói do lỗi kỹ thuật và quy trình vận hành.
+- Thống nhất các giải pháp ngắn hạn (trong 3 ngày tới) và dài hạn để tối ưu hóa năng suất.
+
+### 2. Các vấn đề đã thảo luận
+- Máy đóng màng co tự động số 2 thường xuyên bị kẹt màng (dừng 1 tiếng mỗi ca).
+- Nguyên nhân do màng co mới nhập mỏng hơn 2 micron, không tương thích với thông số máy hiện tại.
+- Khâu xếp pallet thủ công chậm do băng tải ngắn và thiếu nhân sự.
+- Việc đổi nhà cung cấp màng co để tiết kiệm chi phí gây ra tác dụng ngược, làm giảm năng suất.
+
+### 3. Kết luận và quyết định
+- Ngừng sử dụng loại màng co mỏng không đạt chuẩn, liên hệ nhà cung cấp cũ để giao hàng loại chuẩn ngay lập tức (chịu phí vận chuyển nhanh).
+- Trả hàng và xem xét phạt vi phạm chất lượng đối với nhà cung cấp màng co không đạt yêu cầu.
+- Huy động nhân sự từ bộ phận kho và sơ chế sang hỗ trợ đóng gói thủ công trong 3 ngày tới.
+- Cho phép công nhân khâu đóng gói tăng ca thêm 2 tiếng mỗi ngày, đảm bảo chế độ lương và suất ăn bổ sung.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ nhà cung cấp cũ đặt màng co chuẩn | Chị Lan (Phòng Thu mua) | 22/05/2024 |
+| Điều động nhân sự hỗ trợ và sắp xếp tăng ca | Chị Lan (Phòng Nhân sự) | 22/05/2024 |
+| Thi công nối dài băng tải khâu đóng gói | Anh Hùng (Phòng Kỹ thuật) | 22/05/2024 |
+| Làm việc với nhà cung cấp màng co mới về việc trả hàng | Chị Lan (Phòng Thu mua) | 24/05/2024 |

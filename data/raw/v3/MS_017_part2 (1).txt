@@ -1,0 +1,55 @@
+<|input|>
+# Phát triển tính năng "Phản hồi khách hàng 360" trên ứng dụng di động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng tính năng thu thập phản hồi khách hàng đa phương tiện (hình ảnh, video).
+- Tối ưu hóa quy trình xử lý khiếu nại thông qua chatbot.
+
+### 2. Các vấn đề đã thảo luận
+- Cho phép tải lên media kèm đánh giá sau mua hàng.
+- Chiến lược sử dụng chatbot hỗ trợ có chọn lọc (chỉ với đánh giá thấp).
+
+### 3. Kết luận và quyết định
+- Phê duyệt phát triển tính năng phản hồi đa phương tiện.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế giao diện UI/UX cho tính năng mới | Team Mobile | 05/04/2026 |
+| Thiết lập kịch bản chatbot cho feedback thấp | Team CSKH | 12/04/2026 |
+[11:08] Về giao diện, cần làm cho nút gửi feedback thật nổi bật và dễ thấy trên trang lịch sử đơn hàng.
+[11:10] Liệu hệ thống backend có chịu tải nổi nếu hàng nghìn video được tải lên cùng lúc không?
+[11:12] Chúng ta sẽ dùng dịch vụ lưu trữ đám mây (Cloud Storage) và nén video trước khi tải lên để tiết kiệm băng thông.
+[11:14] Cần có một trang Dashboard cho bộ phận CSKH để họ theo dõi và phản hồi lại đánh giá của khách theo thời gian thực.
+
+<|output|>
+# Phát triển tính năng "Phản hồi khách hàng 360" trên ứng dụng di động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng tính năng thu thập phản hồi khách hàng đa phương tiện (hình ảnh, video).
+- Tối ưu hóa quy trình xử lý khiếu nại thông qua chatbot.
+- Cải thiện trải nghiệm người dùng và tốc độ phản hồi từ bộ phận CSKH.
+
+### 2. Các vấn đề đã thảo luận
+- Cho phép tải lên media kèm đánh giá sau mua hàng.
+- Chiến lược sử dụng chatbot hỗ trợ có chọn lọc (chỉ với đánh giá thấp).
+- Thách thức về hạ tầng khi xử lý lượng lớn dữ liệu video và giải pháp Cloud Storage.
+- Xây dựng Dashboard quản lý tập trung cho bộ phận CSKH.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phát triển tính năng phản hồi đa phương tiện.
+- Đồng ý sử dụng Cloud Storage để lưu trữ media.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế giao diện UI/UX cho tính năng mới | Team Mobile | 05/04/2026 |
+| Xây dựng API và tích hợp Cloud Storage | Team Backend | 15/04/2026 |
+| Xây dựng Dashboard cho bộ phận CSKH | Team Web | 18/04/2026 |
+| Thiết lập kịch bản chatbot cho feedback thấp | Team CSKH | 12/04/2026 |

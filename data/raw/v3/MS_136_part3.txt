@@ -1,0 +1,70 @@
+<|input|>
+# Review tiến độ nâng cấp bảo mật hệ thống thanh toán
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tiến độ dự án nâng cấp bảo mật Gateway 2.0 sau đợt kiểm toán (Audit).
+- Giải quyết các vướng mắc về tích hợp với ngân hàng đối tác và lỗi kỹ thuật trong triển khai MFA.
+
+### 2. Các vấn đề đã thảo luận
+- Mã hóa dữ liệu: Đã hoàn thành 70% việc chuyển đổi từ RSA sang AES-256 kết hợp chuẩn PCI-DSS.
+- Khó khăn tích hợp: 3 ngân hàng đối tác chưa hỗ trợ chuẩn AES mới, cần giải pháp duy trì song song (dual-stack) kèm bảo vệ bằng WAF.
+- Xác thực đa yếu tố (MFA): Gặp lỗi crash trên các thiết bị Android cũ khi dùng FIDO2 sinh trắc học; giải pháp là xây dựng cơ chế fallback về OTP truyền thống.
+- Hạ tầng: Chờ ký duyệt mua server HSM mới để đảm bảo tốc độ xử lý mã hóa.
+
+### 3. Kết luận và quyết định
+- Duy trì chuẩn mã hóa cũ cho 3 ngân hàng đối tác trong tối đa 6 tháng, yêu cầu ký cam kết lộ trình nâng cấp.
+- Áp dụng cơ chế xác thực linh hoạt cho MFA tùy theo khả năng của thiết bị người dùng.
+- Duyệt mua HSM hỏa tốc để kịp tiến độ vận hành.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện backend và cơ chế dual-stack | Tuấn - Security Lead | 18/06/2024 |
+| Làm việc với 3 ngân hàng về lộ trình nâng cấp | Hương - Project Manager | 20/06/2024 |
+| Sửa lỗi MFA và xây dựng logic fallback | Team Dev | 16/06/2024 |
+| Thực hiện kiểm thử (QA) hệ thống MFA mới | Hương - Project Manager | 25/06/2024 |
+[14:31:30] Splunk thì ngon nhưng chi phí license hơi "chát" nha Tuấn. Em cân nhắc xem có thể dùng giải pháp mã nguồn mở như ELK Stack rồi mình tự customize lại không? Giai đoạn này công ty đang thắt chặt chi tiêu, cái gì tiết kiệm được thì mình làm.
+[14:33:45] Dạ nếu dùng ELK thì team Security của em sẽ vất vả hơn chút trong khâu vận hành, nhưng thôi để em cố gắng. Em sẽ cho xây dựng các dashboard cảnh báo riêng cho Gateway thanh toán này.
+[14:36:00] Tốt. Vậy thống nhất tiến độ thế này nha: Tuấn hoàn thiện nốt 30% backend và triển khai dual-stack cho 3 ngân hàng kia. Hương đốc thúc QA test MFA và theo dõi vụ HSM. Thứ Sáu tuần sau mình họp lại xem kết quả test nhé.
+[14:38:15] Dạ rõ ạ. Em sẽ bám sát team QA.
+[14:40:30] Em cũng sẽ cố gắng chốt xong cái logic fallback cho MFA trong 2 ngày tới. Anh Quốc yên tâm ạ.
+[14:42:45] Ừ, mọi người cố gắng nhé. Cái hệ thống thanh toán này là "mạch máu" của công ty, không được phép có bất kỳ sai sót nào đâu. Chúc anh em làm việc hiệu quả.
+[14:45:00] Dạ chào anh Quốc ạ.
+[14:47:15] Chào anh, chào Tuấn nha.
+
+<|output|>
+# Review tiến độ nâng cấp bảo mật hệ thống thanh toán
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tiến độ dự án nâng cấp bảo mật Gateway 2.0 sau đợt kiểm toán (Audit).
+- Giải quyết các vướng mắc về tích hợp với ngân hàng đối tác và lỗi kỹ thuật trong triển khai MFA.
+- Thống nhất các giải pháp thay thế để đảm bảo an toàn hệ thống và tiến độ dự án.
+
+### 2. Các vấn đề đã thảo luận
+- Mã hóa dữ liệu: Đã hoàn thành 70% việc chuyển đổi từ RSA sang AES-256 kết hợp chuẩn PCI-DSS.
+- Khó khăn tích hợp: 3 ngân hàng đối tác chưa hỗ trợ chuẩn AES mới, cần giải pháp duy trì song song (dual-stack) kèm bảo vệ bằng WAF.
+- Xác thực đa yếu tố (MFA): Gặp lỗi crash trên các thiết bị Android cũ khi dùng FIDO2 sinh trắc học; giải pháp là xây dựng cơ chế fallback về OTP truyền thống.
+- Hạ tầng: Chờ ký duyệt mua server HSM mới để đảm bảo tốc độ xử lý mã hóa.
+- Giám sát hệ thống: Chuyển hướng từ giải pháp trả phí (Splunk) sang mã nguồn mở (ELK Stack) để tiết kiệm chi phí license.
+
+### 3. Kết luận và quyết định
+- Duy trì chuẩn mã hóa cũ cho 3 ngân hàng đối tác trong tối đa 6 tháng, yêu cầu ký cam kết lộ trình nâng cấp.
+- Áp dụng cơ chế xác thực linh hoạt cho MFA tùy theo khả năng của thiết bị người dùng.
+- Duyệt mua HSM hỏa tốc để kịp tiến độ vận hành.
+- Sử dụng ELK Stack cho hệ thống logging và monitoring.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện backend và cơ chế dual-stack | Tuấn - Security Lead | 18/06/2024 |
+| Làm việc với 3 ngân hàng về lộ trình nâng cấp | Hương - Project Manager | 20/06/2024 |
+| Sửa lỗi MFA và xây dựng logic fallback | Team Dev | 16/06/2024 |
+| Thực hiện kiểm thử (QA) hệ thống MFA mới | Hương - Project Manager | 25/06/2024 |
+| Lắp đặt và cấu hình server HSM mới | Tuấn - Security Lead | 30/06/2024 |
+| Xây dựng dashboard giám sát trên ELK | Team Security | 05/07/2024 |

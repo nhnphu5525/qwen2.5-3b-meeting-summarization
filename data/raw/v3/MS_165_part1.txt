@@ -1,0 +1,50 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00:10] Chào bác sĩ Hùng, chào chị Lan bên phòng điều dưỡng và anh Nam bên mảng CNTT nha. Sáng nay mình ngồi lại để bàn sâu về cái kế hoạch triển khai hệ thống bệnh án điện tử (EMR) cho khoa Khám bệnh của mình nè.
+[08:02:15] Dạ chào anh giám đốc. Về phía chuyên môn thì chúng tôi rất ủng hộ việc này. Tuy nhiên, tôi lo nhất là khâu nhập liệu ban đầu á anh. Các bác sĩ ở khoa Khám bệnh một ngày tiếp cả trăm bệnh nhân, nếu phần mềm mà thao tác phức tạp quá thì chắc chắn sẽ gây ùn ứ ở phòng chờ đó.
+[08:04:30] Ờ cái này bác sĩ Hùng nói đúng nè. Tôi thấy mấy bệnh viện khác họ triển khai mà bác sĩ cứ mải mê gõ phím, chẳng kịp ngó mặt bệnh nhân luôn, nhìn nó cứ sao sao ấy.
+[08:06:45] Dạ vầy nè anh Nam, bên CNTT đã có giải pháp gì để tối ưu hóa cái giao diện nhập liệu cho mấy bác chưa?
+[08:08:50] Dạ báo cáo các anh chị, bên em đã thiết kế cái giao diện theo hướng "one-click" rồi ạ. Tức là các danh mục bệnh lý, thuốc, hay chỉ định xét nghiệm đều có sẵn trong list gợi ý. Bác sĩ chỉ cần chọn thôi, không cần gõ thủ công nhiều đâu. Ngoài ra, em còn tích hợp cả tính năng giọng nói sang văn bản (Speech-to-Text) nữa để các bác sĩ có thể đọc kết quả chẩn đoán nhanh hơn.
+[08:11:10] Ôi cái Speech-to-Text đó nghe thì hay nhưng mà trong môi trường bệnh viện ồn ào như khoa Khám bệnh thì liệu nó có chính xác không Nam? Chưa kể giọng vùng miền của bác sĩ mình cũng đa dạng nữa.
+[08:13:25] Dạ cái này em đã test kỹ với mấy cái mic lọc nhiễu rồi chị Lan ơi. Độ chính xác đạt khoảng 95% đó ạ. Tất nhiên là sau khi đọc xong bác sĩ vẫn phải kiểm tra lại một lượt trước khi nhấn "Lưu".
+[08:15:40] Còn về vụ bảo mật dữ liệu thì sao hả Nam? Bệnh án điện tử mà để lộ thông tin bệnh nhân ra ngoài là rắc rối lớn lắm đó nha.
+
+<|output|>
+# Triển khai hệ thống bệnh án điện tử (EMR) cho khoa Khám bệnh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch chi tiết triển khai hệ thống bệnh án điện tử (EMR) tại khoa Khám bệnh.
+
+### 2. Các vấn đề đã thảo luận
+- **Giao diện và thao tác:** Bác sĩ lo ngại việc nhập liệu tốn thời gian gây ùn tắc. Bộ phận CNTT đề xuất giao diện "one-click", danh mục có sẵn và tích hợp Speech-to-Text để tối ưu hóa tốc độ.
+- **Bảo mật:** Sử dụng mã hóa đầu cuối và phân quyền chặt chẽ theo vai trò (bác sĩ điều trị, nhân viên nhà thuốc, điều dưỡng).
+
+### 3. Kết luận và quyết định
+- Chạy thử nghiệm (pilot) tại 3 phòng khám nội trú từ ngày 01/12/2024.
+- Triển khai đại trà cho toàn khoa Khám bệnh từ ngày 15/12/2024 sau khi đánh giá kết quả pilot.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn tất cấp tài khoản chữ ký số cho bác sĩ | Nam - Phòng CNTT | 28/11/2024 |
+| Tổ chức tập huấn sử dụng phần mềm EMR | Bác sĩ Hùng - Trưởng khoa | 30/11/2024 |

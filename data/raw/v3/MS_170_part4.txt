@@ -1,0 +1,74 @@
+<|input|>
+# Định hướng chiến lược ESG và phát triển bền vững tập đoàn giai đoạn 2025-2035
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác lập tầm nhìn chiến lược dài hạn về ESG (Môi trường - Xã hội - Quản trị) cho toàn tập đoàn.
+- Thống nhất các hạng mục đầu tư trọng điểm và lộ trình thực hiện để đạt được các tiêu chuẩn bền vững quốc tế.
+- Phân công trách nhiệm và thiết lập cơ chế giám sát cho các khối chuyên môn.
+
+### 2. Các vấn đề đã thảo luận
+- **Trụ cột Môi trường (Environmental):** 
+- **Trụ cột Xã hội (Social):**
+- **Trụ cột Quản trị (Governance):**
+
+### 3. Kết luận và quyết định
+- Phê duyệt lộ trình 10 năm phát triển bền vững 2025-2035.
+- Năm 2025 tập trung vào 3 nhiệm vụ chính: Hoàn thiện khung quản trị ESG, khởi công dự án nhà máy xanh và ra mắt báo cáo bền vững theo chuẩn GRI.
+- Giao khối Sản xuất, Nhân sự và CNTT phối hợp triển khai các dự án thành phần theo phân công.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập phương án vay vốn xanh cho dự án nhà máy Bình Dương | Hùng - Khối Sản xuất | 15/12/2024 |
+| Soạn thảo khung chỉ số KPI liên quan đến ESG | Mai - Khối Nhân sự | 20/12/2024 |
+| Triển khai POC Blockchain cho chuỗi cung ứng xuất khẩu | Nam - Khối CNTT | 30/01/2025 |
+| Liên hệ đơn vị kiểm toán báo cáo bền vững (Big4) | Phòng Tài chính | 10/12/2024 |
+| Xây dựng nội dung Workshop truyền thông ESG nội bộ | Mai - Khối Nhân sự | 25/12/2024 |
+| Tổng hợp và trình ký Nghị quyết chiến lược ESG | Thư ký Hội đồng Quản trị | 01/12/2024 |
+[09:45:15] Vậy lộ trình cụ thể năm 2025 là gì hả các anh? Mình không thể làm hết mọi thứ cùng lúc được.
+[09:50:30] Năm 2025, ưu tiên số 1 là: Hoàn thiện khung quản trị rủi ro ESG, khởi công thay thế dây chuyền tại nhà máy Bình Dương và ra mắt báo cáo bền vững đạt chuẩn GRI đầu tiên.
+[09:55:45] Dạ em đã ghi chú đầy đủ. Khối Sản xuất sẽ chịu trách nhiệm chính vụ nhà máy. Khối Nhân sự lo vụ đào tạo và an sinh xã hội. Khối CNTT lo vụ Blockchain và minh bạch số.
+[10:00:00] Các anh chị lưu ý nè, trên con đường này chắc chắn sẽ có nhiều lực cản, đặc biệt là từ những người ngại thay đổi hoặc chỉ nhìn thấy cái lợi trước mắt. Tôi mong Ban Giám đốc phải cực kỳ quyết liệt.
+[10:05:15] Dạ anh yên tâm, chúng em đã chuẩn bị sẵn tinh thần rồi. Vì một tương lai xanh và bền vững cho tập đoàn, tụi em sẽ không lùi bước đâu.
+[10:10:30] Ờ, tôi tin các anh chị. Buổi họp hôm nay rất chất lượng. Tôi đề nghị thư ký tổng hợp lại thành một nghị quyết cụ thể để Hội đồng Quản trị ký ban hành ngay trong tuần sau.
+[10:15:45] Dạ em sẽ hoàn thiện biên bản và gửi các anh chị duyệt lại trước khi trình ký ạ.
+[10:20:00] Chúc mọi người nhiều sức khỏe và năng lượng để thực hiện sứ mệnh lớn lao này. Cảm ơn tất cả!
+[10:25:15] Chào anh Chủ tịch, chào các anh chị ạ.
+
+<|output|>
+# Định hướng chiến lược ESG và phát triển bền vững tập đoàn giai đoạn 2025-2035
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác lập tầm nhìn chiến lược dài hạn về ESG (Môi trường - Xã hội - Quản trị) cho toàn tập đoàn.
+- Thống nhất các hạng mục đầu tư trọng điểm và lộ trình thực hiện để đạt được các tiêu chuẩn bền vững quốc tế.
+- Phân công trách nhiệm và thiết lập cơ chế giám sát cho các khối chuyên môn.
+
+### 2. Các vấn đề đã thảo luận
+- **Trụ cột Môi trường (Environmental):** 
+- **Trụ cột Xã hội (Social):**
+- **Trụ cột Quản trị (Governance):**
+- **Cơ chế vận hành:**
+
+### 3. Kết luận và quyết định
+- Phê duyệt lộ trình 10 năm phát triển bền vững 2025-2035.
+- Năm 2025 tập trung vào 3 nhiệm vụ chính: Hoàn thiện khung quản trị ESG, khởi công dự án nhà máy xanh và ra mắt báo cáo bền vững theo chuẩn GRI.
+- Giao khối Sản xuất, Nhân sự và CNTT phối hợp triển khai các dự án thành phần theo phân công.
+- Ban hành Nghị quyết chiến lược ESG của tập đoàn trong tuần tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập phương án vay vốn xanh cho dự án nhà máy Bình Dương | Hùng - Khối Sản xuất | 15/12/2024 |
+| Soạn thảo khung chỉ số KPI liên quan đến ESG | Mai - Khối Nhân sự | 20/12/2024 |
+| Triển khai POC Blockchain cho chuỗi cung ứng xuất khẩu | Nam - Khối CNTT | 30/01/2025 |
+| Liên hệ đơn vị kiểm toán báo cáo bền vững (Big4) | Phòng Tài chính | 10/12/2024 |
+| Xây dựng nội dung Workshop truyền thông ESG nội bộ | Mai - Khối Nhân sự | 25/12/2024 |
+| Tổng hợp và trình ký Nghị quyết chiến lược ESG | Thư ký Hội đồng Quản trị | 01/12/2024 |
+| Hoàn thiện báo cáo đánh giá tác động môi trường hiện tại | Hùng - Khối Sản xuất | 20/12/2024 |
+| Thiết kế chương trình học bổng cho con em công nhân | Mai - Khối Nhân sự | 15/01/2025 |

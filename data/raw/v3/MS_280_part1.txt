@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào mọi người, hôm nay tòa soạn họp để bàn về chiến lược chuyển đổi số và phát triển đa kênh (Multi-platform) cho hệ thống báo chí của chúng ta. Trong bối cảnh báo in đang sụt giảm doanh thu trầm trọng, việc tiến mạnh lên không gian số là con đường sống còn. Chị Lan, chị có thể cập nhật số liệu về lượng truy cập trên web và app của chúng ta tháng vừa qua không?
+[14:05] Chào anh Hùng, chào cả team. Tôi là Lan, trưởng phòng Digital. Tháng qua, lượng Pageviews trên website tăng 15% nhưng thời gian ở lại trang (Time on site) lại giảm nhẹ. Điều này cho thấy độc giả đang có xu hướng đọc lướt nhanh. Đáng chú ý là lượng truy cập từ TikTok và Facebook Reels đang tăng trưởng đột biến. Tuy nhiên, chúng ta vẫn chưa có một quy trình sản xuất nội dung video chuyên nghiệp cho các nền tảng này, chủ yếu vẫn là lấy bài viết rồi ghép ảnh thành video đơn giản.
+[14:10] Chào chị Lan, tôi là Nam bên bộ phận Nội dung video. Tôi đề xuất chúng ta nên thành lập một "Tổ tác chiến Short-video". Nhiệm vụ của tổ là biến các tin tức nóng hổi thành các video ngắn dưới 60 giây với ngôn ngữ trẻ trung, đồ họa bắt mắt. Chúng ta cần đầu tư thêm một số thiết bị quay phim cầm tay và phần mềm hậu kỳ nhanh. Khán giả Gen Z bây giờ họ không đọc báo, họ "xem" báo.
+[14:15] Ý kiến của Nam rất đúng xu thế. Chào mọi người, tôi là Thảo bên bộ phận Kinh doanh. Vấn đề là làm sao để kiếm tiền từ các nền tảng này? Doanh thu từ quảng cáo hiển thị (Banner) đang ngày càng thấp. Tôi đề xuất chúng ta nên triển khai mô hình "Native Advertising" (Quảng cáo tự nhiên) và "Sponsored Content" lồng ghép khéo léo vào các video và bài viết chuyên sâu. Ngoài ra, chúng ta có thể thử nghiệm mô hình "Paywall" - thu phí đối với các bài phân tích độc quyền và chất lượng cao.
+
+<|output|>
+# Chiến lược Chuyển đổi số và Phát triển Báo chí đa nền tảng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng chiến lược chuyển đổi số toàn diện cho tòa soạn nhằm thích ứng với xu hướng đọc tin tức trên không gian mạng.
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng độc giả: Ưu tiên đọc lướt, xem video ngắn trên TikTok/Facebook và nghe Podcast; thời gian ở lại trang web truyền thống giảm.
+- Nội dung: Cần thành lập tổ chuyên trách sản xuất video ngắn dưới 60 giây và thử nghiệm các kênh âm thanh (Podcast).
+
+### 3. Kết luận và quyết định
+- Thành lập "Tổ tác chiến Short-video" để đẩy mạnh sự hiện diện của tòa soạn trên TikTok và Reels.
+- Triển khai thử nghiệm mô hình thu phí đọc báo (Paywall) đối với các bài phân tích chuyên sâu từ giữa tháng sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thành lập tổ video ngắn và sản xuất demo | Anh Nam (Nội dung) | 28/03/2025 |
+| Xây dựng danh mục và mức phí cho bài viết Paywall | Chị Thảo & Chị Lan | 05/04/2025 |
+| Nâng cấp hệ thống thanh toán và AI cá nhân hóa | Anh Minh (IT) | 15/04/2025 |

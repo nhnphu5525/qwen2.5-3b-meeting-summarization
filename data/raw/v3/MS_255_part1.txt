@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Chào chị Mai, chào anh Đức và các bạn trong phòng Kế toán. Hôm nay chúng ta họp khẩn để rà soát lại toàn bộ chứng từ thuế cho đợt kiểm toán quyết toán thuế 3 năm (2022-2024) sắp tới. Chị Mai có thể cho biết tiến độ chuẩn bị hồ sơ của team mình đến đâu rồi không?
+[09:05] Chào anh Hùng, chào cả team. Hiện tại chúng tôi đã tập hợp được khoảng 90% hóa đơn đầu vào và đầu ra. Tuy nhiên, đang có một vấn đề lớn ở mảng chi phí tiếp khách và chi phí đi công tác. Nhiều hóa đơn không có bảng kê chi tiết hoặc mục đích đi công tác không rõ ràng so với hoạt động kinh doanh của công ty. Nếu không xử lý kỹ, cơ quan thuế rất dễ loại các khoản chi phí này ra khỏi chi phí hợp lý khi tính thuế TNDN.
+[09:10] Chào chị Mai, tôi là Đức bên bộ phận Nhân sự. Tôi muốn bổ sung là phần hồ sơ quyết toán thuế TNCN cho các chuyên gia nước ngoài cũng đang gặp rắc rối. Do thay đổi về quy định cư trú và các khoản phụ cấp nhà ở, việc tính toán số thuế phải nộp đang có sự chênh lệch giữa phần mềm của chúng ta và hướng dẫn mới nhất từ Cục thuế. Chúng ta cần rà soát lại các hợp đồng lao động và phụ lục đi kèm.
+[09:15] Cảm ơn Đức. Vấn đề của chuyên gia nước ngoài rất nhạy cảm, chúng ta không được để xảy ra sai sót dẫn đến phạt chậm nộp hoặc vi phạm pháp luật thuế. Chào chị Mai, tôi là Linh, chuyên viên kế toán thanh toán. Em thấy phần hoàn thuế GTGT cho dự án đầu tư mới tại Long An cũng đang bị treo. Bên chi cục thuế yêu cầu cung cấp thêm biên bản nghiệm thu giai đoạn và chứng từ thanh toán qua ngân hàng đối với các hóa đơn trên 20 triệu đồng. Em đã chuẩn bị nhưng chưa đủ bộ.
+
+<|output|>
+# Rà soát hồ sơ quyết toán thuế giai đoạn 2022-2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tiến độ chuẩn bị hồ sơ cho đợt kiểm toán quyết toán thuế TNDN, TNCN và GTGT.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí doanh nghiệp: Hóa đơn tiếp khách và công tác thiếu chứng từ chứng minh mục đích kinh doanh.
+- Thuế TNCN: Sai sót trong tính toán thuế cho chuyên gia nước ngoài do thay đổi quy định và hợp đồng lao động.
+
+### 3. Kết luận và quyết định
+- Thuê đơn vị tư vấn thuế bên ngoài để thực hiện hồ sơ giao dịch liên kết và soát xét tổng thể.
+- Lập hội đồng kiểm kê và thanh lý hàng hỏng ngay trong tuần này để hợp thức hóa chi phí.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thu thập báo giá và chọn đơn vị tư vấn thuế | Chị Mai (Kế toán) | 28/03/2025 |
+| Hoàn thiện bộ hồ sơ hoàn thuế GTGT dự án Long An | Chị Linh (Kế toán) | 26/03/2025 |
+| Kiểm kê, lập biên bản thanh lý hàng hỏng | Anh Tuấn (Kho) & Chị Linh | 27/03/2025 |

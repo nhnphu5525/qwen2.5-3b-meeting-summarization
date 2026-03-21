@@ -1,0 +1,46 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào mọi người, hôm nay Hội đồng Đầu tư của quỹ chúng ta họp để đánh giá cơ hội đầu tư vào dự án năng lượng tái tạo tại tỉnh Ninh Thuận. Đây là một dự án điện gió kết hợp điện mặt trời quy mô lớn. Tôi là Quang, Giám đốc Đầu tư. Anh Long, anh có thể trình bày sơ lược về các chỉ số tài chính của dự án này không?
+[14:05] Chào anh Quang, chào các thành viên hội đồng. Tôi là Long, chuyên viên phân tích tài chính. Theo mô hình mà team chúng tôi đã xây dựng, dự án có tổng vốn đầu tư khoảng 5.000 tỷ đồng. Với cơ chế giá FIT (Feed-in Tariff) hiện tại cho năng lượng tái tạo, chỉ số IRR (tỷ suất hoàn vốn nội bộ) dự kiến đạt khoảng 12-14%. Thời gian hoàn vốn là 8 năm. Tuy nhiên, chúng ta cần lưu ý là các dự báo này dựa trên giả định là hệ thống lưới điện quốc gia đủ khả năng hấp thụ toàn bộ sản lượng điện phát ra mà không bị cắt giảm công suất.
+[14:10] Chào anh Long, tôi là Thủy, phụ trách mảng Quản trị rủi ro. Điểm anh vừa nói chính là "nỗi đau" của các dự án tại Ninh Thuận hiện nay. Tình trạng quá tải đường dây truyền tải đang khiến nhiều dự án phải cắt giảm từ 20-30% công suất vào các giờ cao điểm. Nếu chúng ta đưa con số cắt giảm này vào mô hình tài chính, IRR có thể tụt xuống dưới 9%. Đây là mức không đủ hấp dẫn so với rủi ro chúng ta phải gánh chịu.
+[14:15] Chào chị Thủy, tôi là Tuấn, kỹ sư trưởng phụ trách đánh giá kỹ thuật. Để giải quyết vấn đề cắt giảm công suất, chủ đầu tư đang đề xuất lắp đặt thêm hệ thống lưu trữ năng lượng bằng pin (BESS). Việc này sẽ giúp tích trữ điện vào giờ thấp điểm và phát lên lưới vào giờ cao điểm khi đường dây thông thoáng. Tuy nhiên, lắp thêm BESS sẽ làm tổng mức vốn đầu tư tăng thêm khoảng 15-20%. Anh Long đã tính toán kịch bản này chưa?
+
+<|output|>
+# Đánh giá Dự án Đầu tư Năng lượng Tái tạo Ninh Thuận
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tính khả thi về tài chính, kỹ thuật và pháp lý của dự án điện gió kết hợp điện mặt trời tại Ninh Thuận.
+
+### 2. Các vấn đề đã thảo luận
+- Hiệu quả tài chính: IRR dự kiến 12-14% nhưng có nguy cơ tụt giảm nếu bị cắt giảm công suất do quá tải lưới điện quốc gia.
+- Giải pháp kỹ thuật: Đề xuất lắp đặt hệ thống lưu trữ pin (BESS) để tối ưu hóa dòng tiền và giá bán điện, dù làm tăng vốn đầu tư (CAPEX).
+
+### 3. Kết luận và quyết định
+- Yêu cầu team phân tích chạy lại mô hình tài chính với kịch bản tích hợp BESS, chi phí vận hành thực tế và chi phí phòng vệ tỷ giá.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật mô hình tài chính (BESS, OPEX, Hedging) | Anh Long (Phân tích) | 15/04/2025 |
+| Khảo sát thực địa và xác minh pháp lý tại Ninh Thuận | Chị Lan & Anh Minh | 10/04/2025 |

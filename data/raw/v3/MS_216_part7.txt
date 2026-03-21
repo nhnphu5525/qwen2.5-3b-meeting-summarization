@@ -1,0 +1,75 @@
+<|input|>
+# Báo cáo cuộc họp về Xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Xây dựng hiện tại
+- Giải quyết các tồn đọng liên quan đến vật liệu
+- Định hướng phát triển an toàn lao động trong quý tới
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý vật liệu
+- Thiếu hụt nguồn lực cho nhà thầu
+- Áp lực từ phía đối tác về an toàn lao động
+- Tác động của thị trường đến kế hoạch chung
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho an toàn lao động
+- Phân bổ thêm 2 nhân sự cho mảng vật liệu
+- Hoàn thiện báo cáo ngân sách dự án trước cuối tuần
+- Duyệt chi phí dự phòng cho nhà thầu
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ an toàn lao động | Phòng Kế hoạch | 13/05/2026 |
+| Liên hệ đối tác về thiết kế cơ điện | Team Technical | 03/08/2026 |
+| Kiểm tra tiến độ ngân sách dự án | Bộ phận Pháp lý | 06/01/2026 |
+| Lập kế hoạch chi tiết cho vật liệu | Bộ phận Pháp lý | 25/09/2026 |
+| Báo cáo kết quả tiến độ thi công | Bộ phận Pháp lý | 18/11/2026 |
+
+[13:14] Dạ Vụ vật liệu thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[11:08] Cảm ơn mọi người, cuộc họp về Xây dựng tạm dừng tại đây.
+[11:09] Vâng Cần phải làm rõ hơn về nhà thầu trong hợp đồng mới.
+[13:20] Về dài hạn thì nhà thầu sẽ là trọng tâm của năm nay.
+[13:22] Về phần ngân sách cho an toàn lao động, sếp đã duyệt chưa nhỉ?
+[13:24] Thì Đừng quên vụ thiết kế cơ điện cũng quan trọng không kém nhé.
+[11:13] Cần phải làm rõ hơn về tiến độ thi công trong hợp đồng mới.
+[11:14] Tóm lại Về phần ngân sách cho nhà thầu, sếp đã duyệt chưa nhỉ?
+[11:15] Cần phải làm rõ hơn về tiến độ thi công trong hợp đồng mới.
+[13:32] Về dài hạn thì thiết kế cơ điện sẽ là trọng tâm của năm nay.
+[11:17] Nói chung là Mọi người có ý kiến gì thêm về ngân sách dự án không?
+
+<|output|>
+# Báo cáo cuộc họp về Xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Xây dựng hiện tại
+- Giải quyết các tồn đọng liên quan đến vật liệu
+- Định hướng phát triển an toàn lao động trong quý tới
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý vật liệu
+- Thiếu hụt nguồn lực cho nhà thầu
+- Áp lực từ phía đối tác về an toàn lao động
+- Tác động của thị trường đến kế hoạch chung
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho an toàn lao động
+- Phân bổ thêm 2 nhân sự cho mảng vật liệu
+- Hoàn thiện báo cáo ngân sách dự án trước cuối tuần
+- Duyệt chi phí dự phòng cho nhà thầu
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ an toàn lao động | Phòng Kế hoạch | 13/05/2026 |
+| Liên hệ đối tác về thiết kế cơ điện | Team Technical | 03/08/2026 |
+| Kiểm tra tiến độ ngân sách dự án | Bộ phận Pháp lý | 06/01/2026 |
+| Lập kế hoạch chi tiết cho vật liệu | Bộ phận Pháp lý | 25/09/2026 |
+| Báo cáo kết quả tiến độ thi công | Bộ phận Pháp lý | 18/11/2026 |

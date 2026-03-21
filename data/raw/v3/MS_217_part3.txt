@@ -1,0 +1,70 @@
+<|input|>
+# Báo cáo cuộc họp về Ngân hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Ngân hàng hiện tại
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý tín dụng
+- Thiếu hụt nguồn lực cho tín dụng
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho bảo hiểm
+- Phân bổ thêm 2 nhân sự cho mảng huy động vốn
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ thẻ tín dụng | Team Technical | 10/04/2026 |
+| Liên hệ đối tác về nợ xấu | Bộ phận Pháp lý | 03/02/2026 |
+
+[10:30] Vấn đề bảo hiểm thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:46] Tôi lo nhất là cái lãi suất tiền gửi, tiến độ đang bị khựng lại.
+[09:47] Ai sẽ chịu trách nhiệm chính cho mảng nợ xấu nhỉ?
+[09:48] Thì đấy Vụ nợ xấu thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:49] Cái tín dụng này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:50] Cần phải làm rõ hơn về nợ xấu trong hợp đồng mới.
+[10:42] Thì đấy Cảm ơn mọi người, cuộc họp về Ngân hàng tạm dừng tại đây.
+[10:44] Hình như Tôi thấy huy động vốn hiện tại là cơ hội tốt để mình bứt phá.
+[10:46] Cái lãi suất tiền gửi này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[10:48] Thì đấy Đừng quên vụ huy động vốn cũng quan trọng không kém nhé.
+[09:55] À Cần phải làm rõ hơn về bảo hiểm trong hợp đồng mới.
+[10:52] Cái thẻ tín dụng này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:57] Chắc là Về phần ngân sách cho huy động vốn, sếp đã duyệt chưa nhỉ?
+[09:58] Vâng Bên đối tác họ cứ hỏi mãi về nợ xấu, mình phải trả lời sao đây?
+[09:59] Đúng rồi, cái thẻ tín dụng cần được ưu tiên xử lý trước thứ Sáu này.
+[10:00] Hình như Bên đối tác họ cứ hỏi mãi về huy động vốn, mình phải trả lời sao đây?
+[10:01] Cái huy động vốn này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[11:04] Ai sẽ chịu trách nhiệm chính cho mảng tín dụng nhỉ?
+[10:03] Về dài hạn thì huy động vốn sẽ là trọng tâm của năm nay.
+[11:08] Thế thì mình chốt phương án cho chuyển đổi số luôn đi, đừng kéo dài nữa.
+[11:10] Nói chung là Tôi thấy nợ xấu hiện tại là cơ hội tốt để mình bứt phá.
+[11:12] Cái nợ xấu này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+
+<|output|>
+# Báo cáo cuộc họp về Ngân hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Ngân hàng hiện tại
+- Giải quyết các tồn đọng liên quan đến chuyển đổi số
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý tín dụng
+- Thiếu hụt nguồn lực cho tín dụng
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho bảo hiểm
+- Phân bổ thêm 2 nhân sự cho mảng huy động vốn
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ thẻ tín dụng | Team Technical | 10/04/2026 |
+| Liên hệ đối tác về nợ xấu | Bộ phận Pháp lý | 03/02/2026 |
+| Kiểm tra tiến độ lãi suất tiền gửi | Phòng Kế hoạch | 22/03/2026 |

@@ -1,0 +1,62 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:30] Ờm Cảm ơn mọi người, buổi họp về Mua sắm Thiết bị Y tế hôm nay rất chất lượng.
+[08:32] Thôi được rồi, vậy thống nhất là làm bảo trì thiết bị theo cách đó.
+[08:32] Thế còn ngân sách cho ngân sách bệnh viện thì sao hả mọi người?
+[08:33] Thôi được rồi, vậy thống nhất là làm hợp đồng thầu theo cách đó.
+[08:38] Cảm ơn mọi người, buổi họp về Mua sắm Thiết bị Y tế hôm nay rất chất lượng.
+[08:40] Thôi được rồi, vậy thống nhất là làm vật tư tiêu hao theo cách đó.
+[08:36] Ờm, cái tiêu chuẩn y tế này thực ra là một vấn đề khá nan giải.
+[08:44] Cái tiêu chuẩn y tế này hình như đang bị vướng chỗ nào đó đúng không?
+[08:46] Mọi người cứ cho ý kiến thoải mái về ngân sách bệnh viện đi ạ.
+[08:48] Về phần ngân sách bệnh viện thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[08:50] Ờm Tôi nghĩ là mình nên xem xét lại cái vật tư tiêu hao này một chút.
+[08:41] Ờm Đừng quên là máy chụp X-quang cũng ảnh hưởng nhiều đến kết quả chung đó.
+[08:42] Mọi người có thấy vụ ngân sách bệnh viện dạo này bị chậm không?
+[08:56] Để tôi check lại với bên máy chụp X-quang xem tình hình thế nào nhé.
+[08:58] Ờm Để tôi check lại với bên bảo trì thiết bị xem tình hình thế nào nhé.
+[09:00] Mọi người cứ cho ý kiến thoải mái về tiêu chuẩn y tế đi ạ.
+[09:02] Tôi nghĩ là mình nên xem xét lại cái tiêu chuẩn y tế này một chút.
+[08:47] Thôi được rồi, vậy thống nhất là làm máy chụp X-quang theo cách đó.
+[09:06] Mọi người có thấy vụ hợp đồng thầu dạo này bị chậm không?
+[08:49] Vâng Liệu mình có thể đẩy nhanh tiến độ cho tiêu chuẩn y tế được không?
+[08:50] Tóm lại là Cần phải làm rõ thêm các chi tiết liên quan đến máy chụp X-quang.
+[08:51] Chào cả nhà, chúng ta bắt đầu bàn về máy chụp X-quang nhé.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Mua sắm Thiết bị Y tế
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho bảo trì thiết bị
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hợp đồng thầu
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ bảo trì thiết bị | Bộ phận Tài chính | 01/05/2026 |

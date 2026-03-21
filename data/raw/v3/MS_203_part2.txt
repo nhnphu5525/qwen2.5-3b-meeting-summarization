@@ -1,0 +1,85 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Y tế
+- Giải quyết các vướng mắc về dịch vụ y tế, bảo hiểm y tế
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Y tế hiện nay
+- Khó khăn trong việc xử lý dịch vụ y tế
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Y tế
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý chăm sóc sức khỏe | Bộ phận Kỹ thuật | 09/08/2026 |
+| Xử lý số hóa hồ sơ | Bộ phận Kỹ thuật | 05/04/2026 |
+| Xử lý số hóa hồ sơ | Bộ phận Kỹ thuật | 15/05/2026 |
+
+[09:46] Tôi thấy vấn đề bảo hiểm y tế này quan trọng phết, cần xử lý sớm.
+[10:12] Tôi đề xuất chốt hạn chót cho bệnh viện là cuối tháng này được không?
+[10:15] Để tôi check lại mấy cái số liệu của vaccine rồi báo lại cả nhà sau.
+[10:18] Thực ra Tôi lo là dịch vụ y tế sẽ tốn nhiều chi phí hơn dự kiến.
+[09:54] Vâng Mọi người nghĩ sao nếu mình đổi phương án cho số hóa hồ sơ?
+[10:24] Thực ra Cảm ơn mọi người, buổi họp hôm nay về Y tế rất hiệu quả.
+[10:27] À Để tôi gửi tài liệu về số hóa hồ sơ cho mọi người qua email sau buổi họp.
+[10:30] Hiện tại cái dịch vụ y tế đang bị chậm tiến độ một chút vì thiếu người.
+[09:31] À Đúng rồi, tôi cũng nghĩ thế, cái chăm sóc sức khỏe nên được ưu tiên.
+[10:04] Tôi lo là chăm sóc sức khỏe sẽ tốn nhiều chi phí hơn dự kiến.
+[10:06] Bên khách hàng họ cứ hối thúc vụ bệnh viện suốt.
+[09:34] Thì À còn một việc nữa là cái chăm sóc sức khỏe, mọi người thấy ổn chưa?
+[10:10] Để tôi gửi tài liệu về vaccine cho mọi người qua email sau buổi họp.
+[10:12] Về phần thuốc ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[10:14] Tôi đề xuất chốt hạn chót cho số hóa hồ sơ là cuối tháng này được không?
+[09:38] Nói chung là Tôi thấy vấn đề số hóa hồ sơ này quan trọng phết, cần xử lý sớm.
+[09:39] Để tôi check lại mấy cái số liệu của dịch vụ y tế rồi báo lại cả nhà sau.
+[11:00] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[11:03] Mong là lần này bảo hiểm y tế sẽ ổn thỏa hơn mấy lần trước.
+[11:06] Thì Tôi thấy vấn đề dịch vụ y tế này quan trọng phết, cần xử lý sớm.
+[11:09] Để tôi check lại mấy cái số liệu của thuốc rồi báo lại cả nhà sau.
+[10:28] Thì Mọi người nghĩ sao nếu mình đổi phương án cho bảo hiểm y tế?
+[09:45] Nói chung là Tôi đề xuất chốt hạn chót cho vaccine là cuối tháng này được không?
+[10:32] Về phần dịch vụ y tế ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[10:34] Mong là lần này bảo hiểm y tế sẽ ổn thỏa hơn mấy lần trước.
+[11:24] Nhưng mà còn cái dịch vụ y tế thì tính sao đây? Sắp hết hạn rồi.
+[10:38] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về bảo hiểm y tế.
+[09:50] Thì Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về bảo hiểm y tế.
+[11:33] À Để tôi check lại mấy cái số liệu của dịch vụ y tế rồi báo lại cả nhà sau.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Y tế
+- Giải quyết các vướng mắc về dịch vụ y tế, bảo hiểm y tế
+- Đưa ra kế hoạch triển khai cho giai đoạn tới
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Y tế hiện nay
+- Khó khăn trong việc xử lý dịch vụ y tế
+- Đề xuất cải thiện quy trình bảo hiểm y tế
+- Đánh giá tác động của các yếu tố ngoại cảnh
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Y tế
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+- Phân công trách nhiệm cụ thể cho các đơn vị liên quan
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý chăm sóc sức khỏe | Bộ phận Kỹ thuật | 09/08/2026 |
+| Xử lý số hóa hồ sơ | Bộ phận Kỹ thuật | 05/04/2026 |
+| Xử lý số hóa hồ sơ | Bộ phận Kỹ thuật | 15/05/2026 |
+| Xử lý bệnh viện | Bộ phận Kỹ thuật | 25/07/2026 |
+| Xử lý bệnh viện | Chị Lan | 04/08/2026 |

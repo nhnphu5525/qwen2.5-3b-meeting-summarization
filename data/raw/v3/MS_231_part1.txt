@@ -1,0 +1,60 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:30] Chào mọi người, buổi họp sáng nay chúng ta sẽ tập trung vào tình hình biến động tỷ giá và tác động đến chi phí nhập khẩu nguyên liệu.
+[08:32] Vâng, hiện tại tỷ giá USD/VND đang tăng khá mạnh, điều này làm chi phí đầu vào của mình đội lên khoảng 5% so với tháng trước.
+[08:34] Liệu chúng ta có thể đàm phán lại với nhà cung cấp về việc thanh toán bằng đồng nội tệ hoặc giãn tiến độ thanh toán không?
+[08:36] Tôi đã thử trao đổi sơ qua, nhưng các đối tác nước ngoài vẫn ưu tiên thanh toán bằng USD để đảm bảo an toàn vốn của họ.
+[08:38] Nếu vậy thì mình phải cân nhắc phương án mua hợp đồng tương lai để chốt tỷ giá sớm, tránh rủi ro biến động thêm nữa.
+[08:40] Ý tưởng này hay đấy, bên bộ phận tài chính nên làm việc với ngân hàng để lấy báo giá các gói phòng ngừa rủi ro tỷ giá.
+[08:42] Ngoài ra, chúng ta cũng cần rà soát lại các hợp đồng sắp ký để bổ sung điều khoản chia sẻ rủi ro tỷ giá với khách hàng.
+[08:44] Đồng ý, không thể để công ty chịu hết phần lỗ tỷ giá được. Sale cũng cần thông báo cho khách về khả năng điều chỉnh giá bán nếu tình hình tiếp tục căng thẳng.
+[08:46] Hạn chót để có báo cáo đánh giá tác động chi tiết là thứ Sáu tới nhé.
+[08:48] Vâng, tôi sẽ phối hợp với kế toán để tổng hợp số liệu.
+
+<|output|>
+# Đánh giá tác động biến động tỷ giá đến chi phí nhập khẩu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về tình hình biến động tỷ giá USD/VND và tác động đến chi phí nguyên liệu.
+- Tìm kiếm giải pháp giảm thiểu rủi ro tài chính cho công ty.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí đầu vào tăng 5% do tỷ giá USD tăng mạnh.
+- Khó khăn trong việc đàm phán thanh toán bằng đồng nội tệ với đối tác nước ngoài.
+- Đề xuất mua hợp đồng tương lai (hedging) để chốt tỷ giá.
+- Cần bổ sung điều khoản chia sẻ rủi ro tỷ giá vào các hợp đồng mới.
+- Khả năng điều chỉnh giá bán sản phẩm nếu tỷ giá tiếp tục tăng.
+
+### 3. Kết luận và quyết định
+- Ưu tiên phương án sử dụng các công cụ phái sinh tài chính để phòng ngừa rủi ro.
+- Yêu cầu bộ phận Sale làm việc với khách hàng về lộ trình điều chỉnh giá.
+- Hoàn thành báo cáo đánh giá tác động chi tiết vào cuối tuần.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Làm việc với ngân hàng về báo giá hợp đồng tương lai | Phòng Tài chính | 22/03/2026 |
+| Rà soát điều khoản rủi ro trong hợp đồng mẫu | Phòng Pháp chế | 24/03/2026 |
+| Thông báo lộ trình giá cho khách hàng | Phòng Kinh doanh | 25/03/2026 |
+| Tổng hợp báo cáo tác động chi phí chi tiết | Phòng Kế toán | 20/03/2026 |

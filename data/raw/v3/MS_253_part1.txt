@@ -1,0 +1,51 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00] Chào các thầy cô, hôm nay chúng ta họp để rà soát lại chương trình đào tạo ngành Khoa học dữ liệu cho năm học tới. Mục tiêu là làm sao để sinh viên ra trường có kỹ năng thực chiến tốt hơn, đáp ứng được yêu cầu khắt khe của doanh nghiệp. Thầy Hiển, thầy có nhận xét gì về giáo trình hiện tại không?
+[14:05] Chào cô Minh, chào các đồng nghiệp. Qua khảo sát từ các doanh nghiệp đối tác, tôi thấy sinh viên của chúng ta rất giỏi về lý thuyết và toán học, nhưng lại lúng túng khi xử lý các tập dữ liệu thực tế lớn và hỗn loạn. Giáo trình hiện tại đang quá tập trung vào các mô hình mẫu có sẵn trong sách giáo khoa. Chúng ta cần bổ sung thêm các học phần về Data Engineering và quy trình triển khai model (MLOps).
+[14:10] Ý kiến của thầy Hiển rất xác đáng. Chào thầy, tôi là Hương bên bộ phận Quan hệ doanh nghiệp. Gần đây tôi có làm việc với một số tập đoàn công nghệ lớn như VNG và FPT, họ sẵn sàng cung cấp các bài toán thực tế và dữ liệu đã được anonymize để sinh viên làm đồ án. Tôi nghĩ chúng ta nên đưa các bài toán này vào các môn chuyên ngành ngay từ năm thứ 3 thay vì đợi đến khi làm đồ án tốt nghiệp.
+[14:15] Chào cô Hương, thầy Hiển. Tôi là Dũng, phụ trách môn học Máy học nâng cao. Nếu đưa dữ liệu thực tế vào giảng dạy, chúng ta cần nâng cấp hệ thống server của khoa. Hiện tại các máy tính ở phòng lab không đủ cấu hình để chạy các mô hình Deep Learning phức tạp trên dữ liệu lớn. Việc này đòi hỏi một khoản ngân sách đầu tư không nhỏ cho hạ tầng cloud hoặc server vật lý.
+[14:20] Về vấn đề kinh phí, tôi sẽ làm việc với Ban giám hiệu để xin thêm gói hỗ trợ đặc biệt cho ngành mũi nhọn. Chào thầy Dũng, cô Hương, tôi nghĩ trước mắt chúng ta có thể tận dụng các gói free tier của AWS hoặc Google Cloud dành cho giáo dục. Thầy Dũng có thể nghiên cứu phương án này và lập danh sách các tài nguyên cần thiết không?
+
+<|output|>
+# Cập nhật Chương trình Đào tạo ngành Khoa học dữ liệu 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và cập nhật giáo trình ngành Khoa học dữ liệu nhằm tăng tính thực hành.
+- Giải quyết vấn đề khoảng cách giữa lý thuyết học thuật và yêu cầu thực tế của doanh nghiệp.
+
+### 2. Các vấn đề đã thảo luận
+- Điểm yếu của sinh viên: Giỏi lý thuyết nhưng thiếu kỹ năng xử lý dữ liệu thực tế và triển khai model (MLOps).
+- Hợp tác doanh nghiệp: Doanh nghiệp sẵn sàng cung cấp dữ liệu thực tế để sinh viên thực hành.
+- Hạ tầng kỹ thuật: Phòng lab hiện tại chưa đáp ứng được yêu cầu chạy mô hình phức tạp; cần phương án Cloud hoặc nâng cấp server.
+
+### 3. Kết luận và quyết định
+- Xây dựng môn học tự chọn mới về MLOps và đưa các bài toán thực tế vào giảng dạy từ năm thứ 3.
+- Tận dụng các nền tảng Cloud (AWS, Google Cloud) để giải quyết vấn đề hạ tầng trước mắt.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Biên soạn đề cương môn học MLOps | Thầy Hiển & Thầy Dũng | 15/04/2025 |
+| Lập đề xuất kỹ thuật về tài nguyên Cloud | Thầy Dũng (Bộ môn Máy học) | 05/04/2025 |
+| Kết nối doanh nghiệp và chốt danh sách chuyên gia | Cô Hương (Đối ngoại) | 10/04/2025 |

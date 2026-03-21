@@ -1,0 +1,48 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00:05] Chào mọi người. Hôm nay chúng ta có một buổi họp cực kỳ "mật" và quan trọng. Như anh đã đánh tiếng từ trước, hôm nay mình sẽ thảo luận chi tiết về kế hoạch mua lại và sáp nhập (M&A) đối thủ lớn nhất của mình hiện nay - công ty Alpha. Đây là bước đi mang tính quyết định cho tương lai của chúng ta trong 5 năm tới.
+[09:01:30] Dạ chào anh. Em bên team Chiến lược đã chuẩn bị sẵn một số phân tích sơ bộ rồi. Nói thật là lúc nghe tin này em cũng hơi "choáng", vì Alpha lâu nay là đối trọng cực kỳ khó chịu của mình. Nếu mà "nuốt" được họ thì thị phần của mình chắc chắn sẽ chiếm lĩnh hơn 60% thị trường luôn anh ơi.
+[09:02:45] Choáng là đúng rồi Hải. Nhưng mà "thời cơ đã chín". Anh biết tin nội bộ là bên đó đang gặp vấn đề về dòng tiền do đầu tư dàn trải quá mức. Chủ tịch bên đó cũng đang muốn thoái vốn để tập trung vào mảng khác. Đây là cơ hội "ngàn năm có một" để mình loại bỏ đối thủ và mở rộng quy mô.
+[09:04:10] Anh ơi, nhưng mà Alpha họ cũng "không phải dạng vừa đâu". Hệ thống phân phối của họ cực mạnh ở khu vực miền Trung với miền Bắc, đúng cái chỗ mình đang yếu. Nếu sáp nhập được thì mình sẽ tiết kiệm được ít nhất 3 năm tự xây dựng mạng lưới dưới đó.
+[09:05:35] Đúng là vậy. Nhưng mà Lan ơi, vụ tài chính thì sao? Em đã xem qua báo cáo tài chính 3 năm gần nhất của họ chưa? Anh lo là đằng sau cái vẻ hào nhoáng đó là một đống nợ xấu thì mình "ôm" vào chỉ có nước chết chung thôi.
+[09:07:00] Dạ vầy nè anh, em đã nhờ bên đơn vị tư vấn độc lập họ "soi" thử rồi. Đúng là nợ ngắn hạn của họ đang cao kỷ lục, chủ yếu là nợ vay ngân hàng để xây cái nhà máy mới ở Bắc Ninh á. Nhưng bù lại, tài sản cố định của họ rất giá trị, đặc biệt là dàn máy móc công nghệ Đức mà mình đang ao ước bấy lâu nay.
+
+<|output|>
+# Kế hoạch mua lại và sáp nhập (M&A) đối thủ Alpha
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận chiến lược thâu tóm công ty Alpha - đối thủ cạnh tranh lớn nhất trên thị trường.
+
+### 2. Các vấn đề đã thảo luận
+- **Lý do chiến lược:** Tăng thị phần lên mức áp đảo (60%), sở hữu hệ thống phân phối mạnh tại miền Bắc/miền Trung và tiếp nhận công nghệ sản xuất hiện đại của đối thủ.
+- **Thực trạng đối tác:** Alpha đang gặp khó khăn về dòng tiền và nợ vay ngân hàng lớn nhưng sở hữu tài sản cố định và thương hiệu có giá trị cao.
+
+### 3. Kết luận và quyết định
+- Chính thức khởi động dự án M&A mã hiệu "Dự án Alpha".
+- Thành lập 4 nhóm thẩm định chi tiết (DD): Tài chính, Pháp lý, Kỹ thuật và Nhân sự với thời hạn báo cáo trong vòng 2 tuần.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tiếp cận và đàm phán sơ bộ với Chủ tịch công ty Alpha | Anh Long | 20/10/2023 |
+| Thành lập và triển khai 4 nhóm thẩm định (DD) chi tiết | Hải (Chiến lược) | 25/10/2023 |

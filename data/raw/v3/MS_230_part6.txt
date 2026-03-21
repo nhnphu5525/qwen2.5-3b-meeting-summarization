@@ -1,0 +1,61 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Kiểm toán Nội bộ Bán lẻ
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho chống gian lận
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hiệu quả hoạt động
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thất thoát hàng hóa | Anh Quốc | 25/06/2026 |
+
+[12:00] Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[10:16] Mọi người có thấy vụ kiểm kê định kỳ dạo này bị chậm không?
+[10:17] Ý tôi là Tôi đề xuất mình sẽ tập trung nguồn lực vào kiểm kê định kỳ trong tuần này.
+[12:06] Để tôi check lại với bên thất thoát hàng hóa xem tình hình thế nào nhé.
+[12:08] Dạ Tôi nghĩ là mình nên xem xét lại cái thất thoát hàng hóa này một chút.
+[12:10] Thôi được rồi, vậy thống nhất là làm quản lý tồn kho theo cách đó.
+[12:12] Tóm lại là Về phần quy trình bán hàng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[12:14] Ờm Chào cả nhà, chúng ta bắt đầu bàn về thất thoát hàng hóa nhé.
+[12:16] Tóm lại là Về phần quản lý tồn kho thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[10:24] Mọi người có thấy vụ quản lý tồn kho dạo này bị chậm không?
+[10:25] Vâng, tôi cũng thấy việc tối ưu hiệu quả hoạt động là rất cần thiết.
+[10:26] Ờm Tôi nghĩ là mình nên xem xét lại cái quản lý tồn kho này một chút.
+[10:27] Tôi đề xuất mình sẽ tập trung nguồn lực vào chống gian lận trong tuần này.
+[10:28] Mọi người có thấy vụ quy trình bán hàng dạo này bị chậm không?
+[12:28] Chào cả nhà, chúng ta bắt đầu bàn về quản lý tồn kho nhé.
+[10:30] Nói chung là mình phải chốt phương án cho hiệu quả hoạt động ngay trong hôm nay.
+[12:32] Cần phải làm rõ thêm các chi tiết liên quan đến kiểm kê định kỳ.
+[10:32] Mọi người có thấy vụ kiểm kê định kỳ dạo này bị chậm không?
+[12:36] Tôi đề xuất mình sẽ tập trung nguồn lực vào quản lý tồn kho trong tuần này.
+[10:34] Ờm Về phần quy trình bán hàng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[12:40] Ý tôi là Tôi nghĩ là mình nên xem xét lại cái quản lý tồn kho này một chút.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Kiểm toán Nội bộ Bán lẻ
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho chống gian lận
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hiệu quả hoạt động
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thất thoát hàng hóa | Anh Quốc | 25/06/2026 |

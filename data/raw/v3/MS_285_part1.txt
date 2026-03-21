@@ -1,0 +1,61 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[10:00] Chào team, hôm nay chúng ta sẽ thảo luận về lộ trình nâng cấp hạ tầng Cloud và triển khai kiến trúc Microservices cho hệ thống thương mại điện tử của công ty.
+[10:03] Hiện tại hệ thống Monolith của chúng ta đang gặp vấn đề nghiêm trọng về khả năng mở rộng mỗi khi có các chiến dịch khuyến mãi lớn như 11.11 hay 12.12.
+[10:06] Đúng vậy, tôi thấy rằng mỗi khi traffic tăng cao, database thường xuyên bị lock và toàn bộ hệ thống trở nên cực kỳ chậm chạp.
+[10:09] Việc chuyển đổi sang Microservices sẽ giúp chúng ta cô lập các thành phần. Nếu module thanh toán gặp sự cố, nó sẽ không làm ảnh hưởng đến module tìm kiếm hay xem sản phẩm.
+[10:12] Tôi đề xuất sử dụng Kubernetes để quản lý các container. Nó cung cấp khả năng tự động scale và tự phục hồi rất tốt.
+[10:15] Nhưng điều này cũng đi kèm với sự phức tạp trong việc vận hành và giám sát. Chúng ta cần một hệ thống Logging và Tracing tập trung như ELK stack và Jaeger.
+[10:18] Về phía Database, thay vì dùng một database quan hệ duy nhất, chúng ta nên cân nhắc sử dụng Polyglot Persistence. Ví dụ, dùng MongoDB cho thông tin sản phẩm và Redis cho caching.
+[10:21] Tôi lo ngại về tính nhất quán dữ liệu giữa các dịch vụ. Chúng ta sẽ áp dụng pattern SAGA hay dùng Two-Phase Commit?
+[10:24] Event-driven architecture với Kafka có vẻ là lựa chọn phù hợp nhất cho bài toán của chúng ta để đảm bảo tính nhất quán cuối cùng (eventual consistency).
+[10:27] Ngoài ra, vấn đề bảo mật cũng cực kỳ quan trọng. Chúng ta cần triển khai API Gateway với cơ chế chứng thực OAuth2 và OIDC.
+[10:30] Hệ thống CI/CD hiện tại cũng cần được nâng cấp. Việc build và deploy phải hoàn toàn tự động để giảm thiểu sai sót do con người.
+[10:33] Tôi sẽ phụ trách việc thiết lập pipeline trên GitLab CI, tích hợp các công cụ quét mã nguồn như SonarQube để đảm bảo chất lượng code.
+
+<|output|>
+# Nâng cấp hạ tầng Cloud và chuyển đổi kiến trúc Microservices
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về lộ trình chuyển đổi từ hệ thống Monolith sang Microservices.
+- Thống nhất các công nghệ lõi (Kubernetes, Kafka, MongoDB, GitLab CI).
+
+### 2. Các vấn đề đã thảo luận
+- Khả năng mở rộng kém của hệ thống hiện tại trong các dịp cao điểm.
+- Lợi ích và thách thức khi triển khai Microservices (độ phức tạp vận hành, giám sát).
+- Sử dụng Kubernetes để quản lý container và tự động scale.
+- Áp dụng Polyglot Persistence và Event-driven architecture để xử lý dữ liệu.
+- Nâng cấp hệ thống bảo mật với API Gateway và OAuth2.
+
+### 3. Kết luận và quyết định
+- Chốt sử dụng Kubernetes và Kafka làm nền tảng cho kiến trúc mới.
+- Triển khai pipeline CI/CD tự động tích hợp SonarQube.
+- Tổ chức các buổi tech-sharing hàng tuần cho đội ngũ dev.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản vẽ kiến trúc tổng thể | Team Lead Backend | 10/04/2024 |
+| Thiết lập Pipeline CI/CD trên GitLab | Team DevOps | 15/04/2024 |
+| Xây dựng kịch bản Load Test | Team QA | 20/04/2024 |

@@ -1,0 +1,54 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00] Chào mọi người. Hôm nay chúng ta có một buổi họp rất quan trọng về việc tối ưu hóa chuỗi cung ứng và triển khai tự động hóa cho kho bãi trung tâm của công ty.
+[08:02] Hiện tại chi phí logistics của chúng ta đang chiếm tới 25% giá thành sản phẩm, con số này là quá cao so với mức trung bình ngành là 15-18%.
+[08:04] Nguyên nhân chính là do quy trình xử lý đơn hàng thủ công quá nhiều, dẫn đến sai sót và thời gian chờ đợi tại kho kéo dài.
+[08:06] Tôi thấy việc quản lý tồn kho hiện tại cũng đang có vấn đề. Nhiều mặt hàng hot thì hết trong khi hàng tồn kho cũ lại ứ đọng quá nhiều.
+[08:08] Đó là lý do chúng ta cần triển khai hệ thống WMS (Warehouse Management System) tích hợp với ERP hiện tại.
+[08:10] Liệu hệ thống mới có giúp mình dự báo được nhu cầu thị trường để nhập hàng chính xác hơn không?
+[10:12] Có, hệ thống sẽ sử dụng các thuật toán AI để phân tích dữ liệu bán hàng lịch sử và đưa ra gợi ý nhập hàng tối ưu nhất.
+[10:14] Về phần tự động hóa tại kho, tôi đề xuất lắp đặt hệ thống băng tải tự động và xe tự hành AGV để thay thế xe nâng tay truyền thống.
+[10:16] Chi phí đầu tư cho AGV không hề rẻ, mình đã tính toán thời gian hoàn vốn (ROI) chưa?
+[10:18] Dự kiến nếu hoạt động hết công suất, AGV sẽ giúp giảm 40% nhân công trực tiếp tại kho và rút ngắn 50% thời gian soạn hàng. ROI sẽ vào khoảng 2.5 năm.
+[10:20] 2.5 năm là con số chấp nhận được trong ngành logistics. Tuy nhiên, mặt sàn kho hiện tại có đủ phẳng để AGV hoạt động không?
+[10:22] Đúng là mặt sàn kho A đang hơi lồi lõm, mình cần phải gia cố lại sàn bằng sơn epoxy cường lực trước khi đưa máy móc vào.
+
+<|output|>
+# Tối ưu hóa chuỗi cung ứng và triển khai tự động hóa kho bãi
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giảm chi phí logistics từ 25% xuống mức 15-18% giá thành sản phẩm.
+- Triển khai hệ thống quản lý kho thông minh (WMS) và tự động hóa bằng robot AGV.
+
+### 2. Các vấn đề đã thảo luận
+- Quy trình soạn hàng thủ công gây sai sót và lãng phí thời gian.
+- Phân tích hiệu quả đầu tư (ROI) của hệ thống xe tự hành AGV và yêu cầu gia cố mặt sàn kho.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án tự động hóa kho bãi với lộ trình triển khai trong vòng 6 tháng.
+- Lựa chọn hệ thống WMS có khả năng tích hợp sâu với ERP và ứng dụng AI trong dự báo tồn kho.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát thực địa và lập phương án gia cố sàn kho | Team Kỹ thuật | 30/03 |

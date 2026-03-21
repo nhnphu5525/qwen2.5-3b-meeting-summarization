@@ -1,0 +1,46 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:00:00] Kính thưa Hội đồng Quản trị, Ban Giám đốc và toàn thể các anh chị quản lý cấp cao. Hôm nay chúng ta tập trung tại đây cho một chương trình nghị sự quan trọng nhất của thập kỷ: Định hướng chiến lược ESG (Môi trường - Xã hội - Quản trị) và phát triển bền vững của tập đoàn giai đoạn 2025-2035.
+[08:05:15] Cảm ơn anh Tổng Giám đốc. Tôi thay mặt Hội đồng Quản trị nhấn mạnh rằng ESG không còn là một lựa chọn "có thì tốt" nữa, mà nó đã trở thành điều kiện sống còn để chúng ta tiếp cận các nguồn vốn quốc tế và duy trì niềm tin của khách hàng toàn cầu.
+[08:10:30] Ờ thì đúng như anh Chủ tịch nói, đợt rồi tôi đi làm việc với mấy quỹ đầu tư từ châu Âu, họ soi cái báo cáo phát thải khí nhà kính của mình kỹ lắm. Nếu mình không có lộ trình Net Zero rõ ràng, họ dọa sẽ thoái vốn trong vòng 2 năm tới.
+[08:15:45] Dạ vầy nè các anh, bên khối Sản xuất của em đã bắt đầu rà soát lại toàn bộ hệ thống xử lý nước thải và khí thải rồi. Nhưng mà để đạt được tiêu chuẩn quốc tế thì mình cần đầu tư thay mới toàn bộ dây chuyền công nghệ cũ ở nhà máy Bình Dương. Chi phí này ước tính không dưới 500 tỷ đâu ạ.
+[08:20:00] 500 tỷ là con số lớn, nhưng nếu chia lộ trình 5 năm thì tôi nghĩ tài chính mình kham được. Quan trọng là cái công nghệ mới đó nó giúp mình tiết kiệm được bao nhiêu điện năng và nguyên liệu đầu vào hả Hùng?
+[08:25:15] Dạ báo cáo anh, theo tính toán của đơn vị tư vấn, dây chuyền mới sẽ giảm 30% lượng điện tiêu thụ và tái sử dụng được 40% lượng nước thải công nghiệp. Tính ra mỗi năm mình tiết kiệm được khoảng 40-50 tỷ tiền vận hành đó anh.
+
+<|output|>
+# Định hướng chiến lược ESG và phát triển bền vững tập đoàn giai đoạn 2025-2035
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác lập tầm nhìn chiến lược dài hạn về ESG (Môi trường - Xã hội - Quản trị) cho toàn tập đoàn.
+
+### 2. Các vấn đề đã thảo luận
+- **Trụ cột Môi trường (Environmental):** 
+
+### 3. Kết luận và quyết định
+- Phê duyệt lộ trình 10 năm phát triển bền vững 2025-2035.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập phương án vay vốn xanh cho dự án nhà máy Bình Dương | Hùng - Khối Sản xuất | 15/12/2024 |
+| Soạn thảo khung chỉ số KPI liên quan đến ESG | Mai - Khối Nhân sự | 20/12/2024 |

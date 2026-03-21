@@ -1,0 +1,62 @@
+<|input|>
+# Cải thiện chất lượng phục vụ tại chuỗi quán cà phê
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết các khiếu nại của khách hàng về thái độ phục vụ và tốc độ lên món.
+
+### 2. Các vấn đề đã thảo luận
+- Khách hàng phản hồi tiêu cực về thái độ của nhân viên (sử dụng điện thoại, thiếu chào hỏi) tại quận 1 và quận 3.
+- Tốc độ lên món chậm (đợi 15-20 phút), nguyên nhân do quy trình quầy bar chưa tối ưu và nhân viên mới thiếu kỹ năng.
+
+### 3. Kết luận và quyết định
+- Xây dựng lại bộ quy chuẩn đào tạo nhân sự, bổ sung kỹ năng mềm và tình huống thực tế.
+- Thiết kế lại quầy bar theo mô hình dây chuyền một chiều để tối ưu hóa thao tác.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn lại giáo trình đào tạo kỹ năng mềm cho nhân viên | Chị Lan (Phòng Nhân sự) | 25/05/2024 |
+| Thiết kế lại sơ đồ quầy bar và báo giá thi công | Chị Mai (Phòng Vận hành) | 28/05/2024 |
+[08:20] Ý tưởng hay đó Mai, vầy nè, em làm việc với bên thiết kế xem có phương án nào tối ưu không, rồi báo giá cho anh luôn nha.
+[08:22] Dạ, để em triển khai cái này liền, chắc tầm cuối tuần là có bản vẽ sơ bộ cho anh coi đó.
+[08:24] Còn một cái nữa, anh thấy khách họ cũng nhắc nhiều về cái vụ vệ sinh trong quán, nhất là cái nhà vệ sinh á, nhiều khi vô thấy dơ mà không có ai dọn dẹp thường xuyên.
+[08:26] Ờ đúng rồi, cái này quan trọng nè. Em nghĩ mình nên có cái checklist dọn dẹp mỗi 30 phút một lần, rồi dán ở sau cửa luôn, bạn nào dọn xong thì ký tên vô đó để mình kiểm soát.
+[08:28] Đúng rồi đó Lan, làm vậy đi cho nó chuyên nghiệp. À mà mình cũng nên có cái chương trình thưởng cho "Nhân viên xuất sắc của tháng" dựa trên đánh giá của khách hàng nữa.
+[08:30] Dạ, em định là mình sẽ để một cái mã QR ở mỗi bàn á anh, khách họ quét mã đó để đánh giá phục vụ luôn, nếu bạn nào được khen nhiều thì mình thưởng nóng luôn cho tụi nhỏ nó có động lực.
+[08:32] Hay đó, vầy mới đúng là cái anh cần nè. Công nghệ vô chút cho nó hiện đại. Team IT bên mình có làm cái này được không ta?
+[08:34] Dạ được anh, cái này đơn giản mà, để em báo bên đó làm cái form khảo sát rồi tạo mã QR cho từng chi nhánh luôn.
+[08:36] Ok, vậy chốt lại mấy cái đó nha. Mà Lan nè, em nhớ nhắc mấy bạn nhân viên là tuyệt đối không được dùng điện thoại trong giờ làm việc trừ trường hợp khẩn cấp nha, anh thấy cái này là cái gây khó chịu nhất cho khách luôn á.
+[08:38] Dạ em biết rồi anh, em sẽ ra cái quy định mới và áp dụng hình thức kỷ luật nghiêm nếu bạn nào vi phạm cái này.
+
+<|output|>
+# Cải thiện chất lượng phục vụ tại chuỗi quán cà phê
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết các khiếu nại của khách hàng về thái độ phục vụ và tốc độ lên món.
+- Chuẩn hóa quy trình đào tạo nhân viên và quản lý chất lượng tại các chi nhánh.
+
+### 2. Các vấn đề đã thảo luận
+- Khách hàng phản hồi tiêu cực về thái độ của nhân viên (sử dụng điện thoại, thiếu chào hỏi) tại quận 1 và quận 3.
+- Tốc độ lên món chậm (đợi 15-20 phút), nguyên nhân do quy trình quầy bar chưa tối ưu và nhân viên mới thiếu kỹ năng.
+- Vấn đề vệ sinh, đặc biệt là khu vực nhà vệ sinh chưa được dọn dẹp thường xuyên.
+- Hạ tầng wifi tại một số chi nhánh yếu, ảnh hưởng đến khách hàng làm việc tại quán.
+
+### 3. Kết luận và quyết định
+- Xây dựng lại bộ quy chuẩn đào tạo nhân sự, bổ sung kỹ năng mềm và tình huống thực tế.
+- Thiết kế lại quầy bar theo mô hình dây chuyền một chiều để tối ưu hóa thao tác.
+- Triển khai hệ thống đánh giá qua mã QR tại mỗi bàn để ghi nhận phản hồi của khách hàng và khen thưởng nhân viên.
+- Áp dụng checklist vệ sinh định kỳ mỗi 30 phút.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn lại giáo trình đào tạo kỹ năng mềm cho nhân viên | Chị Lan (Phòng Nhân sự) | 25/05/2024 |
+| Thiết kế lại sơ đồ quầy bar và báo giá thi công | Chị Mai (Phòng Vận hành) | 28/05/2024 |
+| Xây dựng hệ thống đánh giá qua mã QR và form khảo sát | Team IT | 30/05/2024 |
+| Liên hệ nhà mạng nâng cấp băng thông wifi | Anh chủ chuỗi | 24/05/2024 |

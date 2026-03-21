@@ -1,0 +1,53 @@
+<|input|>
+# Xử lý sự cố An ninh mạng và Rò rỉ dữ liệu nhân sự
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân và mức độ thiệt hại của sự cố truy cập trái phép vào máy chủ dữ liệu nhân sự.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân sự cố: Một nhân viên phòng Tuyển dụng bị tấn công phishing chiếm đoạt tài khoản Microsoft 365 do chưa được kích hoạt xác thực đa yếu tố (MFA).
+- Thiệt hại bước đầu: Một lượng lớn hồ sơ nhân sự, CCCD, số điện thoại và hợp đồng lao động đã bị tải xuống và đẩy lên một server đám mây tại Đông Âu.
+
+### 3. Kết luận và quyết định
+- Ưu tiên cao nhất là kích hoạt MFA cho toàn bộ nhân viên tập đoàn trước cuối ngày hôm nay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kích hoạt MFA bắt buộc cho 100% nhân viên | Chị Linh (IT Helpdesk) | 24/03/2025 |
+| Liên hệ và ký hợp đồng với đơn vị Digital Forensics | Anh Nam (Security) | 24/03/2025 |
+
+[08:50] Vậy là rõ rồi. Đây là một vụ tấn công lừa đảo chiếm đoạt tài khoản điển hình. Chào mọi người, tôi là Sơn, phụ trách mảng hạ tầng Server. Vấn đề là tại sao hệ thống xác thực đa yếu tố (MFA) của chúng ta không ngăn chặn được việc này? Chào anh Sơn, theo tôi kiểm tra, tài khoản của Trang chưa được kích hoạt MFA bắt buộc do bạn ấy mới chuyển từ vị trí CTV lên nhân viên chính thức tuần trước và quy trình IT onboarding cho nhân viên mới đang bị chậm. Đây là một lỗ hổng quy trình cực kỳ nghiêm trọng.
+[08:55] Chào anh Hoàng, tôi là Mai, trưởng phòng Nhân sự. Tôi rất lo lắng về số dữ liệu đã bị tải xuống. Đó là toàn bộ hồ sơ ứng viên, thông tin CCCD, số điện thoại và cả hợp đồng lao động của nhân viên toàn công ty. Nếu số dữ liệu này bị rò rỉ hoặc bán lên các diễn đàn underground, uy tín của tập đoàn sẽ bị ảnh hưởng nặng nề, chưa kể đến các rắc rối pháp lý về bảo vệ dữ liệu cá nhân theo Nghị định 13.
+[09:00] Tôi hoàn toàn đồng ý với chị Mai. Chào mọi người, tôi là Quốc bên bộ phận Pháp chế. Chúng ta cần chuẩn bị sẵn phương án thông báo cho các bên liên quan nếu dữ liệu thực sự bị rò rỉ. Tuy nhiên, trước mắt anh Nam cần xác định xem kẻ tấn công đã kịp phát tán dữ liệu ra ngoài môi trường internet chưa, hay mới chỉ lưu trữ trên một máy chủ trung gian nào đó?
+[09:05] Chào anh Quốc, nhóm của tôi đang phối hợp với bên đối tác cung cấp dịch vụ SOC để truy vết dòng chảy dữ liệu (data flow). Chúng tôi phát hiện dữ liệu được đẩy lên một dịch vụ lưu trữ đám mây tại Đông Âu. Chúng tôi đang gửi yêu cầu gỡ bỏ (takedown request) cho nhà cung cấp dịch vụ đó nhưng có lẽ sẽ mất thời gian. Hiện tại, tôi đã cho cô lập hoàn toàn tài khoản của Trang và reset password cho toàn bộ phòng Nhân sự.
+
+<|output|>
+# Xử lý sự cố An ninh mạng và Rò rỉ dữ liệu nhân sự
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân và mức độ thiệt hại của sự cố truy cập trái phép vào máy chủ dữ liệu nhân sự.
+- Triển khai các biện pháp ứng phó khẩn cấp để ngăn chặn rò rỉ dữ liệu và vá lỗ hổng hệ thống.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân sự cố: Một nhân viên phòng Tuyển dụng bị tấn công phishing chiếm đoạt tài khoản Microsoft 365 do chưa được kích hoạt xác thực đa yếu tố (MFA).
+- Thiệt hại bước đầu: Một lượng lớn hồ sơ nhân sự, CCCD, số điện thoại và hợp đồng lao động đã bị tải xuống và đẩy lên một server đám mây tại Đông Âu.
+- Lỗ hổng quy trình: Quy trình IT onboarding cho nhân viên mới bị chậm trễ, dẫn đến việc tài khoản nhân viên mới chưa được áp dụng các chính sách bảo mật bắt buộc.
+
+### 3. Kết luận và quyết định
+- Ưu tiên cao nhất là kích hoạt MFA cho toàn bộ nhân viên tập đoàn trước cuối ngày hôm nay.
+- Phê duyệt ngân sách khẩn cấp để thuê đơn vị điều tra số chuyên nghiệp (Digital Forensics).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kích hoạt MFA bắt buộc cho 100% nhân viên | Chị Linh (IT Helpdesk) | 24/03/2025 |
+| Liên hệ và ký hợp đồng với đơn vị Digital Forensics | Anh Nam (Security) | 24/03/2025 |
+| Soạn thảo email cảnh báo phishing nội bộ | Anh Khánh (Truyền thông) | 24/03/2025 |
+| Rà soát quy trình bảo mật cho nhân viên mới | Chị Mai (HR) & Anh Nam | 26/03/2025 |

@@ -1,0 +1,55 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[14:00:20] Chào mọi người, hôm nay mình ngồi lại để chốt cái kế hoạch triển khai chương trình song ngữ cho cơ sở mới ở Quận 7 nhé.
+[14:00:50] Dạ vầy nè thầy Long, em mới khảo sát qua mấy trường đối thủ xung quanh khu đó, thấy họ cũng đang đẩy mạnh cái vụ Cambridge dữ lắm. Mình mà không có gì khác biệt là hơi khó cạnh tranh á.
+[14:01:20] Ừ, thầy cũng lo cái đó. Nên đợt này mình sẽ tích hợp thêm chương trình kỹ năng sống của bên Phần Lan vô luôn, kiểu vừa học tiếng Anh vừa học cách tư duy ấy. Mọi người thấy sao?
+[14:01:50] Em thấy hay á thầy. Mà cái khâu tuyển giáo viên bản ngữ đang hơi căng. Mấy bạn ứng tuyển gần đây profile không được tốt lắm, có người còn chưa có bằng sư phạm quốc tế nữa.
+[14:02:20] Cái này em đồng ý với chị Mai. Nếu mình thu học phí phân khúc cao cấp mà giáo viên không chuẩn là phụ huynh họ "phốt" mình liền. Hay là mình liên hệ với mấy trung tâm cung ứng nhân sự bên Philippines thử xem, họ dạy cũng ổn mà chi phí lại mềm hơn tụi Anh, Mỹ.
+[14:02:50] Philippines thì cũng được, nhưng chỉ nên cho mấy lớp mầm non thôi. Còn khối tiểu học thì bắt buộc phải có ít nhất 2 giáo viên người bản xứ (Native) để lấy uy tín cho trường nhé.
+[14:03:20] Dạ thầy. Vậy còn vụ giáo trình thì sao ạ? Mình dùng bộ Oxford Discover hay là chuyển qua bộ mới của National Geographic? Em thấy bộ National Geographic hình ảnh đẹp, kích thích mấy đứa nhỏ khám phá lắm.
+[14:03:50] Cứ lấy bộ National Geographic đi, thầy cũng ưng bộ đó. Mai liên hệ bên nhà sách đặt hàng sớm để kịp khai giảng tháng 2 tới nha.
+[14:04:20] Dạ em ghi nhận ạ. Còn một việc nữa là phòng Lab với thư viện ở cơ sở Quận 7 vẫn chưa lắp xong thiết bị. Bên nhà thầu họ bảo đang kẹt linh kiện nhập khẩu nên xin trễ thêm 1 tuần.
+
+<|output|>
+# Triển khai chương trình đào tạo song ngữ tại cơ sở mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng kế hoạch triển khai chương trình song ngữ tại cơ sở Quận 7.
+- Thống nhất về giáo trình, nhân sự và cơ sở vật chất.
+
+### 2. Các vấn đề đã thảo luận
+- Tăng tính cạnh tranh bằng cách tích hợp chương trình kỹ năng sống Phần Lan vào hệ thống song ngữ.
+- Vấn đề nhân sự: Cần cân đối giữa giáo viên Philippines và giáo viên bản ngữ (Anh/Mỹ/Úc) để đảm bảo chất lượng và uy tín.
+- Chọn giáo trình: Thống nhất sử dụng bộ sách của National Geographic thay vì Oxford.
+
+### 3. Kết luận và quyết định
+- Sử dụng giáo trình National Geographic cho toàn bộ hệ thống song ngữ tại cơ sở mới.
+- Tuyển dụng tối thiểu 2 giáo viên bản xứ cho khối tiểu học; khối mầm non có thể sử dụng giáo viên Philippines.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đặt mua giáo trình National Geographic | Chị Mai | 20/12/2024 |
+| Tuyển dụng và phỏng vấn giáo viên bản ngữ | Bộ phận Nhân sự | 10/01/2025 |
+| Làm việc với nhà thầu về tiến độ phòng Lab | Nam | 25/12/2024 |

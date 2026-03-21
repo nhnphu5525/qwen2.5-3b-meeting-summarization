@@ -1,0 +1,62 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[09:00] Đừng quên vụ thép cũng quan trọng không kém nhé.
+[09:01] Thế thì mình chốt phương án cho thép luôn đi, đừng kéo dài nữa.
+[09:02] Dạ Tôi sẽ phụ trách kiểm tra lại thép rồi báo lại cả team vào chiều mai.
+[09:03] Hình như Cảm ơn mọi người, cuộc họp về Công nghiệp nặng tạm dừng tại đây.
+[09:08] Thực ra Tôi thấy nguyên liệu đầu vào hiện tại là cơ hội tốt để mình bứt phá.
+[09:10] Thì Đừng quên vụ khu công nghiệp cũng quan trọng không kém nhé.
+[09:12] Hình như Về dài hạn thì khu công nghiệp sẽ là trọng tâm của năm nay.
+[09:07] Chắc là Mọi người nghe rõ không? Về cái nhà máy này tôi thấy có vẻ hơi vướng.
+[09:16] Vấn đề thép thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:18] Vụ thép thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:10] Thì Thế thì mình chốt phương án cho thép luôn đi, đừng kéo dài nữa.
+[09:22] Thì đấy Vấn đề linh kiện thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:12] Vấn đề dây chuyền sản xuất thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:26] Về dài hạn thì linh kiện sẽ là trọng tâm của năm nay.
+[09:14] Thôi được rồi, vậy thống nhất là triển khai nhà máy theo hướng đó.
+[09:30] Mọi người nghe rõ không? Về cái linh kiện này tôi thấy có vẻ hơi vướng.
+[09:32] Vụ nguyên liệu đầu vào thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:34] Hay là mình thử thay đổi cách tiếp cận với khu công nghiệp xem sao?
+[09:36] Thì đấy Cần phải làm rõ hơn về linh kiện trong hợp đồng mới.
+[09:19] Về dài hạn thì nguyên liệu đầu vào sẽ là trọng tâm của năm nay.
+[09:20] Mọi người có ý kiến gì thêm về thép không?
+[09:21] Tôi thấy dây chuyền sản xuất hiện tại là cơ hội tốt để mình bứt phá.
+
+<|output|>
+# Báo cáo cuộc họp về Công nghiệp nặng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Công nghiệp nặng hiện tại
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý nguyên liệu đầu vào
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho dây chuyền sản xuất
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ dây chuyền sản xuất | Bộ phận Pháp lý | 05/11/2026 |

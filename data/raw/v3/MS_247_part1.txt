@@ -1,0 +1,66 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[07:30] Chào anh Dũng và các anh em chỉ huy trưởng, sáng nay mình họp nhanh tại công trường để chấn chỉnh công tác an toàn lao động sau vụ suýt xảy ra tai nạn hôm qua.
+[07:32] Vâng, vụ rơi thanh sắt từ tầng 15 xuống sàn công tác tầng 5 là cực kỳ nguy hiểm, may mà không có ai đứng ở đó.
+[07:35] Tôi đã kiểm tra lại, nguyên nhân là do lưới bao che bị rách mà anh em công nhân bên nhà thầu phụ không báo cáo để thay mới.
+[07:38] Anh Dũng xem lại giúp em việc giám sát hiện trường, tại sao lỗi rõ như vậy mà giám sát viên không nhắc nhở đình chỉ thi công khu vực đó?
+[07:41] Do nhân sự giám sát mỏng mà diện tích công trường lại rộng quá, các anh em không bao quát hết được từng mét lưới.
+[07:44] Không đổ lỗi cho nhân sự được, quy trình của mình là trước mỗi ca làm việc phải kiểm tra an toàn toàn diện. Ai ký xác nhận bàn giao ca hôm qua phải chịu trách nhiệm.
+[07:47] Từ ngày mai, tất cả các vị trí thi công trên cao phải lắp thêm sàn hứng vật rơi bằng lưới thép cứng, không chỉ dùng lưới nhựa như trước nữa.
+[07:50] Bên cạnh đó, em thấy nhiều anh em công nhân vẫn còn chủ quan, không cài quai mũ bảo hộ hoặc đeo dây an toàn khi làm việc ở mép sàn.
+[07:53] Phải phạt nặng nhà thầu phụ. Cứ một trường hợp vi phạm là trừ 2 triệu vào phí quản lý, tái phạm lần 3 thì đuổi khỏi công trường luôn.
+[07:56] Anh Dũng tổ chức một buổi huấn luyện an toàn khẩn cấp cho toàn bộ công nhân vào giờ nghỉ trưa nay nhé.
+[07:59] Rõ rồi, tôi sẽ triệu tập đầy đủ các đơn vị. Còn phần lưới bao che bị rách, tôi đã cho anh em thay mới hoàn toàn ngay sáng nay.
+[08:02] Nhắc nhở thêm là khâu vận hành vận thăng và cần trục tháp cũng phải kiểm định lại định kỳ, không được để quá hạn dù chỉ một ngày.
+
+<|output|>
+# Chấn chỉnh công tác an toàn lao động tại công trường xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xử lý sự cố vật rơi nghiêm trọng và ngăn ngừa tai nạn lao động tái diễn.
+- Siết chặt kỷ luật và quy trình giám sát an toàn tại hiện trường.
+
+### 2. Các vấn đề đã thảo luận
+- Sự cố rơi thanh sắt do lưới bao che bị rách và sự tắc trách trong khâu báo cáo.
+- Lỗ hổng trong công tác giám sát hiện trường và quy trình bàn giao ca làm việc.
+- Tình trạng công nhân chủ quan không tuân thủ trang thiết bị bảo hộ cá nhân (PPE).
+- Cần nâng cấp hạ tầng bảo vệ vật rơi bằng lưới thép cứng tại các vị trí xung yếu.
+- Hình thức chế tài mạnh đối với các nhà thầu phụ vi phạm quy định an toàn.
+- Kiểm định định kỳ các thiết bị nâng hạ (vận thăng, cần trục tháp).
+
+### 3. Kết luận và quyết định
+- Thay mới toàn bộ hệ thống lưới bao che bị hỏng và lắp thêm sàn hứng vật rơi.
+- Tổ chức huấn luyện an toàn khẩn cấp cho tất cả công nhân ngay trong ngày.
+- Áp dụng mức phạt tài chính nghiêm khắc đối với các hành vi vi phạm an toàn.
+- Đình chỉ công tác giám sát viên thiếu trách nhiệm để điều tra làm rõ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Huấn luyện an toàn lao động khẩn cấp | Anh Dũng | 18/03/2026 |
+| Lắp đặt bổ sung lưới thép hứng vật rơi | Đội Kỹ thuật | 20/03/2026 |
+| Kiểm tra toàn diện hệ thống vận thăng | Phòng Cơ giới | 22/03/2026 |
+| Rà soát và cập nhật nội quy an toàn công trường | Anh Dũng | 25/03/2026 |
+| Lập biên bản xử phạt nhà thầu phụ vi phạm | Ban An toàn | 19/03/2026 |
+| Báo cáo khắc phục sự cố lên Ban giám đốc | Anh Dũng | 21/03/2026 |

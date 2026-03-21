@@ -1,0 +1,61 @@
+<|input|>
+# Xây dựng và Lan tỏa Văn hóa Doanh nghiệp trong Kỷ nguyên số
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hình các giá trị cốt lõi của công ty trong giai đoạn chuyển đổi số và phát triển bền vững.
+
+### 2. Các vấn đề đã thảo luận
+- Giá trị cốt lõi: Nhấn mạnh tinh thần học tập suốt đời, đổi mới sáng tạo, minh bạch và trách nhiệm cá nhân.
+- Quản trị mục tiêu: Áp dụng OKR để đảm bảo sự minh bạch trong đánh giá và gắn kết nỗ lực cá nhân với mục tiêu chung của tập đoàn.
+- Truyền thông nội bộ: Tổ chức các buổi đối thoại định kỳ (Town Hall) và ứng dụng khen thưởng (Kudos) giữa đồng nghiệp.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng văn hóa doanh nghiệp dựa trên 4 trụ cột: Học tập - Sáng tạo - Minh bạch - Trách nhiệm.
+- Triển khai thí điểm hệ thống OKR tại bộ phận Kinh doanh và IT trước khi nhân rộng toàn công ty.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật Nội quy lao động và Thỏa ước lao động | Chị Lan (HR) & Anh Tú | 15/04/2025 |
+| Xây dựng và hướng dẫn triển khai OKR thí điểm | Anh Mạnh (Kinh doanh) | 30/03/2025 |
+| Lên kế hoạch tổ chức Town Hall Meeting đầu tiên | Chị Phương (Truyền thông) | 05/04/2025 |
+
+[09:20] Kudos là một ý tưởng rất thú vị Phương ạ. Chào mọi người, tôi là Sơn bên bộ phận IT. Để hỗ trợ văn hóa "Học tập không ngừng", bộ phận IT đã sẵn sàng hạ tầng cho thư viện số và các khóa học E-learning. Chúng ta nên có chính sách hỗ trợ 100% học phí cho những nhân viên thi đạt các chứng chỉ chuyên môn quốc tế phù hợp với định hướng của công ty.
+[09:25] Chào anh Sơn, tôi là Hồng bên bộ phận Tài chính. Việc hỗ trợ học phí là một khoản đầu tư xứng đáng, nhưng chúng ta cần có cam kết thời gian làm việc sau đào tạo để tránh chảy máu chất xám. Ngoài ra, tôi đề xuất chúng ta nên tinh giản các quy trình hành chính rườm rà. Văn hóa doanh nghiệp hiện đại phải đi đôi với sự gọn nhẹ và tốc độ. "Work-life balance" cũng là một điểm mà các bạn trẻ hiện nay rất quan tâm.
+[09:30] Chào chị Hồng, tôi hoàn toàn đồng ý. Chào mọi người, tôi là Lan. Về "Work-life balance", tôi đề xuất thử nghiệm chế độ "Flexible working hours" (thời gian làm việc linh hoạt) cho những bộ phận có thể làm việc từ xa. Điều này sẽ giúp tăng chỉ số hạnh phúc của nhân viên, từ đó nâng cao năng suất lao động. Chào anh Vinh, anh thấy phương án này có mạo hiểm quá không?
+[09:35] Chào Lan, tôi tin tưởng vào tinh thần tự giác của nhân sự mình. Nếu chúng ta có hệ thống quản trị OKR tốt như Mạnh nói, thì việc làm ở đâu hay giờ nào không còn quá quan trọng, miễn là kết quả đạt được. Tuy nhiên, chúng ta cần có các buổi team-building chất lượng để duy trì sự kết nối giữa các thành viên. Đừng để làm việc linh hoạt biến mọi người thành những "ốc đảo" riêng biệt.
+
+<|output|>
+# Xây dựng và Lan tỏa Văn hóa Doanh nghiệp trong Kỷ nguyên số
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hình các giá trị cốt lõi của công ty trong giai đoạn chuyển đổi số và phát triển bền vững.
+- Đề xuất các giải pháp thực tiễn để đưa văn hóa doanh nghiệp vào đời sống hàng ngày của nhân viên.
+
+### 2. Các vấn đề đã thảo luận
+- Giá trị cốt lõi: Nhấn mạnh tinh thần học tập suốt đời, đổi mới sáng tạo, minh bạch và trách nhiệm cá nhân.
+- Quản trị mục tiêu: Áp dụng OKR để đảm bảo sự minh bạch trong đánh giá và gắn kết nỗ lực cá nhân với mục tiêu chung của tập đoàn.
+- Truyền thông nội bộ: Tổ chức các buổi đối thoại định kỳ (Town Hall) và ứng dụng khen thưởng (Kudos) giữa đồng nghiệp.
+- Đào tạo và Phát triển: Xây dựng hệ thống E-learning và chính sách hỗ trợ 100% học phí cho các chứng chỉ quốc tế.
+- Chế độ làm việc: Đề xuất áp dụng thời gian làm việc linh hoạt (Flexible hours) để nâng cao chỉ số hạnh phúc của nhân viên.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng văn hóa doanh nghiệp dựa trên 4 trụ cột: Học tập - Sáng tạo - Minh bạch - Trách nhiệm.
+- Triển khai thí điểm hệ thống OKR tại bộ phận Kinh doanh và IT trước khi nhân rộng toàn công ty.
+- Ban hành chính sách hỗ trợ đào tạo chuyên môn và khuyến khích học tập qua nền tảng số.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật Nội quy lao động và Thỏa ước lao động | Chị Lan (HR) & Anh Tú | 15/04/2025 |
+| Xây dựng và hướng dẫn triển khai OKR thí điểm | Anh Mạnh (Kinh doanh) | 30/03/2025 |
+| Lên kế hoạch tổ chức Town Hall Meeting đầu tiên | Chị Phương (Truyền thông) | 05/04/2025 |
+| Hoàn thiện hạ tầng E-learning và thư viện số | Anh Sơn (IT) | 10/04/2025 |
+| Xây dựng dự toán ngân sách đào tạo và team-building | Chị Hồng (Tài chính) | 02/04/2025 |
+| Thiết kế quy trình sử dụng app Kudos nội bộ | Chị Phương (Truyền thông) | 08/04/2025 |

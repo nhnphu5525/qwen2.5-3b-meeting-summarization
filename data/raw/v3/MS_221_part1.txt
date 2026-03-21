@@ -1,0 +1,67 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[08:30] Mọi người có thấy vụ influencer dạo này bị chậm không?
+[08:31] Chào cả nhà, chúng ta bắt đầu bàn về phân tích thị trường nhé.
+[08:34] Có ai phụ trách chính cho mảng chiến dịch quảng cáo chưa nhỉ?
+[08:33] Thôi được rồi, vậy thống nhất là làm khách hàng mục tiêu theo cách đó.
+[08:34] Thôi được rồi, vậy thống nhất là làm phân tích thị trường theo cách đó.
+[08:40] Mọi người cứ cho ý kiến thoải mái về SEO đi ạ.
+[08:36] Thế còn ngân sách cho phân tích thị trường thì sao hả mọi người?
+[08:44] Nói chung là mình phải chốt phương án cho thương hiệu ngay trong hôm nay.
+[08:38] Tôi đề xuất mình sẽ tập trung nguồn lực vào thương hiệu trong tuần này.
+[08:48] Nói chung là Về phần doanh số thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[08:40] Tôi nghĩ là mình nên xem xét lại cái influencer này một chút.
+[08:41] Thôi được rồi, vậy thống nhất là làm doanh số theo cách đó.
+[08:54] Chào cả nhà, chúng ta bắt đầu bàn về SEO nhé.
+[08:56] Mọi người cứ cho ý kiến thoải mái về phân tích thị trường đi ạ.
+[08:58] Tôi nghĩ là mình nên xem xét lại cái doanh số này một chút.
+[08:45] Liệu mình có thể đẩy nhanh tiến độ cho doanh số được không?
+[08:46] Tôi nghĩ là mình nên xem xét lại cái khách hàng mục tiêu này một chút.
+[09:04] Chắc là Mọi người cứ cho ý kiến thoải mái về mạng xã hội đi ạ.
+[09:06] Cần phải làm rõ thêm các chi tiết liên quan đến doanh số.
+[09:08] Thì Thôi được rồi, vậy thống nhất là làm mạng xã hội theo cách đó.
+[09:10] Cái influencer này hình như đang bị vướng chỗ nào đó đúng không?
+[08:51] Vâng, tôi cũng thấy việc tối ưu mạng xã hội là rất cần thiết.
+[08:52] Chào cả nhà, chúng ta bắt đầu bàn về SEO nhé.
+[09:16] Liệu mình có thể đẩy nhanh tiến độ cho chiến dịch quảng cáo được không?
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Digital Marketing
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho SEO
+- Thiếu dữ liệu để đánh giá thương hiệu
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện mạng xã hội
+- Phê duyệt ngân sách bổ sung cho influencer
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ doanh số | Bộ phận Tài chính | 22/06/2026 |
+| Họp nhóm để bàn sâu về phân tích thị trường | Bộ phận Tài chính | 14/01/2026 |

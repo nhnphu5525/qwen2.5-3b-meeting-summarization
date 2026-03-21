@@ -1,0 +1,86 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Giáo dục
+- Giải quyết các vướng mắc về chương trình học, giáo viên
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Giáo dục hiện nay
+- Khó khăn trong việc xử lý chương trình học
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Giáo dục
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý học sinh | Anh Nam | 11/11/2026 |
+| Xử lý chương trình học | Anh Nam | 10/10/2026 |
+| Xử lý đào tạo từ xa | Bộ phận Kỹ thuật | 28/01/2026 |
+
+[09:44] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về học phí.
+[10:09] Mong là lần này kỹ năng mềm sẽ ổn thỏa hơn mấy lần trước.
+[09:48] À còn một việc nữa là cái học phí, mọi người thấy ổn chưa?
+[09:50] Tôi lo là kỹ năng mềm sẽ tốn nhiều chi phí hơn dự kiến.
+[10:18] Tôi lo là chuyển đổi số sẽ tốn nhiều chi phí hơn dự kiến.
+[09:27] Mong là lần này học sinh sẽ ổn thỏa hơn mấy lần trước.
+[10:24] Ờm Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về học sinh.
+[10:27] Về phần chuyển đổi số ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[09:30] Tôi lo là kỹ năng mềm sẽ tốn nhiều chi phí hơn dự kiến.
+[09:31] Vâng Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về học sinh.
+[10:04] Vâng Để tôi gửi tài liệu về chuyển đổi số cho mọi người qua email sau buổi họp.
+[09:33] Về phần giáo viên ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[10:08] Tuần tới mình tập trung dứt điểm cái đào tạo từ xa đi cho xong.
+[10:45] Chào mọi người, chúng ta tiếp tục bàn về đào tạo từ xa nhé.
+[10:48] Thì Mọi người cứ thoải mái đóng góp ý kiến về học sinh đi.
+[09:37] Bên phòng ban họ cứ hối thúc vụ giáo viên suốt.
+[10:16] Nhưng mà còn cái chuyển đổi số thì tính sao đây? Sắp hết hạn rồi.
+[10:57] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[11:00] Ờm Để tôi gửi tài liệu về chương trình học cho mọi người qua email sau buổi họp.
+[09:41] Đúng rồi, tôi cũng nghĩ thế, cái học phí nên được ưu tiên.
+[09:42] Hiện tại cái chuyển đổi số đang bị chậm tiến độ một chút vì thiếu người.
+[10:26] Thực ra Chào mọi người, chúng ta tiếp tục bàn về đào tạo từ xa nhé.
+[11:12] Tôi lo là chuyển đổi số sẽ tốn nhiều chi phí hơn dự kiến.
+[11:15] Bên khách hàng họ cứ hối thúc vụ học sinh suốt.
+[11:18] Về phần học sinh ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[10:34] Về phần chuyển đổi số ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[11:24] Đúng rồi, tôi cũng nghĩ thế, cái giáo viên nên được ưu tiên.
+[10:38] Tuần tới mình tập trung dứt điểm cái học sinh đi cho xong.
+[11:30] Ờm Tôi thấy vấn đề chuyển đổi số này quan trọng phết, cần xử lý sớm.
+[09:51] Tuần tới mình tập trung dứt điểm cái chương trình học đi cho xong.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Giáo dục
+- Giải quyết các vướng mắc về chương trình học, giáo viên
+- Đưa ra kế hoạch triển khai cho giai đoạn tới
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Giáo dục hiện nay
+- Khó khăn trong việc xử lý chương trình học
+- Đề xuất cải thiện quy trình kỹ năng mềm
+- Đánh giá tác động của các yếu tố ngoại cảnh
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Giáo dục
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+- Phân công trách nhiệm cụ thể cho các đơn vị liên quan
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý học sinh | Anh Nam | 11/11/2026 |
+| Xử lý chương trình học | Anh Nam | 10/10/2026 |
+| Xử lý đào tạo từ xa | Bộ phận Kỹ thuật | 28/01/2026 |
+| Xử lý học phí | Phòng Giáo dục | 07/08/2026 |
+| Xử lý giáo viên | Bộ phận Kỹ thuật | 08/05/2026 |

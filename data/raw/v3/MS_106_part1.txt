@@ -1,0 +1,58 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[10:00] Chào team eCommerce. Chỉ còn 2 tuần nữa là đến Black Friday rồi, mọi người chuẩn bị đến đâu rồi?
+[10:01] Dạ anh, hệ thống máy chủ đã được nâng cấp băng thông, sẵn sàng cho lượng truy cập lớn gấp 10 lần ngày thường ạ.
+[10:03] Tốt, cái vụ này năm ngoái mình bị sập web mất 30 phút, năm nay không được để lặp lại đâu nhé.
+[10:04] Ờ... còn danh sách sản phẩm khuyến mãi (flash sale) thì sao em? Đã chốt được với bên cung cấp chưa?
+[10:06] Dạ đã chốt được 50 deal sốc giảm sâu tới 70% rồi ạ. Toàn là các mặt hàng hot như đồ điện tử với mỹ phẩm.
+[10:07] Nhớ kiểm tra kỹ tồn kho thực tế nhé, đừng để khách đặt xong rồi lại báo hết hàng là ăn "gạch đá" đủ đấy.
+[10:09] Dạ em đã làm việc với bên kho, họ cam kết số lượng trên hệ thống là chuẩn xác 100% rồi ạ.
+[10:10] Marketing thì sao? Banner, landing page đã xong chưa?
+[10:12] Dạ landing page đã chạy thử nghiệm, tối nay sẽ chính thức cho lên sóng để khách hàng vào xem trước (preview) ạ.
+[10:13] Anh thấy mình nên tập trung đẩy mạnh quảng cáo trên TikTok với Facebook, mấy kênh đó đang hiệu quả nhất.
+[10:15] Vâng, em đã lên ngân sách 500 triệu cho quảng cáo trong tuần lễ vàng này rồi ạ.
+[10:16] Ờ... còn cái vụ voucher giảm giá thì sao? Có giới hạn số lượng không em?
+[10:18] Dạ có ạ, mình có các mã giảm 50k, 100k cho đơn từ 500k, số lượng có hạn nên khách phải "săn" mới được.
+[10:19] Như vậy mới tạo được hiệu ứng khan hiếm. Mà chăm sóc khách hàng (CSKH) đã có kế hoạch tăng ca chưa?
+
+<|output|>
+# Kế hoạch chuẩn bị chiến dịch khuyến mãi Black Friday
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Rà soát các khâu chuẩn bị cuối cùng cho sự kiện Black Friday.
+- Đảm bảo hạ tầng kỹ thuật, nguồn hàng.
+- Tối ưu hóa hiệu quả doanh thu thông qua các hoạt động Marketing.
+
+### 2. Các vấn đề đã thảo luận
+- Hạ tầng IT: Nâng cấp máy chủ để tránh tình trạng sập web do truy cập đột biến.
+- Sản phẩm: Đã chốt 50 mã giảm giá sâu (đến 70%) và xác nhận tồn kho 100% chính xác.
+- Marketing: Triển khai Landing page preview và chạy quảng cáo đa kênh (TikTok, Facebook) với ngân sách 500 triệu đồng.
+- Voucher: Sử dụng cơ chế mã giảm giá giới hạn số lượng để kích cầu.
+
+### 3. Kết luận và quyết định
+- Phê duyệt toàn bộ kế hoạch hành động và ngân sách quảng cáo.
+- Yêu cầu các bộ phận phối hợp chặt chẽ, đặc biệt là khâu đồng bộ dữ liệu giữa kho và sàn.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cho chạy Landing page preview | Marketing | 12/01/2026 |
+| Giám sát tồn kho thực tế hàng giờ | Team Kho | Trong chiến dịch |

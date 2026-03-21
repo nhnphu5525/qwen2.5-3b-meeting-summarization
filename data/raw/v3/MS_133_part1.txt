@@ -1,0 +1,52 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00:00] Mọi người tập trung đông đủ chưa? Tình hình căng rồi, cái máy nén khí trục vít ở xưởng A tự nhiên lăn đùng ra chết máy lúc 1 giờ trưa nay. Giờ cả dây chuyền đóng gói đang phải dừng hết rồi. Hùng báo cáo sơ bộ tình hình đi em.
+[14:01:20] Dạ anh Bình, em với mấy anh em kỹ thuật mới kiểm tra xong. Sơ bộ là nó bị bó trục đầu nén anh ạ. Chắc do đợt rồi vận hành quá tải liên tục mà bộ lọc dầu bị tắc nên nó nóng quá, cháy cả vòng bi luôn rồi.
+[14:02:45] Trời đất, sao để tới mức đó mới biết? Cái này hôm nọ anh thấy em bảo vẫn chạy ổn mà?
+[14:03:10] Dạ vầy nè anh Bình, thực ra là tụi em có lên lịch bảo trì định kỳ vào tuần tới, nhưng không ngờ là cái biến tần nó bị lỗi điều tốc nên máy nó cứ chạy max công suất suốt mấy ngày nay. Em sơ suất không kiểm tra kỹ thông số trên bảng điều khiển hàng ngày, em xin lỗi anh.
+[14:04:35] Thôi, giờ lỗi của ai tính sau. Quan trọng là giờ sửa mất bao lâu? Có phụ tùng thay liền không? Phương bên thu mua có đó không?
+[14:05:00] Dạ em đây anh Bình. Em mới check kho xong, bộ vòng bi đặc chủng này mình không có sẵn. Em gọi cho bên nhà cung cấp Atlas Copco thì họ bảo hàng này phải đặt từ kho tổng ở Sài Gòn ra, nhanh nhất cũng phải chiều mai mới có mặt ở xưởng mình.
+[14:06:25] Chiều mai mới có? Không được, chiều mai mới có thì xưởng dừng sản xuất cả ngày rưỡi à? Đơn hàng xuất đi Nhật sáng mốt là tiêu đời luôn. Có cách nào nhanh hơn không Phương? Ship hỏa tốc hay tìm đơn vị nào khác có sẵn không?
+[14:07:50] Dạ để em liên hệ mấy đại lý ủy quyền ngoài Hà Nội xem họ có bóc máy nào ra bán lẻ cho mình không. Nhưng giá chắc chắn sẽ cao hơn tầm 30-40% đó anh.
+
+<|output|>
+# Họp khẩn sự cố máy nén khí xưởng A
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết sự cố hỏng máy nén khí trục vít tại xưởng A gây dừng dây chuyền đóng gói.
+- Tìm phương án sửa chữa nhanh nhất để kịp tiến độ đơn hàng xuất khẩu.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân sự cố: Bó trục đầu nén do tắc lọc dầu và lỗi biến tần khiến máy chạy quá tải liên tục.
+- Tình trạng phụ tùng: Kho không có sẵn vòng bi đặc chủng; nhà cung cấp chính hãng báo chiều mai mới có hàng.
+
+### 3. Kết luận và quyết định
+- Duyệt mua vòng bi hỏa tốc từ đại lý Hải Phòng (giao hàng lúc 17:00 hôm nay).
+- Tổ kỹ thuật trực chiến sửa chữa xuyên đêm để máy hoạt động lại vào sáng mai.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đấu nối máy nén khí dự phòng từ kho B | Hùng - Tổ Kỹ thuật | 16:00 12/06/2024 |
+| Chốt đơn mua vòng bi hỏa tốc Hải Phòng | Phương - Phòng Thu mua | 14:30 12/06/2024 |
+| Thay thế vòng bi và sửa chữa máy trục vít | Hùng - Tổ Kỹ thuật | 06:00 13/06/2024 |

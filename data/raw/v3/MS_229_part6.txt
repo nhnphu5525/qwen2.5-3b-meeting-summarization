@@ -1,0 +1,67 @@
+<|input|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Tuân thủ Pháp lý Bất động sản
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho giấy phép xây dựng
+- Thiếu dữ liệu để đánh giá thẩm định giá
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện thẩm định giá
+- Phê duyệt ngân sách bổ sung cho quy hoạch đô thị
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thẩm định giá | Phòng Kỹ thuật | 03/11/2026 |
+| Họp nhóm để bàn sâu về tranh chấp đất đai | Anh Quốc | 24/11/2026 |
+
+[10:15] Ý tôi là Liệu mình có thể đẩy nhanh tiến độ cho chuyển nhượng dự án được không?
+[10:16] Tóm lại là Ờm, cái thẩm định giá này thực ra là một vấn đề khá nan giải.
+[10:17] Tôi đồng ý với ý kiến về sổ đỏ, nên làm quyết liệt hơn.
+[10:18] Ờm Mọi người có thấy vụ giấy phép xây dựng dạo này bị chậm không?
+[12:08] Tóm lại là Có ai phụ trách chính cho mảng chuyển nhượng dự án chưa nhỉ?
+[12:10] À Thôi được rồi, vậy thống nhất là làm tranh chấp đất đai theo cách đó.
+[10:21] Tôi đề xuất mình sẽ tập trung nguồn lực vào sổ đỏ trong tuần này.
+[12:14] Ờm, cái quy hoạch đô thị này thực ra là một vấn đề khá nan giải.
+[10:23] Hình như Liệu mình có thể đẩy nhanh tiến độ cho giấy phép xây dựng được không?
+[10:24] Tôi đề xuất mình sẽ tập trung nguồn lực vào giấy phép xây dựng trong tuần này.
+[10:25] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[12:22] Thì Vâng, tôi cũng thấy việc tối ưu tranh chấp đất đai là rất cần thiết.
+[10:27] Nói chung là Thực ra thì sổ đỏ không phải là mục tiêu duy nhất của mình.
+[10:28] Vâng, tôi cũng thấy việc tối ưu tranh chấp đất đai là rất cần thiết.
+[12:28] Thôi được rồi, vậy thống nhất là làm thẩm định giá theo cách đó.
+[10:30] Nói chung là mình phải chốt phương án cho chuyển nhượng dự án ngay trong hôm nay.
+[12:32] Nói chung là mình phải chốt phương án cho quy hoạch đô thị ngay trong hôm nay.
+[10:32] Để tôi check lại với bên quy hoạch đô thị xem tình hình thế nào nhé.
+[12:36] Để tôi check lại với bên giấy phép xây dựng xem tình hình thế nào nhé.
+[12:38] Cái giấy phép xây dựng này hình như đang bị vướng chỗ nào đó đúng không?
+[10:35] Thực ra Thực ra thì sổ đỏ không phải là mục tiêu duy nhất của mình.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Tuân thủ Pháp lý Bất động sản
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho giấy phép xây dựng
+- Thiếu dữ liệu để đánh giá thẩm định giá
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện thẩm định giá
+- Phê duyệt ngân sách bổ sung cho quy hoạch đô thị
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thẩm định giá | Phòng Kỹ thuật | 03/11/2026 |
+| Họp nhóm để bàn sâu về tranh chấp đất đai | Anh Quốc | 24/11/2026 |

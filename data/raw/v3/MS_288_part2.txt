@@ -1,0 +1,69 @@
+<|input|>
+# Tối ưu hóa quy trình Logistics và quản trị chuỗi cung ứng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Tìm giải pháp giảm chi phí logistics từ 12% xuống dưới 10% giá thành.
+- Cải thiện thời gian giao hàng và giảm tỷ lệ giao hàng không thành công.
+
+### 2. Các vấn đề đã thảo luận
+- Sự phụ thuộc vào bên thứ ba (3PL) làm tăng chi phí và khó kiểm soát chất lượng.
+- Thiết lập các Hub tại Đà Nẵng và Cần Thơ để rút ngắn bán kính giao hàng.
+- Tối ưu hóa chiều về của xe tải để tránh chạy rỗng, tiết kiệm nhiên liệu.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án xây dựng Hub trung chuyển tại Cần Thơ.
+- Triển khai thử nghiệm mô hình Pick-up points tại khu vực TP.HCM.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát mặt bằng xây dựng Hub Cần Thơ | Phòng Logistics | 30/04/2024 |
+| Tìm nhà cung cấp bao bì thân thiện môi trường | Phòng Thu mua | 15/04/2024 |
+
+[14:30] Về phía giao hàng chặng cuối (Last-mile delivery), tỷ lệ giao hàng không thành công (Failed delivery) ở một số khu vực đang lên tới 8%. Điều này gây lãng phí rất lớn về nguồn lực.
+[14:33] Nguyên nhân thường là do khách hàng không nghe máy hoặc địa chỉ không rõ ràng. Chúng ta nên tích hợp bản đồ số và gửi thông báo tự động cho khách trước khi shipper đến.
+[14:36] Tôi đề nghị thử nghiệm mô hình "Điểm nhận hàng" (Pick-up points) tại các cửa hàng tiện lợi. Khách hàng có thể chủ động ra lấy hàng bất cứ lúc nào thay vì chờ shipper.
+[14:39] Mô hình này rất hiệu quả ở các thành phố lớn và giúp giảm áp lực cho đội ngũ giao hàng trong giờ cao điểm.
+[14:42] Về vấn đề bao bì đóng gói, chúng ta đang dùng quá nhiều xốp và nhựa. Không chỉ gây ô nhiễm mà còn tăng kích thước trọng lượng quy đổi của đơn hàng.
+[14:45] Hãy chuyển sang sử dụng giấy tổ ong hoặc các loại vật liệu đệm lót bằng giấy tái chế. Vừa thân thiện môi trường vừa giúp thu nhỏ kích thước kiện hàng.
+[14:48] Tôi cần bộ phận Thu mua tìm kiếm các nhà cung cấp vật liệu đóng gói mới và gửi mẫu thử nghiệm trong tuần tới.
+[14:51] Một vấn đề đau đầu nữa là tình trạng hàng hoàn (Returns). Quy trình xử lý hàng hoàn hiện nay quá chậm, làm đọng vốn và ảnh hưởng đến trải nghiệm khách hàng.
+[14:54] Cần thiết lập một quy trình xử lý hàng hoàn tự động ngay tại các Hub tỉnh. Nếu hàng còn tốt, có thể tái nhập kho và bán ngay tại đó thay vì chuyển ngược về kho tổng.
+[14:57] Về mặt nhân sự, đội ngũ lái xe và nhân viên kho cần được đào tạo về an toàn lao động và kỹ năng sử dụng các thiết bị công nghệ mới.
+[15:00] Tôi sẽ giao phòng Hành chính lên kế hoạch khám sức khỏe định kỳ và đào tạo an toàn cho anh em trong quý II.
+
+<|output|>
+# Tối ưu hóa quy trình Logistics và quản trị chuỗi cung ứng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Tìm giải pháp giảm chi phí logistics từ 12% xuống dưới 10% giá thành.
+- Cải thiện thời gian giao hàng và giảm tỷ lệ giao hàng không thành công.
+- Hiện đại hóa hệ thống quản lý kho (WMS) và tối ưu hóa lộ trình vận chuyển.
+
+### 2. Các vấn đề đã thảo luận
+- Sự phụ thuộc vào bên thứ ba (3PL) làm tăng chi phí và khó kiểm soát chất lượng.
+- Thiết lập các Hub tại Đà Nẵng và Cần Thơ để rút ngắn bán kính giao hàng.
+- Tối ưu hóa chiều về của xe tải để tránh chạy rỗng, tiết kiệm nhiên liệu.
+- Ứng dụng quét mã vạch và tự động hóa trong quản lý kho hàng.
+- Giảm tỷ lệ giao hàng thất bại bằng cách tích hợp bản đồ số và thông báo tự động.
+- Thử nghiệm mô hình điểm nhận hàng (Pick-up points) tại các cửa hàng tiện lợi.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án xây dựng Hub trung chuyển tại Cần Thơ.
+- Triển khai thử nghiệm mô hình Pick-up points tại khu vực TP.HCM.
+- Thay đổi vật liệu đóng gói sang giấy tái chế và giấy tổ ong từ tháng sau.
+- Yêu cầu phòng IT nâng cấp tính năng thông báo trạng thái đơn hàng cho khách.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát mặt bằng xây dựng Hub Cần Thơ | Phòng Logistics | 30/04/2024 |
+| Tìm nhà cung cấp bao bì thân thiện môi trường | Phòng Thu mua | 15/04/2024 |
+| Nâng cấp tính năng thông báo đơn hàng | Phòng IT | 25/04/2024 |
+| Lên lịch bảo trì đội xe quý II | Đội vận tải | 10/04/2024 |

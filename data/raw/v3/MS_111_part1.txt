@@ -1,0 +1,59 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:30:05] Alo, mọi người nghe rõ không? Tỷ giá sáng nay lại nhảy múa quá, anh em mình phải ngồi lại chốt phương án hedging cho lô hàng tháng tới thôi.
+[08:31:12] Em thấy tỷ giá trung tâm sáng nay tăng thêm 15 đồng rồi anh ạ. Kiểu này áp lực lên VND vẫn còn lớn lắm, nhất là sau tin Fed giữ nguyên lãi suất hôm qua.
+[08:32:20] Đúng rồi, mấy ông xuất khẩu thì sướng chứ mình nhập linh kiện đầu vào toàn tính bằng USD thì mệt. Hoàng ơi, bên em check lại xem dư nợ vay ngoại tệ của mình hiện tại là bao nhiêu?
+[08:33:45] Dạ anh, để em check lại file Excel... hiện tại mình đang còn khoảng 2 triệu đô chưa thanh toán cho bên đối tác Hàn Quốc, hạn cuối là cuối tháng này.
+[08:34:50] 2 triệu đô à? Căng đấy. Nếu tỷ giá cứ đà này thì chi phí tài chính của mình đội lên kinh khủng. Thủy thấy sao? Có nên mua forward hay option không em?
+[08:36:10] Em nghĩ thời điểm này mua forward là an toàn nhất anh ạ. Dù phí có hơi cao một chút nhưng ít nhất mình chốt được cái giá để làm kế hoạch kinh doanh. Chứ cứ để thả nổi thế này thì rủi ro biến động tỷ giá ăn hết lợi nhuận mất.
+[08:37:30] Anh cũng đang nghiêng về phương án đó. Hoàng liên hệ ngay với mấy ngân hàng mình hay giao dịch, hỏi xem phí forward 1 tháng và 3 tháng hiện tại thế nào nhé. Lấy báo giá của ít nhất 3 bên để mình so sánh.
+[08:38:45] Vâng anh, em sẽ làm việc với bên Vietcombank, Techcombank với HSBC luôn trong sáng nay.
+[08:40:00] Thủy rà soát lại dòng tiền từ các khoản thu bằng ngoại tệ xem có bù đắp được phần nào không. Nếu mình có nguồn thu USD từ mấy hợp đồng gia công thì dùng cái đó trả nợ trực tiếp luôn, đỡ phải mua ngoài.
+[08:41:20] Để em tổng hợp lại báo cáo dòng tiền ngoại tệ. Hình như tuần sau mình có một khoản khoảng 500 nghìn đô về từ bên Singapore đấy ạ.
+[08:42:40] Tốt, tận dụng tối đa nguồn đó nhé. Chốt lại là Hoàng lo báo giá ngân hàng, Thủy lo cân đối dòng tiền. Chiều nay 2h mình họp lại lần nữa để quyết chốt hợp đồng với bên nào.
+
+<|output|>
+# Thảo luận phương án phòng ngừa rủi ro tỷ giá cho lô hàng nhập khẩu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tác động của biến động tỷ giá USD/VND đối với hoạt động nhập khẩu của công ty.
+- Thống nhất phương án hedging (phòng ngừa rủi ro) cho các khoản thanh toán ngoại tệ sắp tới.
+
+### 2. Các vấn đề đã thảo luận
+- Tỷ giá trung tâm tăng mạnh (15 đồng) gây áp lực lớn lên chi phí nhập khẩu linh kiện.
+- Dư nợ ngoại tệ hiện tại là 2 triệu USD với đối tác Hàn Quốc, đến hạn thanh toán vào cuối tháng.
+- Đề xuất sử dụng hợp đồng Forward (kỳ hạn) để chốt tỷ giá, tránh rủi ro biến động ăn mòn lợi nhuận.
+- Cần so sánh phí Forward giữa các ngân hàng khác nhau (Vietcombank, Techcombank, HSBC).
+- Tận dụng nguồn thu ngoại tệ tự thân (khoảng 500.000 USD sắp về từ Singapore) để thanh toán trực tiếp.
+
+### 3. Kết luận và quyết định
+- Ưu tiên phương án mua ngoại tệ kỳ hạn (Forward) để bảo vệ dòng tiền.
+- Tận dụng tối đa nguồn thu ngoại tệ để giảm bớt lượng USD phải mua từ ngân hàng.
+- Sẽ đưa ra quyết định cuối cùng về việc chọn ngân hàng cung cấp dịch vụ sau khi có báo giá.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ ngân hàng lấy báo giá phí Forward 1 tháng và 3 tháng | Hoàng | 12:00 hôm nay |
+| Rà soát và báo cáo dòng tiền ngoại tệ từ các khoản thu | Thủy | 11:00 hôm nay |
+| Tổng hợp báo cáo và chuẩn bị nội dung họp chốt phương án | Hoàng & Thủy | 14:00 hôm nay |

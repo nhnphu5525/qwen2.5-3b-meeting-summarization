@@ -1,0 +1,53 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+
+[10:00:00] Chào buổi sáng Hội đồng quản trị và team Pháp lý. Hôm nay mình họp một phiên khá căng đây, rà soát lại toàn bộ điều khoản hợp đồng cổ đông để chuẩn bị cho lộ trình IPO sắp tới.
+[10:00:45] Dạ chào anh Minh. Em và các cộng sự đã xem kỹ lại bản dự thảo hợp đồng cổ đông (SHA) mới nhất. Có một vài điểm em thấy mình cần phải làm rõ để tránh tranh chấp sau này khi lên sàn.
+[10:01:30] Điểm nào em? Có liên quan đến quyền biểu quyết hay là quyền ưu tiên mua cổ phần không?
+[10:02:15] Dạ cả hai luôn anh. Thứ nhất là cái quyền "Veto" của nhóm cổ đông sáng lập đối với các quyết định quan trọng như thay đổi ngành nghề kinh doanh hay bán tài sản lớn. Khi mình IPO, các nhà đầu tư tổ chức họ thường sẽ yêu cầu mình bỏ hoặc hạn chế quyền này để đảm bảo tính đại chúng.
+[10:03:00] Bỏ là bỏ thế nào? Mình bỏ công sức gầy dựng công ty bao nhiêu năm, giờ để mấy ông nhảy vô rồi quyết định hết sao được. Phải giữ lại ít nhất 51% quyền biểu quyết cho các vấn đề cốt lõi chứ.
+[10:03:45] Em hiểu lo lắng của anh. Nhưng mình có thể chuyển đổi sang hình thức "Cổ phần ưu đãi biểu quyết" cho nhóm sáng lập trong một thời hạn nhất định, ví dụ 3-5 năm sau IPO. Như vậy vừa đảm bảo quyền kiểm soát cho mình, vừa làm hài lòng các nhà đầu tư mới.
+[10:04:30] Ừ, phương án đó nghe có vẻ ổn hơn đó. Còn vụ "Drag-along" và "Tag-along" thì sao?
+[10:05:15] Dạ cái quyền "Drag-along" (Quyền kéo theo) em thấy mình nên nâng ngưỡng lên. Hiện tại đang để là 51% cổ đông đồng ý là có thể ép các cổ đông còn lại bán. Em đề xuất nâng lên 75% để bảo vệ các cổ đông nhỏ lẻ và tránh việc thâu tóm thù địch quá dễ dàng.
+[10:06:00] 75% thì cao quá không em? Lỡ sau này mình muốn thoái vốn cho một tập đoàn lớn mà kẹt mấy ông nhỏ không chịu bán thì sao? Anh nghĩ 65% là con số hợp lý nhất theo Luật Doanh nghiệp mình rồi.
+
+<|output|>
+# Rà soát điều khoản hợp đồng cổ đông và chuẩn bị hồ sơ IPO
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và hiệu chỉnh các điều khoản trong Hợp đồng cổ đông (SHA) để phù hợp với các tiêu chuẩn niêm yết.
+
+### 2. Các vấn đề đã thảo luận
+- Quyền biểu quyết: Chuyển đổi quyền Veto của nhóm sáng lập sang hình thức "Cổ phần ưu đãi biểu quyết" với thời hạn 3-5 năm để đảm bảo tính đại chúng sau IPO.
+- Quyền Drag-along: Nâng ngưỡng đồng ý lên 65% (theo Luật Doanh nghiệp) để cân bằng giữa quyền lợi cổ đông lớn và bảo vệ cổ đông nhỏ.
+- Cam kết không cạnh tranh: Áp dụng thời hạn 2 năm đối với các thành viên HĐQT sau khi rời vị trí, kèm theo phụ lục định nghĩa chi tiết về ngành nghề kinh doanh.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án điều chỉnh SHA và lộ trình phát hành ESOP như đã thảo luận.
+- Giao team Pháp lý phối hợp với công ty chứng khoán tư vấn để hoàn thiện hồ sơ đăng ký niêm yết.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản dự thảo SHA mới nhất | Huy - Phòng Pháp lý | 20/12/2024 |
+| Lập báo cáo đối chiếu tài chính VAS-IFRS | Lan - Kế toán trưởng | 30/12/2024 |
