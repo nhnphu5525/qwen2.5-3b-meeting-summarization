@@ -1,0 +1,52 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[11:00] Chào mọi người, hôm nay chúng ta họp để thảo luận về kế hoạch chuyển đổi từ hệ thống On-premise hiện tại lên Cloud Infrastructure.
+[11:02] Hiện tại chi phí bảo trì server vật lý hàng năm đang quá cao, chưa kể rủi ro về mất dữ liệu khi có sự cố phần cứng là rất lớn.
+[11:04] Tôi đồng ý. Đợt rồi server ổ cứng bị hỏng làm hệ thống treo suốt 4 tiếng, thiệt hại không nhỏ đâu.
+[11:06] Vậy mình định chọn nền tảng nào? AWS, Google Cloud hay Microsoft Azure?
+[11:08] Theo khảo sát sơ bộ, AWS đang có hệ sinh thái dịch vụ rất đa dạng, đặc biệt là các dịch vụ về database và scaling.
+[11:10] Nhưng Azure lại tích hợp tốt với các phần mềm hiện tại của công ty mình vì mình đang dùng nhiều giải pháp của Microsoft.
+[11:12] Em thấy AWS có nhiều region ở gần Việt Nam hơn, tốc độ truy cập chắc chắn sẽ ổn định hơn Azure.
+[11:14] Vấn đề không chỉ là tốc độ, mà là khả năng hỗ trợ kỹ thuật tại địa phương. AWS hiện tại có đối tác hỗ trợ rất mạnh tại Việt Nam.
+[11:16] Về chi phí, Cloud có thực sự rẻ hơn On-premise không? Tôi thấy hóa đơn hàng tháng của Cloud đôi khi rất khó kiểm soát.
+[11:18] Đúng vậy, nếu mình không cấu hình "Auto-scaling" và "Reserved Instances" hợp lý thì chi phí sẽ vọt lên rất nhanh.
+[11:20] Vậy chúng ta cần một team chuyên trách về Cloud FinOps để tối ưu chi phí hàng tháng ngay từ đầu.
+
+<|output|>
+# Kế hoạch chuyển đổi sang Cloud Infrastructure (AWS)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận việc thay thế hệ thống server vật lý (On-premise) bằng hạ tầng điện toán đám mây.
+- Đánh giá các nhà cung cấp dịch vụ Cloud hàng đầu (AWS, Azure, GCP).
+
+### 2. Các vấn đề đã thảo luận
+- Hệ thống cũ thường xuyên gặp sự cố phần cứng và chi phí bảo trì cao.
+- So sánh AWS và Azure: AWS được ưu tiên nhờ hệ sinh thái dịch vụ đa dạng và tốc độ truy cập ổn định tại khu vực.
+
+### 3. Kết luận và quyết định
+- Thành lập nhóm FinOps để giám sát và tối ưu hóa chi phí sử dụng hàng tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết lập hệ thống giám sát chi phí (FinOps) | Team Tài chính | 20/04 |

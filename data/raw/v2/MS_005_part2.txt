@@ -1,0 +1,62 @@
+<|input|>
+# Kế hoạch chiến dịch Marketing "Hè Rực Rỡ" cho đợt khuyến mãi tháng 6
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất thời điểm triển khai chiến dịch khuyến mãi lớn nhất quý 3.
+- Xây dựng thông điệp chiến dịch và các hoạt động thúc đẩy doanh số.
+
+### 2. Các vấn đề đã thảo luận
+- Thời gian triển khai: Quyết định dời từ đầu tháng sang giữa tháng 6 (từ 15/06) để đón đầu làn sóng nghỉ hè của học sinh, sinh viên.
+- Thông điệp chiến dịch: "Du lịch xanh - Bảo vệ môi trường" với hoạt động đổi vỏ mỹ phẩm cũ lấy voucher giảm giá 15% và tặng túi tote cho hóa đơn trên 1 triệu.
+
+### 3. Kết luận và quyết định
+- Phê duyệt thông điệp và thời gian khởi động chiến dịch vào ngày 15/06.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế túi tote và in ấn voucher | Team Design | 30/03 |
+[09:16] Về phần kênh phân phối, em nghĩ đợt này mình nên dồn ngân sách vào TikTok thay vì Facebook như năm ngoái.
+[09:18] Tại sao vậy Lan? Facebook vẫn đang mang lại lượng khách hàng ổn định mà?
+[09:20] Facebook ổn định nhưng chi phí ads (CPM) đang tăng rất cao mà tương tác thì giảm. Ngược lại, TikTok đang cho phép tiếp cận tệp khách hàng trẻ cực kỳ hiệu quả thông qua các clip ngắn khoảng 15-30 giây.
+[09:22] Nếu mình chọn TikTok, mình cần hợp tác với ít nhất 5-10 KOC (Key Opinion Consumers) để họ review và gắn giỏ hàng trực tiếp.
+[09:24] Anh lo ngại về việc kiểm soát chất lượng video của các bạn KOC. Sợ họ nói quá lên hoặc làm mất đi tính chuyên nghiệp của thương hiệu.
+[09:26] Mình sẽ gửi bộ quy tắc hướng dẫn nội dung (Brand Guideline) cho họ trước, và yêu cầu duyệt clip trước khi đăng.
+[09:28] Về ngân sách, tổng cộng mình có 500 triệu cho toàn bộ chiến dịch này. Chia như thế nào cho hợp lý đây?
+[09:30] Em đề xuất: 200 triệu cho Booking KOC/Influencers, 150 triệu cho chạy quảng cáo đa kênh, 100 triệu cho sản xuất nội dung (video/ảnh), và 50 triệu cho quà tặng tại cửa hàng.
+[09:32] Khoản 100 triệu cho sản xuất nội dung hơi cao, mình có thể tận dụng nhân sự in-house để tiết kiệm được không?
+[09:34] In-house mình hiện tại đang quá tải với các dự án lẻ, nếu muốn video đạt chất lượng viral cao thì em nghĩ nên thuê một production house nhỏ bên ngoài xử lý cho chuyên nghiệp.
+[09:36] Thôi được, Lan tìm báo giá của 2-3 bên rồi trình tôi xem vào thứ Tư nhé.
+
+<|output|>
+# Kế hoạch chiến dịch Marketing "Hè Rực Rỡ" cho đợt khuyến mãi tháng 6
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất thời điểm triển khai chiến dịch khuyến mãi lớn nhất quý 3.
+- Xây dựng thông điệp chiến dịch và các hoạt động thúc đẩy doanh số.
+- Phân bổ ngân sách Marketing và lựa chọn kênh truyền thông chủ lực.
+
+### 2. Các vấn đề đã thảo luận
+- Thời gian triển khai: Quyết định dời từ đầu tháng sang giữa tháng 6 (từ 15/06) để đón đầu làn sóng nghỉ hè của học sinh, sinh viên.
+- Thông điệp chiến dịch: "Du lịch xanh - Bảo vệ môi trường" với hoạt động đổi vỏ mỹ phẩm cũ lấy voucher giảm giá 15% và tặng túi tote cho hóa đơn trên 1 triệu.
+- Kênh truyền thông: Chuyển trọng tâm từ Facebook sang TikTok, hợp tác với 5-10 KOC để review sản phẩm và gắn giỏ hàng trực tiếp.
+- Ngân sách: Tổng mức 500 triệu đồng (Booking KOC: 200tr, Ads: 150tr, Sản xuất nội dung: 100tr, Quà tặng: 50tr).
+
+### 3. Kết luận và quyết định
+- Phê duyệt thông điệp và thời gian khởi động chiến dịch vào ngày 15/06.
+- Đồng ý thuê production house bên ngoài để đảm bảo chất lượng video viral nhưng cần so sánh báo giá.
+- Áp dụng bộ quy tắc hướng dẫn nội dung chặt chẽ cho tất cả KOC tham gia dự án.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tìm và so sánh báo giá Production House | Lan (Marketing) | 22/03 |
+| Lên danh sách 10 KOC phù hợp với tệp khách hàng | Team Marketing | 25/03 |
+| Thiết kế túi tote và in ấn voucher | Team Design | 30/03 |
+| Soạn thảo Brand Guideline cho KOC | Lan (Marketing) | 28/03 |
