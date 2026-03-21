@@ -1,0 +1,43 @@
+<|input|>
+[14:00] Chào thầy Long và các anh chị trong ban đào tạo. Hôm nay chúng ta thảo luận về việc đưa hệ thống LMS mới vào giảng dạy cho học kỳ tới. Thầy thấy giao diện hiện tại có dễ dùng cho các bạn sinh viên không ạ?
+[14:02] Tôi đã dùng thử bản beta rồi, nhìn chung là hiện đại hơn hệ thống cũ nhiều. Tuy nhiên, phần tải tài liệu lên đôi khi vẫn bị lỗi định dạng, nhất là với các file bài giảng nặng. Chị Hoa bên kỹ thuật kiểm tra lại chỗ này nhé.
+[14:04] Dạ thầy, em ghi nhận rồi ạ. Do mình đang giới hạn dung lượng file upload nên các file video bài giảng lớn thường bị ngắt quãng. Em sẽ cấu hình lại server để hỗ trợ upload chunking, như vậy sẽ ổn định hơn.
+[14:06] Hay quá, nếu xử lý được lỗi đó thì tốt. Còn về phần thi trắc nghiệm trực tuyến thì sao? Tôi lo nhất là tính bảo mật và chống gian lận.
+[14:08] Về phần này, hệ thống mới có tích hợp tính năng khóa trình duyệt và theo dõi webcam bằng AI đấy thầy Long. Tất nhiên là mình cũng cần sự phối hợp của các thầy cô trong việc giám sát từ xa nữa.
+[14:10] Tôi nghĩ mình nên có một buổi tập huấn kỹ thuật cho toàn bộ giảng viên trong khoa. Không phải ai cũng thạo công nghệ đâu, nếu không hướng dẫn kỹ thì lúc vào học kỳ sẽ rất loạn.
+[14:12] Ý kiến của thầy rất xác đáng. Chị Hoa xem sắp xếp lịch tập huấn vào tuần sau được không? Mình chia làm 2 đợt cho mọi người dễ tham gia.
+[14:14] Tuần sau thì em hơi kẹt lịch triển khai server, chắc phải dời sang đầu tháng 4 mới chuẩn bị chu đáo tài liệu hướng dẫn và video demo được ạ. 
+[14:16] Vậy thống nhất là tuần đầu tháng 4 nhé. Còn các bạn sinh viên, mình cũng cần gửi mail thông báo và clip hướng dẫn sử dụng sớm để các bạn làm quen.
+[14:18] Em sẽ phụ trách soạn nội dung mail và quay video hướng dẫn ngắn gọn cho sinh viên. Chắc khoảng cuối tháng này là xong thôi chị.
+[14:20] Được rồi, vậy các đầu việc cứ thế mà triển khai. Hy vọng hệ thống mới sẽ giúp nâng cao chất lượng dạy và học của trường mình.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận kế hoạch triển khai hệ thống LMS (Learning Management System) mới.
+- Đánh giá trải nghiệm người dùng và các vấn đề kỹ thuật hiện tại.
+- Thống nhất lịch tập huấn và hỗ trợ người dùng.
+
+### 2. Các vấn đề đã thảo luận
+- Lỗi định dạng và giới hạn dung lượng khi tải tài liệu lên hệ thống.
+- Giải pháp kỹ thuật (upload chunking) để xử lý file nặng.
+- Tính năng bảo mật và chống gian lận trong thi cử trực tuyến (AI giám sát, khóa trình duyệt).
+- Sự cần thiết của việc đào tạo kỹ năng sử dụng cho giảng viên và sinh viên.
+
+### 3. Kết luận và quyết định
+- Nâng cấp cấu hình server để hỗ trợ tải file dung lượng lớn.
+- Tổ chức tập huấn cho giảng viên vào tuần đầu tháng 4.
+- Soạn thảo tài liệu và quay video hướng dẫn cho sinh viên trước cuối tháng 3.
+- Gửi thông báo chính thức qua email cho toàn thể sinh viên về việc chuyển đổi hệ thống.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cấu hình server hỗ trợ upload chunking | Phòng Kỹ thuật | 25/03/2026 |
+| Soạn nội dung email và video hướng dẫn cho sinh viên | Bộ phận Truyền thông | 30/03/2026 |
+| Chuẩn bị tài liệu tập huấn cho giảng viên | Hoa | 02/04/2026 |
+| Tổ chức các buổi tập huấn trực tiếp và online | Ban Đào tạo | 10/04/2026 |

@@ -1,0 +1,49 @@
+<|input|>
+[09:00] Chào các bác sĩ và các cộng sự, hôm nay chúng ta họp để thảo luận về tiến độ dự án nghiên cứu thử nghiệm lâm sàng phương pháp điều trị mới cho bệnh nhân ung thư phổi giai đoạn sớm. Bác sĩ An, chị có thể cập nhật tình hình tuyển chọn tình nguyện viên không?
+[09:05] Chào Giáo sư Bình, chào mọi người. Tôi là An. Tính đến nay, chúng ta đã sàng lọc được 50 hồ sơ, nhưng chỉ có 20 bệnh nhân đáp ứng đầy đủ các tiêu chí khắt khe về chỉ số sinh học và tiền sử bệnh. Nhiều bệnh nhân rất muốn tham gia nhưng họ lại đang mắc các bệnh nền như tiểu đường nặng hoặc suy thận, điều này có thể làm nhiễu kết quả thử nghiệm và gây nguy hiểm cho chính họ.
+[09:10] Chào bác sĩ An, tôi là Tuấn, chuyên viên phân tích dữ liệu y sinh. 20 mẫu là con số hơi ít để đạt được ý nghĩa thống kê cho giai đoạn 2 này. Chúng ta cần ít nhất 40 mẫu để có độ tin cậy trên 95%. Tôi đề xuất chúng ta nên mở rộng mạng lưới tuyển chọn sang các bệnh viện tuyến tỉnh lân cận thay vì chỉ tập trung tại bệnh viện trung ương.
+[09:15] Ý kiến của Tuấn rất đúng. Chào mọi người, tôi là Lan bên bộ phận Đối ngoại. Tôi có thể liên hệ với các bệnh viện ung bướu tại Hải Phòng và Quảng Ninh để thiết lập các vệ tinh tuyển chọn. Tuy nhiên, chúng ta cần đảm bảo quy trình bảo quản và vận chuyển mẫu bệnh phẩm từ tỉnh về trung tâm phải cực kỳ nghiêm ngặt để không làm biến đổi các dấu ấn phân tử.
+[09:20] Chào chị Lan, tôi là Minh bên bộ phận Lab. Về vận chuyển, tôi đã chuẩn bị các thùng container chuyên dụng có hệ thống giám sát nhiệt độ realtime qua IoT. Chỉ cần bên tỉnh tuân thủ đúng quy trình đóng gói là ổn. Vấn đề tôi lo lắng hơn là sự đồng nhất trong khâu lấy mẫu. Các kỹ thuật viên tuyến tỉnh cần được đào tạo lại để đảm bảo lấy đúng vị trí khối u theo yêu cầu của nghiên cứu.
+[09:25] Chào anh Minh, bác sĩ An. Tôi là Phương bên Hội đồng Đạo đức y sinh. Tôi muốn lưu ý là khi mở rộng sang các tỉnh, chúng ta phải cập nhật lại hồ sơ xin phép Bộ Y tế và ký lại các biên bản cam kết (Informed Consent) với bệnh nhân tại địa phương. Quyền lợi và bảo hiểm cho bệnh nhân phải được đảm bảo tuyệt đối, bao gồm cả chi phí đi lại và hỗ trợ thăm khám định kỳ.
+[09:30] Cảm ơn Phương đã nhắc nhở về khía cạnh pháp lý. Chào Giáo sư Bình, tôi muốn hỏi thêm về phác đồ phối hợp thuốc. Trong đợt thử nghiệm trên chuột tháng trước, chúng ta thấy có một số tác dụng phụ lên gan. Liệu liều lượng cho người có cần điều chỉnh giảm xuống không? Chào bác sĩ An, kết quả trên chuột chỉ mang tính tham khảo, nhưng chúng ta sẽ bắt đầu với liều thấp nhất (starting dose) và tăng dần theo dõi (dose escalation) để đảm bảo an toàn tối đa.
+[09:35] Chào Giáo sư, tôi là Hùng bên bộ phận Dược lâm sàng. Tôi đã chuẩn bị xong bộ thuốc cho 40 bệnh nhân. Thuốc cần được bảo quản ở nhiệt độ -20 độ C. Anh Minh kiểm tra lại hệ thống tủ đông dự phòng tại lab nhé, tránh trường hợp mất điện lưới kéo dài. Chào anh Hùng, hệ thống máy phát điện dự phòng đã sẵn sàng, anh yên tâm.
+[09:40] Về tiến độ, tôi muốn chúng ta hoàn thành khâu tuyển chọn bệnh nhân trong vòng 1 tháng tới. Chị Lan chủ động làm việc với các bệnh viện tỉnh. Bác sĩ An lên lịch đào tạo cho các bác sĩ vệ tinh. Tuấn chuẩn bị sẵn khung phân tích dữ liệu để khi có kết quả đầu tiên là có thể chạy ngay.
+[09:45] Chào Giáo sư, tôi là Lan. Tôi sẽ lên đường đi Hải Phòng vào thứ Hai tới. Hy vọng chúng ta sẽ sớm tìm đủ số lượng bệnh nhân cần thiết. Chào mọi người, dự án này mang ý nghĩa rất lớn cho cộng đồng, mong mọi người tập trung cao độ.
+[09:50] Cảm ơn sự nỗ lực của cả team. Sự an toàn của bệnh nhân và tính chính xác của dữ liệu là hai tôn chỉ cao nhất của chúng ta. Chúc mọi người sức khỏe.
+[09:55] Chào tạm biệt mọi người.
+
+<|output|>
+# Tiến độ Nghiên cứu Thử nghiệm Lâm sàng Điều trị Ung thư Phổi
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tiến độ tuyển chọn tình nguyện viên cho dự án thử nghiệm lâm sàng giai đoạn 2.
+- Giải quyết các khó khăn về số lượng mẫu và đảm bảo tính chính xác của dữ liệu y sinh.
+- Thống nhất phương án mở rộng mạng lưới tuyển chọn và quy trình vận chuyển mẫu bệnh phẩm.
+
+### 2. Các vấn đề đã thảo luận
+- Tuyển chọn bệnh nhân: Số lượng hiện tại (20/40) chưa đủ ý nghĩa thống kê; nhiều bệnh nhân bị loại do bệnh nền.
+- Mở rộng mạng lưới: Đề xuất thiết lập các vệ tinh tuyển chọn tại các bệnh viện tuyến tỉnh (Hải Phòng, Quảng Ninh).
+- Kỹ thuật và Lab: Cần đào tạo lại kỹ thuật viên tuyến tỉnh về khâu lấy mẫu; đảm bảo nhiệt độ vận chuyển qua hệ thống IoT.
+- Đạo y sinh: Cần cập nhật hồ sơ xin phép Bộ Y tế và đảm bảo quyền lợi, bảo hiểm cho bệnh nhân địa phương.
+- An toàn thuốc: Áp dụng quy trình tăng liều dần (dose escalation) để theo dõi tác dụng phụ lên gan.
+- Hậu cần: Bảo quản thuốc ở nhiệt độ -20 độ C và đảm bảo nguồn điện dự phòng cho tủ đông.
+
+### 3. Kết luận và quyết định
+- Triển khai mở rộng tuyển chọn bệnh nhân tại các tỉnh lân cận ngay trong tuần tới.
+- Tổ chức tập huấn quy trình lấy mẫu và đóng gói bệnh phẩm cho các bác sĩ vệ tinh.
+- Hoàn thiện hồ sơ bổ sung gửi Hội đồng Đạo đức và Bộ Y tế về việc thay đổi địa điểm nghiên cứu.
+- Chốt mục tiêu hoàn thành danh sách 40 bệnh nhân trong vòng 30 ngày.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kết nối và làm việc với các bệnh viện tuyến tỉnh | Chị Lan (Đối ngoại) | 30/03/2025 |
+| Đào tạo kỹ thuật lấy mẫu cho bác sĩ vệ tinh | BS An (Lâm sàng) | 05/04/2025 |
+| Cập nhật hồ sơ pháp lý và cam kết bệnh nhân | Chị Phương (Đạo đức y sinh) | 02/04/2025 |
+| Chuẩn bị hệ thống vận chuyển và tủ đông dự phòng | Anh Minh (Lab) | 01/04/2025 |
+| Thiết kế khung phân tích dữ liệu thống kê | Anh Tuấn (Data) | 10/04/2025 |
+| Chuẩn bị và phân phối thuốc thử nghiệm | Anh Hùng (Dược) | 07/04/2025 |
+| Giám sát tổng thể và chỉ đạo chuyên môn | Giáo sư Bình | Định kỳ |

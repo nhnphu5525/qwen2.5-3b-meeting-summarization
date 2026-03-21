@@ -1,0 +1,45 @@
+<|input|>
+[10:00] Chào bác sĩ An và các bạn điều dưỡng. Hôm nay mình họp để triển khai chương trình "Chăm sóc sức khỏe tâm thần" cho nhân viên y tế sau đợt cao điểm vừa rồi. Bác sĩ An thấy tình hình tâm lý chung của anh em trong khoa mình thế nào?
+[10:02] Tôi quan sát thấy khá nhiều bạn có dấu hiệu kiệt sức (burnout), thường xuyên mệt mỏi và dễ cáu gắt. Áp lực công việc cộng với việc thiếu ngủ kéo dài đang ảnh hưởng nghiêm trọng đến hiệu quả điều trị và cả sức khỏe cá nhân của mọi người.
+[10:04] Chính xác sếp ạ. Nhiều bạn điều dưỡng trẻ tâm sự với em là họ cảm thấy mất phương hướng và muốn xin nghỉ việc. Nếu mình không có giải pháp hỗ trợ kịp thời thì nguy cơ chảy máu chất xám là rất cao.
+[10:06] Vậy nên mình mới cần chương trình này. Tôi dự định sẽ mời các chuyên gia tâm lý về tổ chức các buổi tham vấn nhóm định kỳ hàng tuần. Ngoài ra, mình cần điều chỉnh lại lịch trực để mọi người có ít nhất 2 ngày nghỉ trọn vẹn trong tuần. Bác sĩ An thấy sao?
+[10:08] Việc mời chuyên gia là rất tốt, nhưng quan trọng nhất vẫn là thay đổi môi trường làm việc. Tôi đề xuất mình nên có một "phòng thư giãn" nhỏ trong khoa, nơi mọi người có thể ngồi uống trà, nghe nhạc hoặc chợp mắt 15-20 phút giữa giờ làm việc mà không bị làm phiền.
+[10:10] Ý kiến của bác sĩ An rất hay. Chị sẽ làm việc với phòng quản trị để cải tạo cái kho cũ thành phòng thư giãn như bác sĩ đề xuất. Còn về lịch trực, Hoa giúp chị rà soát lại và lên phương án xoay ca hợp lý hơn nhé, ưu tiên những bạn có con nhỏ hoặc nhà xa.
+[10:12] Dạ vâng chị, em sẽ gửi bản dự thảo lịch trực mới cho chị vào sáng mai. Em cũng nghĩ mình nên tổ chức một buổi dã ngoại ngắn ngày cho cả khoa vào cuối tháng này để mọi người gắn kết lại với nhau hơn.
+[10:14] Dã ngoại thì tuyệt quá, nhưng mình phải đảm bảo vẫn có đủ nhân sự trực tại bệnh viện. Hoa cứ lên kế hoạch và dự trù kinh phí đi, chị sẽ xin ý kiến ban giám đốc về phần hỗ trợ tài chính.
+[10:16] Bác sĩ An giúp chị soạn một cái khảo sát ngắn để mọi người tự đánh giá mức độ stress của mình nhé. Dựa vào đó mình sẽ có hướng hỗ trợ cá biệt cho những trường hợp nặng.
+[10:18] Vâng, tôi sẽ chuẩn bị mẫu khảo sát theo tiêu chuẩn y khoa và gửi cho mọi người qua group chat trong chiều nay. 
+[10:20] Cảm ơn bác sĩ An và Hoa. Hy vọng những nỗ lực này sẽ giúp anh em cảm thấy được quan tâm và gắn bó với nghề hơn. 
+[10:22] Cuộc họp kết thúc, mời mọi người quay lại làm việc.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai chương trình hỗ trợ sức khỏe tâm thần và giảm thiểu tình trạng kiệt sức cho nhân viên y tế.
+- Xây dựng môi trường làm việc tích cực và cải thiện chế độ nghỉ ngơi cho cán bộ khoa.
+- Đề xuất các hoạt động gắn kết tập thể và khảo sát mức độ căng thẳng nội bộ.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng burnout, mệt mỏi và nguy cơ nghỉ việc của nhân viên, đặc biệt là đội ngũ điều dưỡng trẻ.
+- Nhu cầu tham vấn tâm lý chuyên sâu và các buổi trao đổi nhóm.
+- Sự cần thiết của việc điều chỉnh lịch trực để đảm bảo thời gian hồi phục sức khỏe.
+- Ý tưởng thiết lập "phòng thư giãn" ngay tại khoa để nghỉ ngơi giữa giờ.
+- Tổ chức các hoạt động ngoại khóa (dã ngoại) để tăng tính đoàn kết.
+
+### 3. Kết luận và quyết định
+- Cải tạo không gian kho cũ thành phòng thư giãn cho nhân viên.
+- Xây dựng lại lịch trực xoay ca hợp lý, đảm bảo tối thiểu 2 ngày nghỉ/tuần.
+- Thực hiện khảo sát mức độ stress định kỳ để có biện pháp can thiệp kịp thời.
+- Lên kế hoạch tổ chức dã ngoại cuối tháng sau khi cân đối nhân sự trực.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo và triển khai khảo sát mức độ stress | Bác sĩ An | 18/03/2026 |
+| Lập dự thảo lịch trực xoay ca mới | Hoa | 19/03/2026 |
+| Làm việc với phòng quản trị về việc cải tạo phòng thư giãn | Trưởng khoa | 25/03/2026 |
+| Lên kế hoạch và kinh phí dã ngoại tập thể | Hoa | 01/04/2026 |

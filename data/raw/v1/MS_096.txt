@@ -1,0 +1,59 @@
+<|input|>
+[10:00] Chào mọi người, hôm nay mình ngồi lại để thảo luận về cái dự thảo chính sách phúc lợi mới cho năm 2026 nhé.
+[10:02] Dạ chị, em thấy cái quan trọng nhất bây giờ là cái khoản bảo hiểm sức khỏe cho nhân viên ấy ạ, năm ngoái ai cũng khen cái này.
+[10:03] Ừ, đúng rồi. Nhưng mà năm nay mình có nên mở rộng thêm cho cả người thân nhân viên không nhỉ?
+[10:05] Nếu mà mở rộng cho người thân thì chi phí đội lên nhiều lắm chị ơi, mình phải tính toán kỹ cái bài toán ngân sách.
+[10:06] Ờ... em thấy mình có thể áp dụng theo kiểu thâm niên đi. Ai làm trên 3 năm thì được hỗ trợ 50% phí bảo hiểm cho con cái chẳng hạn.
+[10:08] Ý kiến này hay đấy, vừa giữ chân được người cũ, vừa khích lệ tinh thần anh em.
+[10:09] Còn cái vụ du lịch năm tới thì sao ạ? Mọi người thích đi trong nước hay đi nước ngoài?
+[10:11] Đi nước ngoài thì sang chảnh thật nhưng mà thủ tục visa này kia cũng mệt lắm, nhất là với mấy bạn mới.
+[10:12] Em nghĩ mình cứ cho nhân viên bình chọn đi, cái gì đa số thích thì mình làm, cho nó dân chủ.
+[10:14] Thêm một cái nữa là cái phụ cấp ăn trưa, dạo này giá cả leo thang quá, cái mức cũ 30 nghìn một bữa em thấy hơi đuối.
+[10:15] Đúng rồi đấy, em đi ăn cơm văn phòng bây giờ toàn 40, 50 nghìn thôi.
+[10:17] Chắc là mình phải nâng lên tầm 45 nghìn hoặc 50 nghìn thì mới ổn được.
+[10:18] Chị cũng đang tính thế, để chị làm việc lại với bên kế toán xem họ có duyệt không nhé.
+[10:20] À, còn cái khoản thưởng KPI cuối năm nữa, mình có nên thay đổi cách tính không?
+[10:21] Em thấy cách tính hiện tại hơi cảm tính quá, sếp thích ai thì người đó được cao, nhân viên họ cũng hay xì xào.
+[10:23] Ờ... cái này thì mình phải đưa ra các cái chỉ số đo lường cụ thể thôi (OKRs), ai làm được đến đâu thì hưởng đến đó.
+[10:25] Đúng rồi, cứ minh bạch ngay từ đầu là dễ làm việc nhất.
+[10:26] Vậy là mình có: Bảo hiểm, Du lịch, Ăn trưa và Thưởng KPI đúng không?
+[10:28] Dạ, còn một cái nữa là hỗ trợ học phí cho các khóa đào tạo chuyên môn, cái này team kỹ thuật họ mong chờ lắm.
+[10:30] Chị đồng ý, mình nên trích một khoản ngân sách nhất định cho việc nâng cao trình độ nhân sự.
+[10:31] Okay, vậy em tổng hợp lại các ý kiến này thành một bản dự thảo chính thức để trình sếp tổng nhé.
+[10:33] Vâng ạ, để em hoàn thiện sớm trong tuần này.
+[10:34] Cố gắng làm sao để chính sách mới nó thực sự là động lực cho mọi người cống hiến nhé.
+[10:36] Dạ, em sẽ cố gắng hết sức ạ.
+[10:37] Chốt thế nhé, cảm ơn mọi người.
+[10:39] Dạ em chào chị ạ.
+
+<|output|>
+# Thảo luận dự thảo chính sách phúc lợi năm 2026
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và đề xuất các thay đổi trong chính sách phúc lợi nhân viên cho năm 2026.
+- Cân đối ngân sách và tính khả thi của các đề xuất mới.
+- Thống nhất các hạng mục quan trọng: Bảo hiểm, phụ cấp, du lịch và thưởng.
+
+### 2. Các vấn đề đã thảo luận
+- Bảo hiểm sức khỏe: Đề xuất mở rộng hỗ trợ cho người thân (con cái) dựa trên thâm niên công tác (trên 3 năm).
+- Du lịch công ty: Xem xét hình thức bình chọn giữa du lịch trong nước và nước ngoài để đảm bảo tính dân chủ.
+- Phụ cấp ăn trưa: Đề xuất tăng mức phụ cấp từ 30.000 VNĐ lên 45.000 - 50.000 VNĐ do trượt giá thị trường.
+- Thưởng KPI: Cải thiện tính minh bạch bằng cách áp dụng OKRs thay cho đánh giá cảm tính.
+- Đào tạo: Hỗ trợ học phí cho các khóa học chuyên môn để nâng cao năng lực đội ngũ.
+
+### 3. Kết luận và quyết định
+- Giao bộ phận Nhân sự soạn thảo bản dự thảo chính sách mới dựa trên các ý kiến đã thống nhất.
+- Làm việc với bộ phận Kế toán để rà soát tổng ngân sách cho các thay đổi về phụ cấp và bảo hiểm.
+- Xây dựng bảng tiêu chí OKRs cụ thể cho từng bộ phận để áp dụng trong kỳ đánh giá tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo dự thảo chính sách phúc lợi chi tiết | Team Nhân sự | 15/12/2025 |
+| Tính toán ngân sách phụ cấp ăn trưa và bảo hiểm | Phòng Kế toán | 20/12/2025 |
+| Xây dựng bộ tiêu chí đánh giá OKRs mới | Trưởng các bộ phận | 05/01/2026 |
+| Tổ chức khảo sát địa điểm du lịch công ty | Team Công đoàn | 10/01/2026 |
+| Trình sếp tổng phê duyệt bản dự thảo cuối cùng | Chị (Trưởng phòng NS) | Chưa rõ |

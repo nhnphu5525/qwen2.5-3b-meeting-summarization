@@ -1,0 +1,61 @@
+<|input|>
+[15:00] Chào anh Bách, chào chị Liên và các chuyên gia tư vấn năng lượng. Hôm nay chúng ta họp để thảo luận về dự án chuyển đổi sang năng lượng sạch cho chuỗi nhà máy của tập đoàn.
+[15:02] Chào mọi người, như các bạn đã biết, Chính phủ vừa cam kết Net Zero vào năm 2050. Là một trong những doanh nghiệp đầu ngành, chúng ta cần đi tiên phong trong việc giảm phát thải carbon.
+[15:04] Chào anh Bách, em đã khảo sát sơ bộ khả năng lắp đặt điện mặt trời áp mái tại 3 nhà máy ở Bình Dương. Tổng diện tích mái có thể khai thác lên đến 50.000 m2.
+[15:06] 50.000 m2 thì công suất dự kiến khoảng bao nhiêu MWp hả Liên? Và chi phí đầu tư sơ bộ là bao nhiêu?
+[15:08] Dạ, công suất ước tính khoảng 5 MWp. Với đơn giá hiện tại, tổng mức đầu tư rơi vào khoảng 80-90 tỷ đồng. Thời gian hoàn vốn dự kiến là 5-6 năm tùy vào giá điện của EVN.
+[15:10] 80-90 tỷ là một khoản đầu tư lớn. Liệu mình có thể áp dụng mô hình PPA (Power Purchase Agreement), tức là cho bên thứ ba thuê mái và mình mua lại điện của họ với giá rẻ hơn không anh Bách?
+[15:12] Mô hình PPA rất đáng cân nhắc vì mình không phải bỏ vốn đầu tư ban đầu và không lo khâu vận hành bảo trì. Tuy nhiên, Liên cần kiểm tra kỹ thời hạn hợp đồng, thường họ yêu cầu ký từ 15-20 năm.
+[15:14] Em sẽ liên hệ với 3 đơn vị cung cấp giải pháp PPA uy tín để xin báo giá và dự thảo hợp đồng. Ngoài điện mặt trời, em thấy mình còn có thể tận dụng nguồn nhiệt dư từ lò hơi để phát điện.
+[15:16] Ý tưởng tận dụng nhiệt dư rất hay. Anh Bách ơi, bên nhà máy thực phẩm của mình thải ra rất nhiều nước thải hữu cơ, liệu mình có thể xây hệ thống Biogas để chạy máy phát điện không?
+[15:18] Xây Biogas thì vừa xử lý được môi trường, vừa có điện, đúng là "một mũi tên trúng hai đích". Nhưng Liên phải đánh giá kỹ công nghệ xử lý mùi, tránh làm ảnh hưởng đến khu dân cư xung quanh.
+[15:20] Vâng anh, em sẽ làm việc với bên tư vấn môi trường để lên phương án khả thi. Còn một vấn đề nữa là chứng chỉ xanh (REC - Renewable Energy Certificate). Nếu mình có chứng chỉ này, mình sẽ dễ dàng xuất khẩu hàng sang châu Âu hơn.
+[15:22] Đúng vậy, từ năm sau EU sẽ bắt đầu áp dụng cơ chế điều chỉnh biên giới carbon (CBAM). Nếu hàng của mình có dấu chân carbon cao sẽ bị đánh thuế rất nặng.
+[15:24] Vậy việc chuyển đổi năng lượng này không chỉ là bảo vệ môi trường mà còn là bài toán sinh tồn của doanh nghiệp rồi. Anh Bách có định hướng gì về việc thay thế dàn xe vận tải sang xe điện không ạ?
+[15:26] Xe tải điện hiện nay vẫn còn hạn chế về quãng đường di chuyển và trạm sạc. Trước mắt, mình có thể thí điểm thay thế dàn xe nâng trong kho sang chạy điện hoàn toàn.
+[15:28] Xe nâng điện thì bên em đã bắt đầu triển khai tại kho miền Bắc rồi. Hiệu quả rất tốt, độ ồn thấp và không có khí thải trong kho kín.
+[15:30] Tốt quá. Chị Liên giúp anh tổng hợp lại toàn bộ các phương án: điện mặt trời (PPA), nhiệt dư, Biogas và xe nâng điện thành một lộ trình (Roadmap) giảm phát thải đến năm 2030.
+[15:32] Dạ, em sẽ hoàn thành bản thảo Roadmap này vào cuối tuần sau. Em cũng cần bộ phận Tài chính hỗ trợ tính toán các chỉ số NPV, IRR cho từng phương án để trình Hội đồng quản trị.
+[15:34] Liên cứ yên tâm, anh đã chỉ đạo bộ phận Tài chính ưu tiên nguồn lực cho dự án này. Chúng ta cần những con số thực sự thuyết phục để nhận được sự đồng thuận cao.
+[15:36] Còn về vấn đề truyền thông, chúng ta nên quảng bá mạnh mẽ các nỗ lực bền vững này đến khách hàng và đối tác. Nó sẽ giúp nâng cao giá trị thương hiệu của tập đoàn rất nhiều.
+[15:38] Đúng thế, anh Bách nên cân nhắc việc lập báo cáo phát triển bền vững (ESG Report) hàng năm. Đây là xu thế chung của các tập đoàn lớn trên thế giới.
+[15:40] Anh hoàn toàn nhất trí. Liên phối hợp với bên Marketing để chuẩn bị dữ liệu cho báo cáo ESG đầu tiên của mình nhé.
+[15:42] Vâng anh. Em thấy rất hào hứng với dự án này, cảm giác như mình đang thực sự đóng góp gì đó cho tương lai.
+[15:44] Cảm ơn sự nhiệt huyết của Liên. Mọi người còn ý kiến gì nữa không?
+[15:46] Dạ không ạ, các đầu việc đã khá rõ ràng rồi.
+[15:48] Vậy chúng ta kết thúc buổi họp tại đây. Cảm ơn mọi người.
+[15:50] Chào anh Bách, chào chị Liên.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận chiến lược chuyển đổi sang năng lượng sạch và lộ trình giảm phát thải carbon (Net Zero).
+- Đánh giá tính khả thi của các giải pháp năng lượng tái tạo (điện mặt trời, nhiệt dư, Biogas).
+- Chuẩn bị cho các rào cản thương mại xanh quốc tế (CBAM) và xây dựng báo cáo ESG.
+
+### 2. Các vấn đề đã thảo luận
+- Tiềm năng lắp đặt 5 MWp điện mặt trời áp mái tại các nhà máy Bình Dương.
+- Cân nhắc mô hình PPA để tối ưu vốn đầu tư và giảm rủi ro vận hành.
+- Giải pháp tận dụng nhiệt dư từ lò hơi và xây dựng hệ thống Biogas từ nước thải hữu cơ.
+- Tác động của cơ chế CBAM của EU đến hoạt động xuất khẩu của tập đoàn.
+- Thí điểm chuyển đổi dàn xe nâng sang chạy điện và lộ trình thay thế xe vận tải.
+- Tầm quan trọng của chứng chỉ năng lượng tái tạo (REC) và báo cáo phát triển bền vững (ESG).
+
+### 3. Kết luận và quyết định
+- Giao bộ phận chuyên môn xây dựng Roadmap giảm phát thải đến năm 2030.
+- Ưu tiên nghiên cứu mô hình PPA cho dự án điện mặt trời áp mái.
+- Bắt đầu thu thập dữ liệu để lập báo cáo ESG đầu tiên của tập đoàn.
+- Phối hợp với bộ phận Tài chính để đánh giá hiệu quả kinh tế của từng giải pháp năng lượng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ các đơn vị cung cấp PPA để lấy báo giá và hợp đồng mẫu | Chị Liên | 28/03/2024 |
+| Đánh giá công nghệ và khả năng triển khai hệ thống Biogas | Chị Liên | 05/04/2024 |
+| Xây dựng dự thảo Roadmap giảm phát thải carbon đến 2030 | Chị Liên | 02/04/2024 |
+| Tính toán các chỉ số tài chính (NPV, IRR) cho các dự án xanh | Bộ phận Tài chính | 10/04/2024 |
+| Thu thập dữ liệu phục vụ báo cáo ESG và truyền thông xanh | Bộ phận Marketing | 15/04/2024 |

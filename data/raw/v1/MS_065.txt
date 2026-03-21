@@ -1,0 +1,50 @@
+<|input|>
+[13:30] Chào anh Thành và các bạn trong ban kỹ thuật. Hôm nay chúng ta tập trung thảo luận về tiến độ lắp đặt dây chuyền sản xuất chip 28nm tại nhà máy mới ở khu công nghệ cao nha.
+[13:32] Ừ, anh vừa đi khảo sát hiện trường sáng nay xong. Cái hệ thống máy quang khắc ASML về tới cảng chưa em?
+[13:34] Dạ... ờ thì... hiện tại máy đã về tới cảng Cát Lái rồi ạ. Nhưng mà bên hải quan họ đang yêu cầu mình bổ sung thêm một số giấy tờ về môi trường và an toàn hóa chất á anh.
+[13:36] Sao lạ vậy? Giấy tờ đó mình đã chuẩn bị từ cả tháng trước rồi mà?
+[13:38] Dạ đúng là vậy, nhưng mà... là... do danh mục hóa chất sử dụng trong quá trình khắc axit có một số loại mới chưa có trong danh mục cũ của Bộ Tài nguyên Môi trường, nên họ yêu cầu mình phải giải trình thêm về quy trình xử lý nước thải sau sản xuất.
+[13:40] Cái này quan trọng nha. Không có máy là cả dây chuyền đứng hình hết. Thành ơi, em trực tiếp làm việc với bên tư vấn môi trường để hoàn thiện cái giải trình này trong vòng 3 ngày tới được không?
+[13:42] Dạ để em cố gắng ạ. Em sẽ mời các chuyên gia bên Đại học Bách Khoa cùng tham gia thẩm định để tăng tính thuyết phục cho hồ sơ.
+[13:44] Ừ, làm vậy đi. Còn cái khâu đào tạo kỹ sư vận hành thì sao? Đợt rồi mình cử 20 người đi Hàn Quốc tu nghiệp, họ về chưa?
+[13:46] Dạ... dạ rồi ạ. Họ đã về nước cuối tuần trước và đang trong quá trình thực hành trên máy mô phỏng. Theo đánh giá ban đầu thì 15 người đạt yêu cầu, còn 5 người cần đào tạo thêm về phần mềm quản lý sản xuất MES.
+[13:48] Chỉ 15 người thì hơi thiếu cho 3 ca sản xuất đó. Em cân nhắc phương án tuyển dụng thêm hoặc đào tạo cấp tốc cho nhóm còn lại nha.
+[13:50] Dạ vâng ạ. Còn một vấn đề nữa là cái hệ thống phòng sạch (Cleanroom class 10) hiện tại đang có hiện tượng rò rỉ khí ở khu vực cửa ra vào. Bên thi công họ đang xử lý nhưng chưa dứt điểm.
+[13:52] Trời ơi, cái này mà rò rỉ là hỏng hết chip đó! Phải yêu cầu họ làm gắt lại, không xong là không thanh toán đợt cuối đâu.
+[13:54] Dạ, em đã gửi công văn cảnh cáo rồi ạ. Họ cam kết sẽ xử lý xong trong tuần này.
+[13:56] Tốt. Cuối tuần tới anh muốn thấy cái máy quang khắc đã nằm đúng vị trí trong phòng sạch nha.
+[13:58] Dạ, tụi em sẽ nỗ lực hết sức ạ.
+[14:00] OK, tan họp.
+
+<|output|>
+# Tiến độ lắp đặt dây chuyền sản xuất chip bán dẫn 28nm
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Kiểm tra tiến độ nhập khẩu máy quang khắc ASML.
+- Giải quyết các vướng mắc về thủ tục hải quan và môi trường.
+- Đánh giá chất lượng nguồn nhân lực sau tu nghiệp.
+- Xử lý các sự cố kỹ thuật tại nhà máy (hệ thống phòng sạch).
+
+### 2. Các vấn đề đã thảo luận
+- Nhập khẩu thiết bị: Máy quang khắc đã về cảng nhưng vướng thủ tục giải trình hóa chất mới với hải quan và Bộ TNMT.
+- Nhân sự: 15/20 kỹ sư tu nghiệp đạt yêu cầu vận hành, 5 người cần đào tạo thêm về hệ thống MES. Số lượng hiện tại chưa đủ đáp ứng sản xuất 3 ca.
+- Kỹ thuật nhà máy: Hệ thống phòng sạch bị rò rỉ khí tại khu vực cửa ra vào, đơn vị thi công chưa xử lý dứt điểm.
+- Giải pháp: Mời chuyên gia thẩm định hồ sơ môi trường; yêu cầu đơn vị thi công xử lý triệt để phòng sạch dưới hình thức tạm dừng thanh toán.
+
+### 3. Kết luận và quyết định
+- Hoàn thiện hồ sơ giải trình môi trường cho hải quan trong vòng 3 ngày.
+- Đào tạo cấp tốc nhóm kỹ sư chưa đạt yêu cầu để đảm bảo quân số sản xuất.
+- Đốc thúc đơn vị thi công hoàn thành sửa chữa phòng sạch trong tuần này.
+- Đặt mục tiêu lắp đặt máy quang khắc vào vị trí trong tuần tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ giải trình hóa chất | Phòng Môi trường | 25/05/2024 |
+| Làm việc với hải quan để thông quan máy | Phòng Logistics | 27/05/2024 |
+| Đào tạo bổ sung hệ thống MES cho kỹ sư | Bộ phận Kỹ thuật | 05/06/2024 |
+| Giám sát sửa chữa rò rỉ phòng sạch | Ban Quản lý dự án | 26/05/2024 |
+| Báo cáo tình hình lắp đặt máy | Bộ phận Kỹ thuật | 02/06/2024 |

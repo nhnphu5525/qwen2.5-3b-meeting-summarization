@@ -1,0 +1,47 @@
+<|input|>
+[10:00] Chào mọi người, hôm nay bộ phận Pháp chế họp cùng đại diện Ban Giám đốc và bộ phận Kinh doanh để rà soát dự thảo hợp đồng hợp tác chiến lược với đối tác Nhật Bản. Chị An, chị đã xem qua bản dịch và các điều khoản cơ bản chưa?
+[10:05] Chào anh Vinh, chào cả team. Tôi đã đọc kỹ bản thảo. Về cơ bản, các điều khoản thương mại đã ổn, nhưng tôi đặc biệt quan ngại về phần "Bất khả kháng" và "Cơ chế giải quyết tranh chấp". Đối tác đang đề xuất áp dụng luật Nhật Bản và giải quyết tranh chấp tại tòa án Tokyo. Điều này sẽ gây bất lợi cực lớn cho chúng ta nếu có vấn đề xảy ra vì chi phí theo đuổi kiện tụng ở nước ngoài rất đắt đỏ.
+[10:10] Chào chị An, tôi là Mạnh bên bộ phận Kinh doanh. Tôi hiểu lo ngại của chị, nhưng phía Nhật Bản họ rất cứng rắn về điều khoản này. Họ cho rằng đây là tiêu chuẩn chung của tập đoàn họ trên toàn cầu. Nếu chúng ta ép họ theo luật Việt Nam, có thể thỏa thuận sẽ bị đình trệ. Chúng ta có phương án trung gian nào không?
+[10:15] Chào anh Mạnh, chị An. Tôi là Phương, chuyên viên pháp chế quốc tế. Tôi đề xuất chúng ta thương thảo để chọn một bên thứ ba, ví dụ như Trung tâm Trọng tài Quốc tế Singapore (SIAC). Đây là lựa chọn phổ biến cho các hợp đồng thương mại quốc tế tại khu vực châu Á vì tính trung lập và quy trình chuyên nghiệp. Luật áp dụng có thể là luật Singapore hoặc luật Anh để đảm bảo công bằng cho cả hai bên.
+[10:20] Ý kiến của Phương rất hay. Chào chị An, anh Mạnh, tôi là Vinh. Việc chọn SIAC là một giải pháp hợp lý mà chúng ta có thể thuyết phục đối tác. Ngoài ra, tôi muốn lưu ý về điều khoản bảo mật thông tin (NDA) và quyền sở hữu trí tuệ (IP). Trong quá trình hợp tác, chúng ta sẽ chia sẻ một số bí quyết công nghệ sản xuất. Hợp đồng cần làm rõ rằng những IP sẵn có của ai thì thuộc về người đó, còn IP phát sinh trong quá trình hợp tác sẽ được phân chia như thế nào.
+[10:25] Đúng vậy anh Vinh. Chào anh Mạnh, anh cần trao đổi lại với đối tác về việc này. Tôi thấy trong dự thảo hiện tại, phía Nhật Bản đang mặc định mọi cải tiến kỹ thuật trong quá trình hợp tác sẽ thuộc quyền sở hữu của họ. Điều này là không chấp nhận được vì chúng ta cũng đóng góp nguồn lực và chất xám rất lớn.
+[10:30] Chào chị An, tôi sẽ ghi nhận và đưa vào chương trình đàm phán vào thứ Năm tới. Tiện đây, tôi muốn hỏi về điều khoản chấm dứt hợp đồng trước thời hạn. Nếu một trong hai bên muốn dừng hợp tác vì lý do kinh doanh không đạt kỳ vọng, thì thủ tục và mức bồi thường sẽ như thế nào? Hiện tại bản thảo đang quy định mức phạt vi phạm lên tới 20% giá trị hợp đồng, tôi thấy hơi cao.
+[10:35] Chào anh Mạnh, mức phạt 20% là mức trần theo luật thương mại Việt Nam cho một số trường hợp, nhưng trong hợp đồng quốc tế thì nó tùy thuộc vào thỏa thuận. Tuy nhiên, chúng ta nên đàm phán giảm xuống khoảng 8-10% hoặc quy định rõ các trường hợp được miễn trừ trách nhiệm. Chào Phương, em giúp chị soạn lại điều khoản "Chấm dứt hợp đồng" với các kịch bản cụ thể hơn nhé.
+[10:40] Vâng chị An. Em cũng sẽ bổ sung thêm điều khoản về "Tuân thủ" (Compliance), bao gồm chống tham nhũng và chống rửa tiền theo tiêu chuẩn ESG mà đối tác Nhật thường rất coi trọng. Việc này sẽ giúp chúng ta ghi điểm cộng trong mắt họ về tính chuyên nghiệp.
+[10:45] Rất tốt. Vậy kế hoạch là: Phương hoàn thiện bản thảo sửa đổi với phương án trọng tài SIAC, phân chia IP rõ ràng và giảm mức phạt vi phạm. Chị An sẽ soát xét lại lần cuối trước khi gửi cho anh Mạnh. Anh Mạnh chuẩn bị các luận điểm để thuyết phục đối tác trong buổi họp tiếp theo.
+[10:50] Chào mọi người, tôi tin rằng nếu chúng ta chuẩn bị kỹ lưỡng các căn cứ pháp lý, đối tác sẽ tôn trọng và đồng ý với các điều chỉnh của chúng ta. Chúc buổi đàm phán sắp tới thành công tốt đẹp.
+[10:55] Cảm ơn cả team. Buổi họp kết thúc.
+
+<|output|>
+# Rà soát Hợp đồng Hợp tác Chiến lược với đối tác Nhật Bản
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát các điều khoản pháp lý trong dự thảo hợp đồng hợp tác chiến lược.
+- Giải quyết xung đột về luật áp dụng và cơ quan giải quyết tranh chấp.
+- Thống nhất phương án bảo vệ quyền sở hữu trí tuệ và điều chỉnh mức phạt vi phạm.
+
+### 2. Các vấn đề đã thảo luận
+- Giải quyết tranh chấp: Đối tác yêu cầu luật Nhật Bản và tòa án Tokyo, gây bất lợi và tốn kém cho phía Việt Nam.
+- Sở hữu trí tuệ (IP): Dự thảo mặc định các cải tiến kỹ thuật thuộc về phía Nhật; cần phân định rõ quyền sở hữu đối với IP sẵn có và IP phát sinh.
+- Chấm dứt hợp đồng: Mức phạt vi phạm 20% là quá cao; cần đàm phán giảm xuống và cụ thể hóa các trường hợp miễn trừ.
+- Tuân thủ (Compliance): Cần bổ sung các điều khoản về chống tham nhũng, rửa tiền và tiêu chuẩn ESG để tăng uy tín.
+- Giải pháp trung gian: Đề xuất sử dụng Trung tâm Trọng tài Quốc tế Singapore (SIAC) và luật Singapore/Anh.
+
+### 3. Kết luận và quyết định
+- Chọn SIAC làm cơ quan giải quyết tranh chấp và luật Singapore làm luật áp dụng để đảm bảo tính trung lập.
+- Yêu cầu sửa đổi điều khoản IP theo hướng: IP của bên nào bên đó giữ, IP phát sinh sẽ thuộc sở hữu chung hoặc phân chia theo đóng góp.
+- Đàm phán giảm mức phạt vi phạm hợp đồng xuống còn 8-10% và bổ sung kịch bản chấm dứt hợp đồng cụ thể.
+- Bổ sung các cam kết về tuân thủ pháp luật và tiêu chuẩn ESG vào hợp đồng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo lại điều khoản Tranh chấp và IP | Chị Phương (Pháp chế) | 26/03/2025 |
+| Xây dựng kịch bản chấm dứt hợp đồng và bồi thường | Chị Phương (Pháp chế) | 26/03/2025 |
+| Soát xét tổng thể bản thảo sửa đổi | Chị An (Trưởng phòng Pháp chế) | 27/03/2025 |
+| Đàm phán trực tiếp với đối tác Nhật Bản | Anh Mạnh (Kinh doanh) | 28/03/2025 |
+| Báo cáo kết quả đàm phán cho Ban Giám đốc | Anh Vinh (Ban Giám đốc) | 30/03/2025 |
+| Bổ sung điều khoản ESG và Compliance | Chị Phương (Pháp chế) | 26/03/2025 |

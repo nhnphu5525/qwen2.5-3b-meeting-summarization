@@ -1,0 +1,49 @@
+<|input|>
+[14:00] Chào mọi người, hôm nay chúng ta bàn về việc lắp hệ thống điện mặt trời áp mái cho nhà máy số 2.
+[14:02] Tôi thấy tiền điện mỗi tháng của nhà máy dạo này tăng ghê quá, đầu tư cái này để cắt giảm chi phí là hợp lý rồi.
+[14:04] Dự kiến mình sẽ lắp khoảng 500kWp, đủ để cung cấp khoảng 40% lượng điện tiêu thụ ban ngày.
+[14:06] Thế còn vấn đề kết cấu mái thì sao? Các tấm pin này cũng nặng đấy, mái nhà xưởng mình có chịu nổi không?
+[14:08] Đã có bên đơn vị tư vấn sang khảo sát rồi, họ bảo cần gia cố thêm một số vị trí xà gồ mới đảm bảo an toàn lâu dài.
+[14:10] Chi phí gia cố đó có nằm trong gói thầu lắp đặt không hay mình phải tự làm?
+[14:12] Thường thì mình tự làm hoặc thuê họ làm thêm, cái này cần đàm phán lại trong hợp đồng.
+[14:14] Tôi lo nhất là cái vụ phòng cháy chữa cháy (PCCC), nghe nói quy định cho điện mặt trời dạo này khắt khe lắm.
+[14:16] Đúng rồi, phải có hồ sơ thiết kế PCCC được duyệt mới được phép thi công, nếu không sau này hoàn công mệt lắm.
+[14:18] Thời gian hoàn vốn dự kiến là bao lâu? Nếu quá 7 năm thì Ban giám đốc chắc không duyệt đâu.
+[14:20] Với giá điện hiện tại và hiệu suất pin thì khoảng 5 năm là mình hòa vốn rồi, từ năm thứ 6 là hưởng lợi thôi.
+[14:22] Ngoài ra mình còn được cấp chứng chỉ năng lượng tái tạo, cái này rất có lợi khi xuất khẩu sang châu Âu.
+[14:24] Vậy thì chốt sớm nhé. Phòng hành chính liên hệ mấy đơn vị thầu uy tín lấy báo giá cạnh tranh đi.
+[14:26] Cần lưu ý cả phần bảo trì định kỳ nữa, pin bẩn là hiệu suất giảm ngay.
+
+<|output|>
+# Dự án lắp đặt điện mặt trời áp mái cho nhà máy
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xem xét tính khả thi và lợi ích kinh tế của việc lắp đặt hệ thống điện mặt trời tại nhà máy số 2.
+- Thống nhất quy trình triển khai, từ khảo sát kết cấu đến hoàn thiện pháp lý PCCC.
+- Đảm bảo dự án đáp ứng các tiêu chuẩn xuất khẩu xanh của thị trường quốc tế.
+
+### 2. Các vấn đề đã thảo luận
+- Quy mô dự án 500kWp giúp tiết kiệm 40% điện năng tiêu thụ ban ngày.
+- Yêu cầu gia cố kết cấu mái nhà xưởng để đảm bảo an toàn khi lắp pin.
+- Thủ tục pháp lý về PCCC đối với hệ thống điện mặt trời áp mái.
+- Phân tích tài chính: Thời gian hoàn vốn dự kiến trong vòng 5 năm.
+- Lợi ích từ chứng chỉ năng lượng tái tạo đối với việc xuất khẩu hàng hóa.
+- Công tác bảo trì và vệ sinh tấm pin định kỳ để duy trì hiệu suất.
+
+### 3. Kết luận và quyết định
+- Đồng ý triển khai dự án lắp đặt điện mặt trời áp mái.
+- Giao phòng Hành chính tìm kiếm và lựa chọn nhà thầu cung cấp giải pháp trọn gói.
+- Yêu cầu đơn vị tư vấn hoàn thiện hồ sơ thiết kế và xin phép PCCC trước khi thi công.
+- Phòng Tài chính rà soát lại phương án đầu tư và dòng tiền cho dự án.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thu thập báo giá từ ít nhất 3 nhà thầu | Phòng Hành chính | 27/03/2026 |
+| Hoàn thiện hồ sơ thẩm duyệt PCCC | Phòng Kỹ thuật | 10/04/2026 |
+| Thẩm định năng lực tài chính và phương án ROI | Phòng Tài chính | 30/03/2026 |
+| Kiểm tra và phê duyệt bản vẽ gia cố mái | Phòng Kỹ thuật | 05/04/2026 |
+| Ký hợp đồng lắp đặt chính thức | Ban Giám đốc | 15/04/2026 |

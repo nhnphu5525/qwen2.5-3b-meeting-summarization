@@ -1,0 +1,90 @@
+<|input|>
+[09:00] Chào buổi sáng tất cả các anh chị em đại diện cho các phòng ban: Logistics, Thu mua, Kinh doanh, Tài chính và các đối tác vận chuyển quốc tế. Hôm nay chúng ta có một cuộc họp chiến lược cực kỳ quan trọng để rà soát và tối ưu hóa toàn bộ chuỗi cung ứng quốc tế của tập đoàn trong bối cảnh địa chính trị thế giới đang có nhiều biến động phức tạp.
+[09:02] Vâng thưa anh, tình hình hiện tại đang rất căng thẳng. Việc khủng hoảng tại Biển Đỏ kéo dài đã khiến hầu hết các hãng tàu lớn như Maersk hay MSC đều phải chuyển hướng đi vòng qua Mũi Hảo Vọng. Điều này làm kéo dài thời gian vận chuyển (transit time) từ châu Á sang châu Âu thêm ít nhất 10-15 ngày.
+[09:04] Kéo dài thời gian là một chuyện, nhưng cái tôi lo nhất là chi phí cước (freight rate). Tôi thấy báo cáo tuần trước là giá cước container 40ft đã tăng gấp 3 lần so với cùng kỳ năm ngoái. Với biên lợi nhuận mỏng như hiện nay, nếu cước cứ tăng thế này thì mảng xuất khẩu của mình sẽ lỗ nặng.
+[09:06] Đúng vậy chị Lan ạ. Không chỉ cước tàu biển mà cả phụ phí nhiên liệu (BAF) và phí mùa cao điểm (PSS) cũng đang bị các hãng tàu đẩy lên rất cao. Thêm vào đó, tình trạng thiếu hụt container rỗng tại các cảng chính của Trung Quốc và Việt Nam đang bắt đầu tái diễn, kiểu như thời kỳ đại dịch Covid ấy.
+[09:08] Ờ... tôi muốn hỏi bên team Logistics, tại sao mình không xem xét các phương thức vận chuyển thay thế? Ví dụ như đường sắt liên vận Á-Âu qua Trung Quốc rồi sang Nga, Ba Lan? Nghe nói đi đường đó chỉ mất khoảng 20-25 ngày thôi?
+[09:10] Dạ thưa anh, phương án đường sắt tụi em đã nghiên cứu kỹ. Tuy nhiên, do xung đột Nga-Ukraine, việc đi qua lãnh thổ Nga hiện nay gặp rất nhiều rủi ro về bảo hiểm và thanh toán quốc tế. Nhiều đối tác châu Âu của mình họ cũng từ chối nhận hàng nếu vận chuyển qua Nga. Còn tuyến đường sắt phía Nam qua Trung Á thì năng lực thông quan (capacity) rất hạn chế, thường xuyên bị tắc nghẽn ở các cửa khẩu.
+[09:12] Vậy còn đường hàng không (Air Freight) thì sao? Đối với những đơn hàng linh kiện điện tử giá trị cao và cần gấp, mình có thể chuyển một phần sang đi máy bay không?
+[09:14] Đi máy bay thì nhanh thật, chỉ mất 3-5 ngày, nhưng cước phí thì... ôi thôi, nó gấp 10-15 lần đường biển. Nếu mình đi Air cho các lô hàng lớn thì chi phí Logistics sẽ chiếm đến 40% giá thành sản phẩm, không thể bán được. Em đề xuất mình nên dùng phương án 'Sea-Air' (kết hợp biển và hàng không). Tức là đi tàu biển từ Việt Nam sang Dubai, sau đó bay từ Dubai sang các nước châu Âu. Cách này sẽ cân bằng được giữa thời gian và chi phí.
+[09:16] Sea-Air nghe cũng có vẻ khả thi. Lan bên Tài chính thấy phương án này thế nào? Mình có thể trích quỹ dự phòng rủi ro để bù đắp phần chênh lệch chi phí này không?
+[09:18] Em nghĩ là có thể, nhưng mình phải tính toán cực kỳ chi tiết cho từng SKU (mã hàng). Những mặt hàng nào có vòng đời ngắn, tính thời vụ cao thì mình đi Sea-Air, còn hàng tiêu dùng cơ bản thì vẫn phải kiên trì đi đường biển và chấp nhận dự trữ tồn kho lớn hơn.
+[09:20] Nói đến tồn kho, tôi thấy mình cần thay đổi chiến lược từ 'Just-in-Time' (vừa kịp lúc) sang 'Just-in-Case' (phòng hờ). Việc phụ thuộc vào nguồn cung ứng tức thời bây giờ quá nguy hiểm. Tôi đề nghị bộ phận Thu mua tìm thêm các nhà cung cấp thay thế ở khu vực Đông Nam Á hoặc Ấn Độ để giảm bớt sự phụ thuộc vào Trung Quốc.
+[09:22] Tìm nhà cung cấp mới không phải chuyện một sớm một chiều anh ạ. Riêng khâu đánh giá chất lượng và làm mẫu cũng mất 6 tháng rồi. Chưa kể, hệ thống logistics từ Ấn Độ về Việt Nam cũng không hề rẻ và thuận tiện như từ Trung Quốc. Tuy nhiên, tụi em cũng đang tích cực tìm kiếm các đối tác ở Thái Lan và Indonesia cho các nguyên liệu phụ trợ.
+[09:24] Còn vấn đề thủ tục hải quan thì sao? Tôi nghe nói dạo này các quy định về quy tắc xuất xứ (C/O) và các rào cản kỹ thuật của EU (như cơ chế điều chỉnh biên giới carbon - CBAM) đang thắt chặt rất gắt gao.
+[09:26] Vâng, đúng là như vậy ạ. Phía EU họ yêu cầu mình phải chứng minh được quy trình sản xuất xanh, giảm phát thải. Nếu mình không chuẩn bị hồ sơ kỹ từ bây giờ thì hàng sang đến cảng Rotterdam cũng bị kẹt lại không thông quan được. Em đã thuê một đơn vị tư vấn về CBAM để rà soát lại toàn bộ quy trình sản xuất và đóng gói của mình.
+[09:28] Tốt, phải đi trước một bước như vậy. Quay lại vấn đề đối tác vận chuyển, tôi thấy mình đang ký hợp đồng với quá nhiều forwarder nhỏ lẻ. Điều này làm phân tán nguồn lực và mình không có vị thế đàm phán (bargaining power) với các hãng tàu. Tại sao mình không chọn ra 2-3 đối tác chiến lược lớn và ký hợp đồng dài hạn (Service Contract)?
+[09:30] Dạ, thực ra ký hợp đồng dài hạn trong lúc giá cước đang biến động mạnh thế này cũng là một con dao hai lưỡi. Nếu mình ký lúc giá cao mà sau đó thị trường hạ nhiệt thì mình thiệt. Nhưng em đồng ý là cần gom volume lại để có giá tốt hơn. Em đang làm việc với Maersk và ONE để xin giá đặc thù cho các tuyến trọng điểm của mình.
+[09:32] Ngoài việc xin giá, em cần yêu cầu họ cam kết về chỗ (space) và thiết bị (container). Chứ giá rẻ mà đến lúc cần đi hàng họ bảo hết chỗ thì cũng bằng thừa.
+[09:34] Vâng, em sẽ đưa các điều khoản cam kết space vào phụ lục hợp đồng. À, còn vấn đề số hóa chuỗi cung ứng. Hiện tại mình vẫn còn dùng quá nhiều giấy tờ thủ công trong khâu theo dõi đơn hàng (tracking). Nhiều lúc sếp hỏi hàng đang ở đâu, em lại phải gọi điện, email cho forwarder hỏi rồi mới báo cáo lại được, mất thời gian quá.
+[09:36] Đúng rồi, tôi muốn có một cái Dashboard (bảng điều khiển) hiển thị thời gian thực. Tôi muốn nhìn vào đó là biết ngay có bao nhiêu container đang trên biển, bao nhiêu đang ở cảng, cái nào đang bị chậm (delay). Team IT phối hợp với Logistics xây dựng cái này ngay trong quý này cho tôi.
+[09:38] Dạ, để làm được cái này thì mình cần yêu cầu các đối tác vận chuyển phải cung cấp API kết nối dữ liệu. Đa số các hãng lớn họ đều có sẵn rồi, chỉ cần mình tích hợp vào hệ thống nội bộ thôi ạ.
+[09:40] Chi phí cho việc tích hợp này có cao không?
+[09:42] Không quá cao đâu anh, chủ yếu là tốn công của team Dev nhà mình thôi. Nhưng đổi lại mình sẽ tiết kiệm được rất nhiều nhân lực cho khâu quản lý và giảm thiểu sai sót dữ liệu.
+[09:44] OK, duyệt làm Dashboard. Còn một vấn đề nữa, đó là bảo hiểm hàng hóa quốc tế. Với việc tàu phải đi vòng qua Mũi Hảo Vọng, nguy cơ về cướp biển ở khu vực Tây Phi cũng đang tăng lên. Mình đã kiểm tra lại các điều khoản bảo hiểm chiến tranh và rủi ro hàng hải chưa?
+[09:46] Em đã làm việc với bên bảo hiểm Bảo Việt. Họ có điều chỉnh tăng phí một chút cho các tuyến đi qua khu vực rủi ro cao. Tuy nhiên, họ cam kết bồi thường 110% giá trị hóa đơn trong trường hợp tổn thất toàn bộ. Em nghĩ mức phí này là chấp nhận được trong tình hình hiện nay.
+[09:48] 110% là ổn rồi. Mọi người lưu ý là trong kinh doanh quốc tế, 'cẩn tắc vô áy náy'. Đừng có tiết kiệm mấy đồng phí bảo hiểm mà đến lúc có chuyện thì mất trắng cả lô hàng hàng triệu đô.
+[09:50] Tổng kết lại các nội dung chính của buổi họp hôm nay: 1. Đa dạng hóa phương thức vận chuyển, triển khai Sea-Air cho hàng gấp. 2. Chuyển từ 'Just-in-Time' sang 'Just-in-Case', tăng tồn kho dự phòng và tìm nhà cung cấp thay thế. 3. Thuê tư vấn về CBAM và các quy định xanh của EU. 4. Gom volume để ký Service Contract với các hãng tàu lớn, cam kết về space. 5. Xây dựng Dashboard theo dõi hành trình đơn hàng thời gian thực. 6. Rà soát và mua đầy đủ bảo hiểm rủi ro hàng hải.
+[09:52] Anh cho em hỏi về tiến độ thực hiện Dashboard ạ? Vì team IT đang kẹt dự án ERP giai đoạn 2.
+[09:54] Dự án Dashboard này ưu tiên số 1, vì nó ảnh hưởng trực tiếp đến dòng tiền và kế hoạch kinh doanh. Em bảo team IT gác lại một số module chưa quan trọng của ERP để tập trung cho cái này trước. Tôi muốn có bản demo vào cuối tháng sau.
+[09:56] Dạ vâng, em rõ rồi ạ.
+[09:58] Các đối tác vận chuyển lưu ý: Tôi rất coi trọng sự trung thực và kịp thời trong báo cáo. Nếu có sự cố delay hay tắc cảng, các anh phải báo ngay cho team Logistics của chúng tôi trong vòng 24 giờ. Đừng để đến lúc chúng tôi tự phát hiện ra thì sẽ ảnh hưởng đến uy tín và cơ hội hợp tác lâu dài đấy.
+[10:00] Vâng thưa anh, chúng tôi cam kết sẽ hỗ trợ tập đoàn hết mình trong giai đoạn khó khăn này. Chúng tôi sẽ ưu tiên cấp container rỗng cho các kho của tập đoàn tại Hải Phòng và Bình Dương.
+[10:02] Tốt, hy vọng chúng ta sẽ cùng nhau vượt qua đợt sóng gió này. Mọi người còn ý kiến gì nữa không?
+[10:04] Ngoài ra, chúng ta cần thảo luận thêm về thị trường Bắc Mỹ. Hiện tại tình trạng kẹt cảng tại Los Angeles và Long Beach tuy đã giảm nhưng chi phí vận tải nội địa (trucking) tại Mỹ đang tăng phi mã do thiếu tài xế.
+[10:06] Vâng anh, phí bãi (demurrage và detention) tại các cảng Mỹ cũng là một gánh nặng lớn. Em đề xuất mình nên chuyển một phần hàng sang các cảng ở bờ Đông như Savannah hoặc New York để giảm tải cho bờ Tây, mặc dù thời gian đi tàu sẽ lâu hơn một chút nhưng chi phí trucking từ đó về các kho ở trung tâm sẽ rẻ hơn.
+[10:08] Ý kiến này hay. Lan check lại giá cước đi bờ Đông so với bờ Tây xem chênh lệch thế nào? Và đừng quên tính cả phí cầu đường và thuế bang nữa nhé.
+[10:10] Dạ, cước đi bờ Đông hiện cao hơn khoảng 1500 USD mỗi container 40ft. Nhưng nếu tính tổng chi phí (Total Landed Cost) thì đi bờ Đông lại tiết kiệm được khoảng 500 USD do quãng đường trucking ngắn hơn cho các đơn hàng ở khu vực phía Đông và Trung Tây.
+[10:12] Vậy thì mình sẽ phân bổ rổ hàng theo khu vực địa lý của khách hàng cuối cùng. Khách ở đâu thì mình cho tàu cập cảng gần đó nhất. Tiếp theo, về mảng Logistics xanh, phía đối tác Amazon đang yêu cầu mình phải sử dụng bao bì tái chế 100% và có chứng chỉ FSC. Team Thu mua đã làm việc với các nhà cung cấp bao bì chưa?
+[10:14] Dạ tụi em đã tìm được 2 nhà cung cấp ở Việt Nam đáp ứng được tiêu chuẩn FSC. Tuy nhiên giá thành bao bì này cao hơn 20% so với loại hiện tại. Em đang đàm phán để họ giảm giá nếu mình cam kết sản lượng lớn trong 2 năm tới.
+[10:16] Phải chấp nhận thôi, vì đây là yêu cầu bắt buộc để giữ chân các 'ông lớn' như Amazon. Nếu không có chứng chỉ xanh, họ sẽ đánh tụt hạng nhà cung cấp của mình ngay.
+[10:18] Còn một điểm nữa là vụ rủi ro tỷ giá. Hầu hết các hợp đồng Logistics mình đều thanh toán bằng USD. Dạo này tỷ giá USD/VND biến động mạnh quá, phòng Tài chính có phương án hedging (phòng ngừa rủi ro) gì chưa?
+[10:20] Em đã mua hợp đồng Forward (kỳ hạn) với ngân hàng Vietcombank để chốt tỷ giá cho các khoản thanh toán trong 6 tháng tới. Cách này giúp mình ổn định được chi phí dự toán, không bị động khi tỷ giá nhảy múa.
+[10:22] Rất tốt. Sự phối hợp giữa Logistics và Tài chính như vậy là rất chuyên nghiệp. Cuối cùng, tôi muốn nhắc lại về tinh thần làm việc. Chúng ta đang ở trong một giai đoạn 'bình thường mới' đầy biến động. Mỗi cá nhân cần phải chủ động hơn, đừng đợi vấn đề phát sinh mới đi giải quyết. Hãy dự báo và ngăn chặn nó từ xa.
+[10:24] Vâng thưa anh, team Logistics cam kết sẽ bám sát thị trường và cập nhật báo cáo hàng tuần cho Ban Giám đốc.
+[10:26] Chốt nhé. Tan họp thực sự lần này. Chúc mọi người sức khỏe và làm việc quyết liệt.
+[10:28] Chào anh! Chào mọi người!
+
+<|output|>
+# Chiến lược tối ưu hóa chuỗi cung ứng quốc tế và ứng phó biến động địa chính trị
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tác động của khủng hoảng Biển Đỏ và các biến động địa chính trị đến thời gian và chi phí vận chuyển quốc tế.
+- Thống nhất các phương thức vận chuyển thay thế và chiến lược quản trị tồn kho mới.
+- Rà soát các rào cản kỹ thuật mới của thị trường EU (CBAM) và Mỹ (Trucking, Port selection).
+- Thúc đẩy số hóa và Logistics xanh để đáp ứng yêu cầu của các đối tác lớn như Amazon.
+
+### 2. Các vấn đề đã thảo luận
+- Khủng hoảng Biển Đỏ kéo dài làm tăng transit time và cước phí tàu biển do phải đi vòng qua Mũi Hảo Vọng.
+- Giải pháp Sea-Air qua Dubai cho hàng gấp và chuyển từ 'Just-in-Time' sang 'Just-in-Case'.
+- Tối ưu hóa lựa chọn cảng tại Mỹ (bờ Đông vs bờ Tây) để giảm chi phí vận tải nội địa và tránh kẹt cảng.
+- Đáp ứng các tiêu chuẩn bao bì xanh FSC và cơ chế CBAM của EU để duy trì vị thế nhà cung cấp.
+- Quản trị rủi ro tỷ giá USD bằng các công cụ tài chính như hợp đồng Forward.
+- Nâng cao tính minh bạch thông qua Dashboard Tracking thời gian thực.
+
+### 3. Kết luận và quyết định
+- Phân bổ linh hoạt luồng hàng đi Mỹ qua cảng bờ Đông (Savannah/New York) cho các đơn hàng khu vực phía Đông và Trung Tây.
+- Ký hợp đồng dài hạn với nhà cung cấp bao bì đạt chuẩn FSC để đảm bảo yêu cầu của đối tác quốc tế.
+- Tiếp tục thực hiện Hedging tỷ giá để ổn định chi phí Logistics.
+- Team IT hoàn thiện Dashboard Tracking bản demo vào cuối tháng sau, ưu tiên hàng đầu.
+- Mua bảo hiểm hàng hóa mức 110%, bao gồm rủi ro chiến tranh và cướp biển trên các tuyến mới.
+- Thiết lập cơ chế báo cáo nóng 24h đối với các Forwarder chiến lược.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đàm phán Service Contract với Maersk và ONE | Team Logistics | 15/12/2024 |
+| Lập bảng SKU phân loại phương thức vận chuyển (Sea vs Sea-Air) | Lan (Tài chính) + Logistics | 05/12/2024 |
+| Làm việc với đơn vị tư vấn CBAM rà soát quy trình sản xuất | Phòng Sản xuất | 20/12/2024 |
+| Xây dựng Dashboard Tracking thời gian thực (Bản Demo) | Team IT | 30/01/2025 |
+| Ký hợp đồng Forward chốt tỷ giá USD cho quý 1 & 2/2025 | Lan (Tài chính) | 10/12/2024 |
+| Chốt hợp đồng cung ứng bao bì chuẩn FSC | Phòng Thu mua | 15/12/2024 |
+| Phân tích lộ trình vận tải nội địa Mỹ qua cảng bờ Đông | Team Logistics | 20/12/2024 |
+| Tìm kiếm 03 nhà cung cấp nguyên liệu phụ trợ tại Đông Nam Á | Phòng Thu mua | 15/02/2025 |
+| Cập nhật hợp đồng bảo hiểm hàng hóa quốc tế mới | Lan (Tài chính) | 10/12/2024 |
+| Thiết lập kênh báo cáo nóng 24/7 với các Forwarder | Team Logistics | 01/12/2024 |
+| Báo cáo kết quả thử nghiệm Dashboard và lộ trình mới | Team Logistics | 20/02/2025 |
+

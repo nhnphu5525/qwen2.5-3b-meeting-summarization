@@ -1,0 +1,47 @@
+<|input|>
+[14:00] Chào buổi chiều cả nhà, hôm nay mình họp để bàn về cái kế hoạch đào tạo nâng cao nghiệp vụ cho đội ngũ giáo viên trong hè này nhé. Chị Thúy bên phòng đào tạo thấy cái nhu cầu thực tế của anh chị em giáo viên hiện nay là gì?
+[14:03] Qua khảo sát thì em thấy đa số các thầy cô đều muốn học thêm về kỹ năng ứng dụng AI trong soạn giáo án và quản lý lớp học. Ngoài ra, việc bồi dưỡng về tâm lý học đường để xử lý các tình huống bắt nạt trên mạng cũng đang rất được quan tâm.
+[14:06] Đúng rồi Thúy ơi, mấy cái đó là thiết yếu lắm. Thầy Thành bên tổ chuyên môn thấy mình nên mời chuyên gia bên ngoài hay tận dụng nhân lực nội bộ để đào tạo nhỉ?
+[14:09] Theo tôi thì phần AI mình nên mời chuyên gia từ các trung tâm công nghệ để họ cập nhật những công cụ mới nhất. Còn mảng tâm lý học đường thì mình có thể mời các giảng viên bên trường Đại học Sư phạm, họ có nhiều kinh nghiệm thực tế hơn.
+[14:12] Em đồng ý với thầy Thành. Về kinh phí thì chị Thu xem xét giúp em nguồn quỹ công đoàn và quỹ phát triển trường có đủ để chi trả cho các chuyên gia không ạ?
+[14:15] Chị đã xem qua sơ bộ, nếu mình tổ chức 3 buổi cho AI và 2 buổi cho Tâm lý thì tổng chi phí khoảng 50 triệu. Con số này nằm trong tầm kiểm soát của mình. Tuy nhiên, mình cần phải có cam kết đầu ra, nghĩa là sau khóa học các thầy cô phải có sản phẩm cụ thể ứng dụng vào giảng dạy.
+[14:18] Ý kiến của chị Thu rất hay. Nam này, em phụ trách lên cái form đánh giá sau khóa học và theo dõi việc nộp sản phẩm của giáo viên nhé. Mình không thể để tình trạng học xong rồi để đó được.
+[14:21] Vâng sếp, em sẽ chuẩn bị mẫu báo cáo và danh sách theo dõi. Em cũng đề xuất mình nên có phần thưởng nhỏ cho những thầy cô có sản phẩm ứng dụng xuất sắc nhất để khích lệ tinh thần.
+[14:24] Phần thưởng thì chị Thu cứ duyệt nhé, không cần quá lớn đâu, chủ yếu là động viên. Thầy Thành giúp Thúy chốt lại cái lịch trình cụ thể để còn thông báo cho các thầy cô sắp xếp thời gian hè.
+[14:27] Được rồi, tôi sẽ làm việc với Thúy ngay sau buổi họp này. Dự kiến là mình sẽ tổ chức vào tuần thứ 2 của tháng 7.
+[14:30] Ok, vậy thống nhất như vậy. Thúy gửi cho chị bản kế hoạch chi tiết vào thứ Sáu nhé.
+[14:33] Dạ vâng chị, em sẽ gửi đúng hạn.
+[14:36] Cảm ơn mọi người, cuộc họp kết thúc.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng kế hoạch đào tạo nâng cao nghiệp vụ hè cho đội ngũ giáo viên.
+- Xác định các nội dung đào tạo trọng tâm (AI trong giáo dục, tâm lý học đường).
+- Thống nhất phương án mời chuyên gia và quản lý chất lượng đầu ra sau khóa học.
+
+### 2. Các vấn đề đã thảo luận
+- Nhu cầu thực tế của giáo viên về ứng dụng AI và xử lý tâm lý học đường (bắt nạt mạng).
+- Phương án mời chuyên gia từ các trung tâm công nghệ và trường Đại học Sư phạm.
+- Dự trù kinh phí 50 triệu đồng và yêu cầu cam kết sản phẩm ứng dụng cụ thể sau đào tạo.
+- Đề xuất hình thức khen thưởng để khích lệ tinh thần giáo viên tham gia tích cực.
+- Thời gian dự kiến tổ chức vào tuần thứ 2 của tháng 7/2026.
+
+### 3. Kết luận và quyết định
+- Tổ chức các khóa đào tạo chuyên sâu về AI và Tâm lý học đường cho giáo viên.
+- Phê duyệt ngân sách 50 triệu đồng từ nguồn quỹ phát triển trường.
+- Thiết lập quy trình đánh giá và theo dõi sản phẩm ứng dụng sau khóa học.
+- Giao bộ phận chuyên môn chốt lịch và mời chuyên gia trước cuối tháng 6.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ và mời chuyên gia đào tạo AI và Tâm lý | Chị Thúy | 25/06/2026 |
+| Xây dựng mẫu đánh giá và theo dõi sản phẩm đầu ra | Nam | 30/06/2026 |
+| Chốt lịch trình đào tạo cụ thể và thông báo giáo viên | Thầy Thành | 20/06/2026 |
+| Hoàn thiện dự toán và thủ tục thanh toán | Chị Thu | 05/07/2026 |
+| Tổng hợp sản phẩm ứng dụng và xét khen thưởng | Ban Đào tạo | 15/08/2026 |

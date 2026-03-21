@@ -1,0 +1,48 @@
+<|input|>
+[09:00:05] Chào Linh với Hiếu nha, sáng nay mình ngồi lại tí để chốt kết quả thử việc cho bạn Tuấn bên mảng thiết kế đồ họa nhé.
+[09:01:15] Dạ, em cũng đang cầm cái bảng đánh giá của Tuấn đây chị. Nhìn chung thì bạn này chuyên môn khá ổn, thái độ cũng nhiệt tình lắm ạ.
+[09:02:30] Ờ thì chị cũng có theo dõi mấy cái design Tuấn làm cho campaign tháng 10 vừa rồi, thấy gu thẩm mỹ tốt, bắt trend nhanh. Nhưng mà Hiếu thấy kỹ năng teamwork của bạn sao?
+[09:03:45] Dạ vầy nè chị, Tuấn làm việc độc lập thì cực tốt, nhưng mà lúc phối hợp với bên content thì hay bị lệch pha tí. Nhiều khi bạn ấy hơi bảo thủ với cái tôi nghệ thuật của mình á, nên chỉnh sửa feedback hơi chậm.
+[09:05:00] Cái đó thì designer nào mới cũng hay mắc phải thôi. Quan trọng là mình góp ý bạn ấy có tiếp thu không?
+[09:06:20] Dạ có chị, đợt rồi em có ngồi nói chuyện riêng, chỉ ra cái điểm chưa ổn khi làm việc nhóm thì Tuấn cũng nhận lỗi và hứa sẽ cải thiện. Mấy project sau này thấy bạn ấy cũng chịu khó lắng nghe bên content hơn rồi.
+[09:07:45] Linh thấy bạn này hòa nhập với văn hóa công ty mình thế nào? Có tham gia hoạt động gì không?
+[09:09:00] Dạ Tuấn thì hơi ít nói, nhưng mà team building vừa rồi bạn ấy cũng quẩy nhiệt lắm chị ơi. Với lại hay hỗ trợ mọi người mấy cái lặt vặt liên quan đến kỹ thuật máy tính nữa, nên ai cũng quý.
+[09:10:25] Ừm, vậy là về văn hóa là ổn rồi. Còn về KPI thì sao? Chị thấy tiến độ công việc có đạt không?
+[09:11:50] Dạ KPI tháng đầu đạt 95%, tháng thứ hai lên được 102% rồi chị. Tuấn xử lý task khá nhanh, ít khi để tồn đọng qua ngày.
+[09:13:10] Vậy là đạt yêu cầu rồi đó. Chị tính là sẽ ký hợp đồng chính thức luôn cho Tuấn, Hiếu với Linh thấy sao? Có đề xuất gì về lương thưởng hay chế độ gì không?
+[09:14:35] Em đồng ý ký chính thức chị ạ. Về lương thì cứ theo mức thỏa thuận ban đầu trong thư mời nhận việc thôi, nhưng em nghĩ nên cho bạn ấy tham gia thêm một khóa học về UI/UX để bổ trợ cho mảng Web sắp tới của mình.
+[09:16:00] Ờ cái này hay nè, công ty mình đang cần mảng đó. Linh note lại cái này vô phần đào tạo sau thử việc nha.
+[09:17:25] Dạ em ghi nhận rồi chị. Còn về bảo hiểm với các chế độ phúc lợi khác thì mình áp dụng từ ngày 1 tháng sau luôn chị nhỉ?
+[09:18:40] Đúng rồi, em làm thủ tục nhanh để Tuấn yên tâm công tác. À, nhớ nhắc Tuấn nộp nốt cái bằng tốt nghiệp bản sao công chứng để hoàn thiện hồ sơ nhân sự nha, thấy vẫn còn thiếu đó.
+[09:20:00] Dạ để chiều nay em nhắn Tuấn luôn ạ. Chúc mừng team mình có thêm một nhân sự chất lượng.
+[09:21:20] Ok, vậy chốt kết quả thử việc của Tuấn là Đạt nhé. Cảm ơn hai em.
+
+<|output|>
+# Đánh giá kết quả thử việc - Nhân viên Thiết kế đồ họa
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá năng lực chuyên môn và thái độ làm việc của nhân viên thử việc (Nguyễn Anh Tuấn) sau 2 tháng.
+- Xem xét khả năng hòa nhập văn hóa và phối hợp làm việc nhóm.
+- Đưa ra quyết định cuối cùng về việc ký hợp đồng lao động chính thức.
+
+### 2. Các vấn đề đã thảo luận
+- Chuyên môn: Gu thẩm mỹ tốt, nắm bắt xu hướng nhanh, xử lý công việc nhanh chóng và đạt KPI đề ra (tháng thứ 2 đạt 102%).
+- Kỹ năng mềm: Làm việc độc lập tốt nhưng ban đầu còn gặp khó khăn khi phối hợp với bộ phận Nội dung (Content) do tính cách hơi bảo thủ. Tuy nhiên, đã có sự cầu thị và cải thiện rõ rệt sau khi được góp ý.
+- Văn hóa: Hòa nhập tốt, nhiệt tình tham gia các hoạt động chung và hỗ trợ đồng nghiệp.
+- Hồ sơ nhân sự: Còn thiếu bản sao công chứng bằng tốt nghiệp.
+
+### 3. Kết luận và quyết định
+- Chốt kết quả thử việc: Đạt. Quyết định ký hợp đồng lao động chính thức với mức lương theo thỏa thuận ban đầu.
+- Thời gian áp dụng các chế độ bảo hiểm và phúc lợi: Từ ngày 01 của tháng kế tiếp.
+- Định hướng phát triển: Đề xuất cho nhân viên tham gia khóa đào tạo chuyên sâu về UI/UX để phục vụ các dự án sắp tới của công ty.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn hợp đồng lao động chính thức cho Tuấn | Linh - Phòng Nhân sự | 24/11/2024 |
+| Nhắc nhân viên bổ sung bằng tốt nghiệp công chứng | Linh - Phòng Nhân sự | 22/11/2024 |
+| Đăng ký khóa học UI/UX cho nhân viên | Hiếu - Trưởng nhóm Thiết kế | 05/12/2024 |
+| Hoàn tất thủ tục đóng bảo hiểm xã hội | Linh - Phòng Nhân sự | 30/11/2024 |

@@ -1,0 +1,50 @@
+<|input|>
+[08:30] Chào ban dự án ISO, sáng nay mình họp để rà soát tiến độ chuẩn bị cho đợt đánh giá chứng nhận ISO 9001 vào tháng sau nhé. 
+[08:32] Dạ thưa sếp, hiện tại bộ quy trình của phòng Sản xuất và phòng Kho đã hoàn thiện được khoảng 80% rồi ạ. 
+[08:34] Ờ... tôi thấy cái phần đánh giá rủi ro ở phòng Nhân sự vẫn còn sơ sài quá, chưa đúng theo tinh thần của phiên bản 2015. 
+[08:36] Dạ đúng rồi sếp, bên em đang phải làm lại cái bảng nhận diện rủi ro cho từng vị trí công việc. 
+[08:38] Thì các anh chị chú ý nhé, ISO 2015 họ tập trung rất nhiều vào "tư duy dựa trên rủi ro" đấy. 
+[08:40] Với lại cái hồ sơ đào tạo nội bộ của mấy tháng vừa rồi, em đã tập hợp đầy đủ chưa? 
+[08:42] Dạ thưa sếp, em đã gom được danh sách điểm danh với hình ảnh lớp học rồi, nhưng phiếu đánh giá sau đào tạo thì vẫn còn thiếu vài bộ. 
+[08:44] Ờ... cái này phải bổ sung ngay, đánh giá mà không có hồ sơ chứng minh hiệu quả đào tạo là họ ghi "Điểm không phù hợp" (NC) đấy. 
+[08:46] Dạ vâng, em sẽ đốc thúc các phòng ban hoàn thành trong tuần này ạ. 
+[08:48] Thì mình có kế hoạch đánh giá nội bộ (Internal Audit) trước khi đánh giá chính thức chưa? 
+[08:50] Dạ, em dự kiến tổ chức đánh giá nội bộ vào tuần thứ 3 của tháng này để kịp thời khắc phục các lỗi tồn đọng. 
+[08:52] Ok, vậy nhờ ban dự án phân công các đánh giá viên nội bộ chéo giữa các phòng ban cho nó khách quan. 
+[08:54] Ờ... còn cái việc kiểm định thiết bị đo lường thì sao? Máy móc dưới xưởng đã dán tem kiểm định hết chưa? 
+[08:56] Dạ, máy nén khí với mấy cái cân điện tử đã được bên trung tâm 3 xuống kiểm định và dán tem mới hết rồi sếp ạ. 
+[08:58] Tốt, mọi người cố gắng bám sát checklist nhé, đừng để nước đến chân mới nhảy là không kịp đâu. 
+[09:00] Vâng sếp, tụi em sẽ nỗ lực hết mình để lấy được chứng chỉ đợt này ạ. 
+
+<|output|>
+# Chuẩn bị đánh giá chứng nhận ISO 9001:2015
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tiến độ chuẩn bị hồ sơ và quy trình cho đợt đánh giá chứng nhận ISO 9001:2015.
+- Nhận diện các lỗ hổng trong hệ thống quản lý chất lượng hiện tại (đặc biệt là tư duy rủi ro và hồ sơ đào tạo).
+- Thống nhất lịch trình đánh giá nội bộ để chuẩn bị cho kỳ đánh giá chính thức.
+
+### 2. Các vấn đề đã thảo luận
+- Tiến độ hoàn thiện quy trình tại các phòng ban chủ chốt (Sản xuất, Kho) đạt mức khá (80%).
+- Sự thiếu sót trong việc nhận diện và đánh giá rủi ro tại phòng Nhân sự theo tiêu chuẩn phiên bản mới.
+- Tình trạng thiếu hụt hồ sơ chứng minh hiệu quả sau đào tạo có nguy cơ dẫn đến điểm "Không phù hợp" (NC).
+- Công tác kiểm định thiết bị đo lường tại phân xưởng đã hoàn tất.
+- Tầm quan trọng của việc đánh giá nội bộ chéo để đảm bảo tính khách quan trước khi mời đoàn đánh giá bên ngoài.
+
+### 3. Kết luận và quyết định
+- Yêu cầu phòng Nhân sự hoàn thiện bảng nhận diện rủi ro chi tiết trước ngày 20/10.
+- Ban ISO chịu trách nhiệm đốc thúc việc hoàn thiện hồ sơ đào tạo tại tất cả các bộ phận.
+- Chốt lịch đánh giá nội bộ toàn công ty vào tuần thứ 3 của tháng này.
+- Phân công đánh giá viên nội bộ chéo giữa các phòng ban theo danh sách đã duyệt.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bảng nhận diện rủi ro nhân sự | Trưởng phòng Nhân sự | 20/10/2023 |
+| Thu thập đầy đủ phiếu đánh giá sau đào tạo | Ban ISO | 15/10/2023 |
+| Lập kế hoạch chi tiết đợt đánh giá nội bộ chéo | Thư ký ISO | 17/10/2023 |
+| Kiểm tra lại tem kiểm định trên tất cả thiết bị | Đội Bảo trì | 22/10/2023 |
+| Tổng kết báo cáo đánh giá nội bộ và đề xuất khắc phục | Ban ISO | 28/10/2023 |

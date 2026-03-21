@@ -1,0 +1,44 @@
+<|input|>
+[08:30] Chào cả nhà, hôm nay mình ngồi lại chút để xem qua cái báo cáo doanh thu quý 2 vừa rồi nhé. Anh Bình thấy số liệu bên mảng bán lẻ có vẻ hơi chững lại đúng không?
+[08:32] Đúng rồi, so với quý 1 thì mảng bán lẻ giảm khoảng 5%, chủ yếu là do sức mua thị trường chung đang yếu đi. Nhưng mà Lan ơi, em thấy bên mảng dịch vụ trực tuyến lại tăng trưởng khá tốt đấy chứ.
+[08:34] Dạ vâng anh Bình, mảng online tăng được 12% nhờ đợt khuyến mãi tháng 5 vừa rồi. Tuy nhiên, chi phí marketing cũng đội lên khá cao nên lợi nhuận ròng không tăng nhiều như kỳ vọng đâu ạ.
+[08:36] Vậy thì mình phải cân đối lại thôi. Nếu chi phí marketing cao mà biên lợi nhuận mỏng thì không ổn. Nam thấy sao về việc tối ưu hóa lại các kênh quảng cáo?
+[08:38] Em nghĩ mình nên tập trung vào các kênh có tỷ lệ chuyển đổi cao thôi anh. Hiện tại mình đang rải tiền quá nhiều vào Facebook Ads mà hiệu quả bắt đầu bão hòa rồi. Có lẽ nên chuyển bớt ngân sách sang SEO và chăm sóc khách hàng cũ.
+[08:40] Ý kiến của Nam hay đấy. Việc giữ chân khách hàng cũ bao giờ cũng rẻ hơn tìm khách hàng mới. Vậy Lan giúp anh rà soát lại toàn bộ danh sách khách hàng VIP để có chương trình tri ân riêng nhé.
+[08:42] Vâng anh, em sẽ làm việc với bên CSKH để lên danh sách và gửi proposal cho anh vào thứ Sáu này. 
+[08:44] Còn vấn đề tồn kho bên mảng bán lẻ thì sao nhỉ? Anh thấy báo cáo ghi là lượng hàng tồn đang tăng nhẹ.
+[08:46] Cái này để em xử lý ạ. Em sẽ lên kế hoạch xả kho cho những mặt hàng chậm luân chuyển trong tháng tới. Dự kiến là sẽ kết hợp với các sàn thương mại điện tử để đẩy hàng nhanh hơn.
+[08:48] Tốt, vậy chốt lại là mình sẽ tập trung tối ưu chi phí, đẩy mạnh CSKH và giải quyết hàng tồn kho. Mọi người cố gắng bám sát kế hoạch nhé.
+[08:50] Cảm ơn mọi người, cuộc họp kết thúc ở đây.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá kết quả kinh doanh và doanh thu quý 2.
+- Phân tích nguyên nhân biến động doanh thu giữa các mảng bán lẻ và dịch vụ trực tuyến.
+- Đề xuất giải pháp tối ưu hóa chi phí và xử lý tồn kho.
+
+### 2. Các vấn đề đã thảo luận
+- Doanh thu bán lẻ giảm 5% do thị trường yếu.
+- Mảng online tăng 12% nhưng chi phí marketing cao làm giảm lợi nhuận.
+- Hiệu quả quảng cáo trên Facebook đang bão hòa.
+- Tình trạng tồn kho mảng bán lẻ đang có xu hướng tăng nhẹ.
+- Tầm quan trọng của việc chăm sóc khách hàng cũ so với tìm kiếm khách hàng mới.
+
+### 3. Kết luận và quyết định
+- Cắt giảm ngân sách quảng cáo không hiệu quả, tập trung vào SEO và CSKH.
+- Triển khai chương trình tri ân khách hàng VIP để giữ chân người dùng.
+- Thực hiện kế hoạch xả kho thông qua các sàn thương mại điện tử trong tháng tới.
+- Tối ưu hóa lại biên lợi nhuận bằng cách kiểm soát chặt chẽ chi phí marketing.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập danh sách khách hàng VIP và chương trình tri ân | Lan | 20/03/2026 |
+| Rà soát và tối ưu các kênh marketing | Nam | 25/03/2026 |
+| Lên kế hoạch xả kho mảng bán lẻ | Phòng Kinh doanh | 01/04/2026 |
+| Báo cáo chi tiết biên lợi nhuận sau tối ưu | Phòng Kế toán | 15/04/2026 |

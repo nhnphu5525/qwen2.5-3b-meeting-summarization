@@ -1,0 +1,56 @@
+<|input|>
+[15:00:00] Alo, anh em nghe rõ không? Vô họp cái vụ hạ tầng server cho dự án mới cái nè. Tình hình là sếp muốn hệ thống phải chạy mượt trước giáng sinh đó nha.
+[15:00:30] Nghe rõ anh ơi. Mà em thấy cái deadline này hơi "căng cực" à nha. Hiện tại mấy con server vật lý mình đặt bên trung tâm dữ liệu Viettel vẫn chưa thấy bàn giao đủ rack.
+[15:01:00] Ờ, cái đó anh biết. Hình như bên sale họ đang kẹt giấy tờ gì đó. Mà thôi, mình cứ lo phần cấu hình trước đi. Tiến nè, em check lại cái mô hình cluster xem, dùng Proxmox hay ESXi?
+[15:01:30] Dạ vầy nè anh, em thấy Proxmox nó open source, mình tiết kiệm được mớ tiền license để đập vô mua thêm RAM với SSD xịn. Chứ giờ mà mua bản quyền VMware nữa là hụt ngân sách chắc luôn.
+[15:02:00] Proxmox cũng được, nhưng team mình đã có ai cứng tay về nó chưa? Lỡ có chuyện gì giữa đêm là không có support 24/7 của hãng đâu à.
+[15:02:30] Anh yên tâm, em với thằng Huy đã test chạy thử trên lab cả tháng nay rồi, ổn định lắm. Với lại mình cấu hình HA (High Availability) cho nó, con này chết thì con kia nhảy lên thay liền, lo gì anh.
+[15:03:00] Ok, vậy chốt Proxmox. Còn vụ lưu trữ thì sao? Mình dùng SAN hay là chơi Ceph luôn cho nó đồng bộ?
+[15:03:30] Em bỏ phiếu cho Ceph nha. Nó scale dễ, sau này mình muốn nâng dung lượng chỉ cần cắm thêm ổ cứng vô là xong, không phải cấu hình lại từ đầu như mấy con SAN truyền thống.
+[15:04:00] Ceph thì ngon nhưng ngốn băng thông network lắm đó. Em đã tính tới chuyện nâng cấp switch lên 10Gbps chưa? Chứ chạy switch 1Gbps là nghẽn cổ chai ngay và luôn.
+[15:04:30] Dạ em tính hết rồi. Trong bảng báo giá gửi anh tuần trước có kèm 2 con switch Cisco 10G rồi đó, anh duyệt nhanh giùm em để bên mua hàng họ đặt.
+[15:05:00] Để anh xem lại. À, còn cái vụ bảo mật thì sao? Firewall cứng hay dùng pfsense chạy ảo hóa luôn?
+[15:05:30] Em thấy nên chơi Firewall cứng cho nó chắc cú anh ơi. Dự án này mình làm về thanh toán, lỡ bị DDOS hay hacker nó chọc vô là ăn cám cả lũ. Em đề xuất con Fortigate 100F.
+[15:06:00] Fortigate thì chuẩn rồi, mà giá hơi chát. Thôi để anh thuyết phục sếp sau. Còn vụ backup thì sao Huy? Đừng bảo là quên vụ này nha.
+[15:06:30] Dạ em đâu dám quên. Em định dùng Veeam Backup để backup định kỳ mỗi đêm về con NAS ở văn phòng mình nè. Có gì xảy ra là mình restore lại trong vòng 30 phút là xong.
+[15:07:00] 30 phút là hơi lâu á, cố gắng tối ưu sao cho dưới 15 phút thôi. Khách hàng họ không đợi mình lâu vậy đâu.
+[15:07:30] Dạ để em xem lại khâu nén dữ liệu với đường truyền xem sao. À anh ơi, còn vụ UPS nữa, bên datacenter họ chỉ cam kết 99.9% thôi, mình có nên trang bị thêm UPS riêng cho rack của mình không?
+[15:08:00] Khỏi đi em, chi phí đó cao lắm. Tin tưởng bên datacenter đi, họ có máy phát điện dự phòng xịn mà. Tập trung lo phần OS với App giùm anh là được rồi.
+[15:08:30] Dạ vâng. Vậy để em bắt tay vào viết script tự động hóa cấu hình (Ansible) luôn nha. Để lúc có server là mình push một cái là xong hết luôn cho nhanh.
+[15:09:00] Ừ, làm vậy cho nó chuyên nghiệp. Tiến phối hợp với Huy làm cái tài liệu bàn giao hạ tầng luôn nha, đừng để tới lúc xong rồi hỏi cái gì cũng không biết là không được đâu.
+[15:09:30] Dạ tụi em nhớ rồi anh.
+[15:10:00] Rồi, giải tán đi làm việc đi. Có gì khó khăn cứ hú anh.
+
+<|output|>
+# Triển khai và cấu hình hạ tầng server mới cho dự án phần mềm
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất các thành phần kỹ thuật cho hạ tầng server của dự án mới.
+- Giải quyết các vấn đề về ngân sách, thiết bị và phương án triển khai.
+- Đảm bảo hệ thống vận hành ổn định trước kỳ nghỉ Giáng sinh.
+
+### 2. Các vấn đề đã thảo luận
+- Lựa chọn giải pháp ảo hóa: Chốt sử dụng Proxmox thay vì VMware ESXi để tiết kiệm chi phí bản quyền và tận dụng mã nguồn mở.
+- Giải pháp lưu trữ: Sử dụng Ceph để dễ dàng mở rộng (scaling) trong tương lai.
+- Hạ tầng mạng: Cần nâng cấp lên Switch 10Gbps để đảm bảo băng thông cho Ceph, tránh nghẽn cổ chai.
+- Bảo mật: Ưu tiên sử dụng Firewall cứng Fortigate 100F để bảo vệ hệ thống thanh toán khỏi các cuộc tấn công mạng.
+- Phương án dự phòng (Backup): Sử dụng Veeam Backup về hệ thống NAS tại văn phòng, mục tiêu RTO dưới 15 phút.
+- Tự động hóa: Sử dụng Ansible để chuẩn hóa và đẩy nhanh quá trình cấu hình server.
+
+### 3. Kết luận và quyết định
+- Phê duyệt sử dụng Proxmox và Ceph làm nền tảng hạ tầng chính.
+- Giao bộ phận mua hàng đặt gấp 2 Switch Cisco 10G và Firewall Fortigate 100F.
+- Đội ngũ kỹ thuật triển khai viết script Ansible và xây dựng tài liệu hướng dẫn vận hành (SOP).
+- Không lắp đặt thêm UPS riêng để tiết kiệm ngân sách, dựa vào hệ thống nguồn của Datacenter.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Mua thiết bị Switch và Firewall | Bộ phận Thu mua | 15/12/2024 |
+| Viết script Ansible cấu hình tự động | Tiến - Team IT | 18/12/2024 |
+| Thiết lập hệ thống Backup và test Restore | Huy - Team IT | 20/12/2024 |
+| Hoàn thiện tài liệu bàn giao hạ tầng | Tiến + Huy | 22/12/2024 |
+| Cấu hình cluster Proxmox trên server thật | Team IT | 24/12/2024 |

@@ -1,0 +1,46 @@
+<|input|>
+[08:00] Chào buổi sáng cả nhà, hôm nay mình ngồi lại để chốt cái kế hoạch giải ngân tín dụng cho quý 4 này. Tình hình là chỉ tiêu năm nay còn khá nhiều mà room tín dụng mới được nới thêm 2%.
+[08:02] Vâng anh, nhưng mà em thấy mảng cho vay bất động sản đang bị siết chặt quá, hồ sơ gửi lên toàn bị vướng pháp lý hoặc là tài sản thế chấp chưa ổn.
+[08:04] Ừ, cái đó thì đúng rồi. Nhưng mình phải linh hoạt chứ. Chỗ này... à, anh thấy mảng tín dụng bán lẻ, nhất là cho vay mua ô tô với tiêu dùng cá nhân cuối năm thường tăng mạnh mà?
+[08:06] Dạ đúng ạ, nhưng lãi suất hiện tại khách vẫn chê cao. Mấy ngân hàng bạn như Big4 họ đang chạy gói ưu đãi thấp hơn mình tầm 0.5 đến 1%.
+[08:08] Thấp hơn à? Nhưng dịch vụ của mình nhanh hơn. Khách cần tiền ngay thì họ vẫn chọn mình thôi. Em xem lại cái gói 'Tiêu dùng nhanh' xem có giảm nhẹ được lãi suất đầu vào không?
+[08:10] Để em check lại bên Treasury xem nguồn vốn huy động đợt này thế nào. Nếu hạ được 0.2% thì may ra cạnh tranh tốt hơn.
+[08:12] À, còn cái này nữa. Nợ xấu của chi nhánh mình đang có dấu hiệu tăng ở nhóm khách hàng hộ kinh doanh cá thể. Mọi người phải rà soát kỹ lại khâu thẩm định nhé. Đừng có vì chạy KPI mà bỏ qua rủi ro.
+[08:14] Em cũng định báo cáo anh việc này. Đợt rồi mấy hộ kinh doanh bên chợ đầu mối gặp khó khăn do sức mua giảm. Em đề xuất mình cơ cấu lại thời hạn trả nợ cho họ thay vì chuyển nhóm nợ.
+[08:16] Phương án đó cũng được, nhưng phải làm đúng quy định của Ngân hàng Nhà nước. Đừng để thanh tra họ sờ gáy là mệt lắm đấy.
+[08:18] Vâng, em sẽ chuẩn bị tờ trình chi tiết cho từng trường hợp. À, còn vụ bảo hiểm liên kết (bancassurance) thì sao anh? Sếp tổng dạo này nhắc suốt.
+[08:20] Thôi đừng nhắc nữa, áp lực lắm. Cố gắng tư vấn khéo léo cho khách thôi, đừng ép quá họ lại kiện cáo lên mạng thì khổ.
+[08:22] Chốt lại nhé: Nam rà soát room tín dụng bán lẻ, Lan làm việc với Treasury về lãi suất, còn anh sẽ duyệt danh sách cơ cấu nợ.
+[08:24] Dạ vâng ạ.
+[08:26] Mọi người giải tán đi làm việc đi.
+
+<|output|>
+# Kế hoạch giải ngân tín dụng và quản lý rủi ro quý 4
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận kế hoạch giải ngân tín dụng quý 4 khi room tín dụng được nới thêm 2%.
+- Tìm giải pháp cạnh tranh về lãi suất để thúc đẩy mảng bán lẻ.
+- Kiểm soát nợ xấu và rà soát công tác thẩm định.
+
+### 2. Các vấn đề đã thảo luận
+- Khó khăn trong cho vay bất động sản do vướng pháp lý và tài sản thế chấp.
+- Cạnh tranh lãi suất với các ngân hàng lớn (Big4) đang gay gắt.
+- Xu hướng tăng nợ xấu ở nhóm khách hàng hộ kinh doanh cá thể do sức mua giảm.
+- Vấn đề bảo hiểm liên kết (bancassurance) và áp lực từ ban lãnh đạo.
+
+### 3. Kết luận và quyết định
+- Tập trung đẩy mạnh tín dụng bán lẻ (cho vay ô tô, tiêu dùng cá nhân).
+- Xem xét giảm lãi suất khoảng 0.2% cho gói 'Tiêu dùng nhanh' sau khi làm việc với bộ phận Nguồn vốn.
+- Đồng ý chủ trương cơ cấu lại thời hạn trả nợ cho các hộ kinh doanh gặp khó khăn theo quy định.
+- Chấn chỉnh công tác thẩm định để đảm bảo chất lượng tín dụng, không chạy theo KPI bất chấp rủi ro.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Rà soát room tín dụng bán lẻ | Nam | 15/11/2024 |
+| Làm việc với Treasury về lãi suất đầu vào | Lan | 12/11/2024 |
+| Chuẩn bị tờ trình cơ cấu nợ cho hộ kinh doanh | Nam | 20/11/2024 |
+| Báo cáo tình hình triển khai Bancassurance | Lan | 18/11/2024 |

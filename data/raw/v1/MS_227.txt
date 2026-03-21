@@ -1,0 +1,166 @@
+<|input|>
+[08:30] Đừng quên là khóa học trực tuyến cũng ảnh hưởng nhiều đến kết quả chung đó.
+[08:32] Mọi người có thấy vụ tương tác học viên dạo này bị chậm không?
+[08:34] Chào cả nhà, chúng ta bắt đầu bàn về giao diện người dùng nhé.
+[08:36] Thực ra Cần phải làm rõ thêm các chi tiết liên quan đến giao diện người dùng.
+[08:38] Thực ra Có ai phụ trách chính cho mảng bản quyền bài giảng chưa nhỉ?
+[08:40] Cái giao diện người dùng này hình như đang bị vướng chỗ nào đó đúng không?
+[08:36] Liệu mình có thể đẩy nhanh tiến độ cho bản quyền bài giảng được không?
+[08:37] Thì Ờm, cái khóa học trực tuyến này thực ra là một vấn đề khá nan giải.
+[08:46] Liệu mình có thể đẩy nhanh tiến độ cho nội dung số được không?
+[08:48] Về phần hệ thống LMS thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[08:50] Để tôi check lại với bên khóa học trực tuyến xem tình hình thế nào nhé.
+[08:52] Về phần giao diện người dùng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[08:42] Chắc là Tôi đồng ý với ý kiến về hệ thống LMS, nên làm quyết liệt hơn.
+[08:56] Tóm lại là Thôi được rồi, vậy thống nhất là làm nội dung số theo cách đó.
+[08:44] Ờm, cái nội dung số này thực ra là một vấn đề khá nan giải.
+[09:00] Thực ra Cảm ơn mọi người, buổi họp về Phát triển E-learning hôm nay rất chất lượng.
+[09:02] Thế còn ngân sách cho nội dung số thì sao hả mọi người?
+[09:04] Chào cả nhà, chúng ta bắt đầu bàn về tương tác học viên nhé.
+[09:06] Nói chung là Mọi người có thấy vụ tương tác học viên dạo này bị chậm không?
+[08:49] Cảm ơn mọi người, buổi họp về Phát triển E-learning hôm nay rất chất lượng.
+[08:50] Thực ra Thế còn ngân sách cho tương tác học viên thì sao hả mọi người?
+[08:51] Đừng quên là giao diện người dùng cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:14] Cần phải làm rõ thêm các chi tiết liên quan đến nội dung số.
+[09:16] Liệu mình có thể đẩy nhanh tiến độ cho khóa học trực tuyến được không?
+[08:54] Tôi đề xuất mình sẽ tập trung nguồn lực vào khóa học trực tuyến trong tuần này.
+[08:55] Ờm Tôi nghĩ là mình nên xem xét lại cái hệ thống LMS này một chút.
+[09:22] Đừng quên là hệ thống LMS cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:24] Mọi người cứ cho ý kiến thoải mái về tương tác học viên đi ạ.
+[08:58] Nói chung là mình phải chốt phương án cho tương tác học viên ngay trong hôm nay.
+[09:28] Vâng Thôi được rồi, vậy thống nhất là làm khóa học trực tuyến theo cách đó.
+[09:30] Ờm, cái tương tác học viên này thực ra là một vấn đề khá nan giải.
+[09:01] Thực ra thì giao diện người dùng không phải là mục tiêu duy nhất của mình.
+[09:34] Ý tôi là Thôi được rồi, vậy thống nhất là làm hệ thống LMS theo cách đó.
+[09:03] Liệu mình có thể đẩy nhanh tiến độ cho nội dung số được không?
+[09:38] Về phần nội dung số thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[09:40] Có ai phụ trách chính cho mảng khóa học trực tuyến chưa nhỉ?
+[09:06] Thì đấy Nói chung là mình phải chốt phương án cho nội dung số ngay trong hôm nay.
+[09:44] Mọi người có thấy vụ khóa học trực tuyến dạo này bị chậm không?
+[09:46] Ờm, cái nội dung số này thực ra là một vấn đề khá nan giải.
+[09:48] Chào cả nhà, chúng ta bắt đầu bàn về hệ thống LMS nhé.
+[09:50] Tôi đề xuất mình sẽ tập trung nguồn lực vào tương tác học viên trong tuần này.
+[09:11] Cái hệ thống LMS này hình như đang bị vướng chỗ nào đó đúng không?
+[09:54] Ý tôi là Liệu mình có thể đẩy nhanh tiến độ cho khóa học trực tuyến được không?
+[09:56] Thôi được rồi, vậy thống nhất là làm bản quyền bài giảng theo cách đó.
+[09:14] Tôi nghĩ là mình nên xem xét lại cái bản quyền bài giảng này một chút.
+[10:00] Vâng Chào cả nhà, chúng ta bắt đầu bàn về khóa học trực tuyến nhé.
+[09:16] Tôi nghĩ là mình nên xem xét lại cái nội dung số này một chút.
+[10:04] Thực ra Về phần nội dung số thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[09:18] Thì Tôi đề xuất mình sẽ tập trung nguồn lực vào tương tác học viên trong tuần này.
+[09:19] Liệu mình có thể đẩy nhanh tiến độ cho hệ thống LMS được không?
+[10:10] Thì đấy Thế còn ngân sách cho giao diện người dùng thì sao hả mọi người?
+[09:21] Vâng Tôi nghĩ là mình nên xem xét lại cái hệ thống LMS này một chút.
+[09:22] Tôi đề xuất mình sẽ tập trung nguồn lực vào giao diện người dùng trong tuần này.
+[09:23] Ờm Thế còn ngân sách cho khóa học trực tuyến thì sao hả mọi người?
+[09:24] Chắc là Cần phải làm rõ thêm các chi tiết liên quan đến giao diện người dùng.
+[09:25] Ý tôi là Nói chung là mình phải chốt phương án cho khóa học trực tuyến ngay trong hôm nay.
+[10:22] Thực ra thì giao diện người dùng không phải là mục tiêu duy nhất của mình.
+[09:27] Cần phải làm rõ thêm các chi tiết liên quan đến nội dung số.
+[10:26] Vâng, tôi cũng thấy việc tối ưu khóa học trực tuyến là rất cần thiết.
+[09:29] Đừng quên là nội dung số cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:30] Nói chung là Chào cả nhà, chúng ta bắt đầu bàn về nội dung số nhé.
+[09:31] Thế còn ngân sách cho tương tác học viên thì sao hả mọi người?
+[10:34] Chào cả nhà, chúng ta bắt đầu bàn về nội dung số nhé.
+[09:33] Chào cả nhà, chúng ta bắt đầu bàn về khóa học trực tuyến nhé.
+[09:34] Thì đấy Tôi nghĩ là mình nên xem xét lại cái bản quyền bài giảng này một chút.
+[10:40] Tôi đồng ý với ý kiến về bản quyền bài giảng, nên làm quyết liệt hơn.
+[09:36] Hình như Thế còn ngân sách cho giao diện người dùng thì sao hả mọi người?
+[09:37] Tôi đề xuất mình sẽ tập trung nguồn lực vào bản quyền bài giảng trong tuần này.
+[10:46] Thôi được rồi, vậy thống nhất là làm khóa học trực tuyến theo cách đó.
+[09:39] Vâng, tôi cũng thấy việc tối ưu nội dung số là rất cần thiết.
+[09:40] Chào cả nhà, chúng ta bắt đầu bàn về khóa học trực tuyến nhé.
+[10:52] Thôi được rồi, vậy thống nhất là làm hệ thống LMS theo cách đó.
+[09:42] Cái này nè Ờm, cái khóa học trực tuyến này thực ra là một vấn đề khá nan giải.
+[10:56] Cái này nè Ờm, cái bản quyền bài giảng này thực ra là một vấn đề khá nan giải.
+[09:44] Thực ra thì nội dung số không phải là mục tiêu duy nhất của mình.
+[09:45] Cái này nè Thực ra thì tương tác học viên không phải là mục tiêu duy nhất của mình.
+[11:02] Tôi nghĩ là mình nên xem xét lại cái nội dung số này một chút.
+[09:47] Cần phải làm rõ thêm các chi tiết liên quan đến bản quyền bài giảng.
+[09:48] Cái khóa học trực tuyến này hình như đang bị vướng chỗ nào đó đúng không?
+[11:08] Cái nội dung số này hình như đang bị vướng chỗ nào đó đúng không?
+[09:50] Có ai phụ trách chính cho mảng khóa học trực tuyến chưa nhỉ?
+[09:51] Để tôi check lại với bên bản quyền bài giảng xem tình hình thế nào nhé.
+[11:14] Tóm lại là Mọi người có thấy vụ hệ thống LMS dạo này bị chậm không?
+[11:16] Cái bản quyền bài giảng này hình như đang bị vướng chỗ nào đó đúng không?
+[09:54] Mọi người có thấy vụ bản quyền bài giảng dạo này bị chậm không?
+[11:20] Thôi được rồi, vậy thống nhất là làm bản quyền bài giảng theo cách đó.
+[11:22] À Đừng quên là bản quyền bài giảng cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:57] Thế còn ngân sách cho khóa học trực tuyến thì sao hả mọi người?
+[09:58] Nói chung là mình phải chốt phương án cho nội dung số ngay trong hôm nay.
+[09:59] Vâng Cảm ơn mọi người, buổi họp về Phát triển E-learning hôm nay rất chất lượng.
+[10:00] Vâng, tôi cũng thấy việc tối ưu giao diện người dùng là rất cần thiết.
+[11:32] Thực ra thì nội dung số không phải là mục tiêu duy nhất của mình.
+[10:02] Thực ra thì hệ thống LMS không phải là mục tiêu duy nhất của mình.
+[11:36] Về phần nội dung số thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[10:04] Thì đấy Cần phải làm rõ thêm các chi tiết liên quan đến hệ thống LMS.
+[10:05] Cảm ơn mọi người, buổi họp về Phát triển E-learning hôm nay rất chất lượng.
+[11:42] Mọi người có thấy vụ giao diện người dùng dạo này bị chậm không?
+[11:44] Tôi nghĩ là mình nên xem xét lại cái giao diện người dùng này một chút.
+[11:46] Thôi được rồi, vậy thống nhất là làm nội dung số theo cách đó.
+[10:09] Chào cả nhà, chúng ta bắt đầu bàn về hệ thống LMS nhé.
+[11:50] Cái này nè Vâng, tôi cũng thấy việc tối ưu hệ thống LMS là rất cần thiết.
+[11:52] Ý tôi là Cảm ơn mọi người, buổi họp về Phát triển E-learning hôm nay rất chất lượng.
+[10:12] Chắc là Đừng quên là bản quyền bài giảng cũng ảnh hưởng nhiều đến kết quả chung đó.
+[10:13] Tóm lại là Mọi người có thấy vụ nội dung số dạo này bị chậm không?
+[11:58] Thực ra Vâng, tôi cũng thấy việc tối ưu khóa học trực tuyến là rất cần thiết.
+[12:00] Ờm Liệu mình có thể đẩy nhanh tiến độ cho hệ thống LMS được không?
+[10:16] Thì đấy Cái khóa học trực tuyến này hình như đang bị vướng chỗ nào đó đúng không?
+[12:04] Vâng, tôi cũng thấy việc tối ưu khóa học trực tuyến là rất cần thiết.
+[12:06] Mọi người có thấy vụ bản quyền bài giảng dạo này bị chậm không?
+[12:08] Mọi người có thấy vụ hệ thống LMS dạo này bị chậm không?
+[12:10] Mọi người cứ cho ý kiến thoải mái về nội dung số đi ạ.
+[12:12] Thôi được rồi, vậy thống nhất là làm nội dung số theo cách đó.
+[10:22] Tôi đề xuất mình sẽ tập trung nguồn lực vào bản quyền bài giảng trong tuần này.
+[12:16] Tóm lại là Mọi người cứ cho ý kiến thoải mái về bản quyền bài giảng đi ạ.
+[12:18] Cần phải làm rõ thêm các chi tiết liên quan đến hệ thống LMS.
+[10:25] Mọi người cứ cho ý kiến thoải mái về khóa học trực tuyến đi ạ.
+[10:26] Chắc là Mọi người cứ cho ý kiến thoải mái về hệ thống LMS đi ạ.
+[10:27] Tôi nghĩ là mình nên xem xét lại cái tương tác học viên này một chút.
+[12:26] Tóm lại là Nói chung là mình phải chốt phương án cho hệ thống LMS ngay trong hôm nay.
+[12:28] Đừng quên là bản quyền bài giảng cũng ảnh hưởng nhiều đến kết quả chung đó.
+[12:30] Nói chung là Tôi nghĩ là mình nên xem xét lại cái khóa học trực tuyến này một chút.
+[12:32] Mọi người có thấy vụ khóa học trực tuyến dạo này bị chậm không?
+[10:32] Thực ra thì khóa học trực tuyến không phải là mục tiêu duy nhất của mình.
+[12:36] Cần phải làm rõ thêm các chi tiết liên quan đến nội dung số.
+[12:38] Thôi được rồi, vậy thống nhất là làm hệ thống LMS theo cách đó.
+[12:40] Hình như Tôi nghĩ là mình nên xem xét lại cái tương tác học viên này một chút.
+[12:42] Ờm, cái bản quyền bài giảng này thực ra là một vấn đề khá nan giải.
+[12:44] Thực ra thì khóa học trực tuyến không phải là mục tiêu duy nhất của mình.
+[12:46] Chào cả nhà, chúng ta bắt đầu bàn về nội dung số nhé.
+[12:48] Vâng, tôi cũng thấy việc tối ưu hệ thống LMS là rất cần thiết.
+[10:40] Tôi đồng ý với ý kiến về nội dung số, nên làm quyết liệt hơn.
+[12:52] Tôi đồng ý với ý kiến về nội dung số, nên làm quyết liệt hơn.
+[10:42] Ý tôi là Cảm ơn mọi người, buổi họp về Phát triển E-learning hôm nay rất chất lượng.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Phát triển E-learning
+- Giải quyết các vấn đề về giao diện người dùng
+- Thống nhất kế hoạch triển khai nội dung số
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho hệ thống LMS
+- Thiếu dữ liệu để đánh giá hệ thống LMS
+- Khó khăn trong việc phối hợp giữa các bên về khóa học trực tuyến
+- Sự cần thiết của việc chuẩn hóa các quy trình nội bộ
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện khóa học trực tuyến
+- Phê duyệt ngân sách bổ sung cho bản quyền bài giảng
+- Thiết lập nhóm đặc trách xử lý nội dung số
+- Chốt thời điểm bắt đầu triển khai giao diện người dùng
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ hệ thống LMS | Phòng Kỹ thuật | 04/11/2026 |
+| Họp nhóm để bàn sâu về bản quyền bài giảng | Phòng Phát triển E-learning | 20/10/2026 |
+| Gửi email xác nhận với đối tác về tương tác học viên | Ban điều hành | 08/10/2026 |
+| Lập báo cáo chi tiết cho nội dung số | Anh Quốc | 12/02/2026 |
+| Theo dõi tiến độ thực hiện khóa học trực tuyến | Chị Vân | 18/05/2026 |

@@ -1,0 +1,171 @@
+<|input|>
+[09:00] Thực ra Cần phải làm rõ hơn về tiến độ thi công trong hợp đồng mới.
+[09:02] Mọi người có ý kiến gì thêm về tiến độ thi công không?
+[09:02] Dạ Bên đối tác họ cứ hỏi mãi về ngân sách dự án, mình phải trả lời sao đây?
+[09:06] Thôi được rồi, vậy thống nhất là triển khai an toàn lao động theo hướng đó.
+[09:08] Tóm lại Tôi thấy vật liệu hiện tại là cơ hội tốt để mình bứt phá.
+[09:05] Thực ra Thế thì mình chốt phương án cho vật liệu luôn đi, đừng kéo dài nữa.
+[09:12] Thôi được rồi, vậy thống nhất là triển khai ngân sách dự án theo hướng đó.
+[09:07] Thôi được rồi, vậy thống nhất là triển khai thiết kế cơ điện theo hướng đó.
+[09:08] Dạ Bên đối tác họ cứ hỏi mãi về tiến độ thi công, mình phải trả lời sao đây?
+[09:18] Mọi người có ý kiến gì thêm về ngân sách dự án không?
+[09:10] Mọi người có ý kiến gì thêm về thiết kế cơ điện không?
+[09:22] Thôi được rồi, vậy thống nhất là triển khai thiết kế cơ điện theo hướng đó.
+[09:24] Tôi sẽ phụ trách kiểm tra lại thiết kế cơ điện rồi báo lại cả team vào chiều mai.
+[09:26] Cảm ơn mọi người, cuộc họp về Xây dựng tạm dừng tại đây.
+[09:28] Chắc là Ai sẽ chịu trách nhiệm chính cho mảng vật liệu nhỉ?
+[09:15] Hình như Bên đối tác họ cứ hỏi mãi về an toàn lao động, mình phải trả lời sao đây?
+[09:16] Vâng Đừng quên vụ tiến độ thi công cũng quan trọng không kém nhé.
+[09:34] Nói chung là Cái vật liệu này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:18] Thực ra Ai sẽ chịu trách nhiệm chính cho mảng ngân sách dự án nhỉ?
+[09:19] Nói chung là Hay là mình thử thay đổi cách tiếp cận với tiến độ thi công xem sao?
+[09:40] Ai sẽ chịu trách nhiệm chính cho mảng an toàn lao động nhỉ?
+[09:42] À Về dài hạn thì ngân sách dự án sẽ là trọng tâm của năm nay.
+[09:44] Hình như Về phần ngân sách cho an toàn lao động, sếp đã duyệt chưa nhỉ?
+[09:46] Đừng quên vụ vật liệu cũng quan trọng không kém nhé.
+[09:48] Thế thì mình chốt phương án cho an toàn lao động luôn đi, đừng kéo dài nữa.
+[09:50] Vâng Tôi thấy nhà thầu hiện tại là cơ hội tốt để mình bứt phá.
+[09:52] Nói chung là Tôi lo nhất là cái ngân sách dự án, tiến độ đang bị khựng lại.
+[09:27] Hình như Bên đối tác họ cứ hỏi mãi về thiết kế cơ điện, mình phải trả lời sao đây?
+[09:28] Thôi được rồi, vậy thống nhất là triển khai tiến độ thi công theo hướng đó.
+[09:58] Ờm Về phần ngân sách cho nhà thầu, sếp đã duyệt chưa nhỉ?
+[09:30] Để tôi check lại lịch của bên thiết kế cơ điện xem họ rảnh khi nào.
+[09:31] À Tôi sẽ phụ trách kiểm tra lại ngân sách dự án rồi báo lại cả team vào chiều mai.
+[09:32] Tôi sẽ phụ trách kiểm tra lại thiết kế cơ điện rồi báo lại cả team vào chiều mai.
+[10:06] Vấn đề tiến độ thi công thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[10:08] À Cần phải làm rõ hơn về thiết kế cơ điện trong hợp đồng mới.
+[09:35] Dạ Vấn đề nhà thầu thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[10:12] Bên đối tác họ cứ hỏi mãi về ngân sách dự án, mình phải trả lời sao đây?
+[09:37] Ai sẽ chịu trách nhiệm chính cho mảng an toàn lao động nhỉ?
+[10:16] Cảm ơn mọi người, cuộc họp về Xây dựng tạm dừng tại đây.
+[09:39] Thì đấy Thôi được rồi, vậy thống nhất là triển khai thiết kế cơ điện theo hướng đó.
+[09:40] Đúng rồi, cái nhà thầu cần được ưu tiên xử lý trước thứ Sáu này.
+[10:22] Ờm Mọi người nghe rõ không? Về cái thiết kế cơ điện này tôi thấy có vẻ hơi vướng.
+[10:24] À Đúng rồi, cái ngân sách dự án cần được ưu tiên xử lý trước thứ Sáu này.
+[09:43] Nói chung là Về dài hạn thì thiết kế cơ điện sẽ là trọng tâm của năm nay.
+[10:28] Thôi được rồi, vậy thống nhất là triển khai vật liệu theo hướng đó.
+[09:45] À Mọi người nghe rõ không? Về cái an toàn lao động này tôi thấy có vẻ hơi vướng.
+[10:32] Cần phải làm rõ hơn về vật liệu trong hợp đồng mới.
+[10:34] Nói chung là Bên đối tác họ cứ hỏi mãi về vật liệu, mình phải trả lời sao đây?
+[10:36] Để tôi check lại lịch của bên vật liệu xem họ rảnh khi nào.
+[10:38] Cần phải làm rõ hơn về ngân sách dự án trong hợp đồng mới.
+[09:50] Cái ngân sách dự án này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[10:42] Mọi người nghe rõ không? Về cái an toàn lao động này tôi thấy có vẻ hơi vướng.
+[10:44] À Ai sẽ chịu trách nhiệm chính cho mảng tiến độ thi công nhỉ?
+[09:53] Thì Tôi sẽ phụ trách kiểm tra lại tiến độ thi công rồi báo lại cả team vào chiều mai.
+[10:48] Cần phải làm rõ hơn về nhà thầu trong hợp đồng mới.
+[10:50] Bên đối tác họ cứ hỏi mãi về nhà thầu, mình phải trả lời sao đây?
+[10:52] Dạ Đúng rồi, cái vật liệu cần được ưu tiên xử lý trước thứ Sáu này.
+[10:54] Vụ nhà thầu thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:58] À Thế thì mình chốt phương án cho vật liệu luôn đi, đừng kéo dài nữa.
+[09:59] Đừng quên vụ an toàn lao động cũng quan trọng không kém nhé.
+[11:00] Chắc là Vấn đề thiết kế cơ điện thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[11:02] Chắc là Ai sẽ chịu trách nhiệm chính cho mảng thiết kế cơ điện nhỉ?
+[11:04] Thôi được rồi, vậy thống nhất là triển khai vật liệu theo hướng đó.
+[10:03] Đừng quên vụ tiến độ thi công cũng quan trọng không kém nhé.
+[10:04] Để tôi check lại lịch của bên vật liệu xem họ rảnh khi nào.
+[10:05] Tôi thấy tiến độ thi công hiện tại là cơ hội tốt để mình bứt phá.
+[10:06] Ai sẽ chịu trách nhiệm chính cho mảng vật liệu nhỉ?
+[10:07] Mọi người có ý kiến gì thêm về tiến độ thi công không?
+[11:16] Mọi người có ý kiến gì thêm về ngân sách dự án không?
+[11:18] Cần phải làm rõ hơn về tiến độ thi công trong hợp đồng mới.
+[10:10] Cảm ơn mọi người, cuộc họp về Xây dựng tạm dừng tại đây.
+[11:22] Vâng Vấn đề vật liệu thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[10:12] Thực ra Hay là mình thử thay đổi cách tiếp cận với nhà thầu xem sao?
+[10:13] Thì đấy Tôi lo nhất là cái an toàn lao động, tiến độ đang bị khựng lại.
+[11:28] Tôi lo nhất là cái an toàn lao động, tiến độ đang bị khựng lại.
+[11:30] Thì đấy Đừng quên vụ an toàn lao động cũng quan trọng không kém nhé.
+[10:16] Hình như Hay là mình thử thay đổi cách tiếp cận với ngân sách dự án xem sao?
+[10:17] Tóm lại Mọi người có ý kiến gì thêm về thiết kế cơ điện không?
+[10:18] Tôi sẽ phụ trách kiểm tra lại thiết kế cơ điện rồi báo lại cả team vào chiều mai.
+[10:19] Thì Tôi lo nhất là cái ngân sách dự án, tiến độ đang bị khựng lại.
+[10:20] Cái vật liệu này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[11:42] À Bên đối tác họ cứ hỏi mãi về tiến độ thi công, mình phải trả lời sao đây?
+[10:22] Thì đấy Thế thì mình chốt phương án cho vật liệu luôn đi, đừng kéo dài nữa.
+[11:46] Về phần ngân sách cho tiến độ thi công, sếp đã duyệt chưa nhỉ?
+[10:24] Thì đấy Tôi sẽ phụ trách kiểm tra lại nhà thầu rồi báo lại cả team vào chiều mai.
+[10:25] Thì đấy Cái ngân sách dự án này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[10:26] Tôi lo nhất là cái thiết kế cơ điện, tiến độ đang bị khựng lại.
+[11:54] À Để tôi check lại lịch của bên an toàn lao động xem họ rảnh khi nào.
+[10:28] Mọi người nghe rõ không? Về cái thiết kế cơ điện này tôi thấy có vẻ hơi vướng.
+[11:58] Để tôi check lại lịch của bên vật liệu xem họ rảnh khi nào.
+[12:00] Cần phải làm rõ hơn về tiến độ thi công trong hợp đồng mới.
+[10:31] Cần phải làm rõ hơn về ngân sách dự án trong hợp đồng mới.
+[12:04] Mọi người nghe rõ không? Về cái tiến độ thi công này tôi thấy có vẻ hơi vướng.
+[12:06] Tôi sẽ phụ trách kiểm tra lại ngân sách dự án rồi báo lại cả team vào chiều mai.
+[12:08] Ờm Vụ vật liệu thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[12:10] Đúng rồi, cái nhà thầu cần được ưu tiên xử lý trước thứ Sáu này.
+[10:36] À Tôi sẽ phụ trách kiểm tra lại nhà thầu rồi báo lại cả team vào chiều mai.
+[10:37] Vâng Thế thì mình chốt phương án cho an toàn lao động luôn đi, đừng kéo dài nữa.
+[10:38] Tôi lo nhất là cái vật liệu, tiến độ đang bị khựng lại.
+[12:18] Vấn đề nhà thầu thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[10:40] Vụ an toàn lao động thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[10:41] Ai sẽ chịu trách nhiệm chính cho mảng tiến độ thi công nhỉ?
+[10:42] Thì Thôi được rồi, vậy thống nhất là triển khai nhà thầu theo hướng đó.
+[10:43] Vâng Cảm ơn mọi người, cuộc họp về Xây dựng tạm dừng tại đây.
+[12:28] Chắc là Hay là mình thử thay đổi cách tiếp cận với ngân sách dự án xem sao?
+[12:30] Tóm lại Về phần ngân sách cho tiến độ thi công, sếp đã duyệt chưa nhỉ?
+[10:46] Tóm lại Để tôi check lại lịch của bên nhà thầu xem họ rảnh khi nào.
+[10:47] Vụ ngân sách dự án thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[12:36] Hình như Mọi người nghe rõ không? Về cái nhà thầu này tôi thấy có vẻ hơi vướng.
+[12:38] Thôi được rồi, vậy thống nhất là triển khai an toàn lao động theo hướng đó.
+[10:50] Hay là mình thử thay đổi cách tiếp cận với vật liệu xem sao?
+[12:42] Về phần ngân sách cho vật liệu, sếp đã duyệt chưa nhỉ?
+[10:52] Thôi được rồi, vậy thống nhất là triển khai an toàn lao động theo hướng đó.
+[10:53] Tóm lại Thế thì mình chốt phương án cho tiến độ thi công luôn đi, đừng kéo dài nữa.
+[12:48] Ờm Về phần ngân sách cho nhà thầu, sếp đã duyệt chưa nhỉ?
+[12:50] Hay là mình thử thay đổi cách tiếp cận với tiến độ thi công xem sao?
+[12:52] Ờm Thôi được rồi, vậy thống nhất là triển khai nhà thầu theo hướng đó.
+[12:54] Ai sẽ chịu trách nhiệm chính cho mảng nhà thầu nhỉ?
+[12:56] Đừng quên vụ tiến độ thi công cũng quan trọng không kém nhé.
+[12:58] Hình như Tôi lo nhất là cái tiến độ thi công, tiến độ đang bị khựng lại.
+[11:00] Tôi sẽ phụ trách kiểm tra lại ngân sách dự án rồi báo lại cả team vào chiều mai.
+[13:02] Đúng rồi, cái thiết kế cơ điện cần được ưu tiên xử lý trước thứ Sáu này.
+[11:02] À Đúng rồi, cái tiến độ thi công cần được ưu tiên xử lý trước thứ Sáu này.
+[11:03] Thì đấy Về phần ngân sách cho an toàn lao động, sếp đã duyệt chưa nhỉ?
+[13:08] Tôi sẽ phụ trách kiểm tra lại vật liệu rồi báo lại cả team vào chiều mai.
+[11:05] Để tôi check lại lịch của bên tiến độ thi công xem họ rảnh khi nào.
+[13:12] Đừng quên vụ an toàn lao động cũng quan trọng không kém nhé.
+[13:14] Dạ Vụ vật liệu thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[11:08] Cảm ơn mọi người, cuộc họp về Xây dựng tạm dừng tại đây.
+[11:09] Vâng Cần phải làm rõ hơn về nhà thầu trong hợp đồng mới.
+[13:20] Về dài hạn thì nhà thầu sẽ là trọng tâm của năm nay.
+[13:22] Về phần ngân sách cho an toàn lao động, sếp đã duyệt chưa nhỉ?
+[13:24] Thì Đừng quên vụ thiết kế cơ điện cũng quan trọng không kém nhé.
+[11:13] Cần phải làm rõ hơn về tiến độ thi công trong hợp đồng mới.
+[11:14] Tóm lại Về phần ngân sách cho nhà thầu, sếp đã duyệt chưa nhỉ?
+[11:15] Cần phải làm rõ hơn về tiến độ thi công trong hợp đồng mới.
+[13:32] Về dài hạn thì thiết kế cơ điện sẽ là trọng tâm của năm nay.
+[11:17] Nói chung là Mọi người có ý kiến gì thêm về ngân sách dự án không?
+
+<|output|>
+# Báo cáo cuộc họp về Xây dựng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Xây dựng hiện tại
+- Giải quyết các tồn đọng liên quan đến vật liệu
+- Định hướng phát triển an toàn lao động trong quý tới
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý vật liệu
+- Thiếu hụt nguồn lực cho nhà thầu
+- Áp lực từ phía đối tác về an toàn lao động
+- Tác động của thị trường đến kế hoạch chung
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho an toàn lao động
+- Phân bổ thêm 2 nhân sự cho mảng vật liệu
+- Hoàn thiện báo cáo ngân sách dự án trước cuối tuần
+- Duyệt chi phí dự phòng cho nhà thầu
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ an toàn lao động | Phòng Kế hoạch | 13/05/2026 |
+| Liên hệ đối tác về thiết kế cơ điện | Team Technical | 03/08/2026 |
+| Kiểm tra tiến độ ngân sách dự án | Bộ phận Pháp lý | 06/01/2026 |
+| Lập kế hoạch chi tiết cho vật liệu | Bộ phận Pháp lý | 25/09/2026 |
+| Báo cáo kết quả tiến độ thi công | Bộ phận Pháp lý | 18/11/2026 |

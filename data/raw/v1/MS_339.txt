@@ -1,0 +1,56 @@
+<|input|>
+[10:00] Chào anh Thành, chào chị Phương. Hôm nay chúng ta họp để chuẩn bị cho đợt kiểm toán quyết toán thuế năm ngoái của công ty.
+[10:02] Chào mọi người, tôi vừa rà soát sơ bộ lại sổ sách và thấy có một số khoản chi phí tiếp khách vượt định mức khá nhiều. Chị Phương đã kiểm tra lại các hóa đơn chứng từ đi kèm chưa?
+[10:04] Chào anh Thành, em đã tập hợp hết rồi. Nhưng đúng là phần lớn các hóa đơn này thiếu biên bản xác nhận dịch vụ hoặc danh sách khách hàng đi kèm, nên nếu giải trình với thuế sẽ gặp khó khăn.
+[10:06] Chị Phương cần bổ sung ngay các biên bản đó đi. Những khoản chi nào không có đủ chứng từ hợp lệ thì mình phải chủ động loại khỏi chi phí được trừ khi tính thuế thu nhập doanh nghiệp nhé.
+[10:08] Dạ vâng, em đang cho các bạn kế toán phần hành liên hệ lại với các bộ phận liên quan để hoàn thiện hồ sơ. Ngoài ra, em thấy phần hạch toán tài sản cố định quý 3 có chút nhầm lẫn về thời gian trích khấu hao.
+[10:10] Nhầm lẫn thế nào hả Phương? Ảnh hưởng nhiều đến lợi nhuận không?
+[10:12] Dạ do hệ thống tự động nhảy thời gian khấu hao của máy móc cũ theo khung của máy mới, dẫn đến chi phí khấu hao bị đẩy lên cao hơn thực tế khoảng 500 triệu đồng.
+[10:14] 500 triệu là con số không nhỏ đâu. Chị Phương phải điều chỉnh lại bút toán ngay trong kỳ này để số liệu báo cáo tài chính được chính xác. Anh Thành thấy sao ạ?
+[10:16] Đúng rồi, sai sót này nếu để kiểm toán viên bên ngoài phát hiện ra thì họ sẽ ghi vào thư quản lý ngay. Tiện đây, anh muốn hỏi về tình hình đối chiếu công nợ với các nhà cung cấp lớn.
+[10:18] Bên em đã gửi biên bản đối chiếu cho 50 nhà cung cấp hàng đầu, hiện đã thu hồi được 45 bản. 5 bên còn lại họ đang kiểm tra lại số liệu kho vì có sự chênh lệch nhỏ về hàng trả lại.
+[10:20] Phương bám sát 5 nhà cung cấp đó nhé, phải chốt xong trước ngày 25 để mình đóng sổ quý. Về phần kiểm kê kho cuối năm, anh Thành có lưu ý gì cho bộ phận kế toán không?
+[10:22] Lần này tôi muốn có sự tham gia của cả bộ phận thu mua và bộ phận kho để đảm bảo tính khách quan. Cần phân loại rõ hàng tồn kho chậm luân chuyển hoặc lỗi thời để trích lập dự phòng giảm giá cho đúng quy định.
+[10:24] Ý kiến anh Thành rất sát thực tế. Em sẽ lập kế hoạch kiểm kê chi tiết và gửi cho các bên liên quan. Còn về phần lương và các khoản trích theo lương, em thấy có một số nhân sự mới chưa được đăng ký mã số thuế cá nhân kịp thời.
+[10:26] Việc này chị Phương phải đôn đốc bên nhân sự làm ngay. Để sót là công ty bị phạt hành chính đấy.
+[10:28] Dạ em biết rồi ạ. Anh Thành ơi, đợt này mình có thuê đơn vị tư vấn thuế độc lập để rà soát lại trước khi nộp báo cáo không anh?
+[10:30] Có chứ, anh đã liên hệ với bên công ty kiểm toán ABC rồi. Họ sẽ sang làm việc với mình vào tuần tới. Mọi người chuẩn bị sẵn sàng hồ sơ, phòng họp và các dữ liệu điện tử cần thiết nhé.
+[10:32] Tuyệt quá, có bên chuyên môn rà soát lại thì em cũng yên tâm hơn. Anh Thành cho em xin lịch cụ thể để em sắp xếp nhân sự tiếp đoàn nhé.
+[10:34] Họ sẽ sang từ thứ Tư đến hết thứ Sáu. Phương nhớ nhắc các bạn kế toán giữ thái độ hợp tác nhưng cũng phải nắm chắc số liệu của mình để giải trình.
+[10:36] Dạ em rõ rồi ạ. Buổi họp hôm nay như vậy là khá đầy đủ nội dung. Em sẽ gửi biên bản họp cho mọi người sau.
+[10:38] Cảm ơn anh Thành và chị Phương. Chúc mọi người làm việc hiệu quả.
+[10:40] Chào mọi người.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chuẩn bị hồ sơ và dữ liệu phục vụ đợt kiểm toán quyết toán thuế năm.
+- Rà soát các sai sót trong hạch toán kế toán và chứng từ chi phí.
+- Thống nhất kế hoạch đối chiếu công nợ và kiểm kê kho cuối kỳ.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí tiếp khách vượt định mức và thiếu chứng từ đi kèm (biên bản xác nhận).
+- Sai sót trong hạch toán khấu hao tài sản cố định quý 3 làm ảnh hưởng đến lợi nhuận (500 triệu).
+- Tình hình đối chiếu công nợ nhà cung cấp: còn 5/50 nhà cung cấp chưa phản hồi.
+- Kế hoạch kiểm kê kho có sự phối hợp đa bộ phận và trích lập dự phòng hàng tồn kho lỗi thời.
+- Một số nhân sự mới chưa có mã số thuế cá nhân.
+- Lịch làm việc với đơn vị tư vấn thuế độc lập (Công ty kiểm toán ABC).
+
+### 3. Kết luận và quyết định
+- Yêu cầu điều chỉnh ngay bút toán khấu hao tài sản cố định để đảm bảo tính chính xác của báo cáo.
+- Chủ động loại các chi phí không hợp lệ khỏi thu nhập chịu thuế TNDN.
+- Chốt xong đối chiếu công nợ trước ngày 25 hàng tháng.
+- Thuê đơn vị tư vấn ABC rà soát hồ sơ vào thứ Tư tuần tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện biên bản xác nhận dịch vụ cho chi phí tiếp khách | Chị Phương | 25/03/2024 |
+| Điều chỉnh bút toán khấu hao tài sản cố định | Chị Phương | 23/03/2024 |
+| Đôn đốc đối chiếu công nợ với 5 nhà cung cấp còn lại | Bộ phận Kế toán | 25/03/2024 |
+| Đăng ký mã số thuế cá nhân cho nhân viên mới | Bộ phận Nhân sự | 24/03/2024 |
+| Chuẩn bị hồ sơ và số liệu làm việc với đơn vị tư vấn ABC | Chị Phương | 26/03/2024 |

@@ -1,0 +1,53 @@
+<|input|>
+[09:00] Chào buổi sáng team Security và ban giám đốc. Hôm nay chúng ta sẽ dành thời gian để rà soát toàn diện về hiện trạng bảo mật đám mây (Cloud Security) của công ty mình, sau khi có một số cảnh báo về lỗ hổng bảo mật từ đơn vị kiểm toán độc lập tháng trước. Anh Nam trưởng nhóm bảo mật báo cáo tình hình cho mọi người nghe nhé.
+[09:03] Chào sếp và mọi người. Qua đợt rà soát nội bộ vừa rồi, em phát hiện ra 3 vấn đề trọng yếu. Thứ nhất là tình trạng cấu hình sai (Misconfiguration) trên các instance AWS của mình, đặc biệt là một số S3 bucket đang để chế độ Public Access do sơ suất của team Dev trong quá trình test. Thứ hai là việc quản lý danh tính (IAM) đang quá lỏng lẻo, nhiều nhân viên cũ đã nghỉ việc nhưng vẫn còn quyền truy cập vào hệ thống core. Và thứ ba là mình chưa có hệ thống giám sát log tập trung để phát hiện các hành vi bất thường theo thời gian thực.
+[09:07] Nghe có vẻ nghiêm trọng đấy Nam. Việc để hở S3 bucket chẳng khác nào mở cửa mời trộm vào nhà. Anh muốn biết ngay lập tức mình đã xử lý đóng các bucket đó chưa? Và liệu có dữ liệu nhạy cảm nào của khách hàng bị lộ ra ngoài không?
+[09:10] Dạ báo cáo sếp, ngay sau khi phát hiện, em đã cho đóng toàn bộ quyền truy cập công cộng và chuyển sang dùng IAM roles chặt chẽ hơn. Qua kiểm tra log truy cập (CloudTrail), may mắn là chưa thấy dấu hiệu nào của việc tải dữ liệu trái phép từ các IP lạ. Tuy nhiên, đây là một bài học đắt giá về quy trình phê duyệt cấu hình trước khi deploy.
+[09:14] Em đồng ý với anh Nam. Về phần quyền truy cập IAM, em đề xuất mình nên triển khai mô hình "Quyền truy cập tối thiểu" (Least Privilege). Nghĩa là nhân viên chỉ được cấp quyền đúng với công việc họ làm và quyền đó phải có thời hạn. Chị Lan bên phòng Nhân sự cần phối hợp với IT để tự động khóa tài khoản ngay khi có quyết định nghỉ việc, tránh trường hợp quên như vừa rồi.
+[09:18] Chị ghi nhận ý kiến của em. Chị sẽ yêu cầu bộ phận nhân sự gửi danh sách cập nhật biến động nhân sự hàng ngày cho team Security bắt đầu từ hôm nay. Ngoài ra, Nam cho chị hỏi chi phí để đầu tư một hệ thống giám sát log (SIEM) như em nói là khoảng bao nhiêu?
+[09:22] Nếu mình dùng các giải pháp Managed Service trên cloud như Amazon GuardDuty hay Azure Sentinel thì chi phí sẽ tính theo dung lượng data log xử lý, dự kiến khoảng 50-70 triệu mỗi tháng. Nếu mình tự xây dựng trên mã nguồn mở như ELK Stack thì chi phí license sẽ thấp hơn nhưng lại tốn nhân sự vận hành rất lớn. Em kiến nghị mình nên dùng Managed Service để team tập trung vào việc ứng cứu sự cố thay vì đi bảo trì server log.
+[09:26] 70 triệu một tháng để đổi lấy sự an tâm về dữ liệu thì anh nghĩ là xứng đáng. Nam giúp anh lập một bản đề xuất ngân sách chi tiết và lộ trình triển khai hệ thống giám sát này trong vòng 2 tuần tới. Còn vấn đề đào tạo nhận thức bảo mật cho nhân viên thì sao? Anh thấy nhiều người vẫn có thói quen đặt mật khẩu rất dễ đoán hoặc click vào các link lạ trong email.
+[09:30] Vấn đề con người luôn là mắt xích yếu nhất sếp ạ. Em định sẽ tổ chức một buổi diễn tập giả lập tấn công Phishing vào tuần sau. Ai bị "dính bẫy" sẽ phải tham gia một khóa đào tạo bắt buộc về an toàn thông tin. Ngoài ra, mình sẽ bắt buộc áp dụng xác thực đa yếu tố (MFA) cho toàn bộ tài khoản email và các tool quản trị nội bộ. Không có MFA là không được đăng nhập.
+[09:34] Áp dụng MFA là đúng rồi, giờ gần như là tiêu chuẩn bắt buộc rồi. Nhưng Nam lưu ý là phải hướng dẫn mọi người dùng các app authenticator thay vì chỉ nhận mã qua SMS để tránh rủi ro SIM swap nhé. Chị Lan thấy việc bắt buộc đào tạo đối với những người click link giả lập có gặp khó khăn gì về nội quy không?
+[09:38] Chị thấy hoàn toàn hợp lý và cần thiết. Chị sẽ bổ sung điều khoản về tuân thủ an toàn thông tin vào quy chế làm việc của công ty luôn để tăng tính răn đe. Ai vi phạm nhiều lần có thể bị hạ bậc thi đua hoặc kỷ luật. Bảo mật không phải là việc riêng của IT mà là trách nhiệm của tất cả mọi người.
+[09:42] Rất tốt. Vậy mục tiêu của mình là: Tuần 1 đóng hết các lỗ hổng cấu hình và làm sạch tài khoản IAM. Tuần 2 triển khai hệ thống giám sát log và MFA. Tuần 3 tổ chức diễn tập Phishing và đào tạo. Nam phụ trách điều phối chung nhé.
+[09:46] Dạ vâng sếp, em sẽ báo cáo tiến độ hàng ngày cho sếp qua email. Em cũng muốn đề xuất mình thuê một đơn vị Pentest chuyên nghiệp để họ đánh giá lại hệ thống một lần nữa sau khi mình đã fix hết các lỗi này, để đảm bảo không còn "góc khuất" nào mình bỏ sót.
+[09:50] Ý kiến hay đấy. Sau khi mình hoàn thành các bước trên, anh sẽ ký duyệt ngân sách cho việc Pentest vào tháng sau. Cảm ơn Nam và team Security đã làm việc rất nỗ lực. Cuộc họp kết thúc tại đây, mọi người quay lại làm việc nhé.
+[09:54] Chào sếp, chào mọi người.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát hiện trạng bảo mật đám mây (Cloud Security) sau các cảnh báo từ kiểm toán.
+- Khắc phục các lỗ hổng cấu hình sai, quản lý danh tính (IAM) và thiết lập hệ thống giám sát.
+- Xây dựng lộ trình nâng cao nhận thức an toàn thông tin cho toàn thể nhân viên.
+
+### 2. Các vấn đề đã thảo luận
+- Sự cố cấu hình sai (Misconfiguration) khiến một số S3 bucket bị truy cập công cộng (Public Access).
+- Quản lý tài khoản IAM lỏng lẻo, nhân viên nghỉ việc vẫn chưa bị thu hồi quyền truy cập.
+- Thiếu hệ thống giám sát log tập trung (SIEM) để phát hiện tấn công theo thời gian thực.
+- Đề xuất mô hình "Quyền truy cập tối thiểu" và bắt buộc xác thực đa yếu tố (MFA).
+- Vấn đề nhận thức bảo mật của nhân viên còn kém (mật khẩu yếu, rủi ro phishing).
+- So sánh chi phí giữa tự xây dựng hệ thống giám sát và sử dụng Managed Service trên Cloud.
+
+### 3. Kết luận và quyết định
+- Đóng toàn bộ quyền truy cập công cộng cho các lưu trữ đám mây và áp dụng IAM roles chặt chẽ.
+- Triển khai bắt buộc xác thực đa yếu tố (MFA) bằng ứng dụng xác thực cho toàn bộ nhân viên.
+- Phê duyệt ngân sách khoảng 70 triệu/tháng để sử dụng dịch vụ giám sát log Managed Service.
+- Phối hợp giữa phòng IT và Nhân sự để tự động hóa quy trình thu hồi quyền truy cập khi nhân sự biến động.
+- Tổ chức diễn tập giả lập tấn công Phishing và đào tạo bắt buộc cho những người vi phạm.
+- Lên kế hoạch thuê đơn vị Pentest chuyên nghiệp đánh giá lại hệ thống vào tháng tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Rà soát và đóng lỗ hổng cấu hình Cloud toàn hệ thống | Anh Nam | 22/03/2026 |
+| Triển khai MFA cho toàn bộ tài khoản công ty | Nhóm Security | 28/03/2026 |
+| Lập đề xuất ngân sách và triển khai dịch vụ giám sát SIEM | Anh Nam | 01/04/2026 |
+| Tổ chức diễn tập Phishing giả lập và khóa đào tạo | Phòng Security & NS | 10/04/2026 |
+| Cập nhật danh sách nhân sự nghỉ việc hàng ngày cho IT | Chị Lan | 18/03/2026 |
+| Liên hệ đơn vị Pentest để lấy báo giá và kế hoạch | Anh Nam | 15/04/2026 |

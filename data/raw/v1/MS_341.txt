@@ -1,0 +1,65 @@
+<|input|>
+[13:30] Chào anh Nam, chào chị Hương và các thành viên ban dự án. Hôm nay chúng ta họp tại văn phòng hiện trường để đánh giá tiến độ dự án tổ hợp chung cư cao cấp Diamond Plaza.
+[13:32] Chào mọi người, tôi vừa đi vòng quanh công trường một lượt. Phần hầm đã xong, nhưng phần thân đang bị chậm so với tiến độ cam kết khoảng 2 tuần. Anh Nam cho biết lý do tại sao?
+[13:34] Chào chị Hương, chào anh em. Lý do chính là đợt mưa kéo dài vừa rồi khiến việc đổ bê tông sàn tầng 5 phải tạm dừng nhiều lần để đảm bảo chất lượng. Ngoài ra, việc cung ứng thép từ phía nhà thầu phụ cũng đang gặp trục trặc do giá thép biến động mạnh.
+[13:36] Giá thép biến động thì mình đã có hợp đồng chốt giá từ trước rồi mà anh Nam? Tại sao họ lại dừng cung cấp?
+[13:38] Họ đang muốn đàm phán lại đơn giá chị ạ. Họ bảo nếu cứ giữ giá cũ thì họ sẽ phá sản. Tôi đang làm việc gắt gao với bên pháp lý để gây áp lực yêu cầu họ thực hiện đúng hợp đồng.
+[13:40] Anh Nam phải quyết liệt việc này. Nếu cần thiết thì mình tìm nhà cung cấp thay thế ngay, không để dự án chết đứng vì thiếu thép. Còn vấn đề an toàn lao động thì sao? Tôi thấy công nhân trên tầng cao vẫn chưa thắt dây an toàn đầy đủ.
+[13:42] Việc này tôi đã nhắc nhở đội trưởng thi công nhiều lần nhưng họ vẫn chủ quan. Sáng mai tôi sẽ cho đình chỉ thi công đội nào vi phạm để làm gương. An toàn là trên hết, không thể lơ là được.
+[13:44] Đồng ý. Về phần thiết kế nội thất căn hộ mẫu, chị Hương thấy phương án bên đơn vị tư vấn đưa ra thế nào?
+[13:46] Tôi thấy tông màu hơi tối so với thị hiếu hiện nay. Diamond Plaza hướng tới đối tượng khách hàng trẻ, thành đạt nên cần sự năng động, sáng sủa hơn. Tôi đã yêu cầu họ gửi lại 3 phương án phối màu khác nhau vào thứ Tư này.
+[13:48] Vậy tốt quá. Còn về vấn đề pháp lý, thủ tục xin cấp phép điều chỉnh một số công năng ở tầng thương mại đến đâu rồi hả Nam?
+[13:50] Dạ, hồ sơ đã nộp lên Sở Xây dựng được 10 ngày. Họ đang yêu cầu mình giải trình thêm về phương án phòng cháy chữa cháy (PCCC) sau khi điều chỉnh. Tôi đã giao cho bên tư vấn thiết kế PCCC hoàn thiện lại bản vẽ trong tuần này.
+[13:52] PCCC là vấn đề rất nhạy cảm hiện nay, mọi người phải làm cực kỳ cẩn thận. Sai một li đi một dặm, sau này không nghiệm thu được là khổ lắm.
+[13:54] Vâng chị, em nắm rõ tinh thần đó. Tiện đây, anh Nam cho em hỏi về tình hình giải ngân cho các đơn vị thầu phụ. Nhiều anh em đang than phiền vì bị nợ lương công nhân.
+[13:56] Vấn đề giải ngân đang bị vướng ở khâu phê duyệt hồ sơ quyết toán đợt 2. Bên kiểm soát chi phí yêu cầu phải có đầy đủ biên bản nghiệm thu vật liệu đầu vào mà một số thầu phụ chưa cung cấp được.
+[13:58] Chị Hương ơi, em nghĩ mình có thể linh động tạm ứng một phần tiền lương cho công nhân trước, còn phần lợi nhuận của thầu phụ thì giữ lại đến khi hoàn thiện hồ sơ được không chị? Như vậy sẽ ổn định được tâm lý anh em làm việc trên công trường.
+[14:00] Ý kiến của Nam cũng có lý. Chị sẽ trao đổi với bên Tài chính xem có cơ chế tạm ứng đặc biệt cho trường hợp này không. Nhưng anh Nam phải đốc thúc thầu phụ hoàn thiện hồ sơ ngay, không được để kéo dài.
+[14:02] Dạ em cảm ơn chị. Còn một vấn đề nữa là bãi đỗ xe thông minh. Em thấy phương án dùng robot tự động có vẻ tốn kém và hay hỏng hóc. Liệu mình có nên quay lại phương án bán tự động truyền thống không?
+[14:04] Diamond Plaza là dự án cao cấp, bãi đỗ xe robot là một điểm nhấn để bán hàng. Nếu mình cắt giảm chỗ này thì sợ khó cạnh tranh với các đối tác khác trong khu vực.
+[14:06] Nhưng nếu nó hay hỏng thì cư dân sẽ phàn nàn rất nhiều sau khi bàn giao. Chị Hương cân nhắc kỹ chỗ này nhé. Em sẽ yêu cầu bên cung cấp thiết bị gửi báo cáo về tỷ lệ sự cố và chi phí vận hành trong 5 năm đầu để mình có cơ sở quyết định.
+[14:08] Được, Nam làm vậy đi. Có số liệu thực tế thì dễ nói chuyện hơn.
+[14:10] Về tiến độ bán hàng, bộ phận Marketing báo là lượng khách quan tâm đang giảm nhẹ. Có lẽ mình cần tổ chức một buổi lễ khai trương căn hộ mẫu thật hoành tráng để hâm nóng lại thị trường.
+[14:12] Dự kiến là bao giờ khai trương được căn hộ mẫu hả chị Hương?
+[14:14] Nếu bản vẽ nội thất được chốt vào tuần tới thì khoảng giữa tháng sau là xong. Anh Nam chuẩn bị mặt bằng và dọn dẹp lối đi vào khu vực căn hộ mẫu thật sạch sẽ nhé.
+[14:16] Vâng, em sẽ cho quây tôn riêng khu vực đó và trang trí lại cổng chào cho chuyên nghiệp.
+[14:18] Tốt. Buổi họp hôm nay chốt lại như vậy. Anh Nam tập trung xử lý vấn đề thép và an toàn lao động. Chị Hương lo phần thiết kế và tài chính. Chúng ta sẽ họp lại vào thứ Hai tuần sau để kiểm tra kết quả.
+[14:20] Cảm ơn mọi người, chúc buổi chiều làm việc hiệu quả.
+[14:22] Chào mọi người.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tiến độ thi công dự án Diamond Plaza và tìm giải pháp cho các vấn đề đang tồn tại.
+- Thảo luận về việc cung ứng vật liệu (thép) và an toàn lao động trên công trường.
+- Rà soát các vấn đề pháp lý (PCCC) và thiết kế nội thất căn hộ mẫu.
+
+### 2. Các vấn đề đã thảo luận
+- Tiến độ phần thân chậm 2 tuần do thời tiết xấu và vướng mắc cung ứng thép.
+- Nhà thầu phụ cung ứng thép đòi tăng giá, gây áp lực lên chi phí dự án.
+- Tình trạng vi phạm an toàn lao động của công nhân trên cao.
+- Thiết kế nội thất căn hộ mẫu hiện tại quá tối, cần thay đổi tông màu sáng hơn.
+- Hồ sơ điều chỉnh công năng tầng thương mại đang chờ giải trình về phương án PCCC.
+- Khó khăn trong giải ngân lương cho thầu phụ do thiếu chứng từ nghiệm thu.
+- Cân nhắc giữa bãi đỗ xe robot thông minh và bãi đỗ xe bán tự động để đảm bảo tính ổn định.
+- Kế hoạch khai trương căn hộ mẫu để thúc đẩy doanh số bán hàng.
+
+### 3. Kết luận và quyết định
+- Đình chỉ thi công đối với các đội vi phạm an toàn lao động để chấn chỉnh.
+- Giao bộ phận pháp lý làm việc gắt gao với nhà cung cấp thép để duy trì đơn giá hợp đồng.
+- Xem xét cơ chế tạm ứng lương cho công nhân để ổn định nhân sự công trường.
+- Yêu cầu báo cáo chi tiết về chi phí vận hành bãi đỗ xe thông minh trước khi quyết định cuối cùng.
+- Đặt mục tiêu hoàn thành căn hộ mẫu vào giữa tháng sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Làm việc với nhà cung cấp thép về đơn giá và tiến độ giao hàng | Anh Nam | 24/03/2024 |
+| Gửi 3 phương án phối màu nội thất căn hộ mẫu mới | Đơn vị tư vấn | 27/03/2024 |
+| Hoàn thiện bản vẽ PCCC điều chỉnh theo yêu cầu của Sở | Bộ phận thiết kế | 29/03/2024 |
+| Lập bảng so sánh chi phí vận hành bãi đỗ xe robot vs truyền thống | Anh Nam | 30/03/2024 |
+| Làm việc với bộ phận Tài chính về việc tạm ứng lương thầu phụ | Chị Hương | 25/03/2024 |

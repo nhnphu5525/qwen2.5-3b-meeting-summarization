@@ -1,0 +1,51 @@
+<|input|>
+[08:30] Chào mọi người, hôm nay chúng ta tập trung thảo luận về tiến độ dự án Mobile Banking phiên bản 2.0. Anh Nam ơi, anh có thể báo cáo nhanh về phần backend không?
+[08:32] Chào cả team, về phần backend thì chúng tôi đã hoàn thành xong các API cốt lõi cho phần thanh toán QR code và chuyển khoản nhanh 24/7. Tuy nhiên, hiện tại đang gặp chút vấn đề về hiệu năng khi truy vấn lịch sử giao dịch của những khách hàng có dữ liệu lớn.
+[08:35] Vấn đề hiệu năng đó cụ thể là sao hả anh Nam? Có phải do cấu trúc database chưa tối ưu không? Chào chị Lan, đúng là một phần do index chưa được thiết lập chính xác cho các trường ngày tháng và loại giao dịch. Chúng tôi đang xem xét việc chuyển bớt dữ liệu cũ sang cold storage.
+[08:38] Tôi nghĩ phương án cold storage là hợp lý đấy. Chào mọi người, tôi là Minh bên team Infra. Nếu chuyển sang cold storage thì chúng ta cần đảm bảo tốc độ truy xuất khi khách hàng thực sự cần xem lại lịch sử cũ không bị quá chậm. Anh Nam cần phối hợp với bên tôi để cấu hình lại Elasticsearch nhé.
+[08:42] Vâng anh Minh, tôi sẽ cử một bạn sang làm việc trực tiếp với anh vào chiều nay. Còn về phần frontend thì sao hả Lan?
+[08:45] Frontend thì cơ bản đã xong phần UI/UX cho các màn hình chính. Tuy nhiên, bộ phận thiết kế vừa gửi thêm yêu cầu về việc tích hợp chế độ Dark Mode. Việc này có thể làm chậm tiến độ khoảng 3 ngày để điều chỉnh lại toàn bộ hệ thống màu sắc và asset.
+[08:48] Dark Mode hiện nay là xu hướng bắt buộc rồi, chúng ta không thể bỏ qua được. Chào chị Lan, anh Nam, tôi là Hoàng bên bộ phận Sản phẩm. Tôi đề xuất chúng ta ưu tiên hoàn thiện luồng thanh toán trước, còn Dark Mode có thể cho chạy song song và cập nhật sau nếu quá gấp.
+[08:52] Tôi đồng ý với Hoàng. Quan trọng nhất vẫn là tính ổn định của giao dịch. Chào mọi người, tôi là Phương bên QA. Tôi muốn nhắc nhở là phần bảo mật sinh trắc học trên các dòng máy Android đời cũ vẫn đang gặp lỗi crash. Anh Nam và Lan cần kiểm tra lại library đang dùng nhé.
+[08:56] Cảm ơn Phương đã nhắc. Chào anh Nam, em nghĩ là do phiên bản SDK của Fingerprint API không tương thích ngược tốt. Em sẽ cập nhật lại bản vá trong tối nay.
+[09:00] Tốt lắm. Vậy kế hoạch là chúng ta sẽ có bản Beta hoàn chỉnh vào thứ Sáu tuần tới để gửi cho bên bộ phận Audit kiểm tra nội bộ. Anh Minh chuẩn bị sẵn môi trường staging giúp nhé.
+[09:05] Môi trường staging đã sẵn sàng rồi chị Lan ạ. Chỉ cần backend deploy bản mới nhất lên là có thể test ngay.
+[09:10] Về phần tài liệu hướng dẫn sử dụng cho khách hàng, chị Mai bên Marketing đã bắt đầu soạn thảo chưa nhỉ? Chào chị, tôi đã nhận được bản draft từ team Sản phẩm và đang tiến hành biên tập lại cho dễ hiểu hơn đối với người dùng phổ thông. Dự kiến đầu tuần sau sẽ xong.
+[09:15] Tuyệt vời. Vậy chúng ta thống nhất: Backend tối ưu database và phối hợp với Infra về cold storage; Frontend hoàn thiện UI và fix lỗi Android; QA tập trung test bảo mật; Marketing hoàn thiện tài liệu.
+[09:20] Hẹn gặp lại mọi người vào buổi họp check-point vào sáng thứ Hai tuần tới. Chúc mọi người làm việc hiệu quả.
+
+<|output|>
+# Dự án Mobile Banking 2.0 - Tiến độ và Kỹ thuật
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tiến độ dự án Mobile Banking 2.0
+- Giải quyết các vấn đề về hiệu năng backend và lỗi frontend trên Android
+- Thống nhất kế hoạch triển khai bản Beta và tích hợp các tính năng mới
+
+### 2. Các vấn đề đã thảo luận
+- Backend: Đã hoàn thành API thanh toán và chuyển khoản, nhưng gặp lỗi hiệu năng khi truy vấn lịch sử giao dịch lớn do index chưa tối ưu.
+- Hạ tầng: Đề xuất chuyển dữ liệu cũ sang cold storage và sử dụng Elasticsearch để tăng tốc độ tìm kiếm.
+- Frontend: Hoàn thành UI chính nhưng cần tích hợp thêm Dark Mode theo yêu cầu mới từ thiết kế.
+- Bảo mật: Lỗi crash tính năng sinh trắc học trên các thiết bị Android đời cũ do không tương thích SDK.
+- Kiểm thử: Cần chuẩn bị môi trường staging cho bản Beta vào thứ Sáu tới.
+- Truyền thông: Soạn thảo tài liệu hướng dẫn sử dụng cho người dùng cuối.
+
+### 3. Kết luận và quyết định
+- Ưu tiên tối ưu hóa database và triển khai giải pháp cold storage ngay trong tuần này.
+- Tạm hoãn ưu tiên Dark Mode để tập trung vào luồng thanh toán và sửa lỗi bảo mật trên Android.
+- Chốt lịch ra mắt bản Beta nội bộ vào thứ Sáu tuần tới (ngày 28/03/2025).
+- Team Marketing phải hoàn thành tài liệu hướng dẫn vào thứ Hai tuần sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tối ưu Index database và cấu hình Cold Storage | Anh Nam (Backend) | 26/03/2025 |
+| Phối hợp cấu hình Elasticsearch | Anh Minh (Infra) | 26/03/2025 |
+| Fix lỗi crash sinh trắc học trên Android | Chị Lan (Frontend) | 25/03/2025 |
+| Hoàn thiện UI/UX Dark Mode (song song) | Chị Lan (Frontend) | 30/03/2025 |
+| Triển khai môi trường staging cho bản Beta | Anh Minh (Infra) | 27/03/2025 |
+| Biên tập tài liệu hướng dẫn sử dụng | Chị Mai (Marketing) | 24/03/2025 |
+| Kiểm thử bảo mật và hiệu năng bản Beta | Chị Phương (QA) | 31/03/2025 |

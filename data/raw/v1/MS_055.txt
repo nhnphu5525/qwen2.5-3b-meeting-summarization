@@ -1,0 +1,70 @@
+<|input|>
+[08:30] Chào team dự án AI-Vision. Hôm nay chúng ta có buổi họp kỹ thuật cực kỳ quan trọng để chốt cái kiến trúc hệ thống và giải quyết các bài toán hóc búa về độ chính xác của con AI nhận diện khuôn mặt mình đang làm.
+[08:33] Dạ thưa anh, thay mặt đội Dev, em xin báo cáo tình hình. Hiện tại mình đang dùng model FaceNet để trích xuất đặc trưng (Feature extraction). Ờ... kết quả test trên tập dữ liệu nội bộ (In-house dataset) thì độ chính xác đạt khoảng 92%. Nhưng mà khi đưa ra môi trường thực tế, ánh sáng yếu hoặc khách hàng đeo khẩu trang là nó "tạch" ngay, tụt xuống còn có 65%.
+[08:36] 65% thì vứt! Ờ... khách hàng họ yêu cầu ít nhất phải 98% trong điều kiện tiêu chuẩn và 90% khi có vật cản nhẹ. Mình có giải pháp gì để nâng cái này lên không?
+[08:39] Thưa sếp, em nghĩ vấn đề nằm ở khâu tiền xử lý (Pre-processing). Hiện tại mình chưa có module cân bằng ánh sáng (Histogram equalization) tốt. Với lại, để giải quyết vụ đeo khẩu trang, mình nên chuyển sang dùng model RetinaFace để detect các landmark trên khuôn mặt, sau đó tập trung vào vùng mắt và trán thôi.
+[08:42] Ờ... dùng RetinaFace thì nặng máy lắm đấy. Cái App mình định chạy trên mấy cái máy chấm công cấu hình thấp (Low-end devices). Nếu nhồi nhét nhiều model quá thì tốc độ nhận diện (Latency) sẽ bị chậm. Khách hàng họ không đợi nổi 5 giây để mở cái cửa đâu.
+[08:45] Dạ, về vấn đề Latency, em đề xuất mình dùng kỹ thuật Quantization để nén model lại. Chuyển từ Float32 sang Int8. Ờ... tốc độ sẽ tăng lên khoảng 3-4 lần mà độ chính xác chỉ giảm tầm 1% thôi ạ.
+[08:48] Quantization là một hướng. Nhưng còn vụ bảo mật thì sao? Ờ... dạo này tụi nó hay dùng ảnh chụp hoặc video để "lừa" AI (Spoofing). Nếu mình không có module Anti-spoofing (Liveness detection) thì coi như hệ thống bảo mật này vô giá trị.
+[08:51] Thưa anh, về Anti-spoofing, em đang nghiên cứu giải pháp dùng chuyển động của mắt (Eye blinking) hoặc yêu cầu người dùng quay đầu nhẹ. Nhưng mà làm vậy thì trải nghiệm người dùng (UX) lại bị phiền phức quá.
+[08:54] Có cách nào làm "thụ động" (Passive Liveness) không? Nghĩa là người dùng không cần làm gì mà mình vẫn biết đó là người thật ấy.
+[08:57] Dạ có ạ. Mình có thể phân tích cấu trúc bề mặt da (Texture analysis) hoặc dùng cảm biến hồng ngoại (IR) nếu phần cứng hỗ trợ. Ờ... nếu máy chấm công có camera hồng ngoại thì mình sẽ phân tích bản đồ nhiệt, ảnh chụp sẽ không có nhiệt độ như người thật.
+[09:00] OK, vậy ưu tiên hỗ trợ camera IR cho các dòng máy cao cấp. Còn dòng giá rẻ thì dùng AI phân tích Texture. Ờ... quay lại vụ Database. Hiện tại mình đang lưu ảnh gốc của khách hàng trên Server à? Cái này vi phạm Luật bảo vệ dữ liệu cá nhân (GDPR/Nghị định 13) đấy nhé.
+[09:03] Dạ không ạ, tụi em chỉ lưu cái Vector đặc trưng (Embedding) gồm 512 số thôi. Từ cái chuỗi số này không thể khôi phục lại ảnh gốc được. Nên sếp yên tâm về vấn đề Privacy.
+[09:06] Tốt. Vậy còn khâu Scale hệ thống thì sao? Ờ... nếu có 10.000 người cùng chấm công một lúc vào lúc 8h sáng thì Server mình có chịu tải nổi không?
+[09:09] Thưa anh, em đang thiết kế theo kiến trúc Microservices, chạy trên Kubernetes. Ờ... mình sẽ dùng Redis để cache các Embedding của những nhân viên thường xuyên đi làm sớm. Như vậy sẽ giảm tải cho DB chính rất nhiều. Tốc độ so khớp (Matching) sẽ dưới 100ms.
+[09:12] Nghe có vẻ ổn. Nhưng mà chi phí vận hành Cloud mỗi tháng sẽ là bao nhiêu? Nam bên Tài chính đã xem qua cái báo giá của AWS chưa?
+[09:15] Dạ thưa sếp, nếu mình chạy full các dịch vụ như sếp nói thì mỗi tháng tốn tầm 2.000 USD. Em thấy hơi cao so với biên lợi nhuận của dự án này. Mình có thể cân nhắc chuyển sang dùng On-premise cho các khách hàng lớn không ạ?
+[09:18] Ờ... On-premise cũng là một phương án để đảm bảo bảo mật cho họ. Nhưng mình phải đóng gói hệ thống thành các Docker container để dễ triển khai. 
+[09:21] Dạ, tụi em đang làm cái đó rồi ạ. Khoảng 2 tuần nữa là có bản đóng gói hoàn chỉnh. 
+[09:24] Thưa sếp, em muốn hỏi thêm về vụ nhận diện người nước ngoài. Ờ... hiện tại tập dữ liệu huấn luyện của mình chủ yếu là người Việt. Khi test với người Âu Mỹ hoặc người da màu là tỉ lệ sai sót (False Acceptance Rate - FAR) tăng vọt.
+[09:27] Cái này là Bias trong AI rồi. Ờ... phải mua thêm tập dữ liệu đa chủng tộc (Global dataset) để fine-tune lại model ngay. Không thể để con AI của mình "phân biệt chủng tộc" được, mang tiếng chết.
+[09:30] Dạ, em đã liên hệ với một bên cung cấp data bên Mỹ, họ báo giá 500 USD cho 100.000 ảnh có gắn nhãn (Labeled images). Sếp duyệt chi cái này nhé.
+[09:33] 500 USD thì rẻ quá, duyệt luôn. Nhớ kiểm tra kỹ chất lượng ảnh trước khi thanh toán. Ờ... còn khâu UI/UX của cái App di động đi kèm. Tôi muốn nó phải cực kỳ tối giản. Mở App ra là tự động scan, không cần bấm nút gì hết.
+[09:36] Vâng, tụi em đang làm theo hướng đó. App sẽ tự động nhận diện khuôn mặt khi đủ độ sáng và khoảng cách phù hợp. 
+[09:39] Một vấn đề nữa là cập nhật model từ xa (OTA update). Ờ... sau này mình cải tiến model thì làm sao để đẩy xuống hàng ngàn thiết bị đang chạy mà không làm gián đoạn dịch vụ của họ?
+[09:42] Dạ, mình sẽ dùng cơ chế A/B testing. Đẩy model mới xuống một nhóm nhỏ thiết bị trước, nếu ổn định và chính xác hơn thì mới Roll-out toàn bộ ạ. Ờ... hệ thống quản lý thiết bị (IoT Platform) của mình đã hỗ trợ cái này rồi.
+[09:45] Tốt. Vậy chốt lại các đầu việc chính: 1. Fine-tune model với RetinaFace và data đa chủng tộc; 2. Triển khai Anti-spoofing; 3. Nén model bằng Quantization; 4. Hoàn thiện đóng gói Docker cho On-premise.
+[09:48] Hai tuần nữa tôi muốn thấy bản Demo chạy mượt trên cả Android và thiết bị chấm công chuyên dụng. 
+[09:51] Dạ vâng, tụi em sẽ cố gắng hết sức ạ. 
+[09:54] Ờ... thôi họp vậy là đủ rồi. Anh em tập trung làm cho xong cái Sprint này đi. Có gì khó khăn thì hú tôi ngay.
+[09:57] Dạ sếp! Chào sếp ạ.
+
+<|output|>
+# Phát triển ứng dụng AI nhận diện khuôn mặt thế hệ mới cho doanh nghiệp
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát các thách thức kỹ thuật hiện tại của hệ thống nhận diện khuôn mặt (độ chính xác thấp trong môi trường ánh sáng yếu và khi người dùng đeo khẩu trang).
+- Thống nhất kiến trúc hệ thống, giải pháp bảo mật (Anti-spoofing) và kế hoạch tối ưu hóa hiệu suất cho thiết bị cấu hình thấp.
+- Giải quyết vấn đề bảo mật dữ liệu cá nhân và lộ trình triển khai hệ thống (Cloud vs On-premise).
+
+### 2. Các vấn đề đã thảo luận
+- **Độ chính xác & Model:** Quyết định chuyển sang dùng model RetinaFace kết hợp fine-tune bằng tập dữ liệu đa chủng tộc (Global dataset) để giảm thiểu sai sót (Bias) và xử lý tốt hơn các trường hợp đeo khẩu trang/ánh sáng yếu.
+- **Tối ưu hiệu suất:** Sử dụng kỹ thuật Quantization (Int8) để tăng tốc độ nhận diện gấp 3-4 lần, đáp ứng yêu cầu Latency thấp trên các thiết bị chấm công giá rẻ.
+- **Bảo mật & Quyền riêng tư:** 
+    - Triển khai module Anti-spoofing (Liveness detection) thụ động dựa trên phân tích Texture da và cảm biến hồng ngoại (IR).
+    - Cam kết không lưu ảnh gốc, chỉ lưu Embedding vector để tuân thủ GDPR và Nghị định 13.
+- **Hạ tầng & Scale:** Sử dụng Microservices trên Kubernetes kết hợp Redis cache để xử lý tải cao; đóng gói Docker để hỗ trợ triển khai On-premise cho khách hàng yêu cầu bảo mật cao.
+- **Quản lý thiết bị:** Áp dụng cơ chế OTA update và A/B testing để cập nhật model từ xa một cách an toàn.
+
+### 3. Kết luận và quyết định
+- Phê duyệt ngân sách 500 USD mua tập dữ liệu huấn luyện bổ sung.
+- Chốt phương án nén model và sử dụng kiến trúc Microservices.
+- Yêu cầu có bản Demo hoàn chỉnh cho App di động và thiết bị chuyên dụng sau 2 tuần.
+- Đẩy mạnh hướng triển khai On-premise song song với Cloud để tối ưu chi phí và tăng tính cạnh tranh.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Mua và chuẩn bị tập dữ liệu đa chủng tộc để huấn luyện | Minh (AI Lead) | 05/03/2025 |
+| Triển khai nén model bằng kỹ thuật Quantization Int8 | Team AI Dev | 10/03/2025 |
+| Phát triển module Anti-spoofing dựa trên Texture & IR | Team AI Dev | 12/03/2025 |
+| Đóng gói hệ thống vào Docker Container cho On-premise | Team DevOps | 15/03/2025 |
+| Hoàn thiện UI/UX cho ứng dụng di động (Auto-scan) | Team Mobile App | 14/03/2025 |
+| Thiết kế hệ thống Redis Cache cho so khớp 10.000+ user | Team Backend | 13/03/2025 |
+| Lập báo cáo dự toán chi phí vận hành Cloud chi tiết | Nam (Tài chính) | 07/03/2025 |
+| Kiểm thử độ chính xác trên thiết bị chấm công thực tế | Team QA/QC | 18/03/2025 |
+| Xây dựng tài liệu hướng dẫn triển khai OTA update | Team IoT | 20/03/2025 |

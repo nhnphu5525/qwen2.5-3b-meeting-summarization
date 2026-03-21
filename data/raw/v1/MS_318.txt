@@ -1,0 +1,49 @@
+<|input|>
+[09:00] Chào anh Hùng và team kế toán, team IT. Hôm nay chúng ta họp về một việc khá nhạy cảm nhưng bắt buộc phải làm: chuyển đổi toàn bộ hệ thống kế toán cũ sang phần mềm ERP mới tích hợp đám mây. Anh Hùng thấy rủi ro lớn nhất khi chuyển dữ liệu là gì?
+[09:03] Rủi ro lớn nhất là sai lệch số dư đầu kỳ và mất mát các chứng từ quét (scan) từ các năm trước. Hệ thống cũ của mình dùng database lỗi thời, cấu trúc dữ liệu không tương thích hoàn toàn với ERP mới. Nếu không có quy trình đối chiếu chặt chẽ, mình sẽ mất rất nhiều công sức để dọn dẹp "rác" dữ liệu sau này.
+[09:06] Đúng vậy. Em bên IT đã chuẩn bị một công cụ chuyển đổi (Migration Tool) để tự động mapping các trường dữ liệu. Tuy nhiên, trước khi chạy thật, em cần anh Hùng giúp em xác định lại bảng hệ thống tài khoản (Chart of Accounts) mới. Mình có nên gộp bớt các tài khoản chi tiết không cần thiết không anh?
+[09:09] Theo anh là nên gộp. Hệ thống cũ mình để quá nhiều tiểu khoản vụn vặt, khiến báo cáo tài chính rất rườm rà. Anh sẽ cùng các bạn kế toán tổng hợp rà soát lại và gửi cho em bảng mã tài khoản mới chuẩn nhất vào cuối tuần. 
+[09:12] Chị Lan bên tài chính lưu ý giúp em là trong thời gian chuyển đổi khoảng 2 tuần tới, mình sẽ phải chạy song song cả hai hệ thống (Parallel run). Việc này sẽ khiến khối lượng công việc của nhân viên tăng gấp đôi vì phải nhập liệu vào cả hai nơi để đối chiếu kết quả.
+[09:15] Chị hiểu, đây là giai đoạn cực nhất. Chị sẽ đề xuất mức thưởng hỗ trợ thêm cho anh em trong tháng này để động viên tinh thần. Anh Hùng ơi, mình có thể chọn thời điểm chốt sổ cuối quý để chuyển đổi không? Như vậy sẽ dễ cho việc kiểm kê và đối chiếu hơn.
+[09:18] Anh cũng định vậy. Mình sẽ chốt số liệu vào ngày 31/3 và bắt đầu "Go-live" hệ thống mới từ ngày 1/4. Toàn bộ dữ liệu của năm 2025 trở về trước mình sẽ chỉ lưu trữ dạng "Read-only" trên server cũ để tra cứu khi cần, không cần chuyển hết sang ERP mới cho nặng máy.
+[09:21] Phương án đó rất hợp lý anh Hùng. Còn việc đào tạo nhân viên sử dụng phần mềm mới thì sao em Sơn? Nhiều bạn kế toán lớn tuổi lo lắng là họ sẽ không quen với giao diện hiện đại này.
+[09:24] Em đã lên lịch tập huấn 3 buổi vào tuần sau. Em sẽ quay lại video hướng dẫn từng thao tác nhỏ nhất và lập một nhóm chat hỗ trợ 24/7. Phần mềm mới này thực ra rất thông minh, nó tự động hóa nhiều khâu nhập liệu nên về lâu dài sẽ giúp các cô chú đỡ vất vả hơn nhiều ạ.
+[09:27] OK, vậy kế hoạch đã rõ. Tuần tới tập trung đào tạo và chuẩn bị dữ liệu sạch. Tuần cuối tháng 3 bắt đầu chạy thử nghiệm với số liệu thực tế của một chi nhánh nhỏ trước. Nếu ổn thì đầu tháng 4 mình triển khai cho toàn tổng công ty.
+[09:30] Anh Hùng nhớ kiểm tra lại các mẫu hóa đơn điện tử và tờ khai thuế tích hợp trên ERP mới nhé, xem có khớp với quy định hiện hành của cơ quan thuế không.
+[09:33] Vấn đề này em yên tâm, anh đã làm việc với bên cung cấp phần mềm rồi, họ cam kết cập nhật theo thông tư mới nhất.
+[09:36] Rất tốt. Chào mọi người, chúng ta cùng cố gắng để dự án này về đích đúng hạn nhé.
+[09:39] Cảm ơn cả nhà, cuộc họp kết thúc.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận kế hoạch và lộ trình chuyển đổi hệ thống kế toán sang phần mềm ERP đám mây mới.
+- Xác định các rủi ro kỹ thuật và nghiệp vụ trong quá trình di trú dữ liệu.
+- Thống nhất phương án vận hành song song và đào tạo nhân sự.
+
+### 2. Các vấn đề đã thảo luận
+- Nguy cơ sai lệch số liệu và không tương thích cấu trúc dữ liệu giữa hệ thống cũ và mới.
+- Nhu cầu tái cấu trúc bảng hệ thống tài khoản (COA) để tinh gọn báo cáo tài chính.
+- Khó khăn về áp lực công việc khi chạy song song hai hệ thống (Parallel run) trong 2 tuần.
+- Lựa chọn thời điểm chốt sổ quý 1 làm mốc chuyển đổi hệ thống (Go-live vào 01/04).
+- Tâm lý lo ngại của nhân viên lớn tuổi đối với giao diện phần mềm mới.
+
+### 3. Kết luận và quyết định
+- Thực hiện gộp các tiểu khoản không cần thiết để chuẩn hóa danh mục tài khoản mới.
+- Triển khai vận hành song song cả hai hệ thống trong giai đoạn chuyển đổi để đối chiếu số liệu.
+- Chỉ di trú dữ liệu năm hiện hành, dữ liệu lịch sử lưu trữ dưới dạng Read-only trên server cũ.
+- Tổ chức các buổi đào tạo trực tiếp kết hợp video hướng dẫn và nhóm hỗ trợ kỹ thuật 24/7.
+- Phê duyệt mức thưởng hỗ trợ cho nhân viên kế toán tham gia dự án chuyển đổi.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bảng mã hệ thống tài khoản mới | Anh Hùng | 22/03/2026 |
+| Tổ chức tập huấn sử dụng phần mềm ERP mới | Sơn (IT) | 25/03/2026 |
+| Chạy thử nghiệm dữ liệu tại một chi nhánh nhỏ | Ban dự án | 28/03/2026 |
+| Chốt số dư đầu kỳ và Go-live chính thức | Team Kế toán & IT | 01/04/2026 |
+| Kiểm tra tích hợp hóa đơn điện tử và báo cáo thuế | Anh Hùng | 30/03/2026 |

@@ -1,0 +1,57 @@
+<|input|>
+[09:00] Chào buổi sáng team Tech và team CS. Hôm nay chúng ta sẽ thảo luận về một dự án rất quan trọng cho quý này: tích hợp AI vào hệ thống chăm sóc khách hàng để giảm tải cho các bạn nhân viên trực chat. 
+[09:03] Tuyệt vời quá, hiện tại team CS đang bị quá tải, nhất là vào các khung giờ cao điểm từ 8h tối đến 11h đêm. Khách hàng phải đợi trung bình 15 phút mới có người phản hồi, điều này làm giảm tỷ lệ hài lòng (CSAT) xuống rất thấp.
+[09:06] Anh hiểu, đó là lý do chúng ta cần một giải pháp chatbot thông minh. Thay vì chỉ trả lời theo kịch bản cứng nhắc như trước, mình sẽ dùng model ngôn ngữ lớn (LLM) để AI có thể hiểu được ý định khách hàng và trả lời tự nhiên hơn. Nam bên team AI thấy mình nên bắt đầu từ đâu?
+[09:09] Theo em, đầu tiên mình cần thu thập lại toàn bộ lịch sử chat giữa nhân viên và khách hàng trong 6 tháng qua để làm dataset huấn luyện. Mình cần phân loại xem đâu là các câu hỏi thường gặp (FAQ) và đâu là các vấn đề phức tạp cần con người can thiệp.
+[09:12] Ý kiến của Nam rất đúng. Nhưng chúng ta phải lưu ý về vấn đề bảo mật thông tin khách hàng trong dataset đó nhé. Những thông tin như số điện thoại, địa chỉ hay số tài khoản phải được ẩn danh hoàn toàn trước khi đưa vào huấn luyện model.
+[09:15] Dạ, em sẽ xây dựng một script để tự động nhận diện và mask các thông tin nhạy cảm đó. Về phần model, em đề xuất mình fine-tune lại dòng Qwen2.5-3B hoặc 7B. Với quy mô của mình thì model 3B là đủ để chạy realtime với chi phí hạ tầng hợp lý rồi.
+[09:18] Model 3B liệu có đủ thông minh để xử lý các tình huống khiếu nại gay gắt không Nam? Anh lo là nếu AI trả lời không khéo sẽ làm khách hàng giận thêm.
+[09:21] Đối với các trường hợp khiếu nại hoặc khách hàng dùng từ ngữ tiêu cực, mình sẽ thiết lập một bộ lọc cảm xúc. Nếu AI phát hiện tone giọng khách hàng đang nóng nảy, nó sẽ tự động chuyển cuộc hội thoại sang cho nhân viên trực tiếp xử lý ngay lập tức (Human-in-the-loop). AI lúc này chỉ đóng vai trò hỗ trợ gợi ý câu trả lời cho nhân viên thôi.
+[09:24] Phương án này rất an toàn. Vậy chị Hương bên CS giúp Nam lọc ra bộ câu hỏi FAQ chuẩn nhất và các quy trình xử lý khiếu nại hiện tại nhé. Chúng ta cần AI nói đúng "giọng" của công ty mình.
+[09:27] Vâng, em sẽ chuẩn bị bộ tài liệu này. Ngoài ra, em cũng muốn AI có khả năng tra cứu trạng thái đơn hàng trực tiếp cho khách luôn. Như vậy khách sẽ không cần hỏi "Đơn hàng của tôi đến đâu rồi?" nữa.
+[09:30] Để làm được việc đó, team AI cần phối hợp với team Backend để xây dựng các API kết nối giữa Chatbot và hệ thống quản lý đơn hàng (OMS). Tùng bên Backend thấy việc này có tốn nhiều thời gian không?
+[09:33] Về cơ bản là các API này mình đã có sẵn cho app rồi, chỉ cần mở thêm endpoint và thực hiện xác thực bảo mật cho Chatbot truy cập thôi. Chắc khoảng 1 tuần là em hoàn thiện xong phần kết nối này.
+[09:36] Rất tốt. Vậy lộ trình của mình sẽ là: Tuần 1-2 chuẩn bị dữ liệu và API. Tuần 3-4 huấn luyện và fine-tune model. Tuần 5 thử nghiệm nội bộ và tuần 6 bắt đầu chạy bản Beta cho 10% lượng khách hàng.
+[09:39] Em nghĩ mình nên có một giai đoạn "Shadow Mode". Nghĩa là AI sẽ chạy ngầm, đưa ra gợi ý nhưng không trực tiếp trả lời khách. Nhân viên CS sẽ đánh giá xem câu trả lời đó đúng hay sai để mình tiếp tục tối ưu model trước khi cho nó "tự bơi".
+[09:42] Ý tưởng Shadow Mode của Nam rất hay, nó giúp giảm thiểu rủi ro AI nói sai sự thật (hallucination). Vậy Nam ghi chú lại phần này vào kế hoạch triển khai nhé.
+[09:45] Về phần hạ tầng, mình sẽ chạy trên server GPU của công ty hay thuê cloud?
+[09:48] Giai đoạn thử nghiệm mình cứ dùng server GPU sẵn có để tiết kiệm. Khi nào scale lên toàn bộ hệ thống thì mình sẽ cân nhắc thuê thêm instance trên AWS hoặc Google Cloud sau.
+[09:51] Dạ vâng. Em sẽ bắt đầu viết script lọc dữ liệu ngay trong chiều nay.
+[09:54] Được rồi, cảm ơn cả team. Dự án này nếu thành công sẽ là một bước tiến lớn cho bộ phận CS nói riêng và cả công ty nói chung. Mọi người cùng cố gắng nhé!
+[09:57] Chào mọi người, chúng ta kết thúc cuộc họp.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai dự án tích hợp AI (LLM) vào hệ thống chăm sóc khách hàng (CS).
+- Giảm tải cho nhân viên trực chat và cải thiện chỉ số hài lòng khách hàng (CSAT).
+- Thống nhất lộ trình phát triển, giải pháp kỹ thuật và cơ chế phối hợp giữa các phòng ban.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng quá tải của team CS trong khung giờ cao điểm và thời gian chờ đợi của khách hàng quá lâu.
+- Sử dụng model Qwen2.5-3B để fine-tune cho tác vụ chatbot thông minh.
+- Quy trình xử lý dataset: thu thập lịch sử chat, phân loại FAQ và ẩn danh thông tin nhạy cảm.
+- Giải pháp "Human-in-the-loop": AI tự động chuyển cuộc gọi cho người khi gặp khách hàng nóng nảy.
+- Kết nối API giữa Chatbot và hệ thống quản lý đơn hàng (OMS) để tra cứu realtime.
+- Chiến lược triển khai "Shadow Mode" để đánh giá độ chính xác của AI trước khi public.
+- Lựa chọn hạ tầng server GPU nội bộ cho giai đoạn thử nghiệm để tối ưu chi phí.
+
+### 3. Kết luận và quyết định
+- Phê duyệt lộ trình triển khai dự án trong vòng 6 tuần (từ chuẩn bị dữ liệu đến chạy Beta).
+- Sử dụng dòng model Qwen2.5-3B làm nền tảng để fine-tune.
+- Áp dụng cơ chế Shadow Mode và Human-in-the-loop để đảm bảo an toàn vận hành.
+- Giao team AI xử lý dữ liệu, team Backend xây dựng API và team CS chuẩn bị bộ FAQ chuẩn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xây dựng script lọc và ẩn danh dữ liệu chat | Nam | 25/03/2026 |
+| Chuẩn bị bộ câu hỏi FAQ và quy trình CS chuẩn | Chị Hương | 28/03/2026 |
+| Mở endpoint API kết nối hệ thống OMS | Tùng | 01/04/2026 |
+| Huấn luyện và fine-tune model đợt 1 | Team AI | 15/04/2026 |
+| Triển khai thử nghiệm Shadow Mode | Team AI & CS | 25/04/2026 |
+| Chạy bản Beta cho 10% khách hàng | Ban Dự án | 05/05/2026 |

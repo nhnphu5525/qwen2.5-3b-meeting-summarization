@@ -1,0 +1,56 @@
+<|input|>
+[14:00] Chào bác sĩ Bình, chào chị Tuyết. Hôm nay ban giám đốc bệnh viện họp để rà soát quy trình tiếp nhận bệnh nhân cấp cứu và tình hình vật tư y tế hiện tại.
+[14:02] Chào anh Quang, tôi thấy thời gian trung bình từ lúc bệnh nhân nhập viện đến khi được xử lý chuyên môn vẫn còn hơi chậm, trung bình khoảng 15 phút. Chúng ta cần rút ngắn xuống còn dưới 10 phút.
+[14:04] Bác sĩ Bình nói đúng, em thấy khâu làm thủ tục hành chính tại quầy tiếp đón là mất thời gian nhất. Thân nhân thường bối rối và không mang đủ giấy tờ cần thiết.
+[14:06] Chị Tuyết có đề xuất gì để cải thiện chỗ này không? Liệu mình có thể áp dụng bệnh án điện tử để quét mã QR trên căn cước công dân gắn chip không?
+[14:08] Em đang làm việc với bên đối tác phần mềm để tích hợp tính năng này. Nếu triển khai được thì thời gian nhập liệu sẽ giảm đi đáng kể.
+[14:10] Rất tốt. Còn vấn đề vật tư tiêu hao thì sao bác sĩ Bình? Tôi nghe báo cáo là một số loại chỉ khâu phẫu thuật và găng tay y tế đang gần hết kho.
+[14:12] Đúng vậy anh Quang, tình trạng này đã kéo dài một tuần nay. Nếu không có vật tư thay thế kịp thời, chúng ta sẽ phải hoãn một số ca mổ chương trình để ưu tiên cho cấp cứu.
+[14:14] Chị Tuyết kiểm tra lại với bên nhà thầu cung ứng xem tại sao lại chậm trễ giao hàng như vậy. Có phải do vướng mắc về thủ tục thanh toán không?
+[14:16] Dạ không phải do thanh toán đâu ạ, bên nhà thầu báo là hàng đang bị kẹt tại cảng do quy định kiểm định mới. Em đã hối thúc họ giao trước một phần hàng dự phòng từ kho khác của họ rồi.
+[14:18] Chị phải bám sát việc này nhé, không để bệnh viện rơi vào thế bị động. Bác sĩ Bình giúp tôi kiểm tra lại danh mục thuốc thiết yếu xem có loại nào cũng đang ở mức báo động không?
+[14:20] Thuốc kháng sinh dòng cao và thuốc vận mạch hiện vẫn đủ dùng trong khoảng 2 tuần nữa. Tuy nhiên, tôi lo ngại về tình trạng hỏng hóc của máy CT-Scanner tại khoa chẩn đoán hình ảnh.
+[14:22] Cái máy đó lại hỏng nữa sao? Mới bảo trì tháng trước mà anh Bình?
+[14:24] Lần này là do bo mạch chính bị lỗi nhiệt. Bên kỹ thuật hãng báo là phải thay mới và chi phí khá cao.
+[14:26] Anh Quang ơi, em nghĩ mình nên cân nhắc việc ký hợp đồng bảo trì trọn gói hàng năm thay vì hỏng đâu sửa đó. Như vậy họ sẽ có trách nhiệm kiểm tra định kỳ thường xuyên hơn.
+[14:28] Ý kiến chị Tuyết rất đáng xem xét. Chị lập cho tôi một bảng so sánh chi phí giữa việc bảo trì theo vụ việc và bảo trì trọn gói cho toàn bộ máy móc lớn trong bệnh viện nhé.
+[14:30] Vâng anh, em sẽ làm ngay. Bác sĩ Bình cũng cần lưu ý việc đào tạo lại cho đội ngũ điều dưỡng về quy trình sàng lọc bệnh nhân ngay từ cửa vào để phân loại mức độ ưu tiên chính xác hơn.
+[14:32] Tôi đồng ý. Sáng thứ Hai tới tôi sẽ tổ chức một buổi sinh hoạt chuyên môn ngắn cho toàn bộ điều dưỡng khoa cấp cứu về vấn đề này.
+[14:34] Còn một việc nữa, phản hồi của bệnh nhân về thái độ phục vụ tại khoa khám bệnh dạo này hơi kém. Anh Quang nên có biện pháp nhắc nhở các tổ trưởng.
+[14:36] Cảm ơn bác sĩ Bình đã góp ý. Tôi sẽ trực tiếp xuống kiểm tra đột xuất và làm việc với các trưởng khoa về văn hóa ứng xử với bệnh nhân.
+[14:38] Thống nhất các đầu việc như vậy nhé. Chúng ta cố gắng nâng cao chất lượng dịch vụ để giữ uy tín cho bệnh viện.
+[14:40] Chúc hai người làm việc tốt.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và tối ưu quy trình tiếp nhận bệnh nhân cấp cứu.
+- Giải quyết tình trạng thiếu hụt vật tư y tế tiêu hao và kiểm soát danh mục thuốc thiết yếu.
+- Thảo luận phương án bảo trì trang thiết bị y tế quan trọng (máy CT-Scanner).
+
+### 2. Các vấn đề đã thảo luận
+- Thời gian tiếp nhận cấp cứu còn chậm (15 phút), mục tiêu rút ngắn xuống dưới 10 phút.
+- Khó khăn trong khâu thủ tục hành chính, đề xuất tích hợp quét mã QR CCCD gắn chip.
+- Tình trạng thiếu chỉ khâu và găng tay y tế do vướng mắc tại khâu kiểm định của nhà thầu.
+- Sự cố hỏng bo mạch chính của máy CT-Scanner và chi phí sửa chữa cao.
+- Đề xuất chuyển sang hợp đồng bảo trì trọn gói để đảm bảo tính ổn định của máy móc.
+- Phản hồi tiêu cực về thái độ phục vụ tại khoa khám bệnh.
+
+### 3. Kết luận và quyết định
+- Ưu tiên triển khai bệnh án điện tử và quét mã QR để giảm tải hành chính.
+- Yêu cầu nhà thầu giao hàng vật tư tiêu hao ngay lập tức từ nguồn dự phòng.
+- Tổ chức đào tạo lại quy trình sàng lọc bệnh nhân cho đội ngũ điều dưỡng vào thứ Hai tới.
+- Xem xét chuyển đổi hình thức bảo trì thiết bị y tế sang trọn gói hàng năm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tích hợp tính năng quét mã QR CCCD vào phần mềm quản lý | Chị Tuyết | 30/03/2024 |
+| Đôn đốc nhà thầu giao vật tư y tế tiêu hao | Chị Tuyết | 24/03/2024 |
+| So sánh chi phí các gói bảo trì trang thiết bị | Chị Tuyết | 27/03/2024 |
+| Sinh hoạt chuyên môn về quy trình sàng lọc bệnh nhân | Bác sĩ Bình | 25/03/2024 |
+| Kiểm tra và chấn chỉnh thái độ phục vụ tại các khoa | Anh Quang | 26/03/2024 |

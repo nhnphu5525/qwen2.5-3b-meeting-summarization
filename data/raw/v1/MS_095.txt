@@ -1,0 +1,61 @@
+<|input|>
+[09:00] Chào team, sáng nay mình kickoff dự án Mobile App mới cho khách hàng bên mảng bất động sản nhé.
+[09:02] Dạ, em đã xem qua cái bản yêu cầu nghiệp vụ (BRD) của họ rồi, nhìn chung là khá nhiều tính năng đấy.
+[09:03] Họ muốn có cả tích hợp bản đồ này, rồi xem nhà 3D, với lại nhắn tin trực tiếp với môi giới luôn đúng không anh?
+[09:05] Đúng rồi, cái tính năng xem nhà 3D (VR Tour) là quan trọng nhất, họ muốn tạo sự khác biệt với đối thủ mà.
+[09:06] Nhưng mà... em lo cái vụ hiệu năng app khi chạy VR ấy, nếu không tối ưu kỹ là máy yếu chạy lag lắm.
+[09:08] Ờ... mình nên dùng Flutter hay React Native cho dự án này nhỉ? Mọi người thấy cái nào ổn hơn?
+[09:09] Theo em thì Flutter có vẻ mượt hơn cho mấy cái chuyển cảnh phức tạp, nhưng mà team mình lại đang mạnh React Native hơn.
+[15:11] Hay là mình cứ làm một cái bản demo nhỏ (PoC) trước để test cái tính năng VR kia đi, xem nó hoạt động thế nào đã.
+[09:12] Ý kiến hay đó, chứ cứ đâm đầu vào làm luôn xong lúc sau sửa lại thì mệt lắm.
+[09:14] Về phần backend, họ yêu cầu lưu trữ dữ liệu lớn và phản hồi nhanh, mình có nên dùng Firebase hay là tự build một cái Node.js?
+[09:16] Em nghĩ là nên tự build Node.js đi cho nó chủ động, sau này khách hàng có muốn mở rộng tính năng cũng dễ hơn.
+[09:18] Okay, còn cái vụ bảo mật thì sao? App bất động sản liên quan đến tiền nong cọc cạch này kia nên phải cực kỳ cẩn thận nhé.
+[09:20] Dạ vâng, em sẽ thiết lập mấy cái lớp mã hóa dữ liệu với lại xác thực hai yếu tố (2FA) cho yên tâm.
+[09:21] Thêm một cái nữa là deadline của họ khá gấp, chỉ có 3 tháng để xong bản MVP thôi.
+[09:23] 3 tháng mà cả đống tính năng thế kia thì căng thật đấy, mình phải chia team ra làm song song thôi.
+[09:25] Anh Nam phụ trách lead team Frontend, còn Thắng tập trung xử lý phần VR Tour và tích hợp bản đồ nhé.
+[09:27] Vâng ạ, em sẽ lên danh sách các công việc cụ thể cho team ngay chiều nay.
+[09:28] Còn phần thiết kế UI/UX thì sao ạ? Khách hàng họ có yêu cầu đặc biệt gì về màu sắc thương hiệu không?
+[09:30] Họ muốn phong cách hiện đại, tối giản nhưng phải sang trọng, kiểu như tông màu xanh đen và vàng gold ấy.
+[09:32] Để em bảo bên thiết kế ra mấy cái sketch ban đầu rồi gửi cho họ duyệt sớm.
+[09:34] Thế chốt vậy nhé, tinh thần là phải tập trung cao độ ngay từ đầu, không là không kịp đâu.
+[09:36] Dạ, bọn em hiểu rồi ạ.
+[09:38] À... có gì khó khăn về thiết bị test hay server thì báo anh luôn để anh xử lý cho nhé.
+[09:39] Vâng, hiện tại em đang cần thêm 2 cái máy iPad đời mới để test cái VR kia cho nó chuẩn ạ.
+[09:40] Ok, để anh duyệt chi ngay, cứ yên tâm mà làm.
+[09:41] Cảm ơn sếp nhiều ạ.
+
+<|output|>
+# Dự án phát triển Mobile App Bất động sản
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khởi động dự án phát triển ứng dụng di động cho mảng bất động sản.
+- Thảo luận về các tính năng chính, đặc biệt là VR Tour (xem nhà 3D).
+- Lựa chọn công nghệ phát triển và phân chia nhân sự.
+
+### 2. Các vấn đề đã thảo luận
+- Các tính năng yêu cầu: VR Tour, bản đồ tích hợp, chat trực tiếp với môi giới.
+- Lựa chọn công nghệ: Cân nhắc giữa Flutter và React Native; quyết định làm PoC cho tính năng VR trước.
+- Backend: Sử dụng Node.js để tăng tính chủ động và khả năng mở rộng.
+- Bảo mật: Ưu tiên mã hóa dữ liệu và xác thực 2FA cho các giao dịch đặt cọc.
+- Thiết kế: Phong cách tối giản, sang trọng với tông màu xanh đen và vàng gold.
+- Tiến độ: Deadline 3 tháng cho bản MVP là một thách thức lớn.
+
+### 3. Kết luận và quyết định
+- Xây dựng bản PoC cho tính năng VR Tour để kiểm tra hiệu năng.
+- Tự build hệ thống Backend bằng Node.js.
+- Phân chia nhân sự: Anh Nam dẫn dắt Frontend, Thắng phụ trách VR và bản đồ.
+- Phê duyệt mua thêm thiết bị iPad phục vụ quá trình kiểm thử VR.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xây dựng bản PoC cho tính năng VR Tour | Thắng | 15/01/2026 |
+| Thiết kế sơ bộ UI/UX (Sketch) | Team Design | 20/01/2026 |
+| Thiết lập cấu trúc Backend và API ban đầu | Team Backend | 22/01/2026 |
+| Lập kế hoạch Sprint chi tiết cho 3 tháng | Anh Nam | 12/01/2026 |
+| Đề xuất và mua sắm thiết bị kiểm thử | Phòng Hành chính | 15/01/2026 |

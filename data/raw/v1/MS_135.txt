@@ -1,0 +1,60 @@
+<|input|>
+[08:00:00] Chào chị Hồng, chào Nam. Hôm nay chúng ta họp bàn về kế hoạch đấu thầu vật tư tiêu hao cho quý III tới của bệnh viện mình. Tình hình quý II vừa rồi có vẻ hơi căng thẳng về nguồn cung, nên quý này tôi muốn chúng ta phải chuẩn bị thật kỹ, tránh tình trạng thiếu hụt găng tay hay bơm kim tiêm như đợt trước.
+[08:02:15] Dạ báo cáo bác sĩ Tuấn, đúng là quý II mình bị "vướng" chỗ nhà cung cấp cũ họ bị đứt chuỗi cung ứng nên hàng về chậm. Rút kinh nghiệm, đợt này phòng Vật tư đã chủ động tìm thêm 3-4 đơn vị tiềm năng khác nữa rồi ạ.
+[08:04:30] Anh Nam bên Tài chính đã cân đối được nguồn vốn cho đợt thầu này chưa? Tôi nghe nói giá vật tư y tế trên thị trường đang có xu hướng tăng nhẹ đó.
+[08:06:45] Dạ vầy nè bác sĩ Tuấn, em đã xem qua dự toán của chị Hồng gửi sang. Tổng kinh phí dự kiến tăng khoảng 15% so với cùng kỳ năm ngoái. Một phần là do giá nguyên liệu đầu vào tăng, phần nữa là do mình có thêm 2 khoa mới đi vào hoạt động nên nhu cầu cũng cao hơn.
+[08:09:00] 15% là con số không nhỏ đâu nha. Chị Hồng ơi, mình có thể tối ưu hóa chỗ nào không? Ví dụ như gộp các gói thầu nhỏ lại thành gói lớn để ép giá nhà cung cấp xuống chẳng hạn?
+[08:11:15] Dạ cái này em cũng đã tính tới rồi bác sĩ. Em đang dự kiến chia làm 3 nhóm chính: Nhóm vật tư tiêu hao thông thường, Nhóm hóa chất xét nghiệm và Nhóm vật tư thay thế kỹ thuật cao. Việc gộp gói thầu thì mình phải làm đúng theo Luật Đấu thầu mới nhất, em cũng đang nhờ bên tư vấn hỗ trợ soạn thảo hồ sơ mời thầu cho nó chuẩn xác ạ.
+[08:13:30] Nhắc tới Luật Đấu thầu mới, Nam nhớ kiểm tra kỹ các quy định về chỉ định thầu trong trường hợp khẩn cấp nha. Đừng để vướng vào mấy cái lùm xùm pháp lý mệt lắm.
+[08:15:45] Dạ em nắm rõ rồi ạ. Hiện tại mình đang ưu tiên hình thức đấu thầu rộng rãi qua mạng để đảm bảo tính minh bạch. Tuy nhiên, có một số hóa chất đặc thù chỉ có một nhà cung cấp độc quyền thì mình phải làm thủ tục mua sắm trực tiếp hoặc thương thảo giá theo quy trình riêng bác sĩ ạ.
+[08:18:00] Ờ, cái đó thì đúng rồi. Mà Hồng nè, cái danh mục vật tư quý này có thay đổi gì nhiều không? Tôi thấy khoa Hồi sức cấp cứu họ đề xuất đổi loại dây truyền dịch mới sang loại có lọc khuẩn, giá có vẻ cao hơn loại cũ nhiều đấy.
+[08:20:15] Dạ đúng là bên Hồi sức có đề xuất như vậy. Qua khảo sát chuyên môn thì loại có lọc khuẩn giúp giảm tỷ lệ nhiễm khuẩn huyết đáng kể cho bệnh nhân nằm lâu. Em thấy đầu tư cái này tuy đắt hơn một chút nhưng lại tiết kiệm được chi phí điều trị biến chứng về sau cho bệnh nhân, xét về tổng thể thì lại có lợi hơn anh ạ.
+[08:22:30] Nghe cũng hợp lý. Nam thấy sao? Ngân sách có "gánh" nổi khoản này không em?
+[08:24:45] Dạ nếu bác sĩ Tuấn thấy cần thiết về mặt chuyên môn thì em sẽ cố gắng điều chuyển ngân sách từ các khoản chi không cấp thiết khác sang. Nhưng mà chị Hồng phải yêu cầu nhà cung cấp có cam kết về tiến độ giao hàng và hỗ trợ đào tạo sử dụng cho nhân viên y tế mình luôn nha.
+[08:27:00] Chắc chắn rồi Nam. Trong hồ sơ mời thầu đợt này, chị sẽ thêm điều khoản phạt nặng nếu chậm tiến độ giao hàng quá 5 ngày. Đợt trước mình hiền quá nên họ cứ nhởn nhơ mãi.
+[08:29:15] Tốt! À, còn một vấn đề nữa là khâu nhập kho và kiểm soát hạn dùng. Quý trước tôi đi kiểm tra vẫn thấy có một số lô gạc y tế sắp hết hạn mà chưa được luân chuyển. Đợt này Hồng chỉ đạo các khoa phòng rà soát lại quy trình này cho tôi.
+[08:31:30] Dạ em tiếp thu ý kiến của bác sĩ. Em sẽ cho áp dụng phần mềm quản lý kho mới vào đợt nhập hàng quý III này luôn. Hệ thống sẽ tự động cảnh báo khi hàng còn hạn dưới 6 tháng để mình kịp thời điều phối giữa các khoa.
+[08:33:45] Được vậy thì tốt quá. Còn về mốc thời gian, khi nào thì mình bắt đầu mở thầu được hả Hồng?
+[08:36:00] Dạ dự kiến là ngày 20 tháng này mình sẽ đăng thông báo mời thầu trên hệ thống mạng đấu thầu quốc gia. Sau 20 ngày thì mở thầu, rồi mất khoảng 2 tuần để chấm thầu và thẩm định. Nếu mọi chuyện suôn sẻ thì đầu tháng 8 mình sẽ có hàng về kho anh ạ.
+[08:38:15] Vậy là cũng hơi sát nút đó. Nam cố gắng duyệt các chứng từ liên quan thật nhanh giúp chị Hồng nhé. Bệnh viện mà thiếu vật tư là coi như "liệt" luôn, không làm ăn gì được đâu.
+[08:40:30] Dạ anh yên tâm, phòng Tài chính sẽ ưu tiên xử lý hồ sơ thầu này trong vòng 24 giờ kể từ khi nhận được tờ trình ạ.
+[08:42:45] OK, thống nhất vậy nhé. Hồng tập trung hoàn thiện danh mục kỹ thuật và cấu hình vật tư đi. Cần bác sĩ chuyên khoa nào tư vấn thêm thì cứ báo tôi để tôi điều động hỗ trợ.
+[08:45:00] Dạ em cảm ơn bác sĩ Tuấn. Em sẽ làm việc thêm với trưởng khoa Xét nghiệm để chốt các thông số hóa chất trong chiều nay ạ.
+[08:47:15] Ừ, thôi mình kết thúc họp ở đây. Chúc hai phòng phối hợp nhịp nhàng để quý tới bệnh viện mình vận hành trơn tru nhé.
+[08:49:30] Dạ chào bác sĩ Tuấn ạ.
+[08:51:45] Chào anh, chào chị Hồng nhé.
+
+<|output|>
+# Kế hoạch đấu thầu vật tư tiêu hao Quý III
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai công tác chuẩn bị đấu thầu vật tư tiêu hao cho Quý III/2024.
+- Đảm bảo nguồn cung ổn định, không để xảy ra tình trạng thiếu hụt vật tư y tế thiết yếu.
+- Cân đối ngân sách, tối ưu hóa chi phí và tuân thủ các quy định pháp luật về đấu thầu.
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình cung ứng Quý II: Gặp khó khăn do chuỗi cung ứng bị đứt gãy, cần tìm thêm các nhà cung cấp dự phòng.
+- Ngân sách Quý III: Dự kiến tăng 15% do biến động giá thị trường và nhu cầu từ 2 khoa mới thành lập.
+- Danh mục vật tư: Đồng ý cập nhật loại dây truyền dịch có lọc khuẩn cho khoa Hồi sức cấp cứu để nâng cao chất lượng điều trị.
+- Hình thức đấu thầu: Ưu tiên đấu thầu rộng rãi qua mạng; áp dụng quy trình riêng cho các hóa chất độc quyền.
+- Quản lý kho: Áp dụng phần mềm mới để kiểm soát hạn dùng (cảnh báo trước 6 tháng).
+- Các điều khoản hợp đồng: Bổ sung chế tài phạt chậm giao hàng để ràng buộc trách nhiệm nhà thầu.
+
+### 3. Kết luận và quyết định
+- Thống nhất danh mục và dự toán kinh phí cho đợt thầu Quý III.
+- Giao phòng Vật tư hoàn thiện hồ sơ mời thầu và đăng thông báo trước ngày 20/06.
+- Phòng Tài chính cam kết xử lý nhanh hồ sơ liên quan trong vòng 24 giờ.
+- Áp dụng hệ thống quản lý kho mới ngay sau khi nhập lô hàng Quý III.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện cấu hình kỹ thuật vật tư và hóa chất | Chị Hồng - Phòng Vật tư | 15/06/2024 |
+| Soạn thảo hồ sơ mời thầu và tờ trình | Chị Hồng - Phòng Vật tư | 18/06/2024 |
+| Thẩm định dự toán và duyệt ngân sách | Anh Nam - Phòng Tài chính | 19/06/2024 |
+| Đăng thông báo mời thầu trên hệ thống quốc gia | Chị Hồng - Phòng Vật tư | 20/06/2024 |
+| Mở thầu và tiến hành chấm thầu | Hội đồng đấu thầu | 10/07/2024 |
+| Công bố kết quả thầu và ký kết hợp đồng | Ban Giám đốc | 25/07/2024 |

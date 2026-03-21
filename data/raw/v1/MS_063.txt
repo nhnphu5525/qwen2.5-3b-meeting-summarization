@@ -1,0 +1,43 @@
+<|input|>
+[10:00] Chào mọi người, hôm nay team mình sẽ tập trung vào việc đánh giá rủi ro cho cái danh mục cổ phiếu ngành năng lượng của quỹ mình nha.
+[10:02] Ừm... ờ... hiện tại em đang lo nhất là cái nhóm cổ phiếu điện gió và điện mặt trời á anh. Gần đây chính sách về giá FIT đang có nhiều thay đổi quá.
+[10:04] Đúng rồi, cái này là rủi ro chính sách đó. Anh thấy mấy mã như POW hay GEG đang chịu áp lực bán tháo khá mạnh từ các quỹ ngoại.
+[10:06] Dạ là... vì... ngoài cái chính sách ra, em thấy cái tỷ lệ nợ vay trên vốn chủ sở hữu của mấy doanh nghiệp này đang ở mức cao. Nếu lãi suất tiếp tục duy trì ở mức này thì chi phí tài chính sẽ bào mòn lợi nhuận mất.
+[10:08] Ừ, em nói đúng. Phải check lại cái báo cáo tài chính quý gần nhất, xem khả năng thanh toán nợ của họ thế nào. Đặc biệt là các khoản vay bằng USD.
+[10:10] Dạ, em đã liệt kê ra rồi. Đa phần họ vay USD để nhập khẩu thiết bị từ Trung Quốc và EU. Tỷ giá đang tăng nên rủi ro là khá lớn.
+[10:12] Vậy thì thế này, tạm thời mình ngưng giải ngân mới vào nhóm này đi. Cần rà soát lại xem mã nào có cơ bản tốt, nợ vay ít để giữ lại, còn mã nào rủi ro quá thì phải cắt lỗ bớt.
+[10:14] Dạ, em sẽ hoàn thành cái báo cáo chi tiết về tỷ lệ nợ và tác động của tỷ giá vào cuối tuần này nha anh.
+[10:16] OK, còn cái mảng dầu khí thì sao? Anh thấy giá dầu thế giới đang hồi phục lại một chút rồi đó.
+[10:18] Mảng dầu khí thì ổn hơn ạ. PVS với PVD đang có nhiều hợp đồng mới. Em sẽ cập nhật thêm phần này vào báo cáo luôn.
+[10:20] Ừ, vậy chốt lại là thứ Hai tuần sau mình sẽ đưa ra quyết định cuối cùng về việc cơ cấu lại danh mục nha.
+
+<|output|>
+# Phân tích rủi ro đầu tư chứng khoán ngành năng lượng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá rủi ro danh mục cổ phiếu ngành năng lượng của quỹ.
+- Phân tích tác động của chính sách giá FIT, lãi suất và tỷ giá đến các mã cổ phiếu cụ thể.
+- Đề xuất phương án cơ cấu lại danh mục đầu tư.
+
+### 2. Các vấn đề đã thảo luận
+- Rủi ro chính sách: Những thay đổi về cơ chế giá điện tái tạo gây áp lực lên các mã như POW, GEG.
+- Rủi ro tài chính: Tỷ lệ nợ vay cao và gánh nặng lãi suất đe dọa lợi nhuận của doanh nghiệp năng lượng.
+- Rủi ro tỷ giá: Các khoản vay bằng USD để nhập khẩu thiết bị chịu ảnh hưởng tiêu cực khi tỷ giá tăng.
+- Cơ hội: Ngành dầu khí (PVS, PVD) đang có dấu hiệu tích cực nhờ giá dầu hồi phục và các hợp đồng mới.
+
+### 3. Kết luận và quyết định
+- Tạm ngưng giải ngân mới vào nhóm điện tái tạo.
+- Rà soát, đánh giá khả năng thanh toán nợ của từng doanh nghiệp trong danh mục.
+- Chuẩn bị báo cáo chi tiết về nợ vay và tỷ giá để phục vụ việc cơ cấu lại danh mục.
+- Chốt phương án xử lý danh mục vào thứ Hai tuần tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập báo cáo chi tiết tỷ lệ nợ và tác động tỷ giá | Team Phân tích | 24/05/2024 |
+| Đánh giá tình hình kinh doanh nhóm dầu khí | Team Phân tích | 24/05/2024 |
+| Rà soát báo cáo tài chính quý các mã điện gió | Phòng Kiểm soát rủi ro | 25/05/2024 |
+| Họp chốt cơ cấu danh mục | Ban Đầu tư | 27/05/2024 |

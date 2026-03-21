@@ -1,0 +1,49 @@
+<|input|>
+[08:00] Chào mọi người, hôm nay chúng ta họp về việc chuẩn bị cho lô hàng xoài xuất khẩu sang thị trường EU theo tiêu chuẩn GlobalGAP.
+[08:02] Phía đối tác vừa gửi thông báo về việc siết chặt dư lượng thuốc bảo vệ thực vật đối với các lô hàng nhập khẩu từ Việt Nam.
+[08:04] Em đã kiểm tra các vùng trồng tại Đồng Tháp, hiện tại bà con vẫn đang lạm dụng một số loại thuốc ngoài danh mục cho phép của EU.
+[08:06] Việc này rất nguy hiểm, nếu bị phát hiện tồn dư thì toàn bộ lô hàng sẽ bị hủy và mình bị cấm xuất khẩu vĩnh viễn vào thị trường này.
+[08:08] Chúng ta cần cử đội kỹ sư nông nghiệp xuống nằm vùng tại các hợp tác xã để hướng dẫn lại quy trình bón phân và xịt thuốc.
+[08:10] Ngoài ra, khâu thu hoạch và đóng gói cũng phải đảm bảo nhiệt độ lạnh liên tục để giữ độ tươi của trái xoài.
+[08:12] Anh Sơn (Kỹ thuật) xem lại hệ thống kho lạnh tại bãi tập kết, em thấy nhiệt độ dạo này hơi chập chờn.
+[08:14] Về bao bì, EU yêu cầu dùng hộp giấy tự hủy, không được dùng màng co nhựa như trước nữa.
+[08:16] Chi phí bao bì mới sẽ tăng khoảng 15%, mình cần đàm phán lại giá bán với bên mua để bù đắp phần này.
+[08:18] Tôi muốn có danh sách các hộ nông dân cam kết tuân thủ 100% quy trình trước thứ Sáu tới.
+[08:20] Bộ phận kiểm định (QC) phải lấy mẫu xét nghiệm tại chỗ trước khi cho đóng hàng lên container.
+[08:22] Chốt lại: Kiểm soát chặt vùng trồng, nâng cấp kho lạnh, thay đổi bao bì thân thiện môi trường và siết chặt quy trình QC.
+
+<|output|>
+# Chuẩn bị xuất khẩu nông sản sang EU theo tiêu chuẩn GlobalGAP
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đảm bảo lô hàng xoài xuất khẩu đáp ứng các tiêu chuẩn khắt khe về dư lượng hóa chất của EU.
+- Hoàn thiện quy trình thu hoạch, bảo quản lạnh và đóng gói sản phẩm.
+- Thống nhất danh sách các vùng trồng đạt chuẩn và phương án xử lý chi phí bao bì tăng thêm.
+
+### 2. Các vấn đề đã thảo luận
+- Nguy cơ từ việc lạm dụng thuốc bảo vệ thực vật ngoài danh mục tại các hợp tác xã.
+- Tình trạng hoạt động không ổn định của hệ thống kho lạnh tại bãi tập kết.
+- Quy định mới của EU về việc sử dụng bao bì giấy tự hủy thay thế nhựa.
+- Áp lực tăng chi phí sản xuất và nhu cầu đàm phán lại giá bán với đối tác.
+- Vai trò của đội ngũ kỹ sư nông nghiệp trong việc giám sát trực tiếp tại vùng trồng.
+
+### 3. Kết luận và quyết định
+- Cử kỹ sư nông nghiệp xuống hướng dẫn và giám sát trực tiếp tại Đồng Tháp.
+- Tiến hành bảo trì và nâng cấp hệ thống điều hòa kho lạnh ngay trong tuần.
+- Phê duyệt mẫu bao bì giấy mới theo yêu cầu của đối tác EU.
+- Thực hiện lấy mẫu xét nghiệm độc lập cho từng lô hàng trước khi xuất kho.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cử đội kỹ sư giám sát vùng trồng Đồng Tháp | Anh Sơn (Kỹ thuật) | 22/03/2026 |
+| Bảo trì hệ thống kho lạnh tập kết | Team Kỹ thuật | 25/03/2026 |
+| Đàm phán giá bán mới với đối tác EU | Phòng Kinh doanh | 28/03/2026 |
+| Đặt in mẫu bao bì giấy tự hủy mới | Phòng Thu mua | 30/03/2026 |
+| Tổng hợp danh sách hộ nông dân đạt chuẩn | Phòng Sản phẩm | 24/03/2026 |
+| Thực hiện lấy mẫu xét nghiệm dư lượng | Team QC | 05/04/2026 |
+| Soạn thảo hướng dẫn bón phân theo GlobalGAP | Kỹ sư nông nghiệp | 23/03/2026 |
+| Khảo sát thêm các vùng trồng dự phòng | Chưa rõ | 15/04/2026 |

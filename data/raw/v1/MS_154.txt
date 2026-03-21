@@ -1,0 +1,52 @@
+<|input|>
+[10:00:05] Hello anh em. Hôm nay mình ngồi lại tí để chốt vụ mua bản quyền mấy phần mềm thiết kế cho team Design với Marketing nha. Dạo này bên Adobe họ gắt quá, dùng "lậu" mãi cũng run tay.
+[10:01:20] Dạ đúng rồi anh, đợt vừa rồi máy em nó cứ hiện thông báo bản quyền hoài à, làm việc mà cứ sợ nó khóa giữa chừng thì toi công. Anh xem mình mua gói Creative Cloud All Apps luôn cho nó tiện được không?
+[10:02:45] Mua hết thì ngon quá rồi nhưng mà anh thấy chi phí nó cũng bộn à nha. Một tháng cũng mấy chục đô một user, nhân lên cả team thì con số không nhỏ đâu. Mình có cần thiết phải mua cho tất cả mọi người không?
+[10:04:10] Em thấy vầy nè, team Design 5 người thì chắc chắn phải có gói Full rồi vì các bạn dùng đủ thứ từ Photoshop, Illustrator đến After Effects. Còn bên Marketing thì có khi chỉ cần Photoshop với Premiere bản lẻ thôi cho nó rẻ.
+[10:05:35] Ừ, ý của Huy cũng hợp lý. Mà anh nghe nói giờ Adobe nó có gói cho Doanh nghiệp (Teams) á, quản lý tập trung luôn cho nó khỏe. Mai mốt ai nghỉ việc thì mình chuyển license cho người mới được, chứ mua lẻ tẻ theo account cá nhân thì khó quản lý lắm.
+[10:07:00] Dạ vầy nè anh, gói Teams nó có thêm tính năng lưu trữ đám mây chung nữa, anh em share file cho nhau cũng nhanh. Với lại mình cũng cần tính đến mấy phần mềm khác như Figma nữa. Team UI/UX đang đòi mua bản Pro để làm prototype cho nó mượt.
+[10:08:25] Figma thì anh thấy xứng đáng đầu tư nè. Dạo này mình làm dự án App nhiều, không có Figma Pro là anh em làm việc nhóm hơi bị cực. Còn vụ bản quyền Windows với Office cho cả công ty thì sao Nam? Thấy bên IT báo cáo là nhiều máy vẫn dùng bản "crack".
+[10:09:50] Dạ vụ Windows thì em đang đề xuất mua theo gói O365 Business luôn anh. Vừa có Office bản quyền, vừa có 1TB OneDrive cho mỗi người, tính ra lại kinh tế hơn là mua lẻ từng bộ Office. Máy nào chưa có Win bản quyền thì mình mua key lẻ OEM cho nó rẻ.
+[10:11:15] OEM thì rẻ thiệt nhưng mà nó dính cứng vào máy luôn á Nam. Sau này mình nâng cấp máy mới là mất key luôn. Thôi, thà mình mua bản Retail hoặc Volume License cho nó chắc ăn, dùng lâu dài cho công ty luôn.
+[10:12:40] Anh ơi, còn mấy cái phần mềm nhỏ nhỏ như Canva hay Freepik thì sao? Team Content hay dùng mấy cái này để lấy template với ảnh stock cho nhanh á.
+[10:14:05] Mấy cái đó thì mình mua một account dùng chung cho cả team thôi cũng được, tiết kiệm được đồng nào hay đồng đó. Quan trọng nhất vẫn là bộ Adobe với Office kìa, cái đó là công cụ kiếm cơm hàng ngày rồi.
+[10:15:30] Dạ, vậy để em tổng hợp lại danh sách: 5 gói Adobe Creative Cloud Teams, 3 gói lẻ Premiere cho Marketing, 10 account O365 Business và 5 license Figma Pro nha. Để em đi xin báo giá mấy bên đại lý ở Việt Nam thử coi có rẻ hơn mua trực tiếp trên web không.
+[10:16:55] Ừ, check kỹ mấy chỗ đại lý nha, nhiều khi họ có chiết khấu cho doanh nghiệp á. Với lại hỏi luôn vụ xuất hóa đơn VAT nha Nam. Công ty mình cần hóa đơn chuẩn để còn khấu trừ thuế nữa.
+[10:18:20] Dạ em biết rồi anh. Sẵn tiện em cũng rà soát lại luôn mấy cái phần mềm diệt virus. Dùng đồ bản quyền rồi mà máy dính virus thì cũng như không hà.
+[10:19:45] Tốt! Làm gắt vụ này một lần cho nó chuyên nghiệp luôn. Làm việc cho công ty lớn mà cứ dùng phần mềm lậu hoài thấy nó cứ "phèn phèn" sao á, mà lại rủi ro bảo mật nữa.
+[10:21:10] Dạ, vậy em triển khai luôn nha anh. Hy vọng tuần sau là anh em có "đồ chơi" mới để làm việc cho nó sướng.
+[10:22:35] OK, chốt vậy đi. Cảm ơn Nam, cảm ơn Huy nha. Giải tán thôi!
+
+<|output|>
+# Thảo luận mua bản quyền phần mềm thiết kế và văn phòng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát thực trạng sử dụng phần mềm trong công ty và giải quyết vấn đề bản quyền.
+- Lên danh sách và dự toán kinh phí mua bản quyền các phần mềm thiết kế (Adobe, Figma) và văn phòng (Office, Windows).
+- Đảm bảo tính pháp lý, bảo mật và tối ưu hóa chi phí đầu tư phần mềm cho doanh nghiệp.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng sử dụng phần mềm không bản quyền (Adobe, Windows) gây rủi ro về pháp lý và bảo mật dữ liệu.
+- Phân bổ license: Team Design cần gói đầy đủ (All Apps), team Marketing chỉ cần một số phần mềm chuyên dụng để tiết kiệm.
+- Lựa chọn hình thức mua: Ưu tiên gói dành cho doanh nghiệp (Teams) để dễ quản lý, linh hoạt chuyển đổi user và có hỗ trợ lưu trữ đám mây.
+- Đề xuất sử dụng Office 365 Business để kết hợp cả bản quyền Office và lưu trữ OneDrive.
+- Cần trang bị Figma Pro cho team UI/UX để tăng hiệu quả làm việc nhóm và làm prototype.
+- Xem xét mua các tài khoản dùng chung cho các công cụ hỗ trợ như Canva, Freepik.
+
+### 3. Kết luận và quyết định
+- Đồng ý chủ trương mua bản quyền toàn bộ các phần mềm thiết kế và văn phòng thiết yếu.
+- Giao bộ phận IT liên hệ các đại lý chính hãng tại Việt Nam để lấy báo giá chiết khấu và đảm bảo việc xuất hóa đơn VAT đúng quy định.
+- Chốt số lượng dự kiến: 5 gói Adobe CC Teams, 3 gói lẻ Premiere, 10 account O365, 5 license Figma Pro.
+- Sau khi có bản quyền, bộ phận IT sẽ tiến hành cài đặt sạch lại các máy để đảm bảo không còn tàn dư của các bản "crack".
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ lấy báo giá từ các đại lý phần mềm và so sánh giá | Nam (IT) | 18/10/2023 |
+| Tổng hợp danh sách user chính xác cần cấp license | Huy (Design) | 16/10/2023 |
+| Trình duyệt kinh phí cuối cùng lên Ban Giám đốc | Anh trưởng phòng | 20/10/2023 |
+| Thực hiện mua và phân bổ license cho các bộ phận | IT | 25/10/2023 |
+| Kiểm tra và quét virus toàn bộ hệ thống máy tính sau khi cài đặt | IT | 27/10/2023 |

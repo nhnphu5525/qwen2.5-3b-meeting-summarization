@@ -1,0 +1,46 @@
+<|input|>
+[10:30] Chào anh Đức và các anh chị bên phòng CNTT. Hôm nay chúng ta họp để bàn về tiến độ triển khai hệ thống bệnh án điện tử (EMR) cho toàn bệnh viện. Hiện tại mình đã hoàn thành xong giai đoạn nhập liệu thử nghiệm cho khoa Nội tổng quát chưa anh?
+[10:33] Báo cáo chị, phần nhập liệu thử nghiệm cơ bản đã xong. Tuy nhiên, các bác sĩ phản hồi là giao diện nhập toa thuốc vẫn còn hơi rắc rối, mất nhiều thời gian hơn so với viết tay. Ngoài ra, việc kết nối dữ liệu từ máy xét nghiệm cũ sang hệ thống mới vẫn còn gặp lỗi định dạng.
+[10:36] Cái này tôi đã dự lường trước. Việc thay đổi thói quen từ viết tay sang gõ máy bao giờ cũng khó khăn lúc đầu. Nhưng mà anh Đức ơi, lỗi kết nối máy xét nghiệm là vấn đề kỹ thuật lớn, mình phải ưu tiên xử lý ngay. Nếu không có kết quả xét nghiệm realtime thì hệ thống bệnh án điện tử coi như mất đi một nửa giá trị.
+[10:39] Dạ em biết ạ. Em đã liên hệ với bên cung cấp thiết bị xét nghiệm để họ hỗ trợ API. Dự kiến trong tuần sau sẽ xử lý xong phần mapping dữ liệu. Còn về giao diện toa thuốc, em sẽ cho đội UI/UX xuống ngồi trực tiếp với các bác sĩ để tinh chỉnh lại các phím tắt và mẫu toa thuốc có sẵn, giúp thao tác nhanh hơn.
+[10:42] Tốt lắm. Còn vấn đề bảo mật dữ liệu thì sao? Bệnh án điện tử chứa thông tin rất nhạy cảm của bệnh nhân, mình phải đảm bảo hệ thống phân quyền cực kỳ chặt chẽ. Chị Hạnh bên phòng kế hoạch thấy quy trình hiện tại ổn chưa?
+[10:45] Theo em, mình cần bổ sung thêm bước xác thực hai lớp (2FA) khi bác sĩ đăng nhập từ các thiết bị di động hoặc máy tính bảng của bệnh viện. Ngoài ra, mọi thao tác chỉnh sửa bệnh án đều phải được lưu log rõ ràng: ai sửa, sửa lúc nào và sửa nội dung gì. 
+[10:48] Ý kiến của chị Hạnh rất đúng. Anh Đức bổ sung tính năng lưu vết (audit trail) này vào hệ thống nhé. Đây là yêu cầu bắt buộc của Bộ Y tế khi triển khai EMR đấy.
+[10:51] Vâng chị, phần log dữ liệu em đã xây dựng rồi, giờ chỉ cần hoàn thiện giao diện báo cáo cho ban giám đốc dễ theo dõi thôi. Còn về hạ tầng wifi tại các khoa, em thấy vẫn còn nhiều góc khuất bị mất sóng, gây gián đoạn khi điều dưỡng đi buồng và cập nhật thông tin trên tablet.
+[10:54] Vậy thì phải lắp thêm các bộ phát sóng chuyên dụng ngay. Chị Hạnh giúp anh Đức làm thủ tục mua sắm bổ sung 20 bộ phát wifi chuẩn công nghiệp nhé. Mình không thể để hệ thống bị "treo" chỉ vì sóng yếu được.
+[10:57] Dạ, em sẽ trình ký hồ sơ mua sắm trong chiều nay để kịp có hàng vào tuần sau ạ.
+[11:00] Ok, vậy mục tiêu là đến cuối tháng sau mình phải triển khai được cho ít nhất 3 khoa nữa. Mọi người cố gắng tập trung nhé, đây là bước ngoặt lớn trong việc chuyển đổi số của bệnh viện mình.
+[11:03] Cảm ơn mọi người, chúng ta kết thúc tại đây.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tiến độ triển khai bệnh án điện tử (EMR) tại khoa Nội tổng quát.
+- Xử lý các lỗi kỹ thuật về kết nối thiết bị và trải nghiệm người dùng.
+- Tăng cường bảo mật thông tin và nâng cấp hạ tầng mạng.
+
+### 2. Các vấn đề đã thảo luận
+- Giao diện nhập toa thuốc chưa tối ưu, tốn thời gian hơn viết tay.
+- Lỗi định dạng dữ liệu khi truyền kết quả từ máy xét nghiệm cũ sang hệ thống EMR.
+- Yêu cầu bổ sung xác thực 2 lớp (2FA) và tính năng lưu vết (audit trail) để đảm bảo an toàn dữ liệu.
+- Tình trạng sóng wifi không ổn định tại một số khu vực trong khoa, gây gián đoạn công việc.
+- Kế hoạch mở rộng triển khai cho 3 khoa tiếp theo trong tháng sau.
+
+### 3. Kết luận và quyết định
+- Tinh chỉnh giao diện nhập liệu dựa trên phản hồi thực tế của bác sĩ.
+- Phối hợp với nhà cung cấp thiết bị để hoàn thiện API kết nối máy xét nghiệm.
+- Triển khai tính năng audit trail và xác thực 2 lớp theo quy định của Bộ Y tế.
+- Mua sắm và lắp đặt bổ sung 20 bộ phát wifi công nghiệp để đảm bảo hạ tầng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý lỗi mapping dữ liệu máy xét nghiệm | Phòng CNTT | 25/03/2026 |
+| Tối ưu giao diện nhập toa thuốc và phím tắt | Đức | 28/03/2026 |
+| Làm thủ tục mua sắm thiết bị wifi bổ sung | Chị Hạnh | 20/03/2026 |
+| Hoàn thiện tính năng Audit trail và 2FA | Phòng CNTT | 05/04/2026 |
+| Triển khai đào tạo sử dụng cho 3 khoa mới | Ban Dự án | 15/04/2026 |

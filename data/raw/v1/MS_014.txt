@@ -1,0 +1,41 @@
+<|input|>
+[15:00] Chào chị Lan, anh Minh. Chúng ta bắt đầu buổi họp rà soát số liệu quyết toán thuế cho năm tài chính vừa rồi.
+[15:02] Có một số khoản chi phí tiếp khách vượt định mức 10% nhưng chứng từ chưa đầy đủ, chị cần các bộ phận bổ sung ngay.
+[15:04] Về phần tài sản cố định, có 3 máy in mới nhập từ tháng 11 nhưng chưa thấy trích khấu hao trong bảng cân đối.
+[15:06] Để em kiểm tra lại, có thể kế toán phần hành quên chưa cập nhật vào phần mềm.
+[15:08] Khoản công nợ phải thu của công ty X đã quá hạn 6 tháng, theo quy định mình phải trích lập dự phòng nợ phải thu khó đòi.
+[15:10] Anh Minh làm việc lại với bên kinh doanh xem họ có cam kết trả nợ trong quý tới không, nếu không thì phải lập dự phòng ngay để tránh rủi ro khi kiểm toán vào.
+[15:12] Về thuế thu nhập cá nhân, có một vài nhân sự mới vào chưa làm cam kết 08 nên mình vẫn đang khấu trừ 10% tại nguồn.
+[15:14] Nhờ nhân sự thông báo cho các bạn đó bổ sung hồ sơ để mình kịp điều chỉnh trước khi chốt sổ.
+[15:16] Chốt lại: Hoàn thiện chứng từ chi phí, kiểm tra khấu hao và trích lập dự phòng nợ xấu.
+
+<|output|>
+# Rà soát số liệu quyết toán thuế và công nợ năm tài chính
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Kiểm tra tính hợp lệ và đầy đủ của chứng từ chi phí trước khi quyết toán thuế.
+- Rà soát việc trích khấu hao tài sản cố định và xử lý các khoản công nợ quá hạn.
+- Đảm bảo tuân thủ các quy định về thuế thu nhập cá nhân cho nhân viên.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí tiếp khách vượt định mức và thiếu chứng từ đi kèm.
+- Sai sót trong việc trích khấu hao máy móc thiết bị mới nhập.
+- Khoản nợ quá hạn của đối tác X cần được xử lý trích lập dự phòng.
+- Hồ sơ thuế thu nhập cá nhân cho nhân viên mới chưa hoàn thiện.
+
+### 3. Kết luận và quyết định
+- Yêu cầu bổ sung đầy đủ chứng từ trước ngày chốt sổ.
+- Cập nhật lại bảng trích khấu hao trên phần mềm kế toán.
+- Thực hiện trích lập dự phòng cho các khoản nợ quá hạn nếu không có cam kết thanh toán.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thu hồi và kiểm tra chứng từ chi phí tiếp khách | Kế toán Lan | 25/03/2026 |
+| Cập nhật khấu hao máy in trên phần mềm | Anh Minh | 22/03/2026 |
+| Làm việc với đối tác X về kế hoạch trả nợ | Phòng Kinh doanh | 30/03/2026 |
+| Thông báo nhân sự bổ sung hồ sơ cam kết thuế | Phòng Nhân sự | 24/03/2026 |
+| Lập bảng dự toán trích lập dự phòng nợ xấu | Kế toán Lan | 31/03/2026 |

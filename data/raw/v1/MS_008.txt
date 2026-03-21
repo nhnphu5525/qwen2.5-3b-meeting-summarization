@@ -1,0 +1,60 @@
+<|input|>
+[16:00] Chào mọi người, hôm nay chúng ta họp bàn về kế hoạch triển khai dự án khu dân cư mới tại khu vực Quận 9.
+[16:02] Hiện tại quỹ đất đã sạch, thủ tục pháp lý cơ bản đã hoàn tất, chúng ta cần chốt phương án thiết kế kiến trúc và định giá sản phẩm.
+[16:04] Theo nghiên cứu thị trường, nhu cầu về căn hộ trung cao cấp ở khu vực này đang tăng rất mạnh nhờ hạ tầng giao thông (đường Vành đai 3) đang hoàn thiện.
+[16:06] Tôi thấy mình nên thiết kế theo phong cách hiện đại, xanh và có nhiều tiện ích thông minh (Smart Home) để thu hút giới trẻ.
+[16:08] Liệu chi phí lắp đặt Smart Home có đẩy giá thành lên quá cao không? Khách hàng bây giờ rất nhạy cảm về giá.
+[16:10] Nếu mình nhập linh kiện số lượng lớn và hợp tác chiến lược với các hãng như Xiaomi hay Lumi thì chi phí tăng thêm không đáng kể so với giá trị mang lại.
+[16:12] Về mảng cảnh quan, em đề xuất mình dành ít nhất 30% diện tích cho cây xanh và hồ nước nhân tạo để tạo không gian sống trong lành.
+[16:14] 30% thì hơi nhiều, mình sẽ mất bớt diện tích thương mại. Anh nghĩ 20% là con số hợp lý hơn, mình sẽ bù lại bằng các vườn treo trên cao.
+[16:16] Vườn treo trên cao cũng là một điểm nhấn marketing rất tốt, giúp căn hộ của mình khác biệt so với các dự án xung quanh.
+[16:18] Còn về tiến độ xây dựng, bên nhà thầu báo là giá vật liệu xây dựng (thép và xi măng) đang có xu hướng tăng, cần chốt hợp đồng sớm để giữ giá.
+[16:20] Anh Nam làm việc lại với nhà thầu, yêu cầu họ cam kết tiến độ và chất lượng, đồng thời xem xét phương án ứng trước tiền vật liệu.
+[16:22] Về truyền thông, chiến dịch "Sống xanh giữa lòng thành phố" em thấy vẫn rất hiệu quả. Mình sẽ bắt đầu chạy teaser từ tháng sau.
+[16:24] Chúng ta cũng cần chú trọng vào việc hỗ trợ tài chính cho người mua. Có ngân hàng nào đồng ý liên kết với mình chưa?
+[16:26] Ngân hàng V và Ngân hàng S đã gửi đề xuất hỗ trợ vay tối đa 70% trong vòng 20 năm với lãi suất ưu đãi 12 tháng đầu.
+[16:28] Quá tốt, hãy chọn ngân hàng có quy trình xét duyệt nhanh gọn nhất để tạo thuận lợi cho khách hàng.
+[16:30] Có một vấn đề là khu đất của mình hơi xa trung tâm, khách hàng lo ngại về việc di chuyển.
+[16:32] Mình có thể cam kết triển khai 2 tuyến xe bus đưa đón cư dân miễn phí vào trung tâm trong 2 năm đầu tiên để họ yên tâm.
+[16:34] Ý kiến này rất thực tế, hãy đưa vào gói tiện ích mở rộng của dự án luôn.
+[16:36] Tổng kết lại: Chốt phương án thiết kế 20% mảng xanh kèm vườn treo, Smart Home cơ bản, liên kết ngân hàng và triển khai xe bus đưa đón.
+[16:38] Kế hoạch chi tiết và bản vẽ sơ bộ trình Ban giám đốc vào cuối tháng nhé.
+[16:40] Vâng ạ, team kiến trúc sẽ tập trung hoàn thiện bản vẽ ngay.
+[16:42] Kết thúc họp, chúc mọi người tuần làm việc hiệu quả.
+
+<|output|>
+# Kế hoạch triển khai dự án khu dân cư Quận 9
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hướng thiết kế kiến trúc và tiện ích cho dự án khu dân cư mới.
+- Thảo luận phương án cạnh tranh về giá và hỗ trợ tài chính cho khách hàng.
+- Xây dựng chiến lược marketing và giải quyết các lo ngại về vị trí địa lý của dự án.
+- Rà soát công tác quản lý chi phí xây dựng trong bối cảnh giá vật liệu biến động.
+
+### 2. Các vấn đề đã thảo luận
+- Tận dụng lợi thế hạ tầng (Vành đai 3) để đẩy mạnh phân khúc trung cao cấp.
+- Thiết kế tích hợp Smart Home và chú trọng không gian xanh (20% diện tích cảnh quan + vườn treo).
+- Áp lực tăng giá vật liệu xây dựng và yêu cầu chốt hợp đồng sớm với nhà thầu.
+- Hỗ trợ tài chính qua các ngân hàng liên kết với lãi suất ưu đãi và thủ tục nhanh.
+- Giải pháp xe bus đưa đón cư dân miễn phí để xóa bỏ rào cản về khoảng cách tới trung tâm.
+- Chiến dịch marketing tập trung vào thông điệp "Sống xanh" và "Tiện ích hiện đại".
+
+### 3. Kết luận và quyết định
+- Thống nhất phong cách kiến trúc hiện đại, tích hợp Smart Home cho tất cả căn hộ.
+- Duy trì tỉ lệ mảng xanh tối ưu kết hợp vườn treo để tạo sự khác biệt thương hiệu.
+- Đàm phán và chốt hợp đồng giữ giá với các đơn vị cung ứng vật liệu xây dựng trong tháng này.
+- Lựa chọn ngân hàng hỗ trợ vay vốn tốt nhất để tích hợp vào chương trình bán hàng.
+- Phê duyệt triển khai tuyến xe bus riêng phục vụ cư dân trong giai đoạn đầu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản vẽ kiến trúc và phối cảnh 3D | Team Kiến trúc | 25/03 |
+| Đàm phán giữ giá vật liệu với nhà thầu | Anh Nam | 28/03 |
+| Ký kết hợp đồng liên kết với Ngân hàng | Team Tài chính | 05/04 |
+| Xây dựng kịch bản truyền thông và teaser | Team Marketing | 10/04 |
+| Khảo sát và lập phương án tuyến xe bus cư dân | Team Vận hành | 15/04 |
+| Trình dự toán chi phí đầu tư dự án | Ban Giám đốc | 30/03 |

@@ -1,0 +1,196 @@
+<|input|>
+[09:00] Đừng quên vụ thép cũng quan trọng không kém nhé.
+[09:01] Thế thì mình chốt phương án cho thép luôn đi, đừng kéo dài nữa.
+[09:02] Dạ Tôi sẽ phụ trách kiểm tra lại thép rồi báo lại cả team vào chiều mai.
+[09:03] Hình như Cảm ơn mọi người, cuộc họp về Công nghiệp nặng tạm dừng tại đây.
+[09:08] Thực ra Tôi thấy nguyên liệu đầu vào hiện tại là cơ hội tốt để mình bứt phá.
+[09:10] Thì Đừng quên vụ khu công nghiệp cũng quan trọng không kém nhé.
+[09:12] Hình như Về dài hạn thì khu công nghiệp sẽ là trọng tâm của năm nay.
+[09:07] Chắc là Mọi người nghe rõ không? Về cái nhà máy này tôi thấy có vẻ hơi vướng.
+[09:16] Vấn đề thép thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:18] Vụ thép thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:10] Thì Thế thì mình chốt phương án cho thép luôn đi, đừng kéo dài nữa.
+[09:22] Thì đấy Vấn đề linh kiện thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:12] Vấn đề dây chuyền sản xuất thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:26] Về dài hạn thì linh kiện sẽ là trọng tâm của năm nay.
+[09:14] Thôi được rồi, vậy thống nhất là triển khai nhà máy theo hướng đó.
+[09:30] Mọi người nghe rõ không? Về cái linh kiện này tôi thấy có vẻ hơi vướng.
+[09:32] Vụ nguyên liệu đầu vào thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:34] Hay là mình thử thay đổi cách tiếp cận với khu công nghiệp xem sao?
+[09:36] Thì đấy Cần phải làm rõ hơn về linh kiện trong hợp đồng mới.
+[09:19] Về dài hạn thì nguyên liệu đầu vào sẽ là trọng tâm của năm nay.
+[09:20] Mọi người có ý kiến gì thêm về thép không?
+[09:21] Tôi thấy dây chuyền sản xuất hiện tại là cơ hội tốt để mình bứt phá.
+[09:22] Hay là mình thử thay đổi cách tiếp cận với nhà máy xem sao?
+[09:23] À Hay là mình thử thay đổi cách tiếp cận với nhà máy xem sao?
+[09:24] Hay là mình thử thay đổi cách tiếp cận với nguyên liệu đầu vào xem sao?
+[09:25] Thế thì mình chốt phương án cho dây chuyền sản xuất luôn đi, đừng kéo dài nữa.
+[09:26] Đúng rồi, cái linh kiện cần được ưu tiên xử lý trước thứ Sáu này.
+[09:54] Chắc là Vấn đề khu công nghiệp thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:28] Cái linh kiện này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:58] Tôi thấy nguyên liệu đầu vào hiện tại là cơ hội tốt để mình bứt phá.
+[09:30] Cái nhà máy này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:31] Hình như Tôi lo nhất là cái thép, tiến độ đang bị khựng lại.
+[10:04] Nói chung là Cái nguyên liệu đầu vào này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[10:06] Vâng Tôi sẽ phụ trách kiểm tra lại nhà máy rồi báo lại cả team vào chiều mai.
+[10:08] Hay là mình thử thay đổi cách tiếp cận với linh kiện xem sao?
+[10:10] Vâng Tôi sẽ phụ trách kiểm tra lại khu công nghiệp rồi báo lại cả team vào chiều mai.
+[10:12] Tôi thấy dây chuyền sản xuất hiện tại là cơ hội tốt để mình bứt phá.
+[09:37] Mọi người nghe rõ không? Về cái nhà máy này tôi thấy có vẻ hơi vướng.
+[09:38] Hình như Tôi thấy linh kiện hiện tại là cơ hội tốt để mình bứt phá.
+[09:39] Thì đấy Thôi được rồi, vậy thống nhất là triển khai khu công nghiệp theo hướng đó.
+[09:40] Bên đối tác họ cứ hỏi mãi về dây chuyền sản xuất, mình phải trả lời sao đây?
+[10:22] Ờm Mọi người nghe rõ không? Về cái khu công nghiệp này tôi thấy có vẻ hơi vướng.
+[09:42] Về phần ngân sách cho nhà máy, sếp đã duyệt chưa nhỉ?
+[10:26] Bên đối tác họ cứ hỏi mãi về linh kiện, mình phải trả lời sao đây?
+[10:28] Về dài hạn thì thép sẽ là trọng tâm của năm nay.
+[09:45] Tôi lo nhất là cái thép, tiến độ đang bị khựng lại.
+[10:32] Ờm Tôi thấy nhà máy hiện tại là cơ hội tốt để mình bứt phá.
+[09:47] Tôi thấy nguyên liệu đầu vào hiện tại là cơ hội tốt để mình bứt phá.
+[09:48] Tóm lại Tôi sẽ phụ trách kiểm tra lại nguyên liệu đầu vào rồi báo lại cả team vào chiều mai.
+[10:38] Về phần ngân sách cho dây chuyền sản xuất, sếp đã duyệt chưa nhỉ?
+[10:40] Cái nhà máy này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:51] À Hay là mình thử thay đổi cách tiếp cận với thép xem sao?
+[10:44] Thì đấy Đừng quên vụ nguyên liệu đầu vào cũng quan trọng không kém nhé.
+[10:46] Tóm lại Về dài hạn thì nhà máy sẽ là trọng tâm của năm nay.
+[09:54] Ai sẽ chịu trách nhiệm chính cho mảng linh kiện nhỉ?
+[09:55] Cái linh kiện này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[10:52] Thôi được rồi, vậy thống nhất là triển khai nguyên liệu đầu vào theo hướng đó.
+[10:54] Ờm Đúng rồi, cái linh kiện cần được ưu tiên xử lý trước thứ Sáu này.
+[09:58] Ai sẽ chịu trách nhiệm chính cho mảng nhà máy nhỉ?
+[09:59] Mọi người có ý kiến gì thêm về linh kiện không?
+[11:00] Thực ra Cái nguyên liệu đầu vào này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[11:02] Cảm ơn mọi người, cuộc họp về Công nghiệp nặng tạm dừng tại đây.
+[11:04] Tôi lo nhất là cái nguyên liệu đầu vào, tiến độ đang bị khựng lại.
+[11:06] Cái nguyên liệu đầu vào này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[11:08] Mọi người có ý kiến gì thêm về khu công nghiệp không?
+[10:05] À Vấn đề dây chuyền sản xuất thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[11:12] Nói chung là Vấn đề dây chuyền sản xuất thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[11:14] Thì đấy Vấn đề nguyên liệu đầu vào thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[10:08] Về dài hạn thì nguyên liệu đầu vào sẽ là trọng tâm của năm nay.
+[10:09] Vâng Về phần ngân sách cho khu công nghiệp, sếp đã duyệt chưa nhỉ?
+[10:10] Ờm Về dài hạn thì thép sẽ là trọng tâm của năm nay.
+[10:11] Cảm ơn mọi người, cuộc họp về Công nghiệp nặng tạm dừng tại đây.
+[10:12] Tóm lại Vấn đề thép thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[11:26] Hình như Vụ nhà máy thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[11:28] Chắc là Ai sẽ chịu trách nhiệm chính cho mảng thép nhỉ?
+[11:30] Tôi sẽ phụ trách kiểm tra lại linh kiện rồi báo lại cả team vào chiều mai.
+[10:16] Mọi người nghe rõ không? Về cái thép này tôi thấy có vẻ hơi vướng.
+[10:17] Thì đấy Ai sẽ chịu trách nhiệm chính cho mảng nhà máy nhỉ?
+[10:18] Ai sẽ chịu trách nhiệm chính cho mảng nguyên liệu đầu vào nhỉ?
+[10:19] Vâng Về phần ngân sách cho dây chuyền sản xuất, sếp đã duyệt chưa nhỉ?
+[10:20] Thực ra Mọi người có ý kiến gì thêm về khu công nghiệp không?
+[10:21] Hình như Tôi sẽ phụ trách kiểm tra lại linh kiện rồi báo lại cả team vào chiều mai.
+[10:22] Thực ra Thôi được rồi, vậy thống nhất là triển khai thép theo hướng đó.
+[10:23] Tóm lại Để tôi check lại lịch của bên nguyên liệu đầu vào xem họ rảnh khi nào.
+[10:24] Thế thì mình chốt phương án cho thép luôn đi, đừng kéo dài nữa.
+[11:50] À Về dài hạn thì nguyên liệu đầu vào sẽ là trọng tâm của năm nay.
+[11:52] Hình như Vấn đề nguyên liệu đầu vào thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[11:54] Về phần ngân sách cho dây chuyền sản xuất, sếp đã duyệt chưa nhỉ?
+[10:28] Tôi thấy nguyên liệu đầu vào hiện tại là cơ hội tốt để mình bứt phá.
+[10:29] Thôi được rồi, vậy thống nhất là triển khai thép theo hướng đó.
+[12:00] À Về phần ngân sách cho linh kiện, sếp đã duyệt chưa nhỉ?
+[10:31] Dạ Đúng rồi, cái linh kiện cần được ưu tiên xử lý trước thứ Sáu này.
+[12:04] Tôi lo nhất là cái nhà máy, tiến độ đang bị khựng lại.
+[12:06] Vâng Đúng rồi, cái khu công nghiệp cần được ưu tiên xử lý trước thứ Sáu này.
+[10:34] Vụ linh kiện thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[12:10] Tóm lại Về phần ngân sách cho dây chuyền sản xuất, sếp đã duyệt chưa nhỉ?
+[10:36] Cần phải làm rõ hơn về nguyên liệu đầu vào trong hợp đồng mới.
+[10:37] Thì đấy Tôi thấy nguyên liệu đầu vào hiện tại là cơ hội tốt để mình bứt phá.
+[10:38] Dạ Về dài hạn thì nguyên liệu đầu vào sẽ là trọng tâm của năm nay.
+[10:39] Hay là mình thử thay đổi cách tiếp cận với dây chuyền sản xuất xem sao?
+[12:20] Thực ra Đúng rồi, cái khu công nghiệp cần được ưu tiên xử lý trước thứ Sáu này.
+[12:22] À Mọi người nghe rõ không? Về cái thép này tôi thấy có vẻ hơi vướng.
+[12:24] Thế thì mình chốt phương án cho thép luôn đi, đừng kéo dài nữa.
+[12:26] Ai sẽ chịu trách nhiệm chính cho mảng khu công nghiệp nhỉ?
+[12:28] Thế thì mình chốt phương án cho khu công nghiệp luôn đi, đừng kéo dài nữa.
+[12:30] Mọi người có ý kiến gì thêm về nhà máy không?
+[10:46] Cái dây chuyền sản xuất này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[12:34] Về dài hạn thì nguyên liệu đầu vào sẽ là trọng tâm của năm nay.
+[12:36] Cảm ơn mọi người, cuộc họp về Công nghiệp nặng tạm dừng tại đây.
+[10:49] Chắc là Đúng rồi, cái linh kiện cần được ưu tiên xử lý trước thứ Sáu này.
+[10:50] Đúng rồi, cái thép cần được ưu tiên xử lý trước thứ Sáu này.
+[10:51] Mọi người có ý kiến gì thêm về linh kiện không?
+[10:52] Thì đấy Đúng rồi, cái nguyên liệu đầu vào cần được ưu tiên xử lý trước thứ Sáu này.
+[10:53] Dạ Vụ nguyên liệu đầu vào thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[10:54] Thì Cái thép này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[10:55] Hay là mình thử thay đổi cách tiếp cận với thép xem sao?
+[10:56] Thì đấy Thế thì mình chốt phương án cho linh kiện luôn đi, đừng kéo dài nữa.
+[12:54] Mọi người có ý kiến gì thêm về khu công nghiệp không?
+[10:58] À Vụ linh kiện thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[10:59] Tôi sẽ phụ trách kiểm tra lại linh kiện rồi báo lại cả team vào chiều mai.
+[13:00] Thôi được rồi, vậy thống nhất là triển khai nguyên liệu đầu vào theo hướng đó.
+[11:01] Dạ Thế thì mình chốt phương án cho nhà máy luôn đi, đừng kéo dài nữa.
+[13:04] Tôi thấy nguyên liệu đầu vào hiện tại là cơ hội tốt để mình bứt phá.
+[13:06] Hình như Đúng rồi, cái nguyên liệu đầu vào cần được ưu tiên xử lý trước thứ Sáu này.
+[13:08] Đúng rồi, cái nguyên liệu đầu vào cần được ưu tiên xử lý trước thứ Sáu này.
+[11:05] Ờm Để tôi check lại lịch của bên nguyên liệu đầu vào xem họ rảnh khi nào.
+[11:06] Tôi lo nhất là cái khu công nghiệp, tiến độ đang bị khựng lại.
+[13:14] Đừng quên vụ linh kiện cũng quan trọng không kém nhé.
+[11:08] Đúng rồi, cái dây chuyền sản xuất cần được ưu tiên xử lý trước thứ Sáu này.
+[13:18] Tôi sẽ phụ trách kiểm tra lại dây chuyền sản xuất rồi báo lại cả team vào chiều mai.
+[11:10] Thì Để tôi check lại lịch của bên thép xem họ rảnh khi nào.
+[13:22] Tôi lo nhất là cái nhà máy, tiến độ đang bị khựng lại.
+[11:12] Vấn đề khu công nghiệp thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[11:13] Cái dây chuyền sản xuất này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[13:28] Đúng rồi, cái dây chuyền sản xuất cần được ưu tiên xử lý trước thứ Sáu này.
+[11:15] Tóm lại Hay là mình thử thay đổi cách tiếp cận với thép xem sao?
+[13:32] Cái nhà máy này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[13:34] Thì đấy Tôi thấy khu công nghiệp hiện tại là cơ hội tốt để mình bứt phá.
+[13:36] Thôi được rồi, vậy thống nhất là triển khai thép theo hướng đó.
+[11:19] Tóm lại Hay là mình thử thay đổi cách tiếp cận với nhà máy xem sao?
+[13:40] Cần phải làm rõ hơn về nguyên liệu đầu vào trong hợp đồng mới.
+[11:21] Vấn đề nhà máy thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[13:44] Thì đấy Mọi người nghe rõ không? Về cái linh kiện này tôi thấy có vẻ hơi vướng.
+[11:23] Cảm ơn mọi người, cuộc họp về Công nghiệp nặng tạm dừng tại đây.
+[13:48] Thực ra Cần phải làm rõ hơn về thép trong hợp đồng mới.
+[13:50] Tôi thấy nguyên liệu đầu vào hiện tại là cơ hội tốt để mình bứt phá.
+[11:26] Cái linh kiện này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[13:54] Bên đối tác họ cứ hỏi mãi về khu công nghiệp, mình phải trả lời sao đây?
+[11:28] Thì đấy Mọi người nghe rõ không? Về cái linh kiện này tôi thấy có vẻ hơi vướng.
+[13:58] Tôi lo nhất là cái khu công nghiệp, tiến độ đang bị khựng lại.
+[14:00] Thực ra Về phần ngân sách cho linh kiện, sếp đã duyệt chưa nhỉ?
+[11:31] Tôi thấy thép hiện tại là cơ hội tốt để mình bứt phá.
+[11:32] Thực ra Thôi được rồi, vậy thống nhất là triển khai dây chuyền sản xuất theo hướng đó.
+[11:33] Bên đối tác họ cứ hỏi mãi về khu công nghiệp, mình phải trả lời sao đây?
+[14:08] Để tôi check lại lịch của bên thép xem họ rảnh khi nào.
+[11:35] Để tôi check lại lịch của bên thép xem họ rảnh khi nào.
+[11:36] Dạ Vấn đề dây chuyền sản xuất thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[14:14] Đúng rồi, cái nhà máy cần được ưu tiên xử lý trước thứ Sáu này.
+[11:38] Về phần ngân sách cho nguyên liệu đầu vào, sếp đã duyệt chưa nhỉ?
+[11:39] Bên đối tác họ cứ hỏi mãi về nguyên liệu đầu vào, mình phải trả lời sao đây?
+[11:40] Để tôi check lại lịch của bên dây chuyền sản xuất xem họ rảnh khi nào.
+[11:41] Cần phải làm rõ hơn về nguyên liệu đầu vào trong hợp đồng mới.
+[14:24] Đúng rồi, cái nhà máy cần được ưu tiên xử lý trước thứ Sáu này.
+
+<|output|>
+# Báo cáo cuộc họp về Công nghiệp nặng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Công nghiệp nặng hiện tại
+- Giải quyết các tồn đọng liên quan đến nguyên liệu đầu vào
+- Định hướng phát triển khu công nghiệp trong quý tới
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý nguyên liệu đầu vào
+- Thiếu hụt nguồn lực cho thép
+- Áp lực từ phía đối tác về thép
+- Tác động của thị trường đến kế hoạch chung
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho dây chuyền sản xuất
+- Phân bổ thêm 2 nhân sự cho mảng nhà máy
+- Hoàn thiện báo cáo khu công nghiệp trước cuối tuần
+- Duyệt chi phí dự phòng cho nguyên liệu đầu vào
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ dây chuyền sản xuất | Bộ phận Pháp lý | 05/11/2026 |
+| Liên hệ đối tác về linh kiện | Anh Hoàng | 01/12/2026 |
+| Kiểm tra tiến độ thép | Anh Hoàng | 26/08/2026 |
+| Lập kế hoạch chi tiết cho linh kiện | Chị Mai | 07/10/2026 |
+| Báo cáo kết quả nhà máy | Team Technical | 04/05/2026 |

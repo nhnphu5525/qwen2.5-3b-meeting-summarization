@@ -1,0 +1,50 @@
+<|input|>
+[14:00] Xin mời mọi người ổn định chỗ ngồi. Hôm nay Ban giám đốc bệnh viện triệu tập cuộc họp này để bàn về tiến độ triển khai Bệnh án điện tử (EMR). Bác sĩ Hùng cho ý kiến trước về tình hình ở khoa Nội xem sao?
+[14:02] Vâng thưa Ban giám đốc, thực sự là anh em bác sĩ chúng tôi đang thấy... ờ, hơi đuối. Hệ thống mới này nhập liệu tốn thời gian quá. Thay vì dành thời gian khám bệnh, giờ bác sĩ cứ phải ngồi gõ phím, click chuột chọn từng danh mục.
+[14:04] Tôi cũng nghe phản hồi tương tự từ khoa Ngoại. Đặc biệt là mấy bác sĩ lớn tuổi, họ không quen dùng máy tính nhanh, thao tác cứ bị lúng túng, dẫn đến bệnh nhân phải chờ đợi rất lâu ở khâu kê đơn và cho chỉ định xét nghiệm.
+[14:06] Chỗ này em xin giải thích một chút. Hệ thống EMR mình đang dùng là bản chuẩn của Bộ Y tế, nó yêu cầu dữ liệu phải đầy đủ và chính xác để sau này liên thông bảo hiểm. Lúc đầu chưa quen thì thấy chậm, chứ sau này có sẵn lịch sử bệnh án thì tra cứu nhanh lắm chị ạ.
+[14:08] Nhanh thì chưa thấy, nhưng hiện tại là đang làm ùn ứ ở phòng khám. Có hôm hệ thống bị treo 15 phút, cả bệnh viện như bị tê liệt. Anh em IT cần xem lại hạ tầng server chứ thế này thì chết.
+[14:10] Về vấn đề server, đúng là đợt rồi có lúc quá tải do lượng truy cập đồng thời tăng cao. Em đang đề xuất nâng cấp RAM và ổ cứng SSD cho hệ thống máy chủ trung tâm.
+[14:12] Ngoài ra, tôi thấy cái giao diện nó rối quá. Nhiều thông tin thừa thãi mà bác sĩ lâm sàng không cần đến. Team IT có thể tùy chỉnh lại cho gọn nhẹ hơn được không? Kiểu như bác sĩ chỉ cần nhìn thấy những thông số quan trọng nhất thôi ấy.
+[14:14] Dạ được ạ, tụi em có thể tạo các mẫu (template) bệnh án theo từng chuyên khoa. Bác sĩ chỉ cần chọn mẫu rồi điền số liệu thôi, không phải nhập từ đầu nữa. Cái này chắc chắn sẽ giảm được 50% thời gian nhập liệu.
+[14:16] Thế thì tốt quá, đề nghị triển khai ngay cái template này cho khoa Nội và khoa Ngoại trước để đánh giá hiệu quả. Bác sĩ Hùng thấy sao?
+[14:18] Nếu có template thì tốt, nhưng cũng cần trang bị thêm máy tính cho phòng trực nữa. Hiện tại có 2 máy mà 5 bác sĩ dùng chung, cứ phải xếp hàng đợi nhau để nhập bệnh án thì vẫn chậm thôi anh.
+[14:20] Được rồi, phần thiết bị Ban giám đốc sẽ phê duyệt mua thêm 20 bộ máy tính mới. Nhưng tôi yêu cầu Team IT phải tổ chức thêm một buổi training nữa, cầm tay chỉ việc cho các bác sĩ lớn tuổi nhé. Đừng có phát tài liệu rồi để họ tự bơi.
+[14:22] Vâng, em sẽ sắp xếp cử người xuống tận khoa hỗ trợ trong tuần sau. À, còn vấn đề bảo mật dữ liệu nữa, mọi người lưu ý tuyệt đối không cho mượn tài khoản đăng nhập nhé. Mọi thao tác trên EMR đều có log lại hết đấy.
+[14:24] Cái này quan trọng, bác sĩ lưu ý. Chốt lại: IT nâng cấp server và làm template bệnh án, Ban quản lý mua thêm máy tính, bác sĩ phối hợp đi training.
+[14:26] Vâng, chúng tôi sẽ cố gắng. Hy vọng hệ thống sớm chạy mượt để chúng tôi tập trung chuyên môn.
+[14:28] Cảm ơn mọi người. Kết thúc họp tại đây.
+
+<|output|>
+# Triển khai hệ thống Bệnh án điện tử (EMR) tại bệnh viện
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá những khó khăn, vướng mắc trong giai đoạn đầu triển khai Bệnh án điện tử (EMR).
+- Tìm giải pháp khắc phục tình trạng nhập liệu chậm, quá tải server và thiếu thiết bị.
+- Thống nhất kế hoạch nâng cấp hạ tầng và đào tạo nhân sự.
+
+### 2. Các vấn đề đã thảo luận
+- Bác sĩ phàn nàn về việc nhập liệu tốn thời gian, gây ùn tắc tại phòng khám.
+- Hạ tầng server chưa ổn định, thỉnh thoảng bị treo khi lượng truy cập lớn.
+- Giao diện phần mềm phức tạp, chưa tối ưu cho công tác lâm sàng.
+- Thiếu hụt máy tính tại các phòng trực khoa.
+- Kỹ năng sử dụng máy tính của một số bác sĩ lớn tuổi còn hạn chế.
+
+### 3. Kết luận và quyết định
+- Team IT thực hiện nâng cấp hạ tầng server (RAM, SSD) để đảm bảo tốc độ xử lý.
+- Xây dựng các mẫu bệnh án (template) theo từng chuyên khoa để rút ngắn thời gian nhập liệu.
+- Trang bị thêm 20 bộ máy tính mới cho các khoa lâm sàng.
+- Tổ chức tập huấn thực tế, hỗ trợ trực tiếp tại khoa cho đội ngũ y bác sĩ.
+- Nghiêm cấm việc chia sẻ tài khoản đăng nhập để đảm bảo an toàn thông tin.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nâng cấp phần cứng máy chủ trung tâm | Team IT | 25/11/2024 |
+| Thiết kế template bệnh án khoa Nội, Ngoại | Team IT | 30/11/2024 |
+| Mua sắm và lắp đặt 20 bộ máy tính mới | Phòng Quản trị | 10/12/2024 |
+| Tổ chức đào tạo và hỗ trợ trực tiếp tại khoa | Team IT | 05/12/2024 |
+| Rà soát và phân quyền tài khoản EMR | Team IT | 22/11/2024 |

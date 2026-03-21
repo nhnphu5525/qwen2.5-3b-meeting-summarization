@@ -1,0 +1,41 @@
+<|input|>
+[14:00] Chào các thầy cô, hôm nay chúng ta bàn về việc chuẩn bị cho kỳ thi học kỳ sắp tới và công tác tư vấn hướng nghiệp cho học sinh khối 12.
+[14:02] Về đề thi, đề nghị các tổ chuyên môn bám sát ma trận đề thi của Bộ Giáo dục, tránh ra đề quá khó hoặc quá đánh đố học sinh.
+[14:04] Chúng em đã hoàn thành 80% ngân hàng câu hỏi, dự kiến tuần sau sẽ cho học sinh thi thử lần 1.
+[14:06] Việc thi thử là cần thiết để các em làm quen với áp lực phòng thi và cách tô phiếu trả lời trắc nghiệm.
+[14:08] Còn về hướng nghiệp, năm nay nhiều trường đại học thay đổi phương thức xét tuyển, dùng kết quả đánh giá năng lực rất nhiều.
+[14:10] Nhà trường cần mời các chuyên gia từ các đại học lớn về tư vấn trực tiếp cho phụ huynh và học sinh vào chủ nhật tới.
+[14:12] Tôi thấy nhiều em vẫn còn mông lung giữa việc chọn ngành theo sở thích hay theo xu hướng thị trường.
+[14:14] Mình nên tổ chức các buổi trắc nghiệm tâm lý Holland để các em hiểu rõ bản thân mình hơn trước khi đặt bút đăng ký nguyện vọng.
+[14:16] Thầy Nam liên hệ với bên công ty hướng nghiệp để xin bản quyền bộ test này nhé.
+[14:18] Dạ, để em hỏi lại bên đó xem họ có hỗ trợ miễn phí cho trường mình không.
+
+<|output|>
+# Công tác chuẩn bị thi học kỳ và tư vấn hướng nghiệp khối 12
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất phương án ra đề thi học kỳ và tổ chức thi thử cho học sinh.
+- Cập nhật các phương thức xét tuyển đại học mới nhất.
+- Triển khai hoạt động tư vấn hướng nghiệp chuyên sâu cho học sinh cuối cấp.
+
+### 2. Các vấn đề đã thảo luận
+- Yêu cầu ra đề thi bám sát cấu trúc của Bộ Giáo dục và tổ chức thi thử để rèn luyện kỹ năng cho học sinh.
+- Sự thay đổi trong phương thức xét tuyển đại học (ưu tiên đánh giá năng lực).
+- Đề xuất tổ chức buổi trắc nghiệm tâm lý Holland và mời chuyên gia tư vấn về trường.
+
+### 3. Kết luận và quyết định
+- Tổ chức thi thử lần 1 vào tuần sau.
+- Tổ chức buổi tư vấn hướng nghiệp tập trung vào Chủ nhật tới.
+- Áp dụng các công cụ trắc nghiệm tâm lý để hỗ trợ học sinh chọn ngành.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện ngân hàng câu hỏi thi học kỳ | Các Tổ chuyên môn | 22/03/2026 |
+| Liên hệ mời chuyên gia tư vấn hướng nghiệp | Ban Giám hiệu | 20/03/2026 |
+| Đăng ký bản quyền bộ test Holland | Thầy Nam | 21/03/2026 |
+| Chuẩn bị cơ sở vật chất cho kỳ thi thử | Tổ Hành chính | 23/03/2026 |
+| Gửi thông báo cho phụ huynh về buổi tư vấn | Giáo viên chủ nhiệm | 19/03/2026 |

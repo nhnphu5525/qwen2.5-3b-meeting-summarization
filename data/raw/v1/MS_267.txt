@@ -1,0 +1,49 @@
+<|input|>
+[14:00] Chào anh Nam, chị Lan và team IT. Hôm nay chúng ta họp để bàn về kế hoạch chuyển đổi toàn bộ hạ tầng từ server vật lý (on-premise) sang nền tảng điện toán đám mây (Cloud Migration). Đây là bước đi chiến lược để tối ưu chi phí vận hành và tăng khả năng mở rộng cho hệ thống core-banking của chúng ta. Anh Nam, anh có thể cho biết các lựa chọn Cloud Provider hiện nay không?
+[14:05] Chào anh Hải, chào mọi người. Tôi là Nam, trưởng nhóm hạ tầng. Chúng tôi đã làm việc với 3 đối tác lớn là AWS, Microsoft Azure và Google Cloud (GCP). Qua đánh giá sơ bộ, AWS có hệ sinh thái dịch vụ đa dạng nhất, nhưng Azure lại tích hợp cực tốt với các hệ thống Windows Server và SQL Server hiện có của chúng ta. GCP thì mạnh về các dịch vụ AI và Data Analytics. Tuy nhiên, vấn đề lớn nhất là yêu cầu về chủ quyền dữ liệu (data sovereignty) của Ngân hàng Nhà nước. Chúng ta bắt buộc phải có một phần dữ liệu nhạy cảm lưu trữ trong nước.
+[14:10] Chào anh Nam, tôi là Lan bên bộ phận Bảo mật thông tin (InfoSec). Tôi hoàn toàn đồng ý. Việc chuyển lên Cloud công cộng hoàn toàn là rất rủi ro đối với một tổ chức tài chính. Tôi đề xuất chúng ta đi theo hướng "Hybrid Cloud". Các dịch vụ front-end và ứng dụng không nhạy cảm sẽ chạy trên Cloud quốc tế để tận dụng tính linh hoạt, còn dữ liệu khách hàng và lịch sử giao dịch sẽ được lưu trữ tại Private Cloud đặt trong nước hoặc tại Data Center của chính chúng ta.
+[14:15] Chào chị Lan, anh Nam. Tôi là Quân, trưởng nhóm phát triển phần mềm (Dev). Nếu chọn Hybrid Cloud, việc đồng bộ dữ liệu giữa Cloud và On-premise sẽ là một thách thức về mặt độ trễ (latency). Chúng ta cần một đường truyền chuyên dụng (Direct Connect hoặc ExpressRoute) để đảm bảo tốc độ giao dịch không bị ảnh hưởng. Ngoài ra, team Dev cũng cần được đào tạo về Containerization và Kubernetes để triển khai ứng dụng trên môi trường mới một cách mượt mà.
+[14:20] Chào anh Quân, vấn đề độ trễ đúng là cần tính toán kỹ. Chào mọi người, tôi là Hồng bên bộ phận Tài chính. Chị Lan cho tôi hỏi về chi phí. Tôi nghe nói phí lưu trữ Cloud thì rẻ, nhưng phí băng thông tải dữ liệu ra (egress cost) của các ông lớn quốc tế thường rất "chát". Chúng ta đã có bài toán so sánh tổng chi phí sở hữu (TCO) trong vòng 5 năm chưa? Chào chị Hồng, tôi đang hoàn thiện bản so sánh này. Dự kiến chi phí ban đầu (CAPEX) sẽ giảm mạnh, nhưng chi phí vận hành hàng tháng (OPEX) sẽ tăng lên. Tuy nhiên, chúng ta sẽ tiết kiệm được rất nhiều tiền điện, bảo trì server và chi phí nâng cấp phần cứng định kỳ.
+[14:25] Chào mọi người, tôi là Sơn bên bộ phận Quản trị rủi ro. Tôi muốn hỏi về kịch bản ứng phó sự cố (Disaster Recovery). Nếu Cloud Provider gặp sự cố toàn cầu như đã từng xảy ra với AWS, hệ thống ngân hàng của chúng ta có bị tê liệt không? Chào anh Sơn, đó là lý do chúng ta cần chiến lược "Multi-cloud" hoặc "Cloud-agnostic". Chúng ta không nên bỏ hết trứng vào một giỏ. Hệ thống dự phòng phải được đặt tại một vùng địa lý (Region) khác hoặc nhà cung cấp khác.
+[14:30] Ý kiến của mọi người rất sâu sắc. Chào anh Nam, anh giúp tôi xây dựng một lộ trình chuyển đổi (Roadmap) gồm 3 giai đoạn. Giai đoạn 1: Chuyển đổi các môi trường Development và Testing lên Cloud để thử nghiệm. Giai đoạn 2: Chuyển đổi các ứng dụng phụ trợ của văn phòng. Giai đoạn 3: Chuyển đổi hệ thống Core-banking sau khi đã kiểm chứng độ ổn định.
+[14:35] Vâng anh Hải, tôi sẽ hoàn thiện Roadmap trong tuần tới. Chào chị Lan, em cần chị phối hợp để rà soát lại các tiêu chuẩn bảo mật ISO 27001 và PCI-DSS khi triển khai trên Cloud nhé. Chào Nam, chị đã sẵn sàng. Chị sẽ mời thêm bên đối tác tư vấn bảo mật Cloud vào họp cùng chúng ta trong buổi tới.
+[14:40] Chào anh Hải, tôi đề xuất chúng ta nên tổ chức một buổi workshop cho toàn bộ ban lãnh đạo về lợi ích và rủi ro của Cloud để mọi người có cái nhìn thống nhất. Việc chuyển đổi này không chỉ là vấn đề kỹ thuật mà còn là thay đổi tư duy quản lý. Chào chị Lan, ý tưởng rất hay. Chị phối hợp với phòng Truyền thông để tổ chức nhé.
+[14:45] Chào anh Hải, anh Quân. Tôi muốn hỏi về đội ngũ nhân sự. Hiện tại chúng ta đang thiếu các kỹ sư Cloud chuyên nghiệp. Chúng ta sẽ tuyển mới hay đào tạo lại nhân sự hiện có? Chào anh Nam, tôi ưu tiên cả hai. Chúng ta sẽ cử 5 bạn nòng cốt đi thi chứng chỉ của AWS/Azure, đồng thời tuyển thêm 2 vị trí Senior Cloud Architect để dẫn dắt dự án.
+[14:50] Tốt lắm. Buổi họp hôm nay đã giải quyết được nhiều nút thắt quan trọng. Chào mọi người, chúng ta bắt đầu một hành trình mới đầy thách thức nhưng cũng rất hứa hẹn. Chúc cả team sức khỏe và quyết tâm cao độ.
+[14:55] Chào tạm biệt mọi người.
+
+<|output|>
+# Kế hoạch Chuyển đổi Hạ tầng Điện toán đám mây (Cloud Migration)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất chiến lược chuyển đổi hạ tầng từ server vật lý sang nền tảng Cloud.
+- Đánh giá các nhà cung cấp dịch vụ Cloud (AWS, Azure, GCP) và giải quyết các yêu cầu về bảo mật dữ liệu ngành ngân hàng.
+- Thống nhất mô hình triển khai (Hybrid Cloud) và lộ trình thực hiện chi tiết.
+
+### 2. Các vấn đề đã thảo luận
+- Lựa chọn nhà cung cấp: Cân nhắc giữa hệ sinh thái của AWS và tính tương thích của Azure với hệ thống hiện tại.
+- Bảo mật và Pháp lý: Tuân thủ quy định về chủ quyền dữ liệu của Ngân hàng Nhà nước; đề xuất mô hình Hybrid Cloud để bảo vệ dữ liệu nhạy cảm.
+- Kỹ thuật: Thách thức về độ trễ (latency) khi đồng bộ dữ liệu; nhu cầu đào tạo về Containerization và Kubernetes.
+- Tài chính: Phân tích tổng chi phí sở hữu (TCO); chuyển dịch từ CAPEX sang OPEX và quản lý chi phí băng thông (egress cost).
+- Quản trị rủi ro: Xây dựng kịch bản Disaster Recovery theo hướng Multi-cloud để tránh phụ thuộc vào một nhà cung cấp duy nhất.
+- Nhân sự: Kế hoạch tuyển dụng kiến trúc sư Cloud và đào tạo chứng chỉ quốc tế cho nhân viên hiện có.
+
+### 3. Kết luận và quyết định
+- Thống nhất triển khai theo mô hình Hybrid Cloud (ứng dụng trên Cloud quốc tế, dữ liệu core đặt tại Data Center trong nước).
+- Phê duyệt lộ trình chuyển đổi 3 giai đoạn: Thử nghiệm -> Ứng dụng phụ trợ -> Hệ thống lõi (Core-banking).
+- Đầu tư đường truyền chuyên dụng (Direct Connect/ExpressRoute) để đảm bảo hiệu năng hệ thống.
+- Tổ chức workshop nâng cao nhận thức cho ban lãnh đạo và đào tạo chuyên môn cho team kỹ thuật.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện Roadmap chuyển đổi 3 giai đoạn | Anh Nam (Hạ tầng) | 30/03/2025 |
+| Báo cáo so sánh TCO 5 năm giữa On-premise và Cloud | Chị Hồng (Tài chính) | 05/04/2025 |
+| Rà soát tiêu chuẩn bảo mật PCI-DSS trên Cloud | Chị Lan (InfoSec) | 10/04/2025 |
+| Xây dựng kịch bản Disaster Recovery Multi-cloud | Anh Sơn (Rủi ro) | 15/04/2025 |
+| Lên kế hoạch đào tạo chứng chỉ Cloud cho nhân viên | Anh Quân (Dev) | 02/04/2025 |
+| Liên hệ các đơn vị cung cấp đường truyền chuyên dụng | Anh Nam (Hạ tầng) | 28/03/2025 |
+| Đăng tuyển vị trí Senior Cloud Architect | Bộ phận Nhân sự | 26/03/2025 |

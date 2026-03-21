@@ -1,0 +1,82 @@
+<|input|>
+[08:00] Chào mừng các đồng chí lãnh đạo các bộ ban ngành, các chuyên gia kinh tế và đại diện hiệp hội doanh nghiệp. Hôm nay chúng ta tổ chức hội nghị chuyên đề về đánh giá tác động của xu hướng kinh tế toàn cầu đến chính sách vĩ mô của nước ta trong giai đoạn 2024-2025.
+[08:05] Thưa Thứ trưởng, mở đầu chương trình, tôi xin tóm tắt sơ bộ bức tranh kinh tế thế giới. Hiện tại, lạm phát tại Mỹ và EU tuy đã hạ nhiệt nhưng vẫn dai dẳng ở mức cao hơn mục tiêu 2%. Điều này khiến các ngân hàng trung ương lớn chần chừ trong việc đảo chiều chính sách nới lỏng tiền tệ.
+[08:10] Chào anh Hùng, đúng là như vậy. Việc Fed giữ nguyên mức lãi suất cao kỷ lục đang tạo áp lực rất lớn lên tỷ giá VND/USD. Tháng vừa qua, Ngân hàng Nhà nước đã phải can thiệp bằng cách bán ngoại tệ để bình ổn thị trường. Nhưng dự trữ ngoại hối của chúng ta không phải là vô hạn.
+[08:15] Tôi đồng ý với chị Lan từ Ngân hàng Nhà nước. Chúng ta không thể chỉ dùng biện pháp can thiệp tỷ giá. Cần phải có các chính sách tài khóa đồng bộ. Thưa Thứ trưởng, Bộ Kế hoạch và Đầu tư đề xuất đẩy mạnh hơn nữa giải ngân đầu tư công để bơm tiền vào nền kinh tế, hỗ trợ tăng trưởng thay vì quá phụ thuộc vào tín dụng.
+[08:20] Đẩy mạnh giải ngân đầu tư công là chỉ đạo xuyên suốt của Chính phủ, nhưng thực tế thì tiến độ ở nhiều địa phương vẫn rất chậm. Nguyên nhân chủ yếu nằm ở khâu giải phóng mặt bằng và định giá đất. Anh Tuấn bên Bộ Tài nguyên và Môi trường có giải pháp gì đột phá cho vấn đề này không?
+[08:25] Báo cáo Thứ trưởng, Luật Đất đai sửa đổi vừa được thông qua sẽ giải quyết được cơ bản bài toán định giá đất theo nguyên tắc thị trường. Tuy nhiên, để các nghị định hướng dẫn đi vào thực tiễn thì cần ít nhất 6 tháng nữa. Trong ngắn hạn, chúng tôi đang trình Chính phủ cơ chế đặc thù cho các dự án giao thông trọng điểm quốc gia.
+[08:30] Chuyển sang một chủ đề khác cũng rất nóng là sự dịch chuyển chuỗi cung ứng toàn cầu. Khái niệm "Friend-shoring" và "China plus one" đang mang lại cơ hội lớn cho chúng ta. Nhưng chúng ta đã thực sự sẵn sàng để đón làn sóng FDI chất lượng cao chưa?
+[08:35] Thưa các đồng chí, theo số liệu của Cục Đầu tư nước ngoài, vốn FDI đăng ký mới trong quý 1 tăng 30%, đặc biệt là vào lĩnh vực điện tử và bán dẫn. Tuy nhiên, các nhà đầu tư lớn như Intel hay Samsung đang phàn nàn rất nhiều về tình trạng thiếu hụt nguồn nhân lực chất lượng cao và sự thiếu ổn định của lưới điện.
+[08:40] Về vấn đề lưới điện, Tập đoàn Điện lực EVN đang chịu áp lực lớn. Chúng ta đã có Quy hoạch Điện VIII, nhưng việc triển khai các dự án điện khí LNG và năng lượng tái tạo đang gặp vướng mắc về cơ chế giá (PPA). Nếu không giải quyết sớm, nguy cơ thiếu điện cục bộ ở miền Bắc trong mùa khô tới là rất cao.
+[08:45] Về cơ chế PPA, Bộ Công Thương đang hoàn thiện dự thảo cơ chế mua bán điện trực tiếp (DPPA) để trình Thủ tướng trong tháng sau. Cơ chế này sẽ cho phép các doanh nghiệp FDI mua điện trực tiếp từ các nhà máy năng lượng tái tạo, đáp ứng cam kết xanh của họ.
+[08:50] Cơ chế DPPA là điều mà các doanh nghiệp Mỹ và châu Âu đang rất mong chờ. Nhưng còn vấn đề nhân lực bán dẫn thì sao? Thưa Bộ Giáo dục và Đào tạo, kế hoạch đào tạo 50.000 kỹ sư bán dẫn đến năm 2030 đang được triển khai đến đâu rồi?
+[08:55] Báo cáo Thứ trưởng, chúng tôi đã chọn ra 10 trường đại học kỹ thuật hàng đầu để xây dựng chương trình đào tạo chuẩn quốc tế. Tuy nhiên, khó khăn lớn nhất là thiếu giảng viên có kinh nghiệm thực chiến và các phòng lab thực hành tiêu chuẩn. Chi phí đầu tư cho một phòng lab bán dẫn là hàng chục triệu đô.
+[09:00] Chúng ta không thể ngân sách hóa toàn bộ số tiền đó. Cần huy động nguồn lực xã hội hóa. Đề nghị Bộ Kế hoạch và Đầu tư xây dựng cơ chế ưu đãi thuế đặc biệt cho các tập đoàn công nghệ lớn nếu họ đồng ý tài trợ thiết bị và cử chuyên gia sang giảng dạy tại các trường đại học của ta.
+[09:05] Vâng thưa Thứ trưởng, chúng tôi sẽ đưa nội dung này vào dự thảo Nghị quyết hỗ trợ ngành công nghiệp bán dẫn trình Quốc hội vào kỳ họp tới.
+[09:10] Một vấn đề vĩ mô khác cần lưu tâm là rủi ro địa chính trị. Căng thẳng ở Biển Đỏ đang làm chi phí vận tải biển tăng vọt, ảnh hưởng đến khả năng cạnh tranh của hàng xuất khẩu Việt Nam. Các hiệp hội ngành hàng như Dệt may, Da giày đang kêu cứu.
+[09:15] Đại diện Hiệp hội Dệt may xin có ý kiến. Hiện tại cước tàu đi châu Âu đã tăng gấp 3 lần so với cuối năm ngoái. Không những thế, thời gian giao hàng còn kéo dài thêm 2-3 tuần. Nhiều đơn hàng mùa hè đã bị đối tác hủy hoặc yêu cầu chuyển sang vận tải đường hàng không với chi phí không tưởng.
+[09:20] Thưa các đồng chí, Bộ Giao thông Vận tải đang phối hợp với Bộ Công Thương để làm việc với các hãng tàu quốc tế, yêu cầu họ minh bạch các loại phụ phí. Đồng thời, chúng tôi khuyến cáo các doanh nghiệp tăng cường khai thác tuyến đường sắt liên vận quốc tế Á - Âu qua ngả Trung Quốc để giảm rủi ro.
+[09:25] Chuyển hàng qua đường sắt liên vận là một hướng đi tốt, nhưng năng lực thông quan tại các cửa khẩu đường sắt của ta như Đồng Đăng, Lào Cai còn rất hạn chế. Cần đầu tư nâng cấp hạ tầng logistics tại các khu vực này ngay lập tức.
+[09:30] Về vấn đề này, tôi giao Bộ Tài chính nghiên cứu phương án bố trí nguồn vốn dự phòng trung ương để xử lý cấp bách một số nút thắt hạ tầng tại các cửa khẩu biên giới phía Bắc.
+[09:35] [Phiên họp buổi chiều bắt đầu]
+[14:00] Chào các đồng chí, buổi chiều nay chúng ta sẽ tập trung vào các chính sách an sinh xã hội và kiểm soát lạm phát trong nước. Giá vàng và giá bất động sản thời gian qua có dấu hiệu tăng bất thường, hút một lượng vốn lớn khỏi khu vực sản xuất kinh doanh.
+[14:05] Báo cáo Thứ trưởng, Ngân hàng Nhà nước đã tiến hành đấu thầu vàng miếng để tăng nguồn cung ra thị trường, nhằm thu hẹp khoảng cách giữa giá vàng trong nước và giá vàng thế giới. Tuy nhiên, nhu cầu tích trữ tài sản an toàn của người dân vẫn rất cao trong bối cảnh lãi suất tiền gửi thấp.
+[14:10] Về thị trường bất động sản, mặc dù thanh khoản đã có dấu hiệu phục hồi nhưng chủ yếu ở phân khúc căn hộ chung cư phục vụ nhu cầu thực. Phân khúc đất nền và biệt thự nghỉ dưỡng vẫn đóng băng. Đáng lo ngại là giá chung cư tại các đô thị lớn đang bị đẩy lên quá cao, vượt quá khả năng chi trả của người lao động thu nhập trung bình.
+[14:15] Chúng ta cần đẩy mạnh chương trình 1 triệu căn hộ nhà ở xã hội. Đây là giải pháp căn cơ nhất để hạ nhiệt giá nhà. Tuy nhiên, gói tín dụng 120.000 tỷ đồng cho nhà ở xã hội giải ngân quá chậm. Tại sao vậy anh Bình bên Bộ Xây dựng?
+[14:20] Báo cáo Thứ trưởng, nguyên nhân là do quỹ đất sạch tại các đô thị đã cạn kiệt. Các chủ đầu tư cũng không mặn mà vì biên lợi nhuận bị khống chế ở mức 10%, trong khi thủ tục hành chính để phê duyệt một dự án nhà ở xã hội lại phức tạp và kéo dài hơn cả nhà ở thương mại.
+[14:25] Cần phải cắt giảm ngay 50% các thủ tục không cần thiết cho nhà ở xã hội. Bộ Xây dựng chủ trì soạn thảo Chỉ thị của Thủ tướng về vấn đề này. Nếu địa phương nào cố tình gây khó khăn, trì hoãn phê duyệt dự án nhà ở xã hội thì kiểm điểm trách nhiệm người đứng đầu.
+[14:30] Dạ vâng, chúng tôi sẽ hoàn thiện dự thảo Chỉ thị trình Chính phủ vào tuần sau.
+[14:35] Một vấn đề nữa tác động trực tiếp đến lạm phát là giá xăng dầu. Giá dầu thô thế giới đang có xu hướng tăng do cắt giảm sản lượng từ OPEC+. Quỹ bình ổn giá xăng dầu của chúng ta hiện nay còn bao nhiêu?
+[14:40] Báo cáo Thứ trưởng, Quỹ bình ổn giá xăng dầu tại một số doanh nghiệp đầu mối lớn đang bị âm. Nếu giá thế giới tiếp tục tăng, chúng ta bắt buộc phải điều chỉnh giá bán lẻ trong nước để đảm bảo nguồn cung, điều này sẽ tạo áp lực lên CPI của quý 2.
+[14:45] Tổng cục Thống kê có mô phỏng kịch bản giá xăng dầu tăng 10% thì lạm phát sẽ bị đẩy lên bao nhiêu không?
+[14:50] Dạ thưa Thứ trưởng, theo mô hình dự báo của Tổng cục, nếu giá xăng dầu tăng 10%, nó sẽ tác động vòng 1 và vòng 2 làm CPI tăng thêm khoảng 0.4 điểm phần trăm. Tức là chúng ta vẫn có khả năng kiểm soát lạm phát cả năm dưới mục tiêu 4.5% do Quốc hội đề ra, nhờ giá lương thực thực phẩm vẫn đang khá ổn định.
+[14:55] Rất tốt. Nhưng không được chủ quan. Bộ Nông nghiệp và Phát triển nông thôn cần theo dõi sát diễn biến hạn mặn tại Đồng bằng sông Cửu Long. Đảm bảo tuyệt đối an ninh lương thực quốc gia, không để xảy ra tình trạng sốt giá gạo do tâm lý đầu cơ.
+[15:00] Báo cáo Thứ trưởng, chúng tôi đã có kịch bản ứng phó hạn mặn rất chi tiết. Nhờ chuyển đổi cơ cấu cây trồng và gieo sạ sớm, thiệt hại năm nay dự kiến sẽ thấp hơn nhiều so với đợt hạn mặn lịch sử 2016. Sản lượng lúa gạo hoàn toàn đáp ứng đủ nhu cầu trong nước và dành khoảng 7-8 triệu tấn cho xuất khẩu.
+[15:05] Thưa Thứ trưởng, về định hướng thu hút FDI, chúng ta có nên ban hành bộ tiêu chí mới để chọn lọc các dự án FDI "xanh", sử dụng công nghệ cao và có cam kết chuyển giao công nghệ thay vì thu hút ồ ạt như trước đây không?
+[15:10] Hoàn toàn nhất trí. Đã đến lúc chúng ta phải từ chối các dự án thâm dụng lao động, thâm dụng năng lượng và gây ô nhiễm môi trường. Bộ Kế hoạch và Đầu tư khẩn trương hoàn thiện "Bộ tiêu chí thu hút FDI thế hệ mới" để áp dụng trên toàn quốc từ năm 2025.
+[15:15] Vâng thưa Thứ trưởng. Chúng tôi cũng đề xuất bổ sung cơ chế kiểm soát việc các doanh nghiệp FDI lạm dụng chính sách chuyển giá (transfer pricing) để trốn thuế, gây thất thu ngân sách nhà nước.
+[15:20] Việc đó giao Bộ Tài chính và Tổng cục Thuế rà soát và đưa vào Luật Quản lý thuế sửa đổi. Phải tạo môi trường kinh doanh minh bạch, công bằng giữa doanh nghiệp FDI và doanh nghiệp nội địa.
+[15:25] Buổi họp hôm nay đã đề cập đến rất nhiều vấn đề chiến lược từ tỷ giá, đầu tư công, năng lượng, đến bất động sản và an ninh lương thực. Tôi đề nghị Tổ thư ký tổng hợp toàn bộ các ý kiến đóng góp, hoàn thiện Báo cáo tham mưu kinh tế vĩ mô để trình Thường trực Chính phủ vào thứ Sáu tuần này.
+[15:30] Thay mặt lãnh đạo các bộ ban ngành, cảm ơn Thứ trưởng đã chủ trì buổi họp rất thực chất và thẳng thắn này.
+[15:35] Xin cảm ơn các đồng chí. Chúc các đồng chí nhiều sức khỏe và hoàn thành tốt nhiệm vụ được giao. Buổi họp bế mạc tại đây.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tổng thể tác động của kinh tế toàn cầu (lạm phát, lãi suất, địa chính trị) đến kinh tế vĩ mô Việt Nam.
+- Tìm giải pháp tháo gỡ điểm nghẽn trong đầu tư công, thị trường bất động sản và cung ứng năng lượng.
+- Xây dựng chiến lược thu hút FDI chất lượng cao, đặc biệt trong ngành bán dẫn và năng lượng xanh.
+
+### 2. Các vấn đề đã thảo luận
+- Áp lực tỷ giá VND/USD do chính sách lãi suất của Fed và các biện pháp can thiệp của Ngân hàng Nhà nước.
+- Chậm trễ trong giải ngân đầu tư công do vướng mắc định giá đất và giải phóng mặt bằng.
+- Nhu cầu cấp bách ban hành cơ chế mua bán điện trực tiếp (DPPA) để thu hút các tập đoàn FDI lớn.
+- Thiếu hụt nguồn nhân lực và phòng lab thực hành cho ngành công nghiệp bán dẫn.
+- Chi phí logistics vận tải biển tăng vọt do căng thẳng Biển Đỏ; đề xuất giải pháp đường sắt liên vận.
+- Biến động bất thường của giá vàng và giá chung cư tại các đô thị lớn.
+- Vướng mắc trong triển khai nhà ở xã hội (quỹ đất, thủ tục hành chính, biên lợi nhuận thấp).
+- Kịch bản lạm phát dưới tác động của việc điều chỉnh giá xăng dầu thế giới.
+- Ứng phó với hạn mặn tại ĐBSCL để bảo đảm an ninh lương thực.
+- Sự cần thiết của Bộ tiêu chí thu hút FDI thế hệ mới (xanh, công nghệ cao).
+
+### 3. Kết luận và quyết định
+- Xây dựng cơ chế đặc thù về định giá đất cho các dự án giao thông trọng điểm.
+- Trình dự thảo cơ chế DPPA trong tháng tới để giải quyết bài toán năng lượng cho FDI.
+- Bố trí nguồn vốn dự phòng trung ương để nâng cấp hạ tầng cửa khẩu đường sắt phía Bắc.
+- Cắt giảm 50% thủ tục hành chính cho các dự án nhà ở xã hội và ban hành Chỉ thị của Thủ tướng.
+- Áp dụng "Bộ tiêu chí thu hút FDI thế hệ mới" trên toàn quốc từ năm 2025.
+- Hoàn thiện Báo cáo tham mưu kinh tế vĩ mô trình Thường trực Chính phủ vào thứ Sáu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện và trình dự thảo cơ chế mua bán điện trực tiếp (DPPA) | Bộ Công Thương | 30/04/2024 |
+| Soạn thảo Chỉ thị về cắt giảm thủ tục dự án nhà ở xã hội | Bộ Xây dựng | 05/04/2024 |
+| Xây dựng cơ chế ưu đãi thuế xã hội hóa phòng lab đào tạo bán dẫn | Bộ KH&ĐT | 15/05/2024 |
+| Nghiên cứu phương án bố trí vốn nâng cấp hạ tầng đường sắt liên vận | Bộ Tài chính | 20/04/2024 |
+| Hoàn thiện "Bộ tiêu chí thu hút FDI thế hệ mới" | Bộ KH&ĐT | 30/05/2024 |
+| Tổng hợp Báo cáo tham mưu kinh tế vĩ mô trình Chính phủ | Tổ thư ký | 29/03/2024 |

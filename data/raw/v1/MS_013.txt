@@ -1,0 +1,40 @@
+<|input|>
+[10:00] Chào mọi người, hôm nay chúng ta họp về việc cải thiện quy trình tiếp đón bệnh nhân tại khoa Khám bệnh.
+[10:02] Hiện tại thời gian chờ đợi để lấy số và làm thủ tục đang quá lâu, trung bình khoảng 45 phút vào giờ cao điểm.
+[10:04] Tôi thấy vấn đề nằm ở chỗ khâu thanh toán bảo hiểm y tế còn làm thủ công nhiều, máy móc thỉnh thoảng lại treo.
+[10:06] Đề xuất mình lắp thêm 2 máy lấy số tự động và triển khai đặt lịch khám qua ứng dụng điện thoại.
+[10:08] Đặt lịch qua app thì tốt, nhưng phải đảm bảo người đặt đúng giờ được vào khám ngay, nếu không họ sẽ phàn nàn.
+[10:10] IT cần nâng cấp đường truyền và server để xử lý dữ liệu bảo hiểm nhanh hơn.
+[10:12] Điều dưỡng trưởng cần sắp xếp lại vị trí ghế ngồi chờ sao cho khoa học, tránh người nhà bệnh nhân tụ tập đông ở cửa phòng khám.
+[10:14] Vâng, em sẽ cho kê lại ghế và dán thêm các bảng hướng dẫn sơ đồ khoa.
+[10:16] Chốt lại: Tuần tới triển khai máy lấy số mới và bắt đầu chạy thử nghiệm đặt lịch qua app cho Khoa Nhi trước.
+
+<|output|>
+# Cải thiện quy trình tiếp đón bệnh nhân tại khoa Khám bệnh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rút ngắn thời gian chờ đợi làm thủ tục tại khoa Khám bệnh.
+- Hiện đại hóa quy trình đăng ký và thanh toán thông qua công nghệ.
+- Sắp xếp lại không gian chờ để đảm bảo trật tự và thoải mái cho bệnh nhân.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng ùn tắc vào giờ cao điểm do khâu bảo hiểm y tế chậm.
+- Giải pháp sử dụng máy lấy số tự động và ứng dụng đặt lịch khám online.
+- Vấn đề quá tải tại các cửa phòng khám và bố trí không gian chờ chưa hợp lý.
+
+### 3. Kết luận và quyết định
+- Lắp đặt thêm máy lấy số tự động trong tuần tới.
+- Thí điểm đặt lịch khám qua ứng dụng tại Khoa Nhi.
+- Chỉnh trang lại khu vực chờ và bảng chỉ dẫn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lắp đặt và cấu hình máy lấy số mới | Phòng IT | 25/03/2026 |
+| Triển khai thử nghiệm app đặt lịch tại Khoa Nhi | Phòng IT | 30/03/2026 |
+| Sắp xếp lại khu vực ghế ngồi và bảng chỉ dẫn | Điều dưỡng trưởng | 22/03/2026 |
+| Nâng cấp server xử lý dữ liệu bảo hiểm | Phòng IT | 28/03/2026 |
+| Tập huấn nhân viên tiếp đón về quy trình mới | Phòng Hành chính | 26/03/2026 |

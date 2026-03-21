@@ -1,0 +1,50 @@
+<|input|>
+[14:00] Chào các anh chị, hôm nay phòng Nhân sự họp để rà soát lại chính sách phúc lợi và quy trình đánh giá kết quả công việc (KPI) năm nay.
+[14:03] Sau khảo sát vừa rồi, nhân viên phản hồi rất nhiều về việc KPI hiện tại quá nặng và chưa phản ánh đúng khối lượng công việc thực tế.
+[14:06] Tôi đồng ý, có những bộ phận làm task phát sinh nhiều nhưng không được ghi nhận vào chỉ số chính, dẫn đến thiệt thòi về thưởng.
+[14:09] Chúng ta nên chuyển sang mô hình OKR (Objectives and Key Results) để linh hoạt hơn và khuyến khích sự sáng tạo thay vì chỉ áp số.
+[14:12] Chuyển đổi sang OKR thì cần một buổi training tổng thể cho tất cả các quản lý cấp trung, vì cách tiếp cận này rất khác với KPI truyền thống.
+[14:15] Về phần phúc lợi, nhiều người mong muốn có thêm bảo hiểm sức khỏe cao cấp cho người thân và chính sách làm việc linh hoạt (Remote working).
+[14:18] Remote working 1-2 ngày/tuần tôi thấy khả thi cho các khối văn phòng, nhưng cần có hệ thống quản lý task rõ ràng để đảm bảo hiệu suất.
+[14:21] Còn về bảo hiểm, chúng ta cần liên hệ với các bên cung cấp để lấy báo giá gói gia đình, xem ngân sách công ty có gánh nổi không.
+[14:24] Ngoài ra, lộ trình thăng tiến cho các bạn nhân sự trẻ cũng cần được làm rõ hơn. Các bạn ấy hay nghỉ việc vì cảm thấy không có tương lai rõ ràng.
+[14:27] Tôi sẽ xây dựng lại khung năng lực (Competency Framework) cho từng vị trí để các bạn biết mình cần học gì, thiếu gì để được lên cấp.
+[14:30] Chúng ta cũng cần xem xét lại mức lương cơ bản, vì mặt bằng chung thị trường dạo này tăng khá nhanh, mình không điều chỉnh là mất người giỏi đấy.
+[14:33] Tổng giám đốc đã bật đèn xanh cho việc điều chỉnh khoảng 10% quỹ lương cho các vị trí then chốt, nhân sự cần lọc danh sách sớm.
+[14:36] Các thay đổi về chính sách này dự kiến sẽ áp dụng từ đầu quý tới, nên mình chỉ còn khoảng 3 tuần để hoàn thiện các văn bản hướng dẫn.
+[14:39] Mọi người tập trung hoàn thành khung năng lực và báo giá bảo hiểm trước ngày 25 nhé.
+
+<|output|>
+# Cải tiến chính sách nhân sự và hệ thống quản trị hiệu suất
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và cập nhật hệ thống đánh giá hiệu suất công việc.
+- Đề xuất cải thiện các chính sách phúc lợi và lộ trình thăng tiến cho nhân viên.
+
+### 2. Các vấn đề đã thảo luận
+- Bất cập của hệ thống KPI hiện tại: nặng nề, chưa sát thực tế.
+- Đề xuất chuyển dịch từ KPI sang mô hình OKR để tăng tính linh hoạt.
+- Nhu cầu về phúc lợi mới: bảo hiểm sức khỏe cho người thân và chế độ làm việc từ xa (Remote working).
+- Vấn đề giữ chân nhân tài thông qua lộ trình thăng tiến rõ ràng và khung năng lực chuẩn.
+- Áp lực cạnh tranh về lương trên thị trường và kế hoạch điều chỉnh quỹ lương 10%.
+- Yêu cầu training cho quản lý về phương pháp quản trị mới.
+
+### 3. Kết luận và quyết định
+- Triển khai xây dựng khung năng lực và lộ trình thăng tiến cho từng vị trí.
+- Thử nghiệm chế độ Remote working tối đa 2 ngày/tuần cho khối văn phòng.
+- Thực hiện khảo sát báo giá các gói bảo hiểm sức khỏe mở rộng.
+- Lên kế hoạch training OKR cho các cấp quản lý.
+- Rà soát danh sách nhân sự then chốt để đề xuất điều chỉnh lương.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xây dựng khung năng lực (Competency Framework) | Phòng Nhân sự | 25/03/2026 |
+| Liên hệ báo giá bảo hiểm sức khỏe gia đình | Tổ Phúc lợi | 22/03/2026 |
+| Soạn thảo quy định làm việc từ xa | Trưởng phòng Nhân sự | 30/03/2026 |
+| Lọc danh sách nhân sự then chốt tăng lương | Ban Giám đốc & HR | 28/03/2026 |
+| Lên chương trình đào tạo OKR | Tổ Đào tạo | 05/04/2026 |
+| Hoàn thiện bảng mô tả lộ trình thăng tiến | Phòng Nhân sự | 10/04/2026 |

@@ -1,0 +1,66 @@
+<|input|>
+[09:00] Chào chị Thảo (Trưởng phòng Nhân sự) và anh Minh (Đại diện công ty bảo hiểm PVI). Hôm nay chúng ta họp để rà soát và thiết kế lại gói bảo hiểm sức khỏe cho hơn 2.000 nhân viên của tập đoàn mình trong năm tới. Mục tiêu của Ban Giám đốc là muốn tăng tính cạnh tranh của gói phúc lợi để giữ chân nhân tài.
+[09:02] Dạ chào anh. Hiện tại gói cũ của mình đang bộc lộ một số hạn chế, đặc biệt là hạn mức ngoại trú (Outpatient) hơi thấp, chỉ 10 triệu/năm, và chưa có quyền lợi nha khoa hay thai sản cho các bạn nhân viên nữ.
+[09:04] Ờ... thai sản là vấn đề rất được quan tâm đấy chị Thảo. Năm nay tập đoàn mình có rất nhiều bạn trẻ lập gia đình. Anh Minh xem có gói nào tích hợp thai sản với mức chi phí hợp lý không?
+[09:06] Vâng thưa anh. Bên PVI tụi em có thể thiết kế một gói tùy chỉnh (Tailor-made). Riêng quyền lợi thai sản, tụi em đề xuất hạn mức 20-30 triệu cho sinh thường và 40-50 triệu cho sinh mổ. Quyền lợi này sẽ có thời gian chờ (waiting period) là 270 ngày để đảm bảo tính bền vững của quỹ bảo hiểm.
+[09:08] 270 ngày là chuẩn rồi. Còn nha khoa (Dental) thì sao? Nhiều bạn than phiền là chi phí lấy cao răng, nhổ răng khôn ở các phòng khám quốc tế đắt quá.
+[09:10] Dạ, nha khoa thì mình có thể thêm vào như một Option bổ sung. Hạn mức khoảng 5 triệu/năm là đủ cho các dịch vụ cơ bản như lấy cao răng, trám răng, nhổ răng sâu. Nếu tập đoàn mua cho toàn bộ 2.000 nhân viên thì phí sẽ rất rẻ, chỉ khoảng 300-400 ngàn/người/năm thôi ạ.
+[09:12] Ờ... 400 ngàn mà đổi lại nhân viên thấy được quan tâm thì cũng đáng. Chị Thảo thấy sao về việc phân cấp các hạng mức bảo hiểm? Mình nên chia làm mấy hạng?
+[09:14] Em đề xuất chia làm 3 hạng: Hạng Kim cương (cho Ban Giám đốc và C-level), Hạng Vàng (cho cấp Quản lý/Manager) và Hạng Bạc (cho nhân viên khối văn phòng và nhà máy). Mỗi hạng sẽ có hạn mức nằm viện và phẫu thuật khác nhau. Ví dụ hạng Kim cương có thể lên đến 500 triệu/năm và được đi tất cả các bệnh viện quốc tế như Vinmec hay FV mà không cần trả tiền trước (Direct Billing).
+[09:16] Direct Billing là tính năng cực kỳ quan trọng anh Minh nhé. Nhân viên họ ngại nhất là phải thu thập hóa đơn rồi chờ đợi thanh toán (Reimbursement) lâu la. Danh sách bệnh viện liên kết (Network) của PVI hiện nay thế nào?
+[09:18] Anh yên tâm, hệ thống Direct Billing của PVI hiện đang lớn nhất Việt Nam với hơn 200 bệnh viện và phòng khám trải dài từ Bắc vào Nam. Đặc biệt, tụi em vừa ký kết thêm với một số bệnh viện công chất lượng cao như BV Đại học Y Dược và BV Tâm Anh để đa dạng hóa lựa chọn cho nhân viên.
+[09:20] Tốt! À, anh Minh lưu ý cho tôi vụ bảo hiểm cho người thân. Nhiều nhân viên họ muốn mua thêm cho con cái hoặc bố mẹ với giá ưu đãi theo đoàn của công ty. PVI có hỗ trợ vụ này không?
+[09:22] Dạ có chứ anh. Tụi em có chương trình "Family Cover". Nhân viên có thể đăng ký mua thêm cho người thân với mức phí ưu đãi giảm 20-30% so với mua lẻ bên ngoài, và đặc biệt là được hưởng chung mạng lưới Direct Billing với nhân viên luôn. Công ty chỉ cần đứng ra thu tiền hộ và chuyển cho bên em thôi.
+[09:24] Chị Thảo ghi lại điểm này nhé. Đây là một điểm cộng rất lớn trong mắt nhân viên mà công ty không tốn thêm chi phí đóng bảo hiểm.
+[09:26] Ờ... còn vụ bồi thường qua App (E-claim) thì sao anh Minh? Dạo này xu hướng chuyển đổi số mà, mình vẫn dùng giấy tờ thủ công thì lạc hậu quá.
+[09:28] Anh nói đúng ạ. PVI đã có App "PVI Care". Nhân viên chỉ cần chụp ảnh đơn thuốc, hóa đơn rồi up lên app. Trong vòng 5 ngày làm việc là tiền sẽ về tài khoản. Tụi em cam kết tỷ lệ xử lý hồ sơ tự động (Auto-adjudication) đạt trên 70%.
+[09:30] 5 ngày là tiến bộ hơn trước rồi. Trước đây có khi nhân viên đợi cả tháng trời. Thảo check lại quy trình này xem có thực sự nhanh như anh Minh nói không nhé.
+[09:32] Dạ, em sẽ xin danh sách các doanh nghiệp đang dùng PVI để hỏi thăm (reference check). À, anh Minh cho em hỏi về bảo hiểm tử kỳ và tai nạn (Personal Accident). Mình có nên gộp chung vào gói sức khỏe luôn không?
+[09:34] Thường thì các doanh nghiệp lớn sẽ mua kèm gói Tai nạn 24/24 với hạn mức khoảng 30-50 tháng lương. Phí gói này cực rẻ nhưng ý nghĩa bảo vệ rất cao nếu chẳng may có sự cố xảy ra. Em nghĩ mình nên gộp vào để tạo thành một gói "An sinh toàn diện".
+[09:36] 30 tháng lương là mức khá cao đấy. Minh tính toán lại xem nếu gộp hết các quyền lợi: Nội trú hạng Bạc, Thai sản, Nha khoa và Tai nạn thì phí bình quân trên đầu người là bao nhiêu?
+[09:38] Dạ, tính sơ bộ thì khoảng 3.5 - 4 triệu đồng/người/năm. Tổng ngân sách cho 2.000 nhân viên sẽ rơi vào khoảng 7-8 tỷ đồng.
+[09:40] 8 tỷ à? Ờ... hơi cao hơn ngân sách dự kiến 6 tỷ của công ty. Thảo xem có cách nào tối ưu không? Ví dụ phần Nha khoa mình chỉ tài trợ 50% phí, 50% còn lại nhân viên tự trả nếu muốn tham gia?
+[09:42] Ý tưởng chia sẻ chi phí (Cost-sharing) cũng là một cách hay sếp ạ. Hoặc mình chỉ tặng thai sản cho những nhân viên có thâm niên trên 2 năm. Như vậy vừa tiết kiệm vừa khuyến khích nhân viên gắn bó lâu dài.
+[09:44] Được, Thảo thảo luận thêm với anh Minh để ra được 2 phương án: Phương án 1 là gói cao cấp (đầy đủ quyền lợi) và Phương án 2 là gói tiết kiệm (có sự chia sẻ chi phí). Thứ 4 tuần sau trình lại anh để anh báo cáo Ban Giám đốc.
+[09:46] Vâng thưa anh. Em sẽ làm việc với anh Minh để có bảng so sánh quyền lợi và phí chi tiết nhất.
+[09:48] Rất cảm ơn anh Minh đã dành thời gian. Hy vọng chúng ta sẽ sớm tìm được phương án hợp tác tối ưu.
+[09:50] Dạ, PVI rất mong được tiếp tục đồng hành cùng quý tập đoàn. Em chào anh, chào chị Thảo ạ.
+[09:52] Chào mọi người. Tan họp nhé.
+
+<|output|>
+# Thiết kế gói bảo hiểm sức khỏe toàn diện cho nhân viên tập đoàn năm 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát gói bảo hiểm sức khỏe hiện tại và nâng cấp các quyền lợi để tăng tính cạnh tranh cho phúc lợi nhân viên.
+- Thống nhất các quyền lợi mới: Thai sản, Nha khoa, Tai nạn 24/24 và bảo hiểm cho người thân.
+- Cân đối giữa nhu cầu nhân viên và ngân sách tập đoàn (ngân sách tiêu chuẩn 6-8 tỷ VNĐ).
+
+### 2. Các vấn đề đã thảo luận
+- **Phân cấp quyền lợi:** Chia làm 3 hạng (Kim cương, Vàng, Bạc) tương ứng với cấp bậc chức vụ.
+- **Quyền lợi mới:** 
+    - Thai sản: Hạn mức 20-50 triệu, thời gian chờ 270 ngày.
+    - Nha khoa: Hạn mức 5 triệu/năm, phí bổ sung thấp.
+    - Tai nạn 24/24: Bồi thường theo tháng lương (đề xuất 30-50 tháng).
+- **Trải nghiệm người dùng:** Ưu tiên bảo lãnh viện phí (Direct Billing) qua mạng lưới bệnh viện rộng khắp (Vinmec, FV, Tâm Anh...) và bồi thường online qua App (E-claim) trong 5 ngày.
+- **Bảo hiểm cho người thân:** Chương trình "Family Cover" giúp nhân viên mua thêm cho gia đình với mức giảm phí 20-30%.
+- **Tối ưu ngân sách:** Áp dụng cơ chế chia sẻ chi phí (nhân viên đóng một phần phí nha khoa) hoặc điều kiện thâm niên (cho quyền lợi thai sản) để kiểm soát tổng phí.
+
+### 3. Kết luận và quyết định
+- Giao phòng Nhân sự làm việc với PVI xây dựng 02 phương án (Cao cấp & Tiết kiệm) để trình Ban Giám đốc vào tuần sau.
+- Thực hiện Reference Check với các khách hàng hiện tại của PVI về tốc độ xử lý E-claim.
+- Phê duyệt chủ trương triển khai tính năng Direct Billing và mua bảo hiểm tai nạn đi kèm gói sức khỏe.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xây dựng 02 phương án bảo hiểm chi tiết (quyền lợi và phí) | Anh Minh (PVI) | 02/12/2024 |
+| Liên hệ các doanh nghiệp đang dùng PVI để khảo sát chất lượng | Chị Thảo (HR) | 03/12/2024 |
+| Soạn thông báo khảo sát nhu cầu mua bảo hiểm cho người thân | Phòng Nhân sự | 05/12/2024 |
+| Tổng hợp dữ liệu thâm niên nhân viên để tính toán phí thai sản | Phòng Nhân sự | 04/12/2024 |
+| Chuẩn bị slide báo cáo Ban Giám đốc về gói bảo hiểm mới | Chị Thảo (HR) | 05/12/2024 |
+| Ký kết biên bản ghi nhớ (MOU) sau khi chốt phương án | Ban Giám đốc | 15/12/2024 |
+| Tổ chức buổi Workshop hướng dẫn sử dụng App PVI Care | Team PVI + HR | 10/01/2025 |
+| Rà soát danh sách bệnh viện liên kết tại khu vực các nhà máy | Chị Thảo (HR) | 12/12/2024 |

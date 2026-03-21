@@ -1,0 +1,66 @@
+<|input|>
+[09:00] Chào mọi người, hôm nay chúng ta tập trung để bàn về kế hoạch ra mắt dòng son môi mới của công ty, bộ sưu tập "Velvet Dream". Đây là sản phẩm chủ lực của quý này nên tôi muốn mọi thứ phải thật hoàn hảo.
+[09:02] Dạ chị, bên em đã làm việc với bên sản xuất rồi. Về chất son thì đã chốt mẫu cuối cùng. Tuy nhiên, ừm... cái vỏ son đang có chút vấn đề. Bên gia công báo là cái nắp nam châm nó không được khít như mẫu ban đầu, cứ bị lỏng lỏng ấy.
+[09:04] Lỏng là lỏng thế nào? Cái nắp nam châm là điểm nhấn sang trọng của dòng này mà giờ lại bị lỗi thì khách hàng họ đánh giá mình 'treo đầu dê bán thịt chó' ngay. Em đã làm việc lại với họ chưa?
+[09:06] Em có làm việc rồi ạ. Họ giải thích là do khuôn đúc đợt này bị lệch một xíu. Nếu sửa lại khuôn thì phải mất thêm ít nhất 10 ngày nữa mới có hàng loạt. Như vậy thì sẽ bị trễ ngày ra mắt dự kiến là 20/10.
+[09:08] Trễ 10 ngày à? Không được, 20/10 là ngày Phụ nữ Việt Nam, cơ hội vàng để mình chạy campaign quà tặng. Nếu lùi sang cuối tháng thì coi như mất hết nhiệt. Mọi người thấy sao? Có phương án nào khác không?
+[09:10] Hay là mình tạm thời không dùng nắp nam châm cho đợt đầu này mà chuyển sang nắp vặn truyền thống nhưng làm bằng chất liệu cao cấp hơn một chút? Kiểu như nhựa giả kim loại mạ vàng chẳng hạn.
+[09:12] Không được anh ơi. Concept "Velvet Dream" là sự tinh tế và trải nghiệm mượt mà. Cái tiếng 'tách' khi đóng nắp nam châm nó mang lại cảm giác rất 'high-end'. Nếu đổi sang nắp vặn thì định vị sản phẩm bị hạ thấp ngay lập tức. Khách hàng họ đã thấy teaser rồi mà.
+[09:14] Đúng rồi đấy. Teaser mình đã lỡ quay cảnh đóng nắp son bằng nam châm rồi, giờ thay đổi là mình tự tát vào mặt mình. Tôi quyết định vẫn giữ nắp nam châm. Bên sản xuất ép họ làm tăng ca, hoặc là mình chấp nhận ra mắt số lượng giới hạn trước, ai đặt trước thì nhận trước.
+[09:16] Ý tưởng ra mắt số lượng giới hạn cũng hay. Mình có thể tạo ra một sự 'khan hiếm giả tạo' để kích cầu. Kiểu như 'Pre-order 500 thỏi đầu tiên với nắp nam châm phiên bản giới hạn'.
+[09:18] Vậy thì mình phải điều chỉnh lại kịch bản truyền thông. Lan xem lại cái kế hoạch booking KOLs/KOCs nhé. Nếu hàng về nhỏ giọt thì mình ưu tiên gửi cho mấy bạn TikToker review trước để lấy độ phủ.
+[09:20] Dạ, về KOLs thì em đã lên danh sách rồi. Tuy nhiên, dạo này mấy bạn KOC đang có xu hướng đòi phí booking cao quá, mà hiệu quả thì chưa chắc chắn. Em đang định chuyển hướng sang micro-influencers nhưng số lượng nhiều hơn để tạo cảm giác 'người người dùng son Velvet Dream'.
+[09:22] Chuyển hướng đó cũng được, nhưng phải đảm bảo hình ảnh của các bạn đó phải 'sang'. Đừng chọn mấy bạn làm content lố lăng quá, ảnh hưởng đến thương hiệu. Còn cái vụ livestream trên TikTok Shop thì sao?
+[09:24] Livestream thì em định hợp tác với một bên Agency chuyên nghiệp. Họ có dàn mẫu và kỹ thuật setup ánh sáng cực tốt. Vấn đề là họ đòi hoa hồng hơi cao, 15% doanh số.
+[09:26] 15% à? Căng nhỉ. Biên lợi nhuận của mình sau khi trừ chi phí marketing và sản xuất thì còn bao nhiêu?
+[09:28] Nếu tính cả phí Agency và các voucher giảm giá để kích sale thì mình chỉ còn lời khoảng 20% trên mỗi thỏi son thôi chị.
+[09:30] 20% là hơi mỏng cho một sản phẩm mới. Mình cần cân đối lại. Hay là mình tự build team livestream nội bộ? Mình có mẫu của công ty, có studio sẵn mà.
+[09:32] Tự build thì tiết kiệm được chi phí nhưng mà kinh nghiệm thực chiến trên TikTok chưa nhiều chị ạ. Em sợ lúc đầu không biết cách 'build mắt' cho livestream thì lại không có người xem.
+[09:34] Thôi thế này, đợt đầu mình cứ thuê Agency để lấy kinh nghiệm và lấy lượng follow cho kênh trước đã. Sau đó mình sẽ tự làm dần dần. Cứ coi như 15% đó là chi phí đi học.
+[09:36] Vâng, em sẽ chốt lại với bên Agency. Còn cái vụ event ra mắt tại trung tâm thương mại thì sao ạ? Có nên làm hoành tráng không hay chỉ làm mini-event thôi?
+[09:38] Tình hình kinh tế dạo này cũng đang khó khăn, khách hàng họ cũng thắt chặt chi tiêu. Tôi nghĩ không nên làm event quá xa hoa tốn kém hàng tỷ đồng đâu. Tập trung làm cái booth trải nghiệm tại sảnh chính của Takashimaya, trang trí thật đẹp để các bạn trẻ đến check-in. Vừa có tương tác thực tế, vừa có hình ảnh phủ sóng MXH.
+[09:40] Ý tưởng booth check-in hay đó chị. Mình có thể thuê mấy anh chàng người mẫu cao ráo đứng tặng hoa và thử son cho khách. Kiểu đó dễ viral lắm.
+[09:42] OK, chốt vậy nhé. Mọi người về làm lại bảng dự toán ngân sách chi tiết cho từng hạng mục. Nhớ là phải cực kỳ sát sao với bên sản xuất vụ cái nắp son. Phải có hàng demo 'ngon' gửi cho KOLs trước ngày 10/10.
+[09:44] Dạ vâng ạ.
+[09:46] Còn một việc nữa là cái slogan. "Mịn như nhung, môi bừng sức sống" nghe nó có vẻ hơi cũ rồi. Có ai có ý tưởng nào 'chất' hơn không? Kiểu ngắn gọn, súc tích và hiện đại ấy.
+[09:48] Em nghĩ đến cái "Velvet Dream - Chạm nhẹ, yêu luôn". Hoặc là "Đánh thức giấc mơ nhung mịn".
+[09:50] "Chạm nhẹ, yêu luôn" nghe cũng được nhưng hơi đại trà. Thôi cái này team Marketing brainstorm tiếp rồi gửi tôi 3 options vào sáng mai nhé.
+[09:52] Vâng thưa chị.
+[09:54] Tan họp nhé, mọi người cố gắng lên, đợt này thành bại tại marketing đấy.
+[09:56] Cố lên mọi người ơi!
+
+<|output|>
+# Kế hoạch ra mắt bộ sưu tập son môi "Velvet Dream"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tiến độ sản xuất và giải quyết sự cố kỹ thuật của vỏ son.
+- Thống nhất chiến lược truyền thông, lựa chọn KOLs/KOCs và kênh phân phối.
+- Cân đối ngân sách marketing và phương án tổ chức sự kiện ra mắt.
+
+### 2. Các vấn đề đã thảo luận
+- Sự cố nắp nam châm bị lỏng do lỗi khuôn đúc, nếu sửa sẽ trễ ngày ra mắt 20/10.
+- Quyết định giữ nguyên thiết kế nắp nam châm để đảm bảo định vị phân khúc cao cấp, chấp nhận ra mắt số lượng giới hạn (Pre-order).
+- Chiến lược KOLs: Chuyển hướng từ các bạn lớn sang micro-influencers để tăng độ phủ nhưng yêu cầu hình ảnh phải sang trọng.
+- Livestream trên TikTok Shop: Thuê Agency (phí 15% doanh số) cho đợt đầu để lấy kinh nghiệm và lượt theo dõi.
+- Sự kiện ra mắt: Chốt phương án làm booth trải nghiệm và check-in tại trung tâm thương mại thay vì làm event xa hoa để tiết kiệm chi phí.
+- Thay đổi slogan sản phẩm cho hiện đại và thu hút hơn.
+
+### 3. Kết luận và quyết định
+- Vẫn giữ ngày ra mắt 20/10 với hình thức Pre-order cho 500 sản phẩm đầu tiên có nắp nam châm hoàn thiện.
+- Ưu tiên gửi sản phẩm demo cho KOLs review trước ngày 10/10.
+- Thuê Agency thực hiện livestream TikTok Shop đợt đầu.
+- Xây dựng booth trải nghiệm tại sảnh chính trung tâm thương mại (dự kiến Takashimaya).
+- Team Marketing brainstorm và gửi 03 phương án slogan mới trước sáng mai.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Làm việc với bên gia công về nắp nam châm và tiến độ hàng giới hạn | Team Sản xuất | 25/09/2024 |
+| Chốt danh sách micro-influencers và gửi sản phẩm demo | Team Marketing | 10/10/2024 |
+| Đàm phán và ký hợp đồng với Agency Livestream | Lan | 28/09/2024 |
+| Thiết kế phối cảnh booth check-in tại TTTM | Team Thiết kế | 05/10/2024 |
+| Gửi 03 options slogan mới cho Ban giám đốc | Team Marketing | 20/09/2024 |
+| Hoàn thiện bảng dự toán ngân sách chi tiết | Lan | 22/09/2024 |

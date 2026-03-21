@@ -1,0 +1,42 @@
+<|input|>
+[09:15:00] Alo, bên mình đang bị quá tải khâu đặt lịch khám qua hotline đúng không Thảo? Sáng nay chị nghe phản ánh là khách gọi mãi không được.
+[09:16:10] Dạ chị, dạo này lượng bệnh nhân tăng đột biến, mà team chăm sóc khách hàng của em chỉ có 3 người trực điện thoại thôi ạ.
+[09:17:25] Em thấy mình nên đẩy mạnh việc đặt lịch qua Website với App đi. Hiện tại tỷ lệ đặt online mới chiếm khoảng 20%, còn lại toàn gọi hotline nên mới nghẽn.
+[09:18:40] Website mình dạo này load chậm lắm Nam ơi, khách vào bấm mấy cái là treo thì họ nản, lại quay ra gọi hotline thôi.
+[09:19:55] Chết thật, Nam kiểm tra lại hạ tầng server xem sao. Nếu cần thì nâng cấp gói hosting lên. Chứ để Website treo thế này là mất khách đấy.
+[09:21:10] Vâng chị, em sẽ tối ưu lại mã nguồn và kiểm tra lại băng thông. Thảo xem có thể bổ sung thêm tính năng nhắc lịch tự động qua Zalo cho bệnh nhân không?
+[09:22:25] Cái đó hay đấy Nam. Nếu mình nhắc lịch tự động thì sẽ giảm bớt được việc nhân viên phải gọi điện xác nhận lại từng người. Đỡ tốn thời gian hơn bao nhiêu.
+[09:23:40] Thảo lên danh sách các khung giờ vàng hay bị nghẽn mạng nhất nhé. Mình có thể thuê thêm cộng tác viên trực hotline trong các khung giờ đó để giảm tải cho team chính.
+[09:24:55] Dạ, em sẽ tổng hợp lại số liệu từ tổng đài rồi báo cáo chị. Ngoài ra em đề xuất mình làm một cái video hướng dẫn đặt lịch online ngắn gửi vào Zalo cho khách hàng cũ.
+[09:26:10] Ý tưởng tốt. Nam lo phần kỹ thuật Website, Thảo lo phần kịch bản video và điều phối nhân sự hotline nhé. Thứ Hai tuần sau mình check lại tiến độ.
+[09:27:25] Ok chị, em sẽ bắt tay vào làm luôn. Hy vọng tuần tới tình hình sẽ cải thiện hơn.
+
+<|output|>
+# Cải thiện quy trình đặt lịch khám bệnh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng quá tải hotline đặt lịch khám.
+- Thúc đẩy việc sử dụng các kênh đặt lịch online (Website, App).
+
+### 2. Các vấn đề đã thảo luận
+- Hotline hiện đang quá tải do lượng bệnh nhân tăng đột biến và thiếu nhân sự trực.
+- Tỷ lệ đặt lịch online thấp (20%) do Website hoạt động không ổn định, thường xuyên bị treo.
+- Cần tối ưu hạ tầng Website và nâng cấp server để đảm bảo trải nghiệm người dùng.
+- Đề xuất bổ sung tính năng nhắc lịch tự động qua Zalo OA để giảm bớt công việc xác nhận thủ công.
+- Xem xét thuê cộng tác viên trực hotline trong các khung giờ cao điểm.
+
+### 3. Kết luận và quyết định
+- Ưu tiên sửa lỗi kỹ thuật trên Website để khách hàng dễ dàng đặt lịch online.
+- Triển khai tính năng nhắc lịch tự động qua Zalo.
+- Thực hiện video hướng dẫn khách hàng sử dụng hệ thống đặt lịch mới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tối ưu hạ tầng Website và sửa lỗi load chậm | Nam | Thứ Năm tới |
+| Thống kê khung giờ cao điểm và đề xuất thuê CTV | Thảo | Thứ Sáu tới |
+| Xây dựng kịch bản video hướng dẫn đặt lịch online | Thảo | Thứ Bảy tới |
+| Thiết lập hệ thống nhắc lịch tự động qua Zalo | Nam | Thứ Hai tuần sau |

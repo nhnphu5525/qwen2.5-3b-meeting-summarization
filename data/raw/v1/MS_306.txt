@@ -1,0 +1,47 @@
+<|input|>
+[13:30] Chào cô Lan và các thầy cô trong ban chương trình. Hôm nay mình ngồi lại để thảo luận về phương án cải cách chương trình học cho khối lớp 10 năm học tới, theo hướng tăng cường trải nghiệm thực tế và kỹ năng mềm. Cô Lan thấy khung chương trình hiện tại có quá tải đối với học sinh không?
+[13:33] Tôi thấy chương trình hiện tại đang quá chú trọng vào lý thuyết hàn lâm, khiến học sinh rất áp lực mà kỹ năng thực hành lại yếu. Ví dụ như môn Sinh học hay Hóa học, các em chủ yếu học trên sách vở chứ ít khi được vào phòng thí nghiệm. Tôi đề xuất cắt giảm 20% thời lượng lý thuyết để chuyển sang các tiết học dự án.
+[13:36] Ý kiến của cô Lan rất hay. Thầy Nam bên tổ Toán - Lý thấy sao về việc lồng ghép các bài toán thực tế vào giảng dạy? Thay vì chỉ giải phương trình khô khan, mình có thể cho các em tính toán các thông số trong xây dựng hoặc kinh doanh chẳng hạn.
+[13:39] Tôi hoàn toàn ủng hộ. Thực tế là khi các em thấy được tính ứng dụng của kiến thức, các em sẽ hứng thú hơn rất nhiều. Tuy nhiên, khó khăn lớn nhất là giáo trình hiện tại không có sẵn các ví dụ này. Giáo viên sẽ phải tự soạn lại bài giảng, điều này tốn rất nhiều thời gian và công sức.
+[13:42] Đúng là vậy, khối lượng công việc của giáo viên sẽ tăng lên đáng kể. Vậy chúng ta có thể thành lập một nhóm chuyên trách để biên soạn bộ "ngân hàng dự án" dùng chung cho toàn khối không? Chị Thủy bên đào tạo thấy ngân sách cho việc này thế nào?
+[13:45] Dạ, về kinh phí hỗ trợ biên soạn tài liệu mới thì trường mình hoàn toàn có thể trích từ quỹ phát triển chuyên môn. Em sẽ làm việc với bên tài chính để đề xuất mức thù lao xứng đáng cho các thầy cô tham gia nhóm biên soạn này. Ngoài ra, mình cũng cần đầu tư thêm trang thiết bị cho các phòng chức năng.
+[13:48] Rất tốt. Vậy cô Lan giúp tôi chọn ra các thầy cô nòng cốt của mỗi tổ bộ môn để bắt đầu triển khai nhóm biên soạn này nhé. Chúng ta cần có bản thảo đầu tiên vào cuối tháng 5 để kịp thẩm định.
+[13:51] Vâng, tôi sẽ gửi danh sách nhân sự cho thầy vào thứ Sáu này. Còn một vấn đề nữa là việc đánh giá học sinh. Nếu mình dạy theo dự án thì cách chấm điểm cũng phải thay đổi, không thể chỉ dựa vào bài kiểm tra 45 phút truyền thống được.
+[13:54] Chính xác. Thầy Nam và cô Lan nghiên cứu thêm về phương pháp đánh giá theo năng lực và sản phẩm dự án (Rubric). Mình nên chiếm khoảng 30% tổng số điểm là từ các hoạt động nhóm và sản phẩm thực tế của học sinh.
+[13:57] Tôi sẽ cùng nhóm chuyên trách xây dựng bảng tiêu chí đánh giá cụ thể cho từng môn học. Điều này đảm bảo tính công bằng và khuyến khích các em sáng tạo hơn.
+[14:00] Tuyệt vời. Vậy kế hoạch hành động sắp tới là: thành lập nhóm biên soạn, xây dựng ngân hàng dự án và bộ tiêu chí đánh giá mới. Chị Thủy cũng sớm hoàn thiện các thủ tục về kinh phí nhé.
+[14:03] Dạ em rõ rồi ạ. Em sẽ báo cáo tiến độ cho thầy vào tuần sau.
+[14:06] Cảm ơn các thầy cô. Buổi họp hôm nay rất hiệu quả.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận phương án cải cách chương trình học khối lớp 10 theo hướng tăng cường trải nghiệm và kỹ năng.
+- Giải quyết vấn đề quá tải lý thuyết và thiếu tính thực tiễn trong giáo trình hiện tại.
+- Thống nhất cơ chế hỗ trợ giáo viên và phương pháp đánh giá học sinh mới.
+
+### 2. Các vấn đề đã thảo luận
+- Chương trình hiện tại quá nặng về lý thuyết, thiếu giờ thực hành thí nghiệm.
+- Đề xuất cắt giảm 20% lý thuyết để chuyển sang học tập theo dự án (Project-based learning).
+- Khó khăn của giáo viên khi phải tự soạn lại bài giảng do thiếu giáo trình ứng dụng thực tế.
+- Nhu cầu thành lập nhóm chuyên trách biên soạn ngân hàng dự án dùng chung.
+- Thay đổi phương pháp đánh giá: áp dụng bảng tiêu chí Rubric và đánh giá theo năng lực.
+- Vấn đề ngân sách hỗ trợ biên soạn và đầu tư trang thiết bị phòng chức năng.
+
+### 3. Kết luận và quyết định
+- Thành lập nhóm chuyên trách biên soạn "ngân hàng dự án" cho các tổ bộ môn.
+- Áp dụng cơ chế tính điểm mới: 30% điểm số dựa trên hoạt động dự án và kỹ năng mềm.
+- Trích quỹ phát triển chuyên môn để chi trả thù lao biên soạn tài liệu cho giáo viên.
+- Đặt thời hạn hoàn thành bản thảo chương trình mới vào cuối tháng 5/2026.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập danh sách nhân sự nhóm biên soạn chuyên trách | Cô Lan | 20/03/2026 |
+| Đề xuất ngân sách và thủ tục chi trả thù lao | Chị Thủy | 25/03/2026 |
+| Xây dựng bảng tiêu chí đánh giá Rubric mẫu | Thầy Nam & Cô Lan | 15/04/2026 |
+| Hoàn thành bản thảo ngân hàng dự án đợt 1 | Nhóm chuyên trách | 30/05/2026 |

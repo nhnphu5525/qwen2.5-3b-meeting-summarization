@@ -1,0 +1,47 @@
+<|input|>
+[08:30] Chào anh Thành và các anh chị trong đoàn kiểm tra nội bộ. Hôm nay chúng ta sẽ nghe báo cáo về kết quả đợt kiểm toán định kỳ tháng 3 vừa qua tại các chi nhánh khu vực miền Bắc. Anh Thành thấy có vấn đề gì nổi cộm không?
+[08:33] Qua đợt kiểm tra này, tôi thấy vấn đề lớn nhất nằm ở khâu quản lý các khoản tạm ứng của nhân viên kinh doanh. Nhiều khoản tạm ứng đi công tác từ 3-4 tháng trước vẫn chưa được hoàn ứng theo đúng quy định. Số tiền tồn đọng này lên tới vài trăm triệu đồng.
+[08:36] Căng vậy sao? Quy định của mình là hoàn ứng trong vòng 7 ngày sau khi kết thúc chuyến đi mà. Sao để tồn đọng lâu thế được? Chị Vân bên kế toán thanh toán giải thích thêm chỗ này xem nào.
+[08:39] Dạ thưa anh, lý do các bạn đưa ra là thiếu hóa đơn hoặc hóa đơn không hợp lệ từ các đơn vị ở vùng sâu vùng xa. Tuy nhiên, em thấy cũng có sự chủ quan từ phía các trưởng bộ phận khi không đôn đốc nhân viên của mình làm thủ tục thanh toán kịp thời.
+[08:42] Cái này không chấp nhận được. Việc quản lý dòng tiền phải nghiêm túc. Tôi đề nghị từ tháng sau, nếu ai không hoàn ứng đúng hạn thì kế toán tự động trừ vào lương của tháng đó. Chị Vân thấy phương án này có khả thi về mặt kỹ thuật không?
+[08:45] Dạ hoàn toàn khả thi ạ. Em sẽ phối hợp với bên nhân sự để thiết lập lệnh trừ lương tự động trên hệ thống nếu quá hạn 15 ngày mà chưa có hồ sơ hoàn ứng hợp lệ.
+[08:48] Ngoài ra còn vấn đề gì nữa không anh Thành? Chuyện tồn kho và tài sản cố định thì sao?
+[08:51] Về kho bãi thì nhìn chung ổn, nhưng có một số thiết bị máy móc cũ đã thanh lý từ năm ngoái nhưng trên sổ sách kế toán vẫn chưa làm thủ tục giảm tài sản. Điều này làm cho báo cáo tài chính không phản ánh đúng thực tế giá trị tài sản ròng của công ty mình.
+[08:54] Cái này là do sơ suất trong việc luân chuyển chứng từ giữa bộ phận hành chính và kế toán đây. Anh Thành giúp tôi lập một danh sách chi tiết các tài sản cần thanh lý thực tế để đối chiếu lại một lần cuối. Chị Vân sau đó phải cập nhật ngay vào phần mềm nhé.
+[08:57] Vâng, em sẽ làm việc với phòng Hành chính để chốt lại danh sách này trong tuần tới. Tôi cũng phát hiện ra một số hóa đơn đầu vào của mảng mua sắm văn phòng phẩm có dấu hiệu bị kê giá cao hơn thị trường khoảng 10-15%.
+[09:00] Lại còn chuyện này nữa à? Chúng ta cần rà soát lại quy trình lựa chọn nhà cung cấp. Từ giờ, mọi đơn hàng trên 5 triệu đồng đều phải có ít nhất 3 báo giá cạnh tranh để so sánh. Anh Thành tiếp tục đào sâu chỗ này giúp tôi, nếu có dấu hiệu trục lợi cá nhân thì phải xử lý nghiêm theo nội quy công ty.
+[09:03] Tôi rõ rồi. Tôi sẽ yêu cầu bộ phận mua sắm giải trình về các hóa đơn này và cung cấp hồ sơ báo giá của các đơn vị cung cấp khác. 
+[09:06] Được rồi, cuộc họp hôm nay tạm dừng ở đây. Các đầu việc về hoàn ứng, thanh lý tài sản và kiểm tra mua sắm phải được triển khai ngay lập tức.
+[09:09] Cảm ơn anh, chào mọi người.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Báo cáo kết quả kiểm toán nội bộ tháng 3 tại khu vực miền Bắc.
+- Xử lý các sai phạm về quản lý tài chính, tài sản và mua sắm văn phòng.
+- Chỉnh sửa quy trình nghiệp vụ để nâng cao tính minh bạch và hiệu quả quản lý.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng chậm hoàn ứng kéo dài của nhân viên kinh doanh với số tiền lớn.
+- Sai lệch giữa sổ sách kế toán và thực tế đối với các tài sản cố định đã thanh lý.
+- Nghi vấn kê cao giá hóa đơn đầu vào trong mảng mua sắm văn phòng phẩm.
+- Sự thiếu chặt chẽ trong việc luân chuyển chứng từ giữa các bộ phận hành chính và kế toán.
+
+### 3. Kết luận và quyết định
+- Áp dụng hình thức trừ lương tự động nếu nhân viên chậm hoàn ứng quá 15 ngày.
+- Rà soát và cập nhật lại danh mục tài sản cố định trên phần mềm kế toán.
+- Thiết lập quy định bắt buộc phải có 3 báo giá cạnh tranh cho mọi đơn mua sắm trên 5 triệu đồng.
+- Yêu cầu giải trình và kiểm tra kỹ dấu hiệu trục lợi trong việc mua sắm văn phòng phẩm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết lập cơ chế trừ lương tự động khi chậm hoàn ứng | Chị Vân & Phòng NS | 01/04/2026 |
+| Đối chiếu và chốt danh sách tài sản cần thanh lý | Anh Thành | 25/03/2026 |
+| Kiểm tra hồ sơ mua sắm và yêu cầu giải trình kê giá | Phòng Kiểm toán | 30/03/2026 |
+| Cập nhật quy trình mua sắm mới (3 báo giá) | Ban Giám đốc | 05/04/2026 |
+| Cập nhật sổ sách kế toán tài sản cố định | Chị Vân | 28/03/2026 |

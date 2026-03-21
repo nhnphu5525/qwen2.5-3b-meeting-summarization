@@ -1,0 +1,70 @@
+<|input|>
+[09:00:00] Chào buổi sáng mọi người. Hôm nay là một buổi họp cực kỳ quan trọng, có thể nói là bước ngoặt của tập đoàn mình trong 5 năm tới. Chúng ta sẽ thảo luận chi tiết về kế hoạch thâm nhập thị trường Đông Nam Á, cụ thể là hai "ông lớn" Thái Lan và Indonesia. Hà ơi, em bắt đầu bằng cái nhìn tổng quan về chiến lược lần này đi.
+[09:02:15] Dạ anh Sơn. Thưa anh và các anh chị, sau 2 năm thống trị thị trường nội địa, việc vươn ra biển lớn là tất yếu. Thái Lan và Indonesia được chọn vì có cơ cấu dân số tương đồng và sức mua đang tăng trưởng rất mạnh trong mảng thực phẩm chế biến sẵn của mình. Tuy nhiên, mỗi thị trường lại có những "rào cản" rất riêng mà chúng ta cần bóc tách hôm nay.
+[09:04:30] Tuấn nè, em đã có kết quả khảo sát hành vi người tiêu dùng ở Bangkok với Jakarta chưa? Họ thích khẩu vị thế nào? Có khác nhiều so với dân mình không?
+[09:06:45] Dạ vầy nè anh Sơn, báo cáo nghiên cứu thị trường của em cho thấy dân Thái họ cực kỳ chuộng vị chua cay nhưng phải có chút ngọt hậu, hơn nữa họ rất quan tâm đến bao bì, phải thật "màu mè" và bắt mắt. Trong khi đó, ở Indonesia, yếu tố quan trọng nhất lại là chứng chỉ Halal. Hơn 85% dân số là người Hồi giáo nên nếu không có logo Halal trên bao bì thì coi như mình cầm chắc phần thất bại rồi anh ạ.
+[09:09:00] Halal hả? Linh bên Pháp chế thấy vụ này sao? Mình xin cấp chứng chỉ đó ở Việt Nam hay phải sang tận bển mới làm được?
+[09:11:15] Dạ anh Sơn, chứng chỉ Halal mình có thể xin tại các tổ chức được quốc tế công nhận ở Việt Nam. Tuy nhiên, quy trình kiểm định cực kỳ khắt khe, từ nguồn nguyên liệu đầu vào cho đến dây chuyền sản xuất phải tách biệt hoàn toàn. Em đang nghiên cứu kỹ cái Luật JPH của Indonesia, họ mới có những quy định mới về dán nhãn Halal bắt buộc từ năm 2024 này đó anh. Mình phải hết sức cẩn thận chỗ này.
+[09:13:30] Nghe chừng cũng gian nan đó. Hùng ơi, còn vụ Logistic thì sao? Đường biển hay đường bộ thì tối ưu hơn cho hai thị trường này?
+[09:15:45] Dạ báo cáo anh, với Thái Lan thì đường bộ qua ngả Campuchia là nhanh nhất nhưng chi phí cầu đường với "phí gầm cầu" hơi cao. Còn Indonesia thì bắt buộc phải đi đường biển. Khổ nỗi là cảng Jakarta dạo này hay bị tắc nghẽn, hàng container của mình mà nằm chờ ở cảng quá 1 tuần là ảnh hưởng đến date sản phẩm ngay. Em đề xuất mình nên tìm các đối tác kho lạnh tại chỗ để trung chuyển hàng ngay khi cập cảng anh ạ.
+[09:18:00] Hà thấy sao về ý kiến của Hùng? Mình nên tự xây dựng hệ thống phân phối hay bắt tay với các ông lớn bán lẻ bên đó như CP All của Thái hay Indomarco của Indonesia?
+[09:20:15] Em nghĩ giai đoạn đầu mình nên "đứng trên vai người khổng lồ" anh ạ. Tự xây dựng từ đầu tốn kém và rủi ro lắm. Em đã có những liên hệ ban đầu với đại diện Central Group ở Thái. Họ khá hứng thú với dòng sản phẩm hữu cơ của mình. Còn ở Indonesia, em đang nhắm tới việc liên doanh với một doanh nghiệp địa phương để tận dụng mạng lưới phân phối sẵn có và sự am hiểu văn hóa của họ.
+[09:22:30] Liên doanh thì phải chọn mặt gửi vàng nha Linh. Coi kỹ phần tỷ lệ sở hữu với quyền biểu quyết, đừng để mình bị "nuốt chửng" sau vài năm hoạt động.
+[09:24:45] Dạ em đang soạn thảo một bản ghi nhớ (MOU) với các điều khoản bảo vệ quyền lợi cổ đông thiểu số rất chặt chẽ. Mà anh Sơn ơi, còn vụ chuyển giá với thuế suất ưu đãi giữa các nước ASEAN (ATIGA) nữa, mình cũng phải tận dụng tối đa để tối ưu lợi nhuận anh ạ.
+[09:27:00] Đúng rồi Linh. Tuấn ơi, em check lại xem đối thủ cạnh tranh trực tiếp của mình bên đó là ai? Mấy hãng của Trung Quốc hay hàng nội địa của họ mạnh hơn?
+[09:29:15] Dạ ở Thái thì các tập đoàn gia đình như CP hay ThaiBev họ phủ sóng kín kẽ lắm rồi. Mình chỉ có cửa ở ngách "thực phẩm vì sức khỏe" thôi. Còn ở Indonesia thì hàng nội địa của họ rất rẻ nhưng chất lượng chưa đồng đều. Đây là cơ hội để mình định vị ở phân khúc trung và cao cấp, mang mác "Hàng Việt Nam chất lượng cao" sang chinh chiến anh ạ.
+[09:31:30] Phân khúc cao cấp thì bao bì phải xịn nha Tuấn. Hà nhớ chỉ đạo team Marketing bên mình phối hợp với đội bên đó để "địa phương hóa" (localize) thông điệp quảng cáo. Đừng có bê nguyên xi mấy cái slogan tiếng Việt sang dịch word-by-word là hỏng hết bánh kẹo đó.
+[09:33:45] Dạ em hiểu mà. Em định thuê hẳn một Agency bản địa để họ làm nội dung cho mình. Chứ mình ngồi đây đoán mò tâm lý dân bển thì không ổn đâu ạ. Anh Sơn duyệt cho em cái budget cho khâu nghiên cứu chuyên sâu và trial-marketing này nha.
+[09:36:00] Ờ, duyệt. Tiền nào của nấy, không được tiết kiệm chỗ này. Hùng nè, em tính toán thử xem nếu mình đặt một nhà máy gia công (OEM) ngay tại Indonesia để giảm thuế nhập khẩu và chi phí vận chuyển thì có khả thi không?
+[09:38:15] Dạ phương án này em cũng đã tính qua. Nếu sản lượng đạt trên 5 triệu đơn vị sản phẩm/năm thì đặt OEM bên đó cực kỳ lợi. Nhân công bên bển rẻ, mà mình lại có mác "Made in Indonesia" thì dân họ cũng ủng hộ hơn. Nhưng cái khó là kiểm soát chất lượng (QC), mình phải cử người của mình sang nằm vùng ở nhà máy họ suốt 24/7 anh ạ.
+[09:40:30] Chuyện đó tính sau, trước mắt cứ xuất khẩu thử nghiệm xem phản ứng thị trường thế nào đã. Linh với Hà phối hợp chốt cái lộ trình (roadmap) cho anh. Anh muốn cuối quý IV năm nay phải có lô hàng đầu tiên lên kệ siêu thị ở Bangkok.
+[09:42:45] Dạ quyết tâm anh ạ! Em sẽ đẩy nhanh tiến độ đàm phán với Central Group.
+[09:45:00] Em cũng sẽ hoàn thiện hồ sơ pháp lý và đăng ký nhãn hiệu bảo hộ tại cả hai nước trong tháng tới. Không để tình trạng bị cướp thương hiệu như mấy vụ trước đây đâu anh.
+[09:47:15] Tốt. Còn Tuấn, em bay sang Jakarta một chuyến đi. Xuống tận mấy cái chợ truyền thống với siêu thị mini coi họ bày bán thế nào, chụp ảnh rồi về báo cáo chi tiết cho anh. Đi thực tế nó mới ra vấn đề được.
+[09:49:30] Dạ vâng ạ, em sẽ chuẩn bị lịch trình và đi ngay trong tuần tới.
+[09:51:45] Logistic thì em sẽ làm việc với mấy bên forwarder lớn để xin giá "cứng" cho lộ trình dài hạn. Anh cứ yên tâm khâu vận chuyển.
+[09:54:00] Ok, tinh thần thế là tốt. Chúng ta đang đứng trước cơ hội lớn nhưng cũng đầy cạm bẫy. Phải đoàn kết và làm việc thật chi tiết. Mỗi tuần mình sẽ họp tiến độ dự án này một lần vào sáng thứ Hai nhé. Thôi, chúc cả team nhiều năng lượng để đưa con tàu của mình ra khơi thành công!
+[09:56:15] Dạ chào anh Sơn ạ. Cố lên cả nhà ơi!
+[09:58:30] Chào mọi người nhé, em về phòng làm nốt cái tờ trình đi Thái đây.
+
+<|output|>
+# Kế hoạch thâm nhập thị trường Đông Nam Á (Thái Lan & Indonesia)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất chiến lược thâm nhập thị trường Thái Lan và Indonesia cho mảng thực phẩm chế biến.
+- Đánh giá các rào cản về văn hóa, pháp lý, logistic và đối thủ cạnh tranh.
+- Phân công nhiệm vụ cho các bộ phận chủ chốt để chuẩn bị cho lô hàng đầu tiên vào cuối quý IV.
+
+### 2. Các vấn đề đã thảo luận
+- Nghiên cứu thị trường:
+  + Thái Lan: Ưu tiên khẩu vị chua cay ngọt, bao bì bắt mắt, tập trung phân khúc thực phẩm sức khỏe/hữu cơ.
+  + Indonesia: Chứng chỉ Halal là điều kiện tiên quyết (85% dân số Hồi giáo), chú trọng phân khúc trung và cao cấp.
+- Pháp lý và Thương hiệu:
+  + Cần xin chứng chỉ Halal quốc tế tại Việt Nam với quy trình kiểm định khắt khe.
+  + Đăng ký bảo hộ nhãn hiệu tại nước sở tại để tránh bị chiếm dụng thương hiệu.
+  + Tận dụng các ưu đãi thuế quan từ hiệp định ATIGA.
+- Logistic và Phân phối:
+  + Thái Lan: Vận tải đường bộ qua Campuchia; Indonesia: Vận tải đường biển kết hợp kho lạnh trung chuyển.
+  + Chiến lược phân phối: Bắt tay với các ông lớn bán lẻ (Central Group, Indomarco) thay vì tự xây dựng hệ thống.
+  + Cân nhắc phương án OEM tại địa phương nếu sản lượng đạt quy mô lớn.
+- Marketing: Thuê Agency bản địa để "địa phương hóa" nội dung và thông điệp truyền thông.
+
+### 3. Kết luận và quyết định
+- Chốt lộ trình: Có mặt tại kệ siêu thị Thái Lan vào cuối quý IV năm nay.
+- Duyệt ngân sách cho nghiên cứu thị trường chuyên sâu và thuê Agency nội địa.
+- Cử cán bộ đi khảo sát thực tế tại Indonesia ngay trong tuần tới.
+- Thiết lập chế độ họp giao ban dự án định kỳ vào sáng thứ Hai hàng tuần.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đàm phán MOU với đối tác Central Group (Thái Lan) | Chị Hà - Giám đốc chiến lược | 15/07/2024 |
+| Đăng ký bảo hộ nhãn hiệu và chứng chỉ Halal | Linh - Phòng Pháp chế | 30/07/2024 |
+| Khảo sát thực địa và hành vi tiêu dùng tại Jakarta | Tuấn - Market Research | 25/06/2024 |
+| Đàm phán giá cước vận tải dài hạn với Forwarder | Hùng - Logistic | 10/07/2024 |
+| Lập dự toán chi phí OEM tại Indonesia | Hùng - Logistic | 20/07/2024 |
+| Tuyển chọn Agency Marketing bản địa | Chị Hà - Giám đốc chiến lược | 05/08/2024 |
+| Hoàn thiện Roadmap chi tiết trình CEO | Team Dự án | 10/07/2024 |

@@ -1,0 +1,43 @@
+<|input|>
+[15:00] Chào mọi người, hôm nay mình ngồi lại rà soát đợt cuối cái hồ sơ quyết toán thuế năm nay nhé, sắp đến hạn rồi đấy.
+[15:02] Dạ em, hiện tại chứng từ của bên mình cũng tương đối ổn rồi, chỉ còn vài cái hóa đơn đầu vào của quý 3 là chưa khớp lắm.
+[15:03] À, thế cái chỗ chi phí tiếp khách ấy, em đã kiểm tra lại mấy cái bill chưa? Nhớ là phải có đủ thông tin mới được trừ nhé.
+[15:05] Em đang làm lại rồi ạ, chỗ đó hơi lằng nhằng tí, em sẽ chốt xong trong chiều nay.
+[15:06] Chứ anh thấy năm nay mấy cái quy định mới về thuế giá trị gia tăng nó cũng thay đổi nhiều, mình phải cập nhật cho chuẩn.
+[15:08] Dạ vâng, em có đọc qua mấy cái thông tư mới nhất rồi, cũng may là mình áp dụng đúng từ đầu năm.
+[15:09] Thế còn hồ sơ lao động và bảo hiểm thì sao hả chị? Thuế họ hay soi mấy cái khoản này lắm đấy.
+[15:11] Ờ... cái đó thì bên nhân sự đã gửi danh sách chốt rồi, em đang đối chiếu lại với sổ cái đây, chắc là ổn thôi.
+[15:12] Tốt, mọi người cố gắng làm cho kỹ, thà chậm một tí mà chắc còn hơn là để họ phạt thì mệt lắm.
+[15:14] Em sẽ gửi bản tổng hợp cuối cùng cho sếp xem trước khi mình nộp hồ sơ chính thức nhé.
+[15:15] Ừ, cố gắng xong trước ngày 25 để mình còn thời gian chỉnh sửa nếu có sai sót.
+[15:17] Dạ, bọn em rõ rồi.
+
+<|output|>
+# Rà soát hồ sơ quyết toán thuế năm
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Kiểm tra tiến độ chuẩn bị hồ sơ quyết toán thuế.
+- Rà soát các hóa đơn, chứng từ chưa khớp và các khoản chi phí nhạy cảm.
+- Cập nhật các quy định mới về thuế để đảm bảo tuân thủ.
+
+### 2. Các vấn đề đã thảo luận
+- Hóa đơn đầu vào quý 3 chưa khớp hoàn toàn.
+- Yêu cầu bổ sung đầy đủ thông tin cho các hóa đơn chi phí tiếp khách.
+- Cập nhật thông tư mới về thuế giá trị gia tăng.
+- Đối chiếu hồ sơ lao động, bảo hiểm với sổ cái kế toán.
+
+### 3. Kết luận và quyết định
+- Ưu tiên xử lý dứt điểm các hóa đơn lỗi trong ngày hôm nay.
+- Hoàn thiện bản tổng hợp cuối cùng trước ngày 25 để nộp hồ sơ đúng hạn.
+- Đảm bảo tính chính xác tuyệt đối để tránh các rủi ro bị phạt thuế.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hóa đơn đầu vào quý 3 | Team Kế toán | 20/03/2026 |
+| Xử lý chứng từ chi phí tiếp khách | Em (Kế toán viên) | 20/03/2026 |
+| Đối chiếu hồ sơ bảo hiểm và nhân sự | Chị (Kế toán trưởng) | 22/03/2026 |
+| Gửi bản tổng hợp quyết toán cho sếp duyệt | Phòng Kế toán | 24/03/2026 |

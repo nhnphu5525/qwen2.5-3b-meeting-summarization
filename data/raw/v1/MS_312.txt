@@ -1,0 +1,45 @@
+<|input|>
+[14:00] Chào thầy Minh và các anh chị trong Ban quản lý quỹ học bổng. Hôm nay chúng ta họp để chốt danh sách các bạn sinh viên nhận học bổng "Vượt khó" cho học kỳ này. Thầy Minh thấy hồ sơ năm nay thế nào ạ?
+[14:02] Tôi thấy lượng hồ sơ tăng đột biến so với năm ngoái, khoảng 30%. Có rất nhiều trường hợp hoàn cảnh đặc biệt khó khăn nhưng kết quả học tập lại cực kỳ ấn tượng. Việc sàng lọc ra 50 suất cuối cùng thực sự là một bài toán khó cho ban giám khảo.
+[14:04] Dạ đúng rồi thầy, em cũng nhận thấy nhiều bạn có điểm GPA trên 3.6 nhưng gia đình lại thuộc hộ nghèo hoặc cận nghèo. Chị Thúy bên tài trợ có thể xem xét nâng thêm ngân quỹ để mình hỗ trợ thêm khoảng 10 suất nữa không chị?
+[14:06] Về nguyên tắc thì ngân sách đã được phê duyệt từ đầu năm rồi em. Tuy nhiên, chị thấy sức lan tỏa của chương trình năm nay rất tốt, nên chị sẽ thử trao đổi với các đối tác doanh nghiệp xem họ có muốn tài trợ thêm các suất học bổng riêng lẻ không. Nếu được thì mình có thể tăng số lượng suất lên.
+[14:08] Nếu chị Thúy làm được việc đó thì tốt quá. Thầy Minh lưu ý giúp em là mình cần ưu tiên những bạn sinh viên năm cuối đang làm đồ án tốt nghiệp mà gặp khó khăn tài chính nhé, để các bạn có thể yên tâm hoàn thành chương trình đúng hạn.
+[14:10] Tôi đồng ý. Ngoài ra, mình cũng cần kiểm tra lại tính xác thực của các giấy tờ xác nhận hoàn cảnh gia đình. Một số hồ sơ tôi thấy thông tin còn hơi mập mờ, em nhờ các bạn bên Đoàn thanh niên xác minh lại tại địa phương nhé.
+[14:12] Vâng thầy, em sẽ gửi danh sách cần xác minh cho bên Đoàn ngay chiều nay. Dự kiến là mình sẽ có kết quả cuối cùng vào thứ Sáu tới để kịp làm lễ trao học bổng vào đầu tháng 4.
+[14:14] Chị Thúy nhớ gửi cho em danh sách các doanh nghiệp đồng ý tài trợ thêm trước thứ Tư nhé, để em kịp in logo và chuẩn bị bằng khen cho họ trong buổi lễ.
+[14:16] Được rồi, chị sẽ cố gắng chốt sớm với họ. Còn về địa điểm tổ chức buổi lễ, thầy Minh thấy hội trường A hay sân trường thì phù hợp hơn ạ?
+[14:18] Tôi nghĩ nên tổ chức ở hội trường A cho trang trọng và tránh ảnh hưởng của thời tiết. Với quy mô 60 suất học bổng và khách mời thì hội trường A là vừa đủ.
+[14:20] Ok, vậy thống nhất các đầu việc như vậy. Hy vọng buổi lễ sẽ diễn ra thành công tốt đẹp.
+[14:22] Cảm ơn thầy và mọi người.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Sàng lọc và chốt danh sách sinh viên nhận học bổng "Vượt khó" học kỳ này.
+- Thảo luận phương án tăng ngân sách học bổng thông qua vận động tài trợ doanh nghiệp.
+- Chuẩn bị kế hoạch tổ chức lễ trao học bổng.
+
+### 2. Các vấn đề đã thảo luận
+- Số lượng hồ sơ tăng 30%, nhiều trường hợp đạt GPA cao nhưng hoàn cảnh rất khó khăn.
+- Nhu cầu tăng thêm 10 suất học bổng so với kế hoạch ban đầu.
+- Vấn đề xác minh tính xác thực của các giấy tờ chứng nhận hoàn cảnh gia đình.
+- Ưu tiên hỗ trợ sinh viên năm cuối đang thực hiện đồ án tốt nghiệp.
+- Lựa chọn địa điểm tổ chức lễ trao giải tại Hội trường A.
+
+### 3. Kết luận và quyết định
+- Giao bộ phận đối ngoại vận động thêm tài trợ từ các doanh nghiệp đối tác.
+- Phối hợp với Đoàn thanh niên để xác minh thông tin các hồ sơ còn nghi vấn.
+- Thống nhất tổ chức buổi lễ vào đầu tháng 4/2026 tại Hội trường A.
+- Hoàn thiện danh sách 60 suất học bổng (bao gồm 10 suất bổ sung) trước ngày thứ Sáu tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Vận động tài trợ bổ sung từ doanh nghiệp | Chị Thúy | 21/03/2026 |
+| Xác minh hoàn cảnh gia đình sinh viên qua Đoàn trường | Bộ phận quản lý sinh viên | 20/03/2026 |
+| Chuẩn bị danh sách bằng khen và in ấn logo nhà tài trợ | Ban tổ chức | 25/03/2026 |
+| Đặt lịch hội trường và chuẩn bị hậu cần buổi lễ | Thầy Minh | 28/03/2026 |

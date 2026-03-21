@@ -1,0 +1,66 @@
+<|input|>
+[09:00] Chào anh Quân, chào chị Hà và team backend. Hôm nay chúng ta họp để chốt phương án kiến trúc cho dự án nâng cấp hệ thống lõi (core system) lên Microservices.
+[09:02] Chào mọi người, như đã thảo luận sơ bộ ở buổi trước, hệ thống Monolith hiện tại đang gặp vấn đề nghiêm trọng về khả năng mở rộng khi lượng user tăng đột biến vào các khung giờ cao điểm.
+[09:04] Đúng thế anh Quân, đặc biệt là module xử lý thanh toán và module quản lý kho. Mỗi khi có đợt flash sale, database luôn trong tình trạng quá tải do lock tranh chấp dữ liệu.
+[09:06] Chào Hà, chào Quân. Tôi đã xem qua bản vẽ sơ bộ của team AI và Backend. Việc chuyển sang Microservices là bắt buộc, nhưng chúng ta cần xác định rõ ranh giới (bounded context) cho từng dịch vụ để tránh tình trạng "Distributed Monolith".
+[09:08] Em đồng ý với chị Hà. Theo em, mình nên tách riêng Service Thanh toán, Service Kho, Service Người dùng và Service Đơn hàng. Mỗi service sẽ có database riêng để đảm bảo tính độc lập.
+[09:10] Nếu mỗi service một DB thì vấn đề nhất quán dữ liệu (data consistency) sẽ xử lý thế nào hả Hà? Đặc biệt là khi một đơn hàng được tạo, mình phải trừ kho và trừ tiền cùng lúc.
+[09:12] Chỗ này em đề xuất dùng mô hình Saga, cụ thể là Orchestration-based Saga. Chúng ta sẽ có một Service Điều phối để quản lý các bước giao dịch. Nếu một bước thất bại, mình sẽ thực hiện các giao dịch bù (compensating transactions) để hoàn tác.
+[09:14] Dùng Saga thì khá phức tạp trong việc debug đấy. Anh có lo ngại về độ trễ (latency) khi phải gọi qua lại giữa quá nhiều service không?
+[09:16] Để giảm latency, mình sẽ sử dụng Message Broker như Kafka để giao tiếp bất đồng bộ cho những tác vụ không yêu cầu realtime ngay lập tức, ví dụ như gửi mail xác nhận hay cập nhật báo cáo.
+[09:18] Kafka là lựa chọn tốt cho throughput cao. Còn về phần API Gateway, anh Quân định dùng Kong hay tự xây bằng Go?
+[09:20] Anh nghĩ mình nên dùng Kong để tận dụng các plugin có sẵn về Rate Limiting, Authentication và Logging. Tự xây sẽ mất nhiều thời gian maintain sau này.
+[09:22] Về phần hạ tầng, chúng ta sẽ triển khai trên Kubernetes (K8s) chứ chị Hà? Em muốn tận dụng khả năng Auto-scaling của nó.
+[09:24] Tất nhiên rồi Hà. Chúng ta sẽ setup các Cluster trên AWS. Tuy nhiên, chi phí cloud dạo này đang tăng cao, Hà cần tối ưu các tài nguyên sử dụng, tránh việc cấp phát quá mức (over-provisioning).
+[09:26] Về bảo mật, mỗi service cần được quét lỗ hổng định kỳ. Anh muốn tích hợp các công cụ như SonarQube và Snyk vào pipeline CI/CD luôn.
+[09:28] Em sẽ phụ trách cấu hình lại Jenkins để tích hợp các bước quét bảo mật đó. Ngoài ra, việc quản lý bí mật (secret management) như API Key hay DB Password, em đề xuất dùng HashiCorp Vault thay vì để trong file config.
+[09:30] Rất tốt. Còn vấn đề Monitoring và Alerting thì sao? Khi có hàng chục service chạy cùng lúc, làm sao mình biết cái nào đang bị lỗi?
+[09:32] Chúng ta sẽ dùng bộ stack Prometheus kết hợp với Grafana để dashboard hóa các chỉ số hệ thống. Còn về logging tập trung, ELK Stack (Elasticsearch, Logstash, Kibana) vẫn là lựa chọn hàng đầu chị ạ.
+[09:34] Anh muốn bổ sung thêm Distributed Tracing nữa. Jaegger hoặc Zipkin sẽ giúp mình theo dõi luồng request đi qua các service, rất hữu ích khi cần tìm bottleneck.
+[09:36] Dạ để em tìm hiểu thêm về Jaegger và đưa vào bản kế hoạch triển khai chi tiết.
+[09:38] Quay lại vấn đề database, cho Service Kho, em định dùng SQL hay NoSQL?
+[09:40] Với dữ liệu kho có cấu trúc phức tạp và cần tính chính xác cao, em vẫn ưu tiên dùng PostgreSQL. Tuy nhiên, cho phần cache sản phẩm, Redis sẽ giúp giảm tải cho DB chính rất nhiều.
+[09:42] Đồng ý. Chị Hà lưu ý phần migration dữ liệu từ hệ thống cũ sang hệ thống mới nhé. Chúng ta không thể dừng hệ thống quá lâu để chuyển đổi được.
+[09:44] Em dự định dùng chiến lược "Strangler Fig Pattern". Mình sẽ dần dần chuyển từng module sang Microservices, module nào xong thì trỏ traffic sang đó, cái cũ vẫn giữ lại làm dự phòng.
+[09:46] Cách đó là an toàn nhất. Về mặt tiến độ, bao giờ team có thể chạy được môi trường Staging cho Service đầu tiên?
+[09:48] Nếu không có gì thay đổi, khoảng 3 tuần nữa em sẽ hoàn thành Service Người dùng và tích hợp lên K8s.
+[09:50] OK, vậy Hà tập trung làm bản thiết kế chi tiết cho Service Người dùng trước. Anh Quân lo phần hạ tầng AWS và K8s Cluster. Chị sẽ review lại toàn bộ kiến trúc một lần nữa vào thứ Sáu.
+[09:52] Cảm ơn chị Hà, cảm ơn Hà backend. Mọi người cố gắng nhé, dự án này rất quan trọng với công ty trong năm nay.
+[09:54] Vâng ạ, chúng em sẽ cố gắng hết sức.
+[09:56] Chào mọi người, buổi họp kết thúc tại đây.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt phương án chuyển đổi kiến trúc hệ thống từ Monolith sang Microservices.
+- Xác định các công nghệ then chốt sẽ sử dụng (Kafka, K8s, Kong, Prometheus).
+- Phân công nhiệm vụ cho các team Backend và DevOps.
+
+### 2. Các vấn đề đã thảo luận
+- Hệ thống cũ bị quá tải database và khó mở rộng trong các kỳ flash sale.
+- Phân chia 4 service chính: Thanh toán, Kho, Người dùng và Đơn hàng.
+- Giải pháp nhất quán dữ liệu bằng mô hình Saga (Orchestration-based).
+- Sử dụng Kafka cho giao tiếp bất đồng bộ và Kong làm API Gateway.
+- Triển khai hạ tầng trên AWS với Kubernetes và tối ưu chi phí Cloud.
+- Tích hợp bảo mật tự động (SonarQube, Snyk) và quản lý bí mật qua Vault.
+- Hệ thống giám sát tập trung bằng Prometheus, Grafana và ELK Stack.
+- Chiến lược chuyển đổi dữ liệu bằng Strangler Fig Pattern để đảm bảo hệ thống luôn sẵn sàng.
+
+### 3. Kết luận và quyết định
+- Thống nhất kiến trúc Microservices dựa trên Kubernetes và Kafka.
+- Sử dụng PostgreSQL cho các service yêu cầu tính chính xác cao và Redis để cache.
+- Áp dụng Strangler Fig Pattern để di trú dữ liệu dần dần.
+- Đặt mục tiêu có môi trường Staging cho Service Người dùng sau 3 tuần.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế chi tiết Database và API cho Service Người dùng | Hà Backend | 30/03/2024 |
+| Setup Cluster Kubernetes trên môi trường AWS Staging | Anh Quân | 02/04/2024 |
+| Cấu hình pipeline CI/CD tích hợp quét bảo mật | Hà Backend | 05/04/2024 |
+| Xây dựng dashboard giám sát cơ bản trên Grafana | Team DevOps | 07/04/2024 |
+| Nghiên cứu giải pháp Distributed Tracing với Jaegger | Hà Backend | 28/03/2024 |

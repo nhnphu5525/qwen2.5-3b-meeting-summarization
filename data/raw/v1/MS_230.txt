@@ -1,0 +1,851 @@
+<|input|>
+[08:30] Để tôi check lại với bên thất thoát hàng hóa xem tình hình thế nào nhé.
+[08:32] Mọi người có thấy vụ hiệu quả hoạt động dạo này bị chậm không?
+[08:34] Để tôi check lại với bên quy trình bán hàng xem tình hình thế nào nhé.
+[08:33] Thực ra Thôi được rồi, vậy thống nhất là làm hiệu quả hoạt động theo cách đó.
+[08:34] Dạ Có ai phụ trách chính cho mảng thất thoát hàng hóa chưa nhỉ?
+[08:35] Đừng quên là kiểm kê định kỳ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[08:36] Thực ra thì chống gian lận không phải là mục tiêu duy nhất của mình.
+[08:44] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[08:38] Cái thất thoát hàng hóa này hình như đang bị vướng chỗ nào đó đúng không?
+[08:39] Mọi người cứ cho ý kiến thoải mái về quy trình bán hàng đi ạ.
+[08:40] Liệu mình có thể đẩy nhanh tiến độ cho thất thoát hàng hóa được không?
+[08:41] Tóm lại là Nói chung là mình phải chốt phương án cho chống gian lận ngay trong hôm nay.
+[08:54] Cái này nè Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[08:56] Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[08:44] Để tôi check lại với bên kiểm kê định kỳ xem tình hình thế nào nhé.
+[08:45] Nói chung là Tôi đồng ý với ý kiến về hiệu quả hoạt động, nên làm quyết liệt hơn.
+[09:02] Chào cả nhà, chúng ta bắt đầu bàn về kiểm kê định kỳ nhé.
+[09:04] Vâng, tôi cũng thấy việc tối ưu hiệu quả hoạt động là rất cần thiết.
+[08:48] Cần phải làm rõ thêm các chi tiết liên quan đến quy trình bán hàng.
+[08:49] Mọi người có thấy vụ chống gian lận dạo này bị chậm không?
+[09:10] Chào cả nhà, chúng ta bắt đầu bàn về hiệu quả hoạt động nhé.
+[08:51] Tôi nghĩ là mình nên xem xét lại cái chống gian lận này một chút.
+[09:14] Chào cả nhà, chúng ta bắt đầu bàn về thất thoát hàng hóa nhé.
+[08:53] Ý tôi là Liệu mình có thể đẩy nhanh tiến độ cho chống gian lận được không?
+[08:54] Nói chung là Đừng quên là kiểm kê định kỳ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[08:55] Ờm Có ai phụ trách chính cho mảng chống gian lận chưa nhỉ?
+[08:56] Có ai phụ trách chính cho mảng quy trình bán hàng chưa nhỉ?
+[09:24] Thì Liệu mình có thể đẩy nhanh tiến độ cho hiệu quả hoạt động được không?
+[09:26] Chắc là Ờm, cái quản lý tồn kho này thực ra là một vấn đề khá nan giải.
+[09:28] Tôi nghĩ là mình nên xem xét lại cái hiệu quả hoạt động này một chút.
+[09:00] Mọi người có thấy vụ thất thoát hàng hóa dạo này bị chậm không?
+[09:01] Chào cả nhà, chúng ta bắt đầu bàn về quy trình bán hàng nhé.
+[09:02] Dạ Có ai phụ trách chính cho mảng thất thoát hàng hóa chưa nhỉ?
+[09:03] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[09:04] Cái thất thoát hàng hóa này hình như đang bị vướng chỗ nào đó đúng không?
+[09:05] Tôi đề xuất mình sẽ tập trung nguồn lực vào quản lý tồn kho trong tuần này.
+[09:42] Thôi được rồi, vậy thống nhất là làm kiểm kê định kỳ theo cách đó.
+[09:44] Để tôi check lại với bên quy trình bán hàng xem tình hình thế nào nhé.
+[09:46] À Liệu mình có thể đẩy nhanh tiến độ cho quy trình bán hàng được không?
+[09:09] Dạ Đừng quên là thất thoát hàng hóa cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:50] À Có ai phụ trách chính cho mảng kiểm kê định kỳ chưa nhỉ?
+[09:52] Thực ra Tôi đề xuất mình sẽ tập trung nguồn lực vào kiểm kê định kỳ trong tuần này.
+[09:12] Chắc là Mọi người có thấy vụ quy trình bán hàng dạo này bị chậm không?
+[09:56] Tôi đồng ý với ý kiến về chống gian lận, nên làm quyết liệt hơn.
+[09:58] Hình như Tôi đồng ý với ý kiến về chống gian lận, nên làm quyết liệt hơn.
+[09:15] Chắc là Mọi người có thấy vụ quản lý tồn kho dạo này bị chậm không?
+[10:02] Thế còn ngân sách cho quy trình bán hàng thì sao hả mọi người?
+[09:17] Có ai phụ trách chính cho mảng hiệu quả hoạt động chưa nhỉ?
+[10:06] Tôi nghĩ là mình nên xem xét lại cái quản lý tồn kho này một chút.
+[10:08] Thực ra Đừng quên là quy trình bán hàng cũng ảnh hưởng nhiều đến kết quả chung đó.
+[10:10] Để tôi check lại với bên hiệu quả hoạt động xem tình hình thế nào nhé.
+[09:21] Mọi người cứ cho ý kiến thoải mái về thất thoát hàng hóa đi ạ.
+[09:22] Vâng Vâng, tôi cũng thấy việc tối ưu hiệu quả hoạt động là rất cần thiết.
+[10:16] Thực ra thì kiểm kê định kỳ không phải là mục tiêu duy nhất của mình.
+[10:18] Về phần thất thoát hàng hóa thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[09:25] Hình như Mọi người cứ cho ý kiến thoải mái về hiệu quả hoạt động đi ạ.
+[09:26] Thực ra thì quy trình bán hàng không phải là mục tiêu duy nhất của mình.
+[10:24] Liệu mình có thể đẩy nhanh tiến độ cho kiểm kê định kỳ được không?
+[09:28] Thì đấy Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[10:28] Thì Thế còn ngân sách cho chống gian lận thì sao hả mọi người?
+[10:30] Tóm lại là Vâng, tôi cũng thấy việc tối ưu thất thoát hàng hóa là rất cần thiết.
+[10:32] Thì đấy Thực ra thì kiểm kê định kỳ không phải là mục tiêu duy nhất của mình.
+[09:32] Ờm, cái thất thoát hàng hóa này thực ra là một vấn đề khá nan giải.
+[10:36] Tôi đề xuất mình sẽ tập trung nguồn lực vào quản lý tồn kho trong tuần này.
+[10:38] Về phần hiệu quả hoạt động thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[09:35] Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[10:42] Vâng, tôi cũng thấy việc tối ưu hiệu quả hoạt động là rất cần thiết.
+[10:44] À Nói chung là mình phải chốt phương án cho kiểm kê định kỳ ngay trong hôm nay.
+[10:46] Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[10:48] Cái này nè Về phần thất thoát hàng hóa thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[10:50] Thực ra Mọi người có thấy vụ chống gian lận dạo này bị chậm không?
+[09:41] Tôi đề xuất mình sẽ tập trung nguồn lực vào chống gian lận trong tuần này.
+[09:42] Vâng Vâng, tôi cũng thấy việc tối ưu thất thoát hàng hóa là rất cần thiết.
+[09:43] Thì đấy Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[10:58] Cần phải làm rõ thêm các chi tiết liên quan đến thất thoát hàng hóa.
+[09:45] Tôi đề xuất mình sẽ tập trung nguồn lực vào thất thoát hàng hóa trong tuần này.
+[09:46] Cần phải làm rõ thêm các chi tiết liên quan đến chống gian lận.
+[09:47] Về phần hiệu quả hoạt động thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[09:48] Cái thất thoát hàng hóa này hình như đang bị vướng chỗ nào đó đúng không?
+[09:49] Có ai phụ trách chính cho mảng chống gian lận chưa nhỉ?
+[11:10] Nói chung là Mọi người cứ cho ý kiến thoải mái về hiệu quả hoạt động đi ạ.
+[11:12] Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[11:14] Cần phải làm rõ thêm các chi tiết liên quan đến chống gian lận.
+[11:16] Tôi đề xuất mình sẽ tập trung nguồn lực vào kiểm kê định kỳ trong tuần này.
+[09:54] Để tôi check lại với bên chống gian lận xem tình hình thế nào nhé.
+[09:55] Ờm, cái chống gian lận này thực ra là một vấn đề khá nan giải.
+[11:22] Thực ra Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[11:24] Dạ Có ai phụ trách chính cho mảng quy trình bán hàng chưa nhỉ?
+[09:58] Thực ra Tôi nghĩ là mình nên xem xét lại cái hiệu quả hoạt động này một chút.
+[11:28] Dạ Mọi người có thấy vụ quản lý tồn kho dạo này bị chậm không?
+[11:30] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[10:01] Nói chung là Cần phải làm rõ thêm các chi tiết liên quan đến hiệu quả hoạt động.
+[11:34] Liệu mình có thể đẩy nhanh tiến độ cho hiệu quả hoạt động được không?
+[11:36] Tóm lại là Liệu mình có thể đẩy nhanh tiến độ cho quản lý tồn kho được không?
+[10:04] À Chào cả nhà, chúng ta bắt đầu bàn về kiểm kê định kỳ nhé.
+[10:05] Thôi được rồi, vậy thống nhất là làm hiệu quả hoạt động theo cách đó.
+[10:06] Thực ra Thôi được rồi, vậy thống nhất là làm chống gian lận theo cách đó.
+[11:44] Mọi người cứ cho ý kiến thoải mái về thất thoát hàng hóa đi ạ.
+[11:46] Chào cả nhà, chúng ta bắt đầu bàn về quy trình bán hàng nhé.
+[11:48] Để tôi check lại với bên quy trình bán hàng xem tình hình thế nào nhé.
+[10:10] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[10:11] Cần phải làm rõ thêm các chi tiết liên quan đến kiểm kê định kỳ.
+[10:12] Để tôi check lại với bên kiểm kê định kỳ xem tình hình thế nào nhé.
+[10:13] Ý tôi là Tôi đề xuất mình sẽ tập trung nguồn lực vào thất thoát hàng hóa trong tuần này.
+[11:58] Mọi người cứ cho ý kiến thoải mái về quy trình bán hàng đi ạ.
+[12:00] Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[10:16] Mọi người có thấy vụ kiểm kê định kỳ dạo này bị chậm không?
+[10:17] Ý tôi là Tôi đề xuất mình sẽ tập trung nguồn lực vào kiểm kê định kỳ trong tuần này.
+[12:06] Để tôi check lại với bên thất thoát hàng hóa xem tình hình thế nào nhé.
+[12:08] Dạ Tôi nghĩ là mình nên xem xét lại cái thất thoát hàng hóa này một chút.
+[12:10] Thôi được rồi, vậy thống nhất là làm quản lý tồn kho theo cách đó.
+[12:12] Tóm lại là Về phần quy trình bán hàng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[12:14] Ờm Chào cả nhà, chúng ta bắt đầu bàn về thất thoát hàng hóa nhé.
+[12:16] Tóm lại là Về phần quản lý tồn kho thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[10:24] Mọi người có thấy vụ quản lý tồn kho dạo này bị chậm không?
+[10:25] Vâng, tôi cũng thấy việc tối ưu hiệu quả hoạt động là rất cần thiết.
+[10:26] Ờm Tôi nghĩ là mình nên xem xét lại cái quản lý tồn kho này một chút.
+[10:27] Tôi đề xuất mình sẽ tập trung nguồn lực vào chống gian lận trong tuần này.
+[10:28] Mọi người có thấy vụ quy trình bán hàng dạo này bị chậm không?
+[12:28] Chào cả nhà, chúng ta bắt đầu bàn về quản lý tồn kho nhé.
+[10:30] Nói chung là mình phải chốt phương án cho hiệu quả hoạt động ngay trong hôm nay.
+[12:32] Cần phải làm rõ thêm các chi tiết liên quan đến kiểm kê định kỳ.
+[10:32] Mọi người có thấy vụ kiểm kê định kỳ dạo này bị chậm không?
+[12:36] Tôi đề xuất mình sẽ tập trung nguồn lực vào quản lý tồn kho trong tuần này.
+[10:34] Ờm Về phần quy trình bán hàng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[12:40] Ý tôi là Tôi nghĩ là mình nên xem xét lại cái quản lý tồn kho này một chút.
+[10:36] Cần phải làm rõ thêm các chi tiết liên quan đến thất thoát hàng hóa.
+[12:44] Về phần kiểm kê định kỳ thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[10:38] Mọi người có thấy vụ quy trình bán hàng dạo này bị chậm không?
+[10:39] Chắc là Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[12:50] Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[12:52] Nói chung là Cần phải làm rõ thêm các chi tiết liên quan đến quy trình bán hàng.
+[10:42] Ờm, cái hiệu quả hoạt động này thực ra là một vấn đề khá nan giải.
+[12:56] Đừng quên là kiểm kê định kỳ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[10:44] Thế còn ngân sách cho chống gian lận thì sao hả mọi người?
+[10:45] Nói chung là mình phải chốt phương án cho hiệu quả hoạt động ngay trong hôm nay.
+[10:46] Chắc là Về phần chống gian lận thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[13:04] Nói chung là Thế còn ngân sách cho kiểm kê định kỳ thì sao hả mọi người?
+[13:06] Để tôi check lại với bên quản lý tồn kho xem tình hình thế nào nhé.
+[13:08] Chắc là Tôi nghĩ là mình nên xem xét lại cái thất thoát hàng hóa này một chút.
+[10:50] Vâng Cần phải làm rõ thêm các chi tiết liên quan đến quy trình bán hàng.
+[13:12] Về phần kiểm kê định kỳ thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[10:52] Tôi đồng ý với ý kiến về thất thoát hàng hóa, nên làm quyết liệt hơn.
+[10:53] Ý tôi là Tôi đề xuất mình sẽ tập trung nguồn lực vào quản lý tồn kho trong tuần này.
+[13:18] Tôi đồng ý với ý kiến về kiểm kê định kỳ, nên làm quyết liệt hơn.
+[13:20] Thực ra Để tôi check lại với bên thất thoát hàng hóa xem tình hình thế nào nhé.
+[13:22] Tôi nghĩ là mình nên xem xét lại cái thất thoát hàng hóa này một chút.
+[13:24] Chắc là Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[13:26] Chào cả nhà, chúng ta bắt đầu bàn về kiểm kê định kỳ nhé.
+[13:28] Vâng Tôi đề xuất mình sẽ tập trung nguồn lực vào kiểm kê định kỳ trong tuần này.
+[13:30] Dạ Đừng quên là thất thoát hàng hóa cũng ảnh hưởng nhiều đến kết quả chung đó.
+[13:32] À Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[13:34] Nói chung là mình phải chốt phương án cho quy trình bán hàng ngay trong hôm nay.
+[13:36] Mọi người có thấy vụ quản lý tồn kho dạo này bị chậm không?
+[13:38] Chắc là Vâng, tôi cũng thấy việc tối ưu hiệu quả hoạt động là rất cần thiết.
+[13:40] Hình như Ờm, cái hiệu quả hoạt động này thực ra là một vấn đề khá nan giải.
+[11:06] Tôi nghĩ là mình nên xem xét lại cái quy trình bán hàng này một chút.
+[13:44] Để tôi check lại với bên chống gian lận xem tình hình thế nào nhé.
+[13:46] Chắc là Nói chung là mình phải chốt phương án cho hiệu quả hoạt động ngay trong hôm nay.
+[11:09] Thì Chào cả nhà, chúng ta bắt đầu bàn về quản lý tồn kho nhé.
+[13:50] Chào cả nhà, chúng ta bắt đầu bàn về quy trình bán hàng nhé.
+[11:11] Nói chung là mình phải chốt phương án cho quản lý tồn kho ngay trong hôm nay.
+[11:12] Về phần quản lý tồn kho thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[13:56] Dạ Tôi đồng ý với ý kiến về hiệu quả hoạt động, nên làm quyết liệt hơn.
+[11:14] Cái kiểm kê định kỳ này hình như đang bị vướng chỗ nào đó đúng không?
+[11:15] Liệu mình có thể đẩy nhanh tiến độ cho quản lý tồn kho được không?
+[11:16] Có ai phụ trách chính cho mảng kiểm kê định kỳ chưa nhỉ?
+[14:04] Ý tôi là Về phần kiểm kê định kỳ thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[11:18] Cái kiểm kê định kỳ này hình như đang bị vướng chỗ nào đó đúng không?
+[11:19] Có ai phụ trách chính cho mảng chống gian lận chưa nhỉ?
+[11:20] Thực ra Nói chung là mình phải chốt phương án cho quản lý tồn kho ngay trong hôm nay.
+[14:12] Đừng quên là kiểm kê định kỳ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[11:22] Để tôi check lại với bên quản lý tồn kho xem tình hình thế nào nhé.
+[14:16] Về phần chống gian lận thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[11:24] Ờm Nói chung là mình phải chốt phương án cho chống gian lận ngay trong hôm nay.
+[14:20] Về phần kiểm kê định kỳ thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[11:26] À Nói chung là mình phải chốt phương án cho hiệu quả hoạt động ngay trong hôm nay.
+[14:24] Thực ra thì kiểm kê định kỳ không phải là mục tiêu duy nhất của mình.
+[14:26] Ờm Liệu mình có thể đẩy nhanh tiến độ cho thất thoát hàng hóa được không?
+[14:28] Mọi người có thấy vụ thất thoát hàng hóa dạo này bị chậm không?
+[14:30] Chào cả nhà, chúng ta bắt đầu bàn về hiệu quả hoạt động nhé.
+[14:32] Để tôi check lại với bên quản lý tồn kho xem tình hình thế nào nhé.
+[14:34] Thì Cái thất thoát hàng hóa này hình như đang bị vướng chỗ nào đó đúng không?
+[11:33] Thì Để tôi check lại với bên quản lý tồn kho xem tình hình thế nào nhé.
+[14:38] Thì Thôi được rồi, vậy thống nhất là làm chống gian lận theo cách đó.
+[11:35] Đừng quên là thất thoát hàng hóa cũng ảnh hưởng nhiều đến kết quả chung đó.
+[14:42] Đừng quên là hiệu quả hoạt động cũng ảnh hưởng nhiều đến kết quả chung đó.
+[14:44] Dạ Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[11:38] Mọi người có thấy vụ thất thoát hàng hóa dạo này bị chậm không?
+[14:48] Ý tôi là Mọi người cứ cho ý kiến thoải mái về hiệu quả hoạt động đi ạ.
+[14:50] Tôi nghĩ là mình nên xem xét lại cái hiệu quả hoạt động này một chút.
+[14:52] Thực ra thì kiểm kê định kỳ không phải là mục tiêu duy nhất của mình.
+[11:42] Tôi đề xuất mình sẽ tập trung nguồn lực vào kiểm kê định kỳ trong tuần này.
+[11:43] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[14:58] Thực ra Tôi đồng ý với ý kiến về kiểm kê định kỳ, nên làm quyết liệt hơn.
+[11:45] Ờm, cái quản lý tồn kho này thực ra là một vấn đề khá nan giải.
+[15:02] Để tôi check lại với bên quản lý tồn kho xem tình hình thế nào nhé.
+[11:47] Thì Cần phải làm rõ thêm các chi tiết liên quan đến kiểm kê định kỳ.
+[11:48] Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[11:49] Cái này nè Có ai phụ trách chính cho mảng kiểm kê định kỳ chưa nhỉ?
+[15:10] Cần phải làm rõ thêm các chi tiết liên quan đến quy trình bán hàng.
+[11:51] Cái chống gian lận này hình như đang bị vướng chỗ nào đó đúng không?
+[15:14] Dạ Thôi được rồi, vậy thống nhất là làm hiệu quả hoạt động theo cách đó.
+[15:16] Chào cả nhà, chúng ta bắt đầu bàn về quản lý tồn kho nhé.
+[11:54] Chào cả nhà, chúng ta bắt đầu bàn về hiệu quả hoạt động nhé.
+[15:20] Liệu mình có thể đẩy nhanh tiến độ cho kiểm kê định kỳ được không?
+[15:22] Tóm lại là Đừng quên là kiểm kê định kỳ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[15:24] Có ai phụ trách chính cho mảng thất thoát hàng hóa chưa nhỉ?
+[15:26] Thế còn ngân sách cho quản lý tồn kho thì sao hả mọi người?
+[15:28] Thế còn ngân sách cho hiệu quả hoạt động thì sao hả mọi người?
+[12:00] Thực ra thì kiểm kê định kỳ không phải là mục tiêu duy nhất của mình.
+[12:01] Chào cả nhà, chúng ta bắt đầu bàn về quy trình bán hàng nhé.
+[12:02] Tóm lại là Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[12:03] Mọi người có thấy vụ kiểm kê định kỳ dạo này bị chậm không?
+[15:38] Tóm lại là Về phần hiệu quả hoạt động thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[15:40] Cần phải làm rõ thêm các chi tiết liên quan đến quy trình bán hàng.
+[12:06] Ý tôi là Để tôi check lại với bên thất thoát hàng hóa xem tình hình thế nào nhé.
+[12:07] Về phần thất thoát hàng hóa thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[15:46] Về phần quản lý tồn kho thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[12:09] Thực ra Vâng, tôi cũng thấy việc tối ưu quy trình bán hàng là rất cần thiết.
+[15:50] Liệu mình có thể đẩy nhanh tiến độ cho quản lý tồn kho được không?
+[15:52] Chào cả nhà, chúng ta bắt đầu bàn về hiệu quả hoạt động nhé.
+[12:12] Cái hiệu quả hoạt động này hình như đang bị vướng chỗ nào đó đúng không?
+[12:13] Vâng, tôi cũng thấy việc tối ưu chống gian lận là rất cần thiết.
+[12:14] Cần phải làm rõ thêm các chi tiết liên quan đến thất thoát hàng hóa.
+[16:00] Mọi người có thấy vụ quy trình bán hàng dạo này bị chậm không?
+[16:02] Tóm lại là Vâng, tôi cũng thấy việc tối ưu chống gian lận là rất cần thiết.
+[12:17] Mọi người cứ cho ý kiến thoải mái về kiểm kê định kỳ đi ạ.
+[16:06] Ý tôi là Về phần thất thoát hàng hóa thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[16:08] Tôi đề xuất mình sẽ tập trung nguồn lực vào chống gian lận trong tuần này.
+[12:20] Vâng Ờm, cái thất thoát hàng hóa này thực ra là một vấn đề khá nan giải.
+[16:12] Thì Thế còn ngân sách cho quy trình bán hàng thì sao hả mọi người?
+[16:14] Tôi nghĩ là mình nên xem xét lại cái chống gian lận này một chút.
+[16:16] Thì Tôi đề xuất mình sẽ tập trung nguồn lực vào chống gian lận trong tuần này.
+[16:18] Mọi người có thấy vụ quản lý tồn kho dạo này bị chậm không?
+[12:25] Hình như Tôi đề xuất mình sẽ tập trung nguồn lực vào thất thoát hàng hóa trong tuần này.
+[16:22] Nói chung là mình phải chốt phương án cho chống gian lận ngay trong hôm nay.
+[16:24] Nói chung là Tôi đồng ý với ý kiến về kiểm kê định kỳ, nên làm quyết liệt hơn.
+[12:28] Liệu mình có thể đẩy nhanh tiến độ cho thất thoát hàng hóa được không?
+[12:29] À Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[12:30] Ý tôi là Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[12:31] Nói chung là mình phải chốt phương án cho kiểm kê định kỳ ngay trong hôm nay.
+[12:32] Vâng, tôi cũng thấy việc tối ưu hiệu quả hoạt động là rất cần thiết.
+[16:36] Thì Thực ra thì chống gian lận không phải là mục tiêu duy nhất của mình.
+[16:38] Có ai phụ trách chính cho mảng kiểm kê định kỳ chưa nhỉ?
+[12:35] Chào cả nhà, chúng ta bắt đầu bàn về quy trình bán hàng nhé.
+[12:36] Thế còn ngân sách cho hiệu quả hoạt động thì sao hả mọi người?
+[12:37] Tôi nghĩ là mình nên xem xét lại cái thất thoát hàng hóa này một chút.
+[16:46] Thôi được rồi, vậy thống nhất là làm quy trình bán hàng theo cách đó.
+[12:39] Tôi đề xuất mình sẽ tập trung nguồn lực vào thất thoát hàng hóa trong tuần này.
+[16:50] Đừng quên là hiệu quả hoạt động cũng ảnh hưởng nhiều đến kết quả chung đó.
+[12:41] Cần phải làm rõ thêm các chi tiết liên quan đến quy trình bán hàng.
+[16:54] Thế còn ngân sách cho hiệu quả hoạt động thì sao hả mọi người?
+[12:43] Để tôi check lại với bên quy trình bán hàng xem tình hình thế nào nhé.
+[12:44] Thực ra Liệu mình có thể đẩy nhanh tiến độ cho thất thoát hàng hóa được không?
+[17:00] Thì đấy Cần phải làm rõ thêm các chi tiết liên quan đến chống gian lận.
+[12:46] Thì Vâng, tôi cũng thấy việc tối ưu kiểm kê định kỳ là rất cần thiết.
+[12:47] Mọi người có thấy vụ thất thoát hàng hóa dạo này bị chậm không?
+[12:48] Tôi nghĩ là mình nên xem xét lại cái kiểm kê định kỳ này một chút.
+[12:49] Thì Thế còn ngân sách cho thất thoát hàng hóa thì sao hả mọi người?
+[12:50] Có ai phụ trách chính cho mảng quản lý tồn kho chưa nhỉ?
+[12:51] Thì đấy Mọi người cứ cho ý kiến thoải mái về thất thoát hàng hóa đi ạ.
+[17:14] Chắc là Tôi đề xuất mình sẽ tập trung nguồn lực vào thất thoát hàng hóa trong tuần này.
+[17:16] Mọi người có thấy vụ hiệu quả hoạt động dạo này bị chậm không?
+[17:18] Ý tôi là Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[12:55] Ờm Thế còn ngân sách cho chống gian lận thì sao hả mọi người?
+[12:56] Cần phải làm rõ thêm các chi tiết liên quan đến hiệu quả hoạt động.
+[12:57] Vâng, tôi cũng thấy việc tối ưu kiểm kê định kỳ là rất cần thiết.
+[12:58] Tôi đồng ý với ý kiến về chống gian lận, nên làm quyết liệt hơn.
+[12:59] Có ai phụ trách chính cho mảng hiệu quả hoạt động chưa nhỉ?
+[13:00] Cái kiểm kê định kỳ này hình như đang bị vướng chỗ nào đó đúng không?
+[17:32] Ý tôi là Để tôi check lại với bên hiệu quả hoạt động xem tình hình thế nào nhé.
+[13:02] Tôi đồng ý với ý kiến về hiệu quả hoạt động, nên làm quyết liệt hơn.
+[17:36] Cái này nè Cần phải làm rõ thêm các chi tiết liên quan đến quy trình bán hàng.
+[17:38] Thực ra Tôi đồng ý với ý kiến về hiệu quả hoạt động, nên làm quyết liệt hơn.
+[17:40] Nói chung là mình phải chốt phương án cho chống gian lận ngay trong hôm nay.
+[13:06] Nói chung là Cần phải làm rõ thêm các chi tiết liên quan đến thất thoát hàng hóa.
+[17:44] Thôi được rồi, vậy thống nhất là làm hiệu quả hoạt động theo cách đó.
+[13:08] Vâng Có ai phụ trách chính cho mảng chống gian lận chưa nhỉ?
+[13:09] Nói chung là Thôi được rồi, vậy thống nhất là làm quy trình bán hàng theo cách đó.
+[17:50] Thôi được rồi, vậy thống nhất là làm quy trình bán hàng theo cách đó.
+[17:52] Thực ra Thế còn ngân sách cho quy trình bán hàng thì sao hả mọi người?
+[17:54] Cái thất thoát hàng hóa này hình như đang bị vướng chỗ nào đó đúng không?
+[13:13] Thì đấy Cái thất thoát hàng hóa này hình như đang bị vướng chỗ nào đó đúng không?
+[13:14] Nói chung là Cái chống gian lận này hình như đang bị vướng chỗ nào đó đúng không?
+[13:15] Thực ra thì quy trình bán hàng không phải là mục tiêu duy nhất của mình.
+[18:02] Tôi nghĩ là mình nên xem xét lại cái kiểm kê định kỳ này một chút.
+[13:17] Liệu mình có thể đẩy nhanh tiến độ cho hiệu quả hoạt động được không?
+[13:18] Để tôi check lại với bên quản lý tồn kho xem tình hình thế nào nhé.
+[18:08] Để tôi check lại với bên thất thoát hàng hóa xem tình hình thế nào nhé.
+[18:10] Tôi đề xuất mình sẽ tập trung nguồn lực vào quy trình bán hàng trong tuần này.
+[18:12] Có ai phụ trách chính cho mảng quản lý tồn kho chưa nhỉ?
+[13:22] Chào cả nhà, chúng ta bắt đầu bàn về quy trình bán hàng nhé.
+[13:23] Vâng Nói chung là mình phải chốt phương án cho kiểm kê định kỳ ngay trong hôm nay.
+[18:18] Thế còn ngân sách cho quy trình bán hàng thì sao hả mọi người?
+[13:25] Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[13:26] Thế còn ngân sách cho quản lý tồn kho thì sao hả mọi người?
+[13:27] Có ai phụ trách chính cho mảng thất thoát hàng hóa chưa nhỉ?
+[13:28] Đừng quên là thất thoát hàng hóa cũng ảnh hưởng nhiều đến kết quả chung đó.
+[13:29] Tóm lại là Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[18:30] Thế còn ngân sách cho hiệu quả hoạt động thì sao hả mọi người?
+[13:31] Thế còn ngân sách cho quản lý tồn kho thì sao hả mọi người?
+[18:34] Hình như Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[13:33] Tôi đề xuất mình sẽ tập trung nguồn lực vào kiểm kê định kỳ trong tuần này.
+[13:34] Cái chống gian lận này hình như đang bị vướng chỗ nào đó đúng không?
+[18:40] Cái này nè Tôi đồng ý với ý kiến về quản lý tồn kho, nên làm quyết liệt hơn.
+[13:36] À Cái chống gian lận này hình như đang bị vướng chỗ nào đó đúng không?
+[18:44] Thực ra Tôi đề xuất mình sẽ tập trung nguồn lực vào quản lý tồn kho trong tuần này.
+[18:46] Thực ra Để tôi check lại với bên thất thoát hàng hóa xem tình hình thế nào nhé.
+[18:48] Nói chung là mình phải chốt phương án cho quản lý tồn kho ngay trong hôm nay.
+[13:40] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[13:41] Tôi nghĩ là mình nên xem xét lại cái thất thoát hàng hóa này một chút.
+[18:54] À Thế còn ngân sách cho thất thoát hàng hóa thì sao hả mọi người?
+[18:56] Có ai phụ trách chính cho mảng quy trình bán hàng chưa nhỉ?
+[18:58] Có ai phụ trách chính cho mảng hiệu quả hoạt động chưa nhỉ?
+[13:45] Ờm Nói chung là mình phải chốt phương án cho kiểm kê định kỳ ngay trong hôm nay.
+[19:02] Thì Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[19:04] Đừng quên là chống gian lận cũng ảnh hưởng nhiều đến kết quả chung đó.
+[19:06] Tôi đồng ý với ý kiến về kiểm kê định kỳ, nên làm quyết liệt hơn.
+[13:49] Tôi nghĩ là mình nên xem xét lại cái thất thoát hàng hóa này một chút.
+[19:10] Tóm lại là Tôi nghĩ là mình nên xem xét lại cái quản lý tồn kho này một chút.
+[19:12] Tôi đề xuất mình sẽ tập trung nguồn lực vào kiểm kê định kỳ trong tuần này.
+[19:14] Vâng, tôi cũng thấy việc tối ưu quy trình bán hàng là rất cần thiết.
+[19:16] Thì đấy Thực ra thì thất thoát hàng hóa không phải là mục tiêu duy nhất của mình.
+[13:54] Tóm lại là Mọi người có thấy vụ quy trình bán hàng dạo này bị chậm không?
+[19:20] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[13:56] Thế còn ngân sách cho thất thoát hàng hóa thì sao hả mọi người?
+[13:57] Tôi đồng ý với ý kiến về kiểm kê định kỳ, nên làm quyết liệt hơn.
+[19:26] Tôi nghĩ là mình nên xem xét lại cái quy trình bán hàng này một chút.
+[19:28] Thực ra Vâng, tôi cũng thấy việc tối ưu quy trình bán hàng là rất cần thiết.
+[19:30] Để tôi check lại với bên chống gian lận xem tình hình thế nào nhé.
+[14:01] Thực ra thì chống gian lận không phải là mục tiêu duy nhất của mình.
+[19:34] Thôi được rồi, vậy thống nhất là làm quản lý tồn kho theo cách đó.
+[19:36] Thôi được rồi, vậy thống nhất là làm kiểm kê định kỳ theo cách đó.
+[19:38] Thế còn ngân sách cho hiệu quả hoạt động thì sao hả mọi người?
+[19:40] Thôi được rồi, vậy thống nhất là làm hiệu quả hoạt động theo cách đó.
+[14:06] Tóm lại là Tôi đồng ý với ý kiến về quản lý tồn kho, nên làm quyết liệt hơn.
+[19:44] Vâng Thôi được rồi, vậy thống nhất là làm quản lý tồn kho theo cách đó.
+[19:46] Cái này nè Mọi người có thấy vụ hiệu quả hoạt động dạo này bị chậm không?
+[14:09] Vâng Vâng, tôi cũng thấy việc tối ưu hiệu quả hoạt động là rất cần thiết.
+[19:50] Vâng Để tôi check lại với bên chống gian lận xem tình hình thế nào nhé.
+[19:52] Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[14:12] Tôi đồng ý với ý kiến về kiểm kê định kỳ, nên làm quyết liệt hơn.
+[14:13] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[14:14] Có ai phụ trách chính cho mảng quản lý tồn kho chưa nhỉ?
+[20:00] Về phần chống gian lận thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[14:16] Liệu mình có thể đẩy nhanh tiến độ cho kiểm kê định kỳ được không?
+[20:04] Tôi đồng ý với ý kiến về kiểm kê định kỳ, nên làm quyết liệt hơn.
+[20:06] Nói chung là Tôi đồng ý với ý kiến về hiệu quả hoạt động, nên làm quyết liệt hơn.
+[14:19] Vâng Tôi nghĩ là mình nên xem xét lại cái chống gian lận này một chút.
+[20:10] Thực ra thì hiệu quả hoạt động không phải là mục tiêu duy nhất của mình.
+[20:12] Nói chung là mình phải chốt phương án cho chống gian lận ngay trong hôm nay.
+[20:14] Mọi người có thấy vụ hiệu quả hoạt động dạo này bị chậm không?
+[14:23] Đừng quên là chống gian lận cũng ảnh hưởng nhiều đến kết quả chung đó.
+[14:24] Cái kiểm kê định kỳ này hình như đang bị vướng chỗ nào đó đúng không?
+[14:25] Ờm, cái hiệu quả hoạt động này thực ra là một vấn đề khá nan giải.
+[20:22] Tôi đồng ý với ý kiến về chống gian lận, nên làm quyết liệt hơn.
+[14:27] Mọi người có thấy vụ quản lý tồn kho dạo này bị chậm không?
+[20:26] Thôi được rồi, vậy thống nhất là làm chống gian lận theo cách đó.
+[20:28] Tôi nghĩ là mình nên xem xét lại cái kiểm kê định kỳ này một chút.
+[20:30] Cần phải làm rõ thêm các chi tiết liên quan đến kiểm kê định kỳ.
+[20:32] Mọi người cứ cho ý kiến thoải mái về hiệu quả hoạt động đi ạ.
+[14:32] Mọi người cứ cho ý kiến thoải mái về kiểm kê định kỳ đi ạ.
+[20:36] Tôi nghĩ là mình nên xem xét lại cái hiệu quả hoạt động này một chút.
+[20:38] Hình như Cái kiểm kê định kỳ này hình như đang bị vướng chỗ nào đó đúng không?
+[14:35] Tôi nghĩ là mình nên xem xét lại cái chống gian lận này một chút.
+[14:36] Vâng, tôi cũng thấy việc tối ưu chống gian lận là rất cần thiết.
+[20:44] Dạ Ờm, cái quy trình bán hàng này thực ra là một vấn đề khá nan giải.
+[14:38] Thôi được rồi, vậy thống nhất là làm quy trình bán hàng theo cách đó.
+[14:39] Liệu mình có thể đẩy nhanh tiến độ cho kiểm kê định kỳ được không?
+[20:50] Nói chung là mình phải chốt phương án cho thất thoát hàng hóa ngay trong hôm nay.
+[20:52] Cần phải làm rõ thêm các chi tiết liên quan đến quy trình bán hàng.
+[14:42] Thôi được rồi, vậy thống nhất là làm thất thoát hàng hóa theo cách đó.
+[14:43] Nói chung là Mọi người có thấy vụ chống gian lận dạo này bị chậm không?
+[14:44] Dạ Thực ra thì kiểm kê định kỳ không phải là mục tiêu duy nhất của mình.
+[21:00] Tôi đề xuất mình sẽ tập trung nguồn lực vào quản lý tồn kho trong tuần này.
+[14:46] Ờm Tôi nghĩ là mình nên xem xét lại cái kiểm kê định kỳ này một chút.
+[21:04] Tôi đồng ý với ý kiến về thất thoát hàng hóa, nên làm quyết liệt hơn.
+[14:48] Dạ Vâng, tôi cũng thấy việc tối ưu thất thoát hàng hóa là rất cần thiết.
+[14:49] Vâng, tôi cũng thấy việc tối ưu quy trình bán hàng là rất cần thiết.
+[14:50] Có ai phụ trách chính cho mảng hiệu quả hoạt động chưa nhỉ?
+[21:12] Vâng, tôi cũng thấy việc tối ưu thất thoát hàng hóa là rất cần thiết.
+[14:52] Tôi nghĩ là mình nên xem xét lại cái quản lý tồn kho này một chút.
+[14:53] Có ai phụ trách chính cho mảng chống gian lận chưa nhỉ?
+[14:54] Thực ra Tôi nghĩ là mình nên xem xét lại cái thất thoát hàng hóa này một chút.
+[21:20] Về phần quản lý tồn kho thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[21:22] Để tôi check lại với bên chống gian lận xem tình hình thế nào nhé.
+[21:24] Về phần hiệu quả hoạt động thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[21:26] Tôi đồng ý với ý kiến về hiệu quả hoạt động, nên làm quyết liệt hơn.
+[21:28] Về phần quy trình bán hàng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[15:00] Nói chung là Thôi được rồi, vậy thống nhất là làm quy trình bán hàng theo cách đó.
+[21:32] Tôi đồng ý với ý kiến về chống gian lận, nên làm quyết liệt hơn.
+[15:02] Hình như Thực ra thì chống gian lận không phải là mục tiêu duy nhất của mình.
+[21:36] Mọi người có thấy vụ quy trình bán hàng dạo này bị chậm không?
+[15:04] Liệu mình có thể đẩy nhanh tiến độ cho quy trình bán hàng được không?
+[21:40] Về phần quản lý tồn kho thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[15:06] Có ai phụ trách chính cho mảng thất thoát hàng hóa chưa nhỉ?
+[15:07] À Nói chung là mình phải chốt phương án cho quy trình bán hàng ngay trong hôm nay.
+[21:46] Dạ Có ai phụ trách chính cho mảng kiểm kê định kỳ chưa nhỉ?
+[21:48] Để tôi check lại với bên hiệu quả hoạt động xem tình hình thế nào nhé.
+[15:10] Mọi người có thấy vụ thất thoát hàng hóa dạo này bị chậm không?
+[21:52] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[21:54] Về phần quản lý tồn kho thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[21:56] Để tôi check lại với bên kiểm kê định kỳ xem tình hình thế nào nhé.
+[15:14] Chào cả nhà, chúng ta bắt đầu bàn về hiệu quả hoạt động nhé.
+[22:00] Dạ Tôi đề xuất mình sẽ tập trung nguồn lực vào thất thoát hàng hóa trong tuần này.
+[22:02] Cái thất thoát hàng hóa này hình như đang bị vướng chỗ nào đó đúng không?
+[15:17] Thì Tôi nghĩ là mình nên xem xét lại cái quy trình bán hàng này một chút.
+[15:18] Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[15:19] Tôi đề xuất mình sẽ tập trung nguồn lực vào quản lý tồn kho trong tuần này.
+[15:20] Thì Cái thất thoát hàng hóa này hình như đang bị vướng chỗ nào đó đúng không?
+[15:21] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[22:14] Ờm, cái quản lý tồn kho này thực ra là một vấn đề khá nan giải.
+[22:16] Ờm Tôi đề xuất mình sẽ tập trung nguồn lực vào hiệu quả hoạt động trong tuần này.
+[22:18] Có ai phụ trách chính cho mảng chống gian lận chưa nhỉ?
+[22:20] Có ai phụ trách chính cho mảng chống gian lận chưa nhỉ?
+[22:22] Thì Đừng quên là hiệu quả hoạt động cũng ảnh hưởng nhiều đến kết quả chung đó.
+[15:27] Để tôi check lại với bên chống gian lận xem tình hình thế nào nhé.
+[15:28] Thôi được rồi, vậy thống nhất là làm thất thoát hàng hóa theo cách đó.
+[15:29] Liệu mình có thể đẩy nhanh tiến độ cho hiệu quả hoạt động được không?
+[22:30] Tôi đề xuất mình sẽ tập trung nguồn lực vào thất thoát hàng hóa trong tuần này.
+[15:31] Ờm Thực ra thì kiểm kê định kỳ không phải là mục tiêu duy nhất của mình.
+[15:32] Đừng quên là hiệu quả hoạt động cũng ảnh hưởng nhiều đến kết quả chung đó.
+[15:33] Mọi người có thấy vụ thất thoát hàng hóa dạo này bị chậm không?
+[22:38] Mọi người cứ cho ý kiến thoải mái về quy trình bán hàng đi ạ.
+[22:40] Thôi được rồi, vậy thống nhất là làm quản lý tồn kho theo cách đó.
+[15:36] Chắc là Chào cả nhà, chúng ta bắt đầu bàn về kiểm kê định kỳ nhé.
+[22:44] Hình như Có ai phụ trách chính cho mảng chống gian lận chưa nhỉ?
+[22:46] Chào cả nhà, chúng ta bắt đầu bàn về chống gian lận nhé.
+[15:39] Thôi được rồi, vậy thống nhất là làm chống gian lận theo cách đó.
+[15:40] Cái này nè Mọi người có thấy vụ chống gian lận dạo này bị chậm không?
+[22:52] Tóm lại là Có ai phụ trách chính cho mảng thất thoát hàng hóa chưa nhỉ?
+[22:54] Chắc là Tôi đề xuất mình sẽ tập trung nguồn lực vào thất thoát hàng hóa trong tuần này.
+[22:56] Cái này nè Mọi người có thấy vụ quy trình bán hàng dạo này bị chậm không?
+[15:44] Cái hiệu quả hoạt động này hình như đang bị vướng chỗ nào đó đúng không?
+[23:00] Mọi người cứ cho ý kiến thoải mái về thất thoát hàng hóa đi ạ.
+[15:46] Ờm Liệu mình có thể đẩy nhanh tiến độ cho hiệu quả hoạt động được không?
+[23:04] Thì Liệu mình có thể đẩy nhanh tiến độ cho hiệu quả hoạt động được không?
+[23:06] Thực ra thì chống gian lận không phải là mục tiêu duy nhất của mình.
+[23:08] Chào cả nhà, chúng ta bắt đầu bàn về quy trình bán hàng nhé.
+[15:50] Nói chung là Thực ra thì chống gian lận không phải là mục tiêu duy nhất của mình.
+[23:12] Chào cả nhà, chúng ta bắt đầu bàn về kiểm kê định kỳ nhé.
+[15:52] Nói chung là Đừng quên là kiểm kê định kỳ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[15:53] Vâng, tôi cũng thấy việc tối ưu chống gian lận là rất cần thiết.
+[23:18] Vâng Để tôi check lại với bên hiệu quả hoạt động xem tình hình thế nào nhé.
+[23:20] Nói chung là Tôi đề xuất mình sẽ tập trung nguồn lực vào chống gian lận trong tuần này.
+[15:56] Tôi đồng ý với ý kiến về chống gian lận, nên làm quyết liệt hơn.
+[23:24] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[23:26] Thì đấy Đừng quên là thất thoát hàng hóa cũng ảnh hưởng nhiều đến kết quả chung đó.
+[23:28] Ờm, cái quy trình bán hàng này thực ra là một vấn đề khá nan giải.
+[23:30] Tôi nghĩ là mình nên xem xét lại cái quản lý tồn kho này một chút.
+[23:32] Tóm lại là Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[16:02] Có ai phụ trách chính cho mảng quy trình bán hàng chưa nhỉ?
+[16:03] Liệu mình có thể đẩy nhanh tiến độ cho thất thoát hàng hóa được không?
+[16:04] Vâng Liệu mình có thể đẩy nhanh tiến độ cho quy trình bán hàng được không?
+[23:40] Thì Tôi đề xuất mình sẽ tập trung nguồn lực vào quy trình bán hàng trong tuần này.
+[16:06] Mọi người có thấy vụ kiểm kê định kỳ dạo này bị chậm không?
+[23:44] Tôi nghĩ là mình nên xem xét lại cái chống gian lận này một chút.
+[16:08] Chào cả nhà, chúng ta bắt đầu bàn về hiệu quả hoạt động nhé.
+[23:48] Cần phải làm rõ thêm các chi tiết liên quan đến hiệu quả hoạt động.
+[16:10] Ý tôi là Mọi người cứ cho ý kiến thoải mái về kiểm kê định kỳ đi ạ.
+[23:52] Thực ra thì thất thoát hàng hóa không phải là mục tiêu duy nhất của mình.
+[16:12] Tôi nghĩ là mình nên xem xét lại cái chống gian lận này một chút.
+[23:56] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[23:58] Thì Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[00:00] Nói chung là mình phải chốt phương án cho quy trình bán hàng ngay trong hôm nay.
+[16:16] Tôi đồng ý với ý kiến về thất thoát hàng hóa, nên làm quyết liệt hơn.
+[00:04] Thực ra Thế còn ngân sách cho thất thoát hàng hóa thì sao hả mọi người?
+[16:18] Vâng, tôi cũng thấy việc tối ưu kiểm kê định kỳ là rất cần thiết.
+[16:19] Cái quản lý tồn kho này hình như đang bị vướng chỗ nào đó đúng không?
+[16:20] Ờm Mọi người có thấy vụ chống gian lận dạo này bị chậm không?
+[00:12] Đừng quên là thất thoát hàng hóa cũng ảnh hưởng nhiều đến kết quả chung đó.
+[00:14] Thực ra thì thất thoát hàng hóa không phải là mục tiêu duy nhất của mình.
+[16:23] Tôi đồng ý với ý kiến về thất thoát hàng hóa, nên làm quyết liệt hơn.
+[00:18] Có ai phụ trách chính cho mảng quản lý tồn kho chưa nhỉ?
+[00:20] Về phần chống gian lận thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[16:26] Chào cả nhà, chúng ta bắt đầu bàn về hiệu quả hoạt động nhé.
+[16:27] Tôi đồng ý với ý kiến về thất thoát hàng hóa, nên làm quyết liệt hơn.
+[16:28] Tóm lại là Tôi đồng ý với ý kiến về chống gian lận, nên làm quyết liệt hơn.
+[00:28] Chắc là Tôi nghĩ là mình nên xem xét lại cái kiểm kê định kỳ này một chút.
+[00:30] Đừng quên là chống gian lận cũng ảnh hưởng nhiều đến kết quả chung đó.
+[16:31] Vâng Tôi đồng ý với ý kiến về chống gian lận, nên làm quyết liệt hơn.
+[16:32] Vâng, tôi cũng thấy việc tối ưu quy trình bán hàng là rất cần thiết.
+[16:33] Đừng quên là kiểm kê định kỳ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[16:34] Thực ra Thế còn ngân sách cho quản lý tồn kho thì sao hả mọi người?
+[00:40] Để tôi check lại với bên quản lý tồn kho xem tình hình thế nào nhé.
+[00:42] Tôi đồng ý với ý kiến về quản lý tồn kho, nên làm quyết liệt hơn.
+[16:37] Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[00:46] Dạ Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[00:48] Liệu mình có thể đẩy nhanh tiến độ cho chống gian lận được không?
+[00:50] Mọi người có thấy vụ quy trình bán hàng dạo này bị chậm không?
+[00:52] Chào cả nhà, chúng ta bắt đầu bàn về thất thoát hàng hóa nhé.
+[00:54] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[00:56] Liệu mình có thể đẩy nhanh tiến độ cho kiểm kê định kỳ được không?
+[00:58] Tóm lại là Có ai phụ trách chính cho mảng hiệu quả hoạt động chưa nhỉ?
+[16:45] Thực ra thì chống gian lận không phải là mục tiêu duy nhất của mình.
+[16:46] Về phần chống gian lận thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[01:04] Thực ra Tôi đề xuất mình sẽ tập trung nguồn lực vào quản lý tồn kho trong tuần này.
+[01:06] Đừng quên là quy trình bán hàng cũng ảnh hưởng nhiều đến kết quả chung đó.
+[01:08] Tóm lại là Tôi nghĩ là mình nên xem xét lại cái kiểm kê định kỳ này một chút.
+[01:10] Để tôi check lại với bên quy trình bán hàng xem tình hình thế nào nhé.
+[01:12] Ờm Mọi người có thấy vụ quản lý tồn kho dạo này bị chậm không?
+[01:14] Tôi đồng ý với ý kiến về quản lý tồn kho, nên làm quyết liệt hơn.
+[16:53] Để tôi check lại với bên chống gian lận xem tình hình thế nào nhé.
+[16:54] Hình như Tôi đồng ý với ý kiến về kiểm kê định kỳ, nên làm quyết liệt hơn.
+[16:55] Chào cả nhà, chúng ta bắt đầu bàn về quản lý tồn kho nhé.
+[01:22] Chào cả nhà, chúng ta bắt đầu bàn về quản lý tồn kho nhé.
+[01:24] Tôi đồng ý với ý kiến về hiệu quả hoạt động, nên làm quyết liệt hơn.
+[01:26] Đừng quên là quản lý tồn kho cũng ảnh hưởng nhiều đến kết quả chung đó.
+[01:28] Thôi được rồi, vậy thống nhất là làm quy trình bán hàng theo cách đó.
+[01:30] Đừng quên là quản lý tồn kho cũng ảnh hưởng nhiều đến kết quả chung đó.
+[17:01] Chào cả nhà, chúng ta bắt đầu bàn về hiệu quả hoạt động nhé.
+[01:34] Về phần hiệu quả hoạt động thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[01:36] Cần phải làm rõ thêm các chi tiết liên quan đến chống gian lận.
+[01:38] Cái này nè Đừng quên là quy trình bán hàng cũng ảnh hưởng nhiều đến kết quả chung đó.
+[01:40] Tóm lại là Thôi được rồi, vậy thống nhất là làm kiểm kê định kỳ theo cách đó.
+[17:06] Mọi người cứ cho ý kiến thoải mái về kiểm kê định kỳ đi ạ.
+[01:44] Để tôi check lại với bên kiểm kê định kỳ xem tình hình thế nào nhé.
+[01:46] Mọi người có thấy vụ hiệu quả hoạt động dạo này bị chậm không?
+[01:48] À Vâng, tôi cũng thấy việc tối ưu chống gian lận là rất cần thiết.
+[01:50] Tôi nghĩ là mình nên xem xét lại cái quy trình bán hàng này một chút.
+[01:52] Dạ Về phần chống gian lận thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[17:12] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[01:56] Ờm Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[17:14] Mọi người có thấy vụ hiệu quả hoạt động dạo này bị chậm không?
+[17:15] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[02:02] Vâng, tôi cũng thấy việc tối ưu chống gian lận là rất cần thiết.
+[17:17] Mọi người cứ cho ý kiến thoải mái về chống gian lận đi ạ.
+[17:18] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[17:19] Nói chung là mình phải chốt phương án cho kiểm kê định kỳ ngay trong hôm nay.
+[02:10] Có ai phụ trách chính cho mảng chống gian lận chưa nhỉ?
+[02:12] Cần phải làm rõ thêm các chi tiết liên quan đến thất thoát hàng hóa.
+[17:22] Nói chung là Đừng quên là quy trình bán hàng cũng ảnh hưởng nhiều đến kết quả chung đó.
+[02:16] Để tôi check lại với bên kiểm kê định kỳ xem tình hình thế nào nhé.
+[17:24] Về phần quy trình bán hàng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[17:25] Mọi người cứ cho ý kiến thoải mái về thất thoát hàng hóa đi ạ.
+[02:22] Thực ra thì hiệu quả hoạt động không phải là mục tiêu duy nhất của mình.
+[17:27] Tóm lại là Để tôi check lại với bên hiệu quả hoạt động xem tình hình thế nào nhé.
+[17:28] Ờm, cái quản lý tồn kho này thực ra là một vấn đề khá nan giải.
+[17:29] Ờm, cái chống gian lận này thực ra là một vấn đề khá nan giải.
+[02:30] Vâng Thực ra thì quản lý tồn kho không phải là mục tiêu duy nhất của mình.
+[02:32] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[17:32] Tôi nghĩ là mình nên xem xét lại cái quản lý tồn kho này một chút.
+[02:36] Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[02:38] Đừng quên là chống gian lận cũng ảnh hưởng nhiều đến kết quả chung đó.
+[17:35] Tôi đồng ý với ý kiến về kiểm kê định kỳ, nên làm quyết liệt hơn.
+[02:42] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[17:37] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[02:46] Ý tôi là Về phần quản lý tồn kho thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[02:48] Đừng quên là thất thoát hàng hóa cũng ảnh hưởng nhiều đến kết quả chung đó.
+[02:50] Nói chung là Thế còn ngân sách cho quản lý tồn kho thì sao hả mọi người?
+[02:52] Tôi đồng ý với ý kiến về kiểm kê định kỳ, nên làm quyết liệt hơn.
+[17:42] Về phần thất thoát hàng hóa thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[02:56] Dạ Mọi người có thấy vụ hiệu quả hoạt động dạo này bị chậm không?
+[17:44] Cái này nè Ờm, cái hiệu quả hoạt động này thực ra là một vấn đề khá nan giải.
+[17:45] Thực ra thì quy trình bán hàng không phải là mục tiêu duy nhất của mình.
+[17:46] Cần phải làm rõ thêm các chi tiết liên quan đến kiểm kê định kỳ.
+[03:04] Thì đấy Vâng, tôi cũng thấy việc tối ưu chống gian lận là rất cần thiết.
+[17:48] Về phần thất thoát hàng hóa thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[17:49] Cái này nè Đừng quên là thất thoát hàng hóa cũng ảnh hưởng nhiều đến kết quả chung đó.
+[03:10] Tóm lại là Tôi đề xuất mình sẽ tập trung nguồn lực vào quản lý tồn kho trong tuần này.
+[17:51] À Đừng quên là quản lý tồn kho cũng ảnh hưởng nhiều đến kết quả chung đó.
+[17:52] Ờm, cái quy trình bán hàng này thực ra là một vấn đề khá nan giải.
+[03:16] Tôi đề xuất mình sẽ tập trung nguồn lực vào quy trình bán hàng trong tuần này.
+[03:18] Chắc là Đừng quên là quản lý tồn kho cũng ảnh hưởng nhiều đến kết quả chung đó.
+[03:20] Cái này nè Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[03:22] Thế còn ngân sách cho chống gian lận thì sao hả mọi người?
+[17:57] Về phần quản lý tồn kho thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[17:58] Thì đấy Cần phải làm rõ thêm các chi tiết liên quan đến hiệu quả hoạt động.
+[03:28] Dạ Có ai phụ trách chính cho mảng hiệu quả hoạt động chưa nhỉ?
+[03:30] Cái chống gian lận này hình như đang bị vướng chỗ nào đó đúng không?
+[03:32] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[03:34] Thì đấy Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[03:36] Về phần quản lý tồn kho thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[18:04] Thì đấy Mọi người có thấy vụ quản lý tồn kho dạo này bị chậm không?
+[03:40] Chào cả nhà, chúng ta bắt đầu bàn về thất thoát hàng hóa nhé.
+[03:42] Về phần kiểm kê định kỳ thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[03:44] Mọi người có thấy vụ thất thoát hàng hóa dạo này bị chậm không?
+[18:08] Thì đấy Tôi nghĩ là mình nên xem xét lại cái hiệu quả hoạt động này một chút.
+[18:09] Ờm, cái thất thoát hàng hóa này thực ra là một vấn đề khá nan giải.
+[03:50] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[18:11] Mọi người có thấy vụ chống gian lận dạo này bị chậm không?
+[18:12] Cái quản lý tồn kho này hình như đang bị vướng chỗ nào đó đúng không?
+[18:13] À Tôi nghĩ là mình nên xem xét lại cái kiểm kê định kỳ này một chút.
+[03:58] Chắc là Đừng quên là chống gian lận cũng ảnh hưởng nhiều đến kết quả chung đó.
+[04:00] Thì đấy Tôi nghĩ là mình nên xem xét lại cái kiểm kê định kỳ này một chút.
+[18:16] Thực ra thì quản lý tồn kho không phải là mục tiêu duy nhất của mình.
+[18:17] Hình như Chào cả nhà, chúng ta bắt đầu bàn về hiệu quả hoạt động nhé.
+[18:18] Vâng Chào cả nhà, chúng ta bắt đầu bàn về kiểm kê định kỳ nhé.
+[18:19] Chào cả nhà, chúng ta bắt đầu bàn về kiểm kê định kỳ nhé.
+[04:10] Mọi người có thấy vụ chống gian lận dạo này bị chậm không?
+[04:12] Nói chung là mình phải chốt phương án cho thất thoát hàng hóa ngay trong hôm nay.
+[04:14] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[04:16] Nói chung là Liệu mình có thể đẩy nhanh tiến độ cho quản lý tồn kho được không?
+[04:18] Tôi đồng ý với ý kiến về chống gian lận, nên làm quyết liệt hơn.
+[18:25] Nói chung là Thôi được rồi, vậy thống nhất là làm quy trình bán hàng theo cách đó.
+[04:22] Tôi đề xuất mình sẽ tập trung nguồn lực vào hiệu quả hoạt động trong tuần này.
+[18:27] Nói chung là Tôi đồng ý với ý kiến về kiểm kê định kỳ, nên làm quyết liệt hơn.
+[18:28] Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[04:28] Ờm, cái thất thoát hàng hóa này thực ra là một vấn đề khá nan giải.
+[18:30] À Tôi nghĩ là mình nên xem xét lại cái thất thoát hàng hóa này một chút.
+[04:32] Ờm Thế còn ngân sách cho quản lý tồn kho thì sao hả mọi người?
+[18:32] Mọi người có thấy vụ quy trình bán hàng dạo này bị chậm không?
+[04:36] Cái quản lý tồn kho này hình như đang bị vướng chỗ nào đó đúng không?
+[18:34] Mọi người cứ cho ý kiến thoải mái về quy trình bán hàng đi ạ.
+[04:40] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[04:42] Ờm Tôi đồng ý với ý kiến về chống gian lận, nên làm quyết liệt hơn.
+[04:44] Tôi đề xuất mình sẽ tập trung nguồn lực vào kiểm kê định kỳ trong tuần này.
+[18:38] Liệu mình có thể đẩy nhanh tiến độ cho kiểm kê định kỳ được không?
+[04:48] Thì đấy Mọi người có thấy vụ quản lý tồn kho dạo này bị chậm không?
+[04:50] Tôi nghĩ là mình nên xem xét lại cái chống gian lận này một chút.
+[04:52] Cái quản lý tồn kho này hình như đang bị vướng chỗ nào đó đúng không?
+[18:42] Hình như Thực ra thì chống gian lận không phải là mục tiêu duy nhất của mình.
+[04:56] Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[18:44] Về phần quản lý tồn kho thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[18:45] Tóm lại là Thực ra thì hiệu quả hoạt động không phải là mục tiêu duy nhất của mình.
+[05:02] Ý tôi là Chào cả nhà, chúng ta bắt đầu bàn về kiểm kê định kỳ nhé.
+[05:04] Cái hiệu quả hoạt động này hình như đang bị vướng chỗ nào đó đúng không?
+[18:48] Có ai phụ trách chính cho mảng chống gian lận chưa nhỉ?
+[18:49] Tôi đề xuất mình sẽ tập trung nguồn lực vào quản lý tồn kho trong tuần này.
+[05:10] Liệu mình có thể đẩy nhanh tiến độ cho chống gian lận được không?
+[05:12] Thế còn ngân sách cho quản lý tồn kho thì sao hả mọi người?
+[05:14] Ờm, cái quy trình bán hàng này thực ra là một vấn đề khá nan giải.
+[05:16] Dạ Thực ra thì kiểm kê định kỳ không phải là mục tiêu duy nhất của mình.
+[18:54] Mọi người có thấy vụ hiệu quả hoạt động dạo này bị chậm không?
+[18:55] Mọi người có thấy vụ quy trình bán hàng dạo này bị chậm không?
+[18:56] Cái này nè Chào cả nhà, chúng ta bắt đầu bàn về thất thoát hàng hóa nhé.
+[18:57] Ý tôi là Tôi đồng ý với ý kiến về kiểm kê định kỳ, nên làm quyết liệt hơn.
+[05:26] À Chào cả nhà, chúng ta bắt đầu bàn về hiệu quả hoạt động nhé.
+[05:28] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[19:00] Chào cả nhà, chúng ta bắt đầu bàn về quản lý tồn kho nhé.
+[19:01] Nói chung là mình phải chốt phương án cho hiệu quả hoạt động ngay trong hôm nay.
+[05:34] Đừng quên là hiệu quả hoạt động cũng ảnh hưởng nhiều đến kết quả chung đó.
+[05:36] Để tôi check lại với bên quản lý tồn kho xem tình hình thế nào nhé.
+[05:38] Hình như Cần phải làm rõ thêm các chi tiết liên quan đến kiểm kê định kỳ.
+[19:05] Tôi nghĩ là mình nên xem xét lại cái hiệu quả hoạt động này một chút.
+[19:06] Vâng Có ai phụ trách chính cho mảng kiểm kê định kỳ chưa nhỉ?
+[19:07] Ờm Thực ra thì chống gian lận không phải là mục tiêu duy nhất của mình.
+[05:46] À Ờm, cái quản lý tồn kho này thực ra là một vấn đề khá nan giải.
+[05:48] À Đừng quên là chống gian lận cũng ảnh hưởng nhiều đến kết quả chung đó.
+[19:10] Vâng, tôi cũng thấy việc tối ưu chống gian lận là rất cần thiết.
+[05:52] Vâng Đừng quên là hiệu quả hoạt động cũng ảnh hưởng nhiều đến kết quả chung đó.
+[19:12] Thực ra thì thất thoát hàng hóa không phải là mục tiêu duy nhất của mình.
+[19:13] Có ai phụ trách chính cho mảng kiểm kê định kỳ chưa nhỉ?
+[19:14] Cái này nè Có ai phụ trách chính cho mảng thất thoát hàng hóa chưa nhỉ?
+[19:15] Thôi được rồi, vậy thống nhất là làm quy trình bán hàng theo cách đó.
+[06:02] Cái quy trình bán hàng này hình như đang bị vướng chỗ nào đó đúng không?
+[19:17] Nói chung là mình phải chốt phương án cho thất thoát hàng hóa ngay trong hôm nay.
+[06:06] Ờm, cái quản lý tồn kho này thực ra là một vấn đề khá nan giải.
+[06:08] Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[19:20] Hình như Thôi được rồi, vậy thống nhất là làm hiệu quả hoạt động theo cách đó.
+[06:12] Thế còn ngân sách cho kiểm kê định kỳ thì sao hả mọi người?
+[19:22] Liệu mình có thể đẩy nhanh tiến độ cho kiểm kê định kỳ được không?
+[19:23] Tóm lại là Mọi người có thấy vụ kiểm kê định kỳ dạo này bị chậm không?
+[19:24] Về phần kiểm kê định kỳ thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[19:25] Thì Mọi người cứ cho ý kiến thoải mái về thất thoát hàng hóa đi ạ.
+[06:22] Vâng, tôi cũng thấy việc tối ưu thất thoát hàng hóa là rất cần thiết.
+[06:24] Nói chung là mình phải chốt phương án cho quy trình bán hàng ngay trong hôm nay.
+[19:28] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[19:29] Để tôi check lại với bên kiểm kê định kỳ xem tình hình thế nào nhé.
+[06:30] Vâng Về phần quản lý tồn kho thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[19:31] Vâng, tôi cũng thấy việc tối ưu quy trình bán hàng là rất cần thiết.
+[19:32] Ờm, cái quản lý tồn kho này thực ra là một vấn đề khá nan giải.
+[06:36] Ý tôi là Nói chung là mình phải chốt phương án cho thất thoát hàng hóa ngay trong hôm nay.
+[06:38] Dạ Chào cả nhà, chúng ta bắt đầu bàn về quản lý tồn kho nhé.
+[06:40] Tôi đề xuất mình sẽ tập trung nguồn lực vào kiểm kê định kỳ trong tuần này.
+[06:42] Vâng Về phần quy trình bán hàng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[19:37] Để tôi check lại với bên kiểm kê định kỳ xem tình hình thế nào nhé.
+[06:46] Liệu mình có thể đẩy nhanh tiến độ cho hiệu quả hoạt động được không?
+[19:39] Cái này nè Thực ra thì kiểm kê định kỳ không phải là mục tiêu duy nhất của mình.
+[06:50] Hình như Có ai phụ trách chính cho mảng quản lý tồn kho chưa nhỉ?
+[19:41] Hình như Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[19:42] Có ai phụ trách chính cho mảng quy trình bán hàng chưa nhỉ?
+[19:43] À Về phần hiệu quả hoạt động thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[06:58] Hình như Có ai phụ trách chính cho mảng chống gian lận chưa nhỉ?
+[19:45] Nói chung là mình phải chốt phương án cho kiểm kê định kỳ ngay trong hôm nay.
+[19:46] Thôi được rồi, vậy thống nhất là làm thất thoát hàng hóa theo cách đó.
+[07:04] Đừng quên là thất thoát hàng hóa cũng ảnh hưởng nhiều đến kết quả chung đó.
+[07:06] Ý tôi là Chào cả nhà, chúng ta bắt đầu bàn về quy trình bán hàng nhé.
+[19:49] Mọi người cứ cho ý kiến thoải mái về hiệu quả hoạt động đi ạ.
+[07:10] Tôi đề xuất mình sẽ tập trung nguồn lực vào kiểm kê định kỳ trong tuần này.
+[19:51] Thế còn ngân sách cho quy trình bán hàng thì sao hả mọi người?
+[07:14] Tôi đề xuất mình sẽ tập trung nguồn lực vào hiệu quả hoạt động trong tuần này.
+[19:53] Thôi được rồi, vậy thống nhất là làm hiệu quả hoạt động theo cách đó.
+[07:18] Tôi đề xuất mình sẽ tập trung nguồn lực vào thất thoát hàng hóa trong tuần này.
+[19:55] Tôi đồng ý với ý kiến về thất thoát hàng hóa, nên làm quyết liệt hơn.
+[19:56] Thực ra Vâng, tôi cũng thấy việc tối ưu hiệu quả hoạt động là rất cần thiết.
+[07:24] Chào cả nhà, chúng ta bắt đầu bàn về quản lý tồn kho nhé.
+[07:26] Tôi đề xuất mình sẽ tập trung nguồn lực vào kiểm kê định kỳ trong tuần này.
+[07:28] Vâng Về phần quy trình bán hàng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[20:00] Dạ Thế còn ngân sách cho hiệu quả hoạt động thì sao hả mọi người?
+[07:32] Thế còn ngân sách cho kiểm kê định kỳ thì sao hả mọi người?
+[20:02] Cần phải làm rõ thêm các chi tiết liên quan đến thất thoát hàng hóa.
+[20:03] Thế còn ngân sách cho kiểm kê định kỳ thì sao hả mọi người?
+[07:38] Có ai phụ trách chính cho mảng thất thoát hàng hóa chưa nhỉ?
+[07:40] Tôi đề xuất mình sẽ tập trung nguồn lực vào thất thoát hàng hóa trong tuần này.
+[20:06] Nói chung là Nói chung là mình phải chốt phương án cho hiệu quả hoạt động ngay trong hôm nay.
+[07:44] Hình như Có ai phụ trách chính cho mảng quản lý tồn kho chưa nhỉ?
+[20:08] Hình như Mọi người cứ cho ý kiến thoải mái về thất thoát hàng hóa đi ạ.
+[20:09] À Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[07:50] Ý tôi là Ờm, cái thất thoát hàng hóa này thực ra là một vấn đề khá nan giải.
+[07:52] Mọi người có thấy vụ chống gian lận dạo này bị chậm không?
+[20:12] Chắc là Tôi nghĩ là mình nên xem xét lại cái kiểm kê định kỳ này một chút.
+[07:56] Mọi người cứ cho ý kiến thoải mái về chống gian lận đi ạ.
+[20:14] Cái này nè Thực ra thì thất thoát hàng hóa không phải là mục tiêu duy nhất của mình.
+[20:15] Dạ Cái chống gian lận này hình như đang bị vướng chỗ nào đó đúng không?
+[08:02] Ờm Về phần thất thoát hàng hóa thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[20:17] Ờm, cái chống gian lận này thực ra là một vấn đề khá nan giải.
+[20:18] À Tôi đồng ý với ý kiến về thất thoát hàng hóa, nên làm quyết liệt hơn.
+[08:08] Thôi được rồi, vậy thống nhất là làm thất thoát hàng hóa theo cách đó.
+[08:10] Cần phải làm rõ thêm các chi tiết liên quan đến hiệu quả hoạt động.
+[20:21] Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[08:14] Vâng Tôi đề xuất mình sẽ tập trung nguồn lực vào chống gian lận trong tuần này.
+[08:16] Ờm, cái quản lý tồn kho này thực ra là một vấn đề khá nan giải.
+[20:24] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[20:25] Thì Về phần hiệu quả hoạt động thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[20:26] Tóm lại là Để tôi check lại với bên quản lý tồn kho xem tình hình thế nào nhé.
+[20:27] Tôi nghĩ là mình nên xem xét lại cái kiểm kê định kỳ này một chút.
+[08:26] Hình như Chào cả nhà, chúng ta bắt đầu bàn về thất thoát hàng hóa nhé.
+[08:28] Tóm lại là Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[20:30] Thì đấy Thế còn ngân sách cho chống gian lận thì sao hả mọi người?
+[20:31] Thực ra thì thất thoát hàng hóa không phải là mục tiêu duy nhất của mình.
+[20:32] Thôi được rồi, vậy thống nhất là làm hiệu quả hoạt động theo cách đó.
+[20:33] Mọi người cứ cho ý kiến thoải mái về hiệu quả hoạt động đi ạ.
+[08:38] Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[20:35] Ờm, cái kiểm kê định kỳ này thực ra là một vấn đề khá nan giải.
+[20:36] Ờm Thế còn ngân sách cho quy trình bán hàng thì sao hả mọi người?
+[20:37] Thực ra Ờm, cái chống gian lận này thực ra là một vấn đề khá nan giải.
+[08:46] Thì đấy Mọi người có thấy vụ chống gian lận dạo này bị chậm không?
+[08:48] Liệu mình có thể đẩy nhanh tiến độ cho thất thoát hàng hóa được không?
+[08:50] Thì Nói chung là mình phải chốt phương án cho chống gian lận ngay trong hôm nay.
+[20:41] Thì Chào cả nhà, chúng ta bắt đầu bàn về thất thoát hàng hóa nhé.
+[08:54] Vâng, tôi cũng thấy việc tối ưu hiệu quả hoạt động là rất cần thiết.
+[20:43] À Về phần thất thoát hàng hóa thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[08:58] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[09:00] Nói chung là mình phải chốt phương án cho chống gian lận ngay trong hôm nay.
+[09:02] Tóm lại là Cái chống gian lận này hình như đang bị vướng chỗ nào đó đúng không?
+[20:47] Mọi người có thấy vụ chống gian lận dạo này bị chậm không?
+[20:48] Thực ra Vâng, tôi cũng thấy việc tối ưu quản lý tồn kho là rất cần thiết.
+[09:08] Thực ra Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[20:50] Mọi người cứ cho ý kiến thoải mái về hiệu quả hoạt động đi ạ.
+[20:51] Mọi người cứ cho ý kiến thoải mái về hiệu quả hoạt động đi ạ.
+[09:14] Về phần thất thoát hàng hóa thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[09:16] Thế còn ngân sách cho chống gian lận thì sao hả mọi người?
+[09:18] Đừng quên là quy trình bán hàng cũng ảnh hưởng nhiều đến kết quả chung đó.
+[20:55] Hình như Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[20:56] Ờm Tôi nghĩ là mình nên xem xét lại cái quy trình bán hàng này một chút.
+[09:24] Tôi đề xuất mình sẽ tập trung nguồn lực vào quy trình bán hàng trong tuần này.
+[09:26] Thôi được rồi, vậy thống nhất là làm quy trình bán hàng theo cách đó.
+[20:59] Để tôi check lại với bên thất thoát hàng hóa xem tình hình thế nào nhé.
+[09:30] Về phần quy trình bán hàng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[09:32] Tôi nghĩ là mình nên xem xét lại cái quy trình bán hàng này một chút.
+[09:34] Về phần kiểm kê định kỳ thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[21:03] Nói chung là Mọi người cứ cho ý kiến thoải mái về hiệu quả hoạt động đi ạ.
+[09:38] Vâng, tôi cũng thấy việc tối ưu hiệu quả hoạt động là rất cần thiết.
+[09:40] Có ai phụ trách chính cho mảng quản lý tồn kho chưa nhỉ?
+[09:42] Cần phải làm rõ thêm các chi tiết liên quan đến chống gian lận.
+[21:07] Thế còn ngân sách cho kiểm kê định kỳ thì sao hả mọi người?
+[21:08] Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[09:48] Cái này nè Đừng quên là kiểm kê định kỳ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:50] Cần phải làm rõ thêm các chi tiết liên quan đến chống gian lận.
+[09:52] Ý tôi là Nói chung là mình phải chốt phương án cho hiệu quả hoạt động ngay trong hôm nay.
+[09:54] Có ai phụ trách chính cho mảng quản lý tồn kho chưa nhỉ?
+[21:13] Ý tôi là Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[09:58] Cái này nè Thôi được rồi, vậy thống nhất là làm quy trình bán hàng theo cách đó.
+[10:00] Vâng Ờm, cái hiệu quả hoạt động này thực ra là một vấn đề khá nan giải.
+[21:16] Tôi nghĩ là mình nên xem xét lại cái thất thoát hàng hóa này một chút.
+[10:04] Thực ra thì quy trình bán hàng không phải là mục tiêu duy nhất của mình.
+[10:06] Cần phải làm rõ thêm các chi tiết liên quan đến hiệu quả hoạt động.
+[21:19] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[10:10] Tôi đồng ý với ý kiến về chống gian lận, nên làm quyết liệt hơn.
+[10:12] Để tôi check lại với bên hiệu quả hoạt động xem tình hình thế nào nhé.
+[10:14] Có ai phụ trách chính cho mảng quản lý tồn kho chưa nhỉ?
+[21:23] Chào cả nhà, chúng ta bắt đầu bàn về thất thoát hàng hóa nhé.
+[21:24] Nói chung là Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[10:20] Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+[10:22] Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[21:27] Cái chống gian lận này hình như đang bị vướng chỗ nào đó đúng không?
+[21:28] Dạ Mọi người có thấy vụ kiểm kê định kỳ dạo này bị chậm không?
+[10:28] Ờm, cái quản lý tồn kho này thực ra là một vấn đề khá nan giải.
+[10:30] Thực ra thì quản lý tồn kho không phải là mục tiêu duy nhất của mình.
+[10:32] Vâng Chào cả nhà, chúng ta bắt đầu bàn về kiểm kê định kỳ nhé.
+[21:32] Đừng quên là thất thoát hàng hóa cũng ảnh hưởng nhiều đến kết quả chung đó.
+[21:33] Thì đấy Thôi được rồi, vậy thống nhất là làm hiệu quả hoạt động theo cách đó.
+[21:34] Có ai phụ trách chính cho mảng quy trình bán hàng chưa nhỉ?
+[21:35] Có ai phụ trách chính cho mảng hiệu quả hoạt động chưa nhỉ?
+[10:42] Vâng, tôi cũng thấy việc tối ưu thất thoát hàng hóa là rất cần thiết.
+[10:44] Cần phải làm rõ thêm các chi tiết liên quan đến quản lý tồn kho.
+[21:38] Vâng, tôi cũng thấy việc tối ưu quản lý tồn kho là rất cần thiết.
+[10:48] Mọi người cứ cho ý kiến thoải mái về quy trình bán hàng đi ạ.
+[21:40] Tôi nghĩ là mình nên xem xét lại cái thất thoát hàng hóa này một chút.
+[21:41] Có ai phụ trách chính cho mảng quản lý tồn kho chưa nhỉ?
+[21:42] Tôi đồng ý với ý kiến về chống gian lận, nên làm quyết liệt hơn.
+[10:56] Ờm Tôi đồng ý với ý kiến về hiệu quả hoạt động, nên làm quyết liệt hơn.
+[21:44] Mọi người có thấy vụ chống gian lận dạo này bị chậm không?
+[21:45] Ý tôi là Đừng quên là quy trình bán hàng cũng ảnh hưởng nhiều đến kết quả chung đó.
+[21:46] Thực ra thì hiệu quả hoạt động không phải là mục tiêu duy nhất của mình.
+[21:47] Nói chung là mình phải chốt phương án cho chống gian lận ngay trong hôm nay.
+[11:06] Ờm Về phần chống gian lận thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[11:08] Để tôi check lại với bên hiệu quả hoạt động xem tình hình thế nào nhé.
+[11:10] Vâng Tôi nghĩ là mình nên xem xét lại cái thất thoát hàng hóa này một chút.
+[21:51] Ý tôi là Mọi người có thấy vụ chống gian lận dạo này bị chậm không?
+[21:52] Cảm ơn mọi người, buổi họp về Kiểm toán Nội bộ Bán lẻ hôm nay rất chất lượng.
+[21:53] Ờm, cái thất thoát hàng hóa này thực ra là một vấn đề khá nan giải.
+[11:18] Vâng, tôi cũng thấy việc tối ưu quy trình bán hàng là rất cần thiết.
+[21:55] Để tôi check lại với bên thất thoát hàng hóa xem tình hình thế nào nhé.
+[11:22] Cái kiểm kê định kỳ này hình như đang bị vướng chỗ nào đó đúng không?
+[11:24] Ờm, cái quản lý tồn kho này thực ra là một vấn đề khá nan giải.
+[11:26] Chào cả nhà, chúng ta bắt đầu bàn về thất thoát hàng hóa nhé.
+[21:59] Có ai phụ trách chính cho mảng quản lý tồn kho chưa nhỉ?
+[11:30] Chào cả nhà, chúng ta bắt đầu bàn về quy trình bán hàng nhé.
+[11:32] Thì Thực ra thì thất thoát hàng hóa không phải là mục tiêu duy nhất của mình.
+[22:02] Tôi đồng ý với ý kiến về quy trình bán hàng, nên làm quyết liệt hơn.
+[22:03] Để tôi check lại với bên hiệu quả hoạt động xem tình hình thế nào nhé.
+[11:38] Thì đấy Cần phải làm rõ thêm các chi tiết liên quan đến hiệu quả hoạt động.
+[22:05] Ý tôi là Thế còn ngân sách cho chống gian lận thì sao hả mọi người?
+[22:06] Tôi đồng ý với ý kiến về thất thoát hàng hóa, nên làm quyết liệt hơn.
+[11:44] Mọi người cứ cho ý kiến thoải mái về quản lý tồn kho đi ạ.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Kiểm toán Nội bộ Bán lẻ
+- Giải quyết các vấn đề về kiểm kê định kỳ
+- Thống nhất kế hoạch triển khai chống gian lận
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho chống gian lận
+- Thiếu dữ liệu để đánh giá chống gian lận
+- Khó khăn trong việc phối hợp giữa các bên về quản lý tồn kho
+- Sự cần thiết của việc chuẩn hóa các quy trình nội bộ
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện hiệu quả hoạt động
+- Phê duyệt ngân sách bổ sung cho hiệu quả hoạt động
+- Thiết lập nhóm đặc trách xử lý kiểm kê định kỳ
+- Chốt thời điểm bắt đầu triển khai quy trình bán hàng
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thất thoát hàng hóa | Anh Quốc | 25/06/2026 |
+| Họp nhóm để bàn sâu về thất thoát hàng hóa | Phòng Kỹ thuật | 03/09/2026 |
+| Gửi email xác nhận với đối tác về chống gian lận | Anh Quốc | 27/04/2026 |
+| Lập báo cáo chi tiết cho quy trình bán hàng | Phòng Kỹ thuật | 10/03/2026 |
+| Theo dõi tiến độ thực hiện chống gian lận | Ban điều hành | 12/07/2026 |

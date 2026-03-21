@@ -1,0 +1,47 @@
+<|input|>
+[10:00] Chào mọi người, hôm nay ban lãnh đạo bệnh viện họp với bộ phận CNTT và các bác sĩ trưởng khoa để bàn về việc triển khai hệ thống khám bệnh từ xa (Telemedicine). Bác sĩ Minh thấy nhu cầu tái khám online của bệnh nhân hiện nay như thế nào?
+[10:03] Thực tế là rất cao, đặc biệt là với những bệnh nhân mãn tính ở các tỉnh xa. Họ thường ngại đi lại hàng trăm cây số chỉ để hỏi bác sĩ về kết quả xét nghiệm hoặc xin đơn thuốc định kỳ. Nếu mình có hệ thống video call và quản lý bệnh án trực tuyến tốt, tôi tin là sẽ giảm tải được ít nhất 20% lượng khách đến trực tiếp tại khoa.
+[10:06] Em hoàn toàn ủng hộ bác sĩ Minh. Tuy nhiên, vấn đề lớn nhất là làm sao để bệnh nhân thực hiện thanh toán viện phí và được cấp đơn thuốc điện tử hợp lệ. Anh Sơn bên Tech cho biết hệ thống hiện tại có thể tích hợp được tính năng ký số cho bác sĩ và kết nối với các app thanh toán không?
+[10:09] Về mặt kỹ thuật thì hoàn toàn khả thi. Em đang xây dựng một module mới trên nền App của bệnh viện mình, tích hợp sẵn tính năng đặt lịch, gọi video chuẩn HD và kho bệnh án điện tử cá nhân. Về đơn thuốc, em sẽ kết nối với hệ thống dược quốc gia để mã QR trên đơn thuốc có thể quét được tại các nhà thuốc bên ngoài.
+[10:12] Nghe rất hứa hẹn đấy Sơn. Nhưng còn vấn đề bảo mật thông tin thì sao? Dữ liệu sức khỏe là thông tin tối mật. Anh không muốn có bất kỳ sự cố rò rỉ nào làm ảnh hưởng đến uy tín bệnh viện.
+[10:15] Anh yên tâm, em sử dụng mã hóa đầu cuối (End-to-end encryption) cho các cuộc gọi video và dữ liệu bệnh án được lưu trữ trên server riêng có tường lửa đa tầng. Mọi truy cập của nhân viên y tế đều phải qua xác thực sinh trắc học.
+[10:18] Tốt lắm. Bác sĩ Minh lưu ý giúp tôi là mình cần soạn một bộ quy trình hướng dẫn khám bệnh từ xa cho các bác sĩ. Không phải bệnh lý nào cũng khám online được, mình phải phân loại rõ danh mục các bệnh cho phép khám telemedicine để đảm bảo an toàn cho bệnh nhân.
+[10:21] Tôi đã bắt đầu soạn thảo danh mục này rồi. Những ca cấp cứu hoặc cần thăm khám lâm sàng trực tiếp thì hệ thống phải tự động cảnh báo và yêu cầu bệnh nhân đến viện ngay. Tôi cũng cần một đội ngũ hỗ trợ kỹ thuật trực 24/7 để giúp các bệnh nhân lớn tuổi khi họ gặp khó khăn khi dùng App.
+[10:24] Phần hỗ trợ khách hàng thì Hoa bên phòng CSKH sẽ phụ trách nhé. Em cần tuyển thêm khoảng 5 nhân sự có kiến thức về y tế và thạo công nghệ để làm tổng đài viên tư vấn Telemedicine.
+[10:27] Dạ em sẽ lên kế hoạch tuyển dụng ngay. Anh Sơn ơi, liệu mình có thể tích hợp thêm tính năng nhắc lịch uống thuốc tự động trên App cho bệnh nhân sau khi khám không ạ?
+[10:30] Ý tưởng của Hoa rất hay, cái này em sẽ bổ sung vào bản cập nhật giai đoạn 2. Trước mắt mình cứ tập trung làm tốt khâu kết nối bác sĩ - bệnh nhân và đơn thuốc điện tử đã.
+[10:33] Ok, vậy mục tiêu là tháng 6 mình sẽ chạy thử nghiệm (Pilot) tại khoa Nội tiết trước khi nhân rộng ra toàn bệnh viện. Sơn và bác sĩ Minh phối hợp chặt chẽ nhé.
+[10:36] Cảm ơn cả nhà, cuộc họp kết thúc.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận kế hoạch triển khai hệ thống khám bệnh từ xa (Telemedicine) của bệnh viện.
+- Giải quyết các vấn đề về kỹ thuật kết nối, thanh toán trực tuyến và bảo mật dữ liệu.
+- Thiết lập quy trình chuyên môn và hỗ trợ người dùng cuối (bệnh nhân).
+
+### 2. Các vấn đề đã thảo luận
+- Nhu cầu tái khám online lớn từ bệnh nhân tỉnh xa, giúp giảm tải 20% lượng khách tại chỗ.
+- Giải pháp tích hợp video call HD, đơn thuốc điện tử (e-prescription) và thanh toán viện phí trên App.
+- Cơ chế bảo mật dữ liệu bằng mã hóa đầu cuối và xác thực sinh trắc học.
+- Sự cần thiết của việc phân loại danh mục bệnh lý được phép khám online để đảm bảo an toàn y tế.
+- Thành lập đội ngũ hỗ trợ kỹ thuật chuyên biệt cho bệnh nhân lớn tuổi.
+
+### 3. Kết luận và quyết định
+- Triển khai thử nghiệm mô hình Telemedicine tại khoa Nội tiết vào tháng 6/2026.
+- Giao bộ phận CNTT hoàn thiện tính năng ký số và kết nối hệ thống dược quốc gia.
+- Bác sĩ trưởng khoa chịu trách nhiệm soạn thảo bộ quy trình khám và phân loại bệnh lý.
+- Phê duyệt kế hoạch tuyển dụng thêm 5 nhân sự hỗ trợ CSKH chuyên trách Telemedicine.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện module video call và đơn thuốc điện tử | Anh Sơn | 15/05/2026 |
+| Soạn thảo danh mục bệnh lý và quy trình khám Telemedicine | Bác sĩ Minh | 20/04/2026 |
+| Tuyển dụng và đào tạo nhân sự CSKH mới | Hoa | 10/05/2026 |
+| Thiết lập server bảo mật và phân quyền truy cập | Phòng CNTT | 01/05/2026 |
+| Chạy thử nghiệm nội bộ và lấy ý kiến bác sĩ | Ban dự án | 25/05/2026 |

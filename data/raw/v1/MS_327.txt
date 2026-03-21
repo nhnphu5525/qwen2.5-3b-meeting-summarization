@@ -1,0 +1,49 @@
+<|input|>
+[10:00] Chào bác sĩ An và các bạn bên bộ phận hậu cần. Hôm nay mình họp để giải quyết cái vấn đề xử lý rác thải y tế đang bị quá tải tại bệnh viện mình nhé. Bác sĩ An thấy cái hệ thống lò đốt hiện tại có vấn đề gì không?
+[10:03] Hệ thống này cũ quá rồi chị ạ, công suất tối đa chỉ đáp ứng được khoảng 70% lượng rác thải ra hàng ngày. Chưa kể là khói thải đôi khi vẫn còn mùi hôi, khiến cư dân xung quanh phản ánh rất nhiều.
+[10:06] Em cũng nhận thấy điều đó chị ơi. Hiện tại rác thải lây nhiễm đang phải lưu kho quá thời gian quy định vì lò không đốt kịp. Nếu không xử lý ngay thì nguy cơ ô nhiễm chéo trong bệnh viện là rất cao.
+[10:09] Căng nhỉ. Hoa này, em đã liên hệ với đơn vị xử lý rác thải bên ngoài chưa? Mình có thể ký hợp đồng để họ thu gom bớt phần rác quá tải không?
+[10:12] Dạ em đã làm việc với công ty Môi Trường Xanh. Họ đồng ý hỗ trợ mình nhưng chi phí khá cao, khoảng 20 ngàn một ký rác lây nhiễm. Nếu mình đẩy toàn bộ phần 30% dư thừa sang họ thì mỗi tháng mình mất thêm gần 100 triệu đấy chị.
+[10:15] 100 triệu là một con số lớn, nhưng an toàn y tế phải đặt lên hàng đầu. Bác sĩ An thấy mình có nên đề xuất ban giám đốc đầu tư hệ thống xử lý rác bằng công nghệ hấp tiệt trùng thay vì lò đốt không? Công nghệ này sạch hơn và về lâu dài sẽ tiết kiệm hơn.
+[10:18] Tôi hoàn toàn ủng hộ phương án hấp tiệt trùng. Nó không phát thải khí độc và rác sau khi hấp có thể xử lý như rác thông thường. Tuy nhiên, chi phí đầu tư ban đầu cho hệ thống này rơi vào khoảng 5 tỷ đồng.
+[10:21] 5 tỷ thì mình phải lập đề án vay vốn trung hạn rồi. Hoa giúp chị thu thập số liệu chi tiết về lượng rác thải trong 2 năm qua và dự báo cho 5 năm tới để làm cơ sở cho đề án nhé. Mình cần chứng minh được tính hiệu quả kinh tế của việc đầu tư máy mới so với việc đi thuê ngoài.
+[10:24] Vâng chị, em sẽ phối hợp với bác sĩ An để hoàn thiện số liệu. Em cũng sẽ tìm hiểu thêm các đơn vị cung cấp thiết bị để có bảng báo giá cạnh tranh.
+[10:27] Bác sĩ An lưu ý giúp chị khâu phân loại rác tại nguồn nhé. Nếu các khoa làm tốt việc tách rác thông thường ra khỏi rác lây nhiễm thì lượng rác cần xử lý đặc biệt sẽ giảm xuống đáng kể đấy.
+[10:30] Đúng rồi chị, tôi sẽ tổ chức một buổi tập huấn lại cho toàn bộ điều dưỡng và hộ lý về quy trình phân loại rác. Nhiều khi mọi người cứ tiện tay vứt chung hết vào một túi là không ổn.
+[10:33] Ok, vậy trước mắt là ký hợp đồng ngắn hạn với bên thuê ngoài để giải quyết rác tồn, sau đó tập trung làm đề án đầu tư máy hấp. Hoa gửi cho chị bản thảo đề án vào cuối tháng này nhé.
+[10:36] Dạ em rõ rồi ạ.
+[10:39] Cảm ơn mọi người, buổi họp kết thúc.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng quá tải rác thải y tế và sự lạc hậu của hệ thống lò đốt hiện tại.
+- Tìm kiếm giải pháp xử lý rác thải lây nhiễm đảm bảo an toàn và đúng quy định.
+- Thảo luận phương án đầu tư công nghệ xử lý rác thải hiện đại (hấp tiệt trùng).
+
+### 2. Các vấn đề đã thảo luận
+- Hệ thống lò đốt hiện tại chỉ đáp ứng được 70% công suất và gây ô nhiễm môi trường (khói thải có mùi).
+- Rủi ro ô nhiễm chéo do rác thải lây nhiễm lưu kho quá hạn.
+- Chi phí thuê ngoài xử lý rác khá cao (100 triệu/tháng cho phần dư thừa).
+- Ưu điểm của công nghệ hấp tiệt trùng so với lò đốt truyền thống.
+- Vấn đề phân loại rác tại nguồn chưa tốt làm tăng lượng rác lây nhiễm cần xử lý.
+- Ngân sách đầu tư máy hấp mới dự kiến khoảng 5 tỷ đồng.
+
+### 3. Kết luận và quyết định
+- Ký hợp đồng ngắn hạn với đơn vị bên ngoài để xử lý ngay lượng rác thải tồn đọng.
+- Xây dựng đề án đầu tư hệ thống hấp tiệt trùng rác thải y tế để trình Ban giám đốc.
+- Tổ chức đào tạo lại quy trình phân loại rác thải tại nguồn cho toàn bộ nhân viên y tế.
+- Giao bộ phận hậu cần tổng hợp số liệu rác thải và báo giá thiết bị trước cuối tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo hợp đồng thuê ngoài xử lý rác thải | Hoa | 22/03/2026 |
+| Tổng hợp số liệu rác thải và dự báo tăng trưởng | Bác sĩ An & Hoa | 25/03/2026 |
+| Tìm kiếm nhà cung cấp và lấy báo giá máy hấp rác | Hoa | 28/03/2026 |
+| Tổ chức tập huấn phân loại rác tại các khoa | Bác sĩ An | 05/04/2026 |
+| Hoàn thiện đề án đầu tư hệ thống xử lý rác mới | Trưởng phòng Hậu cần | 30/03/2026 |

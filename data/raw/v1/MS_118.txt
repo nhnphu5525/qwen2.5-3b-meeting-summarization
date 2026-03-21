@@ -1,0 +1,43 @@
+<|input|>
+[14:00:15] Chào anh em, hôm nay chúng ta họp về tiến độ giải phóng mặt bằng dự án khu đô thị mới ở Quận 9 nhé. Hiện tại đang bị vướng mấy hộ gia đình ở khu vực lõi dự án.
+[14:01:25] Em đã xuống làm việc trực tiếp với bà con rồi anh ạ. Đa số đều đồng ý nhận tiền đền bù theo khung giá nhà nước, chỉ còn 3 hộ là chưa chịu ký biên bản bàn giao mặt bằng.
+[14:02:40] 3 hộ đó đòi giá đền bù cao hơn hay sao em? Hay là họ muốn được tái định cư tại chỗ?
+[14:03:55] Dạ anh, họ bảo là giá đất khu này đang lên vèo vèo, nên mức đền bù hiện tại không đủ để họ mua lại đất ở chỗ khác. Họ đang đòi tăng thêm 30% so với phương án phê duyệt.
+[14:05:10] Tăng 30% thì khó cho mình quá. Nếu đồng ý với 3 hộ này thì mấy chục hộ đã ký trước đó họ sẽ quay lại kiện mình ngay. Long thấy có phương án nào khả thi hơn không?
+[14:06:25] Theo em, mình nên phối hợp với chính quyền địa phương để vận động, giải thích cho họ hiểu về lợi ích chung của dự án. Đồng thời, mình có thể xem xét hỗ trợ thêm một khoản phí di dời hoặc hỗ trợ ổn định đời sống cho họ.
+[14:07:45] Cái khoản hỗ trợ thêm đó thì mình tính vào chi phí gì được nhỉ? Bên kế toán liệu có duyệt không?
+[14:09:00] Để em trao đổi lại với bên kế toán trưởng. Có thể đưa vào mục "Hỗ trợ đào tạo và chuyển đổi nghề nghiệp" theo quy định của Luật Đất đai mới xem sao.
+[14:10:20] OK, Long phụ trách làm việc với UBND quận để nhờ can thiệp hỗ trợ công tác tuyên truyền. Còn Sơn lo phần hồ sơ pháp lý, chuẩn bị sẵn phương án cưỡng chế nếu sau 3 lần vận động mà họ vẫn không hợp tác.
+[14:11:35] Anh ơi, cưỡng chế là bước đường cùng thôi, vì nó ảnh hưởng đến hình ảnh của công ty lắm. Em sẽ cố gắng thuyết phục họ lần nữa trong tuần này.
+[14:12:50] Nhất trí. Cứ ưu tiên vận động mềm mỏng trước. Tuần tới báo cáo lại kết quả cho anh nhé.
+
+<|output|>
+# Đẩy nhanh tiến độ giải phóng mặt bằng dự án khu đô thị Quận 9
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết vướng mắc về công tác giải phóng mặt bằng tại khu vực lõi dự án.
+- Thống nhất phương án xử lý đối với 3 hộ gia đình chưa đồng ý bàn giao mặt bằng.
+
+### 2. Các vấn đề đã thảo luận
+- Đã có 90% số hộ gia đình ký biên bản bàn giao mặt bằng theo khung giá nhà nước.
+- 3 hộ còn lại đòi tăng giá đền bù thêm 30% do biến động giá đất thị trường.
+- Việc tăng giá đền bù cho một số hộ có thể gây ra khiếu kiện từ những hộ đã ký trước đó.
+- Đề xuất phối hợp với chính quyền địa phương thực hiện công tác dân vận và tuyên truyền.
+- Xem xét các khoản hỗ trợ ngoài khung đền bù (chi phí di dời, hỗ trợ ổn định đời sống) để đẩy nhanh tiến độ.
+
+### 3. Kết luận và quyết định
+- Ưu tiên phương án vận động, thuyết phục các hộ dân thông qua sự hỗ trợ của UBND quận.
+- Không tăng giá đền bù trực tiếp nhưng sẽ xem xét các khoản hỗ trợ phụ trợ theo quy định pháp luật.
+- Chuẩn bị sẵn sàng các thủ tục pháp lý cho phương án cưỡng chế nếu nỗ lực vận động không thành công.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Làm việc với UBND Quận về công tác vận động dân cư | Long | Thứ Năm tới |
+| Rà soát quy định để áp dụng các khoản hỗ trợ phụ trợ | Sơn | Thứ Sáu tới |
+| Xuống gặp trực tiếp 3 hộ dân để đàm phán lần cuối | Long | Thứ Bảy tới |
+| Hoàn thiện hồ sơ pháp lý dự phòng phương án cưỡng chế | Sơn | Thứ Hai tuần sau |
+| Báo cáo tổng hợp tiến độ và các khó khăn phát sinh | Long | Thứ Hai tuần sau |

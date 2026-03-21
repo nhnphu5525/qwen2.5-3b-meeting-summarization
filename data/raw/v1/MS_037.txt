@@ -1,0 +1,67 @@
+<|input|>
+[14:00] Chào team Nhân sự, hôm nay chúng ta họp để thảo luận về một vấn đề cực kỳ quan trọng: Cải thiện gói phúc lợi cho nhân viên trong năm tới. Tình hình là tỉ lệ nhân viên nghỉ việc (turnover rate) của quý vừa rồi tăng lên 15%, đặc biệt là ở khối công nghệ và kinh doanh.
+[14:02] Dạ chị, em cũng có làm khảo sát nhỏ với các bạn nghỉ việc. Đa số đều nói là lương của mình vẫn ổn nhưng phúc lợi thì chưa hấp dẫn bằng các công ty startup mới nổi. Họ có chế độ làm việc linh hoạt, bảo hiểm sức khỏe cao cấp cho cả người thân.
+[14:04] Bảo hiểm sức khỏe cho người thân à? Cái này chi phí sẽ đội lên rất nhiều đấy. Hiện tại mình đang đóng bảo hiểm xã hội đầy đủ và có gói bảo hiểm tai nạn 24/7 rồi mà?
+[14:06] Vâng, nhưng bảo hiểm tai nạn nó khác với bảo hiểm sức khỏe (Private Health Insurance) chị ạ. Các bạn trẻ bây giờ họ quan tâm đến việc đi khám ở các bệnh viện quốc tế như Vinmec hay Việt Pháp mà không phải lo về chi phí.
+[14:08] Ờm... tôi thấy ý kiến này cũng đáng cân nhắc. Nếu mình không giữ chân được người giỏi thì chi phí tuyển dụng và đào tạo người mới còn tốn kém hơn nhiều. Tuy nhiên, mình cần phân cấp gói bảo hiểm theo thâm niên hoặc cấp bậc để cân đối ngân sách.
+[14:10] Em đề xuất mình mua gói bảo hiểm sức khỏe cao cấp cho nhân viên có thâm niên từ 2 năm trở lên. Còn dưới 2 năm thì dùng gói cơ bản hơn. Ngoài ra, việc hỗ trợ 50% phí bảo hiểm cho 01 người thân cũng là một điểm cộng rất lớn.
+[14:12] Được rồi, Lan ghi lại để làm việc với bên các đơn vị bảo hiểm lấy báo giá nhé. Còn vấn đề làm việc linh hoạt (Flexible Working) thì sao?
+[14:14] Về vụ này, em thấy khối Tech rất mong muốn được làm việc từ xa (Work from home) ít nhất 2 ngày/tuần. Họ nói là code ở nhà tập trung hơn, lại đỡ tốn thời gian di chuyển kẹt xe.
+[14:16] Làm ở nhà thì quản lý năng suất kiểu gì? Tôi lo là các bạn ấy lại tranh thủ đi làm việc riêng hoặc làm cho bên thứ 3 thì sao?
+[14:18] Chỗ này em nghĩ mình nên quản lý theo kết quả công việc (KPI/OKR) chứ không nên quản lý theo thời gian có mặt ở văn phòng nữa chị ạ. Nếu các bạn ấy hoàn thành đúng deadline và chất lượng tốt thì việc ngồi ở đâu không quá quan trọng.
+[14:20] Nghe thì hay đấy, nhưng văn hóa công ty mình từ trước đến giờ là làm việc tập trung. Nếu cho Tech làm ở nhà thì các phòng ban khác như Kế toán hay Hành chính họ cũng tị nạnh thì xử lý thế nào?
+[14:22] Thì mình áp dụng chung cho toàn công ty nhưng có lộ trình. Ví dụ mỗi nhân viên có 4 ngày WFH mỗi tháng, họ tự đăng ký với quản lý trực tiếp. Như vậy ai cũng thấy công bằng.
+[14:24] Thôi được, thử nghiệm trong 3 tháng xem sao. Ngoài ra, tôi muốn bổ sung thêm các hoạt động về chăm sóc sức khỏe tinh thần. Dạo này nhân viên hay than phiền về stress và burnout quá.
+[14:26] Hay là mình đăng ký gói tập Gym/Yoga cho nhân viên nhỉ? Hoặc là thuê chuyên gia tâm lý về nói chuyện mỗi tháng một lần.
+[14:28] Gói tập Gym thì em thấy nhiều người đăng ký xong rồi bỏ xít, lãng phí lắm. Thay vào đó, mình nên xây dựng một cái 'Pantry' thật xịn, có đồ ăn nhẹ, trái cây và cà phê miễn phí. Đó là nơi mọi người thư giãn và kết nối với nhau tốt nhất.
+[14:30] Ý tưởng Pantry xịn là hợp lý đấy. Nó tạo ra không gian làm việc hiện đại và thoải mái. À, còn vụ thưởng sinh nhật với thưởng lễ tết dạo này nhân viên cũng chê là hơi 'hẻo'.
+[14:32] Hiện tại mình đang thưởng sinh nhật 500k. Em đề xuất tăng lên 1 triệu và cho nhân viên nghỉ thêm 1 ngày vào đúng ngày sinh nhật của họ. Cái này mang tính cá nhân hóa rất cao, nhân viên sẽ cảm thấy được trân trọng.
+[14:34] Nghỉ ngày sinh nhật à? Cái này mới nha. Duyệt! Còn quà Tết, năm ngoái mình tặng giỏ quà bánh kẹo, năm nay thử đổi sang voucher mua sắm hoặc tiền mặt xem sao. Mọi người có vẻ thích tiền tươi thóc thật hơn.
+[14:36] Vâng, em cũng thấy vậy. Voucher của mấy trang TMĐT như Shopee hay Tiki cũng rất tiện.
+[14:38] Tổng kết lại nhé: 1. Báo giá bảo hiểm sức khỏe phân cấp. 2. Soạn chính sách WFH thử nghiệm. 3. Lên phương án cải tạo Pantry. 4. Cập nhật chính sách thưởng sinh nhật và quà Tết.
+[14:40] Chị cho em hỏi về ngân sách dự kiến cho tất cả những thay đổi này là khoảng bao nhiêu ạ để em còn tính toán?
+[14:42] Tổng chi phí phúc lợi không được vượt quá 10% quỹ lương hiện tại. Em tự cân đối giữa các hạng mục nhé. Cái nào thực sự cần thiết và mang lại hiệu quả giữ chân nhân sự cao nhất thì ưu tiên.
+[14:44] Dạ vâng, em rõ rồi. Em sẽ gửi bản kế hoạch chi tiết vào thứ Sáu tuần này.
+[14:46] Cố gắng làm cho khéo, đừng để nhân viên thấy mình tăng cái này mà cắt cái kia của họ nhé. Phúc lợi là phải mang tính chất cộng thêm.
+[14:48] Vâng chị yên tâm.
+[14:50] OK, tan họp. Cảm ơn mọi người.
+
+<|output|>
+# Cải thiện chính sách phúc lợi và chế độ đãi ngộ nhân viên năm 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân tỉ lệ nhân viên nghỉ việc tăng cao và tìm giải pháp giữ chân nhân tài.
+- Thảo luận và thống nhất các hạng mục phúc lợi mới nhằm tăng tính cạnh tranh của công ty trên thị trường lao động.
+- Cân đối ngân sách phúc lợi để đảm bảo hài hòa giữa lợi ích nhân viên và chi phí vận hành doanh nghiệp.
+
+### 2. Các vấn đề đã thảo luận
+- Tỉ lệ nghỉ việc ở khối Tech và Kinh doanh tăng do phúc lợi chưa hấp dẫn bằng các đối thủ.
+- Nhu cầu về bảo hiểm sức khỏe cao cấp (PVI/Bảo Việt) cho nhân viên và hỗ trợ cho người thân.
+- Xu hướng làm việc linh hoạt (Work from home) để giảm stress và tăng năng suất.
+- Cải thiện không gian làm việc (Pantry) và các hoạt động chăm sóc sức khỏe tinh thần.
+- Thay đổi hình thức thưởng sinh nhật và quà Tết để thiết thực hơn với nhu cầu nhân viên.
+
+### 3. Kết luận và quyết định
+- Triển khai gói bảo hiểm sức khỏe tư nhân phân cấp theo thâm niên (ưu tiên nhân viên trên 2 năm).
+- Thử nghiệm chính sách làm việc từ xa (WFH) 4 ngày/tháng cho toàn bộ nhân viên trong 3 tháng.
+- Cải tạo khu vực Pantry thành không gian thư giãn với đồ ăn nhẹ và cà phê miễn phí.
+- Tăng tiền thưởng sinh nhật lên 1.000.000 VNĐ và tặng thêm 01 ngày nghỉ hưởng lương cho nhân viên trong ngày sinh nhật.
+- Chuyển đổi quà Tết từ hiện vật sang voucher mua sắm điện tử hoặc tiền mặt.
+- Tổng ngân sách phúc lợi mới không vượt quá 10% quỹ lương.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ lấy báo giá các gói bảo hiểm sức khỏe phân cấp | Lan | 25/11/2024 |
+| Soạn thảo quy định thử nghiệm chính sách WFH | Nam | 22/11/2024 |
+| Lên bản vẽ và dự toán cải tạo khu vực Pantry | Phòng Hành chính | 10/12/2024 |
+| Cập nhật quy chế thưởng sinh nhật và ngày nghỉ lễ | Lan | 01/12/2024 |
+| Tổng hợp bảng dự toán ngân sách phúc lợi năm 2025 | Lan | 20/12/2024 |
+| Khảo sát ý kiến nhân viên về hình thức quà Tết | Nam | 30/11/2024 |
+| Báo cáo kết quả thử nghiệm WFH sau tháng đầu tiên | Quản lý các bộ phận | 05/01/2025 |
+| Tổ chức buổi nói chuyện về sức khỏe tinh thần | Phòng HR | 15/12/2024 |
+| Làm việc với nhà cung cấp voucher Shopee/Tiki | Lan | 15/12/2024 |
+| Hoàn thiện báo cáo trình Ban giám đốc phê duyệt | Trưởng phòng HR | 25/12/2024 |

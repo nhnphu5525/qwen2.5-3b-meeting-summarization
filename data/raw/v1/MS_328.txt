@@ -1,0 +1,47 @@
+<|input|>
+[15:00] Chào anh Hùng và team kế toán, team IT. Hôm nay chúng ta họp về cái dự án chuyển đổi phần mềm tính lương mới cho toàn công ty mình nhé. Anh Hùng thấy cái phần mềm cũ hiện nay đang gặp khó khăn gì nhất?
+[15:02] Cái khó nhất là nó không tự động kết nối được với dữ liệu chấm công từ các chi nhánh xa. Cuối tháng các bạn kế toán phải nhập tay dữ liệu từ file Excel, rất dễ sai sót và mất thời gian. Ngoài ra, việc cập nhật các biểu thuế thu nhập cá nhân mới cũng phải làm thủ công.
+[15:04] Em hiểu rồi anh Hùng. Bên team IT đã khảo sát xong 3 giải pháp phần mềm chạy trên nền tảng Cloud. Những phần mềm này đều hỗ trợ kết nối API trực tiếp với máy chấm công và tự động cập nhật quy định pháp luật. Sơn ơi, em trình bày sơ qua về ưu nhược điểm của 3 bên mình đã lọc ra đi.
+[15:06] Dạ anh, mình có bên A giá rẻ nhưng tùy biến hơi kém. Bên B tính năng rất mạnh, tích hợp được cả quản lý bảo hiểm xã hội nhưng chi phí bản quyền hàng năm khá cao. Bên C thì cân bằng hơn, giao diện thân thiện và hỗ trợ tiếng Việt rất tốt. Theo em thì mình nên chọn bên C để anh em kế toán dễ làm quen.
+[15:08] Lan thấy sao về vấn đề bảo mật thông tin lương? Đây là dữ liệu nhạy cảm, mình dùng Cloud thì có rủi ro gì không em?
+[15:10] Dạ chị, các nhà cung cấp này đều đạt tiêu chuẩn quốc tế về bảo mật dữ liệu. Tuy nhiên, mình cần yêu cầu họ cam kết về việc lưu trữ dữ liệu trên server đặt tại Việt Nam để đảm bảo tốc độ truy cập và tuân thủ luật an ninh mạng. Em cũng sẽ tham gia vào khâu phân quyền truy cập để đảm bảo chỉ những người có trách nhiệm mới xem được bảng lương.
+[15:12] Ý kiến của Lan rất chính xác. Anh Hùng này, nếu mình chuyển đổi thì mất bao lâu để đối chiếu dữ liệu giữa hai hệ thống? Anh không muốn có bất kỳ sai sót nào trong kỳ lương đầu tiên sau khi chuyển đổi đâu.
+[15:14] Tôi dự kiến là mình sẽ phải chạy song song cả hai phần mềm trong ít nhất 2 tháng. Tháng đầu tiên mình vẫn lấy kết quả từ phần mềm cũ làm chuẩn để chi trả, phần mềm mới dùng để đối chiếu. Nếu sai số dưới 0.1% thì tháng thứ hai mình mới chính thức chuyển đổi hoàn toàn.
+[15:16] Phương án chạy song song là an toàn nhất. Sơn giúp anh Hùng chuẩn bị hạ tầng mạng và máy móc cho đợt tập huấn tuần tới nhé. Mình sẽ đào tạo cho các kế toán chi nhánh trước qua Zoom, sau đó mới đến văn phòng tổng công ty.
+[15:18] Vâng sếp, em đã chuẩn bị sẵn tài liệu hướng dẫn và video demo rồi ạ.
+[15:20] Ok, vậy chốt lại là mình chọn giải pháp bên C. Lan lo phần hợp đồng và bảo mật, Sơn lo kỹ thuật và đào tạo, anh Hùng giám sát khâu đối chiếu dữ liệu. Mọi người cố gắng để kỳ lương tháng 9 mình chạy trên hệ thống mới nhé.
+[15:22] Dạ rõ.
+[15:24] Cảm ơn mọi người, cuộc họp kết thúc.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và lựa chọn giải pháp phần mềm tính lương mới cho toàn công ty.
+- Giải quyết các bất cập của hệ thống cũ (nhập liệu thủ công, thiếu kết nối, cập nhật chính sách chậm).
+- Thống nhất lộ trình chuyển đổi và các biện pháp đảm bảo an toàn dữ liệu.
+
+### 2. Các vấn đề đã thảo luận
+- Bất cập của phần mềm cũ: lỗi nhập tay Excel, thiếu kết nối dữ liệu chấm công từ xa.
+- Đánh giá 3 phương án phần mềm Cloud và ưu tiên lựa chọn bên C do tính cân bằng và giao diện thân thiện.
+- Yêu cầu bảo mật: lưu trữ dữ liệu tại Việt Nam, phân quyền truy cập chặt chẽ và tuân thủ luật an ninh mạng.
+- Phương án chuyển đổi an toàn: chạy song song hai hệ thống trong 2 tháng để đối chiếu số liệu.
+- Kế hoạch đào tạo nhân viên kế toán toàn hệ thống thông qua Zoom và tài liệu hướng dẫn.
+
+### 3. Kết luận và quyết định
+- Lựa chọn giải pháp phần mềm của nhà cung cấp C để triển khai chính thức.
+- Áp dụng quy trình chạy song song và đối chiếu dữ liệu nghiêm ngặt trước khi Go-live.
+- Giao bộ phận IT chuẩn bị hạ tầng và tổ chức các buổi tập huấn chuyên môn.
+- Đặt mục tiêu vận hành chính thức hệ thống mới vào kỳ lương tháng 9/2026.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thương thảo hợp đồng và các điều khoản bảo mật với bên C | Lan | 25/03/2026 |
+| Chuẩn bị hạ tầng mạng và cài đặt môi trường thử nghiệm | Sơn | 01/04/2026 |
+| Tổ chức đào tạo sử dụng phần mềm cho kế toán các chi nhánh | Sơn & Anh Hùng | 10/04/2026 |
+| Thực hiện đối chiếu dữ liệu kỳ lương đầu tiên giữa 2 hệ thống | Team Kế toán | 30/05/2026 |
+| Phê duyệt bảng phân quyền truy cập dữ liệu lương | Ban Giám đốc | 15/04/2026 |

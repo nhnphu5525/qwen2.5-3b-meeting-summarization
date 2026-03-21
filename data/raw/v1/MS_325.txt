@@ -1,0 +1,48 @@
+<|input|>
+[09:00] Chào buổi sáng mọi người, hôm nay chúng ta họp để bàn về chiến dịch phục hồi du lịch sau dịch bệnh cho tỉnh mình nhé. Anh Bình bên Sở Du lịch thấy cái lượng khách quốc tế quay lại trong tháng vừa rồi có khả quan không?
+[09:03] Báo cáo các anh chị, con số thực tế đạt khoảng 60% so với cùng kỳ năm 2019. Đây là tín hiệu rất đáng mừng, nhưng mà mình cũng phải nhìn nhận thẳng thắn là khách chủ yếu đi theo đoàn lớn, còn khách lẻ và khách cao cấp thì vẫn còn e dè.
+[09:06] Em cũng nhận thấy điều đó anh Bình ạ. Hiện tại các cơ sở lưu trú của mình đang bị thiếu hụt nhân sự trầm trọng, nhất là những người thạo ngoại ngữ và có kỹ năng phục vụ chuyên nghiệp. Nếu mình cứ để tình trạng phục vụ kém như hiện tại thì khách sẽ một đi không trở lại mất.
+[09:09] Ý kiến của cô Lan rất đúng. Vấn đề nhân sự là bài toán hóc búa nhất lúc này. Tôi đề nghị mình nên phối hợp với các trường du lịch trong tỉnh để tổ chức các khóa đào tạo ngắn hạn cấp tốc. Chị Thu bên Sở Tài chính xem xét giúp em cái nguồn quỹ hỗ trợ đào tạo nghề cho lao động du lịch được không ạ?
+[09:12] Về kinh phí thì hiện tại mình vẫn còn một khoản trong gói hỗ trợ phục hồi kinh tế của chính phủ. Tuy nhiên, việc giải ngân cần phải có đề án cụ thể và danh sách học viên rõ ràng. Anh Bình giúp em làm cái đề án chi tiết cho phần này nhé, trong đó nêu rõ là mình sẽ đào tạo những kỹ năng gì và dự kiến có bao nhiêu người tham gia.
+[13:30] Sau khi nghỉ trưa xong chúng ta tiếp tục nhé. Về phần xúc tiến quảng bá, Nam thấy mình nên tập trung vào thị trường nào là trọng tâm trong quý 4 này?
+[13:33] Theo dữ liệu tìm kiếm gần đây thì khách từ Hàn Quốc và Nhật Bản đang có xu hướng quan tâm rất lớn đến các tour du lịch nghỉ dưỡng kết hợp chăm sóc sức khỏe (wellness tourism) tại tỉnh mình. Em đề xuất mình nên mời một số blogger du lịch nổi tiếng của các nước này sang trải nghiệm thực tế và làm video quảng bá.
+[13:36] Wellness tourism là một hướng đi rất bền vững đấy Nam. Mình có nhiều suối nước nóng và các khu resort ven biển đẹp, rất phù hợp cho mảng này. Lan ơi, em xem kết nối với hiệp hội khách sạn để họ đưa ra các gói combo nghỉ dưỡng đặc biệt cho dòng khách này nhé.
+[13:39] Dạ vâng anh Bình, em sẽ làm việc với bên hiệp hội ngay. Em nghĩ mình cũng nên cân nhắc việc giảm giá vé tham quan tại các điểm di tích lịch sử để kích cầu thêm cho khách nội địa nữa ạ.
+[13:42] Việc giảm giá vé tham quan cũng cần phải tính toán kỹ để không làm ảnh hưởng đến nguồn thu bảo tồn. Chị Thu ghi nhận ý kiến này để báo cáo lên UBND tỉnh xem xét nhé.
+[13:45] Vâng em ghi nhận rồi ạ. Tóm lại là mình sẽ tập trung vào 3 mũi nhọn: Đào tạo nhân lực, đẩy mạnh du lịch chăm sóc sức khỏe và xúc tiến tại thị trường Đông Bắc Á. Anh Bình chốt lại lịch trình thực hiện cho mọi người nhé.
+[13:48] Được rồi, tuần tới anh sẽ nộp bản đề án đào tạo nhân lực cho chị Thu. Nam thì lên danh sách các blogger dự kiến mời. Còn Lan thì chuẩn bị nội dung làm việc với hiệp hội khách sạn. Hy vọng mùa cao điểm cuối năm nay mình sẽ bứt phá.
+[13:51] Chúc chiến dịch của chúng ta thành công. Chào mọi người.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận chiến lược phục hồi ngành du lịch tỉnh sau đại dịch.
+- Giải quyết vấn đề thiếu hụt nhân sự chất lượng cao trong ngành dịch vụ.
+- Định hướng thị trường mục tiêu và sản phẩm du lịch đặc trưng cho quý 4/2026.
+
+### 2. Các vấn đề đã thảo luận
+- Lượng khách quốc tế phục hồi đạt 60%, nhưng chủ yếu là khách đoàn, thiếu khách cao cấp.
+- Tình trạng thiếu hụt nhân sự thạo ngoại ngữ và kỹ năng phục vụ tại các cơ sở lưu trú.
+- Đề xuất sử dụng gói hỗ trợ phục hồi kinh tế của chính phủ để đào tạo nghề du lịch cấp tốc.
+- Xu hướng tăng trưởng của loại hình du lịch chăm sóc sức khỏe (wellness tourism) tại thị trường Đông Bắc Á (Hàn Quốc, Nhật Bản).
+- Kế hoạch mời các blogger du lịch nổi tiếng sang trải nghiệm và quảng bá hình ảnh tỉnh.
+- Xem xét giảm giá vé tham quan di tích để kích cầu du lịch nội địa.
+
+### 3. Kết luận và quyết định
+- Tập trung vào 3 mũi nhọn: Đào tạo nhân lực, phát triển du lịch chăm sóc sức khỏe và xúc tiến thị trường Đông Bắc Á.
+- Xây dựng đề án chi tiết về đào tạo nhân sự để giải ngân nguồn quỹ hỗ trợ.
+- Giao bộ phận xúc tiến mời các influencer quốc tế thực hiện chiến dịch truyền thông.
+- Phối hợp với Hiệp hội khách sạn để xây dựng các gói combo nghỉ dưỡng chuyên biệt.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện đề án đào tạo nhân lực du lịch cấp tốc | Anh Bình | 25/03/2026 |
+| Lên danh sách blogger du lịch quốc tế dự kiến mời | Nam | 22/03/2026 |
+| Làm việc với Hiệp hội khách sạn về gói combo nghỉ dưỡng | Lan | 28/03/2026 |
+| Báo cáo UBND tỉnh về phương án giảm giá vé tham quan | Chị Thu | 30/03/2026 |
+| Xây dựng kịch bản quảng bá du lịch chăm sóc sức khỏe | Sở Du lịch | 05/04/2026 |

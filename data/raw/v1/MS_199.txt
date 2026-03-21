@@ -1,0 +1,63 @@
+<|input|>
+[09:00] Chào mọi người, hôm nay chúng ta bắt đầu thảo luận về bộ sưu tập thời trang Thu - Đông 2026 cho thương hiệu của mình nhé.
+[09:02] Xu hướng năm tới theo tôi thấy là sự lên ngôi của phong cách "Quiet Luxury" – sang trọng nhưng tối giản, không phô trương.
+[09:04] Tôi đồng ý, khách hàng giờ họ chuộng chất lượng vải và đường cắt may tinh tế hơn là các logo to bản.
+[09:06] Về bảng màu, mình nên tập trung vào các tông màu đất như nâu hạt dẻ, be sáng, xanh rêu đậm và ghi xám.
+[09:08] Ngoài ra, cần có một vài màu điểm xuyết nổi bật như đỏ rượu vang (burgundy) để tạo điểm nhấn cho bộ sưu tập.
+[09:10] Về chất liệu, tôi đề xuất ưu tiên dùng len cashmere, dạ lông cừu và các loại vải sinh học thân thiện môi trường.
+[09:12] Vải sinh học thì tốt nhưng giá thành hơi cao, mình phải cân đối số lượng mẫu dùng vải này để đảm bảo mức giá bán lẻ cạnh tranh.
+[09:14] Hay là mình làm một dòng sản phẩm "Eco-line" riêng trong bộ sưu tập này? Để khách hàng có thêm lựa chọn sống xanh.
+[09:16] Ý hay đó, dòng này có thể tập trung vào các thiết kế cơ bản (basic) dễ phối đồ.
+[09:18] Đối với dòng sản phẩm nam, áo khoác măng tô dáng dài và áo len cổ lọ vẫn sẽ là những item chủ đạo.
+[09:20] Còn đồ nữ, tôi muốn thấy sự xuất hiện của các set đồ tweed phối với chân váy midi, nhìn rất sang trọng và thanh lịch.
+[09:22] Mọi người lưu ý về kích cỡ (sizing), đợt vừa rồi khách phàn nàn là size M của mình hơi bị chật so với chuẩn thông thường.
+[09:24] Đúng rồi, cần phải điều chỉnh lại bảng thông số size cho khớp với thể trạng thực tế của khách hàng khu vực mình nhắm tới.
+[09:26] Về sản xuất, lần này mình sẽ siết chặt khâu kiểm soát đường may, không để tình trạng chỉ thừa hay lệch tà xảy ra nữa.
+[09:28] Dự kiến cuối tháng sau mình phải có bộ mẫu đầu tiên (First sample) để chụp Lookbook.
+[09:30] Team Marketing liên hệ sớm với các studio và người mẫu đi, mùa Thu - Đông là cao điểm chụp ảnh đấy.
+[09:32] Địa điểm chụp tôi muốn hướng đến không gian cổ điển như các dinh thự cũ hoặc thư viện cổ.
+[09:34] Nghe rất hợp với vibe "Quiet Luxury" mà mình đang hướng tới.
+[09:36] Về phần bao bì, mình cũng nên chuyển sang hộp giấy tái chế và túi vải dù cao cấp thay vì dùng túi nilon.
+[09:38] Tuy chi phí bao bì tăng nhưng nó cộng hưởng rất tốt vào giá trị thương hiệu.
+[09:40] Ok, chốt các định hướng chính này. Team thiết kế bắt đầu vẽ phác thảo chi tiết cho từng mẫu nhé.
+[09:42] Tuần sau mình sẽ duyệt lại các bản vẽ tay trước khi tiến hành may mẫu.
+[09:44] Mọi người cố gắng bám sát tiến độ để kịp ra mắt vào đầu tháng 9.
+
+<|output|>
+# Định hướng thiết kế và sản xuất bộ sưu tập Thu - Đông 2026
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định phong cách chủ đạo, bảng màu và chất liệu cho bộ sưu tập Thu - Đông 2026.
+- Thống nhất kế hoạch sản xuất, kiểm soát chất lượng và chiến lược hình ảnh cho thương hiệu.
+- Giải quyết các tồn đọng về thông số kích cỡ sản phẩm từ các bộ sưu tập trước.
+
+### 2. Các vấn đề đã thảo luận
+- Lựa chọn phong cách "Quiet Luxury" (Sang trọng tối giản) làm kim chỉ nam cho thiết kế.
+- Bảng màu chủ đạo: Tông màu đất (nâu, be, xám) kết hợp điểm nhấn đỏ rượu vang.
+- Ưu tiên chất liệu cao cấp (Cashmere, dạ) và thử nghiệm dòng vải sinh học "Eco-line".
+- Cơ cấu sản phẩm: Tập trung áo măng tô, áo len cổ lọ cho nam và set tweed, váy midi cho nữ.
+- Điều chỉnh bảng thông số size (Sizing chart) để phù hợp hơn với vóc dáng khách hàng.
+- Nâng cao tiêu chuẩn QC trong may mặc để hạn chế lỗi kỹ thuật và chỉ thừa.
+- Kế hoạch chụp Lookbook: Thuê người mẫu, studio và lựa chọn bối cảnh cổ điển.
+- Thay đổi bao bì sang vật liệu thân thiện môi trường để nâng tầm giá trị thương hiệu.
+
+### 3. Kết luận và quyết định
+- Thống nhất triển khai bộ sưu tập theo phong cách sang trọng, tối giản và bền vững.
+- Team Thiết kế hoàn thiện các bản phác thảo chi tiết và bảng thông số size mới.
+- Team Marketing lập kế hoạch sản xuất hình ảnh và liên hệ nhân sự chụp Lookbook.
+- Bộ phận Sản xuất chuẩn bị nguồn nguyên liệu vải và kế hoạch may mẫu trong tháng sau.
+- Chuyển đổi toàn bộ hệ thống bao bì sang vật liệu tái chế cho bộ sưu tập này.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện phác thảo thiết kế chi tiết | Team Thiết kế | 28/03/2026 |
+| Điều chỉnh và ban hành bảng size mới | Phòng Kỹ thuật | 05/04/2026 |
+| Tìm nguồn cung ứng vải Cashmere và vải sinh học | Phòng Thu mua | 15/04/2026 |
+| Liên hệ Studio và người mẫu chụp Lookbook | Phòng Marketing | 10/04/2026 |
+| Hoàn thiện bộ mẫu may thử nghiệm đầu tiên | Xưởng Sản xuất | 30/04/2026 |
+| Đặt hàng bao bì tái chế theo thiết kế mới | Phòng Hành chính | 20/04/2026 |
+| Duyệt kế hoạch truyền thông ra mắt | Ban Giám đốc | 15/05/2026 |

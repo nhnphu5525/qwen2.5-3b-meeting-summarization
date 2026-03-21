@@ -1,0 +1,51 @@
+<|input|>
+[10:00:15] Chào team nha, hôm nay mình ngồi lại chốt cái timeline cho sự kiện ra mắt bộ nhận diện thương hiệu mới vào tháng sau nè.
+[10:01:25] Dạ chị, em thấy cái mốc ngày 15/12 có vẻ hơi gấp á chị. Tại bên in ấn báo là mấy cái backdrop với standee đợt này họ đang bị quá tải đơn hàng.
+[10:02:40] Ờ thì cái đó mình phải lường trước chứ. Hùng check lại xem nếu mình đặt sớm từ tuần này thì họ có ưu tiên cho mình không?
+[10:03:55] Dạ em có hỏi rồi, họ bảo nếu chốt file thiết kế trước thứ Sáu này thì họ vẫn kịp giao cho mình vào ngày 10/12 đó chị.
+[10:05:10] Vậy thì tốt quá. Còn phần thi công sân khấu với âm thanh ánh sáng thì sao Vy? Em đã liên hệ bên vendor chưa?
+[10:06:25] Dạ vầy nè chị, em đã khảo sát 3 bên rồi. Bên Alpha thì báo giá hơi cao nhưng họ có sẵn mấy cái màn hình LED đời mới nhìn xịn lắm. Còn bên Beta thì rẻ hơn mà thiết bị hơi cũ.
+[10:07:40] Thôi mình chọn Alpha đi, sự kiện ra mắt bộ nhận diện mới mà, hình ảnh phải thật chỉn chu. Chi phí phát sinh tí không sao, để chị xin sếp duyệt thêm ngân sách.
+[10:08:55] Dạ vâng, vậy để em chốt với bên Alpha luôn. Còn vụ mời KOLs thì sao hả chị? Mình đã chốt được danh sách chưa ạ?
+[10:10:10] Chị đang cân nhắc giữa 2 bạn. Một bạn thì thiên về công nghệ, một bạn thì thiên về lifestyle. Hùng thấy ai hợp với cái vibe mới của mình hơn?
+[10:11:25] Em thấy cái logo mới của mình nhìn nó trẻ trung, năng động nên chắc chọn bạn lifestyle sẽ hút giới trẻ hơn đó chị. Với lại bạn đó cũng đang có lượng follow khủng trên TikTok nữa.
+[10:12:40] Ờ nghe cũng hợp lý á. Vậy Hùng liên hệ bên agency để check lịch của bạn đó nha. Nhớ chốt luôn cái kịch bản livestream hôm đó luôn.
+[10:13:55] Dạ em note lại rồi ạ. Còn phần quà tặng cho khách mời (gift set) thì sao chị? Em tính làm mấy cái sổ tay với bình nước in logo mới.
+[10:15:10] Ừ cái đó ổn đó Vy, nhưng mà nhớ chọn chất liệu thân thiện với môi trường tí nha, cho nó đúng cái thông điệp "Phát triển bền vững" mà mình sắp công bố.
+[10:16:25] Dạ em hiểu rồi, để em đi tìm mẫu rồi gửi chị duyệt. À, còn cái phần thông cáo báo chí, mình có cần thuê bên PR chuyên nghiệp viết không chị?
+[10:17:40] Thôi, cái đó để chị tự viết rồi gửi cho mấy anh chị phóng viên thân thiết là được rồi. Mình dành tiền đó tập trung cho mảng chạy quảng cáo Social Media đi.
+[10:18:55] Dạ vậy cũng được ạ. Em sẽ lên kế hoạch chạy ads bắt đầu từ ngày 1/12 để tạo buzz cho sự kiện.
+[10:20:10] Ok, vậy chốt thế nhé. Mọi người cố gắng bám sát timeline, có khó khăn gì thì báo chị ngay nha.
+
+<|output|>
+# Thống nhất timeline sự kiện ra mắt bộ nhận diện thương hiệu mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt mốc thời gian và các hạng mục quan trọng cho sự kiện ra mắt bộ nhận diện thương hiệu mới.
+- Giải quyết các vướng mắc về nhà cung cấp (in ấn, thi công) và nhân sự tham gia (KOLs).
+- Phân bổ ngân sách và nhiệm vụ cụ thể cho từng thành viên trong team.
+
+### 2. Các vấn đề đã thảo luận
+- Thời gian tổ chức: Dự kiến ngày 15/12. Tuy nhiên cần đẩy nhanh tiến độ thiết kế để kịp in ấn trước ngày 10/12.
+- Nhà cung cấp: Lựa chọn đơn vị Alpha cho phần âm thanh, ánh sáng và màn hình LED dù chi phí cao hơn để đảm bảo chất lượng hình ảnh chuyên nghiệp.
+- Nhân sự sự kiện: Thống nhất mời KOL thuộc lĩnh vực Lifestyle phù hợp với phong cách trẻ trung của bộ nhận diện mới thay vì KOL mảng công nghệ.
+- Quà tặng (Gift set): Chọn các sản phẩm thân thiện với môi trường (sổ tay, bình nước) để truyền tải thông điệp phát triển bền vững.
+- Truyền thông: Tự thực hiện viết thông cáo báo chí để tiết kiệm chi phí PR, dồn ngân sách cho chạy quảng cáo trên các nền tảng mạng xã hội từ ngày 01/12.
+
+### 3. Kết luận và quyết định
+- Chốt ngày tổ chức chính thức là 15/12/2024.
+- Hoàn thiện file thiết kế cuối cùng trước thứ Sáu tuần này để gửi bên in ấn.
+- Liên hệ agency để chốt lịch KOL và kịch bản livestream.
+- Triển khai chiến dịch truyền thông "tạo buzz" trên Social Media từ đầu tháng 12.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện file thiết kế backdrop, standee | Hùng - Marketing | 22/11/2024 |
+| Ký hợp đồng với vendor Alpha (âm thanh, ánh sáng) | Vy - Marketing | 25/11/2024 |
+| Chốt lịch KOL và kịch bản livestream | Hùng - Marketing | 28/11/2024 |
+| Tìm mẫu và đặt hàng quà tặng thân thiện môi trường | Vy - Marketing | 30/11/2024 |
+| Viết thông cáo báo chí và kế hoạch chạy Ads | Chị Trưởng phòng | 01/12/2024 |

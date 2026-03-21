@@ -1,0 +1,53 @@
+<|input|>
+[14:00:00] Mọi người tập trung đông đủ chưa? Tình hình căng rồi, cái máy nén khí trục vít ở xưởng A tự nhiên lăn đùng ra chết máy lúc 1 giờ trưa nay. Giờ cả dây chuyền đóng gói đang phải dừng hết rồi. Hùng báo cáo sơ bộ tình hình đi em.
+[14:01:20] Dạ anh Bình, em với mấy anh em kỹ thuật mới kiểm tra xong. Sơ bộ là nó bị bó trục đầu nén anh ạ. Chắc do đợt rồi vận hành quá tải liên tục mà bộ lọc dầu bị tắc nên nó nóng quá, cháy cả vòng bi luôn rồi.
+[14:02:45] Trời đất, sao để tới mức đó mới biết? Cái này hôm nọ anh thấy em bảo vẫn chạy ổn mà?
+[14:03:10] Dạ vầy nè anh Bình, thực ra là tụi em có lên lịch bảo trì định kỳ vào tuần tới, nhưng không ngờ là cái biến tần nó bị lỗi điều tốc nên máy nó cứ chạy max công suất suốt mấy ngày nay. Em sơ suất không kiểm tra kỹ thông số trên bảng điều khiển hàng ngày, em xin lỗi anh.
+[14:04:35] Thôi, giờ lỗi của ai tính sau. Quan trọng là giờ sửa mất bao lâu? Có phụ tùng thay liền không? Phương bên thu mua có đó không?
+[14:05:00] Dạ em đây anh Bình. Em mới check kho xong, bộ vòng bi đặc chủng này mình không có sẵn. Em gọi cho bên nhà cung cấp Atlas Copco thì họ bảo hàng này phải đặt từ kho tổng ở Sài Gòn ra, nhanh nhất cũng phải chiều mai mới có mặt ở xưởng mình.
+[14:06:25] Chiều mai mới có? Không được, chiều mai mới có thì xưởng dừng sản xuất cả ngày rưỡi à? Đơn hàng xuất đi Nhật sáng mốt là tiêu đời luôn. Có cách nào nhanh hơn không Phương? Ship hỏa tốc hay tìm đơn vị nào khác có sẵn không?
+[14:07:50] Dạ để em liên hệ mấy đại lý ủy quyền ngoài Hà Nội xem họ có bóc máy nào ra bán lẻ cho mình không. Nhưng giá chắc chắn sẽ cao hơn tầm 30-40% đó anh.
+[14:08:15] Cao cũng phải chịu thôi, giờ tiền phạt chậm đơn hàng còn kinh khủng hơn nhiều. Phương ưu tiên tìm hàng có sẵn, trong vòng 4 tiếng nữa phải có mặt ở đây cho anh. Còn Hùng, trong lúc chờ hàng về, em coi có tận dụng được cái máy nén khí cũ dự phòng ở kho B không?
+[14:09:40] Dạ cái máy đó công suất nó chỉ bằng 1/3 máy này thôi anh. Nếu chạy thì chỉ đủ cho một nửa dây chuyền đóng gói thôi. Nhưng mà méo mó có hơn không, để em cho anh em kéo dây hơi từ kho B qua xưởng A luôn bây giờ.
+[14:11:05] Ừ, làm ngay đi. Được chút nào hay chút đó. Mà Hùng nè, sẵn tiện kiểm tra luôn mấy cái máy bên xưởng C với D cho anh luôn nha. Đừng để xảy ra tình trạng tương tự, anh đau đầu lắm rồi.
+[14:12:30] Dạ em rõ rồi anh. Lát xong vụ đấu nối máy dự phòng em sẽ cho anh em đi check toàn bộ hệ thống khí nén của cả nhà máy luôn.
+[14:13:55] Phương ơi, còn cái vụ biến tần bị lỗi như Hùng nói đó, em hỏi bên nhà cung cấp xem họ có hỗ trợ kỹ thuật xuống kiểm tra lại phần mềm điều khiển không. Anh nghi là do xung đột tín hiệu gì đó nên nó mới không tự ngắt khi quá nhiệt.
+[14:15:20] Dạ em sẽ yêu cầu họ cử kỹ sư xuống cùng với đợt giao hàng vòng bi luôn anh nhé. Tiện thể bảo trì tổng quát cái máy luôn cho chắc ăn.
+[14:16:45] OK. Vậy thống nhất nha: Hùng lo kéo máy dự phòng để chạy tạm 30% công suất. Phương lo tìm vòng bi hỏa tốc trong chiều nay. Có gì biến động phải alo cho anh ngay lập tức. Anh sang báo cáo với ban giám đốc về sự cố này đây.
+[14:18:10] Dạ tụi em triển khai ngay ạ.
+[14:19:35] Anh Bình ơi, em vừa liên lạc được bên đại lý ở Hải Phòng, họ có hàng. Họ hứa là 5 giờ chiều nay xe của họ sẽ giao tận cửa xưởng mình luôn ạ.
+[14:20:00] May quá! Chốt luôn đi Phương. Nhớ lấy đầy đủ hóa đơn chứng từ nha. Hùng chuẩn bị sẵn đồ nghề, hàng về là chiến luôn trong đêm, sáng mai máy phải chạy lại được cho anh.
+[14:21:25] Dạ anh yên tâm, đêm nay em với 2 bạn nữa sẽ trực chiến tại xưởng, quyết tâm sáng mai máy nổ lại bình thường ạ.
+[14:22:50] Tốt. Cố gắng lên mấy đứa. Xong vụ này anh đề xuất thưởng nóng cho tổ kỹ thuật. Thôi, giải tán đi làm đi.
+
+<|output|>
+# Họp khẩn sự cố máy nén khí xưởng A
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết sự cố hỏng máy nén khí trục vít tại xưởng A gây dừng dây chuyền đóng gói.
+- Tìm phương án sửa chữa nhanh nhất để kịp tiến độ đơn hàng xuất khẩu.
+- Phân công nhiệm vụ khắc phục tạm thời và mua sắm phụ tùng thay thế.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân sự cố: Bó trục đầu nén do tắc lọc dầu và lỗi biến tần khiến máy chạy quá tải liên tục.
+- Tình trạng phụ tùng: Kho không có sẵn vòng bi đặc chủng; nhà cung cấp chính hãng báo chiều mai mới có hàng.
+- Phương án thay thế: Tìm mua hàng từ đại lý bên ngoài với giá cao hơn để có hàng ngay trong chiều nay.
+- Giải pháp tạm thời: Kéo đường hơi từ máy nén khí dự phòng ở kho B sang để vận hành 30% công suất.
+
+### 3. Kết luận và quyết định
+- Duyệt mua vòng bi hỏa tốc từ đại lý Hải Phòng (giao hàng lúc 17:00 hôm nay).
+- Tổ kỹ thuật trực chiến sửa chữa xuyên đêm để máy hoạt động lại vào sáng mai.
+- Yêu cầu nhà cung cấp cử kỹ sư xuống kiểm tra lại lỗi phần mềm biến tần.
+- Kiểm tra tổng thể hệ thống khí nén tại tất cả các xưởng khác để phòng ngừa.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đấu nối máy nén khí dự phòng từ kho B | Hùng - Tổ Kỹ thuật | 16:00 12/06/2024 |
+| Chốt đơn mua vòng bi hỏa tốc Hải Phòng | Phương - Phòng Thu mua | 14:30 12/06/2024 |
+| Thay thế vòng bi và sửa chữa máy trục vít | Hùng - Tổ Kỹ thuật | 06:00 13/06/2024 |
+| Kiểm tra lỗi biến tần và bảo trì tổng thể | Kỹ sư Atlas Copco | 10:00 13/06/2024 |
+| Kiểm tra định kỳ toàn bộ máy nén khí nhà máy | Tổ Kỹ thuật | 15/06/2024 |

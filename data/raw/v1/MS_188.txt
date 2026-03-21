@@ -1,0 +1,53 @@
+<|input|>
+[15:00] Chào mọi người, hôm nay chúng ta bàn về chiến lược khôi phục mảng du lịch quốc tế (Inbound và Outbound).
+[15:02] Thị trường Trung Quốc đã mở cửa hoàn toàn, đây là cơ hội lớn nhưng cũng rất thách thức vì yêu cầu của khách đã thay đổi.
+[15:04] Khách giờ không thích đi theo đoàn lớn 40-50 người nữa, họ chuộng các nhóm nhỏ, gia đình và trải nghiệm địa phương sâu sắc.
+[15:06] Chúng ta cần thiết kế lại các tour theo hướng "Tailor-made", tập trung vào ẩm thực và văn hóa.
+[15:08] Còn mảng Outbound sang Nhật Bản và Hàn Quốc thì sao? Tôi thấy nhu cầu đang tăng rất mạnh.
+[15:10] Vướng mắc lớn nhất hiện nay là thủ tục Visa, thời gian xét duyệt đang bị kéo dài.
+[15:12] Chúng ta nên làm việc chặt chẽ hơn với các cơ quan xúc tiến du lịch của họ để có chính sách hỗ trợ cho các công ty lữ hành uy tín.
+[15:14] Về giá cả, chi phí vé máy bay vẫn đang ở mức cao, ảnh hưởng đến giá tour tổng thể.
+[15:16] Team sản phẩm cần đàm phán mua series vé máy bay (Charter hoặc Group booking) để có giá tốt hơn.
+[15:18] Marketing nên tập trung vào các kênh TikTok và Instagram vì khách hàng mục tiêu hiện nay trẻ hóa rất nhanh.
+[15:20] Cần quay thêm các video review thực tế về các điểm đến mới, không nên dùng mãi ảnh cũ từ trước dịch.
+[15:22] Về nhân sự, đội ngũ hướng dẫn viên tiếng hiếm (Đức, Ý, Tây Ban Nha) đang thiếu trầm trọng.
+[15:24] Có thể tuyển cộng tác viên hoặc tổ chức đào tạo cấp tốc cho những bạn có nền tảng ngôn ngữ tốt.
+[15:26] Hệ thống booking online của mình cũng cần nâng cấp để khách có thể thanh toán quốc tế dễ dàng.
+[15:28] Ok, bộ phận kỹ thuật sẽ kiểm tra lại tích hợp cổng thanh toán Stripe hoặc PayPal.
+[15:30] Hy vọng trong quý này doanh thu từ mảng quốc tế sẽ đóng góp 40% tổng doanh thu của công ty.
+
+<|output|>
+# Chiến lược khôi phục và phát triển du lịch quốc tế
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng sản phẩm du lịch mới phù hợp với xu hướng sau dịch (nhóm nhỏ, cá nhân hóa).
+- Tháo gỡ các khó khăn về thủ tục Visa và chi phí vận chuyển hàng không.
+- Đẩy mạnh truyền thông số và nâng cấp hạ tầng thanh toán quốc tế.
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng thay đổi của khách du lịch: Ưu tiên trải nghiệm văn hóa địa phương và tour nhóm nhỏ.
+- Khó khăn trong việc xin Visa đi các thị trường trọng điểm như Nhật Bản, Hàn Quốc.
+- Chi phí vé máy bay cao làm giảm tính cạnh tranh của giá tour.
+- Sự thiếu hụt nhân sự hướng dẫn viên các ngôn ngữ hiếm.
+- Cần đổi mới nội dung Marketing trên các nền tảng video ngắn (TikTok, Reels).
+- Nâng cấp cổng thanh toán quốc tế trên website để thuận tiện cho khách nước ngoài.
+
+### 3. Kết luận và quyết định
+- Phòng Sản phẩm thiết kế các gói tour "Tailor-made" mới và đàm phán vé máy bay theo đoàn.
+- Phòng Kinh doanh làm việc với các đại sứ quán/cục du lịch để hỗ trợ thủ tục Visa.
+- Phòng Marketing triển khai sản xuất video Review thực tế tại các điểm đến.
+- Phòng Nhân sự lên kế hoạch tuyển dụng và đào tạo hướng dẫn viên tiếng hiếm.
+- Phòng CNTT tích hợp thêm cổng thanh toán quốc tế Stripe/PayPal vào hệ thống.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế tour nhóm nhỏ và cá nhân hóa | Phòng Sản phẩm | 05/04/2026 |
+| Đàm phán giá vé máy bay Group booking | Phòng Sản phẩm | 10/04/2026 |
+| Sản xuất bộ video Marketing thực tế | Phòng Marketing | 20/04/2026 |
+| Tuyển dụng cộng tác viên hướng dẫn viên | Phòng Nhân sự | 30/04/2026 |
+| Tích hợp cổng thanh toán Stripe/PayPal | Phòng CNTT | 15/04/2026 |
+| Làm việc với đối tác Visa Nhật/Hàn | Phòng Kinh doanh | 05/04/2026 |

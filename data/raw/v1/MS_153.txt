@@ -1,0 +1,48 @@
+<|input|>
+[09:00:10] Chào anh em bác sĩ nha. Sáng nay mình họp giao ban nhanh chút xíu để cập nhật cái phác đồ điều trị sốt xuất huyết mới của Bộ Y tế nè. Dạo này ca bệnh đang tăng, mình không nắm kỹ là mệt lắm đó.
+[09:01:25] Dạ bác sĩ trưởng ơi, cái phác đồ mới này có gì khác biệt nhiều so với cái cũ năm ngoái không ạ? Em thấy mấy ca nhập viện gần đây triệu chứng nó cũng hơi lạ, nhiều ca tiểu cầu giảm nhanh cực kỳ.
+[09:02:40] Thì đó, cái điểm quan trọng nhất là mình phải phân loại bệnh nhân thật kỹ ngay từ đầu. Phác đồ mới nhấn mạnh việc theo dõi sát sao mấy cái dấu hiệu cảnh báo như đau bụng vùng gan, nôn ói nhiều hay là xuất huyết niêm mạc á.
+[09:04:05] Dạ vầy nè, em thấy trong tài liệu có nói là việc truyền dịch giờ phải cẩn thận hơn đúng không anh? Không phải cứ thấy sốt là đè ra truyền dịch đâu, dễ gây quá tải tuần hoàn lắm, nhất là với trẻ em và người già.
+[09:05:30] Đúng rồi cô Lan. Phải ưu tiên bù dịch bằng đường uống trước nếu bệnh nhân còn uống được. Chỉ khi nào có dấu hiệu sốc hoặc không uống được thì mới bắt đầu truyền dịch theo đúng lưu đồ. Mà truyền là phải canh tốc độ cực kỳ chuẩn nha, không có chuyện để chảy tự do đâu.
+[09:06:55] Em thấy cái vụ xét nghiệm NS1Ag cũng quan trọng nè. Nhiều khi bệnh nhân mới sốt ngày 1 ngày 2 mà mình không làm xét nghiệm này là dễ bỏ sót lắm. Anh thấy mình có nên yêu cầu làm test nhanh cho tất cả các ca sốt nghi ngờ không?
+[09:08:20] Anh nghĩ là nên, đặc biệt là trong mùa dịch này. Test sớm để quản lý sớm. Với lại, phác đồ mới cũng nhắc mình phải để ý đến mấy cái biến chứng tạng nữa, không chỉ có mỗi xuất huyết hay sốc đâu. Có ca bị suy gan, suy thận cấp do sốt xuất huyết luôn đó.
+[09:09:45] Dạ, vậy còn vụ dùng thuốc hạ sốt thì sao ạ? Có thay đổi gì không anh? Em thấy nhiều người dân vẫn còn thói quen dùng Ibuprofen hay Aspirin để hạ sốt cho nhanh, cái này nguy hiểm quá.
+[09:11:10] Tuyệt đối cấm nha! Cái này mình phải dặn dò điều dưỡng nhắc nhở người nhà thật kỹ. Chỉ dùng Paracetamol thôi, và đúng liều lượng. Dùng mấy cái kia là nó làm tăng nguy cơ xuất huyết, lúc đó cứu không kịp đâu.
+[09:12:35] Em có ý kiến là mình nên làm một cái bảng tóm tắt lưu đồ điều trị dán ngay tại phòng trực và các buồng bệnh luôn cho anh em dễ tra cứu. Chứ nhiều khi cấp cứu đông quá, cuống lên lại nhớ lộn liều lượng là gay.
+[09:14:00] Ý kiến của bác sĩ Nam rất tốt. Để tôi nhờ bên hành chính in màu cái lưu đồ đó ra, ép plastic cho bền rồi dán khắp nơi. Tiện thể mình tổ chức một buổi tập huấn ngắn cho cả đội ngũ điều dưỡng luôn, vì họ là người trực tiếp theo dõi bệnh nhân 24/24 mà.
+[09:15:25] Dạ đúng, điều dưỡng mà nhận diện sớm được dấu hiệu sốc thì bác sĩ mình mới can thiệp kịp. Chứ để tới lúc mạch bằng không huyết áp bằng không mới gọi bác sĩ là thua rồi.
+[09:16:50] OK, vậy thống nhất vậy nha. Bác sĩ Lan soạn lại cái nội dung tập huấn ngắn gọn cho điều dưỡng đi. Bác sĩ Nam phụ trách kiểm tra lại kho thuốc và dịch truyền xem có đủ đáp ứng nếu ca bệnh tăng đột biến không nha.
+[09:18:15] Dạ em rõ rồi. Để em qua kho dược kiểm tra luôn.
+[09:19:40] Thôi, mọi người về vị trí trực đi. Có ca nào diễn biến nặng là phải báo cáo tôi ngay lập tức, không được tự ý xử lý đâu nha. Chào mọi người.
+
+<|output|>
+# Cập nhật phác đồ điều trị sốt xuất huyết mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phổ biến và cập nhật phác đồ điều trị sốt xuất huyết Dengue mới nhất của Bộ Y tế cho đội ngũ y bác sĩ.
+- Nhận diện các điểm khác biệt quan trọng trong phác đồ mới để tránh sai sót trong điều trị.
+- Tăng cường công tác theo dõi và xử trí sớm các ca bệnh nặng, ca có dấu hiệu cảnh báo.
+
+### 2. Các vấn đề đã thảo luận
+- Tầm quan trọng của việc phân loại bệnh nhân ngay từ đầu dựa trên các dấu hiệu cảnh báo (đau bụng, nôn ói, xuất huyết niêm mạc, tiểu cầu giảm nhanh).
+- Nguyên tắc bù dịch: Ưu tiên đường uống, chỉ truyền dịch khi có chỉ định cụ thể và phải kiểm soát tốc độ chặt chẽ để tránh quá tải tuần hoàn.
+- Vai trò của xét nghiệm NS1Ag trong việc chẩn đoán sớm những ngày đầu của bệnh.
+- Cảnh báo về các biến chứng tạng (gan, thận) ngoài các biến chứng thường gặp như sốc và xuất huyết.
+- Nhắc nhở về việc sử dụng thuốc hạ sốt: Tuyệt đối không dùng Ibuprofen và Aspirin; chỉ dùng Paracetamol đúng liều.
+
+### 3. Kết luận và quyết định
+- Triển khai in ấn và dán lưu đồ điều trị phác đồ mới tại phòng trực và các buồng bệnh để tiện tra cứu.
+- Tổ chức buổi tập huấn ngắn cho toàn bộ đội ngũ điều dưỡng về cách nhận diện sớm các dấu hiệu cảnh báo và dấu hiệu sốc.
+- Kiểm tra và đảm bảo nguồn thuốc, dịch truyền dự phòng cho các tình huống bệnh tăng cao.
+- Thiết lập quy trình báo cáo nhanh các ca bệnh diễn biến nặng cho bác sĩ trưởng khoa.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| In ấn và dán lưu đồ phác đồ điều trị mới tại các phòng | Bộ phận Hành chính | 12/10/2023 |
+| Soạn nội dung và tổ chức tập huấn cho điều dưỡng | Bác sĩ Lan | 15/10/2023 |
+| Kiểm tra tồn kho thuốc và dịch truyền đặc dụng | Bác sĩ Nam | 13/10/2023 |
+| Tổng hợp báo cáo tình hình bệnh nhân hàng ngày | Điều dưỡng trưởng | 12/10/2023 |

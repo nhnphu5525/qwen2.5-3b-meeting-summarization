@@ -1,0 +1,43 @@
+<|input|>
+[09:00] Chào buổi sáng mọi người. Hôm nay chúng ta họp để phân tích cái báo cáo tình hình thị trường bất động sản quý 1 vừa rồi, đặc biệt là mảng căn hộ chung cư tại khu vực phía Đông thành phố. Anh Tuấn thấy số liệu giao dịch đợt này có gì biến động không?
+[09:02] Theo số liệu từ các sàn giao dịch của mình thì lượng tin đăng bán tăng khoảng 15%, nhưng mà tỷ lệ chốt đơn thành công lại giảm nhẹ so với quý trước. Khách hàng giờ họ kỹ tính lắm, chủ yếu là họ quan tâm đến các dự án đã bàn giao nhà hoặc có pháp lý cực kỳ rõ ràng.
+[09:04] Em cũng thấy vậy anh Tuấn ạ. Hiện tại phân khúc căn hộ cao cấp đang hơi chững lại do giá bị đẩy lên quá cao, trong khi nhu cầu ở thực của các gia đình trẻ tập trung vào phân khúc tầm trung từ 2 đến 3 tỷ thì lại đang thiếu nguồn cung trầm trọng.
+[09:06] Đúng rồi Lan ơi. Cái mấu chốt bây giờ là lãi suất ngân hàng bắt đầu có xu hướng nhích lên, làm cho nhiều người đi vay để đầu tư cảm thấy áp lực. Nam giúp anh phân tích kỹ cái biểu đồ lãi suất cho vay của 5 ngân hàng lớn nhất hiện nay xem nó ảnh hưởng thế nào đến khả năng chi trả của khách hàng mục tiêu của mình nhé.
+[09:08] Vâng sếp, em sẽ làm một bài toán so sánh chi tiết. Nếu lãi suất tăng thêm 1% thì số tiền trả góp hàng tháng sẽ đội lên khoảng bao nhiêu để các bạn sales có con số cụ thể tư vấn cho khách. Em nghĩ mình cũng nên đề xuất với bên phía chủ đầu tư dự án ABC để họ ra cái gói chính sách hỗ trợ lãi suất trong 2 năm đầu thì mới mong đẩy được hàng trong đợt tới.
+[09:10] Ý kiến của Nam rất hay. Việc giãn tiến độ thanh toán và hỗ trợ lãi suất lúc này là "phao cứu sinh" cho thị trường đấy. Lan giúp anh chuẩn bị một bản proposal gửi cho đối tác bên dự án ABC về việc điều chỉnh lại chính sách bán hàng cho đợt mở bán tháng 4 tới nhé.
+[09:12] Dạ em rõ rồi anh Tuấn. Em sẽ kết hợp với team marketing để lên luôn cái khung chương trình khuyến mãi cho khách hàng thanh toán sớm nữa để kích cầu dòng tiền cho chủ đầu tư.
+[09:14] Rất tốt. Vậy mục tiêu của mình là trong tuần này phải có bảng phân tích tài chính và bản đề xuất chính sách mới. Anh Tuấn lo phần đàm phán trực tiếp với chủ đầu tư nhé. Hy vọng mình sẽ xoay chuyển được tình thế trong quý 2.
+[09:16] Vâng chúng em sẽ cố gắng hết sức.
+[09:18] Cảm ơn mọi người, cuộc họp kết thúc.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích diễn biến thị trường bất động sản quý 1 và dự báo xu hướng quý 2.
+- Đánh giá tác động của lãi suất ngân hàng đến hành vi mua nhà của khách hàng.
+- Đề xuất các chính sách bán hàng và hỗ trợ tài chính để kích cầu giao dịch.
+
+### 2. Các vấn đề đã thảo luận
+- Lượng tin đăng bán tăng nhưng tỷ lệ giao dịch thành công giảm do khách hàng ưu tiên pháp lý an toàn.
+- Sự lệch pha cung cầu giữa phân khúc cao cấp (thừa) và phân khúc tầm trung (thiếu).
+- Áp lực từ việc lãi suất cho vay có xu hướng tăng, ảnh hưởng đến khả năng chi trả của người mua.
+- Nhu cầu về các chính sách hỗ trợ lãi suất và giãn tiến độ thanh toán từ phía chủ đầu tư.
+
+### 3. Kết luận và quyết định
+- Xây dựng bảng phân tích tài chính chi tiết về tác động của lãi suất để tư vấn cho khách hàng.
+- Soạn thảo đề xuất (proposal) gửi chủ đầu tư dự án ABC về việc điều chỉnh chính sách bán hàng và hỗ trợ lãi suất 0% trong 2 năm đầu.
+- Thiết kế chương trình khuyến mãi cho khách hàng thanh toán nhanh để tối ưu hóa dòng tiền.
+- Đàm phán trực tiếp với đối tác để sớm ban hành chính sách mới trước đợt mở bán tháng 4.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập bảng phân tích tác động lãi suất ngân hàng | Nam | 20/03/2026 |
+| Soạn đề xuất điều chỉnh chính sách bán hàng dự án ABC | Lan | 22/03/2026 |
+| Đàm phán trực tiếp với chủ đầu tư về chính sách mới | Anh Tuấn | 25/03/2026 |
+| Lên kịch bản marketing cho đợt mở bán tháng 4 | Phòng Marketing | 30/03/2026 |
+| Cập nhật dữ liệu thị trường căn hộ phía Đông | Nam | 18/03/2026 |

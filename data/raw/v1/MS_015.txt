@@ -1,0 +1,49 @@
+<|input|>
+[09:00] Chào mọi người, hôm nay chúng ta họp để lên kế hoạch làm mới nhận diện thương hiệu (Rebranding) cho dòng sản phẩm nước giải khát của mình.
+[09:02] Logo hiện tại đã dùng được 10 năm rồi, cảm giác hơi cũ kỹ và không còn thu hút được đối tượng khách hàng Gen Z.
+[09:04] Em thấy màu sắc của mình hiện tại hơi trầm, nên chuyển sang tông màu neon hoặc pastel để tạo cảm giác tươi mới, năng động hơn.
+[09:06] Thiết kế vỏ chai cũng nên thay đổi, chuyển từ nhựa thông thường sang nhựa tái chế (rPET) để nhấn mạnh yếu tố bảo vệ môi trường.
+[09:08] Nhưng dùng nhựa rPET thì giá thành sẽ tăng khoảng 5-7%, mình có tăng giá bán không?
+[09:10] Chúng ta có thể không tăng giá bán ngay mà bù lại bằng cách tối ưu hóa quy trình đóng gói. Khách hàng bây giờ sẵn sàng chi trả thêm một chút nếu sản phẩm đó "xanh".
+[09:12] Về thông điệp truyền thông, thay vì nói về hương vị như trước, mình nên nói về phong cách sống và sự tự do của tuổi trẻ.
+[09:14] Anh muốn thuê một đơn vị creative agency chuyên nghiệp để họ lên ý tưởng concept tổng thể. Mọi người có đề xuất bên nào không?
+[09:16] Em thấy Agency A đợt vừa rồi làm rất tốt cho nhãn hàng X, họ có gu thiết kế khá hiện đại.
+[09:18] Vậy Lan liên hệ lấy profile và báo giá của Agency A nhé.
+[09:20] Ngoài ra, mình cần triển khai một chiến dịch viral clip trên TikTok để công bố diện mạo mới này.
+[09:22] Chiến dịch này dự kiến sẽ chạy trong vòng 3 tháng, bắt đầu từ tháng 6 để đón đầu mùa hè.
+[09:24] Ngân sách dự kiến cho toàn bộ dự án này là 2 tỷ đồng, bao gồm cả thiết kế và truyền thông.
+[09:26] Tôi cần một bản kế hoạch chi tiết về timeline và các cột mốc quan trọng trước thứ Sáu tới.
+[09:28] Về phía phân xưởng, họ cũng cần thời gian để thay đổi khuôn đúc chai mới, nên phải chốt thiết kế sớm.
+[09:30] Chốt lại: Bắt đầu dự án Rebranding, liên hệ Agency, chuẩn bị phương án bao bì nhựa tái chế.
+
+<|output|>
+# Kế hoạch làm mới nhận diện thương hiệu dòng nước giải khát
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất chủ trương làm mới thương hiệu (Rebranding) để tiếp cận khách hàng trẻ.
+- Thay đổi thiết kế bao bì theo hướng bền vững và thân thiện với môi trường.
+- Xây dựng chiến lược truyền thông đa kênh cho bộ nhận diện mới.
+
+### 2. Các vấn đề đã thảo luận
+- Sự cũ kỹ của bộ nhận diện hiện tại sau 10 năm sử dụng.
+- Đề xuất thay đổi màu sắc logo và sử dụng nhựa tái chế rPET cho vỏ chai.
+- Phân tích chi phí sản xuất tăng thêm khi dùng vật liệu mới và khả năng chấp nhận của thị trường.
+- Lựa chọn Agency sáng tạo và định hướng nội dung truyền thông trên nền tảng TikTok.
+- Ngân sách dự kiến 2 tỷ đồng và áp lực thời gian từ phía sản xuất (khuôn đúc chai).
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án Rebranding với trọng tâm là phong cách sống năng động và bảo vệ môi trường.
+- Đồng ý chuyển đổi sang bao bì nhựa tái chế rPET.
+- Giao bộ phận Marketing liên hệ và lựa chọn đơn vị tư vấn sáng tạo phù hợp.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ và lấy báo giá từ Creative Agency A | Lan (Marketing) | 25/03/2026 |
+| Báo cáo chi tiết giá thành khi dùng nhựa rPET | Phòng Thu mua | 28/03/2026 |
+| Lập timeline chi tiết dự án Rebranding | Phòng Marketing | 22/03/2026 |
+| Khảo sát kỹ thuật về việc thay đổi khuôn đúc chai | Phòng Sản xuất | 05/04/2026 |
+| Dự thảo thông điệp truyền thông mới | Team Nội dung | 30/03/2026 |

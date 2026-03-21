@@ -1,0 +1,63 @@
+<|input|>
+[09:00] Chào mọi người, hôm nay chúng ta họp để chốt kế hoạch mở bán phân khu "The Flora" thuộc dự án Green City. Đây là phân khu đẹp nhất dự án với view sông và mật độ cây xanh cao, nên tôi kỳ vọng sẽ tạo được cú hích cho thị trường cuối năm.
+[09:02] Dạ sếp, hiện tại hạ tầng của phân khu The Flora đã hoàn thiện được 90% rồi. Đường nội khu đã trải nhựa, hệ thống chiếu sáng và công viên cảnh quan đang trong giai đoạn dọn dẹp cuối cùng. Dự kiến đầu tháng sau là có thể cho khách vào tham quan thực tế.
+[09:04] Tốt, hạ tầng xong sớm là một lợi thế lớn để chốt cọc. Còn về rổ hàng thì sao? Lan báo cáo tình hình booking đợt 1 xem?
+[09:06] Báo cáo anh, hiện tại lượng giữ chỗ không thưởng (booking) đã đạt gấp 3 lần số lượng căn hộ mở bán đợt này. Khách hàng quan tâm chủ yếu là các căn 2 phòng ngủ và shophouse khối đế.
+[09:08] Gấp 3 lần à? Vậy thì mình phải xem xét lại mức giá trần. Tôi thấy mức giá dự kiến 60 triệu/m2 có vẻ hơi thấp so với tiềm năng của phân khu này. Mọi người nghĩ sao nếu mình tăng lên 65 triệu?
+[09:10] Em thấy 65 triệu thì hơi mạo hiểm anh ạ. Dù booking nhiều nhưng đa số là khách đầu tư, họ rất nhạy cảm về giá. Hơn nữa, ngân hàng vừa rồi lại tăng lãi suất cho vay mua nhà, khách hàng sẽ đắn đo hơn khi giải ngân.
+[09:12] Đúng đấy sếp. Nếu mình đẩy giá lên quá cao thì tỷ lệ chuyển đổi từ booking sang cọc chính thức sẽ thấp. Thay vì tăng giá trực tiếp, mình nên giữ giá 62-63 triệu nhưng áp dụng chính sách thanh toán giãn cách hoặc hỗ trợ lãi suất 0% trong 24 tháng.
+[09:14] Chính sách hỗ trợ lãi suất thì mình phải làm việc chặt chẽ với phía ngân hàng đối tác. Đợt này ngân hàng nào đứng ra bảo lãnh và cho vay cho phân khu The Flora vậy em?
+[09:16] Dạ là Techcombank và Vietcombank anh ạ. Họ đồng ý cho vay lên tới 70% giá trị căn hộ, thời hạn 35 năm. Tuy nhiên, họ yêu cầu mình phải ký quỹ một khoản khá lớn để đảm bảo việc hỗ trợ lãi suất.
+[14:18] Ký quỹ là chuyện đương nhiên rồi. Quan trọng là khách hàng họ cảm thấy dễ thở trong 2 năm đầu. À, còn vụ đào tạo cho nhân viên sales (training) thì sao? Tôi thấy đợt trước nhiều bạn tư vấn sai thông tin về pháp lý và tiện ích, làm khách hàng khiếu nại rất nhiều.
+[14:20] Lần này em sẽ tổ chức buổi Site-tour và training tập trung cho toàn bộ đại lý F1 và nhân viên nội bộ. Sẽ có bài kiểm tra kiến thức cuối buổi, bạn nào đạt trên 80 điểm mới được cấp thẻ bán hàng chính thức của dự án.
+[14:22] Phải làm gắt như vậy mới được. Uy tín của chủ đầu tư là trên hết. Còn về phần Marketing, tôi thấy clip viral giới thiệu dự án dạo này hơi ít view. Team xem lại kịch bản, làm cái gì đó chạm đến cảm xúc một chút, kiểu như 'Nơi khởi đầu cho tổ ấm viên mãn' chẳng hạn.
+[14:24] Dạ tụi em đang thực hiện một series phỏng vấn các cư dân đã về ở tại phân khu 1. Họ chia sẻ về môi trường sống, về cộng đồng văn minh. Em nghĩ những chia sẻ thực tế này sẽ thuyết phục hơn là clip 3D quảng cáo hào nhoáng.
+[14:26] Ờ... hướng đó cũng ổn. Nhưng nhớ lồng ghép khéo léo hình ảnh tiện ích của phân khu The Flora vào nhé. Chốt lại là: Giữ giá ở mức 62-63 triệu, tập trung vào chính sách quà tặng 'Khủng' cho khách hàng xuống cọc trong ngày mở bán đầu tiên. Tặng 2 cây vàng hay là gói nội thất 200 triệu gì đó.
+[14:28] Tặng vàng thì khách thích hơn anh ạ, nó có cảm giác giá trị tức thì. Em sẽ lên dự toán phần quà tặng này. Dự kiến ngày mở bán chính thức là 15/12 nhé anh.
+[14:30] 15/12 là chủ nhật, đẹp đấy. Mọi người chuẩn bị kịch bản lễ mở bán thật hoành tráng tại khách sạn Intercontinental nhé. Tôi muốn không khí phải thật sôi động để kích thích tâm lý đám đông.
+[14:32] Vâng, em sẽ làm việc với bên sự kiện. Còn một vấn đề nhỏ là cái bãi đỗ xe thông minh của phân khu này, bên thầu báo là thiết bị nhập từ Đức về hơi chậm. Liệu có ảnh hưởng gì không sếp?
+[14:34] Chậm bao lâu? Nếu chỉ chậm 1-2 tháng so với ngày bàn giao nhà thì không sao. Mình ghi chú rõ trong hợp đồng là tiện ích bãi xe sẽ hoàn thiện sau 60 ngày kể từ khi nhận nhà để khách hàng nắm rõ, tránh kiện cáo sau này.
+[14:36] Dạ để em làm việc lại với bên pháp lý để bổ sung điều khoản này vào phụ lục hợp đồng.
+[14:38] OK, chốt vậy đi. Mọi người tập trung tổng lực cho đợt này nhé. Dự án này mà thành công là thưởng Tết năm nay của mọi người sẽ rất rủng rỉnh đấy.
+[14:40] Cố lên mọi người ơi!
+[14:42] Tan họp.
+
+<|output|>
+# Kế hoạch mở bán phân khu "The Flora" - Dự án Green City
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tiến độ hoàn thiện hạ tầng và chuẩn bị rổ hàng cho phân khu The Flora.
+- Thống nhất mức giá bán chính thức và các chính sách hỗ trợ tài chính, quà tặng kích cầu.
+- Triển khai kế hoạch đào tạo nhân sự bán hàng và chiến dịch truyền thông cuối năm.
+
+### 2. Các vấn đề đã thảo luận
+- Hạ tầng đạt 90% tiến độ, sẵn sàng cho khách tham quan vào tháng sau.
+- Lượng booking đang gấp 3 lần số lượng mở bán, phản ánh sức nóng của thị trường.
+- Tranh luận về giá bán: Tăng lên 65 triệu/m2 hay giữ ở mức 62-63 triệu/m2 kèm chính sách hỗ trợ.
+- Ngân hàng Techcombank và Vietcombank hỗ trợ vay 70%, thời hạn 35 năm.
+- Tình trạng nhân viên sales tư vấn sai thông tin trong các đợt mở bán trước.
+- Chiến dịch marketing chuyển hướng sang các câu chuyện thực tế của cư dân thay vì clip 3D.
+- Sự cố chậm trễ thiết bị bãi đỗ xe thông minh từ Đức.
+
+### 3. Kết luận và quyết định
+- Chốt giá bán chính thức ở mức 62-63 triệu/m2 để đảm bảo tỷ lệ chuyển đổi cao.
+- Áp dụng chính sách hỗ trợ lãi suất 0% trong 24 tháng và giãn tiến độ thanh toán.
+- Quà tặng đặc biệt: Tặng 02 cây vàng cho khách hàng chốt cọc trong ngày mở bán đầu tiên.
+- Bắt buộc đào tạo và sát hạch kiến thức đối với toàn bộ nhân viên sales/đại lý; chỉ những người đạt điểm yêu cầu mới được bán hàng.
+- Ngày mở bán chính thức: 15/12/2024 tại khách sạn Intercontinental.
+- Bổ sung phụ lục hợp đồng về tiến độ hoàn thiện bãi đỗ xe thông minh để minh bạch với khách hàng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hạ tầng cảnh quan và dọn dẹp vệ sinh | Ban Quản lý dự án | 01/12/2024 |
+| Tổ chức buổi training và sát hạch sales tập trung | Lan | 05/12/2024 |
+| Làm việc với ngân hàng chốt văn bản hỗ trợ lãi suất | Team Tài chính | 25/11/2024 |
+| Sản xuất series video phỏng vấn cư dân | Team Marketing | 10/12/2024 |
+| Soạn thảo phụ lục hợp đồng về bãi đỗ xe | Phòng Pháp lý | 30/11/2024 |
+| Thuê đơn vị sự kiện và đặt chỗ khách sạn | Lan | 20/11/2024 |
+| Chuẩn bị quà tặng vàng cho lễ mở bán | Phòng Hành chính | 10/12/2024 |
+| Lập danh sách khách hàng booking chính thức | Team Admin Sales | 12/12/2024 |

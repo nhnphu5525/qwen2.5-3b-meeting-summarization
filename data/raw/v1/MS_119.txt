@@ -1,0 +1,44 @@
+<|input|>
+[16:00:15] Chào cả nhà, hôm nay mình họp về dự án tối ưu hóa kho bãi của công ty mình nhé. Tình hình là kho đang quá tải trầm trọng, hàng nhập về không có chỗ để mà hàng xuất đi thì lại chậm.
+[16:01:25] Em thấy nguyên nhân chính là do mình chưa phân loại hàng hóa (ABC analysis) đúng cách. Hàng bán chạy (A) lại để sâu tít trong góc, còn hàng tồn kho lâu ngày (C) thì lại chình ình ngay cửa ra vào.
+[16:02:40] Đúng rồi, cách sắp xếp này làm mất bao nhiêu thời gian di chuyển của xe nâng. Hùng ơi, bên em đã khảo sát lại sơ đồ mặt bằng kho chưa?
+[16:03:55] Dạ anh, em đã vẽ lại bản đồ nhiệt (Heatmap) của kho. Đúng như Nam nói, luồng hàng đang bị chồng chéo rất nhiều. Em đề xuất mình nên lắp thêm hệ thống kệ Selective cao tầng để tận dụng không gian chiều cao.
+[16:05:10] Lắp kệ cao tầng thì tốt nhưng mình phải sắm thêm xe nâng tầm cao nữa đấy. Chi phí đầu tư ban đầu sẽ hơi lớn, Hùng cân đối lại xem sao.
+[16:06:25] Về phần quản lý, em thấy mình nên chuyển từ quản lý bằng sổ sách sang dùng phần mềm WMS (Warehouse Management System). Như thế thì vị trí hàng hóa nào còn trống, hàng nào sắp hết hạn mình nắm được hết trên máy tính.
+[16:07:45] Phần mềm WMS thì anh hoàn toàn ủng hộ. Nam liên hệ với mấy bên cung cấp giải pháp, hỏi xem chi phí triển khai và thời gian đào tạo cho nhân viên kho mất bao lâu nhé.
+[16:09:00] Vâng anh, để em tìm hiểu mấy con WMS của Việt Nam cho nó rẻ và dễ hỗ trợ. Mà Hùng ơi, còn vụ 5S trong kho thì sao? Dạo này anh thấy vỏ hộp, pallet vứt bừa bãi quá.
+[16:10:20] Cái này em sẽ chấn chỉnh ngay trong tuần này ạ. Em sẽ phân chia khu vực pallet hỏng riêng và yêu cầu công nhân vệ sinh kho vào cuối mỗi ca làm việc.
+[16:11:35] OK, chốt lại là Hùng lo quy hoạch lại sơ đồ kho và lắp thêm kệ, Nam lo tìm phần mềm WMS và quy trình 5S. Thứ Sáu tuần sau mình họp check lại báo giá kệ nhé.
+[16:12:50] Dạ, em sẽ cố gắng có báo giá của ít nhất 3 đơn vị thi công kệ để anh chọn.
+[16:14:10] Tốt, giải quyết dứt điểm vụ kho bãi này đi chứ không là ảnh hưởng đến cả tiến độ giao hàng của bên vận tải đấy.
+
+<|output|>
+# Tối ưu hóa vận hành và quản lý kho bãi
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng quá tải và sắp xếp hàng hóa không khoa học tại kho.
+- Nâng cao hiệu suất xuất nhập hàng thông qua ứng dụng công nghệ và cải tiến hạ tầng.
+
+### 2. Các vấn đề đã thảo luận
+- Phân loại hàng hóa chưa hợp lý (hàng bán chạy để xa, hàng tồn để gần cửa).
+- Chưa tận dụng tối đa không gian chiều cao của kho (thiếu hệ thống kệ cao tầng).
+- Quy trình quản lý thủ công gây khó khăn trong việc theo dõi tồn kho và vị trí hàng hóa.
+- Tình trạng vệ sinh 5S chưa đảm bảo, gây mất mỹ quan và an toàn lao động.
+
+### 3. Kết luận và quyết định
+- Triển khai phân loại hàng hóa theo phương pháp ABC để sắp xếp lại vị trí lưu kho.
+- Đầu tư lắp đặt hệ thống kệ Selective và nghiên cứu mua sắm xe nâng tầm cao phù hợp.
+- Quyết định chuyển sang sử dụng phần mềm quản lý kho (WMS) chuyên dụng.
+- Chấn chỉnh ngay công tác vệ sinh 5S tại khu vực kho.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Vẽ lại sơ đồ mặt bằng kho và đề xuất phương án lắp kệ | Hùng | Thứ Năm tới |
+| Tìm kiếm và xin báo giá phần mềm WMS phù hợp | Nam | Thứ Sáu tới |
+| Thực hiện tổng vệ sinh kho và phân khu pallet hỏng | Hùng | Thứ Bảy tới |
+| Lấy báo giá thi công kệ từ 3 đơn vị khác nhau | Hùng | Thứ Sáu tuần sau |
+| Xây dựng quy trình 5S chuẩn cho nhân viên kho | Nam | Thứ Hai tuần sau |

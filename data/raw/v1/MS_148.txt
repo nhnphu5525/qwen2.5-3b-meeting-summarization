@@ -1,0 +1,59 @@
+<|input|>
+[14:00:00] Chào anh Quân, chào Vy nha. Chiều nay mình ngồi lại để review lại danh sách ứng viên sau buổi casting hôm qua cho bộ phim ngắn "Nắng cuối thềm" của mình nha. Anh Quân thấy mấy bạn hôm qua diễn sao anh?
+[14:03:20] Ờ, nhìn chung là mặt bằng chung năm nay các bạn trẻ khá tự tin, ngoại hình cũng sáng. Nhưng mà Vy ơi, anh thấy có vấn đề là nhiều bạn diễn bị "kịch" quá. Phim mình là phim indie, cần sự đời thường, chân thật, mà mấy bạn cứ gồng mình lên diễn kiểu sân khấu, anh thấy không ổn lắm.
+[14:06:40] Dạ vầy nè anh Quân, cái này cũng dễ hiểu vì đa số các bạn là sinh viên trường sân khấu mới ra, chưa có kinh nghiệm đóng phim điện ảnh nhiều. Em thấy có bạn Lan, ứng viên cho vai nữ chính đó, bạn đó có đôi mắt rất biết nói. Lúc diễn phân đoạn chia tay, bạn đó không khóc nức nở mà chỉ rưng rưng thôi, em thấy cái đó mới là cái mình cần.
+[14:10:00] Bạn Lan hả? Để anh coi lại profile... À, bạn này cao 1m65, gương mặt hơi buồn. Đúng là đôi mắt bạn ấy đẹp thật. Nhưng mà Vy nè, bạn này đài từ (giọng nói) hơi bị yếu, nghe nó cứ thều thào sao đó. Nếu mình chọn bạn này thì khâu thu âm trực tiếp sẽ rất mệt cho bên âm thanh đó nha.
+[14:13:20] Cái đó mình có thể cho bạn ấy đi luyện thêm đài từ trong vòng 1 tuần trước khi bấm máy mà anh. Em thấy tố chất diễn xuất của bạn ấy quan trọng hơn. Còn về vai nam chính, anh Quân có chấm được ai chưa? Em thấy bạn Nam - cái cậu có vẻ ngoài hơi phong trần một chút đó - diễn cũng khá ra chất.
+[14:16:40] Ờ, bạn Nam đó anh cũng có để ý. Diễn xuất thì ok, rất tự nhiên. Nhưng mà khi đứng cạnh bạn Lan thì anh thấy hai đứa nó không có "chemistry" (sự kết nối). Nhìn giống hai anh em hơn là một cặp đôi đang yêu nhau. Vy có thấy vậy không?
+[14:20:00] Dạ, đúng là nhìn hơi lệch pha một chút. Hay là mình thử ghép bạn Lan với bạn Đức xem sao anh? Bạn Đức hôm qua casting vai thứ, nhưng em thấy ngoại hình của bạn ấy cũng rất ổn, lại có vẻ thư sinh, hợp với hình tượng chàng sinh viên nghèo trong kịch bản mình hơn.
+[14:23:20] Ý kiến hay đó Vy! Để chiều nay mình gọi Lan với Đức lên cho diễn thử một đoạn chung xem sao. Nếu hợp thì mình đôn Đức lên vai chính luôn. À, còn vai bà mẹ thì sao? Anh thấy cô Hồng là lựa chọn số 1 rồi, không biết cô có chịu nhận lời không Vy?
+[14:26:40] Dạ, em đã liên hệ với cô Hồng rồi. Cô bảo cô rất thích kịch bản của mình, đặc biệt là cái thông điệp về tình mẫu tử. Cô đồng ý nhận vai rồi, nhưng cô có yêu cầu là mình phải sắp xếp lịch quay sao cho cô không phải quay đêm quá nhiều vì sức khỏe cô dạo này không tốt lắm.
+[14:30:00] Cái đó thì mình chiều cô thôi, cô là gạo cội mà. Vy sắp xếp lại cái lịch quay (shooting schedule) sao cho mấy phân đoạn của cô Hồng rơi vào ban ngày hết nha. Còn mấy vai phụ như nhóm bạn sinh viên, em cứ chọn mấy bạn năng động hôm qua là được, không cần quá khắt khe đâu.
+[14:33:20] Dạ vâng ạ. Anh Quân ơi, còn vụ phục trang thì sao anh? Phim mình bối cảnh những năm 2000, nên đồ đạc phải chuẩn vintage. Em có nên thuê một bạn stylist chuyên về mảng này không anh?
+[14:36:40] Ờ, cái đó là bắt buộc rồi. Đừng có để diễn viên mặc đồ thời nay vào là hỏng hết cái không khí phim. Em liên hệ với bên mấy shop đồ cũ hoặc mấy kho phục trang của đài truyền hình xem. Cần thiết thì mình đặt may vài bộ cho đúng ý đồ nghệ thuật của mình.
+[14:40:00] Dạ, em có biết một bạn stylist chuyên làm phim retro, để em hỏi bạn đó xem. Còn về bối cảnh, cái căn nhà cổ ở quận 5 mình đã xin phép được chưa anh? Chủ nhà họ có đồng ý cho mình vào quay 3 ngày không?
+[14:43:20] Họ đồng ý rồi, nhưng họ ra điều kiện là mình không được đóng đinh hay làm hỏng sơn tường của họ. Vy nhắc bên tổ thiết kế (art team) là khi set up bối cảnh phải cực kỳ cẩn thận, dùng keo chuyên dụng hoặc giá đỡ chứ đừng có làm bừa là đền tiền chết bỏ đó.
+[14:46:40] Dạ em rõ rồi. Vậy chiều nay 3 giờ mình gặp Lan với Đức nha anh. Em sẽ chuẩn bị sẵn một đoạn thoại mới để hai bạn ấy tương tác với nhau. Hy vọng là mình sẽ chốt được cặp đôi chính trong hôm nay để kịp lịch tập (rehearsal) tuần sau.
+[14:50:00] Ok, chốt vậy đi. Anh cũng mong là tìm được "linh hồn" cho bộ phim sớm. Cố lên Vy nha, dự án này anh đặt nhiều tâm huyết lắm đó.
+[14:53:20] Dạ, em cũng vậy anh. Thôi em đi chuẩn bị đây. Chào anh Quân nha.
+[14:56:40] Ừ, chào em. Hẹn gặp lại lúc 3 giờ nha.
+[15:00:00] Dạ vâng ạ!
+
+<|output|>
+# Review Kết quả Casting Diễn viên Phim ngắn "Nắng cuối thềm"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá năng lực diễn xuất và mức độ phù hợp của các ứng viên sau buổi casting đầu tiên.
+- Lựa chọn diễn viên cho các vai chính (Nam chính, Nữ chính) và vai thứ chính.
+- Thảo luận về các vấn đề sản xuất liên quan: Phục trang, bối cảnh và lịch quay của diễn viên gạo cội.
+- Thống nhất kế hoạch cho buổi diễn thử (screen test) cặp đôi.
+
+### 2. Các vấn đề đã thảo luận
+- **Vai Nữ chính (Lan):** Diễn xuất tốt, đôi mắt giàu cảm xúc, phù hợp với dòng phim indie. Tuy nhiên, đài từ còn yếu, cần được đào tạo thêm trước khi bấm máy.
+- **Vai Nam chính:** 
+    + Ứng viên Nam: Diễn tự nhiên nhưng không có "chemistry" với Lan.
+    + Ứng viên Đức (đôn lên từ vai thứ): Ngoại hình thư sinh, phù hợp kịch bản, cần kiểm tra tương tác thực tế với Lan.
+- **Vai Bà mẹ (Cô Hồng):** Đã nhận lời tham gia vì yêu thích kịch bản. Yêu cầu đặc biệt: Hạn chế quay đêm để đảm bảo sức khỏe.
+- **Phục trang & Thiết kế:** 
+    + Yêu cầu phục trang phong cách vintage những năm 2000. Cần thuê stylist chuyên nghiệp.
+    + Bối cảnh nhà cổ quận 5: Chủ nhà đồng ý cho quay 3 ngày nhưng yêu cầu khắt khe về việc bảo quản tài sản, không gây hư hại tường và nội thất.
+- **Sản xuất:** Art team cần lưu ý các biện pháp thi công bối cảnh không xâm lấn; Vy chịu trách nhiệm điều chỉnh Shooting Schedule phù hợp với lịch của cô Hồng.
+
+### 3. Kết luận và quyết định
+- Tổ chức buổi Screen test giữa Lan và Đức vào lúc 15:00 cùng ngày để chốt cặp đôi chính.
+- Phê duyệt mời cô Hồng vào vai bà mẹ và điều chỉnh lịch quay ưu tiên ban ngày cho cô.
+- Thuê stylist chuyên về phong cách retro để phụ trách mảng phục trang.
+- Giao Vy liên hệ các shop đồ cũ và kho phục trang để tìm kiếm đạo cụ phù hợp bối cảnh năm 2000.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Chuẩn bị kịch bản và tổ chức Screen test Lan - Đức | Vy (Trợ lý Đạo diễn) | 15:00 05/10/2024 |
+| Điều chỉnh Shooting Schedule theo yêu cầu cô Hồng | Vy | 07/10/2024 |
+| Tìm kiếm và ký hợp đồng với Stylist | Vy | 10/10/2024 |
+| Khảo sát kỹ hiện trạng nhà cổ quận 5 và ký cam kết | Art Team | 08/10/2024 |
+| Liên hệ trung tâm đào tạo đài từ cho diễn viên Lan | Vy | 12/10/2024 |
+| Lên danh sách các vật dụng cần thuê từ kho phục trang | Art Team & Stylist | 15/10/2024 |

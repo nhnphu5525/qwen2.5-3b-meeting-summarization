@@ -1,0 +1,416 @@
+<|input|>
+[08:30] Thì Ờm, cái thẩm định giá này thực ra là một vấn đề khá nan giải.
+[08:31] Thì đấy Chào cả nhà, chúng ta bắt đầu bàn về quy hoạch đô thị nhé.
+[08:32] Có ai phụ trách chính cho mảng sổ đỏ chưa nhỉ?
+[08:36] Mọi người có thấy vụ thẩm định giá dạo này bị chậm không?
+[08:38] Mọi người cứ cho ý kiến thoải mái về giấy phép xây dựng đi ạ.
+[08:40] À Cái thẩm định giá này hình như đang bị vướng chỗ nào đó đúng không?
+[08:42] Đừng quên là thẩm định giá cũng ảnh hưởng nhiều đến kết quả chung đó.
+[08:44] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[08:38] Ý tôi là Tôi nghĩ là mình nên xem xét lại cái thẩm định giá này một chút.
+[08:39] Đừng quên là giấy phép xây dựng cũng ảnh hưởng nhiều đến kết quả chung đó.
+[08:40] Liệu mình có thể đẩy nhanh tiến độ cho giấy phép xây dựng được không?
+[08:41] Thực ra Đừng quên là tranh chấp đất đai cũng ảnh hưởng nhiều đến kết quả chung đó.
+[08:54] Tóm lại là Mọi người cứ cho ý kiến thoải mái về thẩm định giá đi ạ.
+[08:56] Tóm lại là Mọi người có thấy vụ giấy phép xây dựng dạo này bị chậm không?
+[08:58] Cái giấy phép xây dựng này hình như đang bị vướng chỗ nào đó đúng không?
+[08:45] Có ai phụ trách chính cho mảng sổ đỏ chưa nhỉ?
+[09:02] Chắc là Liệu mình có thể đẩy nhanh tiến độ cho chuyển nhượng dự án được không?
+[08:47] Nói chung là Ờm, cái chuyển nhượng dự án này thực ra là một vấn đề khá nan giải.
+[09:06] Để tôi check lại với bên quy hoạch đô thị xem tình hình thế nào nhé.
+[09:08] Tôi đề xuất mình sẽ tập trung nguồn lực vào chuyển nhượng dự án trong tuần này.
+[09:10] Mọi người cứ cho ý kiến thoải mái về giấy phép xây dựng đi ạ.
+[08:51] Mọi người có thấy vụ quy hoạch đô thị dạo này bị chậm không?
+[09:14] Chắc là Chào cả nhà, chúng ta bắt đầu bàn về giấy phép xây dựng nhé.
+[08:53] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[09:18] Ý tôi là Mọi người cứ cho ý kiến thoải mái về giấy phép xây dựng đi ạ.
+[09:20] Thế còn ngân sách cho giấy phép xây dựng thì sao hả mọi người?
+[08:56] Tôi đề xuất mình sẽ tập trung nguồn lực vào quy hoạch đô thị trong tuần này.
+[09:24] Về phần tranh chấp đất đai thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[08:58] Chắc là Tôi nghĩ là mình nên xem xét lại cái quy hoạch đô thị này một chút.
+[09:28] Ờm, cái sổ đỏ này thực ra là một vấn đề khá nan giải.
+[09:30] Thì đấy Có ai phụ trách chính cho mảng sổ đỏ chưa nhỉ?
+[09:01] Thực ra thì tranh chấp đất đai không phải là mục tiêu duy nhất của mình.
+[09:34] Tôi đồng ý với ý kiến về tranh chấp đất đai, nên làm quyết liệt hơn.
+[09:03] Cái này nè Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[09:04] Nói chung là mình phải chốt phương án cho giấy phép xây dựng ngay trong hôm nay.
+[09:05] Tóm lại là Thế còn ngân sách cho tranh chấp đất đai thì sao hả mọi người?
+[09:06] Ờm Chào cả nhà, chúng ta bắt đầu bàn về thẩm định giá nhé.
+[09:07] Đừng quên là chuyển nhượng dự án cũng ảnh hưởng nhiều đến kết quả chung đó.
+[09:46] Thì đấy Mọi người có thấy vụ giấy phép xây dựng dạo này bị chậm không?
+[09:09] Chắc là Thế còn ngân sách cho thẩm định giá thì sao hả mọi người?
+[09:50] Nói chung là mình phải chốt phương án cho tranh chấp đất đai ngay trong hôm nay.
+[09:52] À Về phần thẩm định giá thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[09:54] Để tôi check lại với bên sổ đỏ xem tình hình thế nào nhé.
+[09:13] Cái này nè Có ai phụ trách chính cho mảng chuyển nhượng dự án chưa nhỉ?
+[09:14] Chào cả nhà, chúng ta bắt đầu bàn về chuyển nhượng dự án nhé.
+[09:15] Chào cả nhà, chúng ta bắt đầu bàn về quy hoạch đô thị nhé.
+[10:02] Chào cả nhà, chúng ta bắt đầu bàn về chuyển nhượng dự án nhé.
+[09:17] Chắc là Thôi được rồi, vậy thống nhất là làm thẩm định giá theo cách đó.
+[09:18] Thế còn ngân sách cho quy hoạch đô thị thì sao hả mọi người?
+[10:08] Thực ra Chào cả nhà, chúng ta bắt đầu bàn về quy hoạch đô thị nhé.
+[09:20] Ý tôi là Thôi được rồi, vậy thống nhất là làm thẩm định giá theo cách đó.
+[09:21] Tôi đề xuất mình sẽ tập trung nguồn lực vào tranh chấp đất đai trong tuần này.
+[09:22] Cần phải làm rõ thêm các chi tiết liên quan đến giấy phép xây dựng.
+[10:16] Ý tôi là Cần phải làm rõ thêm các chi tiết liên quan đến tranh chấp đất đai.
+[10:18] Cái thẩm định giá này hình như đang bị vướng chỗ nào đó đúng không?
+[10:20] Thì Tôi đồng ý với ý kiến về chuyển nhượng dự án, nên làm quyết liệt hơn.
+[10:22] Hình như Tôi nghĩ là mình nên xem xét lại cái sổ đỏ này một chút.
+[09:27] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[10:26] Tôi đồng ý với ý kiến về thẩm định giá, nên làm quyết liệt hơn.
+[10:28] Thôi được rồi, vậy thống nhất là làm quy hoạch đô thị theo cách đó.
+[10:30] Liệu mình có thể đẩy nhanh tiến độ cho sổ đỏ được không?
+[10:32] Mọi người có thấy vụ quy hoạch đô thị dạo này bị chậm không?
+[10:34] Ờm Thôi được rồi, vậy thống nhất là làm giấy phép xây dựng theo cách đó.
+[10:36] Thì Tôi đồng ý với ý kiến về giấy phép xây dựng, nên làm quyết liệt hơn.
+[10:38] Liệu mình có thể đẩy nhanh tiến độ cho giấy phép xây dựng được không?
+[10:40] Ờm, cái giấy phép xây dựng này thực ra là một vấn đề khá nan giải.
+[09:36] Vâng, tôi cũng thấy việc tối ưu thẩm định giá là rất cần thiết.
+[09:37] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[10:46] Chắc là Thế còn ngân sách cho sổ đỏ thì sao hả mọi người?
+[09:39] Nói chung là mình phải chốt phương án cho giấy phép xây dựng ngay trong hôm nay.
+[09:40] Thực ra Tôi đề xuất mình sẽ tập trung nguồn lực vào chuyển nhượng dự án trong tuần này.
+[10:52] À Tôi đồng ý với ý kiến về sổ đỏ, nên làm quyết liệt hơn.
+[09:42] Cần phải làm rõ thêm các chi tiết liên quan đến thẩm định giá.
+[10:56] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[10:58] Tóm lại là Cái quy hoạch đô thị này hình như đang bị vướng chỗ nào đó đúng không?
+[11:00] Tôi đề xuất mình sẽ tập trung nguồn lực vào giấy phép xây dựng trong tuần này.
+[09:46] Ý tôi là Để tôi check lại với bên sổ đỏ xem tình hình thế nào nhé.
+[11:04] Thì Mọi người cứ cho ý kiến thoải mái về quy hoạch đô thị đi ạ.
+[09:48] Chào cả nhà, chúng ta bắt đầu bàn về sổ đỏ nhé.
+[11:08] Nói chung là Thôi được rồi, vậy thống nhất là làm giấy phép xây dựng theo cách đó.
+[11:10] Ờm Thôi được rồi, vậy thống nhất là làm tranh chấp đất đai theo cách đó.
+[09:51] Nói chung là Để tôi check lại với bên giấy phép xây dựng xem tình hình thế nào nhé.
+[11:14] Tóm lại là Thôi được rồi, vậy thống nhất là làm tranh chấp đất đai theo cách đó.
+[11:16] Tôi đề xuất mình sẽ tập trung nguồn lực vào quy hoạch đô thị trong tuần này.
+[11:18] Thì đấy Mọi người có thấy vụ sổ đỏ dạo này bị chậm không?
+[09:55] Tôi đề xuất mình sẽ tập trung nguồn lực vào thẩm định giá trong tuần này.
+[11:22] Để tôi check lại với bên thẩm định giá xem tình hình thế nào nhé.
+[09:57] Mọi người cứ cho ý kiến thoải mái về sổ đỏ đi ạ.
+[11:26] Thực ra thì quy hoạch đô thị không phải là mục tiêu duy nhất của mình.
+[09:59] Dạ Cần phải làm rõ thêm các chi tiết liên quan đến tranh chấp đất đai.
+[11:30] Thì đấy Nói chung là mình phải chốt phương án cho sổ đỏ ngay trong hôm nay.
+[11:32] Thế còn ngân sách cho giấy phép xây dựng thì sao hả mọi người?
+[11:34] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[11:36] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[10:04] Tôi đồng ý với ý kiến về sổ đỏ, nên làm quyết liệt hơn.
+[11:40] À Chào cả nhà, chúng ta bắt đầu bàn về tranh chấp đất đai nhé.
+[10:06] Tóm lại là Đừng quên là tranh chấp đất đai cũng ảnh hưởng nhiều đến kết quả chung đó.
+[11:44] Chắc là Đừng quên là quy hoạch đô thị cũng ảnh hưởng nhiều đến kết quả chung đó.
+[10:08] Ờm Mọi người có thấy vụ sổ đỏ dạo này bị chậm không?
+[10:09] Nói chung là Đừng quên là quy hoạch đô thị cũng ảnh hưởng nhiều đến kết quả chung đó.
+[11:50] Về phần quy hoạch đô thị thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[11:52] Tôi nghĩ là mình nên xem xét lại cái sổ đỏ này một chút.
+[10:12] Ờm, cái tranh chấp đất đai này thực ra là một vấn đề khá nan giải.
+[10:13] Dạ Chào cả nhà, chúng ta bắt đầu bàn về chuyển nhượng dự án nhé.
+[10:14] Nói chung là mình phải chốt phương án cho quy hoạch đô thị ngay trong hôm nay.
+[10:15] Ý tôi là Liệu mình có thể đẩy nhanh tiến độ cho chuyển nhượng dự án được không?
+[10:16] Tóm lại là Ờm, cái thẩm định giá này thực ra là một vấn đề khá nan giải.
+[10:17] Tôi đồng ý với ý kiến về sổ đỏ, nên làm quyết liệt hơn.
+[10:18] Ờm Mọi người có thấy vụ giấy phép xây dựng dạo này bị chậm không?
+[12:08] Tóm lại là Có ai phụ trách chính cho mảng chuyển nhượng dự án chưa nhỉ?
+[12:10] À Thôi được rồi, vậy thống nhất là làm tranh chấp đất đai theo cách đó.
+[10:21] Tôi đề xuất mình sẽ tập trung nguồn lực vào sổ đỏ trong tuần này.
+[12:14] Ờm, cái quy hoạch đô thị này thực ra là một vấn đề khá nan giải.
+[10:23] Hình như Liệu mình có thể đẩy nhanh tiến độ cho giấy phép xây dựng được không?
+[10:24] Tôi đề xuất mình sẽ tập trung nguồn lực vào giấy phép xây dựng trong tuần này.
+[10:25] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[12:22] Thì Vâng, tôi cũng thấy việc tối ưu tranh chấp đất đai là rất cần thiết.
+[10:27] Nói chung là Thực ra thì sổ đỏ không phải là mục tiêu duy nhất của mình.
+[10:28] Vâng, tôi cũng thấy việc tối ưu tranh chấp đất đai là rất cần thiết.
+[12:28] Thôi được rồi, vậy thống nhất là làm thẩm định giá theo cách đó.
+[10:30] Nói chung là mình phải chốt phương án cho chuyển nhượng dự án ngay trong hôm nay.
+[12:32] Nói chung là mình phải chốt phương án cho quy hoạch đô thị ngay trong hôm nay.
+[10:32] Để tôi check lại với bên quy hoạch đô thị xem tình hình thế nào nhé.
+[12:36] Để tôi check lại với bên giấy phép xây dựng xem tình hình thế nào nhé.
+[12:38] Cái giấy phép xây dựng này hình như đang bị vướng chỗ nào đó đúng không?
+[10:35] Thực ra Thực ra thì sổ đỏ không phải là mục tiêu duy nhất của mình.
+[12:42] Ờm Để tôi check lại với bên quy hoạch đô thị xem tình hình thế nào nhé.
+[10:37] Đừng quên là sổ đỏ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[12:46] Chắc là Ờm, cái chuyển nhượng dự án này thực ra là một vấn đề khá nan giải.
+[12:48] Nói chung là mình phải chốt phương án cho chuyển nhượng dự án ngay trong hôm nay.
+[10:40] Mọi người có thấy vụ tranh chấp đất đai dạo này bị chậm không?
+[12:52] Có ai phụ trách chính cho mảng giấy phép xây dựng chưa nhỉ?
+[12:54] Hình như Có ai phụ trách chính cho mảng sổ đỏ chưa nhỉ?
+[12:56] Thì đấy Tôi đề xuất mình sẽ tập trung nguồn lực vào tranh chấp đất đai trong tuần này.
+[10:44] Để tôi check lại với bên sổ đỏ xem tình hình thế nào nhé.
+[13:00] Nói chung là Thế còn ngân sách cho quy hoạch đô thị thì sao hả mọi người?
+[10:46] Cần phải làm rõ thêm các chi tiết liên quan đến tranh chấp đất đai.
+[10:47] Hình như Về phần giấy phép xây dựng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[13:06] Vâng, tôi cũng thấy việc tối ưu giấy phép xây dựng là rất cần thiết.
+[13:08] Liệu mình có thể đẩy nhanh tiến độ cho quy hoạch đô thị được không?
+[13:10] Liệu mình có thể đẩy nhanh tiến độ cho giấy phép xây dựng được không?
+[13:12] Mọi người có thấy vụ sổ đỏ dạo này bị chậm không?
+[13:14] Cần phải làm rõ thêm các chi tiết liên quan đến sổ đỏ.
+[10:53] Chắc là Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[13:18] Ờm Để tôi check lại với bên thẩm định giá xem tình hình thế nào nhé.
+[10:55] Về phần thẩm định giá thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[13:22] Đừng quên là chuyển nhượng dự án cũng ảnh hưởng nhiều đến kết quả chung đó.
+[13:24] Nói chung là Ờm, cái giấy phép xây dựng này thực ra là một vấn đề khá nan giải.
+[13:26] Thì Nói chung là mình phải chốt phương án cho giấy phép xây dựng ngay trong hôm nay.
+[13:28] Về phần giấy phép xây dựng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[13:30] Thực ra Về phần thẩm định giá thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[13:32] Hình như Thực ra thì thẩm định giá không phải là mục tiêu duy nhất của mình.
+[11:02] Mọi người cứ cho ý kiến thoải mái về giấy phép xây dựng đi ạ.
+[13:36] Chào cả nhà, chúng ta bắt đầu bàn về quy hoạch đô thị nhé.
+[11:04] Vâng Về phần tranh chấp đất đai thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[13:40] Tôi nghĩ là mình nên xem xét lại cái thẩm định giá này một chút.
+[11:06] Có ai phụ trách chính cho mảng tranh chấp đất đai chưa nhỉ?
+[11:07] Dạ Cần phải làm rõ thêm các chi tiết liên quan đến quy hoạch đô thị.
+[11:08] Thực ra thì sổ đỏ không phải là mục tiêu duy nhất của mình.
+[13:48] Để tôi check lại với bên chuyển nhượng dự án xem tình hình thế nào nhé.
+[13:50] Đừng quên là thẩm định giá cũng ảnh hưởng nhiều đến kết quả chung đó.
+[11:11] Về phần tranh chấp đất đai thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[11:12] Về phần thẩm định giá thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[13:56] Ờm, cái tranh chấp đất đai này thực ra là một vấn đề khá nan giải.
+[13:58] Thực ra thì giấy phép xây dựng không phải là mục tiêu duy nhất của mình.
+[11:15] Vâng Vâng, tôi cũng thấy việc tối ưu chuyển nhượng dự án là rất cần thiết.
+[14:02] Thế còn ngân sách cho giấy phép xây dựng thì sao hả mọi người?
+[14:04] Đừng quên là quy hoạch đô thị cũng ảnh hưởng nhiều đến kết quả chung đó.
+[14:06] Thì Chào cả nhà, chúng ta bắt đầu bàn về tranh chấp đất đai nhé.
+[11:19] Cái tranh chấp đất đai này hình như đang bị vướng chỗ nào đó đúng không?
+[11:20] Tôi đề xuất mình sẽ tập trung nguồn lực vào tranh chấp đất đai trong tuần này.
+[14:12] Ờm Thực ra thì giấy phép xây dựng không phải là mục tiêu duy nhất của mình.
+[11:22] Tôi đồng ý với ý kiến về giấy phép xây dựng, nên làm quyết liệt hơn.
+[14:16] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[14:18] Nói chung là mình phải chốt phương án cho tranh chấp đất đai ngay trong hôm nay.
+[14:20] Chào cả nhà, chúng ta bắt đầu bàn về quy hoạch đô thị nhé.
+[11:26] Thì đấy Mọi người có thấy vụ tranh chấp đất đai dạo này bị chậm không?
+[11:27] À Liệu mình có thể đẩy nhanh tiến độ cho thẩm định giá được không?
+[11:28] Vâng, tôi cũng thấy việc tối ưu quy hoạch đô thị là rất cần thiết.
+[11:29] Thế còn ngân sách cho giấy phép xây dựng thì sao hả mọi người?
+[11:30] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[11:31] Tôi đề xuất mình sẽ tập trung nguồn lực vào tranh chấp đất đai trong tuần này.
+[14:34] Dạ Tôi đồng ý với ý kiến về thẩm định giá, nên làm quyết liệt hơn.
+[14:36] Ý tôi là Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[14:38] Thực ra Nói chung là mình phải chốt phương án cho chuyển nhượng dự án ngay trong hôm nay.
+[14:40] Tôi nghĩ là mình nên xem xét lại cái thẩm định giá này một chút.
+[11:36] Liệu mình có thể đẩy nhanh tiến độ cho chuyển nhượng dự án được không?
+[11:37] Tôi đồng ý với ý kiến về giấy phép xây dựng, nên làm quyết liệt hơn.
+[11:38] Mọi người có thấy vụ thẩm định giá dạo này bị chậm không?
+[14:48] Về phần quy hoạch đô thị thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[11:40] Mọi người có thấy vụ giấy phép xây dựng dạo này bị chậm không?
+[14:52] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[14:54] Tôi nghĩ là mình nên xem xét lại cái sổ đỏ này một chút.
+[14:56] Cái này nè Đừng quên là chuyển nhượng dự án cũng ảnh hưởng nhiều đến kết quả chung đó.
+[11:44] Cái này nè Cần phải làm rõ thêm các chi tiết liên quan đến tranh chấp đất đai.
+[15:00] Hình như Để tôi check lại với bên chuyển nhượng dự án xem tình hình thế nào nhé.
+[15:02] Tôi đồng ý với ý kiến về giấy phép xây dựng, nên làm quyết liệt hơn.
+[11:47] Chắc là Tôi nghĩ là mình nên xem xét lại cái tranh chấp đất đai này một chút.
+[11:48] Nói chung là mình phải chốt phương án cho tranh chấp đất đai ngay trong hôm nay.
+[15:08] Thì Ờm, cái tranh chấp đất đai này thực ra là một vấn đề khá nan giải.
+[11:50] Thực ra thì giấy phép xây dựng không phải là mục tiêu duy nhất của mình.
+[11:51] Cái chuyển nhượng dự án này hình như đang bị vướng chỗ nào đó đúng không?
+[15:14] Nói chung là Nói chung là mình phải chốt phương án cho thẩm định giá ngay trong hôm nay.
+[15:16] Thế còn ngân sách cho tranh chấp đất đai thì sao hả mọi người?
+[15:18] Thế còn ngân sách cho chuyển nhượng dự án thì sao hả mọi người?
+[15:20] Thực ra Tôi đề xuất mình sẽ tập trung nguồn lực vào thẩm định giá trong tuần này.
+[15:22] Dạ Thế còn ngân sách cho sổ đỏ thì sao hả mọi người?
+[15:24] Tôi đồng ý với ý kiến về tranh chấp đất đai, nên làm quyết liệt hơn.
+[11:58] Liệu mình có thể đẩy nhanh tiến độ cho quy hoạch đô thị được không?
+[11:59] Tóm lại là Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[12:00] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[15:32] Thực ra thì chuyển nhượng dự án không phải là mục tiêu duy nhất của mình.
+[12:02] Nói chung là mình phải chốt phương án cho quy hoạch đô thị ngay trong hôm nay.
+[15:36] Thôi được rồi, vậy thống nhất là làm sổ đỏ theo cách đó.
+[15:38] Thế còn ngân sách cho thẩm định giá thì sao hả mọi người?
+[15:40] Chắc là Chào cả nhà, chúng ta bắt đầu bàn về sổ đỏ nhé.
+[12:06] Ờm, cái giấy phép xây dựng này thực ra là một vấn đề khá nan giải.
+[12:07] Hình như Tôi đề xuất mình sẽ tập trung nguồn lực vào giấy phép xây dựng trong tuần này.
+[12:08] Tôi đề xuất mình sẽ tập trung nguồn lực vào thẩm định giá trong tuần này.
+[12:09] Mọi người có thấy vụ sổ đỏ dạo này bị chậm không?
+[12:10] Thôi được rồi, vậy thống nhất là làm chuyển nhượng dự án theo cách đó.
+[12:11] Ờm, cái tranh chấp đất đai này thực ra là một vấn đề khá nan giải.
+[12:12] Tôi đề xuất mình sẽ tập trung nguồn lực vào tranh chấp đất đai trong tuần này.
+[12:13] Để tôi check lại với bên giấy phép xây dựng xem tình hình thế nào nhé.
+[12:14] Dạ Để tôi check lại với bên thẩm định giá xem tình hình thế nào nhé.
+[16:00] Chào cả nhà, chúng ta bắt đầu bàn về chuyển nhượng dự án nhé.
+[12:16] Ờm Có ai phụ trách chính cho mảng tranh chấp đất đai chưa nhỉ?
+[12:17] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[16:06] Ờm Vâng, tôi cũng thấy việc tối ưu sổ đỏ là rất cần thiết.
+[16:08] Thế còn ngân sách cho tranh chấp đất đai thì sao hả mọi người?
+[12:20] Cái quy hoạch đô thị này hình như đang bị vướng chỗ nào đó đúng không?
+[16:12] Nói chung là mình phải chốt phương án cho quy hoạch đô thị ngay trong hôm nay.
+[12:22] Tôi nghĩ là mình nên xem xét lại cái thẩm định giá này một chút.
+[16:16] Tóm lại là Chào cả nhà, chúng ta bắt đầu bàn về giấy phép xây dựng nhé.
+[12:24] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[12:25] Tôi nghĩ là mình nên xem xét lại cái giấy phép xây dựng này một chút.
+[16:22] Thế còn ngân sách cho tranh chấp đất đai thì sao hả mọi người?
+[16:24] Cái thẩm định giá này hình như đang bị vướng chỗ nào đó đúng không?
+[16:26] Tôi đồng ý với ý kiến về giấy phép xây dựng, nên làm quyết liệt hơn.
+[12:29] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[16:30] Có ai phụ trách chính cho mảng quy hoạch đô thị chưa nhỉ?
+[16:32] Mọi người cứ cho ý kiến thoải mái về tranh chấp đất đai đi ạ.
+[12:32] Cần phải làm rõ thêm các chi tiết liên quan đến chuyển nhượng dự án.
+[12:33] Cái chuyển nhượng dự án này hình như đang bị vướng chỗ nào đó đúng không?
+[16:38] Tôi nghĩ là mình nên xem xét lại cái thẩm định giá này một chút.
+[12:35] Thôi được rồi, vậy thống nhất là làm chuyển nhượng dự án theo cách đó.
+[16:42] Để tôi check lại với bên thẩm định giá xem tình hình thế nào nhé.
+[12:37] Thực ra thì thẩm định giá không phải là mục tiêu duy nhất của mình.
+[16:46] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[16:48] Mọi người cứ cho ý kiến thoải mái về thẩm định giá đi ạ.
+[12:40] Ờm, cái tranh chấp đất đai này thực ra là một vấn đề khá nan giải.
+[16:52] Mọi người cứ cho ý kiến thoải mái về giấy phép xây dựng đi ạ.
+[12:42] Liệu mình có thể đẩy nhanh tiến độ cho giấy phép xây dựng được không?
+[16:56] Tóm lại là Tôi đồng ý với ý kiến về quy hoạch đô thị, nên làm quyết liệt hơn.
+[12:44] Ý tôi là Nói chung là mình phải chốt phương án cho thẩm định giá ngay trong hôm nay.
+[12:45] Về phần sổ đỏ thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[17:02] Tôi đề xuất mình sẽ tập trung nguồn lực vào chuyển nhượng dự án trong tuần này.
+[12:47] Mọi người có thấy vụ quy hoạch đô thị dạo này bị chậm không?
+[17:06] Tôi đề xuất mình sẽ tập trung nguồn lực vào thẩm định giá trong tuần này.
+[17:08] Vâng Đừng quên là quy hoạch đô thị cũng ảnh hưởng nhiều đến kết quả chung đó.
+[17:10] Cần phải làm rõ thêm các chi tiết liên quan đến sổ đỏ.
+[12:51] Dạ Mọi người có thấy vụ tranh chấp đất đai dạo này bị chậm không?
+[12:52] Thế còn ngân sách cho giấy phép xây dựng thì sao hả mọi người?
+[17:16] Tôi đồng ý với ý kiến về giấy phép xây dựng, nên làm quyết liệt hơn.
+[12:54] Liệu mình có thể đẩy nhanh tiến độ cho sổ đỏ được không?
+[17:20] Để tôi check lại với bên quy hoạch đô thị xem tình hình thế nào nhé.
+[12:56] Vâng, tôi cũng thấy việc tối ưu chuyển nhượng dự án là rất cần thiết.
+[12:57] Ờm Nói chung là mình phải chốt phương án cho chuyển nhượng dự án ngay trong hôm nay.
+[12:58] Thực ra thì giấy phép xây dựng không phải là mục tiêu duy nhất của mình.
+[17:28] Mọi người có thấy vụ chuyển nhượng dự án dạo này bị chậm không?
+[13:00] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[17:32] Vâng, tôi cũng thấy việc tối ưu tranh chấp đất đai là rất cần thiết.
+[13:02] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[17:36] Hình như Thế còn ngân sách cho thẩm định giá thì sao hả mọi người?
+[17:38] À Mọi người có thấy vụ giấy phép xây dựng dạo này bị chậm không?
+[13:05] Chào cả nhà, chúng ta bắt đầu bàn về sổ đỏ nhé.
+[17:42] Vâng Liệu mình có thể đẩy nhanh tiến độ cho chuyển nhượng dự án được không?
+[17:44] Nói chung là Để tôi check lại với bên quy hoạch đô thị xem tình hình thế nào nhé.
+[17:46] Thì đấy Tôi nghĩ là mình nên xem xét lại cái giấy phép xây dựng này một chút.
+[13:09] Mọi người cứ cho ý kiến thoải mái về thẩm định giá đi ạ.
+[17:50] Vâng, tôi cũng thấy việc tối ưu chuyển nhượng dự án là rất cần thiết.
+[13:11] Chào cả nhà, chúng ta bắt đầu bàn về thẩm định giá nhé.
+[13:12] Thôi được rồi, vậy thống nhất là làm sổ đỏ theo cách đó.
+[13:13] Thôi được rồi, vậy thống nhất là làm quy hoạch đô thị theo cách đó.
+[17:58] Tóm lại là Thôi được rồi, vậy thống nhất là làm thẩm định giá theo cách đó.
+[13:15] Có ai phụ trách chính cho mảng chuyển nhượng dự án chưa nhỉ?
+[13:16] Mọi người có thấy vụ sổ đỏ dạo này bị chậm không?
+[18:04] Hình như Liệu mình có thể đẩy nhanh tiến độ cho tranh chấp đất đai được không?
+[18:06] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[18:08] Thôi được rồi, vậy thống nhất là làm tranh chấp đất đai theo cách đó.
+[13:20] Về phần tranh chấp đất đai thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[18:12] Đừng quên là thẩm định giá cũng ảnh hưởng nhiều đến kết quả chung đó.
+[13:22] Thế còn ngân sách cho thẩm định giá thì sao hả mọi người?
+[13:23] Ý tôi là Thực ra thì sổ đỏ không phải là mục tiêu duy nhất của mình.
+[13:24] Hình như Về phần thẩm định giá thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[18:20] Cái sổ đỏ này hình như đang bị vướng chỗ nào đó đúng không?
+[18:22] Cần phải làm rõ thêm các chi tiết liên quan đến giấy phép xây dựng.
+[13:27] Để tôi check lại với bên sổ đỏ xem tình hình thế nào nhé.
+[18:26] Cái thẩm định giá này hình như đang bị vướng chỗ nào đó đúng không?
+[18:28] Tóm lại là Để tôi check lại với bên sổ đỏ xem tình hình thế nào nhé.
+[18:30] Mọi người cứ cho ý kiến thoải mái về giấy phép xây dựng đi ạ.
+[18:32] Cái này nè Tôi đồng ý với ý kiến về thẩm định giá, nên làm quyết liệt hơn.
+[13:32] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[18:36] Thực ra Vâng, tôi cũng thấy việc tối ưu quy hoạch đô thị là rất cần thiết.
+[13:34] Liệu mình có thể đẩy nhanh tiến độ cho sổ đỏ được không?
+[13:35] Cái tranh chấp đất đai này hình như đang bị vướng chỗ nào đó đúng không?
+[18:42] Cái tranh chấp đất đai này hình như đang bị vướng chỗ nào đó đúng không?
+[18:44] Cái quy hoạch đô thị này hình như đang bị vướng chỗ nào đó đúng không?
+[18:46] Thôi được rồi, vậy thống nhất là làm thẩm định giá theo cách đó.
+[18:48] Chào cả nhà, chúng ta bắt đầu bàn về quy hoạch đô thị nhé.
+[13:40] Thực ra thì tranh chấp đất đai không phải là mục tiêu duy nhất của mình.
+[18:52] Vâng, tôi cũng thấy việc tối ưu quy hoạch đô thị là rất cần thiết.
+[13:42] Vâng, tôi cũng thấy việc tối ưu chuyển nhượng dự án là rất cần thiết.
+[18:56] Dạ Có ai phụ trách chính cho mảng quy hoạch đô thị chưa nhỉ?
+[13:44] Cái tranh chấp đất đai này hình như đang bị vướng chỗ nào đó đúng không?
+[19:00] Mọi người cứ cho ý kiến thoải mái về sổ đỏ đi ạ.
+[13:46] Cái này nè Có ai phụ trách chính cho mảng sổ đỏ chưa nhỉ?
+[19:04] Có ai phụ trách chính cho mảng tranh chấp đất đai chưa nhỉ?
+[13:48] Thế còn ngân sách cho quy hoạch đô thị thì sao hả mọi người?
+[19:08] Cần phải làm rõ thêm các chi tiết liên quan đến tranh chấp đất đai.
+[19:10] Đừng quên là chuyển nhượng dự án cũng ảnh hưởng nhiều đến kết quả chung đó.
+[13:51] Cái này nè Mọi người cứ cho ý kiến thoải mái về sổ đỏ đi ạ.
+[13:52] Đừng quên là tranh chấp đất đai cũng ảnh hưởng nhiều đến kết quả chung đó.
+[13:53] Mọi người có thấy vụ quy hoạch đô thị dạo này bị chậm không?
+[13:54] Mọi người có thấy vụ thẩm định giá dạo này bị chậm không?
+[13:55] Mọi người cứ cho ý kiến thoải mái về quy hoạch đô thị đi ạ.
+[19:22] Thôi được rồi, vậy thống nhất là làm giấy phép xây dựng theo cách đó.
+[13:57] Đừng quên là quy hoạch đô thị cũng ảnh hưởng nhiều đến kết quả chung đó.
+[13:58] Liệu mình có thể đẩy nhanh tiến độ cho thẩm định giá được không?
+[13:59] Để tôi check lại với bên tranh chấp đất đai xem tình hình thế nào nhé.
+[14:00] Mọi người có thấy vụ tranh chấp đất đai dạo này bị chậm không?
+[19:32] Thế còn ngân sách cho chuyển nhượng dự án thì sao hả mọi người?
+[14:02] Thực ra thì tranh chấp đất đai không phải là mục tiêu duy nhất của mình.
+[19:36] Đừng quên là quy hoạch đô thị cũng ảnh hưởng nhiều đến kết quả chung đó.
+[14:04] Liệu mình có thể đẩy nhanh tiến độ cho giấy phép xây dựng được không?
+[19:40] Nói chung là mình phải chốt phương án cho sổ đỏ ngay trong hôm nay.
+[14:06] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[14:07] Đừng quên là sổ đỏ cũng ảnh hưởng nhiều đến kết quả chung đó.
+[14:08] Đừng quên là quy hoạch đô thị cũng ảnh hưởng nhiều đến kết quả chung đó.
+[14:09] Thôi được rồi, vậy thống nhất là làm giấy phép xây dựng theo cách đó.
+[19:50] Thực ra thì chuyển nhượng dự án không phải là mục tiêu duy nhất của mình.
+[19:52] Đừng quên là chuyển nhượng dự án cũng ảnh hưởng nhiều đến kết quả chung đó.
+[14:12] Thực ra Mọi người có thấy vụ giấy phép xây dựng dạo này bị chậm không?
+[14:13] Cần phải làm rõ thêm các chi tiết liên quan đến chuyển nhượng dự án.
+[14:14] Thế còn ngân sách cho giấy phép xây dựng thì sao hả mọi người?
+[20:00] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[14:16] Mọi người có thấy vụ chuyển nhượng dự án dạo này bị chậm không?
+[20:04] Cần phải làm rõ thêm các chi tiết liên quan đến chuyển nhượng dự án.
+[20:06] Mọi người cứ cho ý kiến thoải mái về chuyển nhượng dự án đi ạ.
+[20:08] Cái giấy phép xây dựng này hình như đang bị vướng chỗ nào đó đúng không?
+[14:20] Cái sổ đỏ này hình như đang bị vướng chỗ nào đó đúng không?
+[14:21] Về phần thẩm định giá thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[20:14] Mọi người có thấy vụ sổ đỏ dạo này bị chậm không?
+[20:16] Thôi được rồi, vậy thống nhất là làm tranh chấp đất đai theo cách đó.
+[20:18] Thôi được rồi, vậy thống nhất là làm tranh chấp đất đai theo cách đó.
+[14:25] Thì đấy Vâng, tôi cũng thấy việc tối ưu tranh chấp đất đai là rất cần thiết.
+[20:22] Để tôi check lại với bên thẩm định giá xem tình hình thế nào nhé.
+[20:24] Tôi đồng ý với ý kiến về giấy phép xây dựng, nên làm quyết liệt hơn.
+[20:26] Nói chung là mình phải chốt phương án cho tranh chấp đất đai ngay trong hôm nay.
+[20:28] Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[20:30] Đừng quên là thẩm định giá cũng ảnh hưởng nhiều đến kết quả chung đó.
+[14:31] Thì Để tôi check lại với bên tranh chấp đất đai xem tình hình thế nào nhé.
+[20:34] Ý tôi là Thế còn ngân sách cho sổ đỏ thì sao hả mọi người?
+[14:33] Vâng, tôi cũng thấy việc tối ưu sổ đỏ là rất cần thiết.
+[20:38] Liệu mình có thể đẩy nhanh tiến độ cho thẩm định giá được không?
+[20:40] Dạ Mọi người cứ cho ý kiến thoải mái về chuyển nhượng dự án đi ạ.
+[14:36] Mọi người có thấy vụ sổ đỏ dạo này bị chậm không?
+[20:44] Thôi được rồi, vậy thống nhất là làm thẩm định giá theo cách đó.
+[14:38] Tôi đề xuất mình sẽ tập trung nguồn lực vào tranh chấp đất đai trong tuần này.
+[14:39] Có ai phụ trách chính cho mảng giấy phép xây dựng chưa nhỉ?
+[14:40] Cần phải làm rõ thêm các chi tiết liên quan đến chuyển nhượng dự án.
+[20:52] Tóm lại là Tôi đồng ý với ý kiến về tranh chấp đất đai, nên làm quyết liệt hơn.
+[14:42] Về phần giấy phép xây dựng thì bên tôi đã chuẩn bị xong báo cáo rồi.
+[14:43] Mọi người cứ cho ý kiến thoải mái về sổ đỏ đi ạ.
+[14:44] Cần phải làm rõ thêm các chi tiết liên quan đến quy hoạch đô thị.
+[14:45] Chào cả nhà, chúng ta bắt đầu bàn về quy hoạch đô thị nhé.
+[21:02] Thì đấy Mọi người có thấy vụ chuyển nhượng dự án dạo này bị chậm không?
+[21:04] Ờm Cảm ơn mọi người, buổi họp về Tuân thủ Pháp lý Bất động sản hôm nay rất chất lượng.
+[14:48] Cái quy hoạch đô thị này hình như đang bị vướng chỗ nào đó đúng không?
+[21:08] Dạ Chào cả nhà, chúng ta bắt đầu bàn về chuyển nhượng dự án nhé.
+[14:50] Ờm, cái quy hoạch đô thị này thực ra là một vấn đề khá nan giải.
+[14:51] Cái này nè Mọi người cứ cho ý kiến thoải mái về sổ đỏ đi ạ.
+[14:52] Ờm Chào cả nhà, chúng ta bắt đầu bàn về thẩm định giá nhé.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích hiện trạng Tuân thủ Pháp lý Bất động sản
+- Giải quyết các vấn đề về chuyển nhượng dự án
+- Thống nhất kế hoạch triển khai chuyển nhượng dự án
+
+### 2. Các vấn đề đã thảo luận
+- Chưa có quy trình cụ thể cho giấy phép xây dựng
+- Thiếu dữ liệu để đánh giá thẩm định giá
+- Khó khăn trong việc phối hợp giữa các bên về sổ đỏ
+- Sự cần thiết của việc chuẩn hóa các quy trình nội bộ
+
+### 3. Kết luận và quyết định
+- Thông qua phương án cải thiện thẩm định giá
+- Phê duyệt ngân sách bổ sung cho quy hoạch đô thị
+- Thiết lập nhóm đặc trách xử lý quy hoạch đô thị
+- Chốt thời điểm bắt đầu triển khai tranh chấp đất đai
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kiểm tra lại hồ sơ thẩm định giá | Phòng Kỹ thuật | 03/11/2026 |
+| Họp nhóm để bàn sâu về tranh chấp đất đai | Anh Quốc | 24/11/2026 |
+| Gửi email xác nhận với đối tác về chuyển nhượng dự án | Phòng Tuân thủ Pháp lý Bất động sản | 04/01/2026 |
+| Lập báo cáo chi tiết cho giấy phép xây dựng | Ban điều hành | 21/04/2026 |
+| Theo dõi tiến độ thực hiện chuyển nhượng dự án | Phòng Kỹ thuật | 24/03/2026 |

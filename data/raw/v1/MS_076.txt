@@ -1,0 +1,48 @@
+<|input|>
+[14:00] Chào bộ phận XNK, chiều nay mình họp về cái lô linh kiện điện tử sắp về cảng Cát Lái nhé. 
+[14:02] Dạ sếp, lô hàng này có khoảng 5000 con chip và mấy cái board mạch chính, trị giá cũng lớn lắm. 
+[14:04] Ờ... em đã kiểm tra lại bộ chứng từ chưa? Coi kỹ cái C/O (Giấy chứng nhận xuất xứ) với cái Packing List nhé. 
+[14:06] Dạ, C/O lần này là mẫu Form D để hưởng ưu đãi thuế quan, nhưng mà em thấy cái mô tả hàng hóa nó hơi lệch so với hợp đồng một chút. 
+[14:08] Thì cái này mình phải báo bên nhà cung cấp sửa gấp, chứ để hải quan họ soi là mệt lắm đấy. 
+[14:10] Dạ vâng, em đã gửi mail cho họ rồi, hy vọng là họ sửa kịp trước khi tàu cập cảng. 
+[14:12] Ờ... còn cái việc áp mã HS Code thì sao? Mình đã chốt được mã nào chưa? 
+[14:14] Dạ, bên em đang phân vân giữa hai mã, một mã thuế 0% và một mã thuế 5%. 
+[14:16] Thì mình cứ chọn cái mã nào đúng bản chất hàng nhất thôi, đừng có cố lách mà bị phạt thì khổ. 
+[14:18] Với lại đợt này nghe nói hải quan đang làm gắt cái vụ linh kiện đã qua sử dụng trà trộn vào hàng mới. 
+[14:20] Lô của mình là hàng mới 100% đúng không? Có giấy cam kết của nhà sản xuất chưa? 
+[14:22] Dạ có đầy đủ sếp ạ, hàng mới tinh luôn. 
+[14:24] Ok, vậy chú ý cái lịch tàu chạy, nếu có delay thì phải báo ngay cho bên kho để họ sắp xếp chỗ để hàng. 
+[14:26] Dạ, em sẽ theo dõi sát sao cái tracking của hãng tàu ạ. 
+[14:28] Với lại chuẩn bị sẵn tiền thuế để nộp ngay khi mở tờ khai nhé, đừng để hàng nằm cảng lâu phát sinh phí lưu kho bãi. 
+[14:30] Vâng sếp, em đã làm dự toán thuế gửi bên Kế toán rồi ạ. 
+
+<|output|>
+# Thủ tục thông quan lô hàng linh kiện điện tử tại cảng Cát Lái
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát bộ chứng từ nhập khẩu và chuẩn bị các bước thông quan cho lô hàng linh kiện điện tử.
+- Xử lý các sai sót về mô tả hàng hóa và thống nhất mã HS Code áp dụng.
+- Đảm bảo tiến độ thông quan để tránh phát sinh chi phí lưu kho bãi (DEM/DET).
+
+### 2. Các vấn đề đã thảo luận
+- Phát hiện lỗi sai biệt mô tả hàng hóa trên C/O Form D so với hợp đồng ngoại thương.
+- Thảo luận việc lựa chọn mã HS Code chính xác để hưởng ưu đãi thuế quan đúng quy định.
+- Sự kiểm soát nghiêm ngặt của cơ quan hải quan đối với mặt hàng linh kiện (phòng ngừa hàng cũ tân trang).
+- Kế hoạch theo dõi lịch trình tàu và chuẩn bị tài chính để nộp thuế kịp thời.
+
+### 3. Kết luận và quyết định
+- Yêu cầu nhà cung cấp sửa đổi chứng từ ngay lập tức để khớp với thực tế hàng hóa.
+- Áp dụng mã HS Code dựa trên bản chất kỹ thuật của sản phẩm để đảm bảo an toàn pháp lý.
+- Phòng XNK chịu trách nhiệm bám sát tiến độ tàu và phối hợp với kế toán để thanh toán thuế.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ nhà cung cấp sửa C/O và Packing List | Bạn Tú (XNK) | 16/10/2023 |
+| Chốt mã HS Code cuối cùng và gửi lãnh đạo duyệt | Trưởng phòng XNK | 17/10/2023 |
+| Theo dõi tracking tàu và báo lịch cập cảng | Team Logistics | 19/10/2023 |
+| Phê duyệt dự toán thuế và chuẩn bị tiền nộp | Phòng Kế toán | 20/10/2023 |
+| Chuẩn bị hồ sơ cam kết hàng mới 100% | Phòng XNK | 18/10/2023 |

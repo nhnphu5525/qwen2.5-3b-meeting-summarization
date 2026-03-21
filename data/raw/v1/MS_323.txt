@@ -1,0 +1,44 @@
+<|input|>
+[15:00] Chào anh Hùng và các bạn phòng kế toán. Hôm nay mình ngồi lại để bàn về kế hoạch kiểm kê tài sản cố định cuối năm cho toàn công ty nhé. Anh Hùng thấy cái danh sách tài sản hiện tại có khớp với thực tế không?
+[15:02] Theo báo cáo sơ bộ từ các phòng ban thì có vẻ như có một số thiết bị văn phòng đã bị hỏng hoặc thanh lý nhưng chưa được cập nhật kịp thời lên phần mềm kế toán. Đặc biệt là bên kho mảng máy móc sản xuất, số lượng thực tế đang lệch khoảng 5-7 cái so với sổ sách.
+[15:04] Căng nhỉ, lệch 5-7 cái máy là con số không hề nhỏ đâu. Mai giúp anh rà soát lại toàn bộ hóa đơn mua hàng và các biên bản bàn giao tài sản trong 6 tháng qua nhé. Mình cần biết chính xác là nó thất thoát ở khâu nào hay chỉ là do sai sót khi nhập liệu thôi.
+[15:06] Dạ anh Hùng, em sẽ làm việc lại với bên bộ phận kho và bộ phận sản xuất để đối chiếu lại từng mã tài khoản một. Có khi là do anh em chuyển máy qua lại giữa các xưởng mà không báo lại cho phòng kế toán mình đấy ạ.
+[15:08] Ý kiến của Mai rất có lý. Anh đề nghị đợt này mình phải dán lại toàn bộ tem tài sản (asset tags) có mã QR cho tất cả các máy móc. Như vậy lúc kiểm kê chỉ cần cầm điện thoại quét một cái là xong, vừa nhanh vừa tránh nhầm lẫn.
+[15:10] Cái này hay nè anh Hùng, nếu làm được mã QR thì sau này mình quản lý khấu hao cũng dễ hơn nhiều. Lan ơi, em xem dự trù kinh phí để in ấn tem và mua thêm 2 cái máy quét cầm tay chuyên dụng cho các bạn kiểm kê nhé.
+[15:12] Dạ chị, em tính toán sơ bộ thì khoảng 5 triệu đồng là đủ rồi ạ. Em sẽ trình ký duyệt chi trong chiều nay để kịp có tem cho đợt kiểm kê bắt đầu vào tuần sau.
+[15:14] Tốt lắm. Vậy Mai lo phần đối chiếu chứng từ, Lan lo phần hậu cần tem thẻ, còn Hùng sẽ trực tiếp đi cùng đoàn kiểm kê xuống các xưởng. Mình phải hoàn thành việc này trước ngày 25 để còn kịp làm báo cáo tài chính năm.
+[15:16] Vâng anh, tụi em sẽ cố gắng hết sức.
+[15:18] Cảm ơn mọi người, cuộc họp kết thúc ở đây nhé.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Lên kế hoạch kiểm kê tài sản cố định cuối năm cho toàn công ty.
+- Xử lý các sai lệch giữa sổ sách kế toán và thực tế tại các kho máy móc.
+- Cải tiến quy trình quản lý tài sản bằng công nghệ mã QR.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng sai lệch số lượng máy móc sản xuất (khoảng 5-7 đơn vị) so với sổ sách.
+- Thiếu sót trong việc cập nhật tình trạng tài sản đã hỏng hoặc thanh lý lên phần mềm.
+- Nguyên nhân tiềm ẩn: Luân chuyển nội bộ giữa các xưởng nhưng không thông báo cho phòng kế toán.
+- Đề xuất dán tem mã QR cho toàn bộ tài sản để tối ưu hóa việc kiểm kê và quản lý khấu hao.
+- Ngân sách dự kiến cho vật tư kiểm kê (tem, máy quét) khoảng 5 triệu đồng.
+
+### 3. Kết luận và quyết định
+- Thực hiện rà soát lại toàn bộ chứng từ mua sắm và biên bản bàn giao trong 6 tháng qua.
+- Áp dụng hệ thống mã QR vào quản lý tài sản bắt đầu từ đợt kiểm kê này.
+- Thành lập đoàn kiểm kê trực tiếp đi xuống các xưởng sản xuất để đối soát thực tế.
+- Đặt mục tiêu hoàn tất công tác kiểm kê và báo cáo trước ngày 25 của tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Rà soát hóa đơn và biên bản bàn giao tài sản | Mai | 20/03/2026 |
+| Dự trù kinh phí và mua sắm tem QR, máy quét | Lan | 18/03/2026 |
+| In ấn và chuẩn bị tem mã tài sản mới | Phòng Kế toán | 21/03/2026 |
+| Thực hiện kiểm kê thực tế tại các xưởng và kho | Anh Hùng & Đoàn kiểm kê | 24/03/2026 |
+| Tổng hợp dữ liệu và lập báo cáo kiểm kê cuối cùng | Mai | 25/03/2026 |

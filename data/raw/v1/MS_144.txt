@@ -1,0 +1,59 @@
+<|input|>
+[23:00:00] Alo, mọi người có đó không? Tình hình căng rồi, hệ thống thanh toán đang bị treo, khách hàng không checkout được từ nãy giờ. Anh mới nhận được một đống log báo lỗi 500 từ server đây.
+[23:02:15] Dạ em đây anh Thành. Em đang check log bên phía Backend. Có vẻ như service thanh toán đang bị nghẽn ở bước gọi sang API của bên đối tác ngân hàng. Nó cứ trả về timeout liên tục luôn nè.
+[23:04:30] Ờ, thì nãy giờ anh cũng thấy mấy group hỗ trợ khách hàng báo quá trời. Huy ơi, bên Frontend có xử lý catch lỗi này chưa? Sao khách báo là nó cứ quay vòng vòng rồi trắng trang luôn vậy?
+[23:06:45] Dạ vầy nè anh, bình thường là có retry mechanism rồi, nhưng mà đợt này timeout nó lâu quá nên nó vượt quá cái limit của browser luôn. Để em push một cái hotfix để giới hạn thời gian chờ lại, cho nó hiện thông báo bảo trì tạm thời cho khách đỡ hoang mang.
+[23:09:00] Nam check lại cái query database xem có bị deadlock chỗ nào không? Anh nghi là lúc traffic cao, mấy cái transaction thanh toán nó đang tranh chấp tài nguyên với nhau đó.
+[23:11:15] Em đang dùng `pg_stat_activity` để soi đây anh. Đúng rồi! Có một cái query đang bị treo từ 15 phút trước, nó lock hết mấy cái bảng `orders` luôn. Hèn chi mấy cái request sau vào là đứng hình hết.
+[23:13:30] Trời ơi, sao tự nhiên lại bị lock lâu vậy? Có phải do cái script migration mình mới deploy hồi chiều không?
+[23:15:45] Khả năng cao là nó đó anh. Cái script đó nó add thêm một cái column mới vào bảng `orders` nhưng mà nó không dùng `ALGORITHM=INPLACE` nên nó khóa nguyên cái bảng để ghi dữ liệu lại. Với bảng lớn mấy triệu record như mình thì nó "tèo" là đúng rồi.
+[23:18:00] Thôi chết, sơ suất quá! Bây giờ xử lý sao Nam? Kill cái process đó đi có ảnh hưởng gì tới data không?
+[23:20:15] Kill thì được anh, nhưng mà mình phải rollback lại cái transaction đó ngay lập tức. Em sẽ kill nó trước để giải phóng lock cho hệ thống chạy lại đã, còn vụ data thì mình sẽ phải check lại xem có record nào bị dở dang không.
+[23:22:30] Huy ơi, em treo cái banner thông báo hệ thống đang bảo trì thanh toán trong vòng 30 phút nữa nha. Đừng cho khách nhấn nút "Thanh toán" nữa, kẻo nó lại tạo thêm request vào database lúc này là loạn hết.
+[23:24:45] Dạ em đang deploy bản hotfix FE đây anh. Khoảng 2 phút nữa là banner sẽ hiện lên toàn trang. Mọi người cứ yên tâm xử lý DB đi ạ.
+[23:27:00] Nam đã kill xong process chưa em? Thấy CPU server nó giảm xuống chưa?
+[23:29:15] Xong rồi anh ơi! CPU rớt từ 98% xuống còn 15% rồi nè. Hệ thống bắt đầu mượt lại rồi. Em đang cho chạy script check data integrity để xem có đơn hàng nào bị lỗi status không.
+[23:31:30] Ờ, may quá. May mà mình phát hiện sớm chứ để đến sáng mai khách vào đông là "banh" luôn cái app. Huy nè, sau khi Nam check xong data, em gỡ banner rồi cho team QA test lại một vòng thanh toán thật (live test) xem ổn chưa nha.
+[23:33:45] Dạ ok anh. Em sẽ dùng account test của công ty để thanh toán thử vài đơn. Nếu tiền trừ đúng, status order chuyển sang "Paid" thì mình mới mở lại cho khách nha anh.
+[23:36:00] Nam nè, sau vụ này em phải viết một cái post-mortem report thật chi tiết nha. Tại sao cái script migration đó lại được duyệt deploy lên production mà không qua bước kiểm tra khóa bảng? Quy trình review code của mình đang có lỗ hổng lớn đó.
+[23:38:15] Dạ, em nhận lỗi chỗ này anh Thành. Do chiều nay em chủ quan, tưởng cái column đó nhỏ nên không sao. Em sẽ viết report và đề xuất lại quy trình deploy database chặt chẽ hơn, phải chạy test trên môi trường staging với lượng data tương đương prod trước khi push.
+[23:40:30] Ok, rút kinh nghiệm sâu sắc nha. Giờ mọi người tập trung dứt điểm nốt phần test đi. Anh vẫn sẽ online trực cùng mọi người cho đến khi hệ thống ổn định hoàn toàn.
+[23:42:45] Dạ vâng anh. Huy báo là test thanh toán trên prod đã thành công rồi nè anh. Mọi thứ có vẻ đã ổn rồi đó.
+[23:45:00] Tốt! Vậy gỡ banner và mở lại toàn bộ hệ thống đi. Đêm nay coi như thức trắng vậy, mai anh cho mấy đứa nghỉ bù buổi sáng nha.
+[23:47:15] Dạ em cảm ơn anh Thành! Chúc mọi người ngủ ngon (muộn) nha.
+
+<|output|>
+# Xử lý Sự cố Nghiêm trọng (Incident Report) - Hệ thống Thanh toán bị treo
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân gây ra lỗi 500 và treo hệ thống thanh toán trên môi trường production vào đêm khuya.
+- Triển khai các biện pháp khắc phục khẩn cấp để khôi phục dịch vụ cho khách hàng.
+- Kiểm tra tính toàn vẹn của dữ liệu sau khi xử lý sự cố.
+- Đề xuất quy trình để ngăn chặn các sự cố tương tự trong tương lai.
+
+### 2. Các vấn đề đã thảo luận
+- **Hiện tượng:** Khách hàng không thể thực hiện bước checkout, hệ thống báo lỗi 500 hoặc quay vòng vô tận, log server báo timeout liên tục.
+- **Nguyên nhân gốc rễ:** Script migration database (thêm cột mới vào bảng `orders`) được deploy hồi chiều đã gây ra tình trạng khóa bảng (table lock) lâu ngày do không sử dụng thuật toán tối ưu trên tập dữ liệu lớn.
+- **Biện pháp xử lý:**
+    + Kill process gây khóa bảng trên database để giải phóng tài nguyên.
+    + Đẩy hotfix Frontend để hiển thị banner bảo trì và tạm chặn nút thanh toán.
+    + Thực hiện rollback transaction và kiểm tra lại trạng thái các đơn hàng bị ảnh hưởng.
+- **Kết quả:** CPU server đã ổn định trở lại, hệ thống thanh toán đã được test thành công với tài khoản thật và hoạt động bình thường.
+
+### 3. Kết luận và quyết định
+- Khôi phục hoàn toàn dịch vụ thanh toán ngay lập tức sau khi test thành công.
+- Team Backend (Nam) chịu trách nhiệm viết báo cáo Post-mortem chi tiết.
+- Thay đổi quy trình deploy database: Bắt buộc test script trên môi trường staging với dữ liệu mô phỏng thực tế (volume lớn) trước khi lên production.
+- Yêu cầu review code chặt chẽ hơn đối với các script thay đổi cấu trúc database.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Viết báo cáo Post-mortem chi tiết sự cố | Nam (Backend) | 12:00 05/10/2024 |
+| Rà soát lại dữ liệu đơn hàng trong thời gian sự cố | Nam | 05/10/2024 |
+| Cập nhật quy trình CI/CD cho phần migration DB | Anh Thành & Team DevOps | 10/10/2024 |
+| Đào tạo lại team về các kỹ thuật migration online | Nam | 15/10/2024 |
+| Theo dõi hiệu năng hệ thống trong 24h tới | Team On-call | 06/10/2024 |

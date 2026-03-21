@@ -1,0 +1,100 @@
+<|input|>
+[09:00] Về dài hạn thì giống cây sẽ là trọng tâm của năm nay.
+[09:02] Về phần ngân sách cho chế biến, sếp đã duyệt chưa nhỉ?
+[09:02] Tóm lại Thôi được rồi, vậy thống nhất là triển khai công nghệ sinh học theo hướng đó.
+[09:06] Đừng quên vụ chế biến cũng quan trọng không kém nhé.
+[09:08] Thế thì mình chốt phương án cho công nghệ sinh học luôn đi, đừng kéo dài nữa.
+[09:05] Chắc là Về phần ngân sách cho phân bón, sếp đã duyệt chưa nhỉ?
+[09:06] Thì đấy Vấn đề phân bón thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:07] Hình như Về dài hạn thì thủy lợi sẽ là trọng tâm của năm nay.
+[09:16] Vấn đề thủy lợi thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:09] Chắc là Đúng rồi, cái xuất khẩu cần được ưu tiên xử lý trước thứ Sáu này.
+[09:10] Ờm Thôi được rồi, vậy thống nhất là triển khai nông sản theo hướng đó.
+[09:22] Hay là mình thử thay đổi cách tiếp cận với công nghệ sinh học xem sao?
+[09:24] Nói chung là Cảm ơn mọi người, cuộc họp về Nông nghiệp tạm dừng tại đây.
+[09:26] À Về dài hạn thì xuất khẩu sẽ là trọng tâm của năm nay.
+[09:28] Thì Vấn đề phân bón thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:15] Thế thì mình chốt phương án cho phân bón luôn đi, đừng kéo dài nữa.
+[09:16] Thôi được rồi, vậy thống nhất là triển khai phân bón theo hướng đó.
+[09:17] Tóm lại Mọi người nghe rõ không? Về cái công nghệ sinh học này tôi thấy có vẻ hơi vướng.
+[09:36] Tóm lại Ai sẽ chịu trách nhiệm chính cho mảng xuất khẩu nhỉ?
+[09:38] Ai sẽ chịu trách nhiệm chính cho mảng công nghệ sinh học nhỉ?
+[09:20] Tôi sẽ phụ trách kiểm tra lại thủy lợi rồi báo lại cả team vào chiều mai.
+[09:42] Mọi người nghe rõ không? Về cái chế biến này tôi thấy có vẻ hơi vướng.
+[09:22] À Về phần ngân sách cho giống cây, sếp đã duyệt chưa nhỉ?
+[09:46] Về dài hạn thì thủy lợi sẽ là trọng tâm của năm nay.
+[09:24] Thế thì mình chốt phương án cho xuất khẩu luôn đi, đừng kéo dài nữa.
+[09:50] Cảm ơn mọi người, cuộc họp về Nông nghiệp tạm dừng tại đây.
+[09:26] Bên đối tác họ cứ hỏi mãi về nông sản, mình phải trả lời sao đây?
+[09:27] Vâng Vấn đề công nghệ sinh học thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:28] Thì đấy Về dài hạn thì nông sản sẽ là trọng tâm của năm nay.
+[09:58] Mọi người có ý kiến gì thêm về thủy lợi không?
+[10:00] Tôi sẽ phụ trách kiểm tra lại giống cây rồi báo lại cả team vào chiều mai.
+[09:31] Nói chung là Mọi người có ý kiến gì thêm về chế biến không?
+[09:32] Hình như Tôi thấy phân bón hiện tại là cơ hội tốt để mình bứt phá.
+[10:06] Đừng quên vụ thủy lợi cũng quan trọng không kém nhé.
+[09:34] Đừng quên vụ thủy lợi cũng quan trọng không kém nhé.
+[09:35] Bên đối tác họ cứ hỏi mãi về xuất khẩu, mình phải trả lời sao đây?
+[10:12] Tôi sẽ phụ trách kiểm tra lại chế biến rồi báo lại cả team vào chiều mai.
+[10:14] Tóm lại Thế thì mình chốt phương án cho phân bón luôn đi, đừng kéo dài nữa.
+[10:16] Hình như Đúng rồi, cái chế biến cần được ưu tiên xử lý trước thứ Sáu này.
+[10:18] Tôi thấy chế biến hiện tại là cơ hội tốt để mình bứt phá.
+[10:20] Hay là mình thử thay đổi cách tiếp cận với công nghệ sinh học xem sao?
+[09:41] Về phần ngân sách cho xuất khẩu, sếp đã duyệt chưa nhỉ?
+[09:42] Tôi thấy thủy lợi hiện tại là cơ hội tốt để mình bứt phá.
+[10:26] Vấn đề phân bón thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:44] Cái chế biến này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:45] Thế thì mình chốt phương án cho công nghệ sinh học luôn đi, đừng kéo dài nữa.
+[10:32] Thôi được rồi, vậy thống nhất là triển khai phân bón theo hướng đó.
+[09:47] Đừng quên vụ thủy lợi cũng quan trọng không kém nhé.
+[10:36] Đừng quên vụ phân bón cũng quan trọng không kém nhé.
+[10:38] Hay là mình thử thay đổi cách tiếp cận với thủy lợi xem sao?
+[09:50] Hình như Ai sẽ chịu trách nhiệm chính cho mảng chế biến nhỉ?
+[09:51] Chắc là Mọi người có ý kiến gì thêm về giống cây không?
+[09:52] Cảm ơn mọi người, cuộc họp về Nông nghiệp tạm dừng tại đây.
+[09:53] Thì Cần phải làm rõ hơn về công nghệ sinh học trong hợp đồng mới.
+[10:48] Đúng rồi, cái thủy lợi cần được ưu tiên xử lý trước thứ Sáu này.
+[09:55] Vụ phân bón thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:56] Tôi thấy phân bón hiện tại là cơ hội tốt để mình bứt phá.
+[09:57] Chắc là Cái thủy lợi này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[10:56] Vấn đề công nghệ sinh học thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[10:58] Chắc là Tôi sẽ phụ trách kiểm tra lại thủy lợi rồi báo lại cả team vào chiều mai.
+[10:00] Tôi sẽ phụ trách kiểm tra lại công nghệ sinh học rồi báo lại cả team vào chiều mai.
+[10:01] Đúng rồi, cái nông sản cần được ưu tiên xử lý trước thứ Sáu này.
+[11:04] Đừng quên vụ công nghệ sinh học cũng quan trọng không kém nhé.
+[10:03] Tóm lại Tôi sẽ phụ trách kiểm tra lại nông sản rồi báo lại cả team vào chiều mai.
+[10:04] Đừng quên vụ phân bón cũng quan trọng không kém nhé.
+[11:10] Hình như Về phần ngân sách cho phân bón, sếp đã duyệt chưa nhỉ?
+[10:06] Ờm Cần phải làm rõ hơn về công nghệ sinh học trong hợp đồng mới.
+
+<|output|>
+# Báo cáo cuộc họp về Nông nghiệp
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Nông nghiệp hiện tại
+- Giải quyết các tồn đọng liên quan đến phân bón
+- Định hướng phát triển phân bón trong quý tới
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý công nghệ sinh học
+- Thiếu hụt nguồn lực cho chế biến
+- Áp lực từ phía đối tác về thủy lợi
+- Tác động của thị trường đến kế hoạch chung
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho nông sản
+- Phân bổ thêm 2 nhân sự cho mảng chế biến
+- Hoàn thiện báo cáo thủy lợi trước cuối tuần
+- Duyệt chi phí dự phòng cho xuất khẩu
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ nông sản | Anh Hoàng | 07/03/2026 |
+| Liên hệ đối tác về thủy lợi | Phòng Kế hoạch | 13/10/2026 |
+| Kiểm tra tiến độ công nghệ sinh học | Chị Mai | 04/06/2026 |
+| Lập kế hoạch chi tiết cho xuất khẩu | Phòng Nông nghiệp | 22/07/2026 |
+| Báo cáo kết quả thủy lợi | Team Technical | 27/03/2026 |

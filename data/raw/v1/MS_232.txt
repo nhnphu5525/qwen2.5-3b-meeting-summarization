@@ -1,0 +1,44 @@
+<|input|>
+[14:00] Mọi người ơi, chúng ta cần thảo luận gấp về kế hoạch triển khai học tập kết hợp (blended learning) cho học kỳ tới.
+[14:02] Tôi thấy việc kết hợp giữa học trực tiếp và học qua nền tảng LMS là xu hướng tất yếu rồi, nhưng giáo viên cần được đào tạo kỹ hơn.
+[14:04] Đúng vậy, hiện tại nhiều thầy cô vẫn chỉ upload slide lên thôi chứ chưa biết cách tạo các bài kiểm tra tương tác hay thảo luận nhóm online hiệu quả.
+[14:06] Vậy chúng ta sẽ tổ chức một chuỗi workshop vào tháng tới để hướng dẫn kỹ thuật và phương pháp giảng dạy mới này.
+[14:08] Về hạ tầng, liệu server hiện tại có chịu nổi khi toàn bộ sinh viên truy cập cùng lúc để làm bài quiz không nhỉ?
+[14:10] Team IT đã nâng cấp băng thông rồi, nhưng vẫn cần chạy thử nghiệm tải vào tuần sau để chắc chắn.
+[14:12] Tôi cũng lo về vấn đề bản quyền học liệu. Khi đưa lên mạng thì việc kiểm soát sao chép sẽ khó khăn hơn.
+[14:14] Chúng ta nên tích hợp các công cụ chống đạo văn và có quy định rõ ràng về việc sử dụng tài nguyên số cho sinh viên.
+[14:16] Thêm nữa, cần có một đội hỗ trợ kỹ thuật trực 24/7 trong tuần đầu tiên triển khai để xử lý các sự cố đăng nhập.
+[14:18] Nhất trí, phòng Đào tạo sẽ soạn thảo hướng dẫn chi tiết cho cả giáo viên và sinh viên trước ngày 15.
+
+<|output|>
+# Kế hoạch triển khai mô hình học tập kết hợp Blended Learning
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất kế hoạch triển khai mô hình blended learning cho học kỳ tới.
+- Giải quyết các vấn đề về đào tạo giáo viên, hạ tầng kỹ thuật và bản quyền học liệu.
+
+### 2. Các vấn đề đã thảo luận
+- Sự cần thiết của việc kết hợp học trực tiếp và trực tuyến qua LMS.
+- Kỹ năng sử dụng công cụ tương tác online của giáo viên còn hạn chế.
+- Cần tổ chức workshop đào tạo phương pháp giảng dạy mới.
+- Đánh giá năng lực đáp ứng của hệ thống server và băng thông.
+- Quản lý bản quyền học liệu và kiểm soát đạo văn trên môi trường số.
+- Thiết lập đội ngũ hỗ trợ kỹ thuật vận hành.
+
+### 3. Kết luận và quyết định
+- Tổ chức chuỗi workshop đào tạo cho giáo viên vào tháng sau.
+- Tiến hành kiểm tra tải hệ thống (stress test) vào tuần tới.
+- Ban hành quy định và hướng dẫn sử dụng tài nguyên số cho sinh viên.
+- Duy trì đội hỗ trợ kỹ thuật túc trực trong giai đoạn đầu vận hành.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tổ chức workshop đào tạo giảng viên | Phòng Đào tạo | 10/04/2026 |
+| Kiểm tra tải hệ thống LMS | Tổ IT | 25/03/2026 |
+| Soạn thảo quy định bản quyền học liệu | Phòng Pháp chế | 30/03/2026 |
+| Soạn hướng dẫn sử dụng cho sinh viên | Phòng Đào tạo | 15/04/2026 |
+| Thành lập đội support kỹ thuật | Tổ IT | 01/05/2026 |

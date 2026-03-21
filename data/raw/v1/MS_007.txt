@@ -1,0 +1,61 @@
+<|input|>
+[11:00] Chào mọi người, hôm nay chúng ta họp để thảo luận về kế hoạch chuyển đổi từ hệ thống On-premise hiện tại lên Cloud Infrastructure.
+[11:02] Hiện tại chi phí bảo trì server vật lý hàng năm đang quá cao, chưa kể rủi ro về mất dữ liệu khi có sự cố phần cứng là rất lớn.
+[11:04] Tôi đồng ý. Đợt rồi server ổ cứng bị hỏng làm hệ thống treo suốt 4 tiếng, thiệt hại không nhỏ đâu.
+[11:06] Vậy mình định chọn nền tảng nào? AWS, Google Cloud hay Microsoft Azure?
+[11:08] Theo khảo sát sơ bộ, AWS đang có hệ sinh thái dịch vụ rất đa dạng, đặc biệt là các dịch vụ về database và scaling.
+[11:10] Nhưng Azure lại tích hợp tốt với các phần mềm hiện tại của công ty mình vì mình đang dùng nhiều giải pháp của Microsoft.
+[11:12] Em thấy AWS có nhiều region ở gần Việt Nam hơn, tốc độ truy cập chắc chắn sẽ ổn định hơn Azure.
+[11:14] Vấn đề không chỉ là tốc độ, mà là khả năng hỗ trợ kỹ thuật tại địa phương. AWS hiện tại có đối tác hỗ trợ rất mạnh tại Việt Nam.
+[11:16] Về chi phí, Cloud có thực sự rẻ hơn On-premise không? Tôi thấy hóa đơn hàng tháng của Cloud đôi khi rất khó kiểm soát.
+[11:18] Đúng vậy, nếu mình không cấu hình "Auto-scaling" và "Reserved Instances" hợp lý thì chi phí sẽ vọt lên rất nhanh.
+[11:20] Vậy chúng ta cần một team chuyên trách về Cloud FinOps để tối ưu chi phí hàng tháng ngay từ đầu.
+[11:22] Quy trình migrate dự kiến sẽ như thế nào? Mình chuyển "Lift and Shift" hay là refactor lại ứng dụng sang Microservices luôn?
+[11:24] Nếu "Lift and Shift" thì nhanh nhưng không tận dụng được sức mạnh của Cloud. Em đề xuất mình nên refactor những module quan trọng nhất trước.
+[11:26] Vậy còn dữ liệu khách hàng thì sao? Chuyển lên Cloud có đảm bảo an toàn không? Sợ nhất là bị hack hoặc rò rỉ dữ liệu.
+[11:28] Cloud bây giờ bảo mật rất tốt, thậm chí tốt hơn server mình tự quản lý. Quan trọng là mình phải tuân thủ các quy tắc về mã hóa dữ liệu (Encryption) và IAM phân quyền.
+[11:30] Anh muốn team Dev chuẩn bị một bản demo thử nghiệm (PoC) chuyển module thanh toán lên Cloud trong vòng 2 tuần tới.
+[11:32] Module thanh toán rất nhạy cảm, em nghĩ mình nên bắt đầu với module tin tức hoặc thông tin sản phẩm trước để đảm bảo an toàn.
+[11:34] Được, vậy đổi lại, làm PoC cho module tin tức trước.
+[11:36] Về nhân sự, team mình hiện tại chưa có ai có chứng chỉ AWS Solution Architect. Mình có cần thuê chuyên gia tư vấn bên ngoài không?
+[11:38] Có thể thuê tư vấn trong giai đoạn thiết kế kiến trúc ban đầu, còn vận hành thì mình sẽ đào tạo nhân sự nội bộ.
+[11:40] Anh sẽ duyệt kinh phí cho 3 bạn đi học và thi chứng chỉ AWS trong tháng sau.
+[11:42] Rất tốt ạ, tụi em sẽ đăng ký ngay.
+[11:44] Chốt lại: Chọn AWS, làm PoC module tin tức, thuê tư vấn kiến trúc và đào tạo nhân sự nội bộ.
+[11:46] Kế hoạch cụ thể trình anh vào thứ Hai tuần sau nhé.
+[11:48] Vâng ạ, chúng em sẽ chuẩn bị kỹ.
+[11:50] Cảm ơn mọi người, buổi họp kết thúc.
+
+<|output|>
+# Kế hoạch chuyển đổi sang Cloud Infrastructure (AWS)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận việc thay thế hệ thống server vật lý (On-premise) bằng hạ tầng điện toán đám mây.
+- Đánh giá các nhà cung cấp dịch vụ Cloud hàng đầu (AWS, Azure, GCP).
+- Xây dựng lộ trình dịch chuyển dữ liệu (Migration) và đào tạo nhân sự.
+
+### 2. Các vấn đề đã thảo luận
+- Hệ thống cũ thường xuyên gặp sự cố phần cứng và chi phí bảo trì cao.
+- So sánh AWS và Azure: AWS được ưu tiên nhờ hệ sinh thái dịch vụ đa dạng và tốc độ truy cập ổn định tại khu vực.
+- Quan ngại về việc kiểm soát chi phí hàng tháng trên Cloud và vấn đề bảo mật dữ liệu khách hàng.
+- Chiến lược migration: Quyết định không chuyển toàn bộ ngay lập tức (Lift and Shift) mà sẽ thực hiện refactor từng module (Microservices).
+- Sự thiếu hụt nhân sự có chuyên môn sâu về kiến trúc Cloud.
+
+### 3. Kết luận và quyết định
+- Chính thức lựa chọn Amazon Web Services (AWS) làm đối tác cung cấp hạ tầng.
+- Triển khai bản thử nghiệm (PoC) với module Tin tức trước khi áp dụng cho các module nhạy cảm (Thanh toán).
+- Thuê chuyên gia tư vấn kiến trúc bên ngoài để thiết kế hệ thống tối ưu ngay từ đầu.
+- Tài trợ kinh phí đào tạo và thi chứng chỉ AWS cho 3 nhân sự cốt lõi của team kỹ thuật.
+- Thành lập nhóm FinOps để giám sát và tối ưu hóa chi phí sử dụng hàng tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập báo cáo kiến trúc hạ tầng Cloud dự kiến | Team Kỹ thuật | 25/03 |
+| Liên hệ đơn vị tư vấn AWS để xin báo giá | Team Mua sắm | 28/03 |
+| Đăng ký khóa học AWS cho 3 nhân sự | Team HR | 05/04 |
+| Thực hiện PoC module Tin tức trên AWS | Team Dev | 15/04 |
+| Thiết lập hệ thống giám sát chi phí (FinOps) | Team Tài chính | 20/04 |

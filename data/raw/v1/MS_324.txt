@@ -1,0 +1,44 @@
+<|input|>
+[10:00] Chào bác sĩ Minh và các bạn điều dưỡng. Hôm nay mình họp nhanh để triển khai chiến dịch tiêm chủng lưu động cho người cao tuổi trong phường vào cuối tuần này nhé. Bác sĩ Minh đã chuẩn bị xong danh sách vaccine chưa?
+[10:02] Báo cáo chị, lượng vaccine trong kho hiện tại đã đủ cho khoảng 500 người. Tuy nhiên, cái khó là nhiều cụ già không tự đi đến điểm tiêm được. Mình cần phải phối hợp với bên Đoàn thanh niên để có xe đưa đón hoặc cử đội ngũ đến tận nhà cho các trường hợp đặc biệt khó khăn.
+[10:04] Cái này em đã liên hệ với bên Đoàn rồi chị ạ. Các bạn ấy rất nhiệt tình, sẵn sàng hỗ trợ 10 xe máy và 2 xe tải nhỏ để chở các cụ. Hoa này, em lưu ý việc bảo quản vaccine trong thùng đá chuyên dụng khi di chuyển nhé, không được để nhiệt độ vượt ngưỡng đâu.
+[10:06] Dạ chị, em đã kiểm tra lại các phích lạnh và nhiệt kế tự ghi rồi. Đảm bảo vaccine luôn ở mức 2-8 độ C suốt quá trình đi lưu động. Em cũng đã chuẩn bị đủ bộ dụng cụ cấp cứu phản vệ để mang theo phòng trường hợp có cụ nào bị sốc.
+[10:08] Tốt lắm Hoa. Bác sĩ Minh nhớ nhắc các bạn trong đội là phải khám sàng lọc thật kỹ cho các cụ nhé. Người già nhiều bệnh nền nên mình không được chủ quan. Nếu cụ nào huyết áp quá cao hoặc đang sốt thì phải dời lịch tiêm ngay.
+[10:10] Vâng, tôi sẽ trực tiếp phụ trách khâu sàng lọc tại điểm tiêm chính ở nhà văn hóa. Còn đội đi tận nhà sẽ do bác sĩ Nam và một điều dưỡng đi kèm. Chị nhớ nhắc bên phường thông báo loa phát thanh để bà con biết lịch mà ở nhà đón đoàn nhé.
+[10:12] Ok, việc đó chị sẽ làm việc với bên ủy ban ngay chiều nay. Hoa tổng hợp lại cho chị danh sách nhân sự tham gia đợt này để chị làm quyết định bồi dưỡng và phân ca trực cho hợp lý.
+[10:14] Dạ, em sẽ gửi chị bản danh sách trong vòng 30 phút nữa ạ.
+[10:16] Được rồi, vậy tinh thần là quyết tâm hoàn thành trong 2 ngày thứ Bảy và Chủ nhật nhé. Cảm ơn mọi người.
+[10:18] Chào chị, chúng em đi chuẩn bị ạ.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Triển khai chiến dịch tiêm chủng lưu động cho người cao tuổi tại địa phương.
+- Thống nhất phương án vận chuyển, bảo quản vaccine và nhân sự hỗ trợ.
+- Đảm bảo an toàn tiêm chủng đối với các đối tượng có nhiều bệnh nền.
+
+### 2. Các vấn đề đã thảo luận
+- Khó khăn trong việc di chuyển của người cao tuổi đến các điểm tiêm tập trung.
+- Sự hỗ trợ từ Đoàn thanh niên về phương tiện vận chuyển (xe máy, xe tải nhỏ).
+- Quy trình bảo quản vaccine nghiêm ngặt (nhiệt độ 2-8 độ C) bằng phích lạnh chuyên dụng.
+- Công tác khám sàng lọc kỹ lưỡng và chuẩn bị sẵn sàng bộ dụng cụ cấp cứu phản vệ.
+- Cần sự phối hợp của chính quyền địa phương trong việc truyền thông qua loa phát thanh.
+
+### 3. Kết luận và quyết định
+- Tổ chức tiêm chủng trong 2 ngày cuối tuần tại nhà văn hóa và tại nhà cho các trường hợp đặc biệt.
+- Phối hợp với Đoàn thanh niên để đưa đón người dân.
+- Bác sĩ chuyên trách trực tiếp thực hiện khám sàng lọc và giám sát an toàn tiêm chủng.
+- Hoàn thiện danh sách nhân sự và kế hoạch bồi dưỡng trong ngày hôm nay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ UBND phường để thông báo lịch tiêm trên loa | Trưởng trạm | 19/03/2026 |
+| Tổng hợp danh sách nhân sự và phân ca trực | Hoa | 18/03/2026 |
+| Kiểm tra lại thiết bị bảo quản và vật tư y tế mang theo | Hoa | 20/03/2026 |
+| Chuẩn bị danh sách bệnh nhân và hồ sơ tiêm chủng | Bác sĩ Minh | 19/03/2026 |
+| Thực hiện tiêm chủng lưu động và theo dõi sau tiêm | Đội tiêm chủng | 22/03/2026 |
