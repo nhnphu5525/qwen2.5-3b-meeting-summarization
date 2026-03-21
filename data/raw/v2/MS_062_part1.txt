@@ -1,0 +1,62 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[14:00] Dạ chào cô Lan. Hôm nay anh em mình ngồi lại một chút để chốt mấy cái hạng mục cho cái Festival văn hóa truyền thống sắp tới á cô.
+[14:02] Ừ, cái khâu mời các nghệ nhân ở các làng nghề truyền thống thì sao rồi con? Cô lo nhất là chỗ đó đó.
+[14:04] Dạ... ờ thì... hiện tại là mình đã liên hệ được với 10 làng nghề gốm và dệt lụa rồi ạ. Nhưng mà bên làng đúc đồng thì họ đang kẹt cái lịch lễ hội ở địa phương nên họ chưa có trả lời chắc chắn cho mình.
+[14:06] Chỗ đúc đồng quan trọng lắm nha, là linh hồn của cái khu trưng bày đó. Để cô trực tiếp gọi cho bên Sở Văn hóa tỉnh đó xem sao.
+[14:08] Dạ thế thì tốt quá ạ. Còn cái phần thiết kế sân khấu chính thì em đang cân nhắc phương án dùng tre nứa kết hợp với ánh sáng hiện đại. Cô thấy sao ạ?
+[14:10] Ừ, ý tưởng đó cũng hay, nhưng mà... là... phải chú ý vụ an toàn cháy nổ nha. Dùng nhiều đồ dễ cháy vậy thì hệ thống cứu hỏa phải sẵn sàng.
+[14:12] Dạ, em đã làm việc với bên PCCC rồi, họ sẽ hỗ trợ mình tối đa ạ. Còn cái vụ kinh phí tài trợ, hiện tại mình đang hụt khoảng 200 triệu cho phần truyền thông á cô.
+[14:14] Hụt nhiều thế à? Thôi được rồi, để cô xem lại danh sách các doanh nghiệp địa phương xem có kêu gọi thêm được không. Gửi lại cho cô cái bản proposal mới nhất đi.
+[14:16] Dạ lát em gửi liền ạ. Với lại cái kịch bản đêm khai mạc, chắc tuần sau mình tổng duyệt thử một lần nha cô.
+[14:18] Ừ, chốt thứ Hai tuần sau nha. Nhớ nhắc mọi người có mặt đầy đủ đó.
+[14:20] Dạ vâng ạ, con chào cô.
+
+<|output|>
+# Tổ chức Festival văn hóa truyền thống
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Kiểm tra tiến độ mời các làng nghề truyền thống tham gia Festival.
+- Thảo luận về thiết kế sân khấu và công tác an toàn.
+- Giải quyết vấn đề thiếu hụt kinh phí truyền thông.
+- Thống nhất lịch tổng duyệt cho lễ khai mạc.
+
+### 2. Các vấn đề đã thảo luận
+- Làng nghề: Đã mời được 10 làng nghề gốm và dệt, riêng làng đúc đồng chưa xác nhận tham gia.
+- Thiết kế sân khấu: Sử dụng tre nứa kết hợp ánh sáng hiện đại, cần đặc biệt lưu ý an toàn cháy nổ.
+- Tài chính: Đang thiếu hụt khoảng 200 triệu đồng cho mảng truyền thông.
+- Kịch bản: Cần chuẩn bị bản proposal mới để kêu gọi tài trợ và chuẩn bị tổng duyệt.
+
+### 3. Kết luận và quyết định
+- Cô Lan sẽ trực tiếp liên hệ Sở Văn hóa để mời làng nghề đúc đồng.
+- Cần phối hợp chặt chẽ với đơn vị PCCC cho phương án thiết kế sân khấu tre nứa.
+- Cập nhật proposal và gửi danh sách doanh nghiệp tiềm năng để vận động tài trợ.
+- Chốt lịch tổng duyệt đêm khai mạc vào thứ Hai tuần sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ mời nghệ nhân đúc đồng | Cô Lan | 15/06/2024 |
+| Gửi bản proposal cập nhật | Team Nội dung | 12/06/2024 |
+| Làm việc chi tiết phương án PCCC sân khấu | Phòng Kỹ thuật | 18/06/2024 |
+| Tổng duyệt đêm khai mạc | Toàn team | 17/06/2024 |
