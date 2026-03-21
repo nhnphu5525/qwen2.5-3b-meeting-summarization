@@ -24,3 +24,4 @@ wandb>=0.18.0
 sentencepiece>=0.2.0
 protobuf>=4.25.0
 scipy>=1.14.0
+matplotlib>=3.7.0

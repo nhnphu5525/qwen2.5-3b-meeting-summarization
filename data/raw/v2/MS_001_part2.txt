@@ -1,0 +1,54 @@
+<|input|>
+# Phân tích thị trường và kế hoạch ra mắt sản phẩm gia dụng thông minh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình thị trường và hành vi người tiêu dùng hiện tại.
+- Thống nhất chiến lược cạnh tranh về giá và giá trị gia tăng.
+
+### 2. Các vấn đề đã thảo luận
+- Sức mua phục hồi nhưng khách hàng khắt khe hơn về giá, quan tâm tới tính năng tiết kiệm điện và thiết kế.
+- Áp lực cạnh tranh từ Brand X với các chương trình giảm giá sâu (20%).
+- Quyết định không chạy đua giảm giá mà tập trung vào giá trị gia tăng (bảo hành, quà tặng kèm).
+
+### 3. Kết luận và quyết định
+- Tăng thời gian bảo hành lên 3 năm để tạo lợi thế cạnh tranh.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế gói bảo hành 3 năm và quà tặng kèm | Team Sản phẩm | 22/03 |
+[08:44] Về kênh phân phối, hiện tại hệ thống đại lý đang yêu cầu chiết khấu cao hơn để hỗ trợ trưng bày.
+[08:46] Chúng ta có thể cân nhắc hỗ trợ họ chi phí marketing tại điểm bán thay vì tăng chiết khấu trực tiếp.
+[08:48] Ngoài ra, cần đẩy mạnh cả kênh thương mại điện tử nữa, livestream đang là xu hướng rất tốt để giới thiệu tính năng sản phẩm.
+[08:50] Tôi muốn đội Marketing chuẩn bị kịch bản livestream chi tiết, tập trung vào việc giải quyết các nỗi lo của khách hàng về độ bền.
+
+<|output|>
+# Phân tích thị trường và kế hoạch ra mắt sản phẩm gia dụng thông minh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình thị trường và hành vi người tiêu dùng hiện tại.
+- Thống nhất chiến lược cạnh tranh về giá và giá trị gia tăng.
+
+### 2. Các vấn đề đã thảo luận
+- Sức mua phục hồi nhưng khách hàng khắt khe hơn về giá, quan tâm tới tính năng tiết kiệm điện và thiết kế.
+- Áp lực cạnh tranh từ Brand X với các chương trình giảm giá sâu (20%).
+- Quyết định không chạy đua giảm giá mà tập trung vào giá trị gia tăng (bảo hành, quà tặng kèm).
+- Đẩy mạnh kênh bán hàng qua livestream và hỗ trợ marketing tại điểm bán cho đại lý.
+
+### 3. Kết luận và quyết định
+- Tăng thời gian bảo hành lên 3 năm để tạo lợi thế cạnh tranh.
+- Tập trung ngân sách vào hỗ trợ điểm bán và marketing online (livestream).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xây dựng kịch bản livestream giới thiệu sản phẩm | Team Marketing | 25/03 |
+| Thiết kế gói bảo hành 3 năm và quà tặng kèm | Team Sản phẩm | 22/03 |
+| Gửi thông báo chính sách hỗ trợ cho các đại lý | Team Sales | 23/03 |
+| Chuẩn bị vật phẩm marketing (POSM) tại cửa hàng | Team Marketing | 05/04 |

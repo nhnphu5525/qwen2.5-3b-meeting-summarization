@@ -1,0 +1,49 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[08:30] Chào anh chị, sáng nay chúng ta ngồi lại để xem xét tình hình thị trường cho đợt ra mắt dòng sản phẩm gia dụng thông minh sắp tới.
+[08:32] Theo báo cáo mới nhất từ bộ phận nghiên cứu, sức mua của người tiêu dùng đang có dấu hiệu hồi phục nhưng họ lại khắt khe hơn về giá.
+[08:34] Đúng vậy, phân khúc khách hàng mục tiêu của mình là tầng lớp trung lưu, họ quan tâm nhiều đến tính năng tiết kiệm điện và thiết kế tối giản.
+[08:36] Tôi thấy các đối thủ cạnh tranh như Brand X đang đẩy mạnh khuyến mãi rất sâu, giảm tới 20% cho các gói combo.
+[08:38] Nếu mình cũng chạy đua giảm giá thì biên lợi nhuận sẽ mỏng lắm, không ổn đâu.
+[08:40] Thay vì giảm giá trực tiếp, mình nên tập trung vào giá trị gia tăng, ví dụ như tăng thời gian bảo hành lên 3 năm hoặc tặng kèm bộ lọc thay thế.
+[08:42] Ý tưởng hay đó, khách hàng sẽ cảm thấy an tâm hơn khi mua đồ công nghệ mới.
+
+<|output|>
+# Phân tích thị trường và kế hoạch ra mắt sản phẩm gia dụng thông minh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình thị trường và hành vi người tiêu dùng hiện tại.
+- Thống nhất chiến lược cạnh tranh về giá và giá trị gia tăng.
+
+### 2. Các vấn đề đã thảo luận
+- Sức mua phục hồi nhưng khách hàng khắt khe hơn về giá, quan tâm tới tính năng tiết kiệm điện và thiết kế.
+- Áp lực cạnh tranh từ Brand X với các chương trình giảm giá sâu (20%).
+- Quyết định không chạy đua giảm giá mà tập trung vào giá trị gia tăng (bảo hành, quà tặng kèm).
+
+### 3. Kết luận và quyết định
+- Tăng thời gian bảo hành lên 3 năm để tạo lợi thế cạnh tranh.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế gói bảo hành 3 năm và quà tặng kèm | Team Sản phẩm | 22/03 |
