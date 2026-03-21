@@ -1,0 +1,72 @@
+<|input|>
+[08:00] Chào anh chị em, ờ... hôm nay chúng ta họp bàn về cái sự kiện to nhất năm của trường mình: Ngày hội tuyển sinh Open Day 2025. 
+[08:02] Dạ thưa thầy Hiệu trưởng, bên phòng Tuyển sinh đã lên cái khung rồi ạ, nhưng mà thực sự là em đang lo cái vụ khách mời với lại số lượng đăng ký tham gia.
+[08:05] Ờ... lo là đúng thôi, năm ngoái mình đặt mục tiêu 2000 mà có 1200 mạng tới chứ mấy. Năm nay phải khác nhé.
+[08:08] Thưa sếp, em thấy vấn đề chính là ở khâu trải nghiệm. Năm ngoái mình chỉ có mấy cái gian tư vấn khô khan quá, học sinh nó tới nó lấy tờ rơi xong nó về luôn, không có đọng lại cái gì cả.
+[08:12] Thì đó, năm nay tôi muốn mỗi khoa phải có một cái "Trạm trải nghiệm" (Experience Station). Khoa Công nghệ thì cho tụi nhỏ lắp ráp robot hay là thử kính VR gì đó. Khoa Ngôn ngữ thì phải có góc "Coffee Talk" với người nước ngoài. Làm sao cho tụi nó cảm thấy cái không khí đại học nó hừng hực lên.
+[08:15] Dạ, cái này em thấy hợp lý ạ. Nhưng mà chi phí cho mấy cái thiết bị với thuê chuyên gia về hỗ trợ các trạm đó cũng bộn tiền đó thầy. Dự kiến ngân sách tăng thêm khoảng 30% so với năm ngoái.
+[08:18] Ờ... 30% à? Con số này hơi căng nha. Anh Nam bên Tài chính thấy sao? Có "bóp" chỗ nào khác để bù qua được không?
+[08:22] Thưa thầy, nếu mình cắt giảm phần in ấn tờ rơi – vốn dĩ bây giờ tụi nhỏ cũng ít đọc – mà chuyển sang QR code với lại làm Digital Brochure thì cũng tiết kiệm được một khoản. Với lại mình có thể mời mấy doanh nghiệp đối tác tài trợ gian hàng, mỗi ông góp một ít thì cũng đỡ.
+[08:25] Ý hay đấy. Marketing đâu? Khâu truyền thông trên mạng xã hội thế nào rồi? Đã chạy quảng cáo chưa?
+[08:28] Dạ, tụi em đang chạy teaser trên TikTok với Facebook rồi ạ. Lượt tiếp cận cũng ổn, nhưng mà tỉ lệ click vào form đăng ký (Conversion rate) vẫn chưa cao như kỳ vọng. Chắc là do cái content mình làm nó còn hơi "người lớn" quá, chưa chạm đúng cái gu của Gen Z.
+[08:32] Thì phải đổi thôi! Mời mấy bạn sinh viên khóa trên, mấy đứa KOL, KOC trong trường mình ấy, cho tụi nó làm video review, reaction. Chứ mấy ông thầy bà cô lên nói "Trường tôi tốt lắm" thì ai mà tin.
+[08:35] Dạ, em sẽ liên hệ ngay với mấy bạn bên CLB Truyền thông. À thưa thầy, còn cái vụ quà tặng lưu niệm (Merchandise). Năm nay mình vẫn tặng bút với sổ tay ạ?
+[08:38] Thôi bỏ đi! Sổ tay bút viết giờ lỗi thời rồi. Làm túi Tote hoặc là bình giữ nhiệt có in logo trường mình kiểu "Chất", "Ngầu" vào. Tụi nó xách đi chơi cũng là một cách quảng bá cho trường.
+[08:42] Về logistic, năm nay mình sẽ dùng app để check-in nhé. Không có chuyện cầm giấy bút ghi tên nữa đâu, vừa lâu vừa thiếu chuyên nghiệp. Bạn nào check-in xong là hệ thống tự động gửi email cảm ơn kèm cái bản đồ số của trường luôn.
+[08:45] Dạ, cái app này bên Khoa CNTT đang hoàn thiện rồi ạ, tuần sau là có bản Demo cho thầy xem. 
+[08:48] Ờ... còn cái vụ xe bus đưa đón học sinh từ các trường THPT tỉnh lẻ nữa. Mình đã liên hệ với các trường chưa?
+[08:52] Dạ, em đã gửi công văn cho 20 trường ở Long An, Đồng Nai, Bình Dương rồi ạ. 15 trường đã xác nhận sẽ đưa học sinh về tham quan. Mình cần chốt số lượng xe sớm để bên vận tải họ sắp xếp.
+[08:55] Chốt luôn trong tuần này nhé. Nam xem lại cái hợp đồng vận chuyển, đảm bảo xe phải mới, sạch sẽ, chứ xe cũ mèm, nóng nực thì chưa tới nơi tụi nhỏ đã muốn về rồi.
+[08:58] Vâng thưa thầy. À, còn khâu ăn uống giữa buổi cho các em nữa. Mình phát coupon hay là phát phần ăn sẵn ạ?
+[09:02] Phát coupon đi. Cho tụi nó tự chọn món ở canteen trường mình, cũng là một cách để tụi nó trải nghiệm "đời sống sinh viên" thực thụ. Mỗi coupon trị giá 50k là ổn.
+[09:05] Dạ, vậy tổng cộng mình dự kiến khoảng 2500 suất ăn thầy nhỉ?
+[09:08] Ờ... cứ chuẩn bị dự phòng lên 3000 đi cho chắc. Thừa còn hơn thiếu, đừng để tụi nhỏ đến chơi mà đói bụng là không được đâu.
+[09:12] Về khâu an ninh, bảo vệ phải hướng dẫn tận tình chỗ gửi xe, không được cau có với phụ huynh và học sinh. Cái ấn tượng đầu tiên khi bước chân vào cổng trường là cực kỳ quan trọng.
+[09:15] Vâng, em sẽ làm việc lại với đội bảo vệ và tình nguyện viên (Volunteer). Năm nay mình huy động khoảng 200 bạn sinh viên tình nguyện thầy ạ.
+[09:18] Tốt, tập huấn cho các bạn ấy kỹ vào. Phải thuộc lòng sơ đồ trường, các ngành học để ai hỏi gì cũng trả lời được ngay, chứ cứ "Em không biết" là "out" đấy nhé.
+[09:22] Dạ rõ ạ. À thầy ơi, chiều hôm đó mình có chương trình văn nghệ giao lưu không ạ?
+[09:25] Có chứ! Nhưng mà đừng có múa hát truyền thống nhiều quá. Cho mấy ban nhạc sinh viên lên "cháy" hết mình vào. Mời thêm một ca sĩ khách mời đang hot nữa để hút fan. 
+[09:28] Em đang nhắm mời bạn rapper mới nổi ở chương trình Rap Việt, được không thầy?
+[09:32] Ờ... rapper à? Cũng được, miễn là ca từ nó tử tế, phù hợp môi trường sư phạm là được. Check giá cat-se (booking fee) xem có nằm trong ngân sách không nhé.
+[09:35] Dạ để em check rồi báo lại thầy sau ạ. 
+[09:38] Chốt lại là: Tuần sau xem demo app, chốt danh sách xe bus, và duyệt kịch bản truyền thông mới. Mọi người rõ hết chưa?
+[09:42] Dạ rõ thưa thầy!
+[09:45] OK, giải tán. Chúc mọi người làm việc hiệu quả.
+
+<|output|>
+# Kế hoạch tổ chức Ngày hội tuyển sinh Open Day 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát công tác chuẩn bị cho sự kiện Open Day 2025 – sự kiện tuyển sinh lớn nhất trong năm.
+- Thống nhất các thay đổi mang tính đột phá về trải nghiệm người dùng để tăng hiệu quả thu hút học sinh và phụ huynh.
+- Giải quyết các vấn đề về ngân sách, truyền thông, logistic và nhân sự phục vụ sự kiện.
+
+### 2. Các vấn đề đã thảo luận
+- **Trải nghiệm thực tế:** Thay thế các gian tư vấn truyền thống bằng các "Trạm trải nghiệm" (Experience Station) tại mỗi khoa (Robot, VR, Coffee Talk...).
+- **Ngân sách:** Dự kiến tăng 30% cho thiết bị và chuyên gia; bù đắp bằng cách cắt giảm chi phí in ấn tờ rơi truyền thống và vận động tài trợ.
+- **Truyền thông:** Đổi mới nội dung theo hướng trẻ trung (Gen Z), sử dụng KOL/KOC là sinh viên, đẩy mạnh TikTok/Facebook video thay vì các bài đăng khô khan.
+- **Công nghệ & Logistic:** Sử dụng app check-in tự động, Digital Brochure; cung cấp xe bus đưa đón học sinh từ các tỉnh lân cận; sử dụng coupon ăn uống tại canteen trường.
+- **Quà tặng & Merchandise:** Thay đổi từ bút/sổ tay sang túi Tote và bình giữ nhiệt thiết kế trẻ trung.
+- **Nhân sự & An ninh:** Tập huấn cho 200 sinh viên tình nguyện và đội ngũ bảo vệ về thái độ phục vụ và kiến thức chuyên môn.
+- **Hoạt động ngoại khóa:** Tổ chức chương trình ca nhạc với sự tham gia của ban nhạc sinh viên và rapper khách mời.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương chuyển đổi sang hình thức ngày hội trải nghiệm thay vì tư vấn thuần túy.
+- Đồng ý phương án cắt giảm in ấn để tập trung ngân sách cho công nghệ và trải nghiệm.
+- Chốt số lượng dự phòng 3000 suất ăn cho khách tham quan.
+- Yêu cầu các bộ phận báo cáo demo app và kịch bản truyền thông chi tiết vào tuần tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện và chạy thử demo App check-in | Khoa CNTT | 15/03/2025 |
+| Liên hệ và chốt hợp đồng xe bus đưa đón học sinh tỉnh | Phòng Logistic | 12/03/2025 |
+| Lên kịch bản truyền thông TikTok với KOL sinh viên | Team Marketing | 14/03/2025 |
+| Thiết kế mẫu túi Tote và bình giữ nhiệt Merchandise | Team Design | 18/03/2025 |
+| Làm việc với các khoa về kịch bản Trạm trải nghiệm | Phòng Tuyển sinh | 20/03/2025 |
+| Check giá và liên hệ rapper khách mời | Phòng Văn thể mỹ | 16/03/2025 |
+| Lập danh sách và phân công tập huấn sinh viên tình nguyện | Đoàn Thanh niên | 22/03/2025 |
+| Gửi thư mời và hồ sơ tài trợ cho các đối tác doanh nghiệp | Phòng Đối ngoại | 13/03/2025 |

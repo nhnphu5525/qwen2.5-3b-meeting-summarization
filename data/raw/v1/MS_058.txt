@@ -1,0 +1,68 @@
+<|input|>
+[14:00] Chào team Sự kiện và các anh chị em đại diện các phòng ban. Hôm nay chúng ta họp bàn về giải chạy marathon truyền thống của tập đoàn: "VNG Corporate Run 2025". Mục tiêu năm nay là phải hoành tráng hơn và chuyên nghiệp hơn năm ngoái.
+[14:03] Dạ thưa sếp, em đã khảo sát địa điểm rồi ạ. Ờ... năm nay em đề xuất mình tổ chức tại khu vực Sala, Quận 2. Ở đó đường rộng, ít xe cộ và cảnh quan rất đẹp, phù hợp để làm truyền thông.
+[14:06] Sala thì đẹp, nhưng mà chi phí thuê mặt bằng và xin giấy phép tổ chức sự kiện thể thao ở đó không rẻ đâu. Ờ... Nam bên đối ngoại xem cái vụ giấy phép với Sở Văn hóa Thể thao tới đâu rồi?
+[14:09] Thưa sếp, em đã lên làm việc sơ bộ với Sở. Ờ... họ yêu cầu mình phải có phương án phân luồng giao thông và cam kết về y tế, vệ sinh môi trường cực kỳ chi tiết. Đặc biệt là phải có sự đồng ý của phía công ty Đại Quang Minh quản lý hạ tầng ở đó nữa ạ.
+[14:12] Ờ... giấy phép là ưu tiên số 1. Không có nó thì mọi kế hoạch đều là con số không. Vậy còn số lượng vận động viên (VĐV) dự kiến thì sao?
+[14:15] Dạ, năm ngoái mình có 1500 người. Năm nay em muốn đẩy lên 3000 người, bao gồm cả nhân viên tập đoàn, gia đình và các đối tác chiến lược. Ờ... mình sẽ chia làm 3 cự ly: 5km, 10km và 21km (Half Marathon).
+[14:18] Half Marathon à? Ờ... chạy 21km là phải có tập luyện chuyên nghiệp đấy nhé. Đừng để anh em nhân viên ham hố đăng ký rồi xảy ra sự cố sức khỏe trên đường chạy là tôi không gánh nổi đâu. 
+[14:21] Thưa anh, về vụ này thì tụi em đã tính rồi ạ. Ờ... mình sẽ có một chuỗi chương trình "Run with Leaders" – tập luyện hàng tuần trong vòng 3 tháng trước giải. Ờ... mình sẽ thuê HLV chuyên nghiệp về hướng dẫn kỹ thuật chạy và chế độ dinh dưỡng cho mọi người.
+[14:24] Ý tưởng "Run with Leaders" hay đấy. Ờ... các sếp cũng phải xỏ giày vào chạy thì nhân viên nó mới hưởng ứng. Vậy còn khâu y tế thì sao? 3000 người chạy dưới trời nắng Sài Gòn là không đùa được đâu.
+[14:27] Dạ, tụi em sẽ thuê 3 xe cấp cứu túc trực 24/24 và thiết lập 5 trạm y tế lưu động dọc đường chạy. Ờ... mỗi trạm đều có bác sĩ và đầy đủ nước uống, điện giải, chuối, muối... Ờ... em cũng đang đàm phán với bệnh viện Tâm Anh để họ tài trợ gói y tế này.
+[14:30] Ờ... nếu có bệnh viện tài trợ thì quá tốt. Còn khâu Race Kit thì sao? Áo chạy năm nay phải đẹp vào, vải phải xịn, chứ cái áo năm ngoái mặc nóng quá, anh em kêu trời.
+[14:33] Thưa sếp, năm nay tụi em đặt hàng bên Singlet chuyên nghiệp, vải mè 4 chiều cực thoáng. Ờ... mỗi Race Kit sẽ bao gồm: Áo, BIB (có gắn chip timing), túi rút và một cái huy chương (Medal) thiết kế riêng cực kỳ "ngầu" cho những ai hoàn thành cuộc đua (Finisher).
+[14:36] BIB phải có gắn chip để tính thành tích chính xác nhé. Không có chuyện chạy tắt hay gian lận được đâu. Ờ... kết quả phải được cập nhật Real-time lên website để mọi người tra cứu ngay sau khi về đích.
+[14:39] Dạ, bên đối tác cung cấp giải pháp Timing đã cam kết việc này rồi ạ. Ờ... họ cũng sẽ có hệ thống camera tại vạch đích để chụp ảnh Finisher tự động gửi về điện thoại cho từng VĐV.
+[14:42] Ờ... dịch vụ đó hay đấy, Gen Z nó thích cái vụ ảnh ọt này lắm. Vậy còn kinh phí? 3000 người mà làm bài bản vậy thì ngân sách chắc phải tầm 2-3 tỷ?
+[14:45] Dạ, dự toán là 2.5 tỷ sếp ạ. Ờ... nhưng tụi em dự kiến sẽ thu phí đăng ký đối với người nhà và đối tác (khoảng 300k/người). Còn nhân viên thì được free 100%. Cộng thêm tiền tài trợ từ các Brand đối tác (như nước suối, thực phẩm chức năng, giày chạy...) thì mình chỉ phải bỏ ra khoảng 1.2 tỷ thôi ạ.
+[14:48] 1.2 tỷ cho một sự kiện Team Building quy mô lớn như vậy là duyệt được. Ờ... Marketing lên kế hoạch truyền thông tích hợp đi. Phải tạo được cái trend "Sống khỏe cùng VNG" trên mạng xã hội.
+[14:51] Dạ, em sẽ mời một vài người nổi tiếng (Influencer) trong cộng đồng chạy bộ tham gia để lấy hình ảnh. Ờ... đồng thời mình sẽ làm các clip ngắn hướng dẫn chạy bộ đúng cách để đăng TikTok hàng ngày.
+[14:54] Thưa sếp, em muốn hỏi về vụ giải thưởng. Ờ... mình nên thưởng tiền mặt hay thưởng bằng hiện vật/chuyến du lịch ạ?
+[14:57] Thưởng hiện vật giá trị và cúp kỷ niệm đi. Ví dụ giải nhất 21km là một cái đồng hồ Garmin đời mới nhất chẳng hạn. Ờ... tiền mặt thì nó tiêu vèo cái là hết, chứ cái đồng hồ hay cái cúp thì nó còn lưu giữ làm kỷ niệm lâu dài được.
+[15:00] Dạ, ý kiến sếp rất hay ạ. Em sẽ lên danh sách giải thưởng chi tiết cho từng hạng mục. Ờ... mình cũng nên có giải cho người cao tuổi nhất hoàn thành chặng đua và giải cho bộ phận có tỉ lệ nhân viên tham gia đông nhất nữa sếp nhỉ?
+[15:03] Ờ... đúng rồi, giải khuyến khích phong trào là cực kỳ quan trọng. 
+[15:06] Chốt lại nhé: 1. Địa điểm Sala (nhanh chóng chốt giấy phép); 2. Triển khai tập luyện Run with Leaders; 3. Chốt gói tài trợ y tế và Race Kit; 4. Lên kịch bản truyền thông và giải thưởng.
+[15:09] Nam báo cáo tiến độ xin phép cho tôi vào thứ 4 tuần sau nhé. Không có giấy phép là tôi "trảm" đấy. 
+[15:12] Dạ, em hứa sẽ hoàn thành đúng hạn ạ. 
+[15:15] OK, giải tán. Anh em về chuẩn bị mua giày chạy dần đi là vừa nhé! 
+[15:18] Dạ sếp! (Cả phòng cười).
+
+<|output|>
+# Kế hoạch tổ chức giải chạy marathon doanh nghiệp "VNG Corporate Run 2025"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất quy mô, địa điểm và các hạng mục triển khai cho giải chạy marathon thường niên của tập đoàn.
+- Đảm bảo an toàn sức khỏe cho người tham gia và nâng cao tính chuyên nghiệp trong khâu tổ chức (Timing, Race Kit, Y tế).
+- Xây dựng chiến lược truyền thông và huy động nguồn vốn tài trợ để tối ưu hóa ngân sách.
+
+### 2. Các vấn đề đã thảo luận
+- **Địa điểm & Pháp lý:** Đề xuất khu vực Sala (Quận 2) vì không gian rộng và cảnh quan đẹp; yêu cầu phòng Đối ngoại khẩn trương hoàn thiện giấy phép với Sở VH-TT và đơn vị quản lý hạ tầng.
+- **Quy mô & Cự ly:** Dự kiến 3000 người tham gia (tăng gấp đôi năm ngoái) với 3 cự ly: 5km, 10km và 21km.
+- **Chương trình huấn luyện:** Triển khai chuỗi "Run with Leaders" trong 3 tháng để tập huấn kỹ thuật và đảm bảo thể lực cho nhân viên, đặc biệt là cự ly 21km.
+- **Kỹ thuật & Trải nghiệm:** Sử dụng chip timing để tính thành tích chính xác; hệ thống ảnh Finisher tự động; Race Kit chất lượng cao (áo Singlet chuyên nghiệp, huy chương thiết kế riêng).
+- **Y tế & An toàn:** Thiết lập trạm y tế lưu động và xe cấp cứu túc trực; phối hợp tài trợ y tế với bệnh viện chuyên khoa.
+- **Tài chính:** Dự toán ngân sách 2.5 tỷ đồng; mục tiêu huy động tài trợ và thu phí người ngoài để giảm chi phí thực tế của tập đoàn xuống còn 1.2 tỷ đồng.
+- **Giải thưởng:** Tập trung vào hiện vật giá trị (đồng hồ thể thao, cúp) và các giải thưởng phong trào để khích lệ tinh thần.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương tổ chức tại Sala và kế hoạch huấn luyện Run with Leaders.
+- Đồng ý phương án thu phí đăng ký đối với đối tác và người thân để tái đầu tư vào chất lượng giải.
+- Giao bộ phận Marketing và Sự kiện làm việc với các đơn vị cung cấp Timing và Race Kit.
+- Yêu cầu báo cáo tiến độ pháp lý vào giữa tuần sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nộp hồ sơ xin phép tổ chức lên Sở VH-TT TP.HCM | Nam (Đối ngoại) | 12/03/2025 |
+| Khảo sát và ký hợp đồng thuê địa điểm tại khu Sala | Team Sự kiện | 15/03/2025 |
+| Liên hệ bệnh viện Tâm Anh về gói tài trợ y tế | Phòng Hành chính | 20/03/2025 |
+| Thiết kế mẫu áo chạy và huy chương Finisher | Team Design | 18/03/2025 |
+| Thuê HLV và lên lịch tập luyện "Run with Leaders" | Công đoàn | 10/03/2025 |
+| Xây dựng website đăng ký và tích hợp cổng thanh toán | Phòng IT | 25/03/2025 |
+| Soạn hồ sơ mời tài trợ gửi các đối tác | Team Marketing | 14/03/2025 |
+| Lựa chọn đơn vị cung cấp giải pháp Timing & Photo | Team Sự kiện | 22/03/2025 |
+| Lên danh sách và mua sắm hiện vật giải thưởng | Phòng Vật tư | 05/04/2025 |
+| Phân luồng giao thông và phương án bảo vệ đường chạy | Team An ninh | 10/04/2025 |

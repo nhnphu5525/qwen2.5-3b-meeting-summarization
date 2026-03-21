@@ -1,0 +1,48 @@
+<|input|>
+[10:00] Chào team Design, hôm nay mình cùng xem qua 3 cái concept nhận diện thương hiệu mới mà các bạn vừa gửi nhé. 
+[10:02] Dạ sếp, tụi em đã nghiên cứu kỹ về giá trị cốt lõi của công ty mình là sự bền vững và hiện đại. 
+[10:04] Ờ... cái concept số 1 này, cái logo hình khối trông hơi cứng quá nhỉ? 
+[10:06] Em thấy cái màu xanh dương này nó hơi cũ, không có cảm giác trẻ trung lắm. 
+[10:08] Thì tụi em có cái concept số 2, dùng màu xanh ngọc kết hợp với xám bạc, logo cách điệu hình mầm cây nhưng tối giản. 
+[10:10] Dạ, concept này em thấy ổn hơn, nhìn thanh thoát mà vẫn ra được cái chất xanh bền vững. 
+[10:12] Ờ... còn cái font chữ thì sao? Cái font này nhìn có vẻ hơi khó đọc trên mấy cái ấn phẩm nhỏ. 
+[10:14] Thì tụi em sẽ điều chỉnh lại khoảng cách giữa các chữ cái cho nó thoáng hơn sếp ạ. 
+[10:16] Với lại mình cần tính đến việc in ấn trên nhiều chất liệu khác nhau nữa, từ giấy cho đến áo thun, mũ bảo hiểm. 
+[10:18] Dạ, tụi em đã làm mock-up sẵn cho concept số 2 trên mấy cái đồ dùng văn phòng rồi, lát em gửi sếp coi qua luôn. 
+[10:20] Ok, tôi thấy concept số 2 là tiềm năng nhất. Các bạn tập trung hoàn thiện chi tiết cái này nhé. 
+[10:22] Ờ... nhớ làm thêm cái bộ brand guidelines (cẩm nang thương hiệu) nữa, chứ không mỗi nơi dùng một kiểu là hỏng bét. 
+[10:24] Dạ vâng, sau khi sếp chốt logo cuối cùng, em sẽ bắt tay vào làm cái brand guidelines ngay ạ. 
+[10:26] Khoảng bao lâu thì xong được cái bộ hướng dẫn đó? 
+[10:28] Dạ chắc khoảng 1 tuần sếp ạ, vì nó có nhiều mục chi tiết lắm, từ bảng màu đến tỉ lệ logo. 
+[10:30] Ok, cố gắng làm cho chuyên nghiệp nhé, đợt này mình thay đổi toàn diện đấy. 
+
+<|output|>
+# Duyệt concept nhận diện thương hiệu mới
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá các phương án thiết kế nhận diện thương hiệu mới và lựa chọn concept phù hợp nhất.
+- Thống nhất các điều chỉnh về màu sắc, font chữ và tính ứng dụng của logo.
+- Xác định lộ trình hoàn thiện bộ cẩm nang thương hiệu (Brand Guidelines).
+
+### 2. Các vấn đề đã thảo luận
+- Concept 1 bị đánh giá là cứng và màu sắc không còn phù hợp với định hướng trẻ trung hiện nay.
+- Concept 2 với tông màu xanh ngọc và thiết kế tối giản nhận được sự đồng thuận cao.
+- Sự cần thiết phải điều chỉnh font chữ để đảm bảo khả năng hiển thị rõ nét trên các ấn phẩm kích thước nhỏ.
+- Tính ứng dụng của bộ nhận diện trên đa dạng chất liệu (giấy, vải, vật dụng văn phòng).
+- Vai trò quan trọng của Brand Guidelines trong việc duy trì tính nhất quán của thương hiệu.
+
+### 3. Kết luận và quyết định
+- Phê duyệt Concept 2 là định hướng thiết kế chính cho bộ nhận diện thương hiệu mới.
+- Yêu cầu team Design hoàn thiện các tiểu tiết về logo và font chữ theo góp ý.
+- Bắt đầu xây dựng bộ Brand Guidelines ngay sau khi logo cuối cùng được phê duyệt.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Chỉnh sửa chi tiết logo Concept 2 và font chữ | Team Design | 19/10/2023 |
+| Gửi bản mock-up hoàn thiện trên các vật dụng thực tế | Bạn Minh (Designer) | 21/10/2023 |
+| Soạn thảo nội dung bộ Brand Guidelines | Trưởng nhóm Design | 28/10/2023 |
+| Chuẩn bị bài thuyết trình chốt phương án với Ban giám đốc | Team Marketing | 30/10/2023 |

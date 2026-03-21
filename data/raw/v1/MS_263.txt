@@ -1,0 +1,49 @@
+<|input|>
+[14:00] Chào anh Quang, chị Mai và đại diện các phòng ban. Hôm nay chúng ta họp để chốt ngân sách hoạt động cho năm tài chính 2025. Như mọi người đã biết, mục tiêu chiến lược năm tới của tập đoàn là mở rộng thị phần ra khu vực Đông Nam Á, do đó việc phân bổ nguồn vốn cần cực kỳ tập trung và hiệu quả. Chị Mai, chị có thể tóm tắt các đề xuất ngân sách từ các bộ phận không?
+[14:05] Chào anh Sơn, chào mọi người. Tôi là Mai, Trưởng phòng Tài chính. Tổng hợp từ các bộ phận, tổng nhu cầu vốn đang vượt 20% so với hạn mức dự kiến của Ban quản trị. Đặc biệt là bộ phận Marketing đề xuất tăng ngân sách lên gấp đôi để thực hiện các chiến dịch branding tại Thái Lan và Indonesia. Bộ phận R&D cũng xin thêm kinh phí để phát triển dòng sản phẩm mới thích nghi với thị trường nước ngoài.
+[14:10] Chào chị Mai, tôi là Quang bên bộ phận Marketing. Việc tăng ngân sách là bắt buộc nếu chúng ta muốn "đánh" vào các thị trường mới. Chi phí quảng cáo trên các nền tảng số tại Thái Lan cao hơn Việt Nam khoảng 40%. Nếu chúng ta giữ nguyên ngân sách cũ, thông điệp của chúng ta sẽ bị chìm nghỉm giữa các đối thủ nội địa. Chúng tôi cam kết mức tăng trưởng doanh thu từ thị trường ngoại sẽ bù đắp lại khoản đầu tư này sau 18 tháng.
+[14:15] Chào anh Quang, tôi là Bình bên bộ phận Sản xuất. Tôi hiểu áp lực của Marketing, nhưng nếu anh đẩy mạnh bán hàng mà bộ phận Sản xuất không được đầu tư nâng cấp dây chuyền để đáp ứng các tiêu chuẩn chất lượng quốc tế, chúng ta sẽ tự đánh mất uy tín. Tôi đề xuất cắt giảm một phần ngân sách event của Marketing để dồn cho việc mua sắm máy kiểm định tự động.
+[14:20] Chào anh Bình, anh Quang. Tôi là Lan bên bộ phận Nhân sự. Để mở rộng ra nước ngoài, chúng ta cần tuyển dụng các chuyên gia bản địa và đào tạo nhân sự nòng cốt về ngôn ngữ, văn hóa. Ngân sách đào tạo hiện đang bị cắt giảm mạnh trong bản dự thảo của chị Mai. Tôi đề nghị phải giữ lại ít nhất 80% ngân sách này để đảm bảo chúng ta có đủ người làm việc tại các chi nhánh mới.
+[14:25] Chào các anh chị, tôi là Sơn. Nghe qua thì bộ phận nào cũng có lý do chính đáng. Tuy nhiên, chúng ta không thể "vung tay quá trán". Chị Mai, nếu chúng ta sử dụng đòn bẩy tài chính từ các khoản vay ngân hàng, chi phí lãi vay năm tới sẽ ảnh hưởng thế nào đến lợi nhuận ròng? Chào anh Sơn, với lãi suất hiện tại, nếu vay thêm 500 tỷ, lợi nhuận ròng của chúng ta sẽ giảm khoảng 15%. Đây là mức rủi ro khá cao trong bối cảnh kinh tế toàn cầu vẫn chưa ổn định.
+[14:30] Chào mọi người, tôi là Tú bên bộ phận Pháp chế. Tôi muốn nhắc là chúng ta cần dành riêng một khoản "ngân sách dự phòng pháp lý" khi sang thị trường mới. Các vấn đề về đăng ký nhãn hiệu, giấy phép kinh doanh và thuế tại nước sở tại thường phát sinh nhiều chi phí ngoài dự kiến. Đừng để đến lúc gặp rắc rối mới đi tìm tiền.
+[14:35] Ý kiến của Tú rất sắc sảo. Chào chị Mai, chị giúp tôi rà soát lại các khoản chi phí quản lý hành chính tại trụ sở chính. Tôi thấy có nhiều khoản như văn phòng phẩm, điện nước, tiếp khách đang tăng đều hàng năm mà không rõ lý do. Chúng ta cần thực hiện chính sách "thắt lưng buộc bụng" ngay tại nhà để dồn tiền cho "tiền tuyến".
+[14:40] Vâng anh Sơn, tôi sẽ yêu cầu các phòng ban giải trình chi tiết và cắt giảm 10% chi phí hành chính không thiết yếu. Chào anh Quang, anh có thể cân nhắc chuyển một phần ngân sách quảng cáo truyền thống sang các kênh KOC/KOL để tiết kiệm chi phí mà vẫn đảm bảo hiệu quả không? Chào chị Mai, chúng tôi cũng đã tính đến phương án đó, nhưng vẫn cần một khoản ngân sách cố định cho các kênh chính thống để giữ hình ảnh thương hiệu.
+[14:45] Vậy chúng ta thống nhất: Chị Mai phối hợp với anh Quang và anh Bình để cân đối lại dòng tiền, ưu tiên Sản xuất và Marketing theo tỷ lệ 40:60 cho phần ngân sách tăng thêm. Giữ nguyên ngân sách đào tạo của chị Lan nhưng yêu cầu tối ưu hóa hình thức học online để giảm chi phí đi lại. Anh Tú chuẩn bị dự toán chi tiết cho phần pháp lý ngoại.
+[14:50] Chào anh Sơn, tôi đề xuất chúng ta sẽ họp lại vào thứ Sáu tới để ký duyệt bản ngân sách cuối cùng. Mọi người đồng ý chứ? Tất cả đồng ý. Chào mọi người, chúc mọi người một ngày làm việc hiệu quả và chuẩn bị số liệu thật kỹ.
+[14:55] Cảm ơn sự đóng góp của tất cả mọi người. Buổi họp kết thúc.
+
+<|output|>
+# Chốt Ngân sách hoạt động năm tài chính 2025
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và phê duyệt ngân sách hoạt động năm 2025 của các bộ phận.
+- Ưu tiên phân bổ nguồn lực cho chiến lược mở rộng thị trường sang Đông Nam Á.
+- Cân đối giữa nhu cầu đầu tư và khả năng chịu đựng rủi ro tài chính của tập đoàn.
+
+### 2. Các vấn đề đã thảo luận
+- Tổng mức đầu tư: Đề xuất hiện tại vượt 20% hạn mức; áp lực từ Marketing (quảng cáo nước ngoài) và R&D.
+- Sản xuất: Cần nâng cấp dây chuyền để đạt tiêu chuẩn quốc tế, tránh rủi ro về chất lượng sản phẩm.
+- Nhân sự: Đảm bảo ngân sách đào tạo văn hóa, ngôn ngữ và tuyển dụng nhân sự bản địa cho các chi nhánh mới.
+- Tài chính: Rủi ro khi sử dụng đòn bẩy tài chính quá lớn (lãi vay ảnh hưởng đến lợi nhuận ròng).
+- Pháp lý: Cần dự phòng chi phí cho việc đăng ký nhãn hiệu và tuân thủ quy định tại Thái Lan, Indonesia.
+- Quản trị nội bộ: Thực hiện chính sách thắt chặt chi phí hành chính tại trụ sở chính (giảm 10%).
+
+### 3. Kết luận và quyết định
+- Phân bổ ngân sách tăng thêm theo tỷ lệ 40% cho Sản xuất và 60% cho Marketing.
+- Cắt giảm 10% chi phí quản lý hành chính tại tất cả các phòng ban trụ sở.
+- Giữ nguyên ngân sách đào tạo nhân sự nhưng chuyển dịch sang hình thức đào tạo trực tuyến để tiết kiệm chi phí.
+- Marketing chuyển hướng từ quảng cáo truyền thống sang KOC/KOL để tối ưu hóa ROI.
+- Lập khoản dự phòng pháp lý riêng cho thị trường nước ngoài.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cân đối lại dòng tiền Marketing và Sản xuất | Chị Mai (Tài chính) | 28/03/2025 |
+| Lập danh sách cắt giảm chi phí hành chính 10% | Đại diện các phòng ban | 26/03/2025 |
+| Xây dựng kế hoạch đào tạo trực tuyến cho nhân sự | Chị Lan (HR) | 02/04/2025 |
+| Dự toán chi phí pháp lý tại Thái Lan & Indonesia | Anh Tú (Pháp chế) | 30/03/2025 |
+| Điều chỉnh kế hoạch Marketing sang kênh KOC/KOL | Anh Quang (Marketing) | 05/04/2025 |
+| Hoàn thiện bản ngân sách cuối cùng trình ký | Chị Mai (Tài chính) | 27/03/2025 |

@@ -1,0 +1,175 @@
+<|input|>
+[09:00] Dạ Thôi được rồi, vậy thống nhất là triển khai chuyển đổi số theo hướng đó.
+[09:01] Vụ lãi suất tiền gửi thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:04] Ai sẽ chịu trách nhiệm chính cho mảng tín dụng nhỉ?
+[09:03] Tóm lại Để tôi check lại lịch của bên thẻ tín dụng xem họ rảnh khi nào.
+[09:04] Cái bảo hiểm này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:05] Cần phải làm rõ hơn về thẻ tín dụng trong hợp đồng mới.
+[09:06] Thôi được rồi, vậy thống nhất là triển khai nợ xấu theo hướng đó.
+[09:07] Dạ Đúng rồi, cái lãi suất tiền gửi cần được ưu tiên xử lý trước thứ Sáu này.
+[09:08] Cảm ơn mọi người, cuộc họp về Ngân hàng tạm dừng tại đây.
+[09:18] Thực ra Đúng rồi, cái thẻ tín dụng cần được ưu tiên xử lý trước thứ Sáu này.
+[09:20] Tóm lại Mọi người nghe rõ không? Về cái chuyển đổi số này tôi thấy có vẻ hơi vướng.
+[09:22] Hay là mình thử thay đổi cách tiếp cận với nợ xấu xem sao?
+[09:24] Thôi được rồi, vậy thống nhất là triển khai lãi suất tiền gửi theo hướng đó.
+[09:13] Bên đối tác họ cứ hỏi mãi về nợ xấu, mình phải trả lời sao đây?
+[09:28] Tóm lại Mọi người có ý kiến gì thêm về nợ xấu không?
+[09:15] Mọi người nghe rõ không? Về cái lãi suất tiền gửi này tôi thấy có vẻ hơi vướng.
+[09:32] Ờm Thế thì mình chốt phương án cho tín dụng luôn đi, đừng kéo dài nữa.
+[09:17] Dạ Mọi người nghe rõ không? Về cái tín dụng này tôi thấy có vẻ hơi vướng.
+[09:18] Ai sẽ chịu trách nhiệm chính cho mảng huy động vốn nhỉ?
+[09:38] Mọi người có ý kiến gì thêm về chuyển đổi số không?
+[09:20] Nói chung là Tôi lo nhất là cái chuyển đổi số, tiến độ đang bị khựng lại.
+[09:21] Hình như Về phần ngân sách cho chuyển đổi số, sếp đã duyệt chưa nhỉ?
+[09:44] Để tôi check lại lịch của bên lãi suất tiền gửi xem họ rảnh khi nào.
+[09:46] Ai sẽ chịu trách nhiệm chính cho mảng tín dụng nhỉ?
+[09:24] Thực ra Thế thì mình chốt phương án cho lãi suất tiền gửi luôn đi, đừng kéo dài nữa.
+[09:50] Hình như Mọi người nghe rõ không? Về cái lãi suất tiền gửi này tôi thấy có vẻ hơi vướng.
+[09:26] Dạ Cái thẻ tín dụng này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:27] Cần phải làm rõ hơn về chuyển đổi số trong hợp đồng mới.
+[09:56] Hay là mình thử thay đổi cách tiếp cận với thẻ tín dụng xem sao?
+[09:29] Vấn đề thẻ tín dụng thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:30] Ai sẽ chịu trách nhiệm chính cho mảng huy động vốn nhỉ?
+[10:02] Cần phải làm rõ hơn về chuyển đổi số trong hợp đồng mới.
+[09:32] Nói chung là Tôi thấy nợ xấu hiện tại là cơ hội tốt để mình bứt phá.
+[09:33] Đừng quên vụ nợ xấu cũng quan trọng không kém nhé.
+[10:08] Ờm Ai sẽ chịu trách nhiệm chính cho mảng tín dụng nhỉ?
+[10:10] Ai sẽ chịu trách nhiệm chính cho mảng bảo hiểm nhỉ?
+[10:12] Vâng Tôi lo nhất là cái tín dụng, tiến độ đang bị khựng lại.
+[09:37] Mọi người nghe rõ không? Về cái bảo hiểm này tôi thấy có vẻ hơi vướng.
+[10:16] Dạ Thế thì mình chốt phương án cho bảo hiểm luôn đi, đừng kéo dài nữa.
+[09:39] Tôi lo nhất là cái chuyển đổi số, tiến độ đang bị khựng lại.
+[09:40] Ai sẽ chịu trách nhiệm chính cho mảng huy động vốn nhỉ?
+[09:41] Bên đối tác họ cứ hỏi mãi về huy động vốn, mình phải trả lời sao đây?
+[09:42] Thì đấy Tôi thấy lãi suất tiền gửi hiện tại là cơ hội tốt để mình bứt phá.
+[09:43] Thì Thôi được rồi, vậy thống nhất là triển khai bảo hiểm theo hướng đó.
+[10:28] Về dài hạn thì lãi suất tiền gửi sẽ là trọng tâm của năm nay.
+[10:30] Vấn đề bảo hiểm thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:46] Tôi lo nhất là cái lãi suất tiền gửi, tiến độ đang bị khựng lại.
+[09:47] Ai sẽ chịu trách nhiệm chính cho mảng nợ xấu nhỉ?
+[09:48] Thì đấy Vụ nợ xấu thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:49] Cái tín dụng này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:50] Cần phải làm rõ hơn về nợ xấu trong hợp đồng mới.
+[10:42] Thì đấy Cảm ơn mọi người, cuộc họp về Ngân hàng tạm dừng tại đây.
+[10:44] Hình như Tôi thấy huy động vốn hiện tại là cơ hội tốt để mình bứt phá.
+[10:46] Cái lãi suất tiền gửi này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[10:48] Thì đấy Đừng quên vụ huy động vốn cũng quan trọng không kém nhé.
+[09:55] À Cần phải làm rõ hơn về bảo hiểm trong hợp đồng mới.
+[10:52] Cái thẻ tín dụng này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[09:57] Chắc là Về phần ngân sách cho huy động vốn, sếp đã duyệt chưa nhỉ?
+[09:58] Vâng Bên đối tác họ cứ hỏi mãi về nợ xấu, mình phải trả lời sao đây?
+[09:59] Đúng rồi, cái thẻ tín dụng cần được ưu tiên xử lý trước thứ Sáu này.
+[10:00] Hình như Bên đối tác họ cứ hỏi mãi về huy động vốn, mình phải trả lời sao đây?
+[10:01] Cái huy động vốn này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[11:04] Ai sẽ chịu trách nhiệm chính cho mảng tín dụng nhỉ?
+[10:03] Về dài hạn thì huy động vốn sẽ là trọng tâm của năm nay.
+[11:08] Thế thì mình chốt phương án cho chuyển đổi số luôn đi, đừng kéo dài nữa.
+[11:10] Nói chung là Tôi thấy nợ xấu hiện tại là cơ hội tốt để mình bứt phá.
+[11:12] Cái nợ xấu này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[11:14] Vụ chuyển đổi số thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[10:08] Thì Đừng quên vụ tín dụng cũng quan trọng không kém nhé.
+[10:09] Cần phải làm rõ hơn về nợ xấu trong hợp đồng mới.
+[10:10] Cảm ơn mọi người, cuộc họp về Ngân hàng tạm dừng tại đây.
+[10:11] Đúng rồi, cái chuyển đổi số cần được ưu tiên xử lý trước thứ Sáu này.
+[11:24] Tôi sẽ phụ trách kiểm tra lại huy động vốn rồi báo lại cả team vào chiều mai.
+[11:26] Thôi được rồi, vậy thống nhất là triển khai tín dụng theo hướng đó.
+[11:28] Hình như Thôi được rồi, vậy thống nhất là triển khai huy động vốn theo hướng đó.
+[10:15] Nói chung là Cần phải làm rõ hơn về tín dụng trong hợp đồng mới.
+[11:32] Dạ Tôi sẽ phụ trách kiểm tra lại bảo hiểm rồi báo lại cả team vào chiều mai.
+[11:34] À Ai sẽ chịu trách nhiệm chính cho mảng huy động vốn nhỉ?
+[10:18] Đừng quên vụ lãi suất tiền gửi cũng quan trọng không kém nhé.
+[10:19] Tôi thấy bảo hiểm hiện tại là cơ hội tốt để mình bứt phá.
+[11:40] Tóm lại Ai sẽ chịu trách nhiệm chính cho mảng tín dụng nhỉ?
+[11:42] Tôi sẽ phụ trách kiểm tra lại tín dụng rồi báo lại cả team vào chiều mai.
+[10:22] Thì Cần phải làm rõ hơn về chuyển đổi số trong hợp đồng mới.
+[10:23] Tóm lại Đúng rồi, cái tín dụng cần được ưu tiên xử lý trước thứ Sáu này.
+[11:48] Vâng Thôi được rồi, vậy thống nhất là triển khai lãi suất tiền gửi theo hướng đó.
+[11:50] Về dài hạn thì thẻ tín dụng sẽ là trọng tâm của năm nay.
+[11:52] Hay là mình thử thay đổi cách tiếp cận với huy động vốn xem sao?
+[10:27] Thôi được rồi, vậy thống nhất là triển khai lãi suất tiền gửi theo hướng đó.
+[11:56] Tôi thấy tín dụng hiện tại là cơ hội tốt để mình bứt phá.
+[10:29] Đúng rồi, cái tín dụng cần được ưu tiên xử lý trước thứ Sáu này.
+[12:00] Vụ lãi suất tiền gửi thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[12:02] Hình như Vụ thẻ tín dụng thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[10:32] Về dài hạn thì lãi suất tiền gửi sẽ là trọng tâm của năm nay.
+[12:06] Dạ Bên đối tác họ cứ hỏi mãi về nợ xấu, mình phải trả lời sao đây?
+[10:34] Thì đấy Đừng quên vụ thẻ tín dụng cũng quan trọng không kém nhé.
+[12:10] Hay là mình thử thay đổi cách tiếp cận với thẻ tín dụng xem sao?
+[12:12] Thực ra Đừng quên vụ nợ xấu cũng quan trọng không kém nhé.
+[12:14] Chắc là Tôi sẽ phụ trách kiểm tra lại nợ xấu rồi báo lại cả team vào chiều mai.
+[10:38] Về phần ngân sách cho bảo hiểm, sếp đã duyệt chưa nhỉ?
+[10:39] Ờm Để tôi check lại lịch của bên chuyển đổi số xem họ rảnh khi nào.
+[12:20] Vụ lãi suất tiền gửi thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[12:22] Thì Đúng rồi, cái tín dụng cần được ưu tiên xử lý trước thứ Sáu này.
+[10:42] Dạ Về dài hạn thì tín dụng sẽ là trọng tâm của năm nay.
+[10:43] Thì Về dài hạn thì tín dụng sẽ là trọng tâm của năm nay.
+[10:44] À Về dài hạn thì chuyển đổi số sẽ là trọng tâm của năm nay.
+[12:30] Hình như Thế thì mình chốt phương án cho chuyển đổi số luôn đi, đừng kéo dài nữa.
+[10:46] Chắc là Ai sẽ chịu trách nhiệm chính cho mảng chuyển đổi số nhỉ?
+[10:47] Mọi người có ý kiến gì thêm về tín dụng không?
+[10:48] Vụ nợ xấu thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[10:49] Vấn đề thẻ tín dụng thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[10:50] Đúng rồi, cái tín dụng cần được ưu tiên xử lý trước thứ Sáu này.
+[12:42] Tôi thấy nợ xấu hiện tại là cơ hội tốt để mình bứt phá.
+[12:44] À Đúng rồi, cái nợ xấu cần được ưu tiên xử lý trước thứ Sáu này.
+[12:46] Dạ Đúng rồi, cái chuyển đổi số cần được ưu tiên xử lý trước thứ Sáu này.
+[12:48] Cảm ơn mọi người, cuộc họp về Ngân hàng tạm dừng tại đây.
+[12:50] Để tôi check lại lịch của bên tín dụng xem họ rảnh khi nào.
+[12:52] Đừng quên vụ lãi suất tiền gửi cũng quan trọng không kém nhé.
+[10:57] Dạ Cần phải làm rõ hơn về lãi suất tiền gửi trong hợp đồng mới.
+[12:56] À Hay là mình thử thay đổi cách tiếp cận với bảo hiểm xem sao?
+[10:59] Vâng Ai sẽ chịu trách nhiệm chính cho mảng tín dụng nhỉ?
+[13:00] Thế thì mình chốt phương án cho thẻ tín dụng luôn đi, đừng kéo dài nữa.
+[13:02] Ờm Thế thì mình chốt phương án cho thẻ tín dụng luôn đi, đừng kéo dài nữa.
+[11:02] Cảm ơn mọi người, cuộc họp về Ngân hàng tạm dừng tại đây.
+[11:03] Vâng Thôi được rồi, vậy thống nhất là triển khai nợ xấu theo hướng đó.
+[13:08] Vụ nợ xấu thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[11:05] Thì đấy Thế thì mình chốt phương án cho thẻ tín dụng luôn đi, đừng kéo dài nữa.
+[11:06] Về phần ngân sách cho chuyển đổi số, sếp đã duyệt chưa nhỉ?
+[13:14] Đúng rồi, cái thẻ tín dụng cần được ưu tiên xử lý trước thứ Sáu này.
+[13:16] Tôi lo nhất là cái chuyển đổi số, tiến độ đang bị khựng lại.
+[13:18] Đừng quên vụ chuyển đổi số cũng quan trọng không kém nhé.
+[11:10] Ờm Cảm ơn mọi người, cuộc họp về Ngân hàng tạm dừng tại đây.
+[11:11] Tôi lo nhất là cái lãi suất tiền gửi, tiến độ đang bị khựng lại.
+[13:24] Hay là mình thử thay đổi cách tiếp cận với bảo hiểm xem sao?
+[11:13] Mọi người nghe rõ không? Về cái lãi suất tiền gửi này tôi thấy có vẻ hơi vướng.
+[13:28] Tôi thấy lãi suất tiền gửi hiện tại là cơ hội tốt để mình bứt phá.
+[13:30] Chắc là Tôi lo nhất là cái lãi suất tiền gửi, tiến độ đang bị khựng lại.
+[13:32] Tôi lo nhất là cái lãi suất tiền gửi, tiến độ đang bị khựng lại.
+[11:17] Nói chung là Thôi được rồi, vậy thống nhất là triển khai lãi suất tiền gửi theo hướng đó.
+[13:36] Tóm lại Mọi người có ý kiến gì thêm về chuyển đổi số không?
+[11:19] Ờm Đừng quên vụ tín dụng cũng quan trọng không kém nhé.
+[13:40] Để tôi check lại lịch của bên nợ xấu xem họ rảnh khi nào.
+[13:42] Thì đấy Về phần ngân sách cho thẻ tín dụng, sếp đã duyệt chưa nhỉ?
+
+<|output|>
+# Báo cáo cuộc họp về Ngân hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Ngân hàng hiện tại
+- Giải quyết các tồn đọng liên quan đến chuyển đổi số
+- Định hướng phát triển nợ xấu trong quý tới
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý tín dụng
+- Thiếu hụt nguồn lực cho tín dụng
+- Áp lực từ phía đối tác về lãi suất tiền gửi
+- Tác động của thị trường đến kế hoạch chung
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho bảo hiểm
+- Phân bổ thêm 2 nhân sự cho mảng huy động vốn
+- Hoàn thiện báo cáo nợ xấu trước cuối tuần
+- Duyệt chi phí dự phòng cho nợ xấu
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ thẻ tín dụng | Team Technical | 10/04/2026 |
+| Liên hệ đối tác về nợ xấu | Bộ phận Pháp lý | 03/02/2026 |
+| Kiểm tra tiến độ lãi suất tiền gửi | Phòng Kế hoạch | 22/03/2026 |
+| Lập kế hoạch chi tiết cho chuyển đổi số | Anh Hoàng | 04/10/2026 |
+| Báo cáo kết quả bảo hiểm | Phòng Ngân hàng | 07/05/2026 |

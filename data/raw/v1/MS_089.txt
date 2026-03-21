@@ -1,0 +1,46 @@
+<|input|>
+[14:00] Chào ban ứng cứu sự cố và team IT, hôm nay chúng ta họp khẩn về việc rò rỉ dữ liệu khách hàng nhé.
+[14:01] Dạ sếp, hiện tại... ờ... theo phân tích ban đầu, có vẻ như kẻ tấn công đã khai thác lỗ hổng trong cái cổng thanh toán (payment gateway) của mình ấy.
+[14:03] Trời ơi! Dữ liệu bị lộ có bao gồm số thẻ tín dụng hay là... ờ... mật khẩu không hả Nam?
+[14:04] Dạ, sếp yên tâm, mình đã băm (hash) mật khẩu rồi, số thẻ thì mình không lưu trực tiếp nên không sao ạ. Nhưng mà... họ lấy được tên, số điện thoại với địa chỉ nhà ạ.
+[14:06] Chắc chắn là mình phải thông báo cho khách hàng ngay lập tức rồi. Không là sếp ơi, mất uy tín lắm, người ta sẽ kiện mình mất.
+[14:08] Em đề xuất là mình tạm đóng cái cổng thanh toán đó lại để vá lỗi đã. Ờ... rồi dùng cái cổng dự phòng của đối tác khác thay vào.
+[14:10] Hay đấy. Còn cái phần điều tra thủ phạm thì sao anh Hùng?
+[14:11] Ờ mình đã gửi log cho bên Cục An ninh mạng (A05) rồi ạ. Họ đang phối hợp để truy vết cái IP tấn công.
+[14:13] Tôi muốn team Security phải rà soát lại toàn bộ hệ thống ngay lập tức. Đừng để còn lỗ hổng nào khác nữa.
+[14:15] Vâng, em sẽ cho triển khai đánh giá xâm nhập (pentest) toàn diện trong tuần này luôn ạ.
+[14:16] OK, chốt thế đi. Team PR soạn sẵn cái thông cáo xin lỗi gửi cho khách hàng nhé.
+[14:18] Dạ sếp, em sẽ soạn theo hướng cầu thị và trung thực nhất có thể ạ.
+[14:20] Tốt, mọi người tập trung cao độ nhé, đây là một bài học đắt giá cho công ty mình đấy!
+
+<|output|>
+# Xử lý sự cố rò rỉ thông tin khách hàng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân và mức độ ảnh hưởng của sự cố rò rỉ dữ liệu.
+- Triển khai các biện pháp ngăn chặn ngay lập tức và khắc phục lỗ hổng bảo mật.
+- Thống nhất phương án truyền thông và phối hợp với cơ quan chức năng.
+
+### 2. Các vấn đề đã thảo luận
+- Lỗ hổng kỹ thuật tại cổng thanh toán trực tuyến bị khai thác dẫn đến lộ thông tin cá nhân.
+- Đánh giá loại dữ liệu bị mất: Tên, số điện thoại, địa chỉ bị rò rỉ; các thông tin nhạy cảm khác (mật khẩu, thẻ tín dụng) vẫn an toàn nhờ cơ chế mã hóa.
+- Giải pháp vá lỗi: Tạm thời đóng cổng thanh toán hiện tại và chuyển sang hệ thống dự phòng.
+- Công tác điều tra: Cung cấp bằng chứng số (log) cho cơ quan An ninh mạng để truy vết đối tượng tấn công.
+- Tầm quan trọng của tính minh bạch và sự cần thiết phải xin lỗi khách hàng kịp thời để giảm thiểu thiệt hại về uy tín.
+- Kế hoạch đánh giá an ninh tổng thể (pentest) để chủ động phòng ngừa các nguy cơ tương tự.
+
+### 3. Kết luận và quyết định
+- Ngắt kết nối cổng thanh toán cũ để vá lỗi và thay thế bằng đối tác dự phòng ngay lập tức.
+- Phê duyệt kịch bản truyền thông xin lỗi và hướng dẫn khách hàng tự bảo vệ thông tin.
+- Triển khai chiến dịch rà soát bảo mật toàn diện trên tất cả các nền tảng của công ty.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Vá lỗ hổng cổng thanh toán và triển khai hệ thống mới | Team IT/Dev | 28/11/2024 |
+| Soạn thảo và gửi email xin lỗi tới khách hàng bị ảnh hưởng | Team PR/Marketing | 27/11/2024 |
+| Cung cấp dữ liệu phục vụ điều tra cho Cục A05 | Team Security | 29/11/2024 |
+| Thực hiện Pentest toàn diện hệ thống | Đơn vị bảo mật bên ngoài | 10/12/2024 |

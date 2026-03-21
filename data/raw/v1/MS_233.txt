@@ -1,0 +1,42 @@
+<|input|>
+[10:00] Chào bác sĩ và các anh chị điều dưỡng, hôm nay chúng ta họp để rà soát lại quy trình tiếp nhận và sàng lọc bệnh nhân tại khoa cấp cứu.
+[10:02] Thời gian qua có một số phàn nàn về việc chờ đợi quá lâu ở khâu phân loại ban đầu, đặc biệt là vào giờ cao điểm từ 6h đến 8h tối.
+[10:04] Tôi thấy vấn đề là do chỉ có một điều dưỡng trực phân loại trong khi lượng bệnh nhân nhập viện cùng lúc quá đông.
+[10:06] Có lẽ chúng ta nên tăng cường thêm một nhân sự trực phân loại vào khung giờ đó để đẩy nhanh tốc độ sàng lọc.
+[10:08] Bên cạnh đó, các máy đo dấu hiệu sinh tồn cầm tay hiện tại hay bị lỗi kết nối, làm tốn thêm thời gian nhập liệu thủ công.
+[10:10] Khoa trang thiết bị cần kiểm tra lại ngay các thiết bị này, nếu hỏng hóc nặng thì phải đề xuất thay mới để đảm bảo chính xác.
+[10:12] Ngoài ra, tôi muốn nhắc nhở về việc tuân thủ quy trình kiểm soát nhiễm khuẩn, đặc biệt là khi xử lý các trường hợp nghi nhiễm đường hô hấp.
+[10:14] Vâng, chúng tôi sẽ bổ sung thêm các trạm rửa tay sát khuẩn ngay tại cửa vào và khu vực chờ.
+[10:16] Về phần thuốc cấp cứu, dược sĩ cần kiểm tra lại cơ số thuốc dự phòng, tránh tình trạng thiếu hụt cục bộ như tuần trước.
+[10:18] Rõ rồi, tôi sẽ cập nhật lại danh mục thuốc và hạn dùng vào báo cáo chiều nay.
+
+<|output|>
+# Cải tiến quy trình sàng lọc và tiếp nhận bệnh nhân tại khoa Cấp cứu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Khắc phục tình trạng ùn tắc tại khâu phân loại bệnh nhân ban đầu.
+- Đảm bảo an toàn thiết bị y tế và tuân thủ quy trình kiểm soát nhiễm khuẩn.
+
+### 2. Các vấn đề đã thảo luận
+- Bệnh nhân chờ lâu trong khung giờ cao điểm (18h - 20h).
+- Thiếu nhân sự trực phân loại để đáp ứng lượng bệnh nhân đông.
+- Thiết bị đo dấu hiệu sinh tồn hoạt động không ổn định, gây chậm trễ.
+- Cần thắt chặt quy trình kiểm soát nhiễm khuẩn đường hô hấp.
+- Thiếu hụt thuốc cấp cứu dự phòng trong một số thời điểm.
+
+### 3. Kết luận và quyết định
+- Điều động thêm nhân sự hỗ trợ phân loại vào giờ cao điểm.
+- Yêu cầu kiểm tra và sửa chữa/thay mới các thiết bị y tế lỗi.
+- Bổ sung vật tư sát khuẩn tại khu vực sàng lọc.
+- Rà soát và đảm bảo cơ số thuốc cấp cứu luôn đầy đủ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Sắp xếp lịch trực tăng cường giờ cao điểm | Điều dưỡng trưởng | 20/03/2026 |
+| Kiểm tra và bảo trì máy đo dấu hiệu sinh tồn | Phòng Vật tư | 22/03/2026 |
+| Bổ sung trạm rửa tay và vật tư bảo hộ | Khoa Kiểm soát nhiễm khuẩn | 21/03/2026 |
+| Cập nhật báo cáo tồn kho thuốc cấp cứu | Tổ Dược | 18/03/2026 |

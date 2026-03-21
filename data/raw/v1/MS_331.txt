@@ -1,0 +1,41 @@
+<|input|>
+[08:00] Chào anh Hùng và mọi người bên phòng kế toán nhé. Hôm nay mình ngồi lại xử lý cho dứt điểm mấy cái chứng từ thanh toán đợt đi công tác miền Tây vừa rồi của mấy anh bên phòng kinh doanh. Anh Hùng thấy hồ sơ đợt này có vấn đề gì không?
+[08:02] Tôi rà soát sơ qua thì thấy phần lớn là ổn, nhưng mà Lan ơi, có mấy tờ hóa đơn tiền ăn ở Cần Thơ lại ghi tên công ty bị sai một chữ cái. Cái này nếu mình đem đi quyết toán thuế sau này là rắc rối lắm đấy.
+[08:04] Dạ em cũng thấy chỗ đó rồi anh. Em đã báo cho anh Nam bên phòng kinh doanh để anh ấy liên hệ lại với nhà hàng bên đó xuất lại hóa đơn điện tử thay thế rồi. Chắc khoảng chiều nay là họ gửi mail qua thôi.
+[08:06] Vậy thì tốt. Còn cái vụ thanh toán tiền taxi, sao đợt này mấy anh không dùng app để có hóa đơn điện tử cho khỏe? Cứ cầm mấy cái biên lai giấy viết tay thì kế toán mình nhập liệu mệt lắm.
+[08:08] Em cũng đã nhắc anh Nam rồi anh Hùng ạ. Đợt này do đi xuống mấy vùng huyện sâu nên các anh ấy phải dùng xe ôm hoặc taxi địa phương không có app. Thôi thì mình chịu khó xử lý nốt đợt này, từ sau em sẽ yêu cầu mọi người ưu tiên dùng các hãng lớn có hóa đơn điện tử cho minh bạch.
+[08:10] Được rồi, vậy Lan theo dõi cái hóa đơn thay thế từ Cần Thơ nhé. Còn phần tạm ứng phí công tác, anh muốn chốt số liệu để hoàn ứng ngay trong tuần này. Đừng để dây dưa sang tháng sau là số liệu nó nhảy loạn lên hết.
+[08:12] Vâng anh, em đang tổng hợp bảng kê đây ạ. Chỉ còn chờ cái hóa đơn kia là em chốt số rồi chuyển cho anh ký duyệt luôn.
+[08:14] Ok, vậy mình thống nhất thế nhé. Mọi người làm nhanh tay để còn xử lý các việc khác.
+[08:16] Cảm ơn anh Hùng, em đi làm ngay đây.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết dứt điểm các chứng từ thanh toán chi phí công tác miền Tây.
+- Xử lý các sai sót trong hóa đơn và cải thiện quy trình thanh toán trong tương lai.
+- Chốt số liệu hoàn ứng công tác phí đúng thời hạn.
+
+### 2. Các vấn đề đã thảo luận
+- Sai sót thông tin tên công ty trên hóa đơn tiền ăn tại Cần Thơ.
+- Khó khăn trong việc xử lý các biên lai taxi/xe ôm viết tay từ các địa phương vùng sâu vùng xa.
+- Nhu cầu chuyển đổi sang sử dụng các dịch vụ có hóa đơn điện tử để tối ưu hóa việc nhập liệu.
+- Tình trạng tồn đọng các khoản tạm ứng công tác phí chưa được quyết toán.
+
+### 3. Kết luận và quyết định
+- Liên hệ nhà cung cấp tại Cần Thơ để xuất hóa đơn điện tử thay thế trong ngày.
+- Yêu cầu phòng kinh doanh từ sau ưu tiên sử dụng các dịch vụ vận tải có tích hợp hóa đơn điện tử.
+- Thực hiện chốt số liệu và hoàn tất thủ tục hoàn ứng ngay trong tuần này.
+- Lan chịu trách nhiệm đôn đốc và tổng hợp bảng kê cuối cùng trình phê duyệt.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ xuất lại hóa đơn điện tử tại Cần Thơ | Nam (Phòng Kinh doanh) | 18/03/2026 |
+| Tổng hợp bảng kê chi tiết hoàn ứng công tác phí | Lan | 20/03/2026 |
+| Soạn thông báo hướng dẫn sử dụng hóa đơn điện tử khi đi công tác | Phòng Kế toán | 25/03/2026 |
+| Phê duyệt quyết toán chi phí đợt miền Tây | Anh Hùng | 22/03/2026 |

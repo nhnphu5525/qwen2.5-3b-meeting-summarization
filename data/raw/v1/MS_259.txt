@@ -1,0 +1,56 @@
+<|input|>
+[08:30] Chào mọi người, cảm ơn các anh chị đã dành thời gian tham gia buổi họp quan trọng về tình hình an ninh mạng của tập đoàn chúng ta. Tôi là Hoàng, Giám đốc Công nghệ (CTO). Sáng nay hệ thống giám sát SIEM đã phát hiện một loạt các hành vi bất thường truy cập vào máy chủ dữ liệu chính của bộ phận Nhân sự. Chúng ta cần xác định xem đây là một cuộc tấn công có chủ đích hay chỉ là một lỗi cấu hình.
+[08:35] Chào anh Hoàng, chào mọi người. Tôi là Nam, trưởng nhóm An ninh mạng. Sau khi phân tích log từ Firewall và hệ thống phát hiện xâm nhập (IDS), chúng tôi thấy có dấu hiệu của một đợt tấn công brute-force vào các tài khoản có đặc quyền quản trị từ các địa chỉ IP nước ngoài. Tuy nhiên, đáng lo ngại hơn là có một tài khoản nội bộ của bạn nhân viên tên là Trang bên bộ phận Tuyển dụng đã đăng nhập thành công vào hệ thống lúc 2 giờ sáng và tải xuống một lượng lớn tệp tin nén.
+[08:40] Chào anh Nam, tôi là Trang đây ạ. Tôi thực sự hoảng loạn vì sáng nay tôi không thể đăng nhập vào email của mình được nữa. 2 giờ sáng lúc đó tôi đang ngủ, không hề có chuyện tôi đăng nhập vào hệ thống để tải dữ liệu gì cả. Chào Trang, bình tĩnh nhé. Tôi là Linh bên bộ phận IT Helpdesk. Có khả năng cao là tài khoản của Trang đã bị chiếm quyền điều khiển (account takeover) thông qua một chiến dịch phishing nào đó mà Trang không để ý. Trang có nhớ gần đây có bấm vào link lạ hay tải file đính kèm nào từ email không quen thuộc không?
+[08:45] Chào chị Linh, giờ chị nhắc em mới nhớ. Chiều qua em có nhận được một email trông rất giống của phòng Tài chính yêu cầu cập nhật thông tin lương để nhận thưởng quý. Em có bấm vào link và đăng nhập tài khoản Microsoft 365 của mình vào đó. Nhưng sau đó trang web báo lỗi và em cũng không nghĩ ngợi gì thêm.
+[08:50] Vậy là rõ rồi. Đây là một vụ tấn công lừa đảo chiếm đoạt tài khoản điển hình. Chào mọi người, tôi là Sơn, phụ trách mảng hạ tầng Server. Vấn đề là tại sao hệ thống xác thực đa yếu tố (MFA) của chúng ta không ngăn chặn được việc này? Chào anh Sơn, theo tôi kiểm tra, tài khoản của Trang chưa được kích hoạt MFA bắt buộc do bạn ấy mới chuyển từ vị trí CTV lên nhân viên chính thức tuần trước và quy trình IT onboarding cho nhân viên mới đang bị chậm. Đây là một lỗ hổng quy trình cực kỳ nghiêm trọng.
+[08:55] Chào anh Hoàng, tôi là Mai, trưởng phòng Nhân sự. Tôi rất lo lắng về số dữ liệu đã bị tải xuống. Đó là toàn bộ hồ sơ ứng viên, thông tin CCCD, số điện thoại và cả hợp đồng lao động của nhân viên toàn công ty. Nếu số dữ liệu này bị rò rỉ hoặc bán lên các diễn đàn underground, uy tín của tập đoàn sẽ bị ảnh hưởng nặng nề, chưa kể đến các rắc rối pháp lý về bảo vệ dữ liệu cá nhân theo Nghị định 13.
+[09:00] Tôi hoàn toàn đồng ý với chị Mai. Chào mọi người, tôi là Quốc bên bộ phận Pháp chế. Chúng ta cần chuẩn bị sẵn phương án thông báo cho các bên liên quan nếu dữ liệu thực sự bị rò rỉ. Tuy nhiên, trước mắt anh Nam cần xác định xem kẻ tấn công đã kịp phát tán dữ liệu ra ngoài môi trường internet chưa, hay mới chỉ lưu trữ trên một máy chủ trung gian nào đó?
+[09:05] Chào anh Quốc, nhóm của tôi đang phối hợp với bên đối tác cung cấp dịch vụ SOC để truy vết dòng chảy dữ liệu (data flow). Chúng tôi phát hiện dữ liệu được đẩy lên một dịch vụ lưu trữ đám mây tại Đông Âu. Chúng tôi đang gửi yêu cầu gỡ bỏ (takedown request) cho nhà cung cấp dịch vụ đó nhưng có lẽ sẽ mất thời gian. Hiện tại, tôi đã cho cô lập hoàn toàn tài khoản của Trang và reset password cho toàn bộ phòng Nhân sự.
+[09:10] Chào anh Nam, anh làm vậy là đúng. Nhưng tôi muốn hỏi thêm là liệu kẻ tấn công có kịp cài đặt mã độc (malware) hay backdoor nào vào hệ thống của chúng ta để duy trì quyền truy cập lâu dài không? Chào anh Hoàng, câu hỏi của anh rất sắc sảo. Chúng tôi đang cho quét toàn bộ hệ thống bằng các công cụ EDR (Endpoint Detection and Response). Hiện chưa thấy dấu hiệu của mã độc thực thi, nhưng chúng ta không thể chủ quan. Tôi đề xuất chúng ta nên thuê một đơn vị điều tra số (Digital Forensics) độc lập để kiểm tra lại toàn bộ mạng lưới.
+[09:15] Chào anh Nam, tôi là Hồng bên bộ phận Tài chính. Việc thuê đơn vị ngoài sẽ phát sinh chi phí khá lớn. Chúng ta có thể dùng ngân sách dự phòng khẩn cấp không? Chào chị Hồng, tôi phê duyệt việc này. An toàn dữ liệu là ưu tiên số một lúc này. Chị giúp anh Nam hoàn thiện các thủ tục thanh toán nhanh nhất có thể nhé.
+[09:20] Ngoài ra, tôi yêu cầu từ nay đến cuối ngày hôm nay, toàn bộ 100% nhân viên tập đoàn phải được kích hoạt MFA. Ai chưa làm thì IT Helpdesk trực tiếp hỗ trợ và khóa truy cập nếu không tuân thủ. Chào Linh, em có đủ nhân lực để làm việc này trong hôm nay không? Chào anh Hoàng, em sẽ huy động toàn bộ team, kể cả các bạn thực tập sinh để gọi điện và hướng dẫn từng người một ạ.
+[09:25] Chào mọi người, tôi là Khánh bên bộ phận Truyền thông nội bộ. Để tránh hoang mang dư luận trong công ty, tôi đề nghị chúng ta nên có một email thông báo về việc bảo trì hệ thống định kỳ và nhắc nhở mọi người về an toàn thông tin, thay vì nói thẳng là chúng ta đang bị tấn công. Chúng ta cần kiểm soát thông tin chặt chẽ lúc này.
+[09:30] Đồng ý với Khánh. Tuy nhiên, email cần nhấn mạnh vào việc nâng cao cảnh giác với các email lừa đảo. Chào chị Mai, chị và anh Nam giúp tôi rà soát lại quy trình IT onboarding cho nhân viên mới. Không thể để tình trạng nhân viên làm việc cả tuần mà chưa có MFA được.
+[09:35] Vâng thưa anh Hoàng, chúng tôi sẽ cập nhật lại quy trình ngay lập tức. Chào Trang, em đừng quá lo lắng, hãy hợp tác tối đa với team IT để cung cấp các thông tin về email phishing đó nhé. Vâng ạ, em cảm ơn mọi người đã hỗ trợ, em sẽ chú ý hơn rất nhiều ạ.
+[09:40] Anh Nam có thể cho biết dự kiến bao lâu thì chúng ta có báo cáo sơ bộ từ đơn vị Digital Forensics không? Chào anh Hoàng, nếu ký hợp đồng trong sáng nay thì chiều nay họ sẽ bắt đầu làm việc. Dự kiến sau 48 giờ chúng ta sẽ có báo cáo phân tích chi tiết về mức độ thiệt hại và các lỗ hổng cần vá.
+[09:45] Tốt. Vậy chúng ta thống nhất: Một là, team IT của Nam và Linh triển khai MFA toàn tập đoàn ngay lập tức. Hai là, thuê đơn vị Digital Forensics độc lập. Ba là, chị Mai và anh Nam rà soát quy trình bảo mật nhân sự. Bốn là, anh Quốc và Khánh chuẩn bị kịch bản truyền thông và pháp lý.
+[09:50] Chào mọi người, buổi họp hôm nay rất căng thẳng nhưng chúng ta đã có hướng xử lý kịp thời. Tôi hy vọng chúng ta sẽ vượt qua sự cố này với thiệt hại thấp nhất. Anh Nam giữ liên lạc liên tục với tôi để cập nhật tình hình nhé.
+[09:55] Vâng anh Hoàng, tôi đã rõ. Chào mọi người.
+[10:00] Chào tạm biệt mọi người, chúng ta giải tán và bắt tay vào việc thôi.
+
+<|output|>
+# Xử lý sự cố An ninh mạng và Rò rỉ dữ liệu nhân sự
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định nguyên nhân và mức độ thiệt hại của sự cố truy cập trái phép vào máy chủ dữ liệu nhân sự.
+- Triển khai các biện pháp ứng phó khẩn cấp để ngăn chặn rò rỉ dữ liệu và vá lỗ hổng hệ thống.
+- Thống nhất kịch bản truyền thông nội bộ và chuẩn bị các thủ tục pháp lý liên quan.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân sự cố: Một nhân viên phòng Tuyển dụng bị tấn công phishing chiếm đoạt tài khoản Microsoft 365 do chưa được kích hoạt xác thực đa yếu tố (MFA).
+- Thiệt hại bước đầu: Một lượng lớn hồ sơ nhân sự, CCCD, số điện thoại và hợp đồng lao động đã bị tải xuống và đẩy lên một server đám mây tại Đông Âu.
+- Lỗ hổng quy trình: Quy trình IT onboarding cho nhân viên mới bị chậm trễ, dẫn đến việc tài khoản nhân viên mới chưa được áp dụng các chính sách bảo mật bắt buộc.
+- Biện pháp khắc phục: Cô lập tài khoản bị thỏa hiệp, reset password toàn bộ phòng nhân sự, và yêu cầu kích hoạt MFA bắt buộc cho 100% nhân viên ngay trong ngày.
+- Điều tra chuyên sâu: Đề xuất thuê đơn vị Digital Forensics độc lập để kiểm tra mã độc và đánh giá chi tiết thiệt hại.
+
+### 3. Kết luận và quyết định
+- Ưu tiên cao nhất là kích hoạt MFA cho toàn bộ nhân viên tập đoàn trước cuối ngày hôm nay.
+- Phê duyệt ngân sách khẩn cấp để thuê đơn vị điều tra số chuyên nghiệp (Digital Forensics).
+- Gửi yêu cầu gỡ bỏ (takedown) dữ liệu đến nhà cung cấp dịch vụ lưu trữ đám mây quốc tế.
+- Cập nhật quy trình IT onboarding: Nhân viên mới bắt buộc phải hoàn thành các bước thiết lập bảo mật trước khi được cấp quyền truy cập dữ liệu nhạy cảm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Kích hoạt MFA bắt buộc cho 100% nhân viên | Chị Linh (IT Helpdesk) | 24/03/2025 |
+| Liên hệ và ký hợp đồng với đơn vị Digital Forensics | Anh Nam (Security) | 24/03/2025 |
+| Soạn thảo email cảnh báo phishing nội bộ | Anh Khánh (Truyền thông) | 24/03/2025 |
+| Rà soát quy trình bảo mật cho nhân viên mới | Chị Mai (HR) & Anh Nam | 26/03/2025 |
+| Truy vết dòng chảy dữ liệu và yêu cầu gỡ bỏ file | Anh Nam (Security) | 25/03/2025 |
+| Chuẩn bị phương án pháp lý theo Nghị định 13 | Anh Quốc (Pháp chế) | 27/03/2025 |
+| Cung cấp ngân sách cho các hoạt động ứng phó | Chị Hồng (Tài chính) | 24/03/2025 |
+| Giám sát tổng thể và báo cáo Ban Giám đốc | Anh Hoàng (CTO) | Định kỳ |

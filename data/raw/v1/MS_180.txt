@@ -1,0 +1,64 @@
+<|input|>
+[10:00:00] Chào buổi sáng Hội đồng quản trị và team Pháp lý. Hôm nay mình họp một phiên khá căng đây, rà soát lại toàn bộ điều khoản hợp đồng cổ đông để chuẩn bị cho lộ trình IPO sắp tới.
+[10:00:45] Dạ chào anh Minh. Em và các cộng sự đã xem kỹ lại bản dự thảo hợp đồng cổ đông (SHA) mới nhất. Có một vài điểm em thấy mình cần phải làm rõ để tránh tranh chấp sau này khi lên sàn.
+[10:01:30] Điểm nào em? Có liên quan đến quyền biểu quyết hay là quyền ưu tiên mua cổ phần không?
+[10:02:15] Dạ cả hai luôn anh. Thứ nhất là cái quyền "Veto" của nhóm cổ đông sáng lập đối với các quyết định quan trọng như thay đổi ngành nghề kinh doanh hay bán tài sản lớn. Khi mình IPO, các nhà đầu tư tổ chức họ thường sẽ yêu cầu mình bỏ hoặc hạn chế quyền này để đảm bảo tính đại chúng.
+[10:03:00] Bỏ là bỏ thế nào? Mình bỏ công sức gầy dựng công ty bao nhiêu năm, giờ để mấy ông nhảy vô rồi quyết định hết sao được. Phải giữ lại ít nhất 51% quyền biểu quyết cho các vấn đề cốt lõi chứ.
+[10:03:45] Em hiểu lo lắng của anh. Nhưng mình có thể chuyển đổi sang hình thức "Cổ phần ưu đãi biểu quyết" cho nhóm sáng lập trong một thời hạn nhất định, ví dụ 3-5 năm sau IPO. Như vậy vừa đảm bảo quyền kiểm soát cho mình, vừa làm hài lòng các nhà đầu tư mới.
+[10:04:30] Ừ, phương án đó nghe có vẻ ổn hơn đó. Còn vụ "Drag-along" và "Tag-along" thì sao?
+[10:05:15] Dạ cái quyền "Drag-along" (Quyền kéo theo) em thấy mình nên nâng ngưỡng lên. Hiện tại đang để là 51% cổ đông đồng ý là có thể ép các cổ đông còn lại bán. Em đề xuất nâng lên 75% để bảo vệ các cổ đông nhỏ lẻ và tránh việc thâu tóm thù địch quá dễ dàng.
+[10:06:00] 75% thì cao quá không em? Lỡ sau này mình muốn thoái vốn cho một tập đoàn lớn mà kẹt mấy ông nhỏ không chịu bán thì sao? Anh nghĩ 65% là con số hợp lý nhất theo Luật Doanh nghiệp mình rồi.
+[10:06:45] Dạ vậy chốt 65% nha anh. Còn vụ cam kết không cạnh tranh (Non-compete) của các thành viên HĐQT, em thấy mình cần bổ sung điều khoản cấm thành lập hoặc góp vốn vào các công ty cùng ngành trong vòng 3 năm kể từ khi rời khỏi công ty. Hiện tại mình mới để 1 năm là hơi ngắn.
+[10:07:30] 3 năm thì hơi gắt cho mấy ảnh quá không? Thôi cứ để 2 năm đi, trung dung tí. Quan trọng là cái định nghĩa "cùng ngành" phải thật rõ ràng, chứ không là mai mốt lôi nhau ra tòa mệt lắm.
+[10:08:15] Dạ em sẽ quy định chi tiết danh mục các sản phẩm, dịch vụ tương đương trong phụ lục hợp đồng. À, còn hồ sơ IPO, bên công ty chứng khoán tư vấn họ đang nhắc mình hoàn thiện cái báo cáo tài chính 3 năm gần nhất theo chuẩn mực quốc tế IFRS thay vì chỉ dùng VAS như hiện tại.
+[10:09:00] Cái này căng nè. Chuyển sang IFRS là bao nhiêu chi phí khấu hao với dự phòng nó lòi ra hết, lợi nhuận có khi sụt giảm đáng kể đó. Em đã làm việc với bên kiểm toán chưa?
+[10:09:45] Dạ em có trao đổi sơ qua. Họ bảo là bước đầu mình cứ làm bản đối chiếu (reconciliation) giữa VAS và IFRS để nhà đầu tư họ thấy được bức tranh tổng thể. Còn khi chính thức niêm yết thì bắt buộc phải theo chuẩn mới thôi anh.
+[10:10:30] Thôi thì phải chấp nhận cuộc chơi thôi. Muốn huy động vốn lớn thì phải minh bạch. Lan bên kế toán phối hợp chặt chẽ với Huy để làm vụ này nha. Đừng để sai sót số liệu là Ủy ban Chứng khoán họ bác hồ sơ mình ngay.
+[10:11:15] Dạ anh yên tâm, em sẽ bám sát bên kiểm toán. Còn một việc nữa là chương trình ESOP cho nhân viên. Sếp muốn phát hành bao nhiêu % trước khi IPO để giữ chân người tài?
+[10:12:00] Anh dự định là khoảng 5%. Nhưng phải có điều khoản hạn chế chuyển nhượng trong vòng 2-3 năm để anh em gắn bó lâu dài, chứ không là lên sàn xong họ xả hàng lấy tiền đi hết thì công ty còn cái xác không hà.
+[10:12:45] Dạ, thường thì mình sẽ khóa 100% năm đầu, rồi thả dần 30-30-40 qua các năm tiếp theo. Như vậy là chuẩn nhất.
+[10:13:30] Ok duyệt. Huy ghi chú lại để đưa vô nghị quyết Đại hội đồng cổ đông sắp tới luôn nha. Còn cái vụ rà soát tư cách cổ đông nước ngoài, em check kỹ xem mình có bị vướng "room" ngoại không?
+[10:14:15] Dạ ngành mình hiện tại không bị hạn chế room ngoại 49% nữa, nhưng mình cũng nên chủ động giới hạn ở mức đó để giữ quyền kiểm soát cho người Việt mình anh ạ.
+[10:15:00] Ừ, anh cũng muốn vậy. Tạm thời cứ khóa ở mức 49% đi. Sau này cần vốn ngoại nhiều hơn thì mình mở sau.
+[10:15:45] Dạ rõ anh. Vậy em sẽ hoàn thiện bản SHA và hồ sơ pháp lý liên quan để gửi anh duyệt lại một lần cuối vào thứ Sáu tuần này nha.
+[10:16:30] Ok em. Cố gắng lên, cái này là bước ngoặt lịch sử của công ty mình đó. Làm cho thật chuẩn vô!
+[10:17:15] Dạ tụi em sẽ quyết tâm ạ!
+[10:18:00] À Huy này, còn cái vụ tranh chấp đất đai ở kho bãi Bình Dương hồi năm ngoái, mình đã giải quyết dứt điểm chưa? Lên sàn mà còn vụ kiện tụng nào là họ soi kỹ lắm đó.
+[10:18:45] Dạ vụ đó mình thắng kiện rồi anh, đã có bản án phúc thẩm của tòa án tỉnh. Em đã chuẩn bị sẵn bộ hồ sơ pháp lý này để giải trình với bên tư vấn niêm yết rồi, anh yên tâm không vướng víu gì đâu.
+[10:19:30] Vậy thì tốt quá. Minh bạch là số 1 nha. Rồi, mọi người nghỉ thôi. Cảm ơn cả nhà.
+[10:20:15] Dạ chào anh Minh.
+
+<|output|>
+# Rà soát điều khoản hợp đồng cổ đông và chuẩn bị hồ sơ IPO
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và hiệu chỉnh các điều khoản trong Hợp đồng cổ đông (SHA) để phù hợp với các tiêu chuẩn niêm yết.
+- Thống nhất các vấn đề trọng yếu liên quan đến quyền kiểm soát, quản trị công ty và lộ trình IPO.
+- Chuẩn bị hồ sơ pháp lý và tài chính theo yêu cầu của Ủy ban Chứng khoán Nhà nước.
+
+### 2. Các vấn đề đã thảo luận
+- Quyền biểu quyết: Chuyển đổi quyền Veto của nhóm sáng lập sang hình thức "Cổ phần ưu đãi biểu quyết" với thời hạn 3-5 năm để đảm bảo tính đại chúng sau IPO.
+- Quyền Drag-along: Nâng ngưỡng đồng ý lên 65% (theo Luật Doanh nghiệp) để cân bằng giữa quyền lợi cổ đông lớn và bảo vệ cổ đông nhỏ.
+- Cam kết không cạnh tranh: Áp dụng thời hạn 2 năm đối với các thành viên HĐQT sau khi rời vị trí, kèm theo phụ lục định nghĩa chi tiết về ngành nghề kinh doanh.
+- Chuẩn mực kế toán: Thực hiện chuyển đổi báo cáo tài chính từ VAS sang IFRS để minh bạch hóa số liệu với nhà đầu tư quốc tế.
+- Chương trình ESOP: Phát hành 5% cổ phần cho nhân viên với lộ trình khóa chuyển nhượng theo tỷ lệ 30-30-40 trong vòng 3 năm.
+- Room ngoại: Thống nhất tạm thời khóa tỷ lệ sở hữu nước ngoài ở mức 49% để giữ quyền kiểm soát nội địa.
+- Giải quyết tranh chấp: Đảm bảo toàn bộ các vụ kiện tụng cũ (như vụ kho bãi Bình Dương) đã có phán quyết cuối cùng và hồ sơ giải trình sạch.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án điều chỉnh SHA và lộ trình phát hành ESOP như đã thảo luận.
+- Giao team Pháp lý phối hợp với công ty chứng khoán tư vấn để hoàn thiện hồ sơ đăng ký niêm yết.
+- Yêu cầu bộ phận Kế toán làm việc với đơn vị kiểm toán để thực hiện báo cáo đối chiếu VAS-IFRS.
+- Chốt hạn cuối hoàn thiện bản thảo SHA cuối cùng vào ngày 20/12/2024.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản dự thảo SHA mới nhất | Huy - Phòng Pháp lý | 20/12/2024 |
+| Lập báo cáo đối chiếu tài chính VAS-IFRS | Lan - Kế toán trưởng | 30/12/2024 |
+| Soạn thảo quy chế chương trình ESOP | Phòng Nhân sự + Pháp lý | 05/01/2025 |
+| Làm việc với công ty chứng khoán về lộ trình IPO | Anh Minh - CEO | 10/01/2025 |
+| Tổng hợp hồ sơ giải trình các vụ kiện đã xong | Huy | 25/12/2024 |

@@ -1,0 +1,47 @@
+<|input|>
+[14:00] Chào các anh chị đại diện các phòng ban, hôm nay mình họp để đẩy nhanh tiến độ số hóa hồ sơ công việc và triển khai dịch vụ công trực tuyến mức độ 4.
+[14:02] Hiện tại tỉ lệ người dân nộp hồ sơ trực tiếp tại bộ phận một cửa vẫn còn cao, trong khi hệ thống online đã vận hành ổn định rồi.
+[14:05] Tôi thấy vấn đề là giao diện trang web hiện tại hơi khó dùng đối với người lớn tuổi, họ lúng túng khi phải upload các giấy tờ đã công chứng.
+[14:08] Cái này bác Lâm nói đúng, mình nên có video hướng dẫn chi tiết từng bước hoặc bố trí đoàn thanh niên hỗ trợ tại chỗ cho bà con.
+[14:11] Ngoài ra, khâu liên thông dữ liệu giữa các phòng ban vẫn còn bị nghẽn. Có những hồ sơ phòng Tư pháp duyệt xong rồi mà bên Tài nguyên vẫn chưa nhận được thông báo trên hệ thống.
+[14:14] Cái này do lỗi đồng bộ database, team kỹ thuật cần phải rà soát lại các API kết nối giữa các phân hệ.
+[14:17] Chị Lan ơi, chị xem giúp em việc số hóa các sổ bộ cũ từ những năm 2000 về trước đến đâu rồi? Nếu không xong cái này thì không thể tra cứu nhanh cho dân được.
+[14:20] Do hồ sơ cũ bị mục nát và chữ viết tay khó nhận diện nên tốc độ scan và nhập liệu đang bị chậm hơn dự kiến khoảng 20%.
+[14:23] Vậy mình có nên thuê thêm đơn vị bên ngoài hỗ trợ khâu scan hồ sơ không? Chứ để anh em văn phòng làm thì bao giờ mới xong.
+[14:26] Ban lãnh đạo đã đồng ý chủ trương thuê dịch vụ ngoài, chị Lan lập dự toán và tiêu chuẩn kỹ thuật để đấu thầu sớm nhé.
+[14:29] Về phần bảo mật, chúng ta tuyệt đối không được để lộ thông tin cá nhân của người dân khi chuyển giao dữ liệu cho bên thứ ba.
+[14:32] Team IT sẽ giám sát chặt chẽ quá trình này và yêu cầu bên dịch vụ ký cam kết bảo mật nghiêm ngặt.
+[14:35] Mục tiêu là đến cuối năm nay, 90% các thủ tục hành chính phổ biến phải được xử lý hoàn toàn trên môi trường mạng.
+
+<|output|>
+# Đẩy mạnh chuyển đổi số và nâng cao hiệu quả dịch vụ công trực tuyến
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Tháo gỡ các nút thắt trong việc triển khai dịch vụ công trực tuyến mức độ 4.
+- Đẩy nhanh tiến độ số hóa hồ sơ lưu trữ và tăng cường liên thông dữ liệu giữa các phòng ban.
+
+### 2. Các vấn đề đã thảo luận
+- Tỷ lệ người dân sử dụng dịch vụ trực tuyến còn thấp do giao diện khó tiếp cận.
+- Lỗi đồng bộ dữ liệu giữa các phân hệ quản lý chuyên ngành.
+- Thách thức trong việc số hóa các hồ sơ giấy cũ, mục nát và chữ viết khó đọc.
+- Đề xuất thuê dịch vụ bên ngoài để tăng tốc độ scan và nhập liệu hồ sơ.
+- Vấn đề bảo mật thông tin cá nhân của công dân khi thực hiện số hóa diện rộng.
+- Cần có các biện pháp hỗ trợ trực tiếp cho đối tượng người dùng không am hiểu công nghệ.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương thuê đơn vị chuyên nghiệp thực hiện số hóa hồ sơ lưu trữ.
+- Xây dựng kho video hướng dẫn và tăng cường đội ngũ hỗ trợ tại bộ phận một cửa.
+- Yêu cầu team IT khắc phục triệt để lỗi liên thông dữ liệu trước ngày 15/04.
+- Thắt chặt các điều khoản bảo mật thông tin trong hợp đồng thuê dịch vụ ngoài.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Sửa lỗi API liên thông dữ liệu phòng ban | Tổ Kỹ thuật | 15/04/2026 |
+| Lập hồ sơ mời thầu dịch vụ số hóa hồ sơ | Chị Lan | 20/04/2026 |
+| Sản xuất video hướng dẫn nộp hồ sơ online | Phòng Truyền thông | 30/04/2026 |
+| Thiết lập quy trình giám sát bảo mật dữ liệu | Phòng IT | 25/04/2026 |
+| Bố trí quầy hỗ trợ thanh niên tình nguyện | Văn phòng HĐND-UBND | 01/05/2026 |

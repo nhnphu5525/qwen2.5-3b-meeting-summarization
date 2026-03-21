@@ -1,0 +1,42 @@
+<|input|>
+[09:00] Chào buổi sáng cả nhà, hôm nay mình ngồi lại một chút để bàn về cái đề án thí điểm tiền kỹ thuật số của ngân hàng trung ương nhé. Anh Bình thấy cái này có khả thi cho thị trường mình lúc này không?
+[09:02] Theo tôi thấy thì xu hướng thế giới đang chuyển dịch mạnh sang CBDC rồi. Tuy nhiên, ở Việt Nam mình thì rào cản lớn nhất vẫn là hạ tầng công nghệ và thói quen dùng tiền mặt của người dân vùng sâu vùng xa.
+[09:04] Em cũng nghĩ vậy anh Bình, nhưng mà nếu mình không bắt đầu từ bây giờ thì sẽ bị tụt hậu so với các nước trong khu vực như Thái Lan hay Singapore đấy. Lan ơi, bên bộ phận pháp lý có cập nhật gì về khung quy định cho mảng này chưa?
+[09:06] Dạ anh, hiện tại chính phủ mới chỉ đang cho phép nghiên cứu và thử nghiệm trong phạm vi hẹp thôi. Chưa có văn bản chính thức nào về việc lưu hành rộng rãi đâu ạ. Mình cần phải làm việc kỹ với bên Ngân hàng Nhà nước để hiểu rõ giới hạn của đợt thí điểm này.
+[09:08] Vậy thì tốt nhất là team mình nên chuẩn bị một bản báo cáo đánh giá tác động đối với hệ thống thanh toán hiện tại của công ty. Nam giúp anh rà soát lại các cổng thanh toán đang tích hợp xem có sẵn sàng cho việc kết nối API với nền tảng tiền số không nhé.
+[09:10] Vâng sếp, em sẽ kiểm tra lại toàn bộ kiến trúc hệ thống và báo cáo lại vào thứ Sáu. Em nghĩ mình cũng nên cân nhắc đến vấn đề bảo mật và quyền riêng tư của khách hàng khi giao dịch bằng tiền kỹ thuật số.
+[09:12] Đúng rồi Nam, bảo mật là ưu tiên hàng đầu. Lan nhớ theo sát các buổi hội thảo của NHNN để cập nhật thông tin kịp thời nhé. Chúng ta không muốn bị bất ngờ khi chính sách thay đổi đâu.
+[09:14] Dạ em rõ rồi anh, em sẽ đăng ký tham gia các kỳ họp tới.
+[09:16] Ok, vậy chốt lại là Nam lo phần kỹ thuật, Lan lo phần pháp lý và báo cáo NHNN. Mọi người cố gắng nhé.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về tính khả thi và tác động của đề án thí điểm tiền kỹ thuật số (CBDC) tại thị trường Việt Nam.
+- Phân tích rào cản về hạ tầng và thói quen người dùng.
+- Chuẩn bị kế hoạch thích ứng cho hệ thống thanh toán của công ty.
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng dịch chuyển sang CBDC trên thế giới và sự cần thiết phải bắt kịp các nước láng giềng.
+- Thách thức về hạ tầng công nghệ và thói quen sử dụng tiền mặt của người dân.
+- Tình hình pháp lý hiện tại: mới ở mức nghiên cứu, chưa có văn bản chính thức cho lưu hành rộng rãi.
+- Sự sẵn sàng của hệ thống API và kiến trúc cổng thanh toán hiện có.
+- Vấn đề bảo mật và quyền riêng tư của khách hàng trong các giao dịch số.
+
+### 3. Kết luận và quyết định
+- Xây dựng báo cáo đánh giá tác động của tiền kỹ thuật số đối với hệ thống thanh toán của công ty.
+- Rà soát toàn bộ kiến trúc hệ thống để chuẩn bị cho khả năng tích hợp trong tương lai.
+- Theo sát các hoạt động của Ngân hàng Nhà nước để cập nhật khung pháp lý.
+- Đặt bảo mật thông tin khách hàng làm tiêu chí tiên quyết trong mọi giải pháp thử nghiệm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Rà soát kiến trúc hệ thống và khả năng kết nối API | Nam | 20/03/2026 |
+| Tham gia hội thảo NHNN và cập nhật khung pháp lý | Lan | 25/03/2026 |
+| Lập báo cáo đánh giá tác động đến hệ thống thanh toán | Anh Bình | 30/03/2026 |
+| Nghiên cứu giải pháp bảo mật cho giao dịch tiền số | Phòng Kỹ thuật | 05/04/2026 |

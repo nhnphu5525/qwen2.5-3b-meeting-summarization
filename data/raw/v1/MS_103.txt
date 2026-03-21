@@ -1,0 +1,42 @@
+<|input|>
+[14:00] Chào team, tình hình chuẩn bị cho lễ mở bán dự án nghỉ dưỡng ở Phú Quốc thế nào rồi?
+[14:01] Dạ anh, hiện tại bên Marketing đã chạy quảng cáo được một tuần, lượng quan tâm (lead) về khá tốt ạ.
+[14:03] Ừ, anh thấy báo cáo có hơn 200 khách đăng ký nhận tư vấn rồi, con số này khả quan đấy.
+[14:04] Ờ... nhưng mà em thấy cái bộ tài liệu bán hàng (sales kit) vẫn còn thiếu thông tin về chính sách cam kết lợi nhuận.
+[14:06] Cái đó bên pháp lý với tài chính đang chốt phương án cuối cùng, chắc là trong chiều nay sẽ có thôi.
+[14:07] Anh muốn mình làm thật kỹ cái vụ cam kết này, vì khách hàng bây giờ họ rất thận trọng.
+[14:09] Dạ vâng, em sẽ cập nhật ngay khi có thông báo chính thức.
+[14:10] Thế còn mặt bằng sự kiện thì sao? Đã chốt được đơn vị thi công chưa?
+[14:12] Dạ đã chốt bên công ty Kiến Tạo rồi ạ, họ cam kết sẽ bàn giao mặt bằng trước ngày 20 để mình setup.
+[14:13] Nhớ kiểm tra kỹ hệ thống âm thanh ánh sáng nha, đừng để xảy ra sơ suất gì trong lúc diễn ra.
+[14:15] Dạ, em sẽ trực tiếp giám sát khâu này ạ.
+[14:16] Ok, team cố gắng lên nhé, dự án này là trọng điểm của quý này đấy.
+[14:18] Dạ tụi em sẽ quyết tâm ạ!
+[14:19] Thôi mọi người làm việc tiếp đi.
+
+<|output|>
+# Chuẩn bị lễ mở bán dự án nghỉ dưỡng Phú Quốc
+
+## I. Nội dung chính
+### 1. Mục tiêu cuộc họp
+- Đánh giá tiến độ chuẩn bị cho lễ mở bán dự án nghỉ dưỡng tại Phú Quốc.
+- Rà soát các tài liệu bán hàng và khâu tổ chức sự kiện.
+
+### 2. Các vấn đề đã thảo luận
+- Hiệu quả quảng cáo Marketing ban đầu đạt kết quả tích cực với hơn 200 lead quan tâm.
+- Bộ tài liệu bán hàng (sales kit) hiện tại đang thiếu nội dung quan trọng về chính sách cam kết lợi nhuận.
+- Đã chốt đơn vị thi công mặt bằng sự kiện (Công ty Kiến Tạo) với cam kết bàn giao đúng hạn.
+- Tầm quan trọng của việc kiểm soát hệ thống kỹ thuật (âm thanh, ánh sáng) trong lễ mở bán.
+
+### 3. Kết luận và quyết định
+- Yêu cầu bộ phận Pháp lý và Tài chính hoàn thiện chính sách cam kết lợi nhuận trong ngày hôm nay.
+- Giao nhiệm vụ giám sát thi công và setup hạ tầng sự kiện cho nhân sự phụ trách trực tiếp.
+- Đặt mục tiêu chuyển đổi cao từ danh sách khách hàng tiềm năng hiện có.
+
+## II. Danh sách công việc cần làm
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện chính sách cam kết lợi nhuận | Phòng Pháp lý & Tài chính | 11/01/2026 |
+| Cập nhật Sales Kit và gửi cho team Sale | Marketing | 12/01/2026 |
+| Giám sát đơn vị thi công mặt bằng | Chưa rõ | 20/01/2026 |
+| Kiểm tra kỹ thuật âm thanh, ánh sáng | Kỹ thuật sự kiện | 22/01/2026 |

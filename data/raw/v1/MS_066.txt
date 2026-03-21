@@ -1,0 +1,48 @@
+<|input|>
+[15:00] Chào anh Hùng, chào team khai thác. Hôm nay mình ngồi lại để chốt nốt mấy cái khâu cuối cho đường bay thẳng từ Cam Ranh đi Seoul (Hàn Quốc) nha. Dự kiến là tháng 7 mình bay chuyến đầu tiên đó.
+[15:02] Ừ, cái giấy phép bay từ phía Cục Hàng không Hàn Quốc sao rồi em? Họ đã duyệt lịch bay cho mình chưa?
+[15:04] Dạ... ờ thì... hiện tại là họ đã cấp slot cho mình vào khung giờ đêm rồi ạ. Nhưng mà bên mình đang muốn đẩy lên khung giờ sáng để thuận tiện cho khách du lịch hơn.
+[15:06] Giờ đêm thì khó bán vé lắm. Hùng ơi, em có thể liên hệ lại với đại diện bên đó để thương lượng thêm không? Chấp nhận phí slot cao hơn một chút cũng được.
+[15:08] Dạ, để em thử xem sao ạ. Nhưng mà... là... họ cũng báo là sân bay Incheon đợt này đang quá tải nên slot sáng rất hiếm. Có thể mình phải xem xét phương án bay vào khung giờ chiều tối.
+[15:10] Ừ, khung giờ đó cũng tạm ổn hơn đêm. Còn cái vụ quảng bá hình ảnh ở bên Hàn Quốc thì sao? Mình đã làm việc với bên KTO (Tổng cục Du lịch Hàn Quốc) chưa?
+[15:12] Dạ, tụi em đã ký thỏa thuận hợp tác truyền thông với họ rồi ạ. Sắp tới sẽ có một chiến dịch lớn trên mạng xã hội và các kênh truyền hình tại Seoul để quảng bá du lịch Nha Trang.
+[15:14] Tốt. Còn về đội bay? Mình sẽ dùng tàu bay Airbus A321 Neo cho chặng này đúng không?
+[15:16] Dạ đúng rồi ạ. Tuy nhiên, đội ngũ tiếp viên đang bị thiếu khoảng 2 tổ bay có chứng chỉ tiếng Hàn. Em đang đề xuất phương án tuyển thêm hoặc điều chuyển từ các chặng khác sang.
+[15:18] Thiếu nhân sự là vấn đề lớn đó. Phải chốt phương án tuyển dụng ngay trong tuần này nha.
+[15:20] Dạ vâng. Còn cái vụ liên kết với các công ty lữ hành tại Khánh Hòa để bán tour trọn gói, em đã làm việc với 5 đơn vị lớn rồi. Họ cam kết sẽ lấp đầy ít nhất 60% công suất ghế cho mình trong 3 tháng đầu.
+[15:22] Con số 60% là tạm ổn, nhưng mục tiêu của mình phải là 80% nha. Cố gắng làm thêm các chương trình khuyến mãi đầu mùa đi.
+[15:24] Dạ, em sẽ lên kế hoạch chi tiết cho các gói combo vé máy bay và khách sạn luôn ạ.
+[15:26] OK, chốt thế đi. Mọi người cố gắng nha.
+
+<|output|>
+# Kế hoạch mở đường bay Cam Ranh - Seoul
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Cập nhật tiến độ xin cấp slot bay tại sân bay Incheon (Hàn Quốc).
+- Thảo luận về chiến dịch truyền thông và hợp tác du lịch.
+- Giải quyết vấn đề thiếu hụt nhân sự có kỹ năng tiếng Hàn.
+- Đặt mục tiêu về hiệu suất khai thác đường bay mới.
+
+### 2. Các vấn đề đã thảo luận
+- Slot bay: Hiện tại chỉ được cấp khung giờ đêm, đang thương lượng để chuyển sang giờ chiều tối do giờ sáng bị quá tải.
+- Truyền thông: Đã ký kết với KTO để quảng bá Nha Trang tại thị trường Hàn Quốc qua mạng xã hội và truyền hình.
+- Đội bay: Sử dụng Airbus A321 Neo, nhưng đang thiếu 2 tổ bay có chứng chỉ tiếng Hàn.
+- Kinh doanh: Đã hợp tác với 5 đơn vị lữ hành, cam kết 60% công suất ghế; mục tiêu lãnh đạo đưa ra là 80%.
+
+### 3. Kết luận và quyết định
+- Tiếp tục đàm phán với phía Hàn Quốc để có khung giờ bay thuận lợi nhất cho khách du lịch.
+- Thực hiện chiến dịch truyền thông mạnh mẽ tại Seoul theo thỏa thuận với KTO.
+- Tuyển dụng hoặc điều động bổ sung tiếp viên tiếng Hàn trong tuần này.
+- Xây dựng thêm các gói combo khuyến mãi để tăng tỷ lệ lấp đầy chuyến bay lên 80%.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thương lượng lại slot bay với phía Hàn Quốc | Phòng Khai thác | 25/05/2024 |
+| Triển khai chiến dịch quảng bá tại Seoul | Phòng Marketing | 01/06/2024 |
+| Tuyển dụng bổ sung tiếp viên biết tiếng Hàn | Phòng Nhân sự | 30/05/2024 |
+| Xây dựng gói combo vé máy bay và tour | Phòng Kinh doanh | 05/06/2024 |
+| Báo cáo dự báo hiệu suất hàng tuần | Phòng Kinh doanh | Hàng tuần |

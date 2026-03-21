@@ -1,0 +1,45 @@
+<|input|>
+[15:00] Chào anh Hùng và các bạn phòng kế toán. Hôm nay chúng ta họp để xem xét kết quả đợt kiểm toán nội bộ về chi phí quản lý doanh nghiệp trong quý vừa qua. Anh Hùng thấy có khoản chi nào bất thường không ạ?
+[15:02] Qua rà soát, tôi thấy chi phí tiếp khách và công tác phí đang có xu hướng tăng vọt, vượt định mức gần 20%. Có một số hóa đơn tiếp khách vào ngày cuối tuần nhưng không đi kèm với biên bản ghi nhớ hay nội dung công việc cụ thể.
+[15:04] Cái này em cũng thấy lạ anh Hùng. Một số bạn bên phòng kinh doanh gửi hồ sơ thanh toán tiền taxi nhưng lộ trình lại không khớp với địa chỉ khách hàng trong lịch trình công tác. Nếu mình cứ duyệt chi dễ dãi thế này thì sẽ tạo tiền lệ xấu.
+[15:06] Đúng rồi Mai. Anh đề nghị mình phải siết chặt quy trình thanh quyết toán. Từ giờ, mọi hóa đơn tiếp khách trên 2 triệu đồng phải có sự phê duyệt trước của trưởng bộ phận bằng văn bản hoặc email. Các bạn kế toán thanh toán phải đối chiếu kỹ lịch trình di chuyển với hóa đơn taxi nhé.
+[15:08] Dạ vâng anh. Còn vấn đề văn phòng phẩm thì sao ạ? Em thấy tháng này lượng giấy in và mực in tiêu thụ tăng gấp đôi so với tháng trước dù số lượng nhân sự không thay đổi.
+[15:10] Tôi đã kiểm tra lại, có vẻ như một số bộ phận đang in ấn tài liệu cá nhân hoặc các tài liệu dự án cũ không cần thiết. Mai giúp anh soạn một cái thông báo về việc thực hành tiết kiệm văn phòng phẩm, khuyến khích mọi người sử dụng tài liệu điện tử thay vì in ấn tràn lan.
+[15:12] Ngoài ra, mình cũng cần rà soát lại các khoản chi phí sửa chữa thiết bị. Anh thấy có mấy đơn vị báo giá bảo trì máy lạnh khá cao, mình nên tìm thêm ít nhất 2 nhà cung cấp khác để so sánh giá trước khi quyết định ký hợp đồng dài hạn.
+[15:14] Vâng anh, em sẽ chủ động tìm kiếm các đơn vị uy tín khác. Anh Hùng ơi, còn các khoản tạm ứng quá hạn của một số nhân viên đã nghỉ việc thì mình xử lý thế nào ạ?
+[15:16] Cái này gay go đây. Em gửi danh sách đó cho anh, anh sẽ làm việc với phòng Nhân sự để trừ vào các khoản trợ cấp thôi việc của họ nếu vẫn chưa thanh toán xong. Từ nay về sau, ai chưa hoàn ứng xong thì tuyệt đối không cho tạm ứng đợt mới.
+[15:18] Dạ em rõ rồi ạ. Em sẽ tổng hợp số liệu và gửi cho anh trong chiều nay để mình có báo cáo chi tiết cho ban giám đốc.
+[15:20] OK, các bạn tập trung làm kỹ đợt này nhé. Mình phải minh bạch hóa mọi chi phí thì công ty mới phát triển bền vững được.
+[15:22] Chào mọi người, cuộc họp kết thúc.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và đánh giá kết quả kiểm toán nội bộ về chi phí quản lý quý vừa qua.
+- Chỉnh sửa quy trình thanh quyết toán để hạn chế các khoản chi không hợp lý.
+- Đề xuất các giải pháp tiết kiệm chi phí văn phòng và quản lý tạm ứng nhân viên.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí tiếp khách và công tác phí tăng 20%, có dấu hiệu thiếu minh bạch trong hóa đơn taxi và ăn uống cuối tuần.
+- Lãng phí văn phòng phẩm (giấy, mực in) do thói quen in ấn không cần thiết.
+- Giá bảo trì thiết bị (máy lạnh) cao so với thị trường, cần đa dạng hóa nhà cung cấp.
+- Tình trạng nợ tạm ứng kéo dài của nhân viên, bao gồm cả những người đã nghỉ việc.
+
+### 3. Kết luận và quyết định
+- Siết chặt quy trình phê duyệt chi phí tiếp khách (phải có xác nhận trước của trưởng bộ phận cho hóa đơn trên 2 triệu).
+- Thực hiện đối chiếu nghiêm ngặt lộ trình công tác với chứng từ vận chuyển.
+- Phát động phong trào tiết kiệm văn phòng phẩm và ưu tiên số hóa tài liệu.
+- Yêu cầu ít nhất 3 báo giá cạnh tranh cho các dịch vụ bảo trì định kỳ.
+- Không duyệt tạm ứng mới cho cá nhân chưa hoàn thành thanh quyết toán đợt cũ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thông báo tiết kiệm văn phòng phẩm và quy định chi tiêu | Mai | 19/03/2026 |
+| Tổng hợp danh sách tạm ứng quá hạn và phối hợp với phòng NS | Mai | 20/03/2026 |
+| Tìm kiếm nhà cung cấp dịch vụ bảo trì máy lạnh mới | Phòng Kế toán | 25/03/2026 |
+| Báo cáo chi tiết sai lệch chi phí cho Ban Giám đốc | Anh Hùng | 23/03/2026 |

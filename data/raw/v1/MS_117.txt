@@ -1,0 +1,44 @@
+<|input|>
+[09:00:15] Chào cả nhà, hôm nay mình họp để thống nhất lại chính sách Work From Home (WFH) cho nhân viên khối văn phòng nhé. Dạo này chị thấy nhiều bạn đi làm muộn với lý do kẹt xe quá.
+[09:01:25] Em thấy phương án cho nhân viên làm việc tại nhà 2 ngày/tuần là hợp lý nhất chị ạ. Vừa giúp mọi người chủ động thời gian, vừa giảm chi phí vận hành cho công ty.
+[09:02:40] Nhưng làm sao để mình kiểm soát được hiệu suất công việc hả Thảo? Anh sợ mọi người ở nhà lại làm việc riêng, gọi điện không thấy đâu thì mệt lắm.
+[09:03:55] Anh Hùng ơi, mình sẽ dựa trên kết quả đầu ra (KPI) để đánh giá chứ không dựa trên thời gian có mặt online nữa. Mỗi sáng thứ Hai, các bạn sẽ phải gửi kế hoạch làm việc tuần cho quản lý trực tiếp duyệt.
+[09:05:10] Về phần hạ tầng, em thấy cần trang bị phần mềm chấm công online và hệ thống quản lý task tập trung như Jira hoặc Trello. Như thế thì ai đang làm gì, đến đâu rồi mình nắm được hết.
+[09:06:25] Jira thì team kỹ thuật rành rồi, nhưng mấy bạn bên hành chính hay marketing sợ dùng không quen. Thảo nghiên cứu thêm cái Base Workflow xem sao, giao diện tiếng Việt dễ dùng hơn.
+[09:07:45] Vâng anh, để em tìm hiểu thử. Mà chị Lan ơi, chính sách WFH này mình có áp dụng cho cả nhân viên đang trong thời gian thử việc không ạ?
+[09:09:00] Chị nghĩ nhân viên thử việc thì nên lên văn phòng ít nhất một tháng đầu để hòa nhập văn hóa và nắm bắt quy trình đã. Sau đó nếu đánh giá tốt thì mới cho WFH.
+[09:10:20] Đồng ý. Còn một vấn đề nữa là chi phí hỗ trợ điện nước, internet khi làm tại nhà. Nhiều công ty họ cũng có khoản hỗ trợ nhỏ nhỏ cho nhân viên đấy.
+[09:11:35] Ngân sách mình hiện tại chưa cho phép đâu anh Hùng. Thôi thì mình bù lại bằng việc tổ chức các buổi teabreak hoành tráng hơn khi mọi người tụ tập đông đủ vào thứ Sáu vậy.
+[09:12:50] OK, vậy Thảo soạn thảo bản dự thảo chính sách WFH chi tiết, trong đó ghi rõ quyền lợi, trách nhiệm và cách thức báo cáo nhé. Gửi chị duyệt vào thứ Năm tới.
+[09:14:10] Dạ chị, em sẽ làm luôn ạ. Hy vọng chính sách mới này sẽ giúp anh em có động lực làm việc tốt hơn.
+
+<|output|>
+# Xây dựng chính sách Work From Home (WFH) cho nhân viên
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất mô hình làm việc kết hợp (Hybrid working) để tăng tính linh hoạt và hiệu quả cho nhân viên.
+- Đề xuất các công cụ quản lý công việc từ xa hiệu quả.
+
+### 2. Các vấn đề đã thảo luận
+- Đề xuất cho phép nhân viên WFH tối đa 2 ngày/tuần.
+- Chuyển dịch từ quản lý thời gian sang quản lý hiệu suất (KPI) và kết quả công việc.
+- Sử dụng các phần mềm quản lý công việc (Jira, Trello, Base Workflow) để theo dõi tiến độ task.
+- Nhân viên thử việc cần làm việc tại văn phòng trong tháng đầu tiên để đào tạo hội nhập.
+- Chưa áp dụng các khoản phụ cấp điện nước, internet khi làm tại nhà do giới hạn ngân sách.
+
+### 3. Kết luận và quyết định
+- Áp dụng mô hình làm việc Hybrid sau khi hoàn thiện quy trình báo cáo và kiểm soát.
+- Yêu cầu nhân viên lập kế hoạch công việc tuần vào sáng thứ Hai hàng tuần.
+- Lựa chọn phần mềm quản lý công việc phù hợp với đặc thù từng phòng ban.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo dự thảo chính sách WFH chi tiết | Thảo | Thứ Năm tới |
+| Nghiên cứu và đề xuất phần mềm quản lý task (Base Workflow) | Thảo | Thứ Sáu tới |
+| Review lại bảng mô tả KPI cho các vị trí nhân sự | Anh Hùng | Thứ Hai tuần sau |
+| Họp thông báo chính sách mới cho toàn thể công ty | Chị Lan | Thứ Tư tuần tới |
+| Cài đặt và hướng dẫn sử dụng phần mềm quản lý mới | Team IT | Thứ Bảy tới |

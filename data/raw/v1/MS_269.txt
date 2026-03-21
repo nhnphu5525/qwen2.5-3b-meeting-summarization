@@ -1,0 +1,51 @@
+<|input|>
+[14:00] Chào các thầy cô trong Hội đồng Khoa học và Ban Giám hiệu. Hôm nay chúng ta họp để thảo luận về đề án cải cách mô hình quản trị đại học theo hướng tự chủ toàn diện. Đây là một bước ngoặt lớn để nâng cao vị thế và chất lượng đào tạo của nhà trường. Giáo sư Thành, thầy có thể chia sẻ kinh nghiệm về việc thực hiện tự chủ tại các trường đại học quốc tế không?
+[14:05] Chào thầy Hiệu trưởng, chào các đồng nghiệp. Tôi là Thành. Tự chủ đại học không chỉ là tự lo về tài chính mà quan trọng nhất là tự chủ về học thuật và nhân sự. Ở các nước phát triển, nhà trường được quyền tự quyết định chương trình đào tạo, phương thức tuyển sinh và đặc biệt là cơ chế trả lương dựa trên năng lực và đóng góp khoa học thay vì theo thâm niên hay ngạch bậc công chức. Tuy nhiên, thách thức lớn nhất khi tự chủ là làm sao để duy trì được các ngành khoa học cơ bản vốn ít người học nhưng lại là nền tảng của tri thức.
+[14:10] Chào thầy Thành, tôi là Lan bên bộ phận Tài chính - Kế hoạch. Khi chuyển sang tự chủ 100% chi thường xuyên, nguồn thu của trường sẽ phụ thuộc chủ yếu vào học phí và các dự án nghiên cứu chuyển giao công nghệ. Tôi lo ngại rằng nếu tăng học phí quá cao để bù đắp chi phí, chúng ta sẽ làm mất cơ hội tiếp cận giáo dục của những sinh viên nghèo học giỏi. Chúng ta cần một cơ chế học bổng và tín dụng sinh viên nội bộ thật mạnh mẽ.
+[14:15] Chào cô Lan, thầy Thành. Tôi là Dũng, Trưởng phòng Đào tạo. Về tự chủ học thuật, tôi đề xuất chúng ta nên mở rộng các chương trình liên kết quốc tế và các ngành học mới mang tính liên ngành (interdisciplinary). Ví dụ như ngành "Kinh tế số" hay "Luật công nghệ". Việc này sẽ giúp đa dạng hóa nguồn thu và đáp ứng đúng nhu cầu thị trường lao động. Tuy nhiên, chúng ta cần một quy trình thẩm định nội bộ cực kỳ khắt khe để đảm bảo chất lượng.
+[14:20] Chào thầy Dũng, tôi là Hương bên bộ phận Tổ chức cán bộ. Tự chủ nhân sự là một "bài toán khó". Chúng ta cần xây dựng bộ chỉ số KPI chi tiết cho từng giảng viên. Ai nghiên cứu tốt thì giảm giờ dạy, ai dạy tốt thì tập trung vào đào tạo. Việc chuyển đổi từ cơ chế biên chức sang hợp đồng lao động sẽ gây tâm lý lo ngại cho một bộ phận giảng viên lâu năm. Chúng ta cần có lộ trình truyền thông và các chính sách đãi ngộ thỏa đáng để giữ chân hiền tài.
+[14:25] Chào các thầy cô, tôi là Minh bên bộ phận Đảm bảo chất lượng. Để tự chủ thành công, chúng ta phải đạt được các chứng nhận kiểm định chất lượng quốc tế như AUN-QA hay ABET. Đây là "giấy thông hành" để chúng ta khẳng định uy tín với xã hội và các đối tác nước ngoài. Tôi đề nghị trong năm tới, trường cần ưu tiên kinh phí cho việc kiểm định 5 chương trình đào tạo mũi nhọn.
+[14:30] Chào thầy Hiệu trưởng, tôi là Bình, đại diện Hội sinh viên. Sinh viên chúng em rất ủng hộ việc tự chủ nếu đi kèm với việc nâng cấp cơ sở vật chất, thư viện và các dịch vụ hỗ trợ việc làm. Chúng em cũng mong muốn có tiếng nói hơn trong các quyết định liên quan đến đời sống và học tập. Nhà trường nên cân nhắc việc mời đại diện sinh viên tham gia một số phiên họp của Hội đồng trường.
+[14:35] Ý kiến của Bình rất đáng ghi nhận. Một môi trường đại học hiện đại phải lấy người học làm trung tâm. Chào cô Lan, cô giúp tôi rà soát lại quỹ phát triển hoạt động sự nghiệp để dành ra một khoản ngân sách đáng kể cho quỹ học bổng "Thắp sáng tài năng" dành cho sinh viên khó khăn. Chào thầy Dũng, thầy lên kế hoạch rà soát lại toàn bộ chương trình đào tạo, tinh gọn những phần lạc hậu.
+[14:40] Vâng thưa thầy Hiệu trưởng. Chào thầy Thành, em muốn hỏi thêm về mô hình doanh nghiệp trong lòng đại học (Spin-off). Liệu chúng ta có nên khuyến khích giảng viên và sinh viên thành lập các startup dựa trên kết quả nghiên cứu không? Chào Dũng, đó là một mô hình rất tuyệt vời để thực hiện tự chủ tài chính một cách bền vững. Nhà trường có thể góp vốn bằng bản quyền trí tuệ và hạ tầng phòng lab.
+[14:45] Chào mọi người, tôi là Phương bên bộ phận Đối ngoại. Tôi sẽ đẩy mạnh việc kết nối với các tập đoàn lớn để xây dựng các trung tâm R&D ngay tại trường. Doanh nghiệp sẽ đầu tư thiết bị, còn chúng ta cung cấp nhân lực và chất xám. Đây là mô hình "Win-Win" mà nhiều trường tại Mỹ và Singapore đang làm rất tốt.
+[14:50] Tốt lắm. Vậy chúng ta thống nhất: Thầy Thành và thầy Dũng soạn thảo khung tự chủ học thuật; Cô Hương xây dựng đề án vị trí việc làm và KPI; Cô Lan dự thảo phương án tài chính và quỹ học bổng; Cô Phương kết nối doanh nghiệp. Chúng ta sẽ có một buổi hội thảo lấy ý kiến toàn thể cán bộ công nhân viên vào tháng sau.
+[14:55] Chào thầy Hiệu trưởng, chúng tôi tin rằng với sự đoàn kết và quyết tâm, trường chúng ta sẽ thực hiện thành công đề án này. Buổi họp kết thúc.
+[15:00] Chào tạm biệt các thầy cô.
+
+<|output|>
+# Đề án Tự chủ Đại học và Cải cách Mô hình Quản trị
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về lộ trình và các giải pháp thực hiện tự chủ đại học toàn diện (tài chính, học thuật, nhân sự).
+- Giải quyết các thách thức về nguồn thu, chất lượng đào tạo và tâm lý cán bộ giảng viên khi chuyển đổi cơ chế.
+- Thống nhất các chính sách hỗ trợ sinh viên và kết nối doanh nghiệp trong mô hình quản trị mới.
+
+### 2. Các vấn đề đã thảo luận
+- Tự chủ học thuật: Mở rộng các ngành học liên ngành, liên kết quốc tế; duy trì các ngành khoa học cơ bản làm nền tảng.
+- Tự chủ tài chính: Đa dạng hóa nguồn thu từ học phí, nghiên cứu chuyển giao và mô hình doanh nghiệp Spin-off. Cần cơ chế học bổng mạnh mẽ để hỗ trợ sinh viên nghèo.
+- Tự chủ nhân sự: Áp dụng KPI, thay đổi từ cơ chế biên chế sang hợp đồng lao động; thu hút và giữ chân nhân tài bằng chính sách đãi ngộ dựa trên năng lực.
+- Kiểm định chất lượng: Ưu tiên đạt chuẩn quốc tế (AUN-QA, ABET) để khẳng định uy tín.
+- Mô hình kết hợp: Xây dựng các trung tâm R&D tại trường với sự đầu tư của doanh nghiệp lớn.
+- Vai trò sinh viên: Tăng cường tiếng nói và sự tham gia của sinh viên trong các quyết định của nhà trường.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương xây dựng quỹ học bổng "Thắp sáng tài năng" cho sinh viên khó khăn khi thực hiện tự chủ tài chính.
+- Triển khai xây dựng hệ thống KPI và đề án vị trí việc làm mới cho toàn bộ cán bộ, giảng viên.
+- Ưu tiên kinh phí kiểm định chất lượng cho 5 chương trình đào tạo mũi nhọn trong năm học tới.
+- Khuyến khích mô hình khởi nghiệp Spin-off dựa trên các kết quả nghiên cứu khoa học của giảng viên và sinh viên.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo khung tự chủ học thuật và đào tạo | Thầy Dũng & Thầy Thành | 20/04/2025 |
+| Xây dựng hệ thống KPI và chính sách đãi ngộ mới | Cô Hương (TCCB) | 30/04/2025 |
+| Dự thảo phương án tài chính và quỹ học bổng | Cô Lan (Tài chính) | 15/04/2025 |
+| Kế hoạch kiểm định chất lượng 5 ngành mũi nhọn | Cô Minh (ĐBCL) | 10/04/2025 |
+| Kết nối doanh nghiệp thành lập trung tâm R&D | Cô Phương (Đối ngoại) | 25/04/2025 |
+| Tổ chức hội thảo lấy ý kiến CB-GV toàn trường | Ban Giám hiệu | 15/05/2025 |
+| Đề xuất cơ chế tham gia của sinh viên vào Hội đồng trường | Anh Bình (Hội sinh viên) | 10/05/2025 |
+| Chỉ đạo tổng thể đề án tự chủ | Thầy Hiệu trưởng | Định kỳ |

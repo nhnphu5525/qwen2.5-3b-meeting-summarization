@@ -1,0 +1,37 @@
+<|input|>
+[09:00] Chào chị Lan, chào mọi người. Hôm nay mình thảo luận về chương trình đào tạo kỹ năng mềm cho các anh chị quản lý cấp trung sắp tới nhé.
+[09:02] Dạ vâng, em thấy hiện tại các quản lý trưởng phòng mình đang hơi yếu về mảng quản lý thời gian với lại kỹ năng giải quyết xung đột trong team.
+[09:04] Ờ... đúng rồi, đợt vừa rồi có mấy vụ lùm xùm giữa các phòng ban mà xử lý chưa được khéo lắm. 
+[09:06] Thì mình dự kiến thuê bên ngoài hay là để nội bộ tự làm chị nhỉ?
+[09:08] Dạ, em đề xuất mình thuê chuyên gia bên ngoài về mảng giải quyết xung đột, còn quản lý thời gian thì có thể để các sếp lớn chia sẻ kinh nghiệm cho gần gũi.
+[09:10] Ý hay đó, nhưng mà phải sắp xếp thời gian sao cho không ảnh hưởng đến công việc chuyên môn của họ. 
+[09:12] Thì mình có thể chia ra các buổi chiều thứ 6 hàng tuần, mỗi buổi khoảng 3 tiếng thôi. 
+[09:14] Ok, vậy nhờ Lan lên cái danh sách chi tiết các chuyên đề và liên hệ với vài trung tâm đào tạo để lấy báo giá nhé.
+[09:16] Dạ vâng, để em hoàn thành sớm trong tuần tới ạ.
+
+<|output|>
+# Kế hoạch đào tạo kỹ năng mềm cho quản lý cấp trung
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác định các kỹ năng thiếu hụt của đội ngũ quản lý cấp trung hiện tại.
+- Thống nhất hình thức và thời gian đào tạo phù hợp để nâng cao năng lực quản trị.
+
+### 2. Các vấn đề đã thảo luận
+- Các kỹ năng cần ưu tiên: Quản lý thời gian và Giải quyết xung đột nội bộ.
+- Phối hợp giữa đào tạo nội bộ (chia sẻ kinh nghiệm từ lãnh đạo cao cấp) và thuê chuyên gia bên ngoài.
+- Lịch trình dự kiến: Các buổi chiều thứ 6 hàng tuần để hạn chế ảnh hưởng tới tiến độ công việc chính.
+
+### 3. Kết luận và quyết định
+- Phê duyệt kế hoạch đào tạo tập trung vào 2 chuyên đề then chốt.
+- Phòng Nhân sự chịu trách nhiệm tìm kiếm đơn vị đào tạo uy tín và lên ngân sách chi tiết.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lên danh sách chuyên đề và nội dung đào tạo chi tiết | Chị Lan (HR) | 20/10/2023 |
+| Tìm kiếm và xin báo giá từ các trung tâm đào tạo | Phòng Nhân sự | 25/10/2023 |
+| Sắp xếp lịch họp với lãnh đạo để phân công chia sẻ nội bộ | Thư ký tổng hợp | 22/10/2023 |
+| Thông báo lịch đào tạo cho các bộ phận liên quan | Phòng Nhân sự | 28/10/2023 |

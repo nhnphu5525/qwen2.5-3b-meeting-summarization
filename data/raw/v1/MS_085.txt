@@ -1,0 +1,44 @@
+<|input|>
+[09:00] Chào mọi người, hôm nay chúng ta họp bàn về dự án điện gió ngoài khơi tại khu vực Bình Thuận nhé.
+[09:01] Dạ, hiện tại tiến độ xin giấy phép khảo sát đáy biển... ờ... đang hơi bị chậm do vướng quy định mới của bên Bộ Tài nguyên Môi trường ạ.
+[09:03] Đúng rồi, thì là... mình phải làm rõ cái tác động đến luồng tàu chạy qua khu vực đó nữa, chứ sếp ạ, không là Cục Hàng hải họ không duyệt đâu.
+[09:05] Tôi lo nhất là cái công nghệ tua-bin gió. Mình nên chọn loại 15MW hay 18MW hả Nam?
+[09:06] Ờ theo em thấy mình nên dùng loại 15MW cho nó ổn định. Cái 18MW nó mới quá, ờ... chưa có nhiều dữ liệu vận hành thực tế sếp ơi.
+[09:08] Về phần kết nối lưới điện thì sao hả Lan? Trạm biến áp trên bờ của mình đã sẵn sàng chưa nhỉ?
+[09:10] Dạ chưa sếp ơi, dạ... cái đường dây 500kV đi qua khu dân cư đang bị bà con phản đối vì đền bù đất đai ạ.
+[10:12] Thì là... mình phải làm việc với chính quyền địa phương để giải quyết dứt điểm khâu này chứ. Không có lưới điện thì phong điện cũng để đấy thôi.
+[10:14] Ngoài ra, chi phí thuê tàu cẩu chuyên dụng để lắp ráp ngoài khơi cũng đang tăng chóng mặt luôn ạ.
+[10:16] OK, vậy chốt thế này. Nam lo phần làm việc với các Bộ ngành để lấy giấy phép khảo sát. Lan tập trung vào khâu đền bù trạm biến áp.
+[10:18] Dạ sếp, em sẽ báo cáo tiến độ vào tuần sau ạ.
+[10:20] Tốt, mọi người chú ý cái deadline nộp hồ sơ đấu thầu vào cuối tháng sau nhé.
+
+<|output|>
+# Dự án điện gió ngoài khơi Bình Thuận - Giai đoạn 1
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tiến độ xin cấp phép khảo sát và phân tích tác động hàng hải của dự án điện gió ngoài khơi.
+- Thảo luận lựa chọn công nghệ tua-bin và các vấn đề về kết nối lưới điện quốc gia.
+- Giải quyết các vướng mắc về đền bù đất đai cho trạm biến áp và đường dây truyền tải.
+
+### 2. Các vấn đề đã thảo luận
+- Sự thay đổi trong quy định cấp phép khảo sát đáy biển gây chậm trễ cho tiến độ dự án.
+- Quan ngại về luồng vận tải hàng hải và sự cần thiết của ý kiến đồng thuận từ Cục Hàng hải.
+- So sánh ưu nhược điểm giữa tua-bin 15MW (ổn định) và 18MW (công nghệ mới, rủi ro vận hành).
+- Khó khăn trong việc giải phóng mặt bằng cho hệ thống đường dây 500kV và trạm biến áp trên bờ.
+- Chi phí thuê tàu thi công ngoài khơi tăng cao ảnh hưởng đến tổng mức đầu tư dự án.
+
+### 3. Kết luận và quyết định
+- Chốt sử dụng tua-bin công suất 15MW để đảm bảo tính an toàn và ổn định lâu dài cho hệ thống.
+- Phối hợp chặt chẽ với chính quyền địa phương để đẩy nhanh công tác đền bù và giải phóng mặt bằng.
+- Tập trung hoàn thiện hồ sơ đấu thầu để kịp tiến độ nộp vào cuối tháng tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Làm việc với Bộ Tài nguyên Môi trường về giấy phép khảo sát | Anh Nam | 10/12/2024 |
+| Soạn thảo phương án an toàn hàng hải trình Cục Hàng hải | Phòng Kỹ thuật | 15/12/2024 |
+| Vận động người dân bàn giao mặt bằng trạm biến áp | Chị Lan (HR/PR) | 20/12/2024 |
+| Đàm phán lại giá thuê tàu lắp ráp ngoài khơi | Phòng Mua hàng | 25/12/2024 |

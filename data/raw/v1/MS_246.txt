@@ -1,0 +1,45 @@
+<|input|>
+[09:00] Chào anh Quân, chị Hạnh, hôm nay mình bàn về việc triển khai tính năng xác thực sinh trắc học (biometrics) cho ứng dụng Mobile Banking của mình nhé.
+[09:02] Vâng, hiện tại khách hàng phản hồi là việc nhập mã OTP qua SMS mỗi lần chuyển khoản nhỏ lẻ hơi phiền phức và đôi khi tin nhắn về chậm.
+[09:05] Tôi đồng ý, việc dùng FaceID hay vân tay sẽ giúp trải nghiệm người dùng mượt mà hơn nhiều mà vẫn đảm bảo an toàn.
+[09:08] Tuy nhiên, anh Quân cần lưu ý vấn đề bảo mật dữ liệu sinh trắc học, mình phải mã hóa và lưu trữ đúng tiêu chuẩn quốc tế để tránh rò rỉ.
+[09:11] Chắc chắn rồi chị Hạnh, em định dùng giải pháp FIDO2 để tăng tính bảo mật và tương thích với hầu hết các dòng smartphone hiện nay.
+[09:14] Ngoài ra, mình có nên giới hạn hạn mức giao dịch khi dùng sinh trắc học không? Ví dụ dưới 5 triệu thì cho dùng, trên đó vẫn phải cần mã PIN hoặc OTP?
+[09:17] Ý tưởng này hay đấy, nó giúp giảm rủi ro trong trường hợp người dùng bị ép buộc mở khóa điện thoại.
+[09:20] Anh Quân xem giúp em tiến độ tích hợp vào bản build tới thế nào, sếp đang hối thúc muốn demo trong tháng sau.
+[09:23] Nếu mọi việc thuận lợi, cuối tuần sau team Dev sẽ có bản Alpha để team QA test nội bộ trước.
+[09:26] Chị Hạnh phụ trách soạn thảo lại các điều khoản sử dụng và chính sách bảo mật cập nhật cho tính năng mới này nhé.
+[09:29] Nhất trí, tôi sẽ hoàn thiện bộ tài liệu pháp lý này vào thứ Tư tới.
+[09:32] OK, chốt vậy nhé. Anh Quân nhớ theo sát team Security để kiểm tra các lỗ hổng tiềm ẩn trước khi release.
+
+<|output|>
+# Triển khai tính năng xác thực sinh thực học cho ứng dụng Mobile Banking
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất phương án triển khai xác thực sinh trắc học (biometrics) để cải thiện trải nghiệm người dùng và tăng tính bảo mật.
+- Rà soát các vấn đề về kỹ thuật, pháp lý và hạn mức giao dịch an toàn.
+
+### 2. Các vấn đề đã thảo luận
+- Bất cập của phương thức xác thực OTP qua SMS (phiền phức, chậm trễ).
+- Ưu điểm của FaceID/Vân tay trong việc tối ưu hóa hành trình khách hàng.
+- Lựa chọn tiêu chuẩn bảo mật FIDO2 cho việc mã hóa và lưu trữ dữ liệu.
+- Đề xuất áp dụng hạn mức giao dịch dưới 5 triệu đồng cho xác thực sinh trắc học.
+- Quy trình kiểm thử QA nội bộ và đánh giá bảo mật (Pentest) trước khi ra mắt.
+- Cập nhật chính sách bảo mật và điều khoản sử dụng theo quy định mới.
+
+### 3. Kết luận và quyết định
+- Chốt triển khai tính năng biometrics với hạn mức giao dịch linh hoạt.
+- Yêu cầu team QA hoàn thành kiểm thử bản Alpha trong tuần tới.
+- Hoàn thiện khung pháp lý và thông báo đến khách hàng về tính năng mới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Phát triển và tích hợp tính năng biometrics | Anh Quân | 05/04/2026 |
+| Soạn thảo điều khoản và chính sách bảo mật mới | Chị Hạnh | 01/04/2026 |
+| Kiểm thử chất lượng bản Alpha (QA) | Phòng QA | 12/04/2026 |
+| Đánh giá an ninh hệ thống (Pentest) | Team Security | 20/04/2026 |
+| Chuẩn bị tài liệu hướng dẫn cho khách hàng | Phòng Marketing | 25/04/2026 |

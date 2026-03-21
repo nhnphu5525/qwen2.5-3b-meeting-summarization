@@ -1,0 +1,44 @@
+<|input|>
+[14:00] Chào team Marketing và Vận hành, hôm nay chúng ta bàn về chiến lược Omnichannel (bán hàng đa kênh) cho chuỗi thời trang mình nhé.
+[14:01] Dạ, hiện tại sếp ơi, cái app bán hàng của mình... ờ... nó chưa đồng bộ tồn kho với các cửa hàng vật lý, nên khách đặt xong mình toàn phải gọi điện xin lỗi vì hết hàng thôi ạ.
+[14:03] Đúng rồi, thì là... cái đó cực kỳ nguy hiểm, mất khách như chơi sếp ạ. Mình phải làm sao để khách đặt trên web nhưng có thể ghé cửa hàng lấy ngay (Click & Collect) được chứ.
+[14:05] Tôi đồng ý. Vậy team IT xem lại cái hệ thống ERP tích hợp như thế nào?
+[14:06] Ờ theo em thấy mình cần phải dùng một cái nền tảng trung gian để kết nối tất cả các kênh từ Shopee, Lazada đến Facebook và Web vào một chỗ sếp ạ.
+[14:08] Vâng, nhưng mà... ờ... cái phần quản lý đổi trả hàng cũng đang đau đầu lắm. Khách mua online xong muốn ra cửa hàng đổi size nhưng nhân viên cửa hàng họ không chịu vì vướng doanh số ạ.
+[14:10] Cái đó thì phải thay đổi cái chính sách KPI thôi. Mình phải tính doanh số cho cả hệ thống chứ không nên chia nhỏ ra từng kênh như vậy.
+[14:12] Hay đấy. Còn cái phần cá nhân hóa trải nghiệm khách hàng thì sao hả Lan?
+[14:13] Dạ em tính là sẽ dựa trên lịch sử mua hàng để gửi voucher qua Zalo OA cho đúng gu của từng người luôn ạ.
+[14:15] OK, chốt thế đi. Team Vận hành lo khâu đào tạo nhân viên cửa hàng về quy trình Click & Collect nhé.
+[14:16] Vâng sếp, em sẽ cho soạn cái tài liệu hướng dẫn (SOP) ngay ạ.
+[14:18] Tốt, mọi người tập trung triển khai cho kịp mùa mua sắm cuối năm nhé.
+
+<|output|>
+# Chiến lược bán hàng đa kênh Omnichannel cho chuỗi thời trang
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng hệ thống bán hàng đa kênh đồng nhất từ online đến offline.
+- Giải quyết các bất cập về đồng bộ tồn kho và quy trình đổi trả hàng.
+- Nâng cao trải nghiệm khách hàng thông qua cá nhân hóa và các tiện ích mua sắm mới.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng dữ liệu tồn kho không đồng bộ dẫn đến việc khách đặt hàng ảo và hủy đơn nhiều.
+- Triển khai mô hình Click & Collect (đặt hàng trực tuyến, nhận hàng tại cửa hàng) để tối ưu hóa thời gian giao nhận.
+- Sự cần thiết của nền tảng trung gian (Omnichannel Platform) để quản lý đơn hàng tập trung từ các sàn TMĐT và mạng xã hội.
+- Xung đột doanh số giữa kênh online và cửa hàng vật lý gây khó khăn cho việc hỗ trợ khách hàng đổi trả.
+- Ứng dụng dữ liệu lớn (Big Data) để cá nhân hóa các chương trình khuyến mãi qua Zalo OA.
+
+### 3. Kết luận và quyết định
+- Ưu tiên đồng bộ hóa dữ liệu tồn kho trên toàn hệ thống thời gian thực qua ERP.
+- Thay đổi cơ chế tính KPI doanh số theo mô hình tích hợp để khuyến khích sự phối hợp giữa các kênh.
+- Phê duyệt quy trình SOP mới cho mô hình Click & Collect và đào tạo nhân viên thực hiện ngay.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tích hợp hệ thống quản lý đơn hàng đa kênh (OMS) | Team IT | 12/12/2024 |
+| Soạn thảo SOP Click & Collect và đổi trả đa kênh | Phòng Vận hành | 05/12/2024 |
+| Điều chỉnh chính sách KPI doanh số cho cửa hàng | Phòng Nhân sự | 10/12/2024 |
+| Thiết kế kịch bản cá nhân hóa ưu đãi trên Zalo OA | Team Marketing | 15/12/2024 |

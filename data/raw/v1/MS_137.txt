@@ -1,0 +1,58 @@
+<|input|>
+[09:00:00] Chào thầy Hoàng, chào em An. Hôm nay chúng ta ngồi lại để bàn về việc nâng cấp cái hệ thống E-learning của trường mình. Sau đợt khảo sát vừa rồi, tôi thấy sinh viên kêu ca nhiều quá về việc bài giảng nhàm chán, tương tác kém. Thầy Hoàng thấy bộ môn mình triển khai có vướng mắc gì không?
+[09:02:15] Dạ báo cáo cô Mai, thực tế là các thầy cô trong bộ môn cũng đang nỗ lực hết sức. Khổ nỗi là nhiều thầy cô lớn tuổi chưa quen với việc dùng mấy phần mềm tương tác như Kahoot hay Quizizz, nên hầu như chỉ có bật Slide lên rồi nói suốt 2 tiếng đồng hồ. Sinh viên nó ngủ gật hết cũng phải thôi ạ.
+[09:04:30] Em An bên IT thấy cái hạ tầng hiện tại của mình có hỗ trợ được mấy cái tool tương tác đó không? Tôi nghe nói đợt trước server hay bị lag khi sinh viên truy cập đông cùng lúc?
+[09:06:45] Dạ vầy nè cô Mai, server hiện tại mình đã nâng cấp băng thông rồi nên chuyện lag không còn là vấn đề lớn. Cái chính là mình chưa tích hợp được các công cụ đó trực tiếp vào hệ thống LMS (Learning Management System) của trường. Hiện tại sinh viên phải nhảy qua nhảy lại giữa các tab trình duyệt nên rất bất tiện ạ.
+[09:09:00] Vậy An nghiên cứu xem có cách nào nhúng trực tiếp mấy cái game tương tác đó vào bài giảng trên LMS luôn không? Chứ cứ bắt sinh viên thoát ra thoát vào thì mất tập trung lắm.
+[09:11:15] Dạ em đang tìm hiểu về chuẩn LTI (Learning Tools Interoperability). Nếu mình áp dụng chuẩn này thì có thể tích hợp được rất nhiều công cụ bên thứ ba vào LMS của mình một cách mượt mà. Tuy nhiên, mình cần phải bỏ ra một khoản phí bản quyền cho một số công cụ xịn cô ạ.
+[09:13:30] Phí bản quyền thì để tôi xin ý kiến Ban Giám hiệu sau. Quan trọng là hiệu quả giảng dạy. Thầy Hoàng nè, thầy có nghĩ tới việc thay đổi format bài giảng không? Thay vì dạy 2 tiếng liên tục, mình có thể chia nhỏ ra thành các video ngắn 10-15 phút không?
+[09:15:45] Ý tưởng "Micro-learning" này hay đó cô Mai! Tôi cũng đang định đề xuất là mình xây dựng một kho học liệu số, trong đó mỗi bài học là một chuỗi video ngắn, sau mỗi video là một bài test nhỏ (quiz). Sinh viên phải làm đúng quiz mới được xem video tiếp theo. Làm vậy vừa giúp các em không bị quá tải, vừa kiểm soát được tiến độ học tập.
+[09:18:00] Đúng rồi đó thầy! Mà để làm được video xịn thì thầy cô phải được đào tạo về kỹ năng quay phim, biên tập video cơ bản nữa. An có thể tổ chức một buổi workshop hướng dẫn các thầy cô dùng mấy phần mềm đơn giản như Camtasia hay CapCut được không?
+[09:20:15] Dạ được chứ cô, chuyện đó nằm trong tầm tay em ạ. Em sẽ soạn một bộ tài liệu hướng dẫn nhanh, rồi tổ chức buổi training thực hành luôn. Cô cho em mượn cái phòng máy ở khu B là được ạ.
+[09:22:30] Tốt. Còn một cái nữa là vụ thảo luận nhóm. Hiện tại sinh viên hầu như không thảo luận gì trên forum cả. Thầy Hoàng có cách nào kích thích các em trao đổi nhiều hơn không?
+[09:24:45] Dạ vầy nè cô, em định là sẽ đưa điểm thảo luận vào thành một cột điểm thành phần luôn. Thầy cô sẽ đưa ra các tình huống thực tế (case study) rồi yêu cầu các em vào tranh luận. Bạn nào có nhiều đóng góp hay, được nhiều like của bạn học thì sẽ được cộng điểm thưởng.
+[09:27:00] Thưởng bằng điểm là cái "đòn bẩy" mạnh nhất rồi. Thầy Hoàng triển khai thử nghiệm cho 2 môn chuyên ngành trước đi nhé. An cũng nhớ thiết lập cái tính năng "Gamification" trên LMS cho cô, kiểu như bạn nào hoàn thành bài học sớm nhất sẽ được huy chương hay thăng hạng gì đó cho vui.
+[09:29:15] Dạ em nắm ý rồi cô. Em sẽ setup bảng xếp hạng (Leaderboard) theo từng lớp luôn. Đảm bảo sinh viên sẽ "cày" bài tập để leo rank cho xem ạ.
+[09:31:30] Nghe khí thế đấy! À, còn vụ thi cử trực tuyến thì sao An? Đợt rồi vẫn còn tình trạng sinh viên quay cóp bằng cách search Google hay trao đổi qua Zalo trong lúc làm bài đó.
+[09:33:45] Dạ cái này thì hơi khó chặn tuyệt đối, nhưng em đề xuất mình dùng phần mềm Safe Exam Browser. Nó sẽ khóa toàn bộ các ứng dụng khác trên máy tính của sinh viên, chỉ cho phép mở trang web thi thôi. Ngoài ra mình kết hợp với việc bật Camera giám sát qua Zoom/Google Meet nữa thì sẽ hạn chế được tối đa ạ.
+[09:36:00] Ừ, thầy Hoàng lưu ý các thầy cô ra đề thi theo hướng mở, đòi hỏi tư duy chứ đừng ra đề kiểu học thuộc lòng là các em hết đường search Google thôi.
+[09:38:15] Dạ vâng cô Mai. Đề thi ứng dụng thực tế đang là xu hướng mà bộ môn em đang theo đuổi ạ. Chúng em sẽ hoàn thiện ngân hàng câu hỏi mới trong tháng tới.
+[09:40:30] Vậy chốt kế hoạch thế này nha: An lo vụ tích hợp LTI và chuẩn bị workshop training. Thầy Hoàng lo vụ cấu trúc lại bài giảng theo hướng Micro-learning và ra đề thi mở. Tháng 8 mình sẽ chạy thử nghiệm cho khóa mới nhập học luôn.
+[09:42:45] Dạ tụi em sẽ cố gắng hoàn thành đúng hạn ạ.
+[09:45:00] Em sẽ gửi cô bản dự toán phí bản quyền các tool tương tác trong chiều nay nha cô.
+[09:47:15] Ừ, gửi sớm cho cô. Thôi mình kết thúc họp ở đây. Chào thầy Hoàng, chào An nhé.
+[09:49:30] Dạ chào cô ạ.
+
+<|output|>
+# Cải tiến phương pháp giảng dạy trực tuyến (E-learning)
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Nâng cao chất lượng giảng dạy trực tuyến trên hệ thống LMS của trường.
+- Tăng cường tính tương tác và hứng thú học tập cho sinh viên.
+- Giải quyết các tồn đọng về hạ tầng kỹ thuật và kỹ năng sư phạm số của giảng viên.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng: Bài giảng còn một chiều, thiếu tương tác, sinh viên dễ nhàm chán.
+- Giải pháp kỹ thuật: Tích hợp chuẩn LTI để nhúng các công cụ tương tác (Kahoot, Quizizz) trực tiếp vào LMS; sử dụng Safe Exam Browser để chống gian lận thi cử.
+- Đổi mới phương pháp: Áp dụng Micro-learning (chia nhỏ bài giảng thành các video 10-15 phút kèm quiz); triển khai Gamification (bảng xếp hạng, huy chương) để khích lệ sinh viên.
+- Đào tạo giảng viên: Tổ chức workshop hướng dẫn kỹ năng quay/dựng video bài giảng và sử dụng phần mềm tương tác.
+- Đánh giá kết quả: Đưa điểm thảo luận diễn đàn vào điểm thành phần; ra đề thi theo hướng mở, vận dụng thực tế.
+
+### 3. Kết luận và quyết định
+- Thống nhất chuyển đổi cấu trúc bài giảng sang mô hình Micro-learning từ học kỳ tới.
+- Duyệt tổ chức workshop đào tạo kỹ năng số cho giảng viên trong tháng 7.
+- Thử nghiệm tính năng Gamification và thảo luận nhóm có tính điểm cho 2 môn chuyên ngành.
+- Triển khai Safe Exam Browser cho kỳ thi cuối kỳ sắp tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn dự toán phí bản quyền các tool LTI | An - Phòng IT | 15/06/2024 |
+| Thiết kế cấu trúc khóa học Micro-learning mẫu | Thầy Hoàng - Bộ môn | 25/06/2024 |
+| Tổ chức Workshop training kỹ năng dựng video | An - Phòng IT | 05/07/2024 |
+| Xây dựng ngân hàng câu hỏi thi theo hướng mở | Bộ môn chuyên ngành | 15/07/2024 |
+| Cấu hình Gamification và Safe Exam Browser | An - Phòng IT | 20/07/2024 |
+| Chạy thử nghiệm hệ thống mới | Phòng Đào tạo & IT | 01/08/2024 |

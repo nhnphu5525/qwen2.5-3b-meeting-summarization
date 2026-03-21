@@ -1,0 +1,48 @@
+<|input|>
+[15:00] Chào team Marketing và E-commerce, hôm nay mình bàn về chiến lược Social Commerce (bán hàng qua mạng xã hội) cho bộ sưu tập thời trang thu đông tới nhé.
+[15:02] Tôi thấy xu hướng Livestream bán hàng trên TikTok đang cực kỳ hiệu quả, mình không thể đứng ngoài cuộc chơi này được nữa.
+[15:05] Đúng đó chị Hương, nhưng nếu livestream thì mình cần một đội ngũ host có duyên và hiểu sâu về sản phẩm, chứ không chỉ là đọc giá đơn thuần.
+[15:08] Em nghĩ mình nên mời các bạn Micro-influencers mảng phối đồ (fashionista) về làm host, họ sẽ có lượng fan trung thành và gu thẩm mỹ tốt.
+[15:11] Ngoài livestream, việc tích hợp giỏ hàng trực tiếp trên Facebook và Instagram cũng cần được hoàn thiện để khách không phải chuyển qua web khác.
+[15:14] Cái này liên quan đến việc đồng bộ tồn kho realtime giữa web và các sàn Social. Anh Minh xem team Tech có xử lý được không?
+[15:17] Được chứ, mình sẽ dùng API để đẩy dữ liệu tồn kho liên tục, tránh tình trạng khách chốt đơn trên livestream mà kho thực tế đã hết hàng.
+[15:20] Về phần content, tôi muốn có những video ngắn dạng "phối đồ trong 30 giây" hoặc "biến hình" để bắt trend TikTok.
+[15:23] Chị Hương ơi, mình cũng cần có chính sách giá riêng cho các buổi live để kích thích khách chốt đơn ngay tại chỗ, kiểu như "chỉ giảm giá trong livestream".
+[15:26] Nhất trí, nhưng phải tính toán biên lợi nhuận thật kỹ, đừng để doanh số cao mà lãi không có bao nhiêu do chi phí quảng cáo và vận hành livestream lớn.
+[15:29] Anh Minh phụ trách setup phòng live với đầy đủ ánh sáng và thiết bị âm thanh chuẩn nhé, đừng để hình ảnh bị mờ hay tiếng bị rè là khách thoát ngay.
+[15:32] Hạn chót để có danh sách các mẫu thời trang chủ lực cho đợt livestream đầu tiên là thứ Sáu này để team Content bắt đầu làm kịch bản.
+[15:35] Mọi người tập trung nhé, đây là hướng đi chiến lược của công ty trong năm nay đấy.
+
+<|output|>
+# Chiến lược thúc đẩy doanh số qua kênh Social Commerce
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng kế hoạch bán hàng qua kênh Livestream và mạng xã hội cho bộ sưu tập mới.
+- Giải quyết các vấn đề về kỹ thuật đồng bộ kho và nhân sự vận hành kênh mới.
+
+### 2. Các vấn đề đã thảo luận
+- Sự bùng nổ của xu hướng livestream bán hàng trên TikTok và cơ hội cho ngành thời trang.
+- Lựa chọn Influencers/Fashionista thay vì host thông thường để tăng uy tín và tỷ lệ chuyển đổi.
+- Thách thức trong việc đồng bộ hóa dữ liệu tồn kho theo thời gian thực (realtime) giữa các nền tảng.
+- Chiến thuật nội dung video ngắn thu hút tương tác tự nhiên.
+- Chính sách giá độc quyền cho phiên livestream để kích cầu "mua ngay".
+- Đầu tư hạ tầng kỹ thuật (phòng live, ánh sáng, âm thanh) để đảm bảo chất lượng hình ảnh.
+
+### 3. Kết luận và quyết định
+- Triển khai kênh Livestream TikTok là mũi nhọn cho mùa thu đông.
+- Sử dụng giải pháp API để tự động hóa việc quản lý tồn kho đa kênh.
+- Phê duyệt ngân sách đầu tư thiết bị phòng livestream chuyên nghiệp.
+- Giao team Content xây dựng kịch bản chi tiết dựa trên các mẫu sản phẩm chủ lực.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết lập hệ thống đồng bộ tồn kho API | Anh Minh | 05/04/2026 |
+| Liên hệ và chốt danh sách Influencer làm host | Phòng Marketing | 30/03/2026 |
+| Setup phòng livestream và thiết bị kỹ thuật | Anh Minh | 10/04/2026 |
+| Xây dựng kịch bản và kế hoạch quay video ngắn | Chị Hương | 02/04/2026 |
+| Lập bảng giá và chương trình khuyến mãi livestream | Phòng Kinh doanh | 15/04/2026 |
+| Chạy thử nghiệm phiên livestream đầu tiên | Team E-commerce | 20/04/2026 |

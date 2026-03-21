@@ -1,0 +1,42 @@
+<|input|>
+[15:00] Chào anh chị, buổi họp hôm nay về việc quản lý nợ phải trả cho nhà cung cấp linh kiện.
+[15:02] Hiện tại dòng tiền của mình đang bị kẹt ở các khoản phải thu từ đại lý, nên tiến độ trả nợ cho đối tác đang bị chậm 2 tuần.
+[15:04] Một số nhà cung cấp đã dọa sẽ ngừng giao hàng nếu mình không thanh toán ít nhất 50% dư nợ trong tháng này.
+[15:06] Chị Lan (Kế toán trưởng) xem có thể vay thấu chi ngân hàng để giải quyết gấp cho các nhà cung cấp quan trọng nhất không.
+[15:08] Em đang làm việc với ngân hàng, nhưng họ yêu cầu mình phải cung cấp báo cáo lưu chuyển tiền tệ chi tiết hơn.
+[15:10] Ngoài ra, cần đàm phán lại với nhà cung cấp về việc gia hạn nợ và đổi lại mình sẽ tăng sản lượng đặt hàng trong quý sau.
+[15:12] Anh Minh (Kinh doanh) tập trung đôn đốc thu hồi công nợ từ các đại lý miền Trung đi, bên đó nợ lâu quá rồi.
+[15:14] Chốt lại: Vay thấu chi giải quyết nợ gấp, đàm phán gia hạn nợ và đẩy mạnh thu hồi công nợ đại lý.
+
+<|output|>
+# Quản lý dòng tiền và thanh toán nợ nhà cung cấp
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết tình trạng chậm thanh toán nợ cho nhà cung cấp linh kiện.
+- Tối ưu hóa dòng tiền thông qua việc vay vốn và thu hồi công nợ.
+- Duy trì mối quan hệ và đảm bảo nguồn cung không bị gián đoạn.
+
+### 2. Các vấn đề đã thảo luận
+- Áp lực từ nhà cung cấp về việc ngừng giao hàng do chậm thanh toán 2 tuần.
+- Khó khăn trong việc huy động vốn nhanh từ ngân hàng.
+- Tình trạng đọng vốn tại các đại lý khu vực miền Trung.
+- Đề xuất giải pháp đàm phán gia hạn nợ kèm theo cam kết sản lượng.
+
+### 3. Kết luận và quyết định
+- Ưu tiên thanh toán 50% dư nợ cho các nhà cung cấp linh kiện cốt lõi.
+- Xúc tiến thủ tục vay thấu chi để bổ sung vốn lưu động tức thì.
+- Đẩy mạnh công tác thu hồi nợ tại thị trường miền Trung.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện báo cáo lưu chuyển tiền tệ | Chị Lan (Kế toán) | 20/03/2026 |
+| Làm việc với Ngân hàng về khoản vay thấu chi | Chị Lan (Kế toán) | 22/03/2026 |
+| Đôn đốc thu nợ đại lý miền Trung | Anh Minh (Kinh doanh) | 28/03/2026 |
+| Gửi thư cam kết thanh toán cho nhà cung cấp | Phòng Thu mua | 19/03/2026 |
+| Lập danh sách ưu tiên thanh toán nợ | Chị Lan (Kế toán) | 19/03/2026 |
+| Đàm phán gia hạn nợ với đối tác chính | Phòng Thu mua | 25/03/2026 |
+| Kiểm tra lại hợp đồng cung ứng linh kiện | Phòng Pháp chế | Chưa rõ |

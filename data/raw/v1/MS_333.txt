@@ -1,0 +1,43 @@
+<|input|>
+[10:00] Chào bác sĩ Minh và các anh chị bên phòng quản trị thiết bị y tế. Hôm nay mình họp để xem lại cái lịch bảo trì định kỳ cho dàn máy chạy thận và máy giúp thở của bệnh viện mình nhé. Bác sĩ Minh thấy các máy hiện nay vận hành ổn định không?
+[10:02] Báo cáo sếp, dàn máy chạy thận của mình đã hoạt động hết công suất trong suốt 2 năm qua nên bắt đầu có dấu hiệu xuống cấp ở hệ thống lọc nước RO. Tôi lo là nếu không bảo trì kỹ đợt này thì rất dễ xảy ra sự cố trong lúc bệnh nhân đang điều trị.
+[10:04] Dạ em cũng thấy vậy bác sĩ ạ. Theo đúng lịch thì tuần sau là đến hạn bảo trì tổng thể. Em đã liên hệ với bên hãng cung cấp để họ cử kỹ sư xuống kiểm tra và thay thế các linh kiện tiêu hao rồi. Anh Sơn lưu ý giúp em là việc này phải làm vào cuối tuần để tránh ảnh hưởng đến lịch điều trị của bệnh nhân nhé.
+[10:06] Chắc chắn rồi Sơn. Mình sẽ chia làm 2 đợt, mỗi đợt bảo trì một nửa số máy để luôn có máy dự phòng cho các ca cấp cứu. Còn về phần máy giúp thở, bác sĩ Minh thấy có cần mua thêm linh kiện dự trữ gì không?
+[10:08] Tôi đề xuất mình nên nhập thêm một số bộ sensor nhịp thở và dây dẫn oxy chất lượng cao. Đợt trước có cái máy số 5 bị hỏng sensor đột xuất mà mình phải mượn từ khoa khác sang, rất là bất tiện và rủi ro.
+[10:10] Ý kiến của bác sĩ Minh rất đúng. Sơn giúp anh lập danh sách các linh kiện cần mua dự phòng gấp để anh trình ban giám đốc duyệt kinh phí ngay trong tháng này. Mình không thể để thiết bị cứu người mà lại rơi vào cảnh thiếu linh kiện thay thế được.
+[10:12] Vâng anh, em sẽ làm danh sách và báo giá chi tiết gửi anh vào sáng mai ạ. Ngoài ra, em cũng định đề xuất mình thuê thêm dịch vụ kiểm định độc lập để đánh giá lại độ chính xác của các thông số trên máy giúp thở sau khi bảo trì xong.
+[10:14] Làm như vậy là quá chuẩn luôn Sơn. An toàn cho bệnh nhân là trên hết. Vậy bác sĩ Minh phối hợp với Sơn để lên lịch cụ thể cho từng khoa nhé, nhớ thông báo sớm cho các điều dưỡng để họ sắp xếp bệnh nhân.
+[10:16] Vâng tôi rõ rồi, tôi sẽ triển khai họp các trưởng khoa ngay chiều nay.
+[10:18] Cảm ơn mọi người, cuộc họp kết thúc tại đây.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và triển khai kế hoạch bảo trì định kỳ cho các thiết bị y tế trọng yếu (máy chạy thận, máy giúp thở).
+- Đảm bảo an toàn vận hành và chuẩn bị sẵn sàng linh kiện dự phòng cho các tình huống khẩn cấp.
+- Thống nhất lịch làm việc để không gây gián đoạn quá trình điều trị của bệnh nhân.
+
+### 2. Các vấn đề đã thảo luận
+- Hệ thống lọc nước RO của dàn máy chạy thận có dấu hiệu xuống cấp sau thời gian dài sử dụng.
+- Nhu cầu bảo trì tổng thể và thay thế linh kiện tiêu hao bởi kỹ sư từ hãng cung cấp.
+- Thiếu hụt sensor nhịp thở và dây dẫn oxy dự phòng cho máy giúp thở.
+- Sự cần thiết của việc kiểm định độc lập các thông số kỹ thuật sau bảo trì để đảm bảo độ chính xác.
+
+### 3. Kết luận và quyết định
+- Thực hiện bảo trì dàn máy chạy thận vào các ngày cuối tuần, chia làm 2 đợt để duy trì máy dự phòng.
+- Nhập thêm sensor nhịp thở và các linh kiện tiêu hao quan trọng để dự trữ trong kho.
+- Thuê dịch vụ kiểm định độc lập đánh giá lại thiết bị sau khi bảo trì xong.
+- Giao bộ phận kỹ thuật lập báo giá chi tiết và trình Ban giám đốc phê duyệt ngân sách khẩn cấp.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập danh sách và báo giá linh kiện dự phòng máy giúp thở | Sơn | 18/03/2026 |
+| Liên hệ hãng cung cấp chốt lịch bảo trì cuối tuần | Phòng quản trị thiết bị | 20/03/2026 |
+| Thông báo lịch bảo trì cho các khoa lâm sàng | Bác sĩ Minh | 19/03/2026 |
+| Thuê đơn vị kiểm định độc lập đo đạc thông số | Sơn | 30/03/2026 |
+| Hoàn thành bảo trì đợt 1 cho dàn máy chạy thận | Đội kỹ thuật | 25/03/2026 |

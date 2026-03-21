@@ -1,0 +1,70 @@
+<|input|>
+[09:00] Chào buổi sáng cả nhà, hôm nay mình họp sớm chút để chốt cái kế hoạch đón khách cho mùa cao điểm hè sắp tới nha.
+[09:02] Dạ sếp, em thấy tình hình năm nay có vẻ khởi sắc đó, lượng khách đặt phòng trước cho tháng 6, tháng 7 tăng khoảng 30% so với năm ngoái rồi.
+[09:04] Ờ, con số đó ấn tượng đó Hùng, nhưng mà lượng khách tăng thì áp lực lên bộ phận vận hành của mình cũng lớn lắm đó nha.
+[09:06] Dạ vầy nè sếp, em lo nhất là cái khâu nhân sự thời vụ á. Mấy năm trước mình cứ tới nước đến chân mới nhảy, tuyển người không kịp nên chất lượng phục vụ nó bị đi xuống.
+[09:08] Đúng rồi, chị cũng thấy vậy đó. Năm nay Lan bên nhân sự đã có kế hoạch gì chưa em?
+[09:10] Dạ, em đã liên hệ với mấy trường du lịch để tuyển thực tập sinh với nhân viên part-time rồi chị. Dự kiến mình cần thêm khoảng 20 bạn cho cả hai cơ sở.
+[09:12] Ừm, tuyển thì tuyển nhưng mà phải training cho kỹ nha Lan. Đừng có để mấy bạn mới ra đứng sảnh mà lơ ngơ, khách họ hỏi gì cũng không biết là chết chị luôn đó.
+[09:14] Dạ chị yên tâm, em lên lịch training nghiệp vụ buồng phòng với lễ tân cho các bạn rồi, bắt đầu từ tuần sau là vô học luôn.
+[09:16] À, còn cái vụ bảo trì cơ sở vật chất nữa Hùng ơi. Chị thấy mấy cái máy lạnh ở khu B dạo này nó cứ kêu rè rè, khách họ phàn nàn quá trời.
+[09:18] Ờ, cái này em ghi nhận rồi chị Mai. Em định là trong tuần này sẽ cho đội kỹ thuật đi kiểm tra toàn bộ hệ thống máy lạnh, điện nước với thang máy luôn. Cái nào hư là thay mới liền chứ để vô mùa là không có thợ đâu.
+[09:20] Đúng rồi, làm sớm đi em. Tiền bạc thì cứ báo cáo để anh duyệt, quan trọng là mọi thứ phải vận hành trơn tru.
+[09:22] Dạ sếp. À, còn cái thực đơn cho nhà hàng mình có cần thay đổi gì không chị Mai? Em thấy khách hè họ thích mấy món thanh mát hơn á.
+[09:24] Chị cũng đang tính bàn với bếp trưởng đây. Chắc là mình sẽ thêm mấy món gỏi với nước ép trái cây nhiệt đới vô menu đặc biệt của mùa hè này.
+[09:26] Ờ, ý tưởng hay đó. Mà nhớ là giá cả phải niêm yết rõ ràng nha, đừng có để tình trạng khách phàn nàn về giá vào mùa cao điểm, mất uy tín lắm.
+[09:28] Dạ vâng ạ. Còn một cái nữa là cái tour tham quan nội đô bằng xe điện của mình á sếp, em thấy khách họ rất thích mà hiện tại mình chỉ có 2 chiếc, không đủ đáp ứng nhu cầu.
+[09:30] Vụ này anh cũng đang cân nhắc, hay là mình thuê thêm 2 chiếc nữa từ bên đối tác trong vòng 3 tháng cao điểm được không Hùng?
+[09:32] Dạ được anh, để em liên hệ bên vận tải xem giá thuê sao rồi em báo lại anh sớm.
+[09:34] Ok, triển khai cái đó đi. À Lan nè, em xem lại cái vụ quà tặng lưu niệm cho khách check-out á, mình có cái gì mới mẻ hơn không?
+[09:36] Dạ, em định đặt làm mấy cái móc khóa có in hình khách sạn mình với mấy cái túi vải canvas nhỏ nhỏ á chị, nhìn vừa xinh mà khách họ cũng dùng được nhiều lần.
+[09:38] Ừm, cũng được đó, nhưng mà nhớ chọn chất liệu tốt chút nha.
+[09:40] Dạ sếp. Mà sếp ơi, cái vụ an ninh thì sao ạ? Mùa đông khách em sợ mấy cái tình trạng móc túi hay người lạ đột nhập vô khu vực phòng khách á.
+[09:42] Ờ, cái này quan trọng. Anh sẽ yêu cầu bên đội bảo vệ tăng cường tuần tra, đặc biệt là ban đêm và khu vực hồ bơi. Đồng thời mình cũng nên kiểm tra lại hệ thống camera giám sát xem có mắt nào bị mờ hay hỏng không.
+[09:44] Dạ, để em phối hợp với bên bảo vệ làm cái này luôn trong tuần tới.
+[09:46] Còn cái vụ marketing thì sao ta? Mình có chạy quảng cáo gì cho đợt hè này chưa sếp?
+[09:48] Có chứ, anh đã duyệt ngân sách cho team Marketing chạy quảng cáo trên Facebook với Instagram rồi. Mình tập trung vào các gói combo gia đình với ưu đãi cho khách đặt phòng sớm.
+[09:50] Dạ vầy thì tốt quá rồi. Em hy vọng là với sự chuẩn bị kỹ lưỡng này thì mùa hè năm nay mình sẽ thắng lớn.
+[09:52] Ừ, anh cũng mong vậy. Quan trọng là tinh thần làm việc của mọi người thôi. Mùa cao điểm sẽ mệt lắm đó, nhưng mà bù lại thì thưởng cũng sẽ cao, mọi người cố gắng nha.
+[09:54] Dạ, tụi em sẽ cố gắng hết sức ạ. Cảm ơn sếp đã khích lệ.
+[09:56] Ok, vậy mọi người về vị trí làm việc đi. Có vấn đề gì phát sinh thì báo ngay cho anh hoặc Mai nhé.
+[09:58] Dạ chào sếp, chào cả nhà ạ.
+
+<|output|>
+# Chuẩn bị kế hoạch đón khách cho mùa du lịch cao điểm hè
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát công tác chuẩn bị về nhân sự, cơ sở vật chất và dịch vụ cho mùa cao điểm tháng 6 - tháng 7.
+- Thống nhất các kế hoạch bảo trì, nâng cấp dịch vụ và chiến dịch marketing.
+- Đảm bảo chất lượng phục vụ và an ninh tuyệt đối cho khách hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Lượng khách đặt phòng tăng 30% so với cùng kỳ năm ngoái, gây áp lực lên vận hành.
+- Thiếu hụt nhân sự thời vụ và sự cần thiết của việc đào tạo nghiệp vụ cho nhân viên mới.
+- Hệ thống máy lạnh ở khu B và các thiết bị cơ sở vật chất cần được bảo trì gấp.
+- Thực đơn nhà hàng cần điều chỉnh sang các món thanh mát phù hợp với mùa hè.
+- Nhu cầu tham quan bằng xe điện tăng cao, vượt quá khả năng đáp ứng hiện tại.
+- Vấn đề an ninh, phòng chống mất cắp và người lạ đột nhập khi khách đông.
+
+### 3. Kết luận và quyết định
+- Tuyển thêm 20 nhân viên part-time/thực tập sinh và triển khai đào tạo nghiệp vụ từ tuần tới.
+- Tiến hành kiểm tra, bảo trì toàn bộ hệ thống điện nước, máy lạnh, thang máy trong tuần này.
+- Bổ sung thực đơn mùa hè đặc biệt và niêm yết giá công khai.
+- Thuê thêm 2 xe điện từ đối tác để phục vụ nhu cầu tham quan của khách.
+- Tăng cường tuần tra an ninh và kiểm tra hệ thống camera giám sát.
+- Triển khai chiến dịch Marketing tập trung vào gói combo gia đình và ưu đãi đặt sớm.
+- Chuẩn bị quà tặng lưu niệm (móc khóa, túi vải) cho khách khi check-out.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Đào tạo nghiệp vụ cho nhân sự mới | Chị Lan (Phòng Nhân sự) | 30/05/2024 |
+| Tổng kiểm tra và bảo trì cơ sở vật chất | Anh Hùng (Phòng Kỹ thuật) | 25/05/2024 |
+| Liên hệ thuê thêm xe điện tham quan | Anh Hùng (Phòng Kỹ thuật) | 22/05/2024 |
+| Xây dựng thực đơn mùa hè mới | Chị Mai (Quản lý vận hành) & Bếp trưởng | 20/05/2024 |
+| Kiểm tra hệ thống camera và tăng cường an ninh | Đội Bảo vệ | 24/05/2024 |
+| Triển khai quảng cáo combo hè trên mạng xã hội | Team Marketing | 20/05/2024 |
+| Đặt hàng quà tặng lưu niệm cho khách | Chị Lan (Phòng Nhân sự) | 05/06/2024 |

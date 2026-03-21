@@ -1,0 +1,42 @@
+<|input|>
+[14:00] Chào thầy Thành và các anh chị trong ban quản lý cơ sở vật chất. Hôm nay mình họp để rà soát lại phương án đảm bảo an ninh trường học, nhất là sau mấy cái vụ việc mất trộm thiết bị ở phòng Lab tuần trước. Thầy Thành thấy mình nên tăng cường thêm gì không?
+[14:02] Tôi thấy hệ thống camera hiện tại của trường mình có nhiều góc khuất quá cô ơi. Đặc biệt là lối hành lang phía sau khu nhà B, chỗ đó tối mà camera lại không có hồng ngoại nên ban đêm nhìn không rõ gì cả.
+[14:04] Đúng rồi sếp ạ, em đã kiểm tra lại các đoạn ghi hình lúc xảy ra mất trộm nhưng hình ảnh mờ lắm, không nhận dạng được mặt người. Em đề xuất mình nên lắp thêm ít nhất 4 mắt camera chất lượng cao ở khu vực đó và nâng cấp hệ thống lưu trữ dữ liệu lên 30 ngày thay vì 7 ngày như hiện nay.
+[14:06] Lắp thêm camera thì tốt, nhưng còn lực lượng bảo vệ thì sao thầy Thành? Tôi thấy các bác bảo vệ trực ban đêm có vẻ hơi thưa, một người trực cho cả khuôn viên rộng thế này thì làm sao bao quát hết được.
+[14:08] Cái này tôi cũng đã trao đổi với bên công ty bảo vệ rồi. Họ nói nếu mình muốn tăng thêm một vị trí chốt chặn ở cổng sau thì chi phí hàng tháng sẽ tăng thêm 7 triệu. Theo tôi thì mình nên đầu tư cái này, vì thiết bị trong phòng Lab trị giá cả tỷ bạc, mất mát là rất đáng tiếc.
+[14:10] Vậy thì duyệt phương án tăng thêm bảo vệ trực đêm nhé. Còn về phần cửa phòng máy, tôi thấy cái khóa hiện tại lỏng lẻo quá. Các anh bên kỹ thuật xem có thay sang khóa vân tay hoặc thẻ từ được không?
+[14:12] Dạ được chị, lắp khóa điện tử thì mình sẽ quản lý được ai ra vào và vào lúc nào. Em sẽ lấy báo giá cho 5 phòng chức năng quan trọng nhất gửi chị trong chiều nay.
+[14:14] Tốt lắm. Vậy Thành giúp tôi đôn đốc bên công ty bảo vệ triển khai người ngay từ đầu tháng tới nhé. Còn việc lắp camera và khóa thì cố gắng xong trong tuần sau để mọi người yên tâm làm việc.
+[14:16] Vâng cô, em sẽ bám sát tiến độ.
+[14:18] Cảm ơn mọi người, buổi họp kết thúc ở đây.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát và nâng cấp hệ thống an ninh trường học sau sự cố mất trộm.
+- Cải thiện hạ tầng giám sát và kiểm soát ra vào tại các khu vực trọng điểm.
+- Tăng cường lực lượng bảo vệ ban đêm để đảm bảo an toàn tài sản.
+
+### 2. Các vấn đề đã thảo luận
+- Hệ thống camera hiện tại có nhiều góc khuất và chất lượng hình ảnh ban đêm kém (không có hồng ngoại).
+- Thời gian lưu trữ dữ liệu camera ngắn (7 ngày) gây khó khăn cho việc điều tra.
+- Lực lượng bảo vệ trực đêm mỏng, không bao quát hết diện tích trường.
+- Hệ thống khóa cửa tại các phòng chức năng lạc hậu, dễ bị xâm nhập.
+
+### 3. Kết luận và quyết định
+- Lắp đặt thêm 4 camera hồng ngoại chất lượng cao tại khu nhà B và nâng cấp dung lượng lưu trữ lên 30 ngày.
+- Bổ sung thêm một vị trí bảo vệ trực chốt chặn tại cổng sau vào ban đêm.
+- Thay thế khóa cơ truyền thống bằng khóa điện tử (vân tay/thẻ từ) cho 5 phòng chức năng quan trọng.
+- Hoàn thiện lắp đặt thiết bị trong tuần tới và tăng cường bảo vệ từ đầu tháng sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lấy báo giá và triển khai lắp đặt camera, khóa điện tử | Phòng Kỹ thuật | 22/03/2026 |
+| Làm việc với công ty bảo vệ để bổ sung nhân sự trực đêm | Thầy Thành | 25/03/2026 |
+| Kiểm tra và nghiệm thu hệ thống giám sát mới | Ban Giám hiệu | 28/03/2026 |
+| Soạn quy định ra vào các phòng chức năng bằng thẻ từ | Ban quản lý trường | 30/03/2026 |

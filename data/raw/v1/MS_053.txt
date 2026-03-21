@@ -1,0 +1,59 @@
+<|input|>
+[14:00] Chào bác sĩ Thành và ê-kíp. Hôm nay chúng ta thảo luận về dự án hợp tác chiến lược với tập đoàn y tế Global Health từ Singapore. Đây là bước ngoặt để bệnh viện mình nâng chuẩn quốc tế.
+[14:03] Dạ thưa Giám đốc, về mặt chuyên môn thì em hoàn toàn ủng hộ. Ờ... nhưng mà cái em băn khoăn nhất là sự tương thích về quy trình vận hành và hệ thống quản lý bệnh án điện tử (HIS) giữa hai bên.
+[14:06] Đúng rồi, Global Health họ dùng hệ thống rất hiện đại, mình mà không nâng cấp thì không kết nối được để hội chẩn từ xa (Telemedicine) đâu.
+[14:10] Tôi đã làm việc với bên IT rồi. Ờ... họ sẽ cử chuyên gia sang hỗ trợ mình chuyển đổi dữ liệu. Nhưng cái quan trọng hơn là con người. Bác sĩ, điều dưỡng của mình có đủ trình độ ngoại ngữ để làm việc trực tiếp với chuyên gia của họ không?
+[14:13] Dạ, thực tế là chỉ có khoảng 30% đội ngũ nòng cốt là giao tiếp tốt thôi ạ. Ờ... số còn lại vẫn còn lúng túng khi gặp các thuật ngữ y khoa bằng tiếng Anh.
+[14:16] Vậy thì phải lên kế hoạch đào tạo cấp tốc ngay. Tôi muốn mỗi khoa phải có ít nhất 2 bác sĩ và 4 điều dưỡng "mũi nhọn" tham gia đợt tập huấn đầu tiên tại Singapore vào tháng tới.
+[14:20] Thưa anh, chi phí đào tạo và nâng cấp trang thiết bị theo chuẩn của họ là cực kỳ lớn. Ờ... bên Tài chính đã tính toán chưa ạ? Liệu mình có phải tăng giá dịch vụ lên quá cao không? Khách hàng hiện tại của mình liệu có chấp nhận được không?
+[14:23] Chắc chắn là giá sẽ tăng, nhưng mình sẽ phân khúc lại. Sẽ có khu vực "International Wing" dành cho khách hàng cao cấp và người nước ngoài. Còn các khu vực khác vẫn giữ mức giá hợp lý nhưng được hưởng lợi từ quy trình quản lý chất lượng mới.
+[14:27] Dạ, còn về trang thiết bị. Global Health họ yêu cầu mình phải trang bị hệ thống phòng mổ Hybrid và máy cộng hưởng từ (MRI) 3.0 Tesla thế hệ mới nhất. Cái này ngân sách phải tính bằng triệu đô sếp ạ.
+[14:30] Ờ... về vốn thì mình sẽ dùng hình thức liên doanh. Họ sẽ góp vốn bằng thiết bị và công nghệ, mình góp vốn bằng hạ tầng và nhân lực. Như vậy sẽ giảm áp lực tài chính cho bệnh viện mình.
+[14:34] Thưa Giám đốc, em thấy một vấn đề nữa là văn hóa làm việc. Ờ... người Singapore họ rất kỷ luật và coi trọng quy trình (SOP). Trong khi đó, anh em mình đôi khi vẫn còn làm việc theo thói quen, "linh động" quá mức.
+[14:37] Cái này là cái khó nhất đây. Tôi yêu cầu phòng Quản lý chất lượng phải soạn lại toàn bộ SOP theo chuẩn JCI (Joint Commission International). Ai vi phạm quy trình sẽ bị xử lý nghiêm, không có chuyện nể nang hay linh động gì ở đây cả.
+[14:41] Dạ, em sẽ bắt đầu rà soát lại quy trình của khoa Ngoại và khoa Sản trước vì đây là hai khoa mũi nhọn của dự án hợp tác này.
+[14:44] Ờ... còn cái vụ chuyển giao công nghệ điều trị ung thư bằng phương pháp miễn dịch tự thân (Immunotherapy). Đây là cái "át chủ bài" của mình. Global Health họ cam kết sẽ chuyển giao trọn gói kịch bản điều trị này.
+[14:48] Dạ, nếu triển khai được cái này thì bệnh viện mình sẽ là đơn vị đầu tiên tại khu vực miền Nam thực hiện được một cách bài bản. Em rất kỳ vọng vào nó.
+[14:51] Tuy nhiên, khâu pháp lý với Bộ Y tế về danh mục kỹ thuật mới này cũng sẽ mất khá nhiều thời gian đấy. Ờ... Nam bên Pháp chế xem chuẩn bị hồ sơ sớm đi nhé.
+[14:54] Vâng thưa anh, em đã bắt đầu tìm hiểu các quy định liên quan và sẽ nộp hồ sơ xin phép thí điểm ngay khi có đủ tài liệu kỹ thuật từ phía đối tác.
+[14:58] Về khâu Marketing, phải làm sao để khách hàng biết rằng giờ đây họ có thể khám chữa bệnh chuẩn Singapore ngay tại Việt Nam với chi phí chỉ bằng 1/3. Đây là thông điệp then chốt.
+[15:02] Dạ, tụi em sẽ làm một chuỗi video phóng sự về các chuyên gia Singapore sang làm việc tại đây và các ca lâm sàng thành công đầu tiên.
+[15:05] Tốt. Nhắc lại tiến độ: Tuần sau chốt danh sách đi đào tạo, hoàn thiện đề án liên doanh, và nộp hồ sơ pháp lý đợt 1. 
+[15:09] Mọi người rõ chưa? Có ai thắc mắc gì không?
+[15:12] Dạ rõ ạ!
+[15:15] OK, chúc mọi người sức khỏe để chiến đấu với dự án này. Giải tán thôi.
+
+<|output|>
+# Hợp tác chiến lược nâng tầm chất lượng y tế với đối đoàn Global Health
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận các điều khoản hợp tác chiến lược với tập đoàn Global Health (Singapore).
+- Đánh giá khả năng đáp ứng về nhân lực, công nghệ và tài chính để nâng chuẩn bệnh viện lên tầm quốc tế.
+- Thống nhất lộ trình đào tạo, nâng cấp hạ tầng và hoàn thiện thủ tục pháp lý cho các kỹ thuật điều trị mới.
+
+### 2. Các vấn đề đã thảo luận
+- **Hạ tầng & Công nghệ:** Nâng cấp hệ thống quản lý bệnh án điện tử (HIS) để kết nối Telemedicine; đầu tư phòng mổ Hybrid và máy MRI 3.0 Tesla thông qua mô hình liên doanh góp vốn bằng thiết bị.
+- **Nhân sự & Đào tạo:** Cử đội ngũ nòng cốt (bác sĩ, điều dưỡng) sang Singapore đào tạo; tổ chức các lớp tiếng Anh chuyên ngành cấp tốc tại bệnh viện.
+- **Quản lý chất lượng:** Áp dụng chuẩn JCI vào toàn bộ quy trình vận hành; soạn lại SOP cho các khoa mũi nhọn (Ngoại, Sản) và siết chặt kỷ luật làm việc.
+- **Chuyên môn kỹ thuật:** Tiếp nhận chuyển giao công nghệ điều trị ung thư bằng phương pháp miễn dịch tự thân (Immunotherapy).
+- **Pháp lý & Marketing:** Chuẩn bị hồ sơ xin phép Bộ Y tế cho danh mục kỹ thuật mới; xây dựng chiến dịch truyền thông nhấn mạnh lợi thế "Chất lượng quốc tế - Chi phí nội địa".
+
+### 3. Kết luận và quyết định
+- Đồng ý thành lập khu vực "International Wing" để phục vụ khách hàng phân khúc cao cấp.
+- Chốt danh sách nhân sự đi tập huấn đợt 1 tại Singapore vào tháng tới.
+- Giao phòng Pháp chế và phòng Tài chính hoàn thiện hồ sơ liên doanh và danh mục kỹ thuật thí điểm.
+- Yêu cầu phòng Quản lý chất lượng triển khai rà soát SOP theo chuẩn quốc tế ngay trong tuần sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Chốt danh sách bác sĩ, điều dưỡng đi đào tạo đợt 1 | Phòng Nhân sự | 10/03/2025 |
+| Hoàn thiện đề án liên doanh và phương án tài chính | Phòng Tài chính | 15/03/2025 |
+| Nộp hồ sơ xin phép kỹ thuật Immunotherapy lên Bộ Y tế | Phòng Pháp chế | 20/03/2025 |
+| Rà soát và cập nhật SOP khoa Ngoại/Sản theo chuẩn JCI | Phòng QL Chất lượng | 25/03/2025 |
+| Khảo sát hạ tầng để lắp đặt hệ thống MRI 3.0 Tesla | Phòng Quản trị | 18/03/2025 |
+| Lên kịch bản truyền thông "Chuẩn Singapore tại VN" | Team Marketing | 22/03/2025 |
+| Làm việc với đối tác IT về kết nối dữ liệu HIS | Phòng IT | 14/03/2025 |

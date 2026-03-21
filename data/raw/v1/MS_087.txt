@@ -1,0 +1,45 @@
+<|input|>
+[14:00] Chào mọi người, hôm nay chúng ta bàn về cái dự án lắp đặt robot cho dây chuyền sản xuất bo mạch nhé.
+[14:01] Dạ, hiện tại sếp ơi, cái khâu hàn linh kiện (SMT) vẫn đang dùng tay nhiều quá, ờ... mấy cái mối hàn nó không đồng đều ấy ạ.
+[14:03] Đúng rồi, thì là... mình phải thay bằng mấy con robot cánh tay đòn 6 trục ấy, các ông thấy sao?
+[14:05] Em thấy robot thì nhanh thật nhưng mà... cái phần mềm lập trình cho nó mình có tự làm được không sếp?
+[14:06] Ờ cái đó chắc phải thuê bên đối tác họ cài đặt sẵn mấy cái recipe (công thức) cho mình thôi.
+[14:08] Tôi lo nhất là cái diện tích nhà xưởng mình hơi hẹp. Lắp mấy con robot vào thì... ờ... nó có chiếm hết lối đi của anh em không hả Hùng?
+[14:10] Dạ em đã đo đạc rồi sếp ạ, mình sẽ bố trí robot ở góc cuối xưởng để tiết kiệm không gian.
+[14:12] Còn vấn đề an toàn lao động thì sao sếp? Robot nó mà vung tay vào người là... ờ... nguy hiểm lắm đấy ạ.
+[14:14] Chắc chắn là phải lắp cảm biến tiệm cận xung quanh robot rồi. Hễ có người lại gần là nó tự động ngắt ngay.
+[14:16] OK, chốt thế đi. Nam lo cái khâu nhập khẩu mấy con robot đó nhé, nghe nói dạo này... ờ... thông quan cũng hơi lâu.
+[14:18] Vâng sếp, em sẽ hối thúc bên logistics làm nhanh hồ sơ ạ.
+[14:20] Tốt, mọi người tập trung cao độ nhé, dây chuyền này là "con gà đẻ trứng vàng" của mình đấy!
+
+<|output|>
+# Dự án tự động hóa dây chuyền sản xuất bo mạch điện tử
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận giải pháp ứng dụng robot cánh tay đòn vào khâu hàn linh kiện để nâng cao chất lượng sản phẩm.
+- Đánh giá khả năng lắp đặt và đảm bảo an toàn vận hành trong điều kiện diện tích nhà xưởng hạn chế.
+- Thống nhất kế hoạch mua sắm và triển khai lắp đặt hệ thống tự động hóa.
+
+### 2. Các vấn đề đã thảo luận
+- Sự không đồng nhất trong chất lượng các mối hàn thủ công hiện tại gây ảnh hưởng đến tỷ lệ lỗi.
+- Đề xuất sử dụng robot cánh tay đòn 6 trục để thay thế các công đoạn lặp lại và yêu cầu độ chính xác cao.
+- Giải pháp phần mềm và các kịch bản vận hành (recipe) cho từng dòng sản phẩm khác nhau.
+- Thách thức về không gian nhà xưởng chật hẹp và phương án bố trí máy móc tối ưu.
+- Các biện pháp đảm bảo an toàn lao động (lắp cảm biến tiệm cận, rào chắn bảo vệ) xung quanh khu vực robot hoạt động.
+- Các vướng mắc tiềm ẩn trong khâu nhập khẩu và thủ tục thông quan thiết bị.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương mua sắm robot cánh tay đòn 6 trục cho dây chuyền SMT.
+- Ưu tiên lắp đặt hệ thống cảm biến an toàn thông minh để bảo vệ công nhân vận hành.
+- Giao bộ phận Mua hàng bám sát tiến độ nhập khẩu để đảm bảo robot về đúng hạn.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ đối tác báo giá và tư vấn phần mềm robot | Phòng Kỹ thuật | 10/12/2024 |
+| Thiết kế sơ đồ bố trí robot tại nhà xưởng | Anh Hùng | 05/12/2024 |
+| Hoàn thiện hồ sơ nhập khẩu và thủ tục hải quan | Anh Nam (Mua hàng) | 15/12/2024 |
+| Soạn thảo quy trình an toàn lao động khi vận hành robot | Team HSE | 20/12/2024 |

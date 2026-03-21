@@ -1,0 +1,49 @@
+<|input|>
+[15:00] Chào chị Thảo, anh Bình và mọi người. Buổi họp chiều nay mình sẽ rà soát lại ngân sách của quý 3 để chuẩn bị cho báo cáo tài chính sắp tới.
+[15:02] Theo số liệu sơ bộ thì chi phí vận hành của mình đang vượt mức dự kiến 15%, chủ yếu nằm ở mảng tiền điện và thuê ngoài kho bãi.
+[15:04] Tôi thấy lạ là tại sao tiền điện lại tăng vọt như vậy khi mình đã lắp hệ thống đèn LED tiết kiệm điện rồi?
+[15:06] Chắc do mấy tháng nay nóng quá nên máy lạnh ở xưởng chạy liên tục, với lại một số dây chuyền cũ ngốn điện hơn mức bình thường.
+[15:08] Về việc thuê ngoài kho bãi, do đợt rồi nhập linh kiện về nhiều quá mà kho mình chưa giải phóng kịp nên phải thuê thêm mặt bằng ngoài.
+[15:10] Chị Thảo xem lại dòng tiền, nếu cứ đà này thì lợi nhuận ròng của quý sẽ bị ảnh hưởng nghiêm trọng.
+[15:12] Tôi đề xuất mình cắt giảm bớt chi phí tiếp khách và các khoản chi không cấp thiết trong tháng tới.
+[15:14] Ngoài ra, cần làm việc lại với bên nhà cung cấp dịch vụ kho bãi để xin chiết khấu tốt hơn nếu mình thuê dài hạn.
+[15:16] Về phần hóa đơn chứng từ, đợt này tôi thấy có nhiều khoản chi nhỏ không có hóa đơn đỏ, kế toán cần nhắc nhở các bộ phận hoàn thiện sớm.
+[15:18] Em sẽ gửi mail nhắc lại quy trình thanh toán cho tất cả các phòng ban ngay chiều nay.
+[15:20] Khoản nợ quá hạn của khách hàng bên đại lý miền Trung thế nào rồi Bình?
+[15:22] Họ hứa là sang tuần sẽ trả 50%, số còn lại xin khất đến tháng sau vì dòng vốn của họ đang kẹt.
+[15:24] Anh cần em đôn đốc sát sao vụ này, không thể để nợ xấu kéo dài quá lâu được.
+[15:26] Vậy là thống nhất: Rà soát lại chi phí vận hành, đôn đốc thu hồi nợ và kiểm soát chặt hóa đơn đỏ.
+[15:28] Kế toán chuẩn bị bảng cân đối kế toán dự kiến cho tôi trước thứ Sáu tuần này nhé.
+[15:30] Dạ vâng, em sẽ hoàn thành đúng hạn ạ.
+
+<|output|>
+# Rà soát ngân sách quý 3 và chuẩn bị báo cáo tài chính
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình thực hiện ngân sách trong quý 3.
+- Xác định nguyên nhân khiến chi phí vận hành vượt mức dự kiến.
+- Đề ra giải pháp tối ưu dòng tiền và kiểm soát các khoản nợ quá hạn.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí vận hành vượt 15%, tập trung ở tiền điện sản xuất và thuê kho bãi bên ngoài.
+- Tình trạng nợ quá hạn từ các đại lý miền Trung gây ảnh hưởng đến dòng vốn.
+- Thiếu hụt hóa đơn chứng từ hợp lệ cho các khoản chi phí nhỏ trong nội bộ.
+- Đề xuất cắt giảm chi phí tiếp khách và các khoản chi không thiết yếu.
+
+### 3. Kết luận và quyết định
+- Yêu cầu các bộ phận nghiêm túc tuân thủ quy trình hóa đơn chứng từ đỏ.
+- Đàm phán lại hợp đồng thuê kho bãi để hưởng mức chiết khấu dài hạn.
+- Đẩy mạnh thu hồi nợ, ưu tiên xử lý dứt điểm khoản nợ từ khu vực miền Trung trong tháng tới.
+- Hoàn thiện bảng cân đối kế toán dự kiến để trình Ban Giám đốc vào cuối tuần.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Gửi mail nhắc nhở quy trình thanh toán và hóa đơn | Kế toán Thảo | 20/03 |
+| Đàm phán lại phí thuê kho bãi | Anh Bình | 25/03 |
+| Đôn đốc thu hồi nợ khách hàng miền Trung | Team Sales | 30/03 |
+| Lập bảng cân đối kế toán dự kiến | Kế toán Thảo | 22/03 |
+| Kiểm tra lại hiệu suất sử dụng điện tại xưởng | Team Kỹ thuật | 28/03 |

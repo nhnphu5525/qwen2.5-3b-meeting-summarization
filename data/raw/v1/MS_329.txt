@@ -1,0 +1,55 @@
+<|input|>
+[09:00] Chào buổi sáng team công nghệ và ban dự án. Hôm nay chúng ta có một buổi họp khá dài để thảo luận chi tiết về chiến lược tích hợp trí tuệ nhân tạo (AI) vào hệ thống chăm sóc khách hàng của tổng công ty mình nhé. Anh Tuấn, với tư cách là giám đốc kỹ thuật, anh thấy cái tiềm năng và rủi ro lớn nhất ở đây là gì?
+[09:03] Chào sếp và mọi người. Tiềm năng thì quá rõ rồi, mình có thể giảm tải đến 60% các câu hỏi lặp đi lặp lại cho đội ngũ tổng đài viên, từ đó giúp họ tập trung vào những ca khó hơn. Tuy nhiên, rủi ro là AI có thể trả lời sai (hallucination) hoặc lộ thông tin nhạy cảm của khách hàng nếu mình không kiểm soát tốt dữ liệu đầu vào.
+[09:06] Em đồng ý với anh Tuấn. Hiện tại khách hàng của mình đang than phiền rất nhiều về việc phải chờ đợi lâu trên kênh live chat. Nếu mình triển khai chatbot AI thế hệ mới, tốc độ phản hồi sẽ gần như tức thì. Nam này, em đã nghiên cứu các model nào phù hợp cho tiếng Việt chưa?
+[09:10] Dạ em đang cân nhắc giữa việc dùng API của các ông lớn như OpenAI kết hợp với RAG (Retrieval-Augmented Generation) để AI chỉ lấy thông tin từ kho tri thức nội bộ của mình. Hoặc là mình tự fine-tune một model mã nguồn mở như Llama-3 để hoàn toàn làm chủ dữ liệu. Theo em, dùng RAG là phương án nhanh và chính xác nhất cho giai đoạn đầu.
+[09:14] Dùng RAG nghe có vẻ an toàn hơn vì mình giới hạn được phạm vi câu trả lời của AI. Nhưng Lan ơi, em lưu ý khâu chuẩn bị dữ liệu nhé. Toàn bộ các quy trình, chính sách, hướng dẫn sản phẩm của mình phải được số hóa và chuẩn hóa thành dạng text sạch thì AI mới học đúng được.
+[09:18] Dạ chị, em đã bắt đầu cho đội CS tập hợp lại toàn bộ file PDF và word. Cái khó là có nhiều quy trình đã cũ hoặc chồng chéo lên nhau. Em cần ít nhất 1 tháng để "dọn dẹp" lại cái kho tri thức này trước khi đẩy vào cho AI.
+[09:22] Một tháng là hợp lý đấy Lan. Anh Tuấn giúp anh xem xét về vấn đề hạ tầng nhé. Nếu mình chạy RAG với lượng truy cập lớn thì chi phí API hàng tháng có bị đội lên quá cao không?
+[09:26] Nếu mình tối ưu hóa việc phân đoạn dữ liệu (chunking) và dùng các model nhỏ hơn cho các tác vụ đơn giản thì chi phí sẽ ổn sếp ạ. Em dự tính giai đoạn thử nghiệm mình mất khoảng 2000 đô mỗi tháng tiền API. Con số này vẫn rẻ hơn nhiều so với việc thuê thêm 5 nhân sự trực đêm.
+[09:30] Ok, chi phí đó anh duyệt được. Vậy kế hoạch của mình sẽ chia làm 3 giai đoạn. Giai đoạn 1 là chuẩn hóa dữ liệu do Lan phụ trách. Giai đoạn 2 là xây dựng MVP (Sản phẩm tối thiểu) chạy nội bộ để nhân viên CS test thử, do Nam và anh Tuấn lo. Giai đoạn 3 mới là triển khai chính thức cho khách hàng.
+[09:34] Em thấy mình nên có một bước trung gian ở giai đoạn 2 là "AI gợi ý câu trả lời". Nghĩa là AI chưa trực tiếp chat với khách mà nó soạn sẵn câu trả lời để nhân viên CS duyệt và nhấn gửi. Như vậy mình vừa huấn luyện được AI, vừa đảm bảo 100% độ chính xác cho khách hàng.
+[09:38] Ý kiến của Nam cực kỳ hay! Cách này giúp nhân viên quen dần với AI mà khách hàng cũng không bị làm "chuột bạch". Mình sẽ chạy cái này trong vòng 2 tuần trước khi cho AI "tự bơi".
+[09:42] Vậy là thống nhất rồi nhé. Lan bắt đầu dọn dẹp dữ liệu ngay từ hôm nay. Nam và anh Tuấn lên kiến trúc hệ thống và chọn nhà cung cấp API. Chị Thu bên tài chính ghi nhận cái khoản ngân sách 2000 đô/tháng để làm thủ tục nhé.
+[09:46] Dạ em ghi nhận rồi ạ. Anh Tuấn nhớ gửi cho em bản dự toán chi tiết các hạng mục để em trình sếp ký nhé.
+[09:50] Vâng chị Thu, chiều nay em gửi luôn. Mọi người lưu ý là mình cũng cần phải thông báo cho khách hàng biết là họ đang giao tiếp với trợ lý ảo AI để minh bạch thông tin nhé.
+[09:54] Đúng rồi Tuấn, cái đó là đạo đức nghề nghiệp trong AI. Mình sẽ để một cái icon hoặc câu chào rõ ràng. Ok, buổi họp sáng nay thế là rất hiệu quả. Mọi người có ai thắc mắc gì nữa không?
+[09:58] Dạ không ạ, tụi em rõ rồi.
+[10:02] Cảm ơn cả nhà, chúng ta kết thúc tại đây để bắt tay vào làm luôn cho nóng.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng chiến lược tích hợp trí tuệ nhân tạo (AI) vào hệ thống chăm sóc khách hàng của tổng công ty.
+- Nâng cao tốc độ phản hồi và giảm tải áp lực cho đội ngũ tổng đài viên.
+- Thống nhất giải pháp kỹ thuật, lộ trình triển khai và dự toán ngân sách.
+
+### 2. Các vấn đề đã thảo luận
+- Tiềm năng giảm 60% khối lượng công việc lặp lại nhưng rủi ro về độ chính xác và bảo mật dữ liệu.
+- Lựa chọn giải pháp kỹ thuật: Sử dụng mô hình RAG (Retrieval-Augmented Generation) để giới hạn phạm vi kiến thức của AI.
+- Khó khăn trong việc số hóa và chuẩn hóa kho tri thức nội bộ (nhiều tài liệu cũ, chồng chéo).
+- Dự toán ngân sách API khoảng 2000 USD/tháng cho giai đoạn thử nghiệm.
+- Ý tưởng triển khai giai đoạn trung gian "AI gợi ý câu trả lời" để nhân viên kiểm soát và huấn luyện model.
+- Vấn đề đạo đức AI: Đảm bảo tính minh bạch thông tin đối với khách hàng (thông báo đang giao tiếp với trợ lý ảo).
+
+### 3. Kết luận và quyết định
+- Phê duyệt triển khai dự án AI Chatbot theo lộ trình 3 giai đoạn.
+- Sử dụng công nghệ RAG kết hợp với các API model ngôn ngữ lớn hiện đại.
+- Thực hiện giai đoạn "Shadow Mode" (AI gợi ý) trước khi cho AI trực tiếp phản hồi khách hàng.
+- Chấp thuận ngân sách 2000 USD/tháng cho chi phí vận hành hạ tầng AI giai đoạn đầu.
+- Giao các bộ phận chuyên môn hoàn thiện dữ liệu và kiến trúc hệ thống trước cuối tháng sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Số hóa, dọn dẹp và chuẩn hóa kho dữ liệu tri thức | Lan | 20/04/2026 |
+| Thiết kế kiến trúc hệ thống RAG và chọn nhà cung cấp API | Anh Tuấn & Nam | 10/04/2026 |
+| Xây dựng bản MVP chạy nội bộ (Giai đoạn gợi ý câu trả lời) | Team Công nghệ | 05/05/2026 |
+| Lập dự toán chi tiết các hạng mục đầu tư AI | Anh Tuấn | 20/03/2026 |
+| Soạn thảo kịch bản và câu chào minh bạch thông tin AI | Phòng CSKH | 30/04/2026 |
+| Triển khai thử nghiệm chính thức trên kênh Live Chat | Ban Dự án | 15/06/2026 |
+| Đánh giá hiệu quả và tối ưu hóa model sau 1 tháng chạy | Team AI | 15/07/2026 |

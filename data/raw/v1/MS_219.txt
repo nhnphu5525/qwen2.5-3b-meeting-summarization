@@ -1,0 +1,451 @@
+<|input|>
+[09:00] Để tôi check lại lịch của bên thiết kế xem họ rảnh khi nào.
+[09:01] Nói chung là Tôi lo nhất là cái chất liệu vải, tiến độ đang bị khựng lại.
+[09:04] Ờm Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[09:06] À Đúng rồi, cái bộ sưu tập cần được ưu tiên xử lý trước thứ Sáu này.
+[09:08] Mọi người có ý kiến gì thêm về chiến dịch ra mắt không?
+[09:10] Vụ bộ sưu tập thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:12] Thôi được rồi, vậy thống nhất là triển khai chiến dịch ra mắt theo hướng đó.
+[09:07] Vụ chiến dịch ra mắt thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:16] Về phần ngân sách cho xu hướng, sếp đã duyệt chưa nhỉ?
+[09:18] Bên đối tác họ cứ hỏi mãi về chiến dịch ra mắt, mình phải trả lời sao đây?
+[09:10] Ờm Đừng quên vụ chuỗi bán lẻ cũng quan trọng không kém nhé.
+[09:11] Nói chung là Bên đối tác họ cứ hỏi mãi về chiến dịch ra mắt, mình phải trả lời sao đây?
+[09:12] Mọi người nghe rõ không? Về cái thiết kế này tôi thấy có vẻ hơi vướng.
+[09:13] Về phần ngân sách cho showroom, sếp đã duyệt chưa nhỉ?
+[09:28] Cần phải làm rõ hơn về chuỗi bán lẻ trong hợp đồng mới.
+[09:15] Ai sẽ chịu trách nhiệm chính cho mảng chất liệu vải nhỉ?
+[09:16] Đừng quên vụ bộ sưu tập cũng quan trọng không kém nhé.
+[09:17] Hình như Đừng quên vụ showroom cũng quan trọng không kém nhé.
+[09:18] Hình như Thế thì mình chốt phương án cho thiết kế luôn đi, đừng kéo dài nữa.
+[09:19] Thì đấy Mọi người có ý kiến gì thêm về chất liệu vải không?
+[09:40] Đúng rồi, cái chuỗi bán lẻ cần được ưu tiên xử lý trước thứ Sáu này.
+[09:42] Chắc là Thế thì mình chốt phương án cho chuỗi bán lẻ luôn đi, đừng kéo dài nữa.
+[09:22] Vâng Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[09:23] Vụ xu hướng thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[09:48] Đừng quên vụ xu hướng cũng quan trọng không kém nhé.
+[09:50] Tôi lo nhất là cái chất liệu vải, tiến độ đang bị khựng lại.
+[09:26] Tôi sẽ phụ trách kiểm tra lại thiết kế rồi báo lại cả team vào chiều mai.
+[09:27] Tóm lại Bên đối tác họ cứ hỏi mãi về thiết kế, mình phải trả lời sao đây?
+[09:28] Nói chung là Thế thì mình chốt phương án cho xu hướng luôn đi, đừng kéo dài nữa.
+[09:29] Vụ xu hướng thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[10:00] Vụ showroom thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[10:02] Về dài hạn thì bộ sưu tập sẽ là trọng tâm của năm nay.
+[10:04] Tôi sẽ phụ trách kiểm tra lại chuỗi bán lẻ rồi báo lại cả team vào chiều mai.
+[10:06] Nói chung là Hay là mình thử thay đổi cách tiếp cận với thiết kế xem sao?
+[09:34] Về dài hạn thì bộ sưu tập sẽ là trọng tâm của năm nay.
+[10:10] Thế thì mình chốt phương án cho xu hướng luôn đi, đừng kéo dài nữa.
+[10:12] Thì Tôi lo nhất là cái xu hướng, tiến độ đang bị khựng lại.
+[10:14] Tóm lại Đừng quên vụ chất liệu vải cũng quan trọng không kém nhé.
+[09:38] Cần phải làm rõ hơn về xu hướng trong hợp đồng mới.
+[10:18] Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[09:40] À Tôi sẽ phụ trách kiểm tra lại showroom rồi báo lại cả team vào chiều mai.
+[09:41] Hình như Về dài hạn thì xu hướng sẽ là trọng tâm của năm nay.
+[09:42] Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[09:43] Thì Về phần ngân sách cho thiết kế, sếp đã duyệt chưa nhỉ?
+[10:28] Thì đấy Vụ chiến dịch ra mắt thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[10:30] Ờm Thôi được rồi, vậy thống nhất là triển khai showroom theo hướng đó.
+[09:46] Thế thì mình chốt phương án cho bộ sưu tập luôn đi, đừng kéo dài nữa.
+[09:47] Dạ Tôi thấy xu hướng hiện tại là cơ hội tốt để mình bứt phá.
+[09:48] Tôi lo nhất là cái chiến dịch ra mắt, tiến độ đang bị khựng lại.
+[10:38] Thực ra Hay là mình thử thay đổi cách tiếp cận với xu hướng xem sao?
+[09:50] Vụ thiết kế thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[10:42] Tôi thấy chiến dịch ra mắt hiện tại là cơ hội tốt để mình bứt phá.
+[09:52] Về phần ngân sách cho thiết kế, sếp đã duyệt chưa nhỉ?
+[10:46] Tôi sẽ phụ trách kiểm tra lại bộ sưu tập rồi báo lại cả team vào chiều mai.
+[09:54] Thực ra Bên đối tác họ cứ hỏi mãi về thiết kế, mình phải trả lời sao đây?
+[09:55] Vâng Bên đối tác họ cứ hỏi mãi về chiến dịch ra mắt, mình phải trả lời sao đây?
+[10:52] Thì Thôi được rồi, vậy thống nhất là triển khai showroom theo hướng đó.
+[10:54] Mọi người nghe rõ không? Về cái chiến dịch ra mắt này tôi thấy có vẻ hơi vướng.
+[09:58] Vấn đề chiến dịch ra mắt thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[09:59] Bên đối tác họ cứ hỏi mãi về chuỗi bán lẻ, mình phải trả lời sao đây?
+[11:00] Tóm lại Đừng quên vụ chuỗi bán lẻ cũng quan trọng không kém nhé.
+[10:01] Vâng Vụ chiến dịch ra mắt thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[11:04] Bên đối tác họ cứ hỏi mãi về bộ sưu tập, mình phải trả lời sao đây?
+[10:03] Thế thì mình chốt phương án cho chất liệu vải luôn đi, đừng kéo dài nữa.
+[10:04] Về phần ngân sách cho chuỗi bán lẻ, sếp đã duyệt chưa nhỉ?
+[11:10] Thôi được rồi, vậy thống nhất là triển khai chiến dịch ra mắt theo hướng đó.
+[11:12] Bên đối tác họ cứ hỏi mãi về chuỗi bán lẻ, mình phải trả lời sao đây?
+[10:07] Cần phải làm rõ hơn về chiến dịch ra mắt trong hợp đồng mới.
+[11:16] Tôi sẽ phụ trách kiểm tra lại chuỗi bán lẻ rồi báo lại cả team vào chiều mai.
+[10:09] Dạ Ai sẽ chịu trách nhiệm chính cho mảng thiết kế nhỉ?
+[10:10] À Tôi lo nhất là cái chất liệu vải, tiến độ đang bị khựng lại.
+[11:22] Cái xu hướng này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[10:12] Thôi được rồi, vậy thống nhất là triển khai showroom theo hướng đó.
+[11:26] À Vấn đề chiến dịch ra mắt thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[10:14] Thôi được rồi, vậy thống nhất là triển khai showroom theo hướng đó.
+[11:30] Thì đấy Tôi sẽ phụ trách kiểm tra lại xu hướng rồi báo lại cả team vào chiều mai.
+[10:16] Thế thì mình chốt phương án cho chuỗi bán lẻ luôn đi, đừng kéo dài nữa.
+[10:17] Hình như Mọi người có ý kiến gì thêm về thiết kế không?
+[10:18] Tôi thấy chất liệu vải hiện tại là cơ hội tốt để mình bứt phá.
+[10:19] Thôi được rồi, vậy thống nhất là triển khai thiết kế theo hướng đó.
+[11:40] Vấn đề thiết kế thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[10:21] Tôi lo nhất là cái chất liệu vải, tiến độ đang bị khựng lại.
+[11:44] Tôi lo nhất là cái bộ sưu tập, tiến độ đang bị khựng lại.
+[11:46] Vâng Đúng rồi, cái bộ sưu tập cần được ưu tiên xử lý trước thứ Sáu này.
+[10:24] Hay là mình thử thay đổi cách tiếp cận với showroom xem sao?
+[11:50] Đúng rồi, cái bộ sưu tập cần được ưu tiên xử lý trước thứ Sáu này.
+[11:52] Vâng Hay là mình thử thay đổi cách tiếp cận với showroom xem sao?
+[11:54] Nói chung là Tôi lo nhất là cái chiến dịch ra mắt, tiến độ đang bị khựng lại.
+[10:28] Ai sẽ chịu trách nhiệm chính cho mảng showroom nhỉ?
+[11:58] Tôi sẽ phụ trách kiểm tra lại showroom rồi báo lại cả team vào chiều mai.
+[12:00] Vâng Thôi được rồi, vậy thống nhất là triển khai thiết kế theo hướng đó.
+[10:31] Dạ Về dài hạn thì chất liệu vải sẽ là trọng tâm của năm nay.
+[10:32] Nói chung là Thôi được rồi, vậy thống nhất là triển khai bộ sưu tập theo hướng đó.
+[12:06] Tôi lo nhất là cái thiết kế, tiến độ đang bị khựng lại.
+[12:08] Chắc là Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[12:10] Đúng rồi, cái xu hướng cần được ưu tiên xử lý trước thứ Sáu này.
+[12:12] Về phần ngân sách cho chất liệu vải, sếp đã duyệt chưa nhỉ?
+[12:14] Thôi được rồi, vậy thống nhất là triển khai showroom theo hướng đó.
+[12:16] Vâng Thôi được rồi, vậy thống nhất là triển khai chiến dịch ra mắt theo hướng đó.
+[12:18] Ai sẽ chịu trách nhiệm chính cho mảng chiến dịch ra mắt nhỉ?
+[10:40] Thì Cần phải làm rõ hơn về thiết kế trong hợp đồng mới.
+[10:41] Nói chung là Hay là mình thử thay đổi cách tiếp cận với xu hướng xem sao?
+[12:24] Thì đấy Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[10:43] Vấn đề bộ sưu tập thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[12:28] Thì đấy Mọi người nghe rõ không? Về cái chuỗi bán lẻ này tôi thấy có vẻ hơi vướng.
+[10:45] Về dài hạn thì xu hướng sẽ là trọng tâm của năm nay.
+[12:32] Thì đấy Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[12:34] Thực ra Để tôi check lại lịch của bên chất liệu vải xem họ rảnh khi nào.
+[12:36] Thì Tôi lo nhất là cái chất liệu vải, tiến độ đang bị khựng lại.
+[12:38] Mọi người nghe rõ không? Về cái thiết kế này tôi thấy có vẻ hơi vướng.
+[10:50] Tôi lo nhất là cái chiến dịch ra mắt, tiến độ đang bị khựng lại.
+[12:42] Vâng Tôi lo nhất là cái thiết kế, tiến độ đang bị khựng lại.
+[12:44] Hay là mình thử thay đổi cách tiếp cận với thiết kế xem sao?
+[12:46] Dạ Thế thì mình chốt phương án cho bộ sưu tập luôn đi, đừng kéo dài nữa.
+[10:54] Thôi được rồi, vậy thống nhất là triển khai bộ sưu tập theo hướng đó.
+[10:55] Đừng quên vụ bộ sưu tập cũng quan trọng không kém nhé.
+[10:56] Hay là mình thử thay đổi cách tiếp cận với showroom xem sao?
+[10:57] Vâng Đừng quên vụ chuỗi bán lẻ cũng quan trọng không kém nhé.
+[10:58] Tôi sẽ phụ trách kiểm tra lại chất liệu vải rồi báo lại cả team vào chiều mai.
+[10:59] Tôi sẽ phụ trách kiểm tra lại chuỗi bán lẻ rồi báo lại cả team vào chiều mai.
+[11:00] Tóm lại Thôi được rồi, vậy thống nhất là triển khai chiến dịch ra mắt theo hướng đó.
+[11:01] À Để tôi check lại lịch của bên chiến dịch ra mắt xem họ rảnh khi nào.
+[11:02] Về phần ngân sách cho showroom, sếp đã duyệt chưa nhỉ?
+[13:06] Tôi thấy chất liệu vải hiện tại là cơ hội tốt để mình bứt phá.
+[13:08] Đúng rồi, cái chất liệu vải cần được ưu tiên xử lý trước thứ Sáu này.
+[13:10] Vâng Thế thì mình chốt phương án cho chất liệu vải luôn đi, đừng kéo dài nữa.
+[13:12] Cái xu hướng này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[13:14] Chắc là Vụ xu hướng thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[13:16] Mọi người có ý kiến gì thêm về showroom không?
+[13:18] Tôi thấy chất liệu vải hiện tại là cơ hội tốt để mình bứt phá.
+[13:20] Chắc là Hay là mình thử thay đổi cách tiếp cận với xu hướng xem sao?
+[11:11] Thì Hay là mình thử thay đổi cách tiếp cận với showroom xem sao?
+[11:12] À Mọi người nghe rõ không? Về cái chất liệu vải này tôi thấy có vẻ hơi vướng.
+[13:26] Thực ra Vấn đề xu hướng thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[11:14] Vấn đề chuỗi bán lẻ thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[13:30] Chắc là Cần phải làm rõ hơn về showroom trong hợp đồng mới.
+[13:32] Vấn đề thiết kế thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[13:34] Thôi được rồi, vậy thống nhất là triển khai chiến dịch ra mắt theo hướng đó.
+[13:36] Đừng quên vụ xu hướng cũng quan trọng không kém nhé.
+[13:38] Mọi người nghe rõ không? Về cái chiến dịch ra mắt này tôi thấy có vẻ hơi vướng.
+[11:20] Thôi được rồi, vậy thống nhất là triển khai showroom theo hướng đó.
+[13:42] Ai sẽ chịu trách nhiệm chính cho mảng thiết kế nhỉ?
+[11:22] Về dài hạn thì thiết kế sẽ là trọng tâm của năm nay.
+[11:23] Cái chất liệu vải này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[13:48] Cái bộ sưu tập này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[11:25] Về phần ngân sách cho bộ sưu tập, sếp đã duyệt chưa nhỉ?
+[13:52] Để tôi check lại lịch của bên chuỗi bán lẻ xem họ rảnh khi nào.
+[11:27] Tóm lại Đúng rồi, cái bộ sưu tập cần được ưu tiên xử lý trước thứ Sáu này.
+[11:28] À Mọi người nghe rõ không? Về cái showroom này tôi thấy có vẻ hơi vướng.
+[13:58] Thì đấy Vụ showroom thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[11:30] Thế thì mình chốt phương án cho showroom luôn đi, đừng kéo dài nữa.
+[11:31] Tóm lại Về phần ngân sách cho thiết kế, sếp đã duyệt chưa nhỉ?
+[11:32] Tôi sẽ phụ trách kiểm tra lại thiết kế rồi báo lại cả team vào chiều mai.
+[14:06] Đúng rồi, cái bộ sưu tập cần được ưu tiên xử lý trước thứ Sáu này.
+[14:08] Tôi thấy bộ sưu tập hiện tại là cơ hội tốt để mình bứt phá.
+[14:10] Dạ Đừng quên vụ showroom cũng quan trọng không kém nhé.
+[14:12] À Đúng rồi, cái bộ sưu tập cần được ưu tiên xử lý trước thứ Sáu này.
+[14:14] Hay là mình thử thay đổi cách tiếp cận với chuỗi bán lẻ xem sao?
+[11:38] Tôi sẽ phụ trách kiểm tra lại chuỗi bán lẻ rồi báo lại cả team vào chiều mai.
+[11:39] Thì Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[11:40] Thôi được rồi, vậy thống nhất là triển khai chất liệu vải theo hướng đó.
+[11:41] Vụ chiến dịch ra mắt thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[11:42] Tóm lại Vụ bộ sưu tập thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[14:26] Tóm lại Về phần ngân sách cho xu hướng, sếp đã duyệt chưa nhỉ?
+[11:44] Nói chung là Đừng quên vụ bộ sưu tập cũng quan trọng không kém nhé.
+[14:30] Tôi lo nhất là cái xu hướng, tiến độ đang bị khựng lại.
+[11:46] Ờm Ai sẽ chịu trách nhiệm chính cho mảng thiết kế nhỉ?
+[14:34] Thực ra Bên đối tác họ cứ hỏi mãi về xu hướng, mình phải trả lời sao đây?
+[11:48] Thì Hay là mình thử thay đổi cách tiếp cận với bộ sưu tập xem sao?
+[11:49] Tôi sẽ phụ trách kiểm tra lại chiến dịch ra mắt rồi báo lại cả team vào chiều mai.
+[11:50] Hình như Bên đối tác họ cứ hỏi mãi về chuỗi bán lẻ, mình phải trả lời sao đây?
+[11:51] Tóm lại Tôi thấy chuỗi bán lẻ hiện tại là cơ hội tốt để mình bứt phá.
+[14:44] Ờm Tôi sẽ phụ trách kiểm tra lại chuỗi bán lẻ rồi báo lại cả team vào chiều mai.
+[14:46] Ai sẽ chịu trách nhiệm chính cho mảng showroom nhỉ?
+[14:48] Thì đấy Tôi lo nhất là cái chất liệu vải, tiến độ đang bị khựng lại.
+[11:55] Về phần ngân sách cho chiến dịch ra mắt, sếp đã duyệt chưa nhỉ?
+[11:56] Hay là mình thử thay đổi cách tiếp cận với chất liệu vải xem sao?
+[14:54] Về dài hạn thì chất liệu vải sẽ là trọng tâm của năm nay.
+[11:58] À Mọi người có ý kiến gì thêm về chiến dịch ra mắt không?
+[14:58] Cần phải làm rõ hơn về thiết kế trong hợp đồng mới.
+[12:00] Tôi sẽ phụ trách kiểm tra lại chất liệu vải rồi báo lại cả team vào chiều mai.
+[15:02] Vâng Thôi được rồi, vậy thống nhất là triển khai chất liệu vải theo hướng đó.
+[12:02] Thì Ai sẽ chịu trách nhiệm chính cho mảng showroom nhỉ?
+[12:03] Cần phải làm rõ hơn về xu hướng trong hợp đồng mới.
+[12:04] Về dài hạn thì chất liệu vải sẽ là trọng tâm của năm nay.
+[12:05] Vụ bộ sưu tập thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[15:12] Cái xu hướng này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[12:07] Hay là mình thử thay đổi cách tiếp cận với chuỗi bán lẻ xem sao?
+[12:08] Hình như Đúng rồi, cái chất liệu vải cần được ưu tiên xử lý trước thứ Sáu này.
+[12:09] Vấn đề chất liệu vải thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[15:20] Chắc là Vấn đề xu hướng thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[15:22] Thực ra Thôi được rồi, vậy thống nhất là triển khai thiết kế theo hướng đó.
+[12:12] Tôi lo nhất là cái thiết kế, tiến độ đang bị khựng lại.
+[12:13] Thực ra Thôi được rồi, vậy thống nhất là triển khai chuỗi bán lẻ theo hướng đó.
+[12:14] Nói chung là Thôi được rồi, vậy thống nhất là triển khai xu hướng theo hướng đó.
+[15:30] Về phần ngân sách cho showroom, sếp đã duyệt chưa nhỉ?
+[12:16] Về phần ngân sách cho thiết kế, sếp đã duyệt chưa nhỉ?
+[15:34] Thì đấy Để tôi check lại lịch của bên chất liệu vải xem họ rảnh khi nào.
+[15:36] Vụ chất liệu vải thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[15:38] Tôi lo nhất là cái showroom, tiến độ đang bị khựng lại.
+[12:20] Vụ thiết kế thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[12:21] Thực ra Bên đối tác họ cứ hỏi mãi về xu hướng, mình phải trả lời sao đây?
+[15:44] Tôi thấy xu hướng hiện tại là cơ hội tốt để mình bứt phá.
+[15:46] À Thôi được rồi, vậy thống nhất là triển khai xu hướng theo hướng đó.
+[12:24] Cái bộ sưu tập này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[15:50] Tôi lo nhất là cái bộ sưu tập, tiến độ đang bị khựng lại.
+[12:26] Dạ Hay là mình thử thay đổi cách tiếp cận với chiến dịch ra mắt xem sao?
+[12:27] Thế thì mình chốt phương án cho chất liệu vải luôn đi, đừng kéo dài nữa.
+[12:28] Về phần ngân sách cho chuỗi bán lẻ, sếp đã duyệt chưa nhỉ?
+[12:29] Chắc là Thôi được rồi, vậy thống nhất là triển khai showroom theo hướng đó.
+[12:30] Để tôi check lại lịch của bên chiến dịch ra mắt xem họ rảnh khi nào.
+[16:02] Đúng rồi, cái xu hướng cần được ưu tiên xử lý trước thứ Sáu này.
+[16:04] Nói chung là Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[16:06] Vụ bộ sưu tập thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[16:08] Vâng Thôi được rồi, vậy thống nhất là triển khai chất liệu vải theo hướng đó.
+[12:35] Vâng Tôi thấy xu hướng hiện tại là cơ hội tốt để mình bứt phá.
+[16:12] Tôi sẽ phụ trách kiểm tra lại thiết kế rồi báo lại cả team vào chiều mai.
+[16:14] Để tôi check lại lịch của bên showroom xem họ rảnh khi nào.
+[12:38] Tôi sẽ phụ trách kiểm tra lại thiết kế rồi báo lại cả team vào chiều mai.
+[12:39] Đừng quên vụ chuỗi bán lẻ cũng quan trọng không kém nhé.
+[16:20] Vâng Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[12:41] Vâng Bên đối tác họ cứ hỏi mãi về chiến dịch ra mắt, mình phải trả lời sao đây?
+[16:24] Ai sẽ chịu trách nhiệm chính cho mảng showroom nhỉ?
+[16:26] Tôi lo nhất là cái showroom, tiến độ đang bị khựng lại.
+[16:28] Ai sẽ chịu trách nhiệm chính cho mảng chiến dịch ra mắt nhỉ?
+[16:30] Đừng quên vụ showroom cũng quan trọng không kém nhé.
+[16:32] Vụ bộ sưu tập thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[16:34] Vấn đề thiết kế thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[12:48] Cần phải làm rõ hơn về chuỗi bán lẻ trong hợp đồng mới.
+[16:38] Ai sẽ chịu trách nhiệm chính cho mảng bộ sưu tập nhỉ?
+[16:40] Ờm Tôi lo nhất là cái showroom, tiến độ đang bị khựng lại.
+[16:42] Cái chiến dịch ra mắt này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[12:52] Hình như Để tôi check lại lịch của bên chất liệu vải xem họ rảnh khi nào.
+[12:53] Về phần ngân sách cho chuỗi bán lẻ, sếp đã duyệt chưa nhỉ?
+[12:54] Chắc là Về phần ngân sách cho xu hướng, sếp đã duyệt chưa nhỉ?
+[12:55] Tóm lại Về phần ngân sách cho thiết kế, sếp đã duyệt chưa nhỉ?
+[12:56] Thì Để tôi check lại lịch của bên xu hướng xem họ rảnh khi nào.
+[16:54] Cái xu hướng này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[12:58] Về dài hạn thì xu hướng sẽ là trọng tâm của năm nay.
+[16:58] Thì đấy Bên đối tác họ cứ hỏi mãi về thiết kế, mình phải trả lời sao đây?
+[17:00] Nói chung là Tôi sẽ phụ trách kiểm tra lại xu hướng rồi báo lại cả team vào chiều mai.
+[17:02] Dạ Về dài hạn thì chất liệu vải sẽ là trọng tâm của năm nay.
+[17:04] Thì Tôi sẽ phụ trách kiểm tra lại chất liệu vải rồi báo lại cả team vào chiều mai.
+[13:03] Thực ra Cần phải làm rõ hơn về bộ sưu tập trong hợp đồng mới.
+[13:04] Hình như Mọi người có ý kiến gì thêm về showroom không?
+[13:05] Thực ra Thôi được rồi, vậy thống nhất là triển khai chiến dịch ra mắt theo hướng đó.
+[13:06] Tóm lại Về dài hạn thì chất liệu vải sẽ là trọng tâm của năm nay.
+[13:07] Mọi người có ý kiến gì thêm về chiến dịch ra mắt không?
+[13:08] Tôi thấy bộ sưu tập hiện tại là cơ hội tốt để mình bứt phá.
+[17:18] Thực ra Hay là mình thử thay đổi cách tiếp cận với thiết kế xem sao?
+[17:20] Nói chung là Đừng quên vụ chất liệu vải cũng quan trọng không kém nhé.
+[17:22] Đúng rồi, cái chất liệu vải cần được ưu tiên xử lý trước thứ Sáu này.
+[17:24] Thì đấy Tôi sẽ phụ trách kiểm tra lại bộ sưu tập rồi báo lại cả team vào chiều mai.
+[17:26] Mọi người có ý kiến gì thêm về chiến dịch ra mắt không?
+[13:14] Thế thì mình chốt phương án cho xu hướng luôn đi, đừng kéo dài nữa.
+[13:15] Hay là mình thử thay đổi cách tiếp cận với thiết kế xem sao?
+[13:16] Mọi người nghe rõ không? Về cái thiết kế này tôi thấy có vẻ hơi vướng.
+[17:34] Chắc là Thôi được rồi, vậy thống nhất là triển khai chuỗi bán lẻ theo hướng đó.
+[17:36] Thì đấy Thôi được rồi, vậy thống nhất là triển khai thiết kế theo hướng đó.
+[13:19] Tôi lo nhất là cái xu hướng, tiến độ đang bị khựng lại.
+[17:40] Thôi được rồi, vậy thống nhất là triển khai showroom theo hướng đó.
+[13:21] Để tôi check lại lịch của bên chất liệu vải xem họ rảnh khi nào.
+[17:44] Thế thì mình chốt phương án cho xu hướng luôn đi, đừng kéo dài nữa.
+[17:46] Tóm lại Tôi thấy chiến dịch ra mắt hiện tại là cơ hội tốt để mình bứt phá.
+[17:48] Thì đấy Để tôi check lại lịch của bên bộ sưu tập xem họ rảnh khi nào.
+[17:50] Thì Vấn đề bộ sưu tập thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[17:52] Tôi sẽ phụ trách kiểm tra lại thiết kế rồi báo lại cả team vào chiều mai.
+[13:27] Ờm Mọi người nghe rõ không? Về cái thiết kế này tôi thấy có vẻ hơi vướng.
+[13:28] Tôi thấy thiết kế hiện tại là cơ hội tốt để mình bứt phá.
+[13:29] Tóm lại Bên đối tác họ cứ hỏi mãi về chất liệu vải, mình phải trả lời sao đây?
+[13:30] Thôi được rồi, vậy thống nhất là triển khai chiến dịch ra mắt theo hướng đó.
+[13:31] Tóm lại Về phần ngân sách cho thiết kế, sếp đã duyệt chưa nhỉ?
+[13:32] Hình như Tôi thấy xu hướng hiện tại là cơ hội tốt để mình bứt phá.
+[13:33] Mọi người nghe rõ không? Về cái bộ sưu tập này tôi thấy có vẻ hơi vướng.
+[13:34] Để tôi check lại lịch của bên chuỗi bán lẻ xem họ rảnh khi nào.
+[13:35] Hình như Mọi người nghe rõ không? Về cái chiến dịch ra mắt này tôi thấy có vẻ hơi vướng.
+[13:36] Bên đối tác họ cứ hỏi mãi về bộ sưu tập, mình phải trả lời sao đây?
+[13:37] Ờm Thế thì mình chốt phương án cho chất liệu vải luôn đi, đừng kéo dài nữa.
+[18:16] Cái showroom này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[13:39] Vâng Thế thì mình chốt phương án cho chiến dịch ra mắt luôn đi, đừng kéo dài nữa.
+[13:40] Thực ra Vấn đề bộ sưu tập thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[18:22] À Vấn đề xu hướng thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[13:42] Để tôi check lại lịch của bên thiết kế xem họ rảnh khi nào.
+[18:26] Thế thì mình chốt phương án cho showroom luôn đi, đừng kéo dài nữa.
+[13:44] Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[18:30] Thế thì mình chốt phương án cho showroom luôn đi, đừng kéo dài nữa.
+[13:46] Về dài hạn thì xu hướng sẽ là trọng tâm của năm nay.
+[13:47] À Để tôi check lại lịch của bên chuỗi bán lẻ xem họ rảnh khi nào.
+[18:36] Nói chung là Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[13:49] Tôi sẽ phụ trách kiểm tra lại chiến dịch ra mắt rồi báo lại cả team vào chiều mai.
+[18:40] Thôi được rồi, vậy thống nhất là triển khai chiến dịch ra mắt theo hướng đó.
+[18:42] Vâng Tôi lo nhất là cái bộ sưu tập, tiến độ đang bị khựng lại.
+[18:44] Nói chung là Cái bộ sưu tập này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[18:46] Vấn đề showroom thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[13:54] Vụ chiến dịch ra mắt thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[13:55] Thì Tôi sẽ phụ trách kiểm tra lại chuỗi bán lẻ rồi báo lại cả team vào chiều mai.
+[18:52] Nói chung là Bên đối tác họ cứ hỏi mãi về xu hướng, mình phải trả lời sao đây?
+[13:57] Hình như Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[13:58] Mọi người nghe rõ không? Về cái thiết kế này tôi thấy có vẻ hơi vướng.
+[13:59] Vâng Thôi được rồi, vậy thống nhất là triển khai chiến dịch ra mắt theo hướng đó.
+[19:00] Tóm lại Thôi được rồi, vậy thống nhất là triển khai chất liệu vải theo hướng đó.
+[19:02] Ai sẽ chịu trách nhiệm chính cho mảng thiết kế nhỉ?
+[19:04] Tôi lo nhất là cái showroom, tiến độ đang bị khựng lại.
+[19:06] À Thế thì mình chốt phương án cho bộ sưu tập luôn đi, đừng kéo dài nữa.
+[19:08] Thực ra Tôi thấy chất liệu vải hiện tại là cơ hội tốt để mình bứt phá.
+[19:10] Cái chất liệu vải này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[19:12] Vấn đề chiến dịch ra mắt thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[19:14] Để tôi check lại lịch của bên bộ sưu tập xem họ rảnh khi nào.
+[19:16] Bên đối tác họ cứ hỏi mãi về showroom, mình phải trả lời sao đây?
+[14:09] Ờm Tôi thấy chất liệu vải hiện tại là cơ hội tốt để mình bứt phá.
+[19:20] Thì Về dài hạn thì showroom sẽ là trọng tâm của năm nay.
+[19:22] À Bên đối tác họ cứ hỏi mãi về chất liệu vải, mình phải trả lời sao đây?
+[19:24] Tóm lại Cần phải làm rõ hơn về chuỗi bán lẻ trong hợp đồng mới.
+[19:26] Thế thì mình chốt phương án cho chuỗi bán lẻ luôn đi, đừng kéo dài nữa.
+[19:28] Đừng quên vụ thiết kế cũng quan trọng không kém nhé.
+[14:15] Để tôi check lại lịch của bên chiến dịch ra mắt xem họ rảnh khi nào.
+[19:32] Thế thì mình chốt phương án cho chất liệu vải luôn đi, đừng kéo dài nữa.
+[19:34] Vụ xu hướng thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[19:36] Vấn đề thiết kế thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[14:19] Về dài hạn thì bộ sưu tập sẽ là trọng tâm của năm nay.
+[14:20] Để tôi check lại lịch của bên bộ sưu tập xem họ rảnh khi nào.
+[19:42] Tôi lo nhất là cái chuỗi bán lẻ, tiến độ đang bị khựng lại.
+[19:44] Mọi người nghe rõ không? Về cái chiến dịch ra mắt này tôi thấy có vẻ hơi vướng.
+[19:46] Đừng quên vụ chiến dịch ra mắt cũng quan trọng không kém nhé.
+[14:24] Hình như Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[14:25] Nói chung là Hay là mình thử thay đổi cách tiếp cận với chuỗi bán lẻ xem sao?
+[14:26] Thì đấy Tôi thấy chiến dịch ra mắt hiện tại là cơ hội tốt để mình bứt phá.
+[19:54] Thì Tôi thấy thiết kế hiện tại là cơ hội tốt để mình bứt phá.
+[14:28] Ai sẽ chịu trách nhiệm chính cho mảng chất liệu vải nhỉ?
+[19:58] Mọi người nghe rõ không? Về cái chất liệu vải này tôi thấy có vẻ hơi vướng.
+[14:30] Ai sẽ chịu trách nhiệm chính cho mảng chuỗi bán lẻ nhỉ?
+[20:02] Hay là mình thử thay đổi cách tiếp cận với chiến dịch ra mắt xem sao?
+[20:04] Thực ra Vụ chuỗi bán lẻ thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[14:33] Thôi được rồi, vậy thống nhất là triển khai chất liệu vải theo hướng đó.
+[14:34] Dạ Thế thì mình chốt phương án cho chuỗi bán lẻ luôn đi, đừng kéo dài nữa.
+[14:35] Thì đấy Mọi người nghe rõ không? Về cái xu hướng này tôi thấy có vẻ hơi vướng.
+[14:36] Hình như Hay là mình thử thay đổi cách tiếp cận với chất liệu vải xem sao?
+[14:37] Vấn đề thiết kế thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[14:38] Tôi thấy showroom hiện tại là cơ hội tốt để mình bứt phá.
+[14:39] Thì Vấn đề xu hướng thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[20:20] Vụ showroom thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[14:41] Thì đấy Vụ chất liệu vải thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[20:24] Cần phải làm rõ hơn về chất liệu vải trong hợp đồng mới.
+[20:26] Cần phải làm rõ hơn về chiến dịch ra mắt trong hợp đồng mới.
+[14:44] Cần phải làm rõ hơn về chất liệu vải trong hợp đồng mới.
+[14:45] Chắc là Thôi được rồi, vậy thống nhất là triển khai chiến dịch ra mắt theo hướng đó.
+[14:46] Vụ chất liệu vải thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[14:47] Nói chung là Tôi lo nhất là cái chiến dịch ra mắt, tiến độ đang bị khựng lại.
+[20:36] À Vấn đề chiến dịch ra mắt thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[20:38] Vấn đề chuỗi bán lẻ thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[20:40] Vấn đề chuỗi bán lẻ thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[14:51] Để tôi check lại lịch của bên chiến dịch ra mắt xem họ rảnh khi nào.
+[14:52] Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[20:46] Nói chung là Mọi người nghe rõ không? Về cái xu hướng này tôi thấy có vẻ hơi vướng.
+[20:48] Đúng rồi, cái chiến dịch ra mắt cần được ưu tiên xử lý trước thứ Sáu này.
+[14:55] Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[14:56] Thực ra Hay là mình thử thay đổi cách tiếp cận với thiết kế xem sao?
+[14:57] Mọi người nghe rõ không? Về cái chuỗi bán lẻ này tôi thấy có vẻ hơi vướng.
+[20:56] Thì đấy Vấn đề thiết kế thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[20:58] Ờm Vụ thiết kế thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[21:00] Để tôi check lại lịch của bên thiết kế xem họ rảnh khi nào.
+[21:02] Chắc là Thôi được rồi, vậy thống nhất là triển khai showroom theo hướng đó.
+[21:04] Hình như Tôi lo nhất là cái chiến dịch ra mắt, tiến độ đang bị khựng lại.
+[15:03] Hay là mình thử thay đổi cách tiếp cận với chất liệu vải xem sao?
+[15:04] Dạ Ai sẽ chịu trách nhiệm chính cho mảng bộ sưu tập nhỉ?
+[15:05] Thực ra Đúng rồi, cái showroom cần được ưu tiên xử lý trước thứ Sáu này.
+[15:06] Ai sẽ chịu trách nhiệm chính cho mảng xu hướng nhỉ?
+[15:07] Thực ra Đừng quên vụ thiết kế cũng quan trọng không kém nhé.
+[15:08] Cần phải làm rõ hơn về chuỗi bán lẻ trong hợp đồng mới.
+[15:09] Dạ Tôi lo nhất là cái showroom, tiến độ đang bị khựng lại.
+[15:10] Nói chung là Về phần ngân sách cho xu hướng, sếp đã duyệt chưa nhỉ?
+[21:22] Thì Mọi người nghe rõ không? Về cái thiết kế này tôi thấy có vẻ hơi vướng.
+[21:24] Dạ Cái chuỗi bán lẻ này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[21:26] Ai sẽ chịu trách nhiệm chính cho mảng bộ sưu tập nhỉ?
+[15:14] Tôi lo nhất là cái xu hướng, tiến độ đang bị khựng lại.
+[15:15] Vấn đề xu hướng thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[15:16] Về dài hạn thì chiến dịch ra mắt sẽ là trọng tâm của năm nay.
+[15:17] Tóm lại Vấn đề xu hướng thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[21:36] Mọi người có ý kiến gì thêm về chuỗi bán lẻ không?
+[15:19] Tóm lại Thế thì mình chốt phương án cho chất liệu vải luôn đi, đừng kéo dài nữa.
+[15:20] Tôi sẽ phụ trách kiểm tra lại chất liệu vải rồi báo lại cả team vào chiều mai.
+[15:21] Thực ra Tôi lo nhất là cái showroom, tiến độ đang bị khựng lại.
+[21:44] Vụ chuỗi bán lẻ thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[21:46] Vấn đề chiến dịch ra mắt thực ra không khó, chỉ là thiếu nhân sự chuyên môn.
+[15:24] Hay là mình thử thay đổi cách tiếp cận với thiết kế xem sao?
+[15:25] Mọi người nghe rõ không? Về cái thiết kế này tôi thấy có vẻ hơi vướng.
+[15:26] Chắc là Đúng rồi, cái showroom cần được ưu tiên xử lý trước thứ Sáu này.
+[21:54] Hay là mình thử thay đổi cách tiếp cận với chiến dịch ra mắt xem sao?
+[15:28] Cần phải làm rõ hơn về chiến dịch ra mắt trong hợp đồng mới.
+[21:58] Hay là mình thử thay đổi cách tiếp cận với xu hướng xem sao?
+[15:30] Mọi người có ý kiến gì thêm về thiết kế không?
+[22:02] Cái chiến dịch ra mắt này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[15:32] Cái chiến dịch ra mắt này tốn nhiều thời gian quá, phải tìm cách tối ưu thôi.
+[22:06] Ờm Tôi sẽ phụ trách kiểm tra lại xu hướng rồi báo lại cả team vào chiều mai.
+[15:34] Mọi người nghe rõ không? Về cái thiết kế này tôi thấy có vẻ hơi vướng.
+[15:35] Vụ showroom thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[22:12] Chắc là Thế thì mình chốt phương án cho showroom luôn đi, đừng kéo dài nữa.
+[22:14] Thôi được rồi, vậy thống nhất là triển khai xu hướng theo hướng đó.
+[15:38] Thực ra Hay là mình thử thay đổi cách tiếp cận với bộ sưu tập xem sao?
+[22:18] Thì Tôi thấy chuỗi bán lẻ hiện tại là cơ hội tốt để mình bứt phá.
+[15:40] Mọi người nghe rõ không? Về cái thiết kế này tôi thấy có vẻ hơi vướng.
+[22:22] Vâng Tôi lo nhất là cái xu hướng, tiến độ đang bị khựng lại.
+[22:24] Thì Thôi được rồi, vậy thống nhất là triển khai chất liệu vải theo hướng đó.
+[15:43] Cảm ơn mọi người, cuộc họp về Thời trang tạm dừng tại đây.
+[15:44] Thì đấy Về phần ngân sách cho chất liệu vải, sếp đã duyệt chưa nhỉ?
+[22:30] Vụ thiết kế thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[22:32] Thì Vụ thiết kế thì bên phòng ban đã báo cáo rồi, nhưng vẫn chưa ổn lắm.
+[22:34] Mọi người nghe rõ không? Về cái chuỗi bán lẻ này tôi thấy có vẻ hơi vướng.
+[22:36] Về phần ngân sách cho showroom, sếp đã duyệt chưa nhỉ?
+[15:49] Thì Đừng quên vụ chuỗi bán lẻ cũng quan trọng không kém nhé.
+[22:40] Thế thì mình chốt phương án cho showroom luôn đi, đừng kéo dài nữa.
+[15:51] Mọi người có ý kiến gì thêm về chuỗi bán lẻ không?
+[15:52] Chắc là Thôi được rồi, vậy thống nhất là triển khai showroom theo hướng đó.
+[15:53] Thì đấy Đúng rồi, cái xu hướng cần được ưu tiên xử lý trước thứ Sáu này.
+[22:48] Về phần ngân sách cho xu hướng, sếp đã duyệt chưa nhỉ?
+[15:55] Mọi người nghe rõ không? Về cái xu hướng này tôi thấy có vẻ hơi vướng.
+[22:52] Thực ra Thế thì mình chốt phương án cho xu hướng luôn đi, đừng kéo dài nữa.
+[22:54] Về phần ngân sách cho xu hướng, sếp đã duyệt chưa nhỉ?
+
+<|output|>
+# Báo cáo cuộc họp về Thời trang
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tình hình Thời trang hiện tại
+- Giải quyết các tồn đọng liên quan đến xu hướng
+- Định hướng phát triển chất liệu vải trong quý tới
+
+### 2. Các vấn đề đã thảo luận
+- Chưa thống nhất được quy trình xử lý xu hướng
+- Thiếu hụt nguồn lực cho chuỗi bán lẻ
+- Áp lực từ phía đối tác về chất liệu vải
+- Tác động của thị trường đến kế hoạch chung
+
+### 3. Kết luận và quyết định
+- Thống nhất áp dụng quy trình mới cho xu hướng
+- Phân bổ thêm 2 nhân sự cho mảng chiến dịch ra mắt
+- Hoàn thiện báo cáo chất liệu vải trước cuối tuần
+- Duyệt chi phí dự phòng cho chiến dịch ra mắt
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện hồ sơ thiết kế | Phòng Thời trang | 03/11/2026 |
+| Liên hệ đối tác về chất liệu vải | Chị Mai | 08/01/2026 |
+| Kiểm tra tiến độ chất liệu vải | Team Technical | 27/09/2026 |
+| Lập kế hoạch chi tiết cho showroom | Chị Mai | 02/11/2026 |
+| Báo cáo kết quả bộ sưu tập | Team Technical | 28/08/2026 |

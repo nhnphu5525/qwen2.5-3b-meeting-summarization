@@ -1,0 +1,92 @@
+<|input|>
+[09:00] Đúng rồi, tôi cũng nghĩ thế, cái hóa đơn nên được ưu tiên.
+[09:01] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:04] Chào mọi người, chúng ta tiếp tục bàn về hóa đơn nhé.
+[09:03] Vâng Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về thuế.
+[09:04] Hiện tại cái thuế đang bị chậm tiến độ một chút vì thiếu người.
+[09:15] Chào mọi người, chúng ta tiếp tục bàn về tài sản cố định nhé.
+[09:18] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:07] Mọi người nghĩ sao nếu mình đổi phương án cho kiểm toán?
+[09:16] Nói chung là Tôi thấy vấn đề quyết toán này quan trọng phết, cần xử lý sớm.
+[09:18] Mọi người nghĩ sao nếu mình đổi phương án cho kiểm toán?
+[09:10] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về quyết toán.
+[09:11] Mong là lần này tài sản cố định sẽ ổn thỏa hơn mấy lần trước.
+[09:24] Tuần tới mình tập trung dứt điểm cái tài sản cố định đi cho xong.
+[09:39] Ờm À còn một việc nữa là cái chi phí vận hành, mọi người thấy ổn chưa?
+[09:42] À còn một việc nữa là cái kiểm toán, mọi người thấy ổn chưa?
+[09:30] À còn một việc nữa là cái lợi nhuận, mọi người thấy ổn chưa?
+[09:16] Cảm ơn mọi người, buổi họp hôm nay về Kế toán rất hiệu quả.
+[09:17] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về thuế.
+[09:54] Thực ra Bên đối tác họ cứ hối thúc vụ tài sản cố định suốt.
+[09:57] Ờm Bên đối tác họ cứ hối thúc vụ hóa đơn suốt.
+[09:40] Nhưng mà còn cái hóa đơn thì tính sao đây? Sắp hết hạn rồi.
+[10:03] Bên đối tác họ cứ hối thúc vụ tài sản cố định suốt.
+[09:22] Tuần tới mình tập trung dứt điểm cái kiểm toán đi cho xong.
+[09:46] Tôi thấy vấn đề thuế này quan trọng phết, cần xử lý sớm.
+[10:12] Tôi đề xuất chốt hạn chót cho thuế là cuối tháng này được không?
+[09:25] Mong là lần này chi phí vận hành sẽ ổn thỏa hơn mấy lần trước.
+[09:52] Thì Mọi người nghĩ sao nếu mình đổi phương án cho hóa đơn?
+[09:27] Mọi người nghĩ sao nếu mình đổi phương án cho hóa đơn?
+[09:28] Bên khách hàng họ cứ hối thúc vụ kiểm toán suốt.
+[09:29] À Tôi thấy vấn đề kiểm toán này quan trọng phết, cần xử lý sớm.
+[09:30] Dạ Bên đối tác họ cứ hối thúc vụ thuế suốt.
+[09:31] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[10:04] Mong là lần này kiểm toán sẽ ổn thỏa hơn mấy lần trước.
+[10:39] Đúng rồi, tôi cũng nghĩ thế, cái chi phí vận hành nên được ưu tiên.
+[10:08] Ờm Tôi đề xuất chốt hạn chót cho hóa đơn là cuối tháng này được không?
+[10:10] Thực ra Đúng rồi, tôi cũng nghĩ thế, cái thuế nên được ưu tiên.
+[10:48] À Cảm ơn mọi người, buổi họp hôm nay về Kế toán rất hiệu quả.
+[10:14] Tôi lo là tài sản cố định sẽ tốn nhiều chi phí hơn dự kiến.
+[10:16] À Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[10:18] Để tôi check lại mấy cái số liệu của quyết toán rồi báo lại cả nhà sau.
+[09:40] Vâng Tôi lo là lợi nhuận sẽ tốn nhiều chi phí hơn dự kiến.
+[09:41] Nhưng mà còn cái tài sản cố định thì tính sao đây? Sắp hết hạn rồi.
+[09:42] Tôi thấy vấn đề hóa đơn này quan trọng phết, cần xử lý sớm.
+[09:43] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về chi phí vận hành.
+[11:12] À còn một việc nữa là cái lợi nhuận, mọi người thấy ổn chưa?
+[10:30] Nhưng mà còn cái lợi nhuận thì tính sao đây? Sắp hết hạn rồi.
+[09:46] À còn một việc nữa là cái kiểm toán, mọi người thấy ổn chưa?
+[09:47] Thì đấy Mọi người nghĩ sao nếu mình đổi phương án cho tài sản cố định?
+[10:36] Thực ra Mong là lần này kiểm toán sẽ ổn thỏa hơn mấy lần trước.
+[09:49] Mọi người cứ thoải mái đóng góp ý kiến về hóa đơn đi.
+[11:30] Thì đấy Tôi đề xuất chốt hạn chót cho chi phí vận hành là cuối tháng này được không?
+[09:51] Mong là lần này lợi nhuận sẽ ổn thỏa hơn mấy lần trước.
+[11:36] Mọi người nghĩ sao nếu mình đổi phương án cho chi phí vận hành?
+[09:53] Mong là lần này kiểm toán sẽ ổn thỏa hơn mấy lần trước.
+[09:54] Thì đấy Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:55] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về kiểm toán.
+[09:56] Về phần quyết toán ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[09:57] Mọi người nghĩ sao nếu mình đổi phương án cho kiểm toán?
+[09:58] À Hiện tại cái quyết toán đang bị chậm tiến độ một chút vì thiếu người.
+[10:58] Thực ra Đúng rồi, tôi cũng nghĩ thế, cái chi phí vận hành nên được ưu tiên.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Kế toán
+- Giải quyết các vướng mắc về kiểm toán, chi phí vận hành
+- Đưa ra kế hoạch triển khai cho giai đoạn tới
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Kế toán hiện nay
+- Khó khăn trong việc xử lý tài sản cố định
+- Đề xuất cải thiện quy trình kiểm toán
+- Đánh giá tác động của các yếu tố ngoại cảnh
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Kế toán
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+- Phân công trách nhiệm cụ thể cho các đơn vị liên quan
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý quyết toán | Bộ phận Kỹ thuật | 17/11/2026 |
+| Xử lý tài sản cố định | Phòng Kế toán | 15/03/2026 |
+| Xử lý quyết toán | Anh Nam | 20/11/2026 |
+| Xử lý lợi nhuận | Anh Nam | 26/09/2026 |
+| Xử lý hóa đơn | Anh Nam | 09/06/2026 |

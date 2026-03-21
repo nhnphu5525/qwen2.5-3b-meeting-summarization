@@ -1,0 +1,54 @@
+<|input|>
+[09:00:00] Chào buổi sáng cả team Marketing nhé! Hôm nay mình ngồi lại rà soát cái kế hoạch tài trợ cho giải Marathon thành phố sắp tới nè. Đây là cơ hội lớn để branding nên mọi người tập trung nha.
+[09:00:30] Dạ em chào chị Lan. Em mới nhận được cái layout vị trí đặt banner từ ban tổ chức. Họ cho mình 5 vị trí ở cổng xuất phát và 10 vị trí dọc đường chạy, nhưng toàn là mấy góc khuất không hà chị ơi.
+[09:01:00] Ơ kìa, mình tài trợ cả tỷ bạc mà sao họ đối xử với mình kỳ vậy? Em phải gọi điện làm việc lại ngay, ít nhất phải có 2 cái banner to đùng ngay vạch đích, chỗ mà mấy vận động viên hay chụp hình check-in ấy.
+[09:01:30] Dạ để em "chiến" lại với bên đó. Còn vụ áo thun cho vận động viên, em thấy cái logo mình in trên ngực hơi nhỏ, nhìn từ xa không thấy rõ thương hiệu mình đâu.
+[09:02:00] Nhỏ thì bảo họ phóng to ra, mà nhớ dặn in loại mực xịn nha, chứ chạy bộ mồ hôi ra nhiều mà nó lem nhem nhìn ghê lắm. Với lại, màu áo năm nay mình chọn màu cam neon cho nó nổi bật giữa đám đông luôn.
+[09:02:30] Chị ơi, cam neon thì nổi thật nhưng mà phối đồ hơi khó á. Hay là mình chơi màu xanh cyan đi, nhìn nó vừa năng động vừa dịu mắt, mà lại đúng màu nhận diện thương hiệu mới của mình nữa.
+[09:03:00] Ừ, xanh cyan cũng được, duyệt theo ý em. Còn vụ KOLs thì sao hả Nam? Có mời được ai "khủng" tham gia chạy cùng mình không?
+[09:03:30] Dạ em đang liên hệ với hoa hậu H'Hen Niê với anh Đen Vâu. Hen thì ok rồi, còn Đen thì ảnh đang kẹt lịch diễn, chắc chỉ tham gia được buổi khai mạc thôi chị.
+[09:04:00] Có Hen là ngon rồi, tầm ảnh hưởng của bả lớn lắm. Nhớ chuẩn bị cho bả một bộ đồ chạy thật chuyên nghiệp, có in logo mình khéo léo tí nha. Đừng có tham in to quá nhìn nó giống như đi quảng cáo dạo thì mất sang.
+[09:04:30] Dạ em biết rồi. Còn cái booth trải nghiệm tại sự kiện thì sao chị? Em tính mình sẽ phát nước suối miễn phí với cho người ta đo chỉ số cơ thể InBody miễn phí luôn.
+[09:05:00] Hay đó! Mà nước suối phải dán nhãn của mình lên nha. Với lại chuẩn bị thêm mấy cái quạt cầm tay có in thông điệp chiến dịch nữa, trời nắng nóng vầy là người ta khoái quạt lắm.
+[09:05:30] Dạ chị. Còn vụ truyền thông trên Facebook với TikTok, em định chạy series "Nhật ký tập luyện" cho nhân viên công ty mình luôn. Để khách hàng thấy mình là một tập thể khỏe mạnh, năng động.
+[09:06:00] Ý tưởng này tuyệt vời nè! Em chọn ra khoảng 5-7 bạn ngoại hình ổn, chạy tốt tí rồi làm clip ngắn ngắn thôi. Nhớ gắn hashtag của chương trình vô nha.
+[09:06:30] À chị Lan ơi, ngân sách cho đợt này đang hơi bị lố tầm 15% do chi phí thuê KOLs tăng cao quá. Chị xem mình có cắt giảm được chỗ nào không?
+[09:07:00] Hừm, lố 15% lận hả... Thôi thì cắt bớt phần quảng cáo trên radio đi, giờ ai nghe radio nữa đâu. Tập trung ngân sách cho Facebook ads với TikTok ads là đủ rồi.
+[09:07:30] Dạ em rõ rồi ạ. Em sẽ cân đối lại rồi gửi bản plan cuối cùng cho chị vào chiều nay nha.
+[09:08:00] Ok em. Mọi người cố gắng nha, giải này mà thành công là cuối năm cả team đi du lịch Thái Lan luôn!
+[09:08:30] Wow, nghe hấp dẫn quá chị ơi! Tụi em sẽ làm hết mình.
+[09:09:00] Rồi, giải tán thôi. Đi làm việc thôi nào!
+
+<|output|>
+# Kế hoạch tài trợ và truyền thông cho giải chạy Marathon
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát các hạng mục tài trợ cho giải Marathon thành phố.
+- Thống nhất các phương án thiết kế vật phẩm và hoạt động tại sự kiện.
+- Cân đối ngân sách truyền thông và quản lý rủi ro chi phí.
+
+### 2. Các vấn đề đã thảo luận
+- Vị trí đặt banner: Hiện tại các vị trí được giao chưa đạt yêu cầu về mức độ hiển thị (bị khuất), cần thương lượng lại vị trí tại vạch đích.
+- Thiết kế áo thun: Đổi màu sang xanh cyan để đồng nhất thương hiệu, phóng to logo và yêu cầu chất lượng mực in chống lem mồ hôi.
+- Nhân sự KOLs: Đã chốt Hoa hậu H'Hen Niê tham gia chạy chính thức, Đen Vâu tham gia khai mạc.
+- Hoạt động tại Booth: Phát nước dán nhãn thương hiệu, đo InBody miễn phí và tặng quạt cầm tay.
+- Chiến dịch Social Media: Thực hiện series "Nhật ký tập luyện" với sự tham gia của nhân viên công ty để tăng tính chân thực và gần gũi.
+- Ngân sách: Đang vượt 15% do chi phí KOLs tăng, cần cắt giảm phần quảng cáo trên kênh Radio để bù đắp.
+
+### 3. Kết luận và quyết định
+- Giao Nam làm việc lại với Ban tổ chức về vị trí banner quảng bá.
+- Phê duyệt phương án màu xanh cyan cho áo vận động viên và các vật phẩm đi kèm.
+- Tập trung ngân sách marketing vào các nền tảng số (Facebook, TikTok), loại bỏ kênh Radio.
+- Triển khai sản xuất nội dung video ngắn cho series tập luyện ngay trong tuần tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thương lượng lại vị trí đặt banner với BTC | Nam - Marketing | 17/12/2024 |
+| Chốt thiết kế áo và đặt sản xuất | Chị Lan | 20/12/2024 |
+| Ký hợp đồng với KOLs (H'Hen Niê, Đen Vâu) | Bộ phận Pháp chế | 18/12/2024 |
+| Lên kịch bản series "Nhật ký tập luyện" | Team Nội dung | 19/12/2024 |
+| Setup booth trải nghiệm và chuẩn bị quà tặng | Nam | 25/12/2024 |

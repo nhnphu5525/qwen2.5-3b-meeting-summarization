@@ -1,0 +1,63 @@
+<|input|>
+[10:00:00] Chào mọi người, hôm nay team thiết kế mình ngồi lại để chốt cái concept cho bộ sưu tập (BST) Thu Đông 2024 nha. Ly nè, em là lead designer đợt này, em trình bày cái moodboard cho anh xem thử đi.
+[10:03:30] Dạ vầy nè anh Hoàng, năm nay em muốn đi theo hướng "Modern Heritage" - tức là mình lấy những cái form dáng cổ điển của áo dài với áo tứ thân nhưng mà mình cách tân lại bằng chất liệu len (wool) với lại dạ (tweed) để phù hợp với mùa đông. Màu chủ đạo em chọn là màu nâu đất, xanh rêu đậm với lại màu đỏ rượu chát.
+[10:06:45] Ờ, nghe cũng lạ đó. Nhưng mà Ly ơi, anh lo là cái chất liệu dạ nó hơi cứng, nếu mình làm form áo dài thì nó có bị mất đi cái sự mềm mại vốn có không em?
+[10:10:00] Cái đó em tính rồi anh. Em sẽ phối thêm lụa tơ tằm ở những phần như cổ áo với tay áo để tạo điểm nhấn mềm mại. Với lại mình sẽ dùng kỹ thuật cắt laser để tạo ra mấy cái họa tiết hoa văn cổ truyền trên nền vải dạ, trông nó sẽ rất là hiện đại và sang trọng.
+[10:13:15] Nam ơi, bên mảng sản xuất thì sao? Cái vụ cắt laser trên vải dạ mình có làm chủ được công nghệ chưa hay phải đi thuê ngoài? Với lại chi phí nguyên liệu đợt này thấy vải dạ xịn giá cũng chát lắm đó.
+[10:16:30] Báo cáo anh Hoàng, xưởng mình mới nhập cái máy laser mới hồi tháng trước nên vụ này mình tự làm được, không cần thuê ngoài đâu. Còn về vải, em đã liên hệ với mấy nhà cung cấp bên Hàn Quốc, họ có loại vải dạ pha sợi tự nhiên giá cũng ổn mà bề mặt đẹp lắm. Nếu mình đặt số lượng lớn cho cả BST thì họ giảm cho mình 15%.
+[10:19:45] Được đó Nam. Ly nè, BST này em tính ra bao nhiêu mẫu? Anh muốn mình có cả đồ nam và đồ nữ để làm thành mấy cái combo cho các cặp đôi luôn, mùa thu đông khách họ thích mặc đồ đôi đi chụp hình lắm.
+[10:23:00] Dạ, em dự kiến là có 15 mẫu nữ và 10 mẫu nam anh ạ. Trong đó sẽ có 5 mẫu "signature" là áo dài dạ, còn lại là các set đồ phối như blazer, chân váy midi với lại măng tô dáng dài. Em cũng muốn thêm mấy cái phụ kiện như khăn len dệt thủ công với túi xách bằng vải gấm nữa cho nó trọn bộ.
+[10:26:15] Khăn len dệt thủ công hả? Cái này tốn công lắm đó nha. Mình có đủ thợ để làm không Ly? Hay là mình phối hợp với mấy làng nghề dệt để họ làm gia công cho mình?
+[10:29:30] Dạ, em cũng đang tính phương án đó anh. Em có quen một tổ hợp dệt ở Nam Định, họ làm tay nghề khéo lắm. Mình đưa mẫu cho họ dệt thì giá thành vừa rẻ mà lại vừa tạo được công ăn việc làm cho bà con, mình lại có cái để kể câu chuyện thương hiệu (brand storytelling) nữa.
+[10:32:45] Ý tưởng đó hay đấy! Khách hàng bây giờ họ chuộng mấy cái sản phẩm có yếu tố cộng đồng và thủ công lắm. Phương nè, bên Marketing em thấy cái concept này có dễ làm campaign không?
+[10:36:00] Dạ anh, em thấy rất tiềm năng ạ. Mình có thể lấy tên BST là "Ký ức Đông Dương" chẳng hạn. Mình sẽ chụp lookbook ở mấy khu biệt thự cổ ở Hà Nội hoặc Đà Lạt, nó sẽ cực kỳ hợp với cái vibe "Modern Heritage" mà chị Ly đưa ra. Em cũng định mời một vài cặp đôi KOL có gu thời trang thanh lịch để làm gương mặt đại diện cho đợt này.
+[10:39:15] Ờ, Hà Nội mùa thu đông thì đẹp rồi, không còn gì bàn cãi. Nhưng Phương lưu ý cái timeline nha. Bây giờ là tháng 4 rồi, mình phải ra mắt BST vào tầm tháng 8 hoặc tháng 9 thì mới kịp đón sóng mùa đông. Ly phải hoàn thiện bản vẽ chi tiết và ra mẫu mẫu đầu tiên (prototype) trong tháng 5 này cho anh.
+[10:42:30] Dạ, em sẽ cố gắng đẩy nhanh tiến độ ạ. Tuần sau em sẽ có bản vẽ kỹ thuật cho Nam để bên xưởng bắt đầu lên mẫu thử trên vải mộc trước. Sau khi chốt form thì mình mới cắt trên vải chính.
+[10:45:45] Nam nè, em phải giám sát kỹ khâu ra mẫu nha. Đồ dạ mà cắt không khéo là nó bị cộm, mặc vào nhìn người thô lắm. Đặc biệt là mấy cái đường chiết eo của áo dài, phải làm sao cho nó thật mượt mà.
+[10:49:00] Anh yên tâm, em sẽ đích thân đứng máy với mấy anh em kỹ thuật. Với lại em cũng sẽ test thử độ bền màu với lại độ co rút của vải trước khi sản xuất hàng loạt để tránh trường hợp khách giặt xong là cái áo nó biến dạng luôn.
+[10:52:15] Ok, còn vụ giá bán thì sao? Chị Ly dự kiến phân khúc giá thế nào?
+[10:55:30] Em tính mấy mẫu signature thì tầm 3-5 triệu một bộ, còn mấy món lẻ như blazer hay chân váy thì từ 1.2 - 2 triệu. Mức giá này em thấy phù hợp với dân văn phòng sành điệu và những người thích gu thời trang thiết kế độc bản.
+[10:58:45] Ừ, giá đó là cũng thuộc hàng cao cấp rồi, nên dịch vụ hậu mãi và đóng gói phải thật chuyên nghiệp nha Phương. Hộp đựng đồ phải làm bằng giấy mỹ thuật, có bọc giấy thơm bên trong luôn cho nó xịn.
+[11:02:00] Dạ anh, phần packaging em đã lên demo rồi, đảm bảo khách nhận hàng là thấy sướng cái tay liền. Em cũng định đính kèm một cái thiệp nhỏ viết tay cảm ơn khách hàng nữa để tạo sự gần gũi.
+[11:05:15] Tốt! Vậy là thống nhất mọi việc nha. Ly lo phần thiết kế, Nam lo sản xuất, Phương lo marketing. Mọi người phối hợp chặt chẽ với nhau, có gì vướng mắc là phải báo anh liền. Mong là BST "Ký ức Đông Dương" này sẽ tạo nên một cú nổ lớn cho thương hiệu mình trong năm nay.
+[11:08:30] Dạ, chúng em sẽ cố gắng hết sức ạ!
+[11:11:45] Ok, giải tán thôi. Ly ở lại anh trao đổi thêm chút về cái mẫu áo dài nam nha.
+[11:15:00] Dạ anh. Chào mọi người nha.
+
+<|output|>
+# Chốt Concept và Kế hoạch Triển khai Bộ sưu tập Thời trang Thu Đông 2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất concept, chất liệu và màu sắc chủ đạo cho bộ sưu tập (BST) Thu Đông 2024.
+- Phân chia nhiệm vụ cho các bộ phận Thiết kế, Sản xuất và Marketing.
+- Thiết lập lộ trình thời gian (timeline) sản xuất và ra mắt sản phẩm.
+- Thảo luận về phương án giá bán và chiến lược tiếp thị.
+
+### 2. Các vấn đề đã thảo luận
+- **Concept chủ đạo:** "Modern Heritage" - Sự giao thoa giữa form dáng trang phục truyền thống Việt Nam (áo dài, áo tứ thân) và phong cách hiện đại phương Tây.
+- **Chất liệu & Màu sắc:** Sử dụng vải dạ (tweed), len (wool) cao cấp phối với lụa tơ tằm. Màu sắc chủ đạo: Nâu đất, xanh rêu đậm, đỏ rượu chát.
+- **Danh mục sản phẩm:** 15 mẫu nữ, 10 mẫu nam. Bao gồm áo dài cách tân (signature), blazer, măng tô, chân váy midi và phụ kiện (khăn len dệt tay, túi gấm).
+- **Sản xuất:** Ứng dụng công nghệ cắt laser họa tiết cổ truyền trên vải dạ. Hợp tác với làng nghề dệt Nam Định cho các sản phẩm thủ công để tối ưu chi phí và tạo câu chuyện thương hiệu.
+- **Marketing:** Tên BST dự kiến "Ký ức Đông Dương". Chụp lookbook tại các địa danh cổ kính (Hà Nội, Đà Lạt), mời KOL phong cách thanh lịch làm đại diện.
+- **Giá bán:** Phân khúc cao cấp (1.2 - 5 triệu VNĐ/sản phẩm). Chú trọng vào bao bì (packaging) và trải nghiệm khách hàng.
+
+### 3. Kết luận và quyết định
+- Phê duyệt concept "Modern Heritage" và tên dự kiến "Ký ức Đông Dương".
+- Chốt timeline: Ra mắt sản phẩm vào tháng 8/2024.
+- Giao Ly hoàn thiện bản vẽ kỹ thuật trong tháng 5/2024.
+- Giao Nam làm việc với nhà cung cấp vải Hàn Quốc và giám sát quy trình lên mẫu prototype.
+- Giao Phương lên chi tiết kế hoạch truyền thông và tìm kiếm địa điểm chụp lookbook.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện 25 bản vẽ kỹ thuật chi tiết | Ly (Thiết kế) | 15/05/2024 |
+| Đặt vải mẫu và lên mẫu prototype đầu tiên | Nam (Sản xuất) | 30/05/2024 |
+| Liên hệ và đặt hàng gia công tại làng nghề Nam Định | Ly | 20/05/2024 |
+| Lập kế hoạch chi tiết buổi chụp Lookbook | Phương (Marketing) | 10/06/2024 |
+| Khảo sát và chốt nhà cung cấp bao bì cao cấp | Phương | 25/05/2024 |
+| Kiểm tra độ bền và độ co rút của vải dạ mẫu | Nam | 20/05/2024 |
+| Tìm kiếm và liên hệ mời KOL cho BST | Phương | 05/06/2024 |

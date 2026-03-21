@@ -1,0 +1,55 @@
+<|input|>
+[09:00] Chào buổi sáng cả nhà, hôm nay bộ phận Đào tạo họp để thống nhất kế hoạch nâng cao kỹ năng cho đội ngũ nhân viên trong quý tới.
+[09:02] Chị Lan ơi, em thấy khảo sát gần đây cho thấy nhân viên đang rất quan tâm đến các khóa học về trí tuệ nhân tạo và ứng dụng công cụ AI vào công việc hằng ngày.
+[09:04] Chào Tú, chị cũng có nhận thấy điều đó qua các phiếu phản hồi. Tuy nhiên, chúng ta cũng không được quên các kỹ năng mềm cốt lõi như giao tiếp và làm việc nhóm, vốn đang bị lơ là sau thời gian dài làm việc từ xa.
+[09:06] Em nghĩ mình có thể lồng ghép AI vào các buổi team building hoặc workshop kỹ năng mềm được không chị? Ví dụ như dùng AI để mô phỏng các tình huống khách hàng khó tính.
+[09:08] Ý tưởng của Tú rất hay, nó làm cho buổi học bớt khô khan hơn. Còn phía bên anh Hùng thì sao? Kế hoạch đào tạo kỹ thuật cho team sản xuất đến đâu rồi anh?
+[09:10] Bên anh thì đang tập trung vào việc hướng dẫn vận hành hệ thống máy móc mới nhập về từ Đức. Tuy nhiên, anh đang gặp khó khăn trong việc sắp xếp thời gian vì lịch sản xuất đang rất dày.
+[09:12] Nếu vậy thì mình có thể chia nhỏ các buổi đào tạo thành các module ngắn khoảng 30-45 phút đầu giờ sáng hoặc cuối giờ chiều được không anh Hùng?
+[09:14] Anh thấy phương án chia nhỏ module khá khả thi. Như vậy nhân viên sẽ dễ tiếp thu hơn và không bị quá tải. Chị Lan thấy thế nào ạ?
+[09:16] Chị đồng ý với cách tiếp cận này. Ngoài ra, chúng ta cần tìm kiếm các đối tác đào tạo bên ngoài cho phần kỹ năng AI. Tú có danh sách nhà cung cấp nào uy tín không?
+[09:18] Em đã liên hệ với ba trung tâm đào tạo công nghệ hàng đầu hiện nay. Em sẽ gửi bản so sánh chi phí và chương trình học cho chị Lan và anh Hùng xem qua trong chiều nay nhé.
+[09:20] Tốt quá, Tú làm việc nhanh đấy. Về ngân sách đào tạo quý này, chị Lan đã xin phê duyệt bổ sung thêm 20% so với quý trước rồi nên mọi người cứ yên tâm lên kế hoạch chất lượng nhất.
+[09:22] Cảm ơn chị Lan nhiều, có ngân sách thì mình dễ làm việc hơn hẳn. Anh Hùng cũng nên lưu ý phần đánh giá sau đào tạo nhé, mình cần biết thực sự hiệu quả đến đâu chứ không chỉ là học cho có.
+[09:24] Đúng rồi Tú, anh đã chuẩn bị các bài test thực hành ngay trên máy cho nhân viên sau mỗi module. Ai không đạt sẽ phải hướng dẫn lại ngay tại chỗ.
+[09:26] Chị Lan thấy phần đánh giá của anh Hùng rất sát sao. Còn về phần kỹ năng mềm, chị muốn Tú xây dựng một bộ tiêu chí đánh giá sự thay đổi thái độ làm việc của nhân viên sau khi tham gia khóa học.
+[09:28] Dạ em sẽ nghiên cứu và đề xuất bộ tiêu chí này vào cuộc họp tuần sau ạ.
+[09:30] Còn một vấn đề nữa là việc khuyến khích nhân viên tự học trên các nền tảng trực tuyến như Coursera hay Udemy. Công ty mình có chính sách hỗ trợ học phí cho các chứng chỉ liên quan không chị Lan?
+[09:32] Hiện tại chúng ta có hỗ trợ 70% học phí nếu nhân viên thi đỗ và có chứng chỉ mang về. Chị muốn Tú truyền thông mạnh mẽ hơn về chính sách này để mọi người chủ động nâng cao năng lực.
+[09:34] Vâng ạ, em sẽ làm một bản tin nội bộ để thông báo rộng rãi đến toàn thể anh chị em nhân viên.
+[09:36] Vậy chốt lại nhé: Tú lo phần AI và truyền thông tự học, anh Hùng lo phần kỹ thuật máy móc, còn chị sẽ giám sát tổng thể và phê duyệt chi tiết các chương trình.
+[09:38] Buổi họp của chúng ta hôm nay đến đây là xong, chúc mọi người một ngày làm việc hiệu quả.
+[09:40] Chào chị Lan, chào Tú nhé.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất kế hoạch và chương trình đào tạo nhân sự cho quý tới.
+- Giải quyết các khó khăn trong việc sắp xếp thời gian đào tạo cho bộ phận sản xuất.
+- Phân bổ ngân sách và xác định các kỹ năng ưu tiên (AI, kỹ thuật, kỹ năng mềm).
+
+### 2. Các vấn đề đã thảo luận
+- Nhu cầu cao của nhân viên về việc học tập các công cụ AI.
+- Đề xuất lồng ghép AI vào workshop kỹ năng mềm để tăng tính tương tác.
+- Giải pháp chia nhỏ thời gian đào tạo thành các module 30-45 phút cho khối sản xuất.
+- Tìm kiếm đối tác đào tạo bên ngoài cho mảng công nghệ.
+- Ngân sách đào tạo tăng 20% và chính sách hỗ trợ 70% học phí chứng chỉ quốc tế.
+- Xây dựng bộ tiêu chí đánh giá hiệu quả đào tạo sau khóa học.
+
+### 3. Kết luận và quyết định
+- Phê duyệt phương án chia nhỏ module đào tạo kỹ thuật để phù hợp lịch sản xuất.
+- Ưu tiên triển khai các khóa học AI và kỹ năng mềm trong quý tới.
+- Đẩy mạnh truyền thông chính sách hỗ trợ tự học trực tuyến cho nhân viên.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Gửi bản so sánh chương trình đào tạo AI của các đối tác | Tú | 24/03/2024 |
+| Xây dựng nội dung chi tiết các module đào tạo máy móc mới | Anh Hùng | 28/03/2024 |
+| Đề xuất bộ tiêu chí đánh giá hiệu quả đào tạo kỹ năng mềm | Tú | 31/03/2024 |
+| Phát hành bản tin nội bộ về chính sách hỗ trợ học phí | Bộ phận Truyền thông | 26/03/2024 |
+| Phê duyệt danh sách nhà cung cấp dịch vụ đào tạo | Chị Lan | 02/04/2024 |

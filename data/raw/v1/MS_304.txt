@@ -1,0 +1,43 @@
+<|input|>
+[15:00] Chào anh Hùng và các bạn trong phòng kế toán. Hôm nay mình họp gấp để cập nhật các thông tin mới nhất về chính sách thuế giá trị gia tăng áp dụng cho quý này. Anh Hùng đã cập nhật các nghị định mới chưa ạ?
+[15:02] Tôi đã đọc qua nghị định mới nhất rồi. Có một số thay đổi quan trọng về việc giảm thuế VAT từ 10% xuống 8% cho một số nhóm ngành hàng cụ thể. Tuy nhiên, việc áp dụng mã ngành trên phần mềm kế toán của mình hiện tại đang có chút nhầm lẫn.
+[15:04] Đúng rồi anh, hôm qua em kiểm tra thấy mã hàng mảng linh kiện điện tử vẫn đang để 10%, trong khi theo đúng quy định mới là thuộc diện được giảm. Nếu không sửa ngay thì lúc xuất hóa đơn cho khách hàng sẽ bị sai lệch hết.
+[15:06] Chỗ này Mai lưu ý nhé, em phải rà soát lại toàn bộ danh mục hàng hóa trong hệ thống ERP. Những mục nào chưa rõ thì phải hỏi ngay bên tư vấn thuế, đừng có tự ý áp mã.
+[15:08] Dạ em biết rồi ạ. Em đang đối chiếu lại danh mục của mình với bảng mã ngành của Tổng cục Thuế. Dự kiến là sáng mai sẽ cập nhật xong toàn bộ lên phần mềm ạ.
+[15:10] Còn vấn đề quyết toán thuế thu nhập cá nhân cho nhân viên vào cuối tháng này thì sao? Anh thấy nhiều bạn vẫn chưa nộp đủ chứng từ giảm trừ gia cảnh.
+[15:12] Cái này em đã gửi mail nhắc nhở 2 lần rồi nhưng nhiều người vẫn khá chậm trễ. Chắc em phải nhờ bên phòng Nhân sự tác động thêm để các bạn gửi bản cứng về sớm, nếu không sẽ không kịp thời hạn nộp tờ khai đâu anh.
+[15:14] Được rồi, để anh trao đổi với bên nhân sự. Mai nhớ tổng hợp lại danh sách những ai còn thiếu rồi gửi qua cho anh trong chiều nay nhé. 
+[15:16] Về phần hóa đơn đầu vào, anh thấy tháng này có khá nhiều hóa đơn giấy từ các nhà cung cấp nhỏ. Chúng ta nên khuyến khích họ chuyển sang hóa đơn điện tử để dễ quản lý và tránh thất lạc.
+[15:18] Dạ, em cũng đang thuyết phục họ đây ạ. Việc quản lý hóa đơn giấy thực sự rất mất thời gian và dễ xảy ra sai sót khi nhập liệu. 
+[15:20] OK, vậy các bạn tập trung xử lý cho xong phần VAT và chứng từ TNCN nhé. Cuối tuần mình sẽ kiểm tra lại một lần nữa trước khi chốt số liệu.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Cập nhật và triển khai quy định mới về giảm thuế VAT (8%).
+- Rà soát hệ thống mã ngành hàng trên phần mềm kế toán ERP.
+- Đôn đốc chuẩn bị chứng từ cho quyết toán thuế thu nhập cá nhân (TNCN).
+
+### 2. Các vấn đề đã thảo luận
+- Sự sai lệch mã thuế đối với mảng linh kiện điện tử trên hệ thống hiện tại.
+- Khó khăn trong việc thu thập chứng từ giảm trừ gia cảnh của nhân viên.
+- Rủi ro khi quản lý hóa đơn giấy từ các nhà cung cấp nhỏ.
+- Cần sự phối hợp giữa phòng Kế toán và phòng Nhân sự để hoàn thành quyết toán TNCN.
+
+### 3. Kết luận và quyết định
+- Cập nhật lại toàn bộ danh mục thuế VAT trên phần mềm kế toán theo quy định mới.
+- Tổng hợp danh sách nhân viên thiếu chứng từ để phối hợp với phòng Nhân sự xử lý.
+- Yêu cầu các nhà cung cấp chuyển đổi dần sang sử dụng hóa đơn điện tử.
+- Hoàn thành việc đối chiếu mã ngành hàng trước sáng ngày mai.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật mã thuế VAT trên hệ thống ERP | Mai | 20/03/2026 |
+| Tổng hợp danh sách nhân viên thiếu chứng từ thuế | Mai | 19/03/2026 |
+| Làm việc với phòng Nhân sự về chứng từ TNCN | Anh Hùng | 21/03/2026 |
+| Thông báo cho nhà cung cấp về hóa đơn điện tử | Phòng Kế toán | 30/03/2026 |

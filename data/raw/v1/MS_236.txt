@@ -1,0 +1,49 @@
+<|input|>
+[10:00] Chào team Marketing, hôm nay chúng ta bàn chiến dịch ra mắt dòng sản phẩm mỹ phẩm thuần chay mới vào quý 3.
+[10:03] Tôi thấy concept "Vẻ đẹp xanh" đang rất hot, mình nên tập trung vào thông điệp bảo vệ môi trường và không thử nghiệm trên động vật.
+[10:06] Đúng vậy, tệp khách hàng Gen Z và Millennials hiện nay cực kỳ quan tâm đến tính bền vững của thương hiệu.
+[10:09] Về kênh triển khai, tôi đề xuất đẩy mạnh trên TikTok và Instagram thông qua các KOLs mảng lifestyle và skincare organic.
+[10:12] Nhưng ngân sách booking KOLs dạo này tăng cao quá, mình có nên cân nhắc tập trung vào dàn KOCs (Key Opinion Consumers) không?
+[10:15] Ý kiến hay đó, KOCs tuy lượng follow không bằng KOLs nhưng tỷ lệ chuyển đổi và độ tin cậy thường cao hơn vì họ review thật.
+[10:18] Ngoài online, chúng ta cũng cần các sự kiện offline như Pop-up store tại các trung tâm thương mại lớn để khách trải nghiệm sản phẩm trực tiếp.
+[10:21] Pop-up store thì cần thiết kế không gian thật "Instagrammable" để mọi người check-in, giúp lan tỏa thương hiệu tự nhiên.
+[10:24] Về bao bì, tôi muốn dùng nhựa tái chế hoặc giấy kraft để đồng bộ với tinh thần "thuần chay" của sản phẩm.
+[10:27] Team sản xuất lưu ý phần này nhé, bao bì thân thiện môi trường nhưng vẫn phải đảm bảo tính thẩm mỹ và bảo quản tốt sản phẩm.
+[10:30] Chương trình khuyến mãi ra mắt thì sao? Mua 1 tặng 1 hay giảm giá 30% cho đơn đầu tiên?
+[10:33] Tôi nghĩ nên tặng kèm một túi vải canvas thiết kế riêng cho những đơn hàng trên 500k, vừa kích cầu vừa giúp marketing thương hiệu khi khách mang đi.
+[10:36] Chúng ta cần chốt danh sách KOLs/KOCs và kịch bản video viral trước cuối tháng này để kịp sản xuất content.
+[10:39] Team Design cũng cần hoàn thiện bộ nhận diện thương hiệu cho dòng sản phẩm này sớm để mình chạy ads teaser.
+[10:42] OK, deadline cho kế hoạch chi tiết từng kênh là thứ Sáu tới nhé.
+
+<|output|>
+# Chiến dịch Marketing ra mắt dòng mỹ phẩm thuần chay Quý 3
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng chiến lược truyền thông cho dòng sản phẩm mỹ phẩm thuần chay mới.
+- Thống nhất kênh quảng bá, thông điệp chính và kế hoạch triển khai chi tiết.
+
+### 2. Các vấn đề đã thảo luận
+- Định hướng thông điệp "Vẻ đẹp xanh", bảo vệ môi trường và tính bền vững.
+- Đối tượng khách hàng mục tiêu là Gen Z và Millennials.
+- Lựa chọn kênh TikTok/Instagram và ưu tiên sử dụng KOCs thay vì KOLs đắt đỏ.
+- Tổ chức Pop-up store để tăng trải nghiệm thực tế cho khách hàng.
+- Yêu cầu về bao bì thân thiện môi trường (nhựa tái chế, giấy kraft).
+- Chiến thuật quà tặng kèm (túi canvas) thay vì giảm giá trực tiếp để nâng giá trị thương hiệu.
+
+### 3. Kết luận và quyết định
+- Chốt concept "Vẻ đẹp xanh" làm thông điệp chủ đạo.
+- Tập trung ngân sách vào dàn KOCs mảng skincare organic.
+- Triển khai thiết kế Pop-up store với phong cách hiện đại, dễ check-in.
+- Hoàn thiện bộ nhận diện thương hiệu và danh sách content creator vào cuối tháng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Chốt danh sách KOCs và liên hệ báo giá | Team Social | 28/03/2026 |
+| Hoàn thiện thiết kế bao bì sản phẩm | Team Design | 05/04/2026 |
+| Lên kịch bản video viral và content teaser | Team Content | 30/03/2026 |
+| Thiết kế phối cảnh Pop-up store | Team Event | 15/04/2026 |
+| Dự toán ngân sách chi tiết cho từng hạng mục | Marketing Manager | 25/03/2026 |

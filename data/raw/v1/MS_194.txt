@@ -1,0 +1,50 @@
+<|input|>
+[09:00] Chào anh em bên xưởng sản xuất, hôm nay chúng ta họp về việc cải tiến quy trình kiểm tra chất lượng (QC).
+[09:02] Dạo này tỉ lệ hàng lỗi (NG) bị khách phản hồi hơi cao, đặc biệt là ở công đoạn hàn linh kiện.
+[09:04] Tôi thấy mắt thường soi không xuể đâu, nhiều lỗi li ti bên trong chỉ có soi X-ray mới thấy được.
+[09:06] Nhưng mình đâu có đủ máy X-ray cho tất cả các lô hàng? Phải xem lại kỹ năng của công nhân đứng máy nữa.
+[09:08] Có thể do tốc độ băng chuyền đẩy quá nhanh, công nhân làm không kịp nên sinh ra tâm lý làm ẩu cho xong.
+[09:10] Hay mình áp dụng hệ thống kiểm tra ngoại quan tự động (AOI) ở ngay sau mỗi công đoạn quan trọng?
+[10:12] Đầu tư AOI thì tốt quá, nó báo lỗi realtime luôn, mình xử lý ngay tại chỗ được, không để lọt xuống khâu sau.
+[10:14] Ngoài ra, tôi đề xuất áp dụng bảng theo dõi chất lượng tại mỗi tổ sản xuất, cuối ngày tổng kết ai làm tốt thì thưởng.
+[10:16] Ý này hay nè, tạo động lực cạnh tranh lành mạnh giữa các tổ.
+[10:18] Bên kỹ thuật cần xem lại nhiệt độ lò hàn, có vẻ dạo này thông số hơi bị lệch so với tiêu chuẩn.
+[10:20] Chúng tôi sẽ hiệu chuẩn lại toàn bộ cảm biến nhiệt độ trong ca tối nay.
+[10:22] Các bác quản lý phân xưởng nhớ nhắc nhở anh em đeo vòng chống tĩnh điện đầy đủ nhé, nhiều ông hay quên lắm.
+[10:24] Ok, phần này tổ trưởng sẽ giám sát chặt.
+[10:26] Mục tiêu tháng tới là kéo tỉ lệ hàng lỗi xuống dưới 0.5%. Mọi người quyết tâm nhé.
+
+<|output|>
+# Cải tiến quy trình kiểm tra chất lượng (QC) sản xuất
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân khiến tỉ lệ hàng lỗi (NG) tăng cao trong thời gian qua.
+- Đề xuất các giải pháp kỹ thuật và quản lý để tối ưu hóa quy trình kiểm tra chất lượng.
+- Thiết lập mục tiêu giảm tỉ lệ hàng lỗi trong tháng tới.
+
+### 2. Các vấn đề đã thảo luận
+- Lỗi hàn linh kiện chiếm tỉ trọng lớn trong danh mục hàng lỗi bị khách phản hồi.
+- Hạn chế của việc kiểm tra thủ công bằng mắt thường đối với các lỗi siêu nhỏ.
+- Áp lực từ tốc độ băng chuyền ảnh hưởng đến chất lượng thao tác của công nhân.
+- Đề xuất đầu tư hệ thống kiểm tra ngoại quan tự động (AOI) để phát hiện lỗi tức thời.
+- Sự sai lệch thông số nhiệt độ lò hàn so với tiêu chuẩn kỹ thuật.
+- Tình trạng vi phạm quy định bảo hộ lao động (vòng chống tĩnh điện).
+- Cơ chế khen thưởng dựa trên bảng theo dõi chất lượng tại từng tổ sản xuất.
+
+### 3. Kết luận và quyết định
+- Phòng Kỹ thuật thực hiện hiệu chuẩn lại toàn bộ hệ thống lò hàn ngay lập tức.
+- Nghiên cứu phương án và báo giá lắp đặt hệ thống AOI cho các dây chuyền trọng điểm.
+- Triển khai bảng thi đua chất lượng và cơ chế thưởng cho các tổ sản xuất đạt chỉ tiêu.
+- Thắt chặt giám sát quy định an toàn và chống tĩnh điện tại phân xưởng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hiệu chuẩn lại cảm biến nhiệt lò hàn | Phòng Kỹ thuật | 21/03/2026 |
+| Đề xuất phương án đầu tư máy AOI | Phòng Sản xuất | 30/03/2026 |
+| Xây dựng tiêu chí thưởng chất lượng tổ | Phòng Nhân sự | 25/03/2026 |
+| Kiểm tra đột xuất quy định bảo hộ lao động | Quản đốc phân xưởng | Hàng ngày |
+| Tổng hợp báo cáo tỉ lệ lỗi tuần đầu tháng | Phòng QC | 07/04/2026 |

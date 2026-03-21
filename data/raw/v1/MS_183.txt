@@ -1,0 +1,51 @@
+<|input|>
+[10:00] Mời mọi người bắt đầu. Mục tiêu hôm nay là tìm cách giảm thời gian chờ đợi của bệnh nhân tại khu vực khám bệnh.
+[10:02] Hiện tại trung bình mỗi bệnh nhân mất khoảng 45 phút chỉ để làm thủ tục đăng ký và nộp tiền.
+[10:04] Con số này là quá cao, nhất là vào khung giờ cao điểm từ 7h đến 9h sáng.
+[10:06] Tôi thấy vấn đề nằm ở việc chúng ta vẫn dùng quá nhiều giấy tờ thủ tục thủ công.
+[10:08] Tại sao mình không đẩy mạnh việc đặt lịch khám qua app hoặc website trước nhỉ?
+[10:10] Đã có rồi nhưng tỉ lệ người dân sử dụng còn thấp, đa số vẫn thích đến trực tiếp rồi mới xếp hàng.
+[10:12] Vậy thì tại khu vực sảnh, chúng ta nên bố trí thêm các máy Kiosk tự phục vụ để bệnh nhân tự quét mã bảo hiểm y tế.
+[10:14] Ngoài ra, khâu thanh toán cũng rất chậm do bà con hay dùng tiền mặt.
+[10:16] Đề nghị tích hợp thêm thanh toán qua mã QR của các ngân hàng và ví điện tử ngay tại quầy.
+[10:18] Tôi cũng muốn nhắc lại việc điều phối giữa các phòng khám, có phòng thì quá tải, có phòng lại trống.
+[10:20] Bộ phận điều dưỡng cần linh hoạt hơn trong việc phân luồng bệnh nhân dựa trên số thứ tự realtime.
+[10:22] Bên kỹ thuật cần đảm bảo hệ thống phần mềm bệnh viện (HIS) hoạt động ổn định, không bị treo lúc đông người.
+[10:24] Chúng tôi sẽ bảo trì và nâng cấp server vào cuối tuần này.
+[10:26] Hy vọng sau khi áp dụng các biện pháp này, thời gian chờ sẽ giảm xuống còn dưới 20 phút.
+[10:28] Cần có bảng khảo sát mức độ hài lòng của bệnh nhân đặt tại lối ra để thu thập ý kiến.
+
+<|output|>
+# Cải thiện quy trình tiếp đón và khám chữa bệnh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rút ngắn thời gian chờ đợi làm thủ tục của bệnh nhân.
+- Tối ưu hóa quy trình đăng ký khám và thanh toán viện phí.
+- Nâng cao hiệu quả điều phối bệnh nhân giữa các chuyên khoa.
+
+### 2. Các vấn đề đã thảo luận
+- Thời gian chờ làm thủ tục hiện tại là 45 phút, gây bức xúc cho người bệnh.
+- Tỉ lệ đặt lịch trực tuyến còn thấp, thói quen đi khám trực tiếp vẫn phổ biến.
+- Đề xuất lắp đặt máy Kiosk tự phục vụ để giảm tải cho quầy thủ tục.
+- Sự chậm trễ trong khâu thanh toán bằng tiền mặt.
+- Mất cân đối lượng bệnh nhân giữa các phòng khám.
+- Tính ổn định của hệ thống HIS trong giờ cao điểm.
+
+### 3. Kết luận và quyết định
+- Triển khai lắp đặt thêm 5 máy Kiosk tự đăng ký tại sảnh chính.
+- Tích hợp thanh toán QR code tại tất cả các quầy thu ngân.
+- Thực hiện điều phối bệnh nhân linh hoạt dựa trên dữ liệu thời gian thực.
+- Nâng cấp và bảo trì hệ thống HIS để đảm bảo hiệu năng.
+- Thực hiện khảo sát hài lòng của bệnh nhân sau khi áp dụng quy trình mới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lắp đặt và vận hành máy Kiosk tự động | Phòng Vật tư | 05/04/2026 |
+| Triển khai thanh toán QR code | Phòng Tài chính | 28/03/2026 |
+| Nâng cấp server và phần mềm HIS | Phòng CNTT | 22/03/2026 |
+| Tập huấn điều phối cho điều dưỡng | Phòng Điều dưỡng | 30/03/2026 |
+| Thiết kế mẫu khảo sát hài lòng | Phòng Quản lý chất lượng | 25/03/2026 |

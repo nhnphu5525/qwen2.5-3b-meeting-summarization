@@ -1,0 +1,55 @@
+<|input|>
+[09:00:00] Chào Ngân, chào Linh. Nay mình họp bàn kỹ về cái vụ nhân sự cho chi nhánh mới ở Quận 7 nha. Dự kiến là tháng 9 này mình khai trương rồi nên giờ tuyển là vừa đẹp luôn.
+[09:01:20] Dạ anh Hải, em với Linh cũng có phác thảo sơ cái định biên nhân sự cho bên đó rồi. Linh ơi, em trình bày sơ qua cho anh Hải nắm mấy cái vị trí chủ chốt mình cần gấp đi em.
+[09:02:45] Dạ vâng ạ. Anh Hải ơi, hiện tại chi nhánh mới mình cần khoảng 20 nhân sự tất cả. Trong đó quan trọng nhất là vị trí Cửa hàng trưởng với 2 bạn Tổ trưởng ca. Mấy vị trí này em nghĩ mình nên ưu tiên luân chuyển người cũ từ các chi nhánh khác qua cho nó ổn định vận hành giai đoạn đầu anh ạ.
+[09:04:10] Ờ, anh cũng đồng ý hướng đó. Người cũ họ nắm rõ văn hóa với quy trình của mình rồi, đưa qua đó hỗ trợ thì anh yên tâm hơn. Vậy còn khối nhân viên bán hàng với kho thì sao?
+[09:05:30] Dạ nhân viên bán hàng thì mình cần khoảng 12 bạn, chia làm 2 ca. Kho thì cần 3 bạn. Linh tính là đợt này mình sẽ đẩy mạnh tuyển trên mấy hội nhóm Facebook với chạy quảng cáo trên TikTok nữa anh, vì đối tượng mình cần là mấy bạn trẻ năng động mà.
+[09:06:55] TikTok hả? Ừ, cũng hay đó, giờ tụi nhỏ dùng cái đó nhiều. Mà Ngân nè, em coi cái ngân sách tuyển dụng đợt này thế nào? Đừng để đội lên quá nha.
+[09:08:20] Dạ anh, ngân sách em đã cân đối rồi. Mình sẽ dành khoảng 20 triệu cho các kênh trả phí. Còn lại mình tận dụng nguồn referral từ nhân viên cũ. À, nếu nhân viên giới thiệu được người vào làm và qua thử việc thì mình có thưởng nóng một khoản nhỏ để khích lệ anh thấy sao?
+[09:09:45] Được chứ, cái đó anh duyệt. Vừa đỡ tiền quảng cáo mà người được giới thiệu thường cũng uy tín hơn. Linh lên cái thông báo về chương trình giới thiệu này luôn đi nha.
+[09:11:10] Dạ em ghi lại rồi ạ. Còn về lịch trình phỏng vấn thì sao chị Ngân? Em định là tuần sau bắt đầu đăng tin, rồi tuần tới nữa mình tiến hành lọc hồ sơ và gọi phỏng vấn vòng 1 luôn.
+[09:12:35] Ừ, tiến độ vậy là ổn. Anh Hải ơi, phỏng vấn Cửa hàng trưởng thì chắc phải nhờ anh tham gia vòng cuối nha. Vị trí đó là "linh hồn" của chi nhánh nên mình cần chọn kỹ chút.
+[09:14:00] Chắc chắn rồi, cứ hẹn lịch rồi báo anh trước 2 ngày là được. À, còn cái vụ đào tạo thì sao? Tuyển xong rồi có cho đi training thực tế ở mấy chi nhánh cũ không?
+[09:15:25] Dạ có chứ anh. Em dự kiến là các bạn mới sẽ có ít nhất 1 tuần shadowing tại chi nhánh Quận 1 để làm quen với phần mềm bán hàng và cách tư vấn khách. Sau đó mình mới đưa về Quận 7 để set up hàng hóa.
+[09:16:50] Ờ, vậy là hợp lý. Mà nè, nhớ chú trọng phần thái độ phục vụ nha. Chi nhánh mới ở khu đó khách hàng họ khó tính lắm, mình mà làm không khéo từ đầu là mất khách như chơi á.
+[09:18:15] Dạ tụi em biết mà. Linh nhớ note lại trong bản mô tả công việc mấy cái yêu cầu về giao tiếp với xử lý tình huống cho kỹ nha. Mình sẽ dùng các bài test tình huống trong lúc phỏng vấn luôn.
+[09:19:40] Dạ vâng chị Ngân. Em sẽ bổ sung vào bộ câu hỏi phỏng vấn luôn ạ. Anh Hải ơi, vậy là mình chốt số lượng 20 người cho giai đoạn 1 này nha anh? Nếu sau này khách đông quá thì mình mới tính tiếp chuyện tuyển thêm part-time.
+[09:21:05] Ừ, chốt vậy đi. Trước mắt cứ lo xong bộ khung này cho anh đã. Có khó khăn gì về mặt thủ tục hay chi phí thì báo anh sớm để anh xử lý.
+[09:22:30] Dạ cảm ơn anh. Vậy Ngân với Linh triển khai luôn nha. Hy vọng là đầu tháng 8 mình có đủ người để bắt đầu training.
+[09:23:55] Dạ em sẽ cố gắng hết sức ạ. Lát em gửi anh Hải với chị Ngân bản tiến độ chi tiết qua Zalo nha.
+[09:25:20] OK Linh. Thôi mình kết thúc ở đây đi, anh còn cuộc họp với bên xây dựng nữa. Chào hai đứa nha.
+[09:26:45] Dạ chào anh ạ. Chào Linh nhé, chị em mình qua phòng thảo luận tiếp cái bảng JD.
+
+<|output|>
+# Kế hoạch tuyển dụng nhân sự chi nhánh Quận 7
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất định biên nhân sự cho chi nhánh mới tại Quận 7 (dự kiến khai trương tháng 9).
+- Lên kế hoạch tuyển dụng, đào tạo và phân bổ ngân sách.
+- Xác định các vị trí chủ chốt và phương thức tuyển dụng hiệu quả.
+
+### 2. Các vấn đề đã thảo luận
+- Số lượng nhân sự cần tuyển: 20 người (1 Cửa hàng trưởng, 2 Tổ trưởng, 12 Nhân viên bán hàng, 3 Nhân viên kho, 2 Part-time dự phòng).
+- Phương án luân chuyển: Ưu tiên điều động người cũ từ các chi nhánh khác cho vị trí quản lý để đảm bảo vận hành.
+- Kênh tuyển dụng: Facebook, TikTok, quảng cáo trả phí (ngân sách 20 triệu) và chương trình giới thiệu nội bộ (có thưởng).
+- Quy trình đào tạo: 1 tuần thực tập (shadowing) tại chi nhánh Quận 1 trước khi về chi nhánh mới.
+- Tiêu chí tuyển dụng: Chú trọng thái độ, kỹ năng giao tiếp và xử lý tình huống linh hoạt.
+
+### 3. Kết luận và quyết định
+- Chốt số lượng 20 nhân sự cho giai đoạn 1.
+- Duyệt chương trình thưởng cho nhân viên giới thiệu ứng viên thành công.
+- Giám đốc chi nhánh sẽ trực tiếp phỏng vấn vòng cuối cho vị trí Cửa hàng trưởng.
+- Hoàn tất tuyển dụng trước tháng 8 để kịp tiến độ đào tạo.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bảng JD và bộ câu hỏi phỏng vấn | Linh - Phòng HR | 15/06/2024 |
+| Đăng tin tuyển dụng trên các kênh | Linh - Phòng HR | 18/06/2024 |
+| Xây dựng danh sách luân chuyển nội bộ | Ngân - Trưởng phòng HR | 20/06/2024 |
+| Lọc hồ sơ và phỏng vấn vòng 1 | Phòng HR | 30/06/2024 |
+| Phỏng vấn vòng cuối vị trí Cửa hàng trưởng | Anh Hải - Giám đốc | 05/07/2024 |
+| Tổ chức đào tạo tập trung cho nhân viên mới | Phòng HR | 15/08/2024 |

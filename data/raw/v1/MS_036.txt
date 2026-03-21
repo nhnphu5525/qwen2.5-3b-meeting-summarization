@@ -1,0 +1,60 @@
+<|input|>
+[10:00] Chào anh em Team IT và Security. Hôm nay chúng ta có một cuộc họp khẩn vì hệ thống giám sát SIEM vừa cảnh báo một loạt các truy cập bất thường vào vùng server chứa dữ liệu nhân sự và tài chính vào lúc 2 giờ sáng nay.
+[10:02] Vâng anh, em đã kiểm tra log ban đầu. Có vẻ như có một tài khoản Admin của một bạn bên phòng vận hành đã bị leak. Kẻ tấn công sử dụng IP từ nước ngoài nhưng lại bypass được lớp MFA.
+[10:04] Sao lại bypass được MFA? Mình dùng Microsoft Authenticator cơ mà? Chẳng lẽ là tấn công dạng MFA Fatigue (spam yêu cầu xác thực)?
+[10:06] Chính xác là nó đấy anh. Bạn nhân viên kia khai là lúc đó đang ngủ, thấy điện thoại báo liên tục nên cứ bấm 'Approve' cho nó đỡ phiền, ai ngờ là dâng chìa khóa cho trộm.
+[10:08] Trời đất ơi! Đào tạo nhận thức bảo mật (Security Awareness) bao nhiêu lần rồi mà vẫn cứ thế. Vấn đề bây giờ là kẻ tấn công đã đi sâu đến đâu trong hệ thống rồi?
+[10:10] Hiện tại em đã cô lập vùng server đó và reset toàn bộ credentials của các tài khoản có đặc quyền (Privileged Accounts). Tuy nhiên, em phát hiện có dấu hiệu của Web Shell trên con server web nội bộ. Có vẻ chúng đã tận dụng lỗ hổng Log4j chưa được vá hết ở các ứng dụng legacy.
+[10:12] Log4j? Cái đó mình đã có chiến dịch vá lỗi từ năm ngoái rồi cơ mà? Sao vẫn còn sót lại?
+[10:14] Dạ, do mấy cái ứng dụng cũ của bên đối tác viết, họ dùng thư viện đóng gói sẵn nên mình không can thiệp sâu vào code được. Đợt đó mình chỉ chặn ở mức WAF (Web Application Firewall) thôi, nhưng có vẻ kẻ tấn công đã tìm ra cách lách qua các rule hiện tại.
+[10:16] Anh thấy tình hình này nghiêm trọng đấy. Nếu chúng đã cài được Web Shell thì có khả năng đã thực hiện 'Lateral Movement' (di chuyển ngang) sang các vùng khác. Mọi người phải rà soát lại toàn bộ hệ thống file hệ thống, tìm các tiến trình lạ đang chạy.
+[10:18] Em đang dùng tool EDR để quét toàn bộ endpoint trong mạng. Bước đầu thấy có 3 máy tính của nhân viên phòng kế toán có dấu hiệu cài mã độc gián điệp (Spyware). Khả năng cao là chúng định lấy cắp thông tin chuyển khoản ngân hàng.
+[10:20] Nguy hiểm quá. Ngắt kết nối internet của 3 máy đó ngay lập tức! Bên cạnh đó, anh muốn Team Security triển khai ngay chính sách 'Zero Trust'. Không có chuyện chỉ cần vào được mạng nội bộ là có quyền truy cập mọi thứ. Phải phân tách mạng (Network Segmentation) triệt để hơn nữa.
+[10:22] Để làm được Zero Trust thì mình cần đầu tư thêm giải pháp IAM (Identity and Access Management) mạnh hơn và tốn khá nhiều thời gian để cấu hình lại hệ thống. Trước mắt, em đề xuất mình chuyển sang dùng Hardware Token (như Yubikey) cho các tài khoản Admin để chống lại MFA Fatigue.
+[10:24] Hardware Token thì tốn kém nhưng an toàn nhất rồi. Anh sẽ duyệt kinh phí. Còn vụ lỗ hổng Log4j kia, yêu cầu Team Dev liên hệ ngay với đối tác, bắt họ phải update thư viện trong vòng 48 giờ tới. Nếu không thì mình tạm dừng ứng dụng đó luôn, thà chịu phiền phức một tí còn hơn mất dữ liệu.
+[10:26] Vâng, em sẽ gửi mail cảnh báo và yêu cầu xử lý ngay. Còn một vấn đề nữa là sao lưu dữ liệu (Backup). Anh có lo là chúng sẽ tấn công cả vào vùng backup để đòi tiền chuộc (Ransomware) không?
+[10:28] Có chứ. May mà mình có áp dụng quy tắc 3-2-1, có một bản backup offline (Air-gapped). Em kiểm tra lại tính toàn vẹn của bản backup đó xem có bị nhiễm mã độc từ trước không nhé. Đừng để đến lúc cần khôi phục mới thấy file đã bị mã hóa hết rồi.
+[10:30] Dạ, em sẽ cho chạy tool quét virus trên các bản backup định kỳ. Ngoài ra, em thấy mình cần phải thuê một bên Pen-test chuyên nghiệp về đánh giá lại toàn bộ hệ thống một lần nữa. Mình tự làm đôi khi có những 'điểm mù' không thấy được.
+[10:32] Ý kiến hay đấy. Tìm mấy bên uy tín rồi xin báo giá nhé. Chốt lại cuộc họp hôm nay: 1. Reset pass và MFA cho toàn bộ Admin. 2. Vá lỗ hổng Log4j và rà soát Web Shell. 3. Mua Yubikey cho team nòng cốt. 4. Kiểm tra kỹ vùng Backup.
+[10:34] Anh ơi, còn vụ xử lý bạn nhân viên bấm Approve kia thì sao ạ?
+[10:36] Cái đó để bên Nhân sự giải quyết theo quy định của công ty. Nhưng quan trọng nhất vẫn là mình phải cải thiện hệ thống kỹ thuật để lỗi cá nhân không gây ra hậu quả thảm khốc. Hệ thống phải 'Fail-safe'.
+[10:38] Vâng, em hiểu rồi ạ.
+[10:40] Mọi người bắt tay vào việc đi, thức đêm một chút để dọn dẹp cho sạch sẽ nhé. Cố gắng bảo vệ 'nồi cơm' của công ty.
+[10:42] Rõ thưa anh!
+
+<|output|>
+# Xử lý sự cố truy cập bất thường và thắt chặt bảo mật hệ thống nội bộ
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Phân tích nguyên nhân và mức độ ảnh hưởng của cuộc tấn công xâm nhập vào vùng server dữ liệu lúc 2 giờ sáng.
+- Đưa ra các biện pháp khắc phục khẩn cấp và ngăn chặn kẻ tấn công di chuyển ngang trong mạng.
+- Thiết lập kế hoạch bảo mật dài hạn theo mô hình Zero Trust để tránh các lỗi tương tự.
+
+### 2. Các vấn đề đã thảo luận
+- Tài khoản Admin bị rò rỉ và kẻ tấn công bypass MFA thông qua kỹ thuật MFA Fatigue (người dùng bấm duyệt do bị spam thông báo).
+- Phát hiện Web Shell trên server web do lỗ hổng Log4j chưa được vá triệt để trong các ứng dụng cũ của đối tác.
+- Dấu hiệu di chuyển ngang (Lateral Movement) và mã độc gián điệp trên máy tính phòng kế toán.
+- Sự cần thiết của việc phân tách mạng (Network Segmentation) và đầu tư giải pháp IAM mạnh hơn.
+- Nguy cơ từ tấn công Ransomware nhắm vào các bản sao lưu (Backup).
+
+### 3. Kết luận và quyết định
+- Cô lập vùng server bị ảnh hưởng, ngắt kết nối internet các máy tính nghi nhiễm mã độc.
+- Reset toàn bộ thông tin đăng nhập và yêu cầu xác thực lại cho các tài khoản đặc quyền.
+- Thay thế ứng dụng xác thực phần mềm bằng Hardware Token (Yubikey) cho đội ngũ Admin.
+- Yêu cầu đối tác vá lỗ hổng Log4j trong vòng 48 giờ hoặc tạm dừng dịch vụ.
+- Kiểm tra tính toàn vẹn của bản sao lưu offline (Air-gapped backup).
+- Thuê dịch vụ Pen-test chuyên nghiệp để đánh giá tổng thể hệ thống.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Reset credentials và thiết lập lại MFA cho Team Admin | Team Security | 18/11/2024 |
+| Rà soát và gỡ bỏ Web Shell, vá lỗi Log4j | Team IT | 20/11/2024 |
+| Liên hệ đối tác yêu cầu cập nhật thư viện phần mềm | Anh Nam (IT) | 19/11/2024 |
+| Đặt mua 50 thiết bị Yubikey cho nhân sự chủ chốt | Phòng Thu mua | 22/11/2024 |
+| Kiểm tra và quét mã độc trên các bản Backup | Team IT | 19/11/2024 |
+| Tìm kiếm và đề xuất Agency Pen-test uy tín | Team Security | 25/11/2024 |
+| Báo cáo vi phạm kỷ luật của nhân viên cho phòng HR | Anh Nam (IT) | 19/11/2024 |

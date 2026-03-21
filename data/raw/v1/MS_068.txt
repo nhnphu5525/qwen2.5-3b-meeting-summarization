@@ -1,0 +1,49 @@
+<|input|>
+[08:30] Chào bác sĩ Lan và các thành viên trong hội đồng đạo đức y sinh. Hôm nay mình họp để đánh giá kết quả sơ bộ của pha 2 thử nghiệm lâm sàng thuốc điều trị tiểu đường mới "InsuPlus" nha.
+[08:32] Ừ, tôi đã xem qua các số liệu báo cáo rồi. Tuy nhiên... là... tôi thấy có một nhóm bệnh nhân gặp phải tác dụng phụ nhẹ như chóng mặt và buồn nôn. Tỷ lệ này là bao nhiêu vậy bác sĩ?
+[08:34] Dạ thưa bác sĩ Lan, theo thống kê thì tỷ lệ này chiếm khoảng 5% trong tổng số 200 bệnh nhân tham gia thử nghiệm ạ. Đa số các trường hợp này đều xuất hiện ở nhóm dùng liều cao nhất (100mg/ngày).
+[08:36] 5% thì cũng cần phải lưu tâm đó. Thế còn cái hiệu quả kiểm soát đường huyết sau 3 tháng sử dụng thì sao?
+[08:38] Dạ... ờ thì... kết quả rất khả quan ạ. Chỉ số HbA1c của bệnh nhân giảm trung bình 1.2% so với nhóm dùng giả dược. Đây là một con số rất ấn tượng, vượt qua cả kỳ vọng ban đầu của team nghiên cứu.
+[08:40] Vậy thì tốt. Thế nhưng... mình đã đảm bảo được cái quy trình lấy mẫu máu và bảo quản mẫu ở các bệnh viện vệ tinh chưa? Tôi lo là khâu vận chuyển có thể làm hỏng mẫu.
+[08:42] Dạ, tụi em đã trang bị hệ thống tủ lạnh chuyên dụng có cảm biến nhiệt độ cho tất cả các điểm thử nghiệm lâm sàng rồi ạ. Dữ liệu nhiệt độ được cập nhật liên tục lên hệ thống cloud nên mình có thể kiểm soát 24/7.
+[08:44] Ừ, làm vậy là chuẩn rồi. Thế còn cái kế hoạch cho pha 3 sắp tới thì sao? Mình đã chọn được đơn vị CRO (tổ chức nghiên cứu hợp đồng) nào để phối hợp chưa?
+[08:46] Dạ... hiện tại tụi em đang cân nhắc giữa 2 đơn vị lớn. Một bên có thế mạnh về mạng lưới bệnh viện rộng khắp khu vực Đông Nam Á, còn một bên thì có kinh nghiệm lâu năm trong việc làm hồ sơ xin cấp phép với FDA Hoa Kỳ.
+[08:48] FDA Hoa Kỳ là mục tiêu cuối cùng của mình. Nên ưu tiên bên nào có khả năng làm việc tốt với họ để sau này mình xuất khẩu thuốc ra thế giới dễ hơn.
+[08:50] Dạ vâng, em sẽ làm việc sâu hơn với bên đó về báo giá và cam kết tiến độ ạ.
+[08:52] Còn một vấn đề nữa, bác sĩ Lan ạ. Mình cần phải cập nhật lại cái bản "Chấp thuận tham gia nghiên cứu" cho bệnh nhân ở pha 3, vì mình sẽ bổ sung thêm một số xét nghiệm chuyên sâu về chức năng thận nữa.
+[08:54] Ừ, cái này là bắt buộc rồi. Gửi cho tôi bản dự thảo cập nhật đó trong tuần này để tôi ký duyệt sớm nha.
+[08:56] Dạ em sẽ gửi liền ạ. Cảm ơn bác sĩ Lan và mọi người.
+
+<|output|>
+# Đánh giá kết quả thử nghiệm lâm sàng pha 2 thuốc "InsuPlus"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Review kết quả thử nghiệm lâm sàng pha 2 cho thuốc điều trị tiểu đường InsuPlus.
+- Đánh giá tác dụng phụ và hiệu quả kiểm soát đường huyết của thuốc.
+- Kiểm tra quy trình quản lý mẫu và chuẩn bị cho pha 3.
+- Thảo luận việc lựa chọn đối tác CRO và cập nhật hồ sơ pháp lý.
+
+### 2. Các vấn đề đã thảo luận
+- Tác dụng phụ: Khoảng 5% bệnh nhân (chủ yếu ở liều 100mg) gặp triệu chứng chóng mặt, buồn nôn nhẹ.
+- Hiệu quả: Chỉ số HbA1c giảm ấn tượng (trung bình 1.2%), đạt kết quả tốt hơn mong đợi.
+- Quản lý mẫu: Đã triển khai tủ lạnh chuyên dụng có cảm biến IoT để giám sát nhiệt độ 24/7 tại các bệnh viện vệ tinh.
+- Kế hoạch pha 3: Cần lựa chọn đơn vị CRO có kinh nghiệm làm hồ sơ FDA để hướng tới thị trường quốc tế.
+- Pháp lý: Cần bổ sung các xét nghiệm chức năng thận vào văn bản "Chấp thuận tham gia nghiên cứu" cho bệnh nhân.
+
+### 3. Kết luận và quyết định
+- Duy trì liều dùng hiệu quả nhưng cần theo dõi sát tác động phụ ở pha 3.
+- Ưu tiên đàm phán với đơn vị CRO có chuyên môn về quy trình FDA.
+- Hoàn thiện bản dự thảo cập nhật hồ sơ tham gia nghiên cứu ngay trong tuần này.
+- Bác sĩ Lan sẽ trực tiếp phê duyệt bản cập nhật hồ sơ để kịp tiến độ pha 3.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Gửi bản dự thảo hồ sơ cập nhật | Team Nghiên cứu | 24/05/2024 |
+| Đàm phán chi tiết với đối tác CRO | Phòng Pháp chế | 05/06/2024 |
+| Phân tích chi tiết tác động của liều 100mg | Team Dược lý | 30/05/2024 |
+| Chuẩn bị danh sách bệnh viện vệ tinh cho pha 3 | Phòng Dự án | 10/06/2024 |
+| Báo cáo tình trạng bảo quản mẫu máu | Bộ phận Lab | 22/05/2024 |

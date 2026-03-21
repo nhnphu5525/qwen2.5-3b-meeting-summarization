@@ -1,0 +1,82 @@
+<|input|>
+[09:00] Chào buổi sáng team R&D, Lab, Quản lý chất lượng (QA/QC) và Marketing. Hôm nay chúng ta có một buổi họp cực kỳ quan trọng, có thể coi là buổi "Hội nghị Diên Hồng" của dự án phát triển dòng sữa hạt dinh dưỡng thế hệ mới – dự án "Green Nutri 2025". Như mọi người đã biết, mục tiêu của chúng ta là tạo ra một dòng sản phẩm sữa hạt không chỉ ngon mà còn phải đạt chuẩn dinh dưỡng vàng, sử dụng công nghệ tiệt trùng UHT hiện đại nhất để giữ trọn vẹn tinh túy từ hạt.
+[09:05] Dạ thưa sếp, thay mặt team R&D, em xin báo cáo về công thức (Formula) của 3 dòng chủ đạo: Hạnh nhân óc chó, Hạt sen yến mạch và Macca hạt điều. Sau 50 lần thử nghiệm tại phòng Lab, tụi em đã tìm ra tỷ lệ phối trộn tối ưu để đạt độ béo ngậy tự nhiên mà không cần dùng quá nhiều phụ gia.
+[09:10] Ờ... tỷ lệ hạt trong mỗi hộp 180ml là bao nhiêu hả Minh? Anh muốn nó phải "thật", chứ đừng có kiểu 90% là nước và hương liệu như mấy dòng giá rẻ trên thị trường nhé.
+[09:15] Dạ, tụi em cam kết hàm lượng hạt nguyên chất chiếm ít nhất 15% tổng trọng lượng. Đây là con số rất cao so với mặt bằng chung (thường chỉ 3-5%). Để làm được điều này, tụi em phải dùng công nghệ nghiền siêu mịn (Ultra-fine grinding) để dịch sữa hạt không bị lắng cặn và có cảm giác mịn mượt (mouthfeel) khi uống.
+[09:20] Nghiền siêu mịn thì tốt, nhưng vấn đề là khi hàm lượng protein và chất béo từ hạt cao như vậy, khâu tiệt trùng UHT (Ultra-High Temperature) sẽ rất khó khăn. Nhiệt độ cao dễ làm biến tính protein và gây hiện tượng kết tủa hoặc tách lớp sau khi đóng hộp. Bên QA/QC thấy sao về vụ này?
+[09:25] Vâng thưa anh, đúng như anh lo ngại. Trong đợt chạy thử nghiệm trên dây chuyền Pilot tuần trước, khi nâng nhiệt độ lên 140 độ C trong 4 giây, mẫu sữa hạnh nhân đã xuất hiện hiện tượng "Burn-on" (cháy sém) nhẹ ở bộ trao đổi nhiệt. Điều này không chỉ làm ảnh hưởng đến mùi vị (có mùi khét) mà còn làm giảm hiệu suất truyền nhiệt của máy.
+[09:30] Ờ... vậy mình có giải pháp gì không? Hay là mình giảm nhiệt độ tiệt trùng xuống?
+[09:35] Nếu giảm nhiệt độ thì không đảm bảo vô trùng tuyệt đối cho sản phẩm bảo quản ở nhiệt độ thường trong 6-9 tháng được ạ. Em đề xuất mình bổ sung thêm hệ ổn định (Stabilizer system) nguồn gốc tự nhiên như Carrageenan chiết xuất từ rong biển hoặc Pectin từ vỏ trái cây. Ngoài ra, mình cần điều chỉnh áp suất đồng hóa (Homogenization pressure) lên mức 250 bar để các hạt béo được xé nhỏ li ti, bao bọc bởi protein, tránh hiện tượng tách béo.
+[09:40] Dùng phụ gia tự nhiên thì anh duyệt, nhưng phải ghi rõ trên nhãn là "Clean Label" để Marketing còn làm truyền thông. Tiên bên Marketing thấy sao về cái vị hiện tại? Đã cho người dùng dùng thử (Sensory Test) chưa?
+[09:45] Dạ, tụi em đã tổ chức 3 buổi Blind Test (thử mù) với 500 khách hàng mục tiêu tại TP.HCM và Hà Nội. Kết quả khá khả quan: 85% người dùng đánh giá cao độ thơm của hạt và vị ngọt thanh từ đường cỏ ngọt (Stevia) thay vì đường tinh luyện. Tuy nhiên, có khoảng 15% khách hàng nam giới phản hồi là vị hạt sen yến mạch hơi "ngấy" nếu uống hết cả hộp 180ml.
+[09:50] Ờ... hơi ngấy à? Minh xem lại cái tỷ lệ yến mạch nhé. Có thể giảm bớt yến mạch và thay bằng một chút dịch chiết từ gạo lứt để tăng độ thanh và dễ tiêu hóa hơn không?
+[09:55] Dạ được anh, gạo lứt sẽ giúp trung hòa độ béo của hạt sen tốt lắm. Em sẽ cho làm lại mẫu thử dòng này ngay chiều nay. À, còn cái vụ bổ sung Vitamin và Khoáng chất. Marketing muốn bổ sung Canxi hữu cơ từ tảo biển và Vitamin D3, K2 để đánh vào phân khúc mẹ và bé. Nhưng canxi tảo biển thường có vị hơi "tanh" nhẹ của biển. Tụi em đang phải dùng hương vani tự nhiên để át mùi này đi.
+[10:00] Bổ sung D3 và K2 là hướng đi rất đúng đắn, vì nó giúp hấp thụ canxi vào xương hiệu quả hơn. Cái vị tanh đó Minh phải xử lý triệt để nhé, trẻ con nó tinh lắm, hơi có mùi lạ là nó không uống đâu. Tiên lưu ý khâu thiết kế bao bì, phải làm sao bật lên được các thông số dinh dưỡng này (Nutrition Facts) ngay mặt tiền hộp sữa.
+[10:05] Vâng sếp, bao bì em định dùng dạng hộp giấy SIG Combibloc của Đức, loại có nắp vặn tiện dụng. Màu sắc sẽ theo tông xanh lá pastel và màu nâu gỗ của hạt để tạo cảm giác organic. Đặc biệt, trên mỗi hộp sẽ có một mã QR Code để khách hàng truy xuất nguồn gốc (Traceability) từ vùng nguyên liệu hạnh nhân ở California hay Macca ở Đắk Lắk.
+[10:10] QR Code truy xuất nguồn gốc là một điểm cộng lớn cho sự minh bạch. À, nhắc đến nguyên liệu, phòng Thu mua đã chốt được nhà cung cấp hạt chưa? Anh lo nhất là dư lượng thuốc bảo vệ thực vật và nấm mốc (Aflatoxin) trong hạt khô.
+[10:15] Dạ, tụi em đã sang tận các farm ở Đắk Lắk để kiểm tra quy trình thu hoạch và sấy. Riêng hạnh nhân và óc chó nhập khẩu, tụi em chỉ làm việc với các đối tác có chứng chỉ Global GAP và chứng thư kiểm dịch thực vật của Mỹ. Mỗi lô hàng về đều được Lab của mình lấy mẫu kiểm tra 100% các chỉ tiêu vi sinh và kim loại nặng trước khi nhập kho.
+[10:20] Quy trình như vậy là ổn. Quay lại khâu sản xuất quy mô lớn (Mass production). Nếu mình chạy công suất 10.000 hộp/giờ thì hệ thống chiết rót vô trùng (Aseptic filling) của mình có đáp ứng được không?
+[10:25] Dạ, hệ thống của mình là đời mới nhất của Tetra Pak. Tuy nhiên, em lo là khâu vệ sinh đường ống (CIP - Cleaning in Place). Do sữa hạt có nhiều chất béo và protein thực vật, nó bám dính rất dai dẳng. Nếu mình không CIP kỹ bằng hóa chất chuyên dụng và nước nóng 90 độ C sau mỗi ca sản xuất, nguy cơ nhiễm khuẩn chéo là rất cao.
+[10:30] CIP là khâu sống còn của nhà máy thực phẩm. Anh yêu cầu QA phải giám sát chặt chẽ chỉ số độ dẫn điện (Conductivity) của nước rửa cuối cùng để đảm bảo không còn dư lượng hóa chất tẩy rửa trong đường ống. Tuyệt đối không được vì áp lực tiến độ mà làm ẩu khâu này.
+[10:35] Vâng thưa anh, tụi em đã lập quy trình vận hành tiêu chuẩn (SOP) cho CIP rồi ạ. Mỗi ca trực đều phải ký xác nhận và lưu mẫu đối chứng cho từng lô hàng trong suốt thời hạn sử dụng 9 tháng.
+[10:40] Tốt. Còn vấn đề xử lý nước thải thì sao? Dịch sữa hạt dư thừa có hàm lượng hữu cơ (BOD/COD) rất cao, hệ thống xử lý nước thải của nhà máy mình chịu nổi không?
+[10:45] Cái này đúng là một thách thức ạ. Em đã cho lắp thêm bộ lọc tách béo sơ bộ trước khi đưa nước thải vào bể vi sinh. Đồng thời, mình cũng tận dụng bã hạt sau khi ép để bán cho các trang trại chăn nuôi gia súc làm thức ăn gia súc chất lượng cao, vừa giảm tải cho hệ thống xử lý nước thải, vừa có thêm một khoản thu phụ.
+[10:50] Ờ... bã hạt làm thức ăn gia súc là giải pháp kinh tế tuần hoàn rất tốt. Tiền bán bã hạt đó cứ đưa vào quỹ công đoàn cho anh em nhé.
+[10:55] Dạ, thay mặt anh em nhà máy em cảm ơn sếp! À, còn một chuyện nữa là kế hoạch chạy thử nghiệm dài ngày (Shelf-life test). Để khẳng định sản phẩm ổn định trong 9 tháng, mình cần ít nhất 3 tháng theo dõi trong phòng ổn định nhiệt (Incubation room) ở các mức nhiệt độ 25, 35 và 45 độ C.
+[11:00] 3 tháng theo dõi thì lâu quá, Marketing có đợi được không Tiên? Mình định launch vào tháng 3 năm sau mà.
+[11:05] Dạ, thực ra mình có thể dùng phương pháp thử nghiệm cấp tốc (Accelerated shelf-life testing) ở 45 độ C trong 1 tháng để dự đoán cho 6 tháng. Song song đó mình vẫn làm Real-time test. Đến tháng 3 mình launch là vừa đẹp sếp ạ.
+[11:10] OK, vậy chốt phương án Accelerated test. Tiên lên kế hoạch truyền thông tích hợp (IMC Plan) đi. Anh muốn có một buổi Event ra mắt hoành tráng tại Gem Center, có các bác sĩ dinh dưỡng đầu ngành và các hot mom nổi tiếng tham gia để bảo chứng cho chất lượng sản phẩm.
+[11:15] Vâng anh, em đã lên layout cho Event rồi. Chủ đề là "Hành trình hạt ngọc – Trao gửi yêu thương". Mình sẽ có các khu vực trải nghiệm công nghệ UHT qua kính thực tế ảo VR để khách hàng thấy được sự hiện đại và sạch sẽ của nhà máy mình.
+[11:20] VR à? Nghe có vẻ tốn kém nhưng ấn tượng đấy. Em cứ làm dự toán chi tiết đi. À, Minh lưu ý cái vụ nhãn mác. Phải ghi rõ là "Không chứa biến đổi gen (Non-GMO)" và "Không chứa Gluten" nhé. Xu hướng bây giờ người ta sợ mấy cái đó lắm.
+[11:25] Dạ, em đã chuẩn bị đầy đủ các chứng nhận từ nhà cung cấp hạt để chứng minh Non-GMO rồi ạ. Còn Gluten thì bản chất các loại hạt này không có, nhưng mình phải kiểm soát khâu sản xuất để tránh lây nhiễm chéo từ các dòng sữa ngũ cốc khác. Tụi em sẽ chạy dây chuyền sữa hạt vào các ngày riêng biệt sau khi đã CIP tổng lực.
+[11:30] Rất bài bản. Anh rất hài lòng với sự chuẩn bị của các team. Dự án này thành công hay không phụ thuộc 90% vào khâu R&D và QA hôm nay đấy. Chúng ta không chỉ bán một hộp sữa, chúng ta bán niềm tin về sức khỏe cho cộng đồng.
+[11:35] Vâng sếp, tụi em sẽ nỗ lực hết mình vì màu cờ sắc áo của công ty.
+[11:40] Còn một vấn đề nhỏ cuối cùng, đó là giá bán lẻ đề xuất (RSP). Với hàm lượng hạt 15% và công nghệ này, em sợ giá sẽ cao hơn đối thủ khoảng 5.000đ/hộp. Tiên thấy sao?
+[11:45] Dạ, đúng là cao hơn, nhưng phân khúc mình nhắm đến là khách hàng trung lưu, những người sẵn sàng chi trả cho chất lượng thực sự. Em sẽ nhấn mạnh vào thông điệp "Tiền nào của nấy" và "Hàm lượng dinh dưỡng gấp 3 lần". Ngoài ra, mình sẽ có các chương trình khuyến mãi mua 1 lốc tặng 1 hộp hoặc tích điểm đổi quà để kích cầu giai đoạn đầu.
+[11:50] Ờ... cao hơn 5.000đ mà chất lượng gấp 3 thì khách hàng thông thái họ sẽ hiểu thôi. Anh duyệt khung giá đó.
+[11:55] OK, buổi họp hôm nay kết thúc ở đây. Minh hoàn thiện mẫu thử dòng hạt sen yến mạch (phiên bản ít ngấy) gửi anh duyệt vào thứ 2 tới. Tiên gửi dự toán Event và kế hoạch IMC vào thứ 4. QA tiếp tục giám sát đợt chạy thử Pilot lần 2.
+[12:00] Dạ vâng ạ. Chúng em chào sếp.
+[12:05] Chào mọi người. Chúc cuối tuần vui vẻ nhưng đừng quên deadline nhé!
+
+<|output|>
+# Nghiên cứu và phát triển dòng sữa hạt dinh dưỡng thế hệ mới "Green Nutri 2025"
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt công thức phối trộn (Formula) cho 3 dòng sản phẩm sữa hạt chủ đạo: Hạnh nhân óc chó, Hạt sen yến mạch và Macca hạt điều.
+- Giải quyết các thách thức kỹ thuật trong quy trình tiệt trùng UHT và đồng hóa áp suất cao để đảm bảo độ ổn định sản phẩm.
+- Thống nhất chiến lược Marketing, bao bì, giá bán và lộ trình ra mắt sản phẩm (Launch Plan).
+- Thiết lập quy trình kiểm soát chất lượng (QA/QC) nghiêm ngặt từ khâu nguyên liệu đầu vào đến khâu xử lý nước thải và phụ phẩm.
+
+### 2. Các vấn đề đã thảo luận
+- **Công thức & Dinh dưỡng:** Hàm lượng hạt nguyên chất đạt 15% (cao nhất thị trường). Bổ sung Canxi tảo biển, Vitamin D3, K2. Thay thế đường tinh luyện bằng đường cỏ ngọt Stevia. Điều chỉnh dòng hạt sen yến mạch để giảm độ ngấy theo phản hồi từ Sensory Test.
+- **Kỹ thuật sản xuất:** 
+    - Công nghệ nghiền siêu mịn (Ultra-fine grinding) để đạt mouthfeel tối ưu.
+    - Xử lý hiện tượng "Burn-on" khi tiệt trùng UHT bằng hệ ổn định tự nhiên (Carrageenan, Pectin).
+    - Đồng hóa ở áp suất 250 bar để tránh tách béo/tách lớp.
+    - Quy trình CIP (Cleaning in Place) nghiêm ngặt để đảm bảo vô trùng tuyệt đối.
+- **Quản lý chất lượng:** Kiểm soát 100% dư lượng thuốc BVTV, nấm mốc (Aflatoxin) và Non-GMO. Thực hiện thử nghiệm hạn sử dụng cấp tốc (Accelerated shelf-life test) trong 1 tháng.
+- **Marketing & Bao bì:** Sử dụng hộp giấy SIG Combibloc có nắp vặn, tích hợp QR Code truy xuất nguồn gốc. Chiến dịch IMC tập trung vào Storytelling và trải nghiệm VR tại nhà máy.
+- **Tài chính & Kinh tế tuần hoàn:** Giá bán dự kiến cao hơn đối thủ 5.000đ/hộp do chất lượng vượt trội. Tận dụng bã hạt làm thức ăn gia súc để tối ưu chi phí và bảo vệ môi trường.
+
+### 3. Kết luận và quyết định
+- Phê duyệt khung công thức và các giải pháp kỹ thuật tiệt trùng UHT.
+- Chốt lộ trình Launch sản phẩm vào tháng 03/2025.
+- Đồng ý mức giá bán lẻ cao cấp đi kèm chiến lược truyền thông nhấn mạnh vào hàm lượng dinh dưỡng.
+- QA/QC chịu trách nhiệm giám sát đợt chạy thử Pilot lần 2 và quy trình CIP tổng lực.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hiệu chỉnh công thức dòng Hạt sen yến mạch (giảm ngấy) | Minh (R&D) | 02/12/2024 |
+| Chốt dự toán ngân sách Event ra mắt và kế hoạch IMC | Tiên (Marketing) | 04/12/2024 |
+| Thực hiện đợt chạy thử Pilot lần 2 trên dây chuyền Tetra Pak | Team Sản xuất | 10/12/2024 |
+| Bắt đầu thử nghiệm Shelf-life cấp tốc (Incubation) | Team QA/QC | 05/12/2024 |
+| Thiết kế chi tiết bao bì và QR Code truy xuất nguồn gốc | Team Design | 15/12/2024 |
+| Kiểm tra năng lực cung ứng và chứng chỉ Non-GMO của đối tác | Phòng Thu mua | 08/12/2024 |
+| Hoàn thiện SOP cho quy trình CIP và xử lý phụ phẩm bã hạt | Team QA/QC | 20/12/2024 |
+| Tuyển chọn các Hot Moms và Bác sĩ dinh dưỡng cho chiến dịch | Mai (PR) | 25/12/2024 |
+| Đăng ký bản quyền công thức và công bố chất lượng sản phẩm | Phòng Pháp chế | 15/01/2025 |
+| Xây dựng hệ thống báo cáo sản lượng và tồn kho Real-time | Team IT | 30/12/2024 |

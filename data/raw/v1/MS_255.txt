@@ -1,0 +1,49 @@
+<|input|>
+[09:00] Chào chị Mai, chào anh Đức và các bạn trong phòng Kế toán. Hôm nay chúng ta họp khẩn để rà soát lại toàn bộ chứng từ thuế cho đợt kiểm toán quyết toán thuế 3 năm (2022-2024) sắp tới. Chị Mai có thể cho biết tiến độ chuẩn bị hồ sơ của team mình đến đâu rồi không?
+[09:05] Chào anh Hùng, chào cả team. Hiện tại chúng tôi đã tập hợp được khoảng 90% hóa đơn đầu vào và đầu ra. Tuy nhiên, đang có một vấn đề lớn ở mảng chi phí tiếp khách và chi phí đi công tác. Nhiều hóa đơn không có bảng kê chi tiết hoặc mục đích đi công tác không rõ ràng so với hoạt động kinh doanh của công ty. Nếu không xử lý kỹ, cơ quan thuế rất dễ loại các khoản chi phí này ra khỏi chi phí hợp lý khi tính thuế TNDN.
+[09:10] Chào chị Mai, tôi là Đức bên bộ phận Nhân sự. Tôi muốn bổ sung là phần hồ sơ quyết toán thuế TNCN cho các chuyên gia nước ngoài cũng đang gặp rắc rối. Do thay đổi về quy định cư trú và các khoản phụ cấp nhà ở, việc tính toán số thuế phải nộp đang có sự chênh lệch giữa phần mềm của chúng ta và hướng dẫn mới nhất từ Cục thuế. Chúng ta cần rà soát lại các hợp đồng lao động và phụ lục đi kèm.
+[09:15] Cảm ơn Đức. Vấn đề của chuyên gia nước ngoài rất nhạy cảm, chúng ta không được để xảy ra sai sót dẫn đến phạt chậm nộp hoặc vi phạm pháp luật thuế. Chào chị Mai, tôi là Linh, chuyên viên kế toán thanh toán. Em thấy phần hoàn thuế GTGT cho dự án đầu tư mới tại Long An cũng đang bị treo. Bên chi cục thuế yêu cầu cung cấp thêm biên bản nghiệm thu giai đoạn và chứng từ thanh toán qua ngân hàng đối với các hóa đơn trên 20 triệu đồng. Em đã chuẩn bị nhưng chưa đủ bộ.
+[09:20] Linh cần ưu tiên hoàn thiện bộ hồ sơ này ngay trong tuần. Việc hoàn thuế sẽ giúp công ty có thêm dòng tiền cho hoạt động sản xuất. Chào mọi người, tôi là Tuấn bên bộ phận Kho. Tiện đây tôi muốn báo cáo về sự lệch giữa kho vật lý và sổ sách kế toán mà chị Mai đã nhắc hôm trước. Sau khi kiểm kê lại, chúng tôi phát hiện một lượng hàng hỏng hóc chưa được lập biên bản thanh lý đúng quy định. Nếu không có biên bản này, chi phí hủy hàng sẽ không được trừ khi quyết toán thuế.
+[09:25] Đúng vậy anh Tuấn. Chào anh Hùng, tôi đề xuất chúng ta lập ngay một hội đồng kiểm kê và thanh lý hàng hỏng trong tuần này. Chị Linh sẽ hỗ trợ anh Tuấn về mặt thủ tục giấy tờ kế toán để đảm bảo đúng quy định của thông tư 78. Ngoài ra, tôi muốn nhắc Đức về việc chốt số liệu bảo hiểm xã hội, vì nó liên quan trực tiếp đến phần chi phí tiền lương được trừ.
+[09:30] Chào chị Mai, em đã liên hệ với bên bảo hiểm rồi, dự kiến thứ Năm này sẽ có bản đối chiếu cuối cùng. Tuy nhiên, em lo ngại về phần chi phí trang phục cho nhân viên. Năm ngoái chúng ta chi bằng tiền mặt vượt mức 5 triệu đồng/người/năm cho một số bộ phận. Khoản vượt này chắc chắn sẽ bị loại.
+[09:35] Khoản nào vượt thì chúng ta tự giác loại ra khi lập tờ khai quyết toán để tránh bị phạt vi phạm hành chính về thuế. Chào mọi người, tôi là Sơn bên bộ phận Pháp chế. Tôi lưu ý thêm về các giao dịch liên kết. Năm nay chúng ta có phát sinh giao dịch cho vay nội bộ với công ty mẹ ở Singapore. Chúng ta bắt buộc phải lập hồ sơ xác định giá giao dịch liên kết theo Nghị định 132. Đây là mảng mà cơ quan thuế sẽ soi rất kỹ.
+[09:40] Cảm ơn Sơn đã cảnh báo. Chào chị Mai, chị xem xét thuê đơn vị tư vấn thuế bên ngoài để soát xét lại hồ sơ giao dịch liên kết này nhé. Chúng ta không đủ chuyên môn để tự làm phần này một cách an toàn. Anh Hùng thấy sao ạ?
+[09:45] Tôi đồng ý. Chị Mai chủ động liên hệ với các đơn vị Big4 hoặc các công ty tư vấn uy tín để lấy báo giá ngay. Về phía nhân sự của chúng ta, từ nay đến lúc kiểm toán, tôi yêu cầu mọi người tập trung 100% sức lực. Các bộ phận liên quan như Kho, Nhân sự, Pháp chế phải phối hợp chặt chẽ với Kế toán.
+[09:50] Vâng anh Hùng, chúng tôi sẽ lập nhóm Zalo chung để cập nhật tiến độ hàng ngày. Chào mọi người, chúng ta cố gắng hoàn thành kỳ quyết toán này một cách suôn sẻ nhất.
+[09:55] Cảm ơn tất cả mọi người. Buổi họp hôm nay rất cụ thể và rõ ràng. Chúng ta giải tán và bắt tay vào việc thôi.
+
+<|output|>
+# Rà soát hồ sơ quyết toán thuế giai đoạn 2022-2024
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tiến độ chuẩn bị hồ sơ cho đợt kiểm toán quyết toán thuế TNDN, TNCN và GTGT.
+- Nhận diện các rủi ro về chi phí không hợp lệ và sai sót trong chứng từ.
+- Thống nhất phương án xử lý các vấn đề tồn đọng và thuê đơn vị tư vấn chuyên nghiệp.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí doanh nghiệp: Hóa đơn tiếp khách và công tác thiếu chứng từ chứng minh mục đích kinh doanh.
+- Thuế TNCN: Sai sót trong tính toán thuế cho chuyên gia nước ngoài do thay đổi quy định và hợp đồng lao động.
+- Hoàn thuế GTGT: Hồ sơ dự án Long An bị thiếu chứng từ nghiệm thu và thanh toán ngân hàng.
+- Quản lý kho: Chênh lệch kho và hàng hỏng chưa có biên bản thanh lý hợp lệ để tính vào chi phí.
+- Chi phí tiền lương: Một số bộ phận chi trang phục vượt định mức 5 triệu đồng/người/năm.
+- Giao dịch liên kết: Phát sinh khoản vay nội bộ với công ty mẹ, cần lập hồ sơ theo Nghị định 132.
+
+### 3. Kết luận và quyết định
+- Thuê đơn vị tư vấn thuế bên ngoài để thực hiện hồ sơ giao dịch liên kết và soát xét tổng thể.
+- Lập hội đồng kiểm kê và thanh lý hàng hỏng ngay trong tuần này để hợp thức hóa chi phí.
+- Tự giác loại bỏ các khoản chi vượt định mức (trang phục, tiếp khách thiếu chứng từ) khi lập tờ khai.
+- Thành lập nhóm tác chiến liên bộ phận (Kế toán, Nhân sự, Pháp chế, Kho) để hoàn thiện hồ sơ.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thu thập báo giá và chọn đơn vị tư vấn thuế | Chị Mai (Kế toán) | 28/03/2025 |
+| Hoàn thiện bộ hồ sơ hoàn thuế GTGT dự án Long An | Chị Linh (Kế toán) | 26/03/2025 |
+| Kiểm kê, lập biên bản thanh lý hàng hỏng | Anh Tuấn (Kho) & Chị Linh | 27/03/2025 |
+| Rà soát hồ sơ thuế TNCN chuyên gia nước ngoài | Anh Đức (Nhân sự) | 30/03/2025 |
+| Đối chiếu số liệu bảo hiểm xã hội | Anh Đức (Nhân sự) | 25/03/2025 |
+| Cung cấp hồ sơ pháp lý về giao dịch liên kết | Anh Sơn (Pháp chế) | 29/03/2025 |
+| Tổng hợp và soát xét chứng từ chi phí tiếp khách | Chị Mai (Kế toán) | 02/04/2025 |

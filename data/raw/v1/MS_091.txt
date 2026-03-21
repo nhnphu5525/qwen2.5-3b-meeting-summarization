@@ -1,0 +1,41 @@
+<|input|>
+[09:00] Chào cả nhà, hôm nay mình ngồi lại chút để xem cái tình hình lạm phát sắp tới nó thế nào, nghe chừng cũng căng đấy.
+[09:01] Dạ anh, em thấy mấy hôm nay giá xăng dầu cứ nhích dần, mà cái này nó kéo theo đủ thứ, từ vận chuyển đến nguyên liệu đầu vào.
+[09:03] Ừ, đúng rồi đấy. Mà mọi người thấy không, chỉ số CPI tháng vừa rồi tăng nhẹ, tuy chưa báo động nhưng cũng phải dè chừng.
+[09:04] Em lo nhất là mấy cái nhóm hàng thực phẩm ấy ạ, giá thịt cá ngoài chợ bắt đầu rục rịch tăng rồi, dân mình bắt đầu than thở rồi.
+[09:06] À thì... mình cũng phải tính đến chuyện lãi suất ngân hàng nữa chứ nhỉ? Nếu lạm phát cao quá thì khả năng ngân hàng trung ương lại siết lại.
+[09:07] Đúng rồi, nếu mà lãi suất tăng thì doanh nghiệp mình lại mệt, chi phí vay vốn lại đội lên thôi.
+[09:09] Thế nên bộ phận phân tích phải bám sát cái báo cáo của Tổng cục Thống kê, đừng để bị động quá.
+[09:10] Vâng, em đang cập nhật dữ liệu hàng ngày đây ạ, dự báo là quý tới sẽ có nhiều biến động khó lường đấy.
+[09:12] Anh nghĩ là mình nên chuẩn bị sẵn phương án dự phòng chi phí, chứ cứ để nước đến chân mới nhảy là không kịp đâu.
+[09:13] Dạ, để em trao đổi thêm với bên tài chính xem sao, coi như là làm cái kịch bản ứng phó trước đi cho chắc.
+[09:15] Okay, thế thống nhất vậy nhé, có gì báo cáo anh sớm.
+[09:16] Vâng ạ.
+
+<|output|>
+# Dự báo tình hình lạm phát và tác động kinh tế
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá diễn biến lạm phát hiện tại và các yếu tố ảnh hưởng.
+- Thảo luận về nguy cơ tăng giá hàng hóa và tác động của lãi suất ngân hàng.
+- Đề xuất các biện pháp chuẩn bị và ứng phó cho doanh nghiệp.
+
+### 2. Các vấn đề đã thảo luận
+- Giá xăng dầu tăng dẫn đến tăng chi phí vận chuyển và nguyên liệu đầu vào.
+- Chỉ số CPI tháng vừa qua tăng nhẹ; giá nhóm hàng thực phẩm bắt đầu rục rịch tăng.
+- Mối lo ngại về việc ngân hàng trung ương có thể tăng lãi suất để kiềm chế lạm phát, gây khó khăn cho việc vay vốn doanh nghiệp.
+- Sự cần thiết của việc theo dõi sát sao dữ liệu từ Tổng cục Thống kê.
+
+### 3. Kết luận và quyết định
+- Giao bộ phận phân tích cập nhật dữ liệu hàng ngày để kịp thời dự báo biến động quý tới.
+- Yêu cầu xây dựng kịch bản ứng phó và phương án dự phòng chi phí để đảm bảo tính chủ động cho doanh nghiệp.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Cập nhật dữ liệu CPI và giá xăng dầu hàng ngày | Bộ phận Phân tích | Chưa rõ |
+| Xây dựng kịch bản ứng phó biến động chi phí | Bộ phận Tài chính | 30/11/2025 |
+| Báo cáo chi tiết về dự báo lạm phát quý tới | Team Phân tích | 05/12/2025 |

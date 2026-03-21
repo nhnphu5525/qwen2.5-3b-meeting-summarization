@@ -1,0 +1,50 @@
+<|input|>
+[09:00] Chào mọi người, hôm nay team Tech chúng ta họp để chốt phương án di chuyển toàn bộ hệ thống từ On-premise lên Cloud (AWS).
+[09:02] Vâng, hiện tại server vật lý của mình đã khá cũ, chi phí bảo trì hàng năm đang tăng vọt, chưa kể rủi ro về phần cứng khi có sự cố.
+[09:05] Tôi đã khảo sát qua thì phương pháp Lift-and-Shift có vẻ nhanh nhất, nhưng về lâu dài nó không tối ưu được chi phí trên Cloud.
+[09:08] Đúng vậy, tôi đề xuất chúng ta nên Refactor lại một số service lõi sang dạng Container (Docker/K8s) để tận dụng khả năng Auto-scaling.
+[09:11] Nếu làm vậy thì thời gian migration sẽ kéo dài hơn dự kiến ban đầu khoảng 2 tháng đấy. Chúng ta có đủ nhân lực không?
+[09:14] Team DevOps hiện có 3 người, nếu tập trung toàn lực thì tôi nghĩ vẫn khả thi. Quan trọng là khâu chuyển đổi database.
+[09:17] Database hiện tại đang dùng SQL Server bản cũ, lên Cloud mình nên chuyển sang RDS hoặc Aurora để quản lý cho nhàn.
+[09:20] Tuy nhiên, cần kiểm tra lại tính tương thích của các stored procedures cũ. Nếu không chạy được trên RDS thì mệt lắm.
+[09:23] Về bảo mật, chúng ta phải thiết lập VPC, IAM role và các chính sách mã hóa dữ liệu ngay từ đầu.
+[09:26] Tôi muốn team Security tham gia vào ngay từ bước design kiến trúc để tránh các lỗ hổng về sau.
+[09:29] Chi phí dự kiến hàng tháng trên Cloud có thể rơi vào khoảng 5000 USD nếu chạy full load. Sếp có duyệt mức này không?
+[09:32] Nếu so với chi phí mua mới server và tiền điện, tiền vận hành phòng máy thì con số này vẫn tiết kiệm được khoảng 20%.
+[09:35] Vậy chốt lại là tuần tới chúng ta sẽ làm một bản Proof of Concept (PoC) cho service quan trọng nhất trước.
+[09:38] Sau khi PoC thành công, mình mới lên lộ trình chi tiết cho các service còn lại.
+[09:41] Team Backend cần chuẩn bị tài liệu API và các luồng tích hợp để không bị gián đoạn dịch vụ khi switch.
+[09:44] Deadline cho bản PoC là ngày 10 tháng sau nhé. Mọi người cố gắng.
+
+<|output|>
+# Kế hoạch di chuyển hệ thống lên nền tảng Cloud
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất phương án di chuyển hệ thống từ server vật lý lên Cloud (AWS).
+- Đánh giá các phương pháp migration (Lift-and-Shift vs Refactor) và dự toán chi phí.
+
+### 2. Các vấn đề đã thảo luận
+- Server vật lý cũ, chi phí bảo trì cao và rủi ro phần cứng lớn.
+- So sánh phương án Lift-and-Shift (nhanh nhưng không tối ưu) và Refactor sang Container (bền vững nhưng tốn thời gian).
+- Thách thức trong việc chuyển đổi database SQL Server lên RDS/Aurora.
+- Yêu cầu về bảo mật (VPC, IAM, mã hóa dữ liệu) và sự tham gia của team Security.
+- Dự toán kinh phí vận hành hàng tháng trên Cloud khoảng 5000 USD.
+- Sự cần thiết của việc thực hiện Proof of Concept (PoC) trước khi triển khai diện rộng.
+
+### 3. Kết luận và quyết định
+- Lựa chọn hướng Refactor một phần hệ thống sang Container để tối ưu lâu dài.
+- Triển khai PoC cho service quan trọng nhất để đánh giá tính khả thi.
+- Team Security phối hợp thiết kế kiến trúc bảo mật ngay từ đầu.
+- Phê duyệt chủ trương di chuyển dựa trên phân tích hiệu quả chi phí.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế kiến trúc Cloud và bảo mật | Team DevOps & Security | 28/03/2026 |
+| Triển khai Proof of Concept (PoC) | Team Backend | 10/04/2026 |
+| Kiểm tra tương thích Stored Procedures | Team Database | 05/04/2026 |
+| Lập bảng so sánh chi tiết chi phí vận hành | Manager Tech | 25/03/2026 |
+| Chuẩn bị môi trường staging trên AWS | Team DevOps | 01/04/2026 |

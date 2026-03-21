@@ -1,0 +1,56 @@
+<|input|>
+[14:00] Chào team Product và Tech. Buổi họp hôm nay cực kỳ quan trọng vì tỷ lệ rớt đơn (drop-off rate) ở bước thanh toán trên app mình đang tăng vọt lên 45%. Chúng ta cần mổ xẻ nguyên nhân ngay.
+[14:02] Dạ, em đã chạy phân tích heatmap và session recording. Có vẻ như người dùng đang gặp khó khăn ở cái form điền thông tin giao hàng. Nó quá dài và nhiều trường không cần thiết.
+[14:04] Ờ... anh cũng thấy vậy. Tại sao mình không dùng tính năng tự động gợi ý địa chỉ theo Google Maps API cho nhanh? Khách chỉ cần gõ mấy chữ là nó ra địa chỉ luôn.
+[14:06] Vâng anh, cái đó em đã đưa vào backlog rồi. Nhưng vấn đề lớn hơn là tốc độ load trang thanh toán. Hiện tại mất trung bình 5-7 giây để load xong các phương thức thanh toán. Khách họ không đủ kiên nhẫn đâu, 3 giây là họ thoát rồi.
+[14:08] 5-7 giây? Sao lâu thế hả Quân? Server mình đang gặp vấn đề gì à?
+[14:10] Dạ không hẳn là server ạ. Do mình đang gọi quá nhiều API từ các đối tác thanh toán cùng một lúc để check khuyến mãi và trạng thái ví. Em đề xuất mình sẽ chuyển sang cơ chế load bất đồng bộ (async load). Cái nào xong trước hiện trước, đừng bắt khách đợi cả đám.
+[14:12] Đồng ý. Còn vụ tích hợp thêm cổng thanh toán Apple Pay và Google Pay thì sao? Anh thấy đối thủ họ làm hết rồi, mình vẫn lẹt đẹt mấy cái thẻ nội địa với ví MoMo.
+[14:14] Apple Pay thì mình đang chờ phía ngân hàng đối tác xác thực chứng chỉ bảo mật. Dự kiến mất khoảng 2 tuần nữa. Còn Google Pay thì xong rồi, chỉ cần bật switch là chạy thôi ạ.
+[14:16] Tốt! Quân lưu ý tối ưu cái UI cho bước chọn voucher nhé. Hiện tại danh sách voucher hiện ra lộn xộn quá, khách chả biết cái nào áp dụng được cái nào không.
+[14:18] Em định sẽ thêm bộ lọc "Áp dụng được ngay" lên đầu. Những voucher nào không đủ điều kiện thì làm mờ đi (gray out) và ghi rõ lý do tại sao không dùng được (ví dụ: chưa đủ giá trị đơn hàng tối thiểu). Chị thấy sao?
+[14:20] Được đấy. À, còn cái vụ đăng nhập bằng sinh trắc học (FaceID/Vân tay) để xác nhận thanh toán. Mình làm đến đâu rồi? Nó sẽ giúp giảm bớt bước nhập mã OTP phiền phức cho các đơn hàng giá trị nhỏ.
+[14:22] Tính năng này đã test xong ở môi trường Staging rồi ạ. Nếu sếp duyệt thì tuần sau em cho đẩy lên bản Beta để người dùng trải nghiệm thử.
+[14:24] Duyệt luôn. Tóm lại là: 1. Rút gọn form địa chỉ, tích hợp Map API. 2. Tối ưu tốc độ load trang thanh toán dưới 2 giây. 3. Launch Google Pay và Apple Pay. 4. Cải thiện UX chọn voucher. 5. Triển khai sinh trắc học.
+[14:26] Về phần UI, em nhờ chị Lan bên Design rà soát lại các nút bấm (Call to Action). Nút "Thanh toán ngay" hiện tại màu hơi nhạt, không nổi bật trên nền trắng của app.
+[14:28] OK Quân, chị sẽ cho đổi sang màu cam thương hiệu và thêm hiệu ứng đổ bóng cho nó bắt mắt hơn. Tiện thể chị cũng làm lại cái trang "Cảm ơn" (Order Success) cho nó sinh động, thêm mấy cái gợi ý sản phẩm liên quan vào đó luôn.
+[14:30] Đúng rồi, trang Order Success là nơi tốt nhất để upsell mà mình bấy lâu nay bỏ phí.
+[14:32] Vậy chốt deadline cho bản cập nhật tới là ngày 15/12 nhé. Team Tech tập trung tổng lực, không OT thì không kịp đâu.
+[14:34] Dạ vâng, tụi em sẽ cố gắng hết sức ạ.
+[14:36] Tan họp. Chúc mọi người một ngày làm việc hiệu quả.
+
+<|output|>
+# Tối ưu hóa trải nghiệm người dùng (UX/UI) và hiệu năng thanh toán trên App thương mại điện tử
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giảm tỷ lệ bỏ giỏ hàng (drop-off rate) tại bước thanh toán.
+- Tăng tốc độ tải trang và tích hợp các phương thức thanh toán hiện đại.
+- Cải thiện giao diện người dùng để tăng tính thuận tiện và tỷ lệ chuyển đổi.
+
+### 2. Các vấn đề đã thảo luận
+- Form điền địa chỉ rườm rà: Giải pháp là tích hợp Google Maps API để tự động gợi ý địa chỉ.
+- Tốc độ load trang thanh toán quá chậm (5-7s): Chuyển sang cơ chế load API bất đồng bộ để đạt mục tiêu dưới 2s.
+- Thiếu hụt các cổng thanh toán quốc tế: Apple Pay và Google Pay đang trong giai đoạn hoàn thiện cuối cùng.
+- UX chọn voucher gây bối rối: Cần phân loại voucher khả dụng và làm mờ các voucher không đủ điều kiện.
+- Xác thực thanh toán bằng sinh trắc học (FaceID/Fingerprint) để thay thế OTP cho các đơn hàng nhỏ.
+- Nút Call to Action (CTA) chưa đủ nổi bật và trang "Order Success" chưa được khai thác để upsell.
+
+### 3. Kết luận và quyết định
+- Ưu tiên tối ưu hóa mã nguồn để giảm thời gian load trang thanh toán xuống dưới 2 giây.
+- Triển khai xác thực sinh trắc học trên bản Beta vào tuần tới.
+- Thay đổi thiết kế nút "Thanh toán ngay" sang màu cam thương hiệu để tăng sự chú ý.
+- Chốt ngày 15/12/2024 ra mắt bản cập nhật app mới nhất bao gồm tất cả các cải tiến trên.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tích hợp Google Maps API vào form địa chỉ | Quân (Tech) | 05/12/2024 |
+| Tối ưu API gọi bất đồng bộ cho trang Checkout | Quân (Tech) | 08/12/2024 |
+| Thiết kế lại UI danh sách voucher và nút CTA | Chị Lan (Design) | 03/12/2024 |
+| Hoàn tất xác thực Apple Pay với ngân hàng | Quân (Tech) | 12/12/2024 |
+| Deploy tính năng sinh trắc học lên bản Beta | Team Tech | 01/12/2024 |
+| Thiết kế lại trang Order Success tích hợp gợi ý sản phẩm | Chị Lan (Design) | 07/12/2024 |
+| Kiểm thử tổng thể (QA/QC) bản cập nhật mới | Team Product | 14/12/2024 |

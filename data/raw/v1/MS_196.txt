@@ -1,0 +1,54 @@
+<|input|>
+[09:00] Chào buổi sáng, chúng ta bắt đầu họp về dự án "Văn phòng xanh" và quy trình xử lý rác thải của công ty mình nhé.
+[09:02] Tôi thấy thùng rác văn phòng hiện nay mọi người vẫn vứt lẫn lộn hết cả, từ thức ăn thừa đến giấy tờ, chai nhựa.
+[09:04] Đúng thế, việc phân loại rác tại nguồn là bước đầu tiên và quan trọng nhất nếu muốn thực hiện sống xanh.
+[09:06] Tôi đề xuất thay thế toàn bộ thùng rác đơn bằng các bộ thùng rác phân loại 3 màu: rác tái chế, rác hữu cơ và rác khác.
+[09:08] Phải có bảng hướng dẫn dán ngay phía trên mỗi thùng rác nữa, chứ nhiều người vẫn không biết cái gì là tái chế được đâu.
+[09:10] Còn vụ ly nhựa với ống hút dùng một lần thì sao? Mỗi ngày bếp công ty mình thải ra hàng trăm cái đấy.
+[09:12] Hay là mình tặng mỗi nhân viên một bộ bình giữ nhiệt và ống hút inox có khắc tên họ?
+[10:14] Ý tưởng này tuyệt đấy, vừa giúp giảm rác thải nhựa vừa làm quà tặng kỷ niệm gắn kết mọi người.
+[10:16] Tuy nhiên chi phí cho 300 bộ bình cũng khá lớn, mình cần lấy từ ngân sách phúc lợi hay ngân sách vận hành?
+[10:18] Có thể lấy từ ngân sách truyền thông nội bộ, vì đây cũng là một cách xây dựng văn hóa công ty.
+[10:20] Về phần rác thải điện tử như pin cũ, mực in, linh kiện hỏng, tuyệt đối không được vứt vào thùng rác thường.
+[10:22] Cần bố trí một khu vực thu gom riêng định kỳ hàng tháng và thuê đơn vị có chức năng xử lý chất thải nguy hại đến lấy.
+[10:24] Ngoài ra, việc dùng giấy in cũng cần tiết kiệm lại, khuyến khích mọi người đọc tài liệu trên Ipad hoặc máy tính.
+[10:26] Thiết lập chế độ in hai mặt mặc định cho tất cả các máy in trong văn phòng.
+[10:28] Cuối tháng mình sẽ có giải thưởng "Phòng ban xanh nhất" cho đơn vị nào thực hiện tốt nhất các quy định này.
+[10:30] Ok, chốt vậy nhé. Phòng hành chính bắt đầu mua sắm thùng rác mới và bình giữ nhiệt đi.
+[10:32] Chúng tôi sẽ ra thông báo chính thức vào thứ 2 tuần sau.
+
+<|output|>
+# Triển khai dự án Văn phòng xanh và phân loại rác thải
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng môi trường làm việc thân thiện với môi trường và bền vững.
+- Thiết lập quy trình phân loại rác tại nguồn và xử lý chất thải đặc thù.
+- Nâng cao nhận thức và thay đổi thói quen sử dụng đồ nhựa dùng một lần của nhân viên.
+
+### 2. Các vấn đề đã thảo luận
+- Thực trạng vứt rác lẫn lộn gây khó khăn cho việc xử lý và tái chế.
+- Thay đổi hệ thống thùng rác đơn sang thùng rác phân loại có hướng dẫn cụ thể.
+- Giải pháp thay thế ly nhựa bằng bình giữ nhiệt cá nhân có khắc tên nhân viên.
+- Phân bổ ngân sách mua sắm quà tặng từ quỹ truyền thông nội bộ.
+- Quy trình thu gom và xử lý rác thải điện tử và chất thải nguy hại.
+- Chính sách tiết kiệm giấy in thông qua số hóa và cài đặt in hai mặt mặc định.
+- Cơ chế thi đua khen thưởng cho các đơn vị thực hiện tốt lối sống xanh.
+
+### 3. Kết luận và quyết định
+- Triển khai lắp đặt bộ thùng rác phân loại tại tất cả các khu vực làm việc và giải trí.
+- Đặt mua bình giữ nhiệt cá nhân làm quà tặng cho toàn bộ nhân sự công ty.
+- Ký hợp đồng với đơn vị xử lý chất thải nguy hại định kỳ hàng tháng.
+- Ban hành quy định về tiết kiệm tài nguyên văn phòng và tiêu chí chấm điểm "Phòng ban xanh".
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Mua sắm và lắp đặt hệ thống thùng rác phân loại | Phòng Hành chính | 28/03/2026 |
+| Đặt thiết kế và sản xuất bình giữ nhiệt cá nhân | Phòng Truyền thông | 05/04/2026 |
+| Liên hệ đơn vị xử lý rác thải điện tử chuyên dụng | Phòng Hành chính | 30/03/2026 |
+| Thiết lập cấu hình in hai mặt cho toàn hệ thống | Phòng IT | 22/03/2026 |
+| Soạn thảo và ban hành quy chế "Văn phòng xanh" | Phòng Nhân sự | 24/03/2026 |
+| Tổng kết và trao giải phòng ban xanh đợt 1 | Ban Giám đốc | 30/04/2026 |

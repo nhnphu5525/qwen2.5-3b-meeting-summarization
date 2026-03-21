@@ -1,0 +1,331 @@
+<|input|>
+[09:00] Vâng Tôi đề xuất chốt hạn chót cho logistics là cuối tháng này được không?
+[09:02] Mọi người nghĩ sao nếu mình đổi phương án cho đặt hàng?
+[09:06] Cảm ơn mọi người, buổi họp hôm nay về Chuỗi cung ứng rất hiệu quả.
+[09:03] À Bên khách hàng họ cứ hối thúc vụ chuỗi giá trị suốt.
+[09:12] Chào mọi người, chúng ta tiếp tục bàn về chuỗi giá trị nhé.
+[09:05] Nói chung là Tôi lo là logistics sẽ tốn nhiều chi phí hơn dự kiến.
+[09:06] Mọi người nghĩ sao nếu mình đổi phương án cho chuỗi giá trị?
+[09:07] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về vận chuyển.
+[09:08] Về phần nhà cung cấp ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[09:09] À Nhưng mà còn cái logistics thì tính sao đây? Sắp hết hạn rồi.
+[09:10] Để tôi gửi tài liệu về vận chuyển cho mọi người qua email sau buổi họp.
+[09:11] Không sao, mình có thể tối ưu lại phần đặt hàng mà.
+[09:12] À Để tôi gửi tài liệu về nhà cung cấp cho mọi người qua email sau buổi họp.
+[09:39] Dạ Để tôi gửi tài liệu về logistics cho mọi người qua email sau buổi họp.
+[09:14] Mọi người cứ thoải mái đóng góp ý kiến về nhà cung cấp đi.
+[09:30] Ờm Tôi thấy vấn đề kho vận này quan trọng phết, cần xử lý sớm.
+[09:48] Dạ Tôi đề xuất chốt hạn chót cho đặt hàng là cuối tháng này được không?
+[09:34] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về nhà cung cấp.
+[09:36] Nhưng mà còn cái logistics thì tính sao đây? Sắp hết hạn rồi.
+[09:38] Chào mọi người, chúng ta tiếp tục bàn về chuỗi giá trị nhé.
+[09:40] Về phần kho vận ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[09:21] Đúng rồi, tôi cũng nghĩ thế, cái logistics nên được ưu tiên.
+[10:06] À còn một việc nữa là cái đặt hàng, mọi người thấy ổn chưa?
+[09:46] Đúng rồi, tôi cũng nghĩ thế, cái chuỗi giá trị nên được ưu tiên.
+[09:48] Mọi người nghĩ sao nếu mình đổi phương án cho quản lý tồn kho?
+[09:25] Để tôi gửi tài liệu về nhà cung cấp cho mọi người qua email sau buổi họp.
+[09:26] À còn một việc nữa là cái logistics, mọi người thấy ổn chưa?
+[09:27] Tôi thấy vấn đề vận chuyển này quan trọng phết, cần xử lý sớm.
+[10:24] Dạ Mong là lần này quản lý tồn kho sẽ ổn thỏa hơn mấy lần trước.
+[09:58] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:30] Tuần tới mình tập trung dứt điểm cái kho vận đi cho xong.
+[10:33] Thì Về phần nhà cung cấp ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[10:36] Để tôi check lại mấy cái số liệu của vận chuyển rồi báo lại cả nhà sau.
+[10:06] À còn một việc nữa là cái logistics, mọi người thấy ổn chưa?
+[10:08] Thì đấy Cảm ơn mọi người, buổi họp hôm nay về Chuỗi cung ứng rất hiệu quả.
+[10:10] Để tôi check lại mấy cái số liệu của chuỗi giá trị rồi báo lại cả nhà sau.
+[10:12] Nói chung là Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về kho vận.
+[09:37] Hiện tại cái đặt hàng đang bị chậm tiến độ một chút vì thiếu người.
+[10:54] Không sao, mình có thể tối ưu lại phần kho vận mà.
+[10:18] Về phần nhà cung cấp ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[11:00] Nhưng mà còn cái kho vận thì tính sao đây? Sắp hết hạn rồi.
+[11:03] Hiện tại cái logistics đang bị chậm tiến độ một chút vì thiếu người.
+[09:42] À Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[11:09] Nói chung là À còn một việc nữa là cái đặt hàng, mọi người thấy ổn chưa?
+[10:28] Đúng rồi, tôi cũng nghĩ thế, cái chuỗi giá trị nên được ưu tiên.
+[11:15] Hiện tại cái vận chuyển đang bị chậm tiến độ một chút vì thiếu người.
+[10:32] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:47] Tôi đề xuất chốt hạn chót cho logistics là cuối tháng này được không?
+[10:36] À còn một việc nữa là cái kho vận, mọi người thấy ổn chưa?
+[10:38] Không sao, mình có thể tối ưu lại phần logistics mà.
+[09:50] Ờm À còn một việc nữa là cái quản lý tồn kho, mọi người thấy ổn chưa?
+[09:51] Chào mọi người, chúng ta tiếp tục bàn về logistics nhé.
+[09:52] Dạ Không sao, mình có thể tối ưu lại phần vận chuyển mà.
+[10:46] Thực ra Bên khách hàng họ cứ hối thúc vụ chuỗi giá trị suốt.
+[11:42] Thì đấy Để tôi gửi tài liệu về quản lý tồn kho cho mọi người qua email sau buổi họp.
+[11:45] Ờm Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[09:56] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về quản lý tồn kho.
+[10:54] Bên phòng ban họ cứ hối thúc vụ đặt hàng suốt.
+[09:58] Mong là lần này chuỗi giá trị sẽ ổn thỏa hơn mấy lần trước.
+[10:58] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về kho vận.
+[12:00] Thực ra Hiện tại cái logistics đang bị chậm tiến độ một chút vì thiếu người.
+[11:02] Mọi người cứ thoải mái đóng góp ý kiến về đặt hàng đi.
+[12:06] Mọi người nghĩ sao nếu mình đổi phương án cho nhà cung cấp?
+[10:03] Thì Chào mọi người, chúng ta tiếp tục bàn về chuỗi giá trị nhé.
+[12:12] Thực ra Mọi người cứ thoải mái đóng góp ý kiến về kho vận đi.
+[11:10] Dạ À còn một việc nữa là cái chuỗi giá trị, mọi người thấy ổn chưa?
+[12:18] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[10:07] Để tôi gửi tài liệu về đặt hàng cho mọi người qua email sau buổi họp.
+[10:08] À Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[10:09] Thực ra Mọi người cứ thoải mái đóng góp ý kiến về nhà cung cấp đi.
+[10:10] Mong là lần này vận chuyển sẽ ổn thỏa hơn mấy lần trước.
+[10:11] Nói chung là Nhưng mà còn cái nhà cung cấp thì tính sao đây? Sắp hết hạn rồi.
+[10:12] Tôi lo là logistics sẽ tốn nhiều chi phí hơn dự kiến.
+[10:13] Đúng rồi, tôi cũng nghĩ thế, cái quản lý tồn kho nên được ưu tiên.
+[10:14] Bên khách hàng họ cứ hối thúc vụ đặt hàng suốt.
+[12:45] Tôi thấy vấn đề đặt hàng này quan trọng phết, cần xử lý sớm.
+[12:48] Tôi đề xuất chốt hạn chót cho đặt hàng là cuối tháng này được không?
+[11:34] Mong là lần này kho vận sẽ ổn thỏa hơn mấy lần trước.
+[10:18] Bên khách hàng họ cứ hối thúc vụ vận chuyển suốt.
+[11:38] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[13:00] Mọi người nghĩ sao nếu mình đổi phương án cho kho vận?
+[13:03] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[13:06] Chào mọi người, chúng ta tiếp tục bàn về chuỗi giá trị nhé.
+[10:23] Hiện tại cái vận chuyển đang bị chậm tiến độ một chút vì thiếu người.
+[11:48] Đúng rồi, tôi cũng nghĩ thế, cái nhà cung cấp nên được ưu tiên.
+[11:50] Để tôi check lại mấy cái số liệu của logistics rồi báo lại cả nhà sau.
+[10:26] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[11:54] Nói chung là Tôi thấy vấn đề đặt hàng này quan trọng phết, cần xử lý sớm.
+[11:56] À Chào mọi người, chúng ta tiếp tục bàn về vận chuyển nhé.
+[11:58] Hiện tại cái đặt hàng đang bị chậm tiến độ một chút vì thiếu người.
+[10:30] Mọi người nghĩ sao nếu mình đổi phương án cho logistics?
+[12:02] Về phần kho vận ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[13:36] À Chào mọi người, chúng ta tiếp tục bàn về chuỗi giá trị nhé.
+[10:33] Mọi người cứ thoải mái đóng góp ý kiến về nhà cung cấp đi.
+[10:34] À Mọi người cứ thoải mái đóng góp ý kiến về quản lý tồn kho đi.
+[13:45] Về phần logistics ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[10:36] Dạ Mọi người nghĩ sao nếu mình đổi phương án cho nhà cung cấp?
+[10:37] Chào mọi người, chúng ta tiếp tục bàn về chuỗi giá trị nhé.
+[12:16] Hiện tại cái nhà cung cấp đang bị chậm tiến độ một chút vì thiếu người.
+[13:57] Mọi người cứ thoải mái đóng góp ý kiến về quản lý tồn kho đi.
+[10:40] À Tôi lo là logistics sẽ tốn nhiều chi phí hơn dự kiến.
+[10:41] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về kho vận.
+[14:06] Tuần tới mình tập trung dứt điểm cái vận chuyển đi cho xong.
+[12:26] À Không sao, mình có thể tối ưu lại phần đặt hàng mà.
+[12:28] À À còn một việc nữa là cái nhà cung cấp, mọi người thấy ổn chưa?
+[14:15] Để tôi check lại mấy cái số liệu của logistics rồi báo lại cả nhà sau.
+[10:46] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về nhà cung cấp.
+[14:21] Bên khách hàng họ cứ hối thúc vụ vận chuyển suốt.
+[12:36] Hiện tại cái chuỗi giá trị đang bị chậm tiến độ một chút vì thiếu người.
+[10:49] À còn một việc nữa là cái vận chuyển, mọi người thấy ổn chưa?
+[12:40] Chào mọi người, chúng ta tiếp tục bàn về chuỗi giá trị nhé.
+[12:42] Mọi người cứ thoải mái đóng góp ý kiến về chuỗi giá trị đi.
+[14:36] Mọi người nghĩ sao nếu mình đổi phương án cho chuỗi giá trị?
+[10:53] Ờm À còn một việc nữa là cái đặt hàng, mọi người thấy ổn chưa?
+[14:42] À Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về chuỗi giá trị.
+[14:45] Để tôi gửi tài liệu về chuỗi giá trị cho mọi người qua email sau buổi họp.
+[12:52] Mong là lần này quản lý tồn kho sẽ ổn thỏa hơn mấy lần trước.
+[14:51] Thì đấy Nhưng mà còn cái chuỗi giá trị thì tính sao đây? Sắp hết hạn rồi.
+[14:54] Về phần kho vận ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[14:57] Tôi đề xuất chốt hạn chót cho đặt hàng là cuối tháng này được không?
+[13:00] Nhưng mà còn cái nhà cung cấp thì tính sao đây? Sắp hết hạn rồi.
+[13:02] Ờm Mọi người nghĩ sao nếu mình đổi phương án cho đặt hàng?
+[15:06] Đúng rồi, tôi cũng nghĩ thế, cái quản lý tồn kho nên được ưu tiên.
+[11:03] Không sao, mình có thể tối ưu lại phần nhà cung cấp mà.
+[13:08] Về phần nhà cung cấp ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[11:05] Để tôi check lại mấy cái số liệu của quản lý tồn kho rồi báo lại cả nhà sau.
+[15:18] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[13:14] Nhưng mà còn cái chuỗi giá trị thì tính sao đây? Sắp hết hạn rồi.
+[11:08] Đúng rồi, tôi cũng nghĩ thế, cái đặt hàng nên được ưu tiên.
+[11:09] Bên khách hàng họ cứ hối thúc vụ đặt hàng suốt.
+[11:10] Mọi người cứ thoải mái đóng góp ý kiến về chuỗi giá trị đi.
+[11:11] À còn một việc nữa là cái quản lý tồn kho, mọi người thấy ổn chưa?
+[15:36] Để tôi check lại mấy cái số liệu của quản lý tồn kho rồi báo lại cả nhà sau.
+[13:26] À Để tôi check lại mấy cái số liệu của vận chuyển rồi báo lại cả nhà sau.
+[13:28] Mong là lần này nhà cung cấp sẽ ổn thỏa hơn mấy lần trước.
+[15:45] Nói chung là Mọi người nghĩ sao nếu mình đổi phương án cho quản lý tồn kho?
+[11:16] Mong là lần này chuỗi giá trị sẽ ổn thỏa hơn mấy lần trước.
+[13:34] Thì đấy Tôi thấy vấn đề vận chuyển này quan trọng phết, cần xử lý sớm.
+[15:54] Tuần tới mình tập trung dứt điểm cái nhà cung cấp đi cho xong.
+[11:19] Mọi người cứ thoải mái đóng góp ý kiến về đặt hàng đi.
+[11:20] Dạ Chào mọi người, chúng ta tiếp tục bàn về kho vận nhé.
+[16:03] Để tôi gửi tài liệu về kho vận cho mọi người qua email sau buổi họp.
+[13:44] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về vận chuyển.
+[11:23] Mong là lần này nhà cung cấp sẽ ổn thỏa hơn mấy lần trước.
+[13:48] Mọi người cứ thoải mái đóng góp ý kiến về chuỗi giá trị đi.
+[11:25] Tôi thấy vấn đề đặt hàng này quan trọng phết, cần xử lý sớm.
+[11:26] Về phần đặt hàng ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[16:21] Không sao, mình có thể tối ưu lại phần quản lý tồn kho mà.
+[16:24] Tôi đề xuất chốt hạn chót cho quản lý tồn kho là cuối tháng này được không?
+[11:29] Để tôi check lại mấy cái số liệu của quản lý tồn kho rồi báo lại cả nhà sau.
+[16:30] Tôi thấy vấn đề chuỗi giá trị này quan trọng phết, cần xử lý sớm.
+[16:33] Thực ra Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về đặt hàng.
+[14:04] Bên phòng ban họ cứ hối thúc vụ logistics suốt.
+[14:06] Mong là lần này quản lý tồn kho sẽ ổn thỏa hơn mấy lần trước.
+[16:42] Để tôi check lại mấy cái số liệu của kho vận rồi báo lại cả nhà sau.
+[11:35] Thực ra Để tôi check lại mấy cái số liệu của quản lý tồn kho rồi báo lại cả nhà sau.
+[14:12] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về chuỗi giá trị.
+[11:37] Tuần tới mình tập trung dứt điểm cái chuỗi giá trị đi cho xong.
+[16:54] Tuần tới mình tập trung dứt điểm cái chuỗi giá trị đi cho xong.
+[14:18] Đúng rồi, tôi cũng nghĩ thế, cái đặt hàng nên được ưu tiên.
+[14:20] Vâng Để tôi check lại mấy cái số liệu của nhà cung cấp rồi báo lại cả nhà sau.
+[17:03] Tôi thấy vấn đề quản lý tồn kho này quan trọng phết, cần xử lý sớm.
+[17:06] Mọi người cứ thoải mái đóng góp ý kiến về đặt hàng đi.
+[11:43] Dạ Để tôi check lại mấy cái số liệu của logistics rồi báo lại cả nhà sau.
+[14:28] Mọi người nghĩ sao nếu mình đổi phương án cho kho vận?
+[11:45] Nói chung là Đúng rồi, tôi cũng nghĩ thế, cái nhà cung cấp nên được ưu tiên.
+[14:32] Không sao, mình có thể tối ưu lại phần nhà cung cấp mà.
+[17:21] Thực ra Tôi lo là vận chuyển sẽ tốn nhiều chi phí hơn dự kiến.
+[11:48] Thì Mọi người cứ thoải mái đóng góp ý kiến về nhà cung cấp đi.
+[11:49] Bên đối tác họ cứ hối thúc vụ chuỗi giá trị suốt.
+[17:30] Thì Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về chuỗi giá trị.
+[14:42] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về quản lý tồn kho.
+[11:52] Thì đấy Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về logistics.
+[14:46] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về chuỗi giá trị.
+[11:54] Để tôi check lại mấy cái số liệu của vận chuyển rồi báo lại cả nhà sau.
+[11:55] Thì đấy Để tôi check lại mấy cái số liệu của đặt hàng rồi báo lại cả nhà sau.
+[14:52] Tôi lo là kho vận sẽ tốn nhiều chi phí hơn dự kiến.
+[11:57] Thì đấy Mọi người cứ thoải mái đóng góp ý kiến về quản lý tồn kho đi.
+[14:56] Ờm Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về quản lý tồn kho.
+[14:58] Để tôi gửi tài liệu về logistics cho mọi người qua email sau buổi họp.
+[15:00] Để tôi check lại mấy cái số liệu của logistics rồi báo lại cả nhà sau.
+[18:03] Bên khách hàng họ cứ hối thúc vụ vận chuyển suốt.
+[15:04] À còn một việc nữa là cái vận chuyển, mọi người thấy ổn chưa?
+[18:09] Tôi lo là kho vận sẽ tốn nhiều chi phí hơn dự kiến.
+[15:08] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về chuỗi giá trị.
+[18:15] Hiện tại cái quản lý tồn kho đang bị chậm tiến độ một chút vì thiếu người.
+[15:12] Đúng rồi, tôi cũng nghĩ thế, cái vận chuyển nên được ưu tiên.
+[18:21] Không sao, mình có thể tối ưu lại phần nhà cung cấp mà.
+[18:24] Nói chung là Hiện tại cái kho vận đang bị chậm tiến độ một chút vì thiếu người.
+[15:18] Chào mọi người, chúng ta tiếp tục bàn về đặt hàng nhé.
+[12:10] Mọi người nghĩ sao nếu mình đổi phương án cho quản lý tồn kho?
+[12:11] À còn một việc nữa là cái quản lý tồn kho, mọi người thấy ổn chưa?
+[12:12] Ờm Nhưng mà còn cái vận chuyển thì tính sao đây? Sắp hết hạn rồi.
+[15:26] Để tôi gửi tài liệu về chuỗi giá trị cho mọi người qua email sau buổi họp.
+[18:42] Tuần tới mình tập trung dứt điểm cái kho vận đi cho xong.
+[15:30] Mọi người cứ thoải mái đóng góp ý kiến về logistics đi.
+[18:48] Thì đấy Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[18:51] Bên khách hàng họ cứ hối thúc vụ kho vận suốt.
+[15:36] Tôi lo là logistics sẽ tốn nhiều chi phí hơn dự kiến.
+[18:57] Tuần tới mình tập trung dứt điểm cái đặt hàng đi cho xong.
+[12:20] Ờm Cảm ơn mọi người, buổi họp hôm nay về Chuỗi cung ứng rất hiệu quả.
+[15:42] Về phần đặt hàng ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[12:22] À còn một việc nữa là cái đặt hàng, mọi người thấy ổn chưa?
+[12:23] Thì đấy Cảm ơn mọi người, buổi họp hôm nay về Chuỗi cung ứng rất hiệu quả.
+[12:24] À còn một việc nữa là cái vận chuyển, mọi người thấy ổn chưa?
+[12:25] Đúng rồi, tôi cũng nghĩ thế, cái nhà cung cấp nên được ưu tiên.
+[19:18] Nói chung là Mong là lần này kho vận sẽ ổn thỏa hơn mấy lần trước.
+[19:21] Nói chung là Mọi người cứ thoải mái đóng góp ý kiến về quản lý tồn kho đi.
+[19:24] Thực ra Mọi người cứ thoải mái đóng góp ý kiến về logistics đi.
+[12:29] Ờm À còn một việc nữa là cái logistics, mọi người thấy ổn chưa?
+[12:30] Mong là lần này chuỗi giá trị sẽ ổn thỏa hơn mấy lần trước.
+[19:33] Nói chung là Tôi thấy vấn đề chuỗi giá trị này quan trọng phết, cần xử lý sớm.
+[19:36] Hiện tại cái nhà cung cấp đang bị chậm tiến độ một chút vì thiếu người.
+[19:39] Nhưng mà còn cái kho vận thì tính sao đây? Sắp hết hạn rồi.
+[16:08] Bên phòng ban họ cứ hối thúc vụ kho vận suốt.
+[19:45] Để tôi check lại mấy cái số liệu của logistics rồi báo lại cả nhà sau.
+[16:12] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về logistics.
+[16:14] Chào mọi người, chúng ta tiếp tục bàn về nhà cung cấp nhé.
+[19:54] Thì Tôi lo là vận chuyển sẽ tốn nhiều chi phí hơn dự kiến.
+[16:18] Hiện tại cái chuỗi giá trị đang bị chậm tiến độ một chút vì thiếu người.
+[16:20] Ờm À còn một việc nữa là cái logistics, mọi người thấy ổn chưa?
+[20:03] Về phần logistics ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[12:42] Tuần tới mình tập trung dứt điểm cái chuỗi giá trị đi cho xong.
+[20:09] Cảm ơn mọi người, buổi họp hôm nay về Chuỗi cung ứng rất hiệu quả.
+[16:28] Thực ra Về phần vận chuyển ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[20:15] Tôi thấy vấn đề quản lý tồn kho này quan trọng phết, cần xử lý sớm.
+[16:32] Đúng rồi, tôi cũng nghĩ thế, cái vận chuyển nên được ưu tiên.
+[20:21] À Về phần logistics ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[12:48] Mọi người cứ thoải mái đóng góp ý kiến về vận chuyển đi.
+[16:38] Vâng Chào mọi người, chúng ta tiếp tục bàn về đặt hàng nhé.
+[20:30] Không sao, mình có thể tối ưu lại phần quản lý tồn kho mà.
+[20:33] Đúng rồi, tôi cũng nghĩ thế, cái nhà cung cấp nên được ưu tiên.
+[20:36] Thực ra Mọi người cứ thoải mái đóng góp ý kiến về nhà cung cấp đi.
+[16:46] À còn một việc nữa là cái vận chuyển, mọi người thấy ổn chưa?
+[12:54] Tuần tới mình tập trung dứt điểm cái vận chuyển đi cho xong.
+[16:50] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về quản lý tồn kho.
+[16:52] Nói chung là Tôi lo là kho vận sẽ tốn nhiều chi phí hơn dự kiến.
+[20:51] Dạ À còn một việc nữa là cái đặt hàng, mọi người thấy ổn chưa?
+[16:56] Để tôi check lại mấy cái số liệu của nhà cung cấp rồi báo lại cả nhà sau.
+[12:59] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[13:00] Mọi người cứ thoải mái đóng góp ý kiến về kho vận đi.
+[13:01] Thì À còn một việc nữa là cái chuỗi giá trị, mọi người thấy ổn chưa?
+[13:02] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về đặt hàng.
+[21:09] Dạ Tuần tới mình tập trung dứt điểm cái chuỗi giá trị đi cho xong.
+[21:12] À Cảm ơn mọi người, buổi họp hôm nay về Chuỗi cung ứng rất hiệu quả.
+[21:15] Không sao, mình có thể tối ưu lại phần nhà cung cấp mà.
+[13:06] Vâng Bên đối tác họ cứ hối thúc vụ vận chuyển suốt.
+[17:14] Cảm ơn mọi người, buổi họp hôm nay về Chuỗi cung ứng rất hiệu quả.
+[21:24] Đúng rồi, tôi cũng nghĩ thế, cái kho vận nên được ưu tiên.
+[17:18] Thì đấy Chào mọi người, chúng ta tiếp tục bàn về quản lý tồn kho nhé.
+[13:10] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về đặt hàng.
+[17:22] Dạ Tôi lo là kho vận sẽ tốn nhiều chi phí hơn dự kiến.
+[13:12] À còn một việc nữa là cái nhà cung cấp, mọi người thấy ổn chưa?
+[21:39] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[13:14] Tuần tới mình tập trung dứt điểm cái vận chuyển đi cho xong.
+[17:30] Nhưng mà còn cái đặt hàng thì tính sao đây? Sắp hết hạn rồi.
+[17:32] Đúng rồi, tôi cũng nghĩ thế, cái đặt hàng nên được ưu tiên.
+[21:51] Vâng Tuần tới mình tập trung dứt điểm cái logistics đi cho xong.
+[21:54] Về phần vận chuyển ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[13:19] Tôi thấy vấn đề đặt hàng này quan trọng phết, cần xử lý sớm.
+[17:40] Đúng rồi, tôi cũng nghĩ thế, cái quản lý tồn kho nên được ưu tiên.
+[17:42] Về phần logistics ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[13:22] Chào mọi người, chúng ta tiếp tục bàn về nhà cung cấp nhé.
+[22:09] Nói chung là Nhưng mà còn cái logistics thì tính sao đây? Sắp hết hạn rồi.
+[22:12] Để tôi gửi tài liệu về quản lý tồn kho cho mọi người qua email sau buổi họp.
+[17:50] Mong là lần này vận chuyển sẽ ổn thỏa hơn mấy lần trước.
+[17:52] Thực ra Cảm ơn mọi người, buổi họp hôm nay về Chuỗi cung ứng rất hiệu quả.
+[13:27] Tuần tới mình tập trung dứt điểm cái logistics đi cho xong.
+[22:24] Hiện tại cái vận chuyển đang bị chậm tiến độ một chút vì thiếu người.
+[22:27] Chào mọi người, chúng ta tiếp tục bàn về đặt hàng nhé.
+[13:30] Nhưng mà còn cái chuỗi giá trị thì tính sao đây? Sắp hết hạn rồi.
+[18:02] Chào mọi người, chúng ta tiếp tục bàn về vận chuyển nhé.
+[22:36] Để tôi gửi tài liệu về vận chuyển cho mọi người qua email sau buổi họp.
+[22:39] Đúng rồi, tôi cũng nghĩ thế, cái kho vận nên được ưu tiên.
+[22:42] Thực ra Chào mọi người, chúng ta tiếp tục bàn về đặt hàng nhé.
+[13:35] Tuần tới mình tập trung dứt điểm cái đặt hàng đi cho xong.
+[22:48] Để tôi check lại mấy cái số liệu của nhà cung cấp rồi báo lại cả nhà sau.
+[22:51] Thì Mọi người cứ thoải mái đóng góp ý kiến về nhà cung cấp đi.
+[22:54] Tôi thấy vấn đề đặt hàng này quan trọng phết, cần xử lý sớm.
+[18:18] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[23:00] Thì đấy Về phần nhà cung cấp ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[18:22] Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[13:42] Thì đấy Chào mọi người, chúng ta tiếp tục bàn về chuỗi giá trị nhé.
+[13:43] Nói chung là Hiện tại cái vận chuyển đang bị chậm tiến độ một chút vì thiếu người.
+[13:44] Tôi thấy vấn đề chuỗi giá trị này quan trọng phết, cần xử lý sớm.
+[13:45] Nói chung là Mọi người cứ thoải mái đóng góp ý kiến về kho vận đi.
+[13:46] Thực ra Về phần quản lý tồn kho ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[23:21] Thực ra Ok, nhất trí thế nhé, cứ thế mà làm thôi.
+[18:36] Dạ Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về quản lý tồn kho.
+[23:27] Về phần kho vận ấy, tôi nghĩ cần bổ sung thêm nhân sự gấp.
+[13:50] Vâng Mọi người cứ thoải mái đóng góp ý kiến về nhà cung cấp đi.
+[13:51] Thì Tôi đề xuất chốt hạn chót cho quản lý tồn kho là cuối tháng này được không?
+[18:44] Tôi đề xuất chốt hạn chót cho vận chuyển là cuối tháng này được không?
+[18:46] Tôi thấy vấn đề nhà cung cấp này quan trọng phết, cần xử lý sớm.
+[13:54] Mọi người nghĩ sao nếu mình đổi phương án cho quản lý tồn kho?
+[13:55] Thì đấy Để tôi gửi tài liệu về kho vận cho mọi người qua email sau buổi họp.
+[18:52] Bên phòng ban họ cứ hối thúc vụ vận chuyển suốt.
+[13:57] Vụ này hơi nhạy cảm đấy, chắc phải hỏi ý kiến sếp về kho vận.
+[13:58] Ờm Tôi thấy vấn đề đặt hàng này quan trọng phết, cần xử lý sớm.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận về các vấn đề liên quan đến Chuỗi cung ứng
+- Giải quyết các vướng mắc về kho vận, logistics
+- Đưa ra kế hoạch triển khai cho giai đoạn tới
+
+### 2. Các vấn đề đã thảo luận
+- Tình hình thực tế của Chuỗi cung ứng hiện nay
+- Khó khăn trong việc xử lý nhà cung cấp
+- Đề xuất cải thiện quy trình đặt hàng
+- Đánh giá tác động của các yếu tố ngoại cảnh
+
+### 3. Kết luận và quyết định
+- Thống nhất phương án xử lý cho Chuỗi cung ứng
+- Chốt thời gian hoàn thành các hạng mục quan trọng
+- Phân công trách nhiệm cụ thể cho các đơn vị liên quan
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Xử lý logistics | Bộ phận Kỹ thuật | 18/02/2026 |
+| Xử lý chuỗi giá trị | Anh Nam | 02/09/2026 |
+| Xử lý nhà cung cấp | Chị Lan | 10/05/2026 |
+| Xử lý quản lý tồn kho | Ban Giám đốc | 24/09/2026 |
+| Xử lý chuỗi giá trị | Phòng Chuỗi cung ứng | 11/07/2026 |

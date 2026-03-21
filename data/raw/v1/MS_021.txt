@@ -1,0 +1,39 @@
+<|input|>
+[09:00] Chào anh chị, sáng nay mình họp về việc rà soát các hợp đồng lao động mới để đảm bảo tuân thủ Bộ luật Lao động 2019.
+[09:02] Tôi thấy có một số điều khoản về thời giờ làm việc và nghỉ ngơi trong bản dự thảo còn hơi mập mờ.
+[09:04] Đúng vậy, mình cần làm rõ quy định về làm thêm giờ, đặc biệt là giới hạn tổng số giờ làm thêm trong tháng không quá 40 giờ.
+[09:06] Về phần bảo hiểm, nhân sự lưu ý phải đóng đúng mức lương ghi trong hợp đồng, không được tách nhỏ thành các khoản phụ cấp không đóng bảo hiểm.
+[09:08] Em sẽ phối hợp với bên tư vấn luật để thẩm định lại các điều khoản về chấm dứt hợp đồng đơn phương.
+[09:10] Chị Hoa (Kế toán) xem lại phần trợ cấp thôi việc cho những người có thâm niên trên 10 năm nhé.
+[09:12] Chốt lại: Rà soát giới hạn giờ làm thêm, chuẩn hóa mức đóng bảo hiểm và cập nhật quy định thôi việc.
+
+<|output|>
+# Rà soát tuân thủ pháp luật lao động trong hợp đồng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đảm bảo các mẫu hợp đồng lao động mới tuân thủ đúng Bộ luật Lao động 2019.
+- Rà soát các quy định về thời giờ làm việc, nghỉ ngơi và bảo hiểm xã hội.
+- Thống nhất cách tính trợ cấp và các điều khoản chấm dứt hợp đồng.
+
+### 2. Các vấn đề đã thảo luận
+- Sự mập mờ trong điều khoản thời giờ làm việc và giới hạn giờ làm thêm (không quá 40h/tháng).
+- Tình trạng tách nhỏ phụ cấp để giảm mức đóng bảo hiểm cần được chấn chỉnh.
+- Cần thẩm định lại tính pháp lý của các điều khoản đơn phương chấm dứt hợp đồng.
+- Cách tính trợ cấp thôi việc cho nhân sự có thâm niên cao.
+
+### 3. Kết luận và quyết định
+- Chỉnh sửa mục thời giờ làm việc bám sát quy định pháp luật.
+- Cam kết đóng bảo hiểm đúng mức lương thực nhận trong hợp đồng.
+- Giao bộ phận Pháp chế phối hợp với Nhân sự hoàn thiện bản dự thảo cuối cùng.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ tư vấn luật thẩm định hợp đồng | Phòng Nhân sự | 25/03/2026 |
+| Tính toán lại mức trợ cấp thôi việc thâm niên | Chị Hoa (Kế toán) | 22/03/2026 |
+| Soạn thảo lại mục thời giờ làm thêm | Phòng Pháp chế | 24/03/2026 |
+| Cập nhật danh sách đóng bảo hiểm mới | Phòng Nhân sự | 01/04/2026 |
+| Trình ký mẫu hợp đồng lao động chuẩn | Ban Giám đốc | 05/04/2026 |

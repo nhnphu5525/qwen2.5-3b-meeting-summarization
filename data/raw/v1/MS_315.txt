@@ -1,0 +1,49 @@
+<|input|>
+[09:00] Chào cả nhà, hôm nay bộ phận Marketing và Kinh doanh ngồi lại để chốt chiến lược bán lẻ cho chuỗi cửa hàng của mình trong 6 tháng tới nhé. Anh Tuấn thấy hành vi mua sắm của khách hàng gần đây có gì thay đổi rõ rệt không anh?
+[09:03] Theo số liệu anh theo dõi thì khách hàng đang có xu hướng dịch chuyển mạnh sang mua sắm trực tuyến (Online) và nhận hàng tại cửa hàng (Click & Collect). Tỷ lệ khách ghé cửa hàng chỉ để tham quan rồi về đặt online đang tăng lên, mình phải tìm cách tối ưu hóa trải nghiệm tại điểm bán để "chốt đơn" ngay lúc đó.
+[09:06] Em đồng ý với anh Tuấn. Hiện tại giao diện web của mình trên điện thoại hơi chậm, khiến nhiều khách hàng bỏ giỏ hàng giữa chừng. Chị Linh bên Tech lưu ý giúp em phần này nhé, mình cần tối ưu tốc độ load trang và đơn giản hóa quy trình thanh toán.
+[09:09] Dạ em ghi nhận ạ. Team Tech đang triển khai bản cập nhật mới, dự kiến sẽ tích hợp thêm các ví điện tử và phương thức mua trước trả sau (BNPL) để kích cầu. Còn về phần Omni-channel, em sẽ đồng bộ hóa tồn kho realtime giữa kho online và các cửa hàng để tránh tình trạng khách đặt nhưng hết hàng.
+[09:12] Hay quá, nếu đồng bộ được tồn kho thì mình có thể triển khai chương trình "Giao hàng siêu tốc trong 2h" từ cửa hàng gần khách nhất. Cái này sẽ là lợi thế cạnh tranh rất lớn so với các đối thủ khác. Anh Tuấn thấy mình có nên làm thêm các ki-ốt tự phục vụ tại cửa hàng không?
+[09:15] Ki-ốt tự phục vụ là một ý hay để giảm thời gian chờ đợi tại quầy thu ngân, nhất là vào giờ cao điểm. Tuy nhiên, mình cần đào tạo nhân viên cửa hàng cách hướng dẫn khách sử dụng và hỗ trợ khi có lỗi kỹ thuật. Ngoài ra, anh muốn đẩy mạnh chương trình khách hàng thân thiết (Loyalty Program) tích hợp trực tiếp trên App.
+[09:18] Về phần Marketing, em dự định sẽ chạy chiến dịch "Tháng mua sắm gia đình" vào tháng 5 tới. Mình sẽ tập trung vào các gói combo sản phẩm và voucher giảm giá khi khách hàng mua cả online lẫn offline. Chị Lan bên tài chính xem giúp em ngân sách khoảng 300 triệu cho chiến dịch này có ổn không ạ?
+[09:21] 300 triệu thì hơi cao so với dự kiến ban đầu là 200 triệu em ạ. Tuy nhiên, nếu em cam kết doanh số tăng ít nhất 25% thì chị sẽ cố gắng cân đối lại từ các quỹ dự phòng khác. Em cần gửi cho chị bản kế hoạch chi tiết các hạng mục chi phí (chạy ads, in ấn POSM, quà tặng...) vào cuối tuần này nhé.
+[09:24] Dạ vâng chị Lan, em sẽ hoàn thiện bản kế hoạch chi tiết. Anh Tuấn ơi, mình cũng cần xem xét lại cách trưng bày sản phẩm tại các cửa hàng flagship. Em thấy một số quầy kệ nhìn hơi cũ và không còn bắt mắt nữa.
+[09:27] Đúng rồi, anh cũng đang định đề xuất làm mới lại concept trưng bày theo hướng trải nghiệm nhiều hơn. Khách hàng phải được cầm nắm, dùng thử sản phẩm thoải mái. Chị Linh giúp anh xem có thể đặt thêm các màn hình cảm ứng để khách tự tra cứu thông tin chi tiết về tính năng sản phẩm không?
+[09:30] Hoàn toàn được anh Tuấn, em sẽ lên danh sách các thiết bị cần thiết và phối hợp với bên cung cấp. Mọi người lưu ý là mình cần triển khai đồng bộ ở tất cả các cửa hàng để giữ vững hình ảnh thương hiệu nhé.
+[09:33] Ok, vậy mục tiêu là tháng 4 hoàn thiện hạ tầng Tech, tháng 5 chạy chiến dịch Marketing và tháng 6 bắt đầu vận hành ổn định mô hình Omni-channel mới. Mọi người có câu hỏi gì nữa không?
+[09:36] Dạ không ạ, em sẽ bắt tay vào làm bản kế hoạch ngay.
+[09:39] Cảm ơn cả nhà, cuộc họp kết thúc.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hướng chiến lược bán lẻ 6 tháng cuối năm theo mô hình bán hàng đa kênh (Omni-channel).
+- Tối ưu hóa trải nghiệm khách hàng tại cửa hàng và trên nền tảng kỹ thuật số.
+- Thống nhất ngân sách và lộ trình triển khai các chiến dịch marketing trọng điểm.
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng khách hàng chuyển sang Click & Collect và mua sắm trên thiết bị di động.
+- Lỗi tốc độ load trang web và nhu cầu đa dạng hóa phương thức thanh toán (BNPL, ví điện tử).
+- Sự cần thiết của việc đồng bộ hóa tồn kho thời gian thực giữa online và offline.
+- Ý tưởng triển khai ki-ốt tự phục vụ và màn hình cảm ứng trải nghiệm tại cửa hàng.
+- Nâng cấp chương trình khách hàng thân thiết tích hợp trên ứng dụng di động.
+- Ngân sách 300 triệu cho chiến dịch "Tháng mua sắm gia đình" vào tháng 5.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương triển khai mô hình Omni-channel đồng bộ trên toàn chuỗi.
+- Giao team Tech nâng cấp website và tích hợp hệ thống quản lý tồn kho realtime.
+- Chấp thuận ngân sách 300 triệu cho chiến dịch tháng 5 với điều kiện đảm bảo KPI tăng trưởng 25%.
+- Thực hiện thiết kế lại concept trưng bày tại các cửa hàng chủ chốt (Flagship stores).
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tối ưu tốc độ website và tích hợp cổng thanh toán mới | Chị Linh | 15/04/2026 |
+| Lập kế hoạch chi tiết và dự toán ngân sách chiến dịch tháng 5 | Bộ phận Marketing | 22/03/2026 |
+| Thiết kế concept trưng bày trải nghiệm cho cửa hàng Flagship | Anh Tuấn | 10/04/2026 |
+| Xây dựng hệ thống đồng bộ tồn kho Realtime | Phòng CNTT | 30/04/2026 |
+| Đào tạo nhân viên sử dụng ki-ốt và App Loyalty mới | Phòng Đào tạo | 15/05/2026 |

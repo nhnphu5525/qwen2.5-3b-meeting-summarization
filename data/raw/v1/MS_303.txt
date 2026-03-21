@@ -1,0 +1,43 @@
+<|input|>
+[10:00] Chào mọi người, tình hình dịch cúm đang có xu hướng tăng nhanh trong tuần qua nên bệnh viện mình cần rà soát lại lượng thuốc và vật tư tiêu hao trong kho. Anh Sơn cho biết tình hình thuốc kháng virus hiện tại thế nào rồi?
+[10:02] Hiện tại lượng thuốc dự trữ trong kho chỉ còn đủ dùng trong khoảng 5 ngày tới nếu số lượng bệnh nhân nhập viện tiếp tục tăng với tốc độ này. Tôi đã liên hệ với các nhà cung cấp nhưng họ báo là nguồn cung đang hơi khan hiếm do nhu cầu thị trường tăng đột biến.
+[10:04] Căng nhỉ, mình không thể để thiếu thuốc được. Bác sĩ Minh thấy các vật tư khác như khẩu trang N95, đồ bảo hộ và kit test thì sao?
+[10:06] Đồ bảo hộ và khẩu trang thì mình còn đủ dùng cho cả tháng, nhưng kit test nhanh thì cũng bắt đầu vơi dần rồi. Nếu mỗi bệnh nhân vào viện đều test sàng lọc thì chắc chỉ trụ được khoảng 10 ngày nữa thôi. 
+[10:08] Vậy thì phải ưu tiên đặt hàng ngay. Sơn ơi, em cố gắng làm việc với ít nhất 3 nhà cung cấp khác nhau để gom hàng nhé, giá cao hơn một chút cũng được nhưng phải đảm bảo có hàng trong tuần này.
+[10:10] Vâng chị, em đang đôn đốc bên phía công ty dược ABC, họ hứa là sẽ ưu tiên cho bệnh viện mình trước. Còn về phần máy thở và thiết bị hỗ trợ hô hấp, em cũng đã cho bảo trì lại toàn bộ để sẵn sàng ứng phó.
+[10:12] Tốt lắm. Bác sĩ Minh giúp chị lên một cái quy trình phân loại bệnh nhân nghiêm ngặt hơn để tiết kiệm kit test. Những trường hợp không có triệu chứng rõ ràng hoặc không có yếu tố dịch tễ thì có thể cân nhắc kỹ trước khi chỉ định test.
+[10:14] Tôi đồng ý. Tôi sẽ họp với các trưởng khoa để thống nhất lại quy trình này ngay trong chiều nay. Chúng ta cũng cần tăng cường nhân sự cho khu vực sàng lọc để tránh ùn ứ bệnh nhân.
+[10:16] Đúng rồi, chị sẽ điều phối thêm điều dưỡng từ các khoa ít bệnh hơn sang hỗ trợ. Mọi người cố gắng giữ gìn sức khỏe nhé, giai đoạn này sẽ rất vất vả đấy.
+[10:18] Cảm ơn chị, chúng tôi sẽ cố gắng hết sức.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát tình hình tồn kho thuốc và vật tư y tế trước diễn biến phức tạp của dịch cúm.
+- Đề xuất các phương án đảm bảo nguồn cung và tối ưu hóa sử dụng vật tư hiện có.
+- Chuẩn bị nhân lực và trang thiết bị cho kịch bản số lượng bệnh nhân tăng cao.
+
+### 2. Các vấn đề đã thảo luận
+- Thuốc kháng virus trong kho chỉ còn đủ dùng 5 ngày, nguồn cung thị trường đang khan hiếm.
+- Kit test nhanh dự kiến hết trong 10 ngày nếu không có kế hoạch bổ sung.
+- Vật tư bảo hộ (khẩu trang, quần áo) vẫn đảm bảo ổn định trong 1 tháng.
+- Cần có quy trình phân loại bệnh nhân để tối ưu hóa việc sử dụng kit test.
+- Tình trạng quá tải nhân sự tại khu vực sàng lọc.
+
+### 3. Kết luận và quyết định
+- Liên hệ khẩn cấp với nhiều nhà cung cấp để nhập thêm thuốc và kit test trong tuần.
+- Bảo trì toàn bộ máy thở và thiết bị hỗ trợ hô hấp.
+- Triển khai quy trình phân loại bệnh nhân mới để tiết kiệm vật tư y tế.
+- Điều động nhân sự từ các khoa nội bộ để hỗ trợ khu vực sàng lọc bệnh nhân.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Nhập thêm thuốc kháng virus và kit test nhanh | Sơn | 22/03/2026 |
+| Xây dựng quy trình phân loại bệnh nhân mới | Bác sĩ Minh | 19/03/2026 |
+| Bảo trì thiết bị y tế và máy thở | Phòng Quản trị thiết bị | 21/03/2026 |
+| Điều phối nhân sự hỗ trợ khu sàng lọc | Phòng Điều dưỡng | 20/03/2026 |

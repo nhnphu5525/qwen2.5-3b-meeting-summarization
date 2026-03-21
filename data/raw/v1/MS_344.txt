@@ -1,0 +1,67 @@
+<|input|>
+[08:00] Chào anh Hoàng, chào chị Linh, anh Sơn và toàn thể ban chiến lược. Hôm nay chúng ta có một buổi họp cực kỳ quan trọng để chốt lại toàn bộ kế hoạch chuyển đổi số và phát triển mảng thương mại điện tử (E-commerce) cho tập đoàn bán lẻ của chúng ta trong giai đoạn 2024-2026.
+[08:05] Chào mọi người, như chúng ta đã thấy qua báo cáo kinh doanh năm ngoái, doanh thu từ các cửa hàng vật lý (offline) đang có dấu hiệu bão hòa và tăng trưởng chậm lại. Trong khi đó, thị trường E-commerce tại Việt Nam vẫn đang tăng trưởng hai chữ số. Nếu chúng ta không quyết liệt thay đổi ngay bây giờ, chúng ta sẽ mất thị phần vào tay các đối thủ thuần online.
+[08:10] Chào anh Hoàng, em hoàn toàn đồng ý. Hiện tại, trải nghiệm mua sắm online của khách hàng trên website và app của mình vẫn còn khá rời rạc. Tốc độ tải trang chậm, quy trình thanh toán phức tạp và đặc biệt là hệ thống quản lý kho chưa đồng bộ realtime với cửa hàng.
+[08:15] Linh nói đúng cái "tử huyệt" của mình rồi đấy. Anh Sơn ơi, về phía hạ tầng công nghệ, anh đánh giá thế nào về khả năng nâng cấp hệ thống ERP hiện tại để hỗ trợ mô hình Omni-channel (bán hàng đa kênh)?
+[08:20] Chào anh Hoàng, hệ thống ERP cũ của mình đã chạy được 10 năm, cấu trúc dữ liệu rất cồng kềnh. Để chạy được Omni-channel, chúng ta cần một hệ thống OMS (Order Management System) chuyên dụng đứng ở giữa để điều phối đơn hàng từ website, app, Shopee, TikTok Shop về kho gần nhất của khách hàng.
+[08:25] Xây dựng hệ thống OMS đó mất bao lâu và chi phí thế nào hả Sơn? Chúng ta không thể đợi quá lâu đâu.
+[08:30] Dự kiến mất khoảng 6 tháng để triển khai bản MVP (Minimum Viable Product). Chi phí bản quyền và triển khai rơi vào khoảng 15 tỷ đồng. Nhưng cái khó nhất không phải là tiền, mà là việc chuẩn hóa dữ liệu danh mục hàng hóa (SKU) trên toàn hệ thống. Hiện tại mỗi kho đang đặt tên một kiểu, rất loạn.
+[08:35] Việc chuẩn hóa SKU em sẽ giao cho bộ phận thu mua và kho phối hợp làm trong 2 tháng tới. Còn về phần giao hàng (Logistics) thì sao anh Hoàng? Khách hàng bây giờ họ yêu cầu giao hàng trong 2h hoặc muộn nhất là trong ngày.
+[08:40] Về Logistics, chúng ta có lợi thế là hệ thống 500 cửa hàng phủ khắp cả nước. Anh dự định sẽ biến mỗi cửa hàng thành một kho vệ tinh (Mini-fulfillment center). Khi có đơn hàng online, hệ thống OMS sẽ tự động đẩy về cửa hàng gần khách nhất để nhân viên tại đó đóng gói và gọi Shipper. Như vậy mình sẽ tiết kiệm được rất nhiều chi phí vận chuyển chặng cuối.
+[08:45] Ý tưởng biến cửa hàng thành kho là rất hay, nhưng anh Hoàng phải tính đến việc đào tạo lại nhân viên cửa hàng. Họ vốn chỉ quen bán trực tiếp, giờ bảo họ đi nhặt hàng online, đóng gói thì sợ họ sẽ quá tải và làm sai sót.
+[08:50] Đúng vậy Linh, chúng ta sẽ phải tuyển thêm nhân sự chuyên trách mảng online cho các cửa hàng trọng điểm. Ngoài ra, việc hợp tác với các đơn vị vận chuyển như Ahamove hay GrabExpress để giao hàng siêu tốc cũng là một phần trong kế hoạch.
+[08:55] Còn về phần Marketing thì sao hả Linh? Ngân sách Marketing cho E-commerce năm nay em định phân bổ thế nào? Anh muốn thấy sự bùng nổ trên các sàn và TikTok.
+[09:00] Em dự định dành 60% ngân sách Marketing cho các hoạt động Performance Marketing (chạy quảng cáo chuyển đổi) trên Facebook, Google và TikTok. 20% dành cho việc thuê KOL/KOC làm Livestream bán hàng mỗi ngày. 20% còn lại dùng để xây dựng cộng đồng khách hàng thân thiết (Loyalty Program) trên app.
+[09:05] Livestream trên TikTok Shop đang là mỏ vàng đấy. Em thấy đối thủ của mình họ livestream 24/7, doanh số kinh khủng lắm. Mình cũng cần xây dựng một team chuyên livestream tại studio của công ty.
+[09:10] Anh Sơn lưu ý giúp em phần tích hợp hệ thống điểm thưởng tích lũy giữa offline và online nhé. Khách hàng mua ở đâu cũng phải được tích điểm và dùng điểm để đổi quà hoặc giảm giá được ngay.
+[09:15] Phần đó nằm trong module CRM (Customer Relationship Management) mà anh đang triển khai. Nó sẽ giúp mình hiểu rõ chân dung khách hàng hơn: họ thích mua gì, mua vào lúc nào, thích khuyến mãi kiểu gì... từ đó mình sẽ có những chiến dịch cá nhân hóa (Personalization) cực kỳ hiệu quả.
+[09:20] Nghe thì rất hứa hẹn, nhưng anh muốn nhấn mạnh vào vấn đề bảo mật thông tin khách hàng. Dạo này các vụ rò rỉ dữ liệu xảy ra liên tục, mình phải đầu tư mạnh cho bảo mật, không được để xảy ra bất cứ sai sót nào.
+[09:25] Vâng anh Hoàng, team bảo mật của em đang áp dụng các tiêu chuẩn quốc tế cao nhất. Mọi dữ liệu nhạy cảm của khách hàng đều được mã hóa và lưu trữ riêng biệt.
+[09:30] Quay lại vấn đề hàng hóa, Linh cần làm việc với các nhà cung cấp để có những sản phẩm "Online Exclusive" (chỉ bán trực tuyến). Điều này sẽ giúp tránh xung đột giá giữa các kênh và tạo sự tò mò cho khách hàng online.
+[09:35] Em đã làm việc với 5 nhãn hàng mỹ phẩm lớn, họ đồng ý cung cấp các bộ giftset độc quyền cho kênh website của mình. Ngoài ra, mình cũng sẽ đẩy mạnh mảng nhãn hàng riêng (Private Label) trên E-commerce để tối ưu biên lợi nhuận.
+[09:40] Tốt lắm. Về tiến độ, anh muốn cuối tháng sau mình phải xong bản demo của App mới với giao diện hiện đại, mượt mà hơn. Anh Sơn có cam kết được không?
+[09:45] Em sẽ cố gắng hết sức, nhưng team UI/UX cần chốt sớm các yêu cầu về trải nghiệm người dùng với chị Linh. Tránh việc đang code lại sửa giao diện liên tục là em chịu đấy.
+[09:50] Ok Sơn, trong tuần này Linh sẽ ngồi lại với team UI/UX để chốt mọi thứ. Anh Hoàng ơi, còn vấn đề thanh toán không tiền mặt, mình có nên tích hợp thêm các ví điện tử như MoMo, ZaloPay và cả trả góp 0% qua thẻ tín dụng không ạ?
+[09:55] Tất nhiên là phải có chứ. Càng nhiều phương thức thanh toán thì tỷ lệ bỏ giỏ hàng (cart abandonment) càng thấp. Đặc biệt là tính năng "Mua trước trả sau" (BNPL) đang rất hot với giới trẻ, mình cũng nên tìm đối tác tích hợp vào.
+[10:00] Dạ vâng ạ. Vậy lộ trình của chúng ta sẽ là: Tháng 1-2 chuẩn hóa SKU và nâng cấp ERP. Tháng 3-5 triển khai OMS và CRM. Tháng 6 chính thức relaunch hệ thống Omni-channel với chiến dịch Marketing lớn.
+[10:05] Lộ trình này khá căng thẳng nhưng khả thi. Anh muốn mỗi tuần chúng ta đều có một buổi họp nhanh (Stand-up meeting) vào sáng thứ Hai để tháo gỡ khó khăn ngay lập tức. Không để việc tồn đọng.
+[10:10] Em đồng ý. Chúng ta cần sự quyết tâm cao độ từ tất cả các phòng ban, không chỉ riêng Marketing hay IT. Bộ phận nhân sự cũng cần chuẩn bị kế hoạch tuyển dụng và đào tạo nhân lực số cho giai đoạn này.
+[10:15] Đúng vậy Linh. Anh sẽ trực tiếp làm việc với các trưởng bộ phận khác để đảm bảo sự phối hợp nhịp nhàng nhất.
+[10:20] Buổi họp hôm nay rất chất lượng. Anh cảm thấy chúng ta đang đi đúng hướng. Mọi người hãy nhớ rằng: E-commerce không chỉ là bán hàng trên mạng, mà là thay đổi tư duy phục vụ khách hàng trong thời đại số.
+[10:25] Vâng anh Hoàng. Chúng em đã sẵn sàng!
+[10:30] Cảm ơn mọi người. Buổi họp kết thúc.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Chốt chiến lược phát triển thương mại điện tử (E-commerce) và mô hình Omni-channel cho giai đoạn 2024-2026.
+- Thống nhất lộ trình triển khai các hệ thống công nghệ then chốt (OMS, CRM, ERP).
+- Phân bổ ngân sách Marketing và xây dựng kế hoạch vận hành Logistics đa kênh.
+
+### 2. Các vấn đề đã thảo luận
+- Sự bão hòa của thị trường bán lẻ truyền thống và nhu cầu cấp thiết phải chuyển đổi số.
+- Vấn đề SKU không đồng nhất giữa các kho và kế hoạch chuẩn hóa trong 2 tháng.
+- Xây dựng hệ thống OMS để điều phối đơn hàng và CRM để cá nhân hóa trải nghiệm khách hàng.
+- Mô hình "Cửa hàng là kho vệ tinh" để tối ưu giao hàng chặng cuối (last-mile delivery).
+- Chiến lược Performance Marketing, Livestream trên TikTok và xây dựng cộng đồng khách hàng thân thiết.
+- Tích hợp đa dạng phương thức thanh toán (ví điện tử, BNPL) và đảm bảo an ninh dữ liệu.
+- Phát triển sản phẩm độc quyền cho kênh online và hàng nhãn riêng để tăng lợi nhuận.
+
+### 3. Kết luận và quyết định
+- Phê duyệt ngân sách 15 tỷ đồng cho hệ thống OMS và các dự án công nghệ phụ trợ.
+- Chốt lộ trình 6 tháng để ra mắt hệ thống Omni-channel hoàn chỉnh vào tháng 6/2024.
+- Thiết lập cơ chế họp Stand-up hàng tuần để giám sát tiến độ dự án.
+- Yêu cầu bộ phận Nhân sự lên kế hoạch đào tạo kỹ năng số cho nhân viên toàn hệ thống.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Chuẩn hóa toàn bộ danh mục SKU trên hệ thống | Bộ phận Thu mua & Kho | 15/05/2024 |
+| Chốt thiết kế UI/UX cho App và Website mới | Chị Linh & Team IT | 25/04/2024 |
+| Ký kết hợp đồng triển khai hệ thống OMS với đối tác | Anh Sơn | 10/04/2024 |
+| Xây dựng kịch bản và team Livestream chuyên nghiệp | Bộ phận Marketing | 20/05/2024 |
+| Đề xuất phương án tuyển dụng và đào tạo nhân sự số | Bộ phận Nhân sự | 01/05/2024 |

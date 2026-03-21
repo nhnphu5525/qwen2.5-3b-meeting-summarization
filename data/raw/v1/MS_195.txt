@@ -1,0 +1,53 @@
+<|input|>
+[14:00] Chào mọi người, hôm nay chúng ta tập trung thảo luận về chiến dịch ra mắt dòng sản phẩm chăm sóc da mới trên các nền tảng mạng xã hội.
+[14:02] Mục tiêu của mình là tạo độ phủ thương hiệu lớn trong vòng 1 tháng và thu về ít nhất 50.000 lượt thảo luận tự nhiên.
+[14:04] Tôi nghĩ mình nên bắt đầu bằng việc gửi sản phẩm cho các Micro-Influencer thay vì chỉ tập trung vào các KOL lớn.
+[14:06] Đúng rồi, Micro-Influencer tuy ít followers hơn nhưng tỉ lệ tương tác và độ tin cậy đối với người theo dõi lại cao hơn nhiều.
+[14:08] Mình sẽ nhắm vào nhóm đối tượng từ 18 đến 25 tuổi, chủ yếu là sinh viên và nhân viên văn phòng trẻ.
+[14:10] Về mặt nội dung, tôi đề xuất trào lưu "7 ngày thử thách da khỏe" trên TikTok. Người tham gia quay clip dùng sản phẩm mỗi ngày.
+[14:12] Nghe hấp dẫn đấy, nhưng giải thưởng phải đủ lớn để họ nhiệt tình tham gia, ví dụ như một chuyến du lịch hoặc trọn bộ sản phẩm cả năm.
+[14:14] Còn phần quảng cáo trả phí (Paid Ads) thì sao? Mình sẽ phân bổ ngân sách như thế nào giữa Facebook và TikTok?
+[14:16] Hiện tại TikTok đang có giá thầu tốt hơn cho các video ngắn dạng Review, nên dồn 60% ngân sách vào đó. 40% còn lại dùng để Retargeting trên Facebook và Instagram.
+[14:18] Team Design lưu ý màu sắc của bộ nhận diện đợt này nhé, phải thật "vibe" và bắt mắt khi xuất hiện trên feed.
+[14:20] Chúng tôi đang hoàn thiện bộ template cho các bài đăng, đảm bảo tính nhất quán trên tất cả các kênh.
+[14:22] Một vấn đề nữa là việc xử lý các bình luận tiêu cực hoặc phản ứng không tốt về sản phẩm.
+[14:24] Cần chuẩn bị sẵn một bộ câu hỏi thường gặp (FAQ) và kịch bản xử lý khủng hoảng truyền thông.
+[14:26] Đội ngũ trực page phải hoạt động 24/7 trong tuần đầu tiên ra mắt để trả lời khách hàng nhanh nhất có thể.
+[14:28] Việc chốt đơn trực tiếp qua tin nhắn cũng cần được tối ưu hóa để không bỏ lỡ khách hàng tiềm năng.
+[14:30] Ok, thứ 6 tới team Marketing gửi bản kế hoạch chi tiết kèm dự toán ngân hàng cho Ban giám đốc duyệt nhé.
+
+<|output|>
+# Kế hoạch ra mắt sản phẩm mới trên mạng xã hội
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng chiến lược truyền thông cho dòng sản phẩm chăm sóc da mới.
+- Xác định đối tượng mục tiêu, kênh phân phối và hình thức thể hiện nội dung sáng tạo.
+- Đảm bảo quy trình vận hành và xử lý phản hồi khách hàng trơn tru trong giai đoạn ra mắt.
+
+### 2. Các vấn đề đã thảo luận
+- Chiến thuật sử dụng Micro-Influencer để tăng độ tin cậy và tương tác thực tế.
+- Phân khúc khách hàng trọng tâm: Độ tuổi 18-25, tập trung vào giới trẻ năng động.
+- Sáng tạo trào lưu "7 ngày thử thách" trên TikTok kèm giải thưởng hấp dẫn để kích thích người dùng tham gia.
+- Phân bổ ngân sách quảng cáo: Ưu tiên 60% cho TikTok và 40% cho hệ sinh thái Meta (FB/IG).
+- Yêu cầu về thiết kế hình ảnh phải bắt mắt, mang tính thẩm mỹ cao và đồng bộ thương hiệu.
+- Chuẩn bị kịch bản xử lý khủng hoảng và bộ FAQ để ứng phó với các phản hồi tiêu cực.
+- Tối ưu hóa phản hồi tin nhắn và chốt đơn để tăng tỉ lệ chuyển đổi.
+
+### 3. Kết luận và quyết định
+- Thống nhất triển khai chiến dịch theo hướng tập trung vào TikTok và Micro-Influencer.
+- Team Marketing hoàn thiện bản kế hoạch chi tiết và dự toán ngân sách cuối tuần này.
+- Team Design chốt bộ nhận diện hình ảnh cho chiến dịch trước ngày 25.
+- Thiết lập đội ngũ trực page và chăm sóc khách hàng 24/7 trong giai đoạn cao điểm.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Gửi bản kế hoạch Marketing chi tiết và ngân sách | Phòng Marketing | 20/03/2026 |
+| Hoàn thiện bộ ảnh và video template chiến dịch | Phòng Design | 25/03/2026 |
+| Danh sách và liên hệ với các Micro-Influencer | Team Social | 28/03/2026 |
+| Soạn thảo bộ FAQ và kịch bản xử lý khủng hoảng | Team PR | 30/03/2026 |
+| Thiết lập hệ thống trực chat và chatbot hỗ trợ | Team CS | 02/04/2026 |
+| Chạy thử nghiệm quảng cáo đợt 1 | Team Media | 05/04/2026 |

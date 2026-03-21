@@ -1,0 +1,72 @@
+<|input|>
+[09:00] Chào anh chị em, hôm nay team Product mình ngồi lại để review lần cuối cái tính năng "Tiết kiệm mục tiêu" (Goal-based Savings) trước khi đẩy lên môi trường Production vào tuần tới nha.
+[09:02] Dạ sếp, em thấy tính năng này đang được khách hàng mong chờ dữ lắm. Đặc biệt là mấy bạn Gen Z, họ muốn cái gì đó trực quan, dễ quản lý tài chính cá nhân á.
+[09:04] Ờ, anh cũng kỳ vọng nhiều vào nó. Mà này, vụ kiểm thử UAT đợt rồi kết quả sao rồi em? Có lỗi gì nghiêm trọng không?
+[09:06] Dạ vầy nè anh, về cơ bản thì các luồng chính như tạo mục tiêu, nạp tiền, tất toán đều chạy ổn. Nhưng mà có một cái issue nhỏ ở phần hiển thị biểu đồ tiến độ trên mấy dòng điện thoại màn hình nhỏ á, nó bị tràn khung một chút.
+[09:08] Ủa, sao kỳ vậy? Bên Design đã check kỹ cái responsive này chưa? Chị nhớ là mình đã có bộ UI kit chuẩn cho mọi kích thước màn hình rồi mà.
+[09:10] Dạ chị Mai, bên Design tụi em có check rồi, nhưng có vẻ là do cái thư viện chart mình mới dùng nó chưa tương thích hoàn toàn với bản Android đời cũ. Em đang cho mấy bạn fix lại bằng cách ép cứng kích thước container á chị.
+[09:12] Ờ, fix cho khéo nha, đừng để nó nhìn bị méo mó là khách họ chê app mình không chuyên nghiệp đó. À, còn cái vụ tích hợp với bên core banking thì sao? Có độ trễ gì khi khách chuyển tiền vô quỹ tiết kiệm không?
+[09:14] Dạ sếp, phần này em đã làm việc kỹ với team Backend. Luồng tiền đi là realtime luôn ạ. Khách bấm nạp là số dư trong tài khoản thanh toán trừ liền và quỹ tiết kiệm mục tiêu nhảy số ngay lập tức. Tụi em đã test với tải giả lập 10.000 transaction/giây rồi, hệ thống vẫn chịu nhiệt tốt.
+[09:16] Tốt! 10.000 transaction/giây là con số an toàn rồi đó. Mà này, cái tính năng "Tự động trích tiền" (Auto-sweep) ấy, mình đã xử lý trường hợp tài khoản thanh toán không đủ số dư chưa?
+[09:18] Dạ rồi anh. Nếu tài khoản không đủ tiền thì hệ thống sẽ gửi một cái push notification báo cho khách biết là lệnh trích tiền không thành công, và sẽ thử lại vào ngày hôm sau. Nếu quá 3 lần không được thì mình sẽ tạm dừng cái lệnh auto đó và yêu cầu khách kiểm tra lại.
+[09:20] Ừ, xử lý vậy là hợp lý. Tránh việc mình cứ quét liên tục gây phiền cho khách hoặc làm nặng hệ thống. À Mai ơi, cái chiến dịch truyền thông cho tính năng này em đã chuẩn bị tới đâu rồi?
+[09:22] Dạ sếp, em định là mình sẽ chạy một cái campaign tên là "Tiết kiệm thông minh - Rinh ngay quà chất". Khách hàng nào tạo mục tiêu đầu tiên và nạp tối thiểu 1 triệu đồng sẽ được tặng một cái voucher mua sắm 50k. Đồng thời mình cũng mời mấy bạn TikToker mảng tài chính làm mấy cái video ngắn hướng dẫn dùng app luôn.
+[09:24] Voucher 50k thì hơi ít không em? Ngân hàng mình mà, chịu chơi chút đi, tăng lên 100k cho 1000 khách đầu tiên thử xem sao.
+[09:26] Dạ sếp, để em tính lại cái budget rồi báo cáo lại sếp sớm nha. Nếu tăng lên 100k thì mình phải cắt bớt tiền chạy ads ở mấy kênh khác á.
+[09:28] Ờ, cân đối sao cho hiệu quả là được. Anh muốn cái lượng user active hàng tháng (MAU) nó phải tăng ít nhất 15% sau khi ra cái này đó.
+[09:30] Dạ vầy thì tụi em phải đẩy mạnh cái vụ referral nữa anh ạ. Kiểu như khách mời bạn bè cùng tạo "Mục tiêu nhóm" để đi du lịch hay mua sắm chung á, cái này sẽ viral nhanh lắm.
+[09:32] Mục tiêu nhóm hả? Ủa tính năng này mình đã làm xong chưa ta? Anh nhớ đợt trước bảo là để phase 2 mà?
+[09:34] Dạ sếp nhớ đúng rồi ạ, đợt này mình chỉ ra mục tiêu cá nhân thôi. Nhưng mà trong code là em đã để sẵn cái framework cho mục tiêu nhóm rồi, chỉ cần bật switch lên và tinh chỉnh một chút là chạy được. Chắc tầm tháng sau là mình roll-out cái đó luôn là vừa đẹp.
+[09:36] Ok, tập trung làm cho tốt cái cá nhân trước đã. Mà này, bộ phận CSKH đã được training về cái này chưa? Lỡ khách họ gọi lên hỏi cách tính lãi suất hay cách rút tiền trước hạn thì mấy bạn phải biết trả lời nha.
+[09:38] Dạ Lan bên HR đã tổ chức một buổi training online cho toàn bộ team CSKH vào sáng qua rồi anh. Em cũng đã gửi bộ tài liệu FAQ (những câu hỏi thường gặp) cho các bạn ấy rồi.
+[09:40] Ừm, nhớ lưu ý mấy bạn là lãi suất của tiết kiệm mục tiêu này mình đang để cao hơn tiết kiệm thường một chút để thu hút khách nha. Nhưng mà phải giải thích rõ điều kiện rút tiền á.
+[09:42] Dạ vâng ạ, rút trước hạn là chỉ được hưởng lãi suất không kỳ hạn thôi, cái này tụi em có để một cái popup cảnh báo rất rõ lúc khách bấm nút tất toán rồi sếp.
+[09:44] Tốt, minh bạch vậy là tốt. À còn một vụ nữa, cái bảo mật OTP lúc rút tiền á, mình dùng SMS OTP hay là Smart OTP trong app luôn?
+[09:46] Dạ dùng Smart OTP luôn cho nó đồng bộ sếp ơi. Vừa an toàn mà vừa đỡ tốn tiền gửi tin nhắn SMS của ngân hàng mình nữa.
+[09:48] Đồng ý. Vậy là ổn áp rồi đó. Team IT chuẩn bị tinh thần nha, đêm thứ Ba tuần tới mình sẽ thực hiện deploy. Anh muốn mọi thứ phải được check-list kỹ càng, có phương án roll-back ngay lập tức nếu xảy ra sự cố lớn.
+[09:50] Dạ vâng sếp, tụi em đã chuẩn bị sẵn kịch bản deploy chi tiết rồi ạ. Sẽ có ít nhất 3 bạn senior túc trực xuyên đêm để xử lý biến cố.
+[09:52] Ok, chúc team mình đợt này ra quân đại thắng nha. Làm cái này xong anh mời cả team đi ăn mừng một bữa hoành tráng.
+[09:54] Dạ hú hồn, nghe tới ăn là tụi em có động lực liền sếp ơi!
+[09:56] Hì hì, cố gắng lên nha mấy đứa. Thôi mọi người về làm việc tiếp đi.
+[09:58] Dạ tụi em chào sếp ạ.
+
+<|output|>
+# Ra mắt tính năng Tiết kiệm mục tiêu trên ứng dụng ngân hàng số
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rà soát cuối cùng về tính năng "Tiết kiệm mục tiêu" (Goal-based Savings) trước ngày ra mắt chính thức.
+- Giải quyết các vấn đề kỹ thuật còn tồn đọng và thống nhất kế hoạch triển khai (deployment).
+- Thống nhất chiến dịch marketing và phương án hỗ trợ khách hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Lỗi hiển thị biểu đồ tiến độ trên các dòng điện thoại Android cũ màn hình nhỏ (đã có phương án fix).
+- Kết quả test tải hệ thống đạt 10.000 giao dịch/giây, đảm bảo tính realtime khi nạp tiền.
+- Quy trình xử lý tự động trích tiền khi tài khoản không đủ số dư (gửi push thông báo và thử lại).
+- Chiến dịch Marketing "Tiết kiệm thông minh - Rinh ngay quà chất" với voucher và hợp tác cùng các TikToker tài chính.
+- Đề xuất tăng giá trị voucher từ 50k lên 100k cho 1000 khách hàng đầu tiên.
+- Kế hoạch phát triển tính năng "Mục tiêu nhóm" cho giai đoạn 2 (tháng sau).
+- Công tác đào tạo CSKH và chuẩn bị bộ tài liệu FAQ.
+- Chính sách lãi suất ưu đãi và quy định về tất toán trước hạn.
+- Sử dụng Smart OTP để tăng tính bảo mật và tối ưu chi phí vận hành.
+
+### 3. Kết luận và quyết định
+- Chốt lịch deploy tính năng vào đêm thứ Ba tuần tới (28/05/2024).
+- Phê duyệt việc điều chỉnh ngân sách để tăng giá trị quà tặng voucher lên 100k cho khách hàng mới.
+- Sử dụng Smart OTP làm phương thức xác thực duy nhất cho tính năng này.
+- Đội ngũ kỹ thuật trực chiến 24/7 trong 3 ngày đầu ra mắt để xử lý sự cố.
+- MAU (User active hàng tháng) mục tiêu tăng trưởng tối thiểu 15% sau chiến dịch.
+- Xây dựng kịch bản roll-back chi tiết để phòng ngừa rủi ro kỹ thuật.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Fix lỗi hiển thị biểu đồ trên Android cũ | Team Design & Frontend | 24/05/2024 |
+| Hoàn thiện kịch bản deploy và phương án roll-back | Team Backend & DevOps | 25/05/2024 |
+| Điều chỉnh ngân sách Marketing và làm việc với KOLs | Chị Mai (Phòng Marketing) | 26/05/2024 |
+| Gửi tài liệu FAQ cập nhật cho bộ phận CSKH | Team Product | 24/05/2024 |
+| Thiết lập tham số lãi suất ưu đãi trên hệ thống core | Team Backend | 27/05/2024 |
+| Thực hiện deploy sản phẩm lên Production | Team IT | 28/05/2024 |
+| Theo dõi và báo cáo chỉ số MAU sau 1 tuần ra mắt | Team Analytics | 05/06/2024 |

@@ -1,0 +1,47 @@
+<|input|>
+[15:00] Chào mọi người, hôm nay Hội đồng đầu tư của mình họp để đánh giá lại 3 dự án khởi nghiệp trong lĩnh vực công nghệ giáo dục (EdTech) mà chúng ta đã tiếp cận tháng trước. Chị Thu bên bộ phận thẩm định cho biết ý kiến về dự án "Học toán tương tác" trước đi chị.
+[15:03] Chào các anh chị. Về dự án Học toán tương tác, đội ngũ sáng lập rất mạnh về kỹ thuật, sản phẩm đã có bản Beta chạy khá mượt trên mobile. Tuy nhiên, qua kiểm tra sâu về dữ liệu người dùng, tôi thấy tỷ lệ khách hàng quay lại (retention rate) sau tháng đầu tiên chỉ đạt 15%. Con số này hơi thấp so với trung bình ngành là khoảng 25-30%. 
+[15:06] Đúng rồi chị Thu, em cũng thấy lo về chỗ đó. Có vẻ như nội dung bài học của họ chưa đủ hấp dẫn để giữ chân các bé lâu dài. Trong khi đó, dự án thứ hai là nền tảng "Học ngoại ngữ qua game" thì lại có chỉ số giữ chân khách hàng rất ấn tượng, lên tới 40% mặc dù giao diện nhìn hơi cũ kỹ một chút.
+[15:09] Ý kiến của Nam rất hay. Giao diện thì mình có thể đổ tiền vào để thuê UI/UX làm lại cho đẹp, nhưng cái "linh hồn" của game để giữ chân trẻ em thì không phải ai cũng làm được. Vậy anh Bình thấy cái mô hình kinh doanh (business model) của bên Học ngoại ngữ này có khả năng scale nhanh không anh?
+[15:12] Theo tôi thấy, mô hình của họ dựa trên thu phí đăng ký tháng (subscription) là khá bền vững. Nhưng cái khó nhất của họ hiện nay là chi phí tìm kiếm một khách hàng mới (CAC) đang quá cao, gần như ăn hết vào lợi nhuận trong 6 tháng đầu của mỗi user. Họ cần một chiến lược marketing cộng đồng tốt hơn thay vì cứ đổ tiền vào Facebook Ads.
+[15:15] Vậy là mỗi dự án đều có cái hay và cái dở riêng. Còn dự án thứ ba là "Trường học ảo VR" thì sao? Tôi thấy công nghệ này hơi xa vời đối với thị trường Việt Nam hiện nay, hay là mình gạt sang một bên?
+[15:18] Em cũng nghĩ vậy sếp ạ. VR yêu cầu phần cứng đắt tiền, phụ huynh Việt Nam chưa sẵn sàng chi hàng chục triệu cho một bộ kính chỉ để con học bài đâu. Có lẽ mình nên tập trung nguồn lực vào dự án "Học ngoại ngữ qua game" vì nó thực tế và có số liệu chứng minh khả năng tăng trưởng hơn.
+[15:21] Tôi đồng ý với Nam. Chị Thu giúp em làm một cuộc kiểm tra tài chính (Financial DD) kỹ hơn cho dự án ngoại ngữ này nhé. Mình cần biết rõ họ đã tiêu bao nhiêu tiền từ vòng gọi vốn trước và kế hoạch sử dụng vốn sắp tới của họ có thực tế không.
+[15:24] Vâng, em sẽ làm việc với bên họ để lấy số liệu chi tiết. Em cũng sẽ kiểm tra lại toàn bộ hồ sơ sở hữu trí tuệ của họ, xem các nhân vật và kịch bản game có bị dính bản quyền của bên nào không, cái này rất quan trọng khi mình muốn thoái vốn sau này.
+[15:27] Rất tốt. Nam giúp anh lên cái danh mục các điều kiện (Term Sheet) sơ bộ để mình gửi cho họ nếu kết quả kiểm tra tài chính ổn nhé. Anh muốn mình nắm giữ khoảng 15-20% cổ phần để có tiếng nói trong ban quản trị.
+[15:30] Dạ vâng anh Bình, em sẽ chuẩn bị Term Sheet ngay trong tuần này. Chắc là khoảng thứ Tư tuần sau mình sẽ có kết quả thẩm định cuối cùng để ra quyết định đầu tư chính thức sếp nhé.
+[15:33] Ok, vậy chốt lại là mình ưu tiên dự án Học ngoại ngữ qua game. Chị Thu lo phần tài chính và pháp lý, Nam lo phần Term Sheet và thương lượng với founder. Mọi người làm kỹ đợt này nhé, mình không muốn mất tiền vào những dự án ảo đâu.
+[15:36] Vâng chúng em rõ rồi ạ.
+[15:39] Cảm ơn mọi người, cuộc họp kết thúc.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá và sàng lọc các dự án khởi nghiệp EdTech để đưa ra quyết định đầu tư.
+- Phân tích các chỉ số vận hành (retention rate, CAC) và tiềm năng tăng trưởng của từng dự án.
+- Thống nhất các bước thẩm định tiếp theo và chuẩn bị điều khoản đầu tư (Term Sheet).
+
+### 2. Các vấn đề đã thảo luận
+- Dự án Học toán tương tác: Đội ngũ kỹ thuật mạnh nhưng tỷ lệ giữ chân khách hàng (15%) thấp.
+- Dự án Học ngoại ngữ qua game: Chỉ số giữ chân ấn tượng (40%), mô hình kinh doanh bền vững nhưng chi phí marketing (CAC) cao và giao diện cần cải thiện.
+- Dự án Trường học ảo VR: Công nghệ quá mới và chi phí phần cứng cao, chưa phù hợp với thị trường hiện tại.
+- Tầm quan trọng của việc kiểm tra sở hữu trí tuệ và kế hoạch sử dụng vốn thực tế của các founder.
+
+### 3. Kết luận và quyết định
+- Ưu tiên tập trung nguồn lực đầu tư vào dự án "Học ngoại ngữ qua game" do có số liệu tăng trưởng khả thi nhất.
+- Tạm dừng xem xét dự án VR do tính thực tế không cao đối với người tiêu dùng Việt Nam.
+- Thực hiện kiểm tra tài chính (Financial DD) và rà soát pháp lý sở hữu trí tuệ cho dự án được chọn.
+- Chuẩn bị bản Term Sheet sơ bộ với mục tiêu nắm giữ 15-20% cổ phần công ty.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thực hiện kiểm tra tài chính (Financial DD) chi tiết | Chị Thu | 25/03/2026 |
+| Rà soát hồ sơ sở hữu trí tuệ và bản quyền game | Phòng Pháp chế | 25/03/2026 |
+| Soạn thảo Term Sheet đầu tư sơ bộ | Nam | 20/03/2026 |
+| Làm việc với Founder về kế hoạch sử dụng vốn và marketing | Anh Bình | 22/03/2026 |
+| Tổng hợp báo cáo thẩm định cuối cùng cho Hội đồng | Chị Thu | 26/03/2026 |

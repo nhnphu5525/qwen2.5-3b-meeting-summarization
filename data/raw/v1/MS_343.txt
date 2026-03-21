@@ -1,0 +1,63 @@
+<|input|>
+[10:30] Chào chị Thảo, chào anh Minh và team kinh doanh. Hôm nay chúng ta họp để chuẩn bị cho chiến dịch du lịch hè - mùa cao điểm nhất trong năm của công ty.
+[10:32] Chào mọi người, năm nay tình hình có vẻ khởi sắc hơn, lượng tìm kiếm tour nội địa trên website của chúng ta đã tăng 40% so với cùng kỳ năm ngoái.
+[10:34] Đúng vậy chị Thảo, đặc biệt là các tuyến biển như Phú Quốc, Nha Trang và Đà Nẵng. Khách hàng đang có xu hướng đặt dịch vụ sớm để giữ giá tốt.
+[10:36] Chào Minh, anh thấy các combo "Vé máy bay + Khách sạn" đang bán rất chạy. Tuy nhiên, giá vé máy bay đợt này đang tăng phi mã, ảnh hưởng rất lớn đến giá tour trọn gói của mình.
+[10:38] Em cũng đang lo lắng về giá vé. Liệu mình có nên chủ động ôm series vé máy bay (block vé) từ sớm để có mức giá ổn định không anh Minh?
+[10:40] Ôm series thì giá sẽ rẻ hơn khoảng 15-20%, nhưng rủi ro là nếu không bán hết tour thì mình sẽ phải chịu lỗ phần vé đó. Chị Thảo thấy sao ạ?
+[10:42] Theo chị thì với dự báo cầu du lịch năm nay, mình nên tự tin ôm khoảng 50% công suất dự kiến cho các tuyến trọng điểm. 50% còn lại mình sẽ lấy theo thực tế để đảm bảo an toàn.
+[10:44] Vâng chị, em sẽ làm việc lại với các hãng hàng không để chốt lượng block vé trong tuần này. Còn về mảng khách sạn, anh Minh đã ký kết xong hợp đồng với các đối tác chiến lược chưa?
+[10:46] Anh đã chốt xong với chuỗi khách sạn Vinpearl và Sun Group. Họ đồng ý giữ cho mình một lượng phòng nhất định với giá ưu đãi cho đến hết tháng 8. Tuy nhiên, họ yêu cầu mình phải thanh toán đặt cọc 30% ngay.
+[10:48] 30% đặt cọc cũng là con số khá lớn đấy. Minh kiểm tra lại dòng tiền của công ty xem có đủ đáp ứng không nhé. Ngoài ra, chị muốn đa dạng hóa sản phẩm hơn, không chỉ có tour biển.
+[10:50] Em đang xây dựng thêm các tour trải nghiệm văn hóa và trekking tại khu vực Tây Bắc như Sapa, Hà Giang. Xu hướng khách trẻ hiện nay rất thích kiểu đi trốn, gần gũi với thiên nhiên.
+[10:52] Tour trekking thì Minh phải đặc biệt lưu ý về vấn đề an toàn và bảo hiểm du lịch cho khách nhé. Cần chọn lọc các đối tác cung ứng dịch vụ địa phương thật uy tín, có kinh nghiệm xử lý sự cố rừng núi.
+[10:54] Dạ, em đã trực tiếp đi khảo sát các tuyến đó và làm việc với các đội hướng dẫn viên bản địa. Họ nắm rất rõ địa hình và thời tiết.
+[10:56] Tốt. Còn về mảng khách quốc tế (inbound) thì sao chị Thảo? Em thấy lượng khách từ Hàn Quốc và Đài Loan đang tăng trưởng mạnh.
+[10:58] Mảng inbound đang hồi phục tốt. Chúng ta cần thiết kế thêm các tour đánh golf và nghỉ dưỡng cao cấp để phục vụ phân khúc khách hàng này. Họ chi tiêu rất đậm cho các dịch vụ spa và ẩm thực.
+[11:00] Để thu hút khách quốc tế, em nghĩ mình cần đẩy mạnh quảng bá trên các nền tảng mạng xã hội như Instagram và TikTok với những video ngắn, hình ảnh lung linh về Việt Nam.
+[11:02] Ý tưởng của Minh rất hay. Minh phối hợp với team Marketing để thuê một vài KOL du lịch nổi tiếng sang trải nghiệm và review tour của mình nhé.
+[11:04] Vâng chị, em sẽ lên danh sách các KOL phù hợp và gửi chị duyệt. Ngoài ra, vấn đề chăm sóc khách hàng sau tour cũng cần được chú trọng để tăng tỷ lệ khách quay lại.
+[11:06] Đúng rồi, chị muốn mỗi khách hàng sau khi kết thúc tour đều nhận được một món quà nhỏ mang đậm dấu ấn của công ty và một phiếu khảo sát ý kiến.
+[11:08] Em sẽ cho sản xuất các bộ combo quà tặng như túi vải, bình nước in logo công ty để gửi tặng khách. Còn phiếu khảo sát mình sẽ chuyển sang dạng online qua mã QR để khách dễ thực hiện.
+[11:10] Rất chuyên nghiệp. Anh Minh lưu ý thêm về việc đào tạo đội ngũ hướng dẫn viên về kỹ năng xử lý tình huống và thái độ phục vụ. Hướng dẫn viên chính là gương mặt của công ty đó.
+[11:12] Anh đã lên lịch training cho toàn bộ hướng dẫn viên vào giữa tháng sau. Lần này anh sẽ mời cả chuyên gia về tâm lý khách hàng đến chia sẻ kinh nghiệm.
+[11:14] Tuyệt vời. Buổi họp hôm nay chốt lại các đầu việc chính như vậy. Minh tập trung vào vé máy bay và tour trekking, anh Minh lo phần khách sạn và hướng dẫn viên. Chị sẽ theo sát phần tài chính và marketing.
+[11:16] Chúc chiến dịch hè của chúng ta thành công rực rỡ!
+[11:18] Cảm ơn chị Thảo, cảm ơn anh Minh.
+[11:20] Chào mọi người.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Xây dựng kế hoạch kinh doanh và marketing cho mùa du lịch cao điểm hè.
+- Giải quyết bài toán giá vé máy bay tăng cao và đảm bảo nguồn cung phòng khách sạn.
+- Đa dạng hóa sản phẩm du lịch (tour trekking, tour golf) và nâng cao chất lượng dịch vụ.
+
+### 2. Các vấn đề đã thảo luận
+- Lượng tìm kiếm tour nội địa tăng mạnh, đặc biệt là các tuyến du lịch biển.
+- Chiến lược "ôm" series vé máy bay (block vé) để giữ giá ổn định bất chấp biến động thị trường.
+- Đàm phán và đặt cọc giữ chỗ với các đối tác khách sạn lớn (Vinpearl, Sun Group).
+- Phát triển các sản phẩm tour trải nghiệm, trekking vùng cao phía Bắc cho khách hàng trẻ.
+- Đẩy mạnh mảng khách quốc tế (inbound) từ Hàn Quốc, Đài Loan với sản phẩm cao cấp.
+- Sử dụng KOL du lịch và mạng xã hội (TikTok, Instagram) để quảng bá hình ảnh.
+- Cải thiện quy trình chăm sóc khách hàng sau tour bằng quà tặng và khảo sát online.
+- Đào tạo kỹ năng mềm và tâm lý khách hàng cho đội ngũ hướng dẫn viên.
+
+### 3. Kết luận và quyết định
+- Chốt phương án ôm 50% công suất vé máy bay cho các tuyến trọng điểm.
+- Phê duyệt kế hoạch phát triển tour trekking và yêu cầu đảm bảo tuyệt đối an toàn.
+- Triển khai chiến dịch Marketing sử dụng KOL và video ngắn ngay trong tháng tới.
+- Tổ chức buổi training tập trung cho đội ngũ hướng dẫn viên vào giữa tháng sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Chốt số lượng block vé máy bay với các hãng hàng không | Anh Minh | 25/03/2024 |
+| Hoàn thiện chương trình tour trekking Tây Bắc và quy trình an toàn | Minh | 30/03/2024 |
+| Lập danh sách và liên hệ KOL cho chiến dịch quảng bá hè | Bộ phận Marketing | 28/03/2024 |
+| Thanh toán đặt cọc cho các đối tác khách sạn chiến lược | Bộ phận Tài chính | 26/03/2024 |
+| Thiết kế bộ quà tặng và phiếu khảo sát online cho khách hàng | Minh | 05/04/2024 |

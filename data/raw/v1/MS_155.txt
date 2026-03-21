@@ -1,0 +1,58 @@
+<|input|>
+[08:00:15] Chào anh chị em nha. Sáng nay mình ngồi lại gấp xíu để bàn cái vụ hành tím dưới Vĩnh Châu đang bị rớt giá thê thảm quá. Bà con mình đang khóc ròng dưới đó, mình là Hội hỗ trợ nông nghiệp thì không thể ngồi yên được.
+[08:01:30] Dạ đúng rồi anh Nghĩa, em mới đi thực tế dưới đó về nè. Nhìn cảnh hành chất đống ngoài đồng mà thương lắm. Thương lái ép giá chỉ còn có 3-4 ngàn một ký, trong khi giá thành sản xuất đã tầm 7-8 ngàn rồi. Càng bán càng lỗ anh ơi.
+[08:02:45] Trời đất, rớt giá dữ vậy sao? Mọi năm anh thấy cũng ổn mà, sao năm nay lại ra nông nỗi này? Do cung vượt cầu hay là do xuất khẩu bị tắc nghẽn vậy cô Hoa?
+[08:04:10] Dạ vầy nè anh, năm nay bà con mình thấy năm ngoái được giá nên ồ ạt mở rộng diện tích. Khổ cái là thị trường truyền thống của mình là Trung Quốc nó lại đang thắt chặt kiểm dịch, xe hàng ùn ứ ở cửa khẩu không qua được. Thành ra hàng nó dội ngược về nội địa, mà dân mình thì tiêu thụ không hết bấy nhiêu đó.
+[08:05:35] Anh thấy cái kịch bản này nó cứ lặp đi lặp lại hoài ha. Cứ được giá là trồng, rồi lại "giải cứu". Nhưng mà thôi, chuyện đó bàn sau, giờ cái bụng bà con đang đói, mình phải tính cách đẩy hàng đi gấp đã.
+[08:07:00] Em có ý kiến là mình triển khai ngay chiến dịch "Hành tím nghĩa tình" đi anh. Mình kết nối với mấy hệ thống siêu thị lớn như Co.op Mart hay WinMart, xin họ hỗ trợ mấy cái kệ trưng bày riêng cho hành Vĩnh Châu, bán không lợi nhuận để hỗ trợ bà con.
+[08:08:25] Ý này hay đó. Nhưng mà siêu thị họ cũng có quy trình, kiểm định chất lượng gắt lắm nha. Hành dưới đó có đảm bảo tiêu chuẩn VietGAP hay an toàn thực phẩm gì không Hoa? Chứ đưa vô siêu thị mà bị phát hiện dư lượng thuốc bảo vệ thực vật là mệt lắm đó.
+[08:09:50] Dạ có anh, một số hợp tác xã lớn họ làm rất chuẩn. Mình sẽ lấy hàng từ những chỗ đó trước để làm thương hiệu. Còn mấy hộ nhỏ lẻ thì mình vận động họ gom lại, mình hỗ trợ khâu đóng gói, nhãn mác cho nó chuyên nghiệp xíu thì mới vào siêu thị được.
+[10:11:15] Ngoài siêu thị ra, em thấy mình nên đánh mạnh vào kênh online nữa. Giờ livestream bán hàng đang hot, mình mời mấy bạn TikToker hay Influencer về nông nghiệp tham gia livestream "chốt đơn" trực tiếp tại ruộng luôn. Vừa tạo hiệu ứng truyền thông, vừa bán được số lượng lớn.
+[10:12:40] Anh đồng ý với Nam. Nhưng mà vụ vận chuyển thì sao? Hành tím này tuy để được lâu nhưng nếu đóng gói không kỹ, đi đường xa mà bị hầm hơi là nó thối hết. Phải tính kỹ cái khâu logistics này nè.
+[10:14:05] Dạ vầy nè, em sẽ liên hệ với bên Viettel Post hoặc GHTK. Mình xin họ gói cước ưu đãi cho chiến dịch "giải cứu" này. Nếu được thì mình lập mấy cái điểm tập kết hàng ở Cần Thơ, Sài Gòn rồi từ đó phân phối đi các nơi cho nó giảm chi phí vận chuyển.
+[10:15:30] Còn một hướng nữa là mình liên hệ với mấy khu công nghiệp, mấy bếp ăn tập thể lớn á. Mỗi công nhân chỉ cần ủng hộ 1-2 ký thôi là con số nó khủng khiếp lắm rồi. Mình bán theo túi 2kg hoặc 5kg cho nó tiện vận chuyển và phân phối.
+[10:16:55] Ừ, hướng đó cũng khả thi nè. Chị Lan bên hội phụ nữ cũng có nhiều mối quan hệ với mấy bếp ăn trường học nữa. Để anh gọi điện nhờ chị ấy hỗ trợ một tay.
+[10:18:20] Anh Nghĩa ơi, em thấy mình cũng nên tính đến chuyện chế biến sâu nữa. Cứ bán tươi hoài thì ép giá là phải rồi. Sao mình không kêu gọi mấy doanh nghiệp làm hành phi, hay là làm bột hành, nước mắm hành... họ vào cuộc thu mua giúp bà con?
+[10:19:45] Cái đó là chiến lược lâu dài rồi Hoa ơi. Giờ trước mắt là phải giải quyết cái đống hành đang nằm ngoài ruộng cái đã. Chứ đợi lắp máy móc xong thì hành nó mọc mầm hết. Nhưng mà ý của Hoa cũng đúng, sau đợt này mình phải ngồi lại với các sở ngành để bàn về quy hoạch vùng trồng và chế biến sâu chứ không thể để cảnh này tái diễn năm sau được.
+[10:21:10] Dạ, vậy giờ chốt lại kế hoạch nha anh. Em sẽ phụ trách liên hệ các siêu thị và chuẩn bị giấy tờ kiểm định. Nam lo vụ livestream và kết nối các đơn vị vận chuyển. Còn anh Nghĩa kết nối với các khu công nghiệp và bếp ăn tập thể nhé.
+[10:22:35] Ok. Còn vụ giá cả thì mình thống nhất thế nào? Mình mua của bà con giá bao nhiêu và bán ra bao nhiêu để vừa giúp được dân mà vừa đủ bù chi phí vận hành?
+[10:24:00] Em nghĩ mình mua tại ruộng khoảng 10-12 ngàn một ký là bà con có lời chút đỉnh rồi. Bán ra tầm 15-18 ngàn là hợp lý, bù được tiền bao bì với vận chuyển. Mức giá này người tiêu dùng cũng dễ chấp nhận vì nó vẫn rẻ hơn giá chợ mà lại là "hành nghĩa tình" nữa.
+[10:25:25] Chốt vậy đi! Ngay chiều nay Nam lên cho anh cái poster với slogan chiến dịch nha. Sáng mai mình bắt đầu triển khai luôn, không chờ đợi gì nữa. Bà con đang đợi mình đó.
+[10:26:50] Dạ vâng, em sẽ làm ngay và luôn. Slogan em tính đặt là "Hành tím Vĩnh Châu - Đậm tình đất mẹ", nghe được không anh?
+[10:28:15] Nghe kêu đó! Được rồi, mọi người bắt tay vào việc đi. Có khó khăn gì báo anh ngay nha. Hy vọng đợt này mình giúp bà con đẩy được vài trăm tấn là ấm lòng rồi.
+[10:29:40] Dạ, tụi em quyết tâm làm được anh ơi. Thôi em đi liên hệ siêu thị đây.
+[10:31:05] Chào anh, em đi lên kịch bản livestream đây.
+
+<|output|>
+# Chiến dịch hỗ trợ tiêu thụ hành tím Vĩnh Châu
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá thực trạng hành tím tại Vĩnh Châu đang bị rớt giá nghiêm trọng và ùn ứ số lượng lớn.
+- Xây dựng kế hoạch khẩn cấp hỗ trợ bà con nông dân tiêu thụ sản phẩm qua nhiều kênh khác nhau.
+- Thống nhất mức giá thu mua và giá bán ra để đảm bảo quyền lợi cho người nông dân và sự hưởng ứng của người tiêu dùng.
+
+### 2. Các vấn đề đã thảo luận
+- Nguyên nhân rớt giá: Cung vượt cầu do tự phát mở rộng diện tích và tắc nghẽn xuất khẩu sang thị trường Trung Quốc.
+- Kênh siêu thị: Kết nối với Co.op Mart, WinMart để đưa hàng vào kệ ưu tiên, yêu cầu đảm bảo tiêu chuẩn an toàn thực phẩm và bao bì chuyên nghiệp.
+- Kênh Online: Tổ chức livestream bán hàng trực tiếp tại ruộng với sự tham gia của Influencer để tạo sức lan tỏa.
+- Kênh Bếp ăn tập thể: Liên hệ các khu công nghiệp, trường học để vận động công nhân, nhân viên mua ủng hộ.
+- Logistics: Đàm phán với các đơn vị vận chuyển (Viettel Post, GHTK) để có mức phí ưu đãi cho chiến dịch "giải cứu".
+- Giải pháp lâu dài: Cần tính đến chuyện chế biến sâu (hành phi, bột hành) và quy hoạch vùng trồng bài bản hơn.
+
+### 3. Kết luận và quyết định
+- Chính thức phát động chiến dịch "Hành tím nghĩa tình - Đậm tình đất mẹ".
+- Giá thu mua tại ruộng: 10.000 - 12.000đ/kg; Giá bán ra dự kiến: 15.000 - 18.000đ/kg.
+- Phân công nhiệm vụ cụ thể cho từng thành viên: Liên hệ siêu thị, xây dựng kênh online, kết nối bếp ăn công nghiệp và truyền thông.
+- Thời gian bắt đầu triển khai: Ngay ngày mai, bắt đầu từ việc chuẩn bị hình ảnh và thông điệp truyền thông.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế poster, slogan và lên kịch bản livestream | Nam | 14/10/2023 |
+| Liên hệ hệ thống siêu thị và chuẩn bị hồ sơ kiểm định | Hoa | 15/10/2023 |
+| Đàm phán gói cước vận chuyển ưu đãi | Nam | 14/10/2023 |
+| Kết nối các khu công nghiệp, bếp ăn trường học | Anh Nghĩa | 16/10/2023 |
+| Liên hệ HTX tại Vĩnh Châu để chốt danh sách hộ nông dân cần hỗ trợ | Hoa | 14/10/2023 |

@@ -1,0 +1,44 @@
+<|input|>
+[10:30] Chào các bác sĩ, hôm nay mình bàn nhanh cái kế hoạch triển khai bệnh án điện tử cho bệnh viện mình nhé.
+[10:32] Dạ anh, cái này là quá cần thiết rồi, chứ bây giờ hồ sơ giấy tờ mỗi lần tìm là cứ rối tung hết cả lên.
+[10:33] Đúng đấy, lại còn mất thời gian ghi chép thủ công nữa, có bệnh án điện tử thì bác sĩ có nhiều thời gian thăm khám bệnh nhân hơn.
+[10:35] Nhưng mà cái khó nhất là cái đội ngũ nhân viên mình ấy, nhiều người lớn tuổi rồi, ngại tiếp cận công nghệ mới lắm.
+[10:36] Ờ... mình phải mở mấy cái lớp tập huấn thôi, cầm tay chỉ việc cho mọi người là quen hết ấy mà.
+[10:38] À, thế còn vấn đề hạ tầng mạng thì sao hả em? Mình có cần nâng cấp server hay gì không?
+[10:39] Dạ có anh, cái này cần hệ thống lưu trữ lớn và bảo mật cực cao vì toàn là thông tin cá nhân nhạy cảm của bệnh nhân mà.
+[10:41] Đúng rồi, an toàn thông tin y tế là trên hết, mình không thể chủ quan được đâu.
+[10:42] Em sẽ liên hệ với bên đối tác phần mềm để họ khảo sát lại toàn bộ hệ thống mình đang có rồi báo cáo lại.
+[10:44] Ok, thế bác sĩ Hùng xem lại mấy cái biểu mẫu bệnh án cũ để mình chuẩn bị số hóa sang cái mới cho khớp nhé.
+[10:45] Vâng, em sẽ làm ngay ạ.
+[10:47] Thống nhất thế nhé, hy vọng quý tới mình bắt đầu chạy thử nghiệm được một khoa trước.
+
+<|output|>
+# Kế hoạch triển khai bệnh án điện tử và chuyển đổi số bệnh viện
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thống nhất chủ trương triển khai hệ thống bệnh án điện tử tại bệnh viện.
+- Xác định những khó khăn về nhân sự và hạ tầng công nghệ.
+- Đề ra lộ trình tập huấn và khảo sát hệ thống.
+
+### 2. Các vấn đề đã thảo luận
+- Sự bất tiện của hồ sơ giấy (khó tìm kiếm, mất thời gian ghi chép).
+- Thách thức khi nhân viên lớn tuổi ngại tiếp cận công nghệ.
+- Yêu cầu về hạ tầng server, dung lượng lưu trữ và tính bảo mật thông tin y tế.
+- Khảo sát hệ thống và số hóa các biểu mẫu bệnh án hiện tại.
+
+### 3. Kết luận và quyết định
+- Phê duyệt kế hoạch triển khai bệnh án điện tử.
+- Tổ chức các buổi tập huấn "cầm tay chỉ việc" cho nhân viên y tế.
+- Liên hệ đối tác phần mềm để khảo sát hạ tầng và đảm bảo an toàn thông tin.
+- Chọn một khoa để chạy thử nghiệm trước khi nhân rộng toàn bệnh viện.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Khảo sát hạ tầng mạng và server | Bộ phận IT | 15/01/2026 |
+| Soạn thảo danh sách biểu mẫu cần số hóa | Bác sĩ Hùng | 10/01/2026 |
+| Lên kế hoạch tập huấn cho nhân viên | Phòng Hành chính | 20/01/2026 |
+| Làm việc với đối tác cung cấp phần mềm | Giám đốc dự án | Chưa rõ |

@@ -1,0 +1,43 @@
+<|input|>
+[09:00] Chào buổi sáng cả nhà. Hôm nay mình ngồi lại một chút để xem xét tác động của việc tỷ giá USD biến động mạnh trong tuần qua đến hoạt động nhập khẩu linh kiện của công ty mình nhé. Anh Hải thấy tình hình này có đáng lo ngại lắm không?
+[09:02] Thực sự là khá đau đầu đấy sếp ạ. Tỷ giá tăng đột biến khiến chi phí nhập khẩu của mình đội lên gần 3% chỉ trong vòng vài ngày. Nếu mình không có kế hoạch phòng ngừa rủi ro tỷ giá (hedging) thì biên lợi nhuận của quý này sẽ bị ảnh hưởng nặng nề.
+[09:04] Em cũng thấy vậy anh Hải. Các nhà cung cấp bên Đài Loan cũng bắt đầu rục rịch đòi điều chỉnh giá niêm yết nếu tỷ giá cứ neo ở mức cao thế này. Lan bên tài chính có đề xuất gì để mình "chốt" tỷ giá sớm không em?
+[09:06] Dạ, em đang làm việc với ngân hàng để xem xét các hợp đồng kỳ hạn (Forward contracts). Mình có thể chốt tỷ giá cho các lô hàng về trong tháng 5 và tháng 6 ngay từ bây giờ. Tuy nhiên, phí hợp đồng cũng đang tăng theo thị trường nên mình cần cân nhắc kỹ khối lượng cần chốt ạ.
+[09:08] Anh nghĩ mình nên chốt ít nhất 50% nhu cầu ngoại tệ của hai tháng tới. Thà mất một ít phí còn hơn là để rủi ro trôi nổi thế này. Còn việc đàm phán với nhà cung cấp thì sao Nam? Em có thể xin họ giãn thời hạn thanh toán để mình đợi tỷ giá hạ nhiệt không?
+[09:10] Em sẽ cố gắng đàm phán ạ, nhưng khả năng cao là họ sẽ chỉ đồng ý nếu mình cam kết số lượng đặt hàng lớn hơn. Một phương án khác là mình tìm kiếm các nguồn hàng trong nước có thể thay thế một phần linh kiện nhập khẩu để giảm áp lực ngoại tệ.
+[09:12] Ý tưởng tìm nguồn hàng nội địa của Nam rất hay, dù có thể chất lượng chưa bằng nhưng trong giai đoạn này là giải pháp tình thế tốt. Lan giúp anh lập một bảng so sánh chi phí giữa việc chốt Forward và việc để trôi nổi với các kịch bản tỷ giá khác nhau nhé.
+[09:14] Vâng sếp, em sẽ gửi bảng tính cho anh vào chiều nay. 
+[09:16] Ok, vậy chốt lại là mình sẽ triển khai hợp đồng kỳ hạn và rà soát lại nguồn cung nội địa. Mọi người chủ động phối hợp nhé.
+[09:18] Cảm ơn mọi người, chúng ta dừng ở đây.
+
+<|output|>
+# Triển khai hệ thống tóm tắt cuộc họp tự động
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đánh giá tác động của biến động tỷ giá USD đến chi phí nhập khẩu linh kiện.
+- Đề xuất các biện pháp phòng ngừa rủi ro tài chính và tối ưu hóa chi phí đầu vào.
+- Tìm kiếm giải pháp thay thế nguồn hàng để giảm phụ thuộc vào ngoại tệ.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí nhập khẩu tăng 3% do tỷ giá USD biến động mạnh.
+- Áp lực điều chỉnh giá từ các nhà cung cấp nước ngoài (Đài Loan).
+- Giải pháp sử dụng hợp đồng kỳ hạn (Forward contracts) để cố định chi phí.
+- Khả năng đàm phán giãn nợ hoặc thay đổi điều khoản thanh toán với đối tác.
+- Xu hướng sử dụng linh kiện nội địa làm giải pháp thay thế tạm thời.
+
+### 3. Kết luận và quyết định
+- Thực hiện chốt tỷ giá kỳ hạn cho ít nhất 50% nhu cầu ngoại tệ trong tháng 5 và tháng 6.
+- Giao bộ phận Tài chính lập bảng phân tích kịch bản rủi ro tỷ giá.
+- Bộ phận Thu mua rà soát các nhà cung cấp linh kiện trong nước để giảm áp lực nhập khẩu.
+- Tiếp tục theo sát diễn biến thị trường để điều chỉnh kế hoạch kinh doanh kịp thời.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lập bảng so sánh chi phí Forward và rủi ro tỷ giá | Lan | 18/03/2026 |
+| Đàm phán với nhà cung cấp về thời hạn thanh toán | Nam | 22/03/2026 |
+| Tìm kiếm và đánh giá nhà cung cấp linh kiện nội địa | Phòng Thu mua | 30/03/2026 |
+| Hoàn tất thủ tục hợp đồng kỳ hạn với ngân hàng | Phòng Tài chính | 20/03/2026 |

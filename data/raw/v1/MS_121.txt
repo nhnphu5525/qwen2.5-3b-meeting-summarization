@@ -1,0 +1,67 @@
+<|input|>
+[08:00] Dạ, chào anh chị, sáng nay mình ngồi lại chút xíu để bàn về cái vụ chất lượng phục vụ ở mấy cái quán cà phê của mình á.
+[08:02] Ừm, anh thấy dạo này trên mấy cái hội nhóm review đồ ăn thức uống, khách họ than phiền hơi nhiều về thái độ nhân viên bên mình, đặc biệt là ở mấy chi nhánh quận 1 với quận 3.
+[08:04] Dạ đúng rồi anh, em cũng có đọc mấy cái đó, vầy nè, đa số họ nói là nhân viên mình dạo này hay bấm điện thoại, rồi lúc khách vào không có chào hỏi niềm nở gì hết trơn.
+[08:06] À, mà không chỉ thái độ đâu nha, chị thấy cái vụ lên món cũng chậm nữa, có khách đợi tận 15-20 phút mới có ly cà phê đen đá, thiệt sự là quá lâu luôn đó.
+[08:08] Ờ, vụ này anh cũng biết, chắc là do quy trình pha chế của mình có vấn đề, hay là do nhân viên mới chưa thạo việc ta?
+[08:10] Em nghĩ là cả hai á anh. Nhân viên mới thì mình tuyển đợt vừa rồi cũng nhiều, mà hình như khâu training của bên bộ phận nhân sự nó còn hơi bị hời hợt, chưa có sát sao.
+[08:12] Chắc chắn là vậy rồi, Lan ơi, em xem lại cái giáo trình đào tạo của bên em đi, xem có cần bổ sung thêm mấy cái kỹ năng mềm như giao tiếp với giải quyết khiếu nại không.
+[08:14] Dạ vâng anh, để em về soạn lại cái bộ quy chuẩn mới, lần này em sẽ cho thêm mấy cái tình huống thực tế vô để mấy bạn thực hành luôn cho quen.
+[08:16] À, còn cái vụ lên món chậm, em thấy chỗ quầy bar của mấy chi nhánh lớn nó hơi bị lộn xộn á chị Mai. Các bạn cứ va chạm nhau hoài nên thao tác nó không có nhanh được.
+[08:18] Ừ, chị cũng thấy vậy, hay là mình thử thiết kế lại cái quầy bar theo kiểu dây chuyền một chiều thử xem sao, để bạn này làm xong là chuyển qua cho bạn kia luôn, khỏi phải đi tới đi lui nhiều.
+[08:20] Ý tưởng hay đó Mai, vầy nè, em làm việc với bên thiết kế xem có phương án nào tối ưu không, rồi báo giá cho anh luôn nha.
+[08:22] Dạ, để em triển khai cái này liền, chắc tầm cuối tuần là có bản vẽ sơ bộ cho anh coi đó.
+[08:24] Còn một cái nữa, anh thấy khách họ cũng nhắc nhiều về cái vụ vệ sinh trong quán, nhất là cái nhà vệ sinh á, nhiều khi vô thấy dơ mà không có ai dọn dẹp thường xuyên.
+[08:26] Ờ đúng rồi, cái này quan trọng nè. Em nghĩ mình nên có cái checklist dọn dẹp mỗi 30 phút một lần, rồi dán ở sau cửa luôn, bạn nào dọn xong thì ký tên vô đó để mình kiểm soát.
+[08:28] Đúng rồi đó Lan, làm vậy đi cho nó chuyên nghiệp. À mà mình cũng nên có cái chương trình thưởng cho "Nhân viên xuất sắc của tháng" dựa trên đánh giá của khách hàng nữa.
+[08:30] Dạ, em định là mình sẽ để một cái mã QR ở mỗi bàn á anh, khách họ quét mã đó để đánh giá phục vụ luôn, nếu bạn nào được khen nhiều thì mình thưởng nóng luôn cho tụi nhỏ nó có động lực.
+[08:32] Hay đó, vầy mới đúng là cái anh cần nè. Công nghệ vô chút cho nó hiện đại. Team IT bên mình có làm cái này được không ta?
+[08:34] Dạ được anh, cái này đơn giản mà, để em báo bên đó làm cái form khảo sát rồi tạo mã QR cho từng chi nhánh luôn.
+[08:36] Ok, vậy chốt lại mấy cái đó nha. Mà Lan nè, em nhớ nhắc mấy bạn nhân viên là tuyệt đối không được dùng điện thoại trong giờ làm việc trừ trường hợp khẩn cấp nha, anh thấy cái này là cái gây khó chịu nhất cho khách luôn á.
+[08:38] Dạ em biết rồi anh, em sẽ ra cái quy định mới và áp dụng hình thức kỷ luật nghiêm nếu bạn nào vi phạm cái này.
+[08:40] Ừm, mình cũng cần xem lại cái vụ trang phục nữa, nhiều bạn mặc đồng phục mà nhăn nhúm nhìn nó không có thiện cảm chút nào.
+[08:42] Dạ để em nhắc bên kho cấp thêm đồng phục mới cho mấy chi nhánh luôn, nhiều khi đồ cũ quá rồi các bạn giặt nó cũng không còn phẳng phiu nữa.
+[08:44] Ừ, làm cho tới nơi tới chốn nha mấy đứa. Mình bán cà phê không chỉ là bán nước mà còn là bán cái sự trải nghiệm nữa, mà trải nghiệm tệ là khách họ đi luôn á, không có quay lại đâu.
+[08:46] Dạ tụi em hiểu mà, đợt này quyết tâm thay đổi toàn diện luôn để khách họ hài lòng hơn.
+[08:48] À, còn cái vụ wifi nữa anh ơi, nhiều khách than là wifi yếu xìu, vô làm việc không được cái họ cũng bực mình.
+[08:50] Ờ, cái này để anh gọi bên nhà mạng xuống kiểm tra rồi nâng cấp băng thông lên cho mấy chi nhánh luôn. Chứ thời buổi này mà wifi yếu là thua rồi.
+[08:52] Dạ vâng anh. Vậy sáng nay mình thống nhất vậy đi ha, để tụi em bắt tay vô làm luôn.
+[08:54] Ok, Lan với Mai triển khai sớm cho anh nha. Có khó khăn gì thì cứ hú anh một tiếng.
+[08:56] Dạ anh, tụi em đi làm đây. Chào anh nha.
+[08:58] Ừ, đi đi, làm cho tốt nha.
+
+<|output|>
+# Cải thiện chất lượng phục vụ tại chuỗi quán cà phê
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Giải quyết các khiếu nại của khách hàng về thái độ phục vụ và tốc độ lên món.
+- Chuẩn hóa quy trình đào tạo nhân viên và quản lý chất lượng tại các chi nhánh.
+- Nâng cấp cơ sở vật chất và ứng dụng công nghệ để cải thiện trải nghiệm khách hàng.
+
+### 2. Các vấn đề đã thảo luận
+- Khách hàng phản hồi tiêu cực về thái độ của nhân viên (sử dụng điện thoại, thiếu chào hỏi) tại quận 1 và quận 3.
+- Tốc độ lên món chậm (đợi 15-20 phút), nguyên nhân do quy trình quầy bar chưa tối ưu và nhân viên mới thiếu kỹ năng.
+- Vấn đề vệ sinh, đặc biệt là khu vực nhà vệ sinh chưa được dọn dẹp thường xuyên.
+- Hạ tầng wifi tại một số chi nhánh yếu, ảnh hưởng đến khách hàng làm việc tại quán.
+- Đồng phục nhân viên cũ và không phẳng phiu, gây mất thiện cảm.
+
+### 3. Kết luận và quyết định
+- Xây dựng lại bộ quy chuẩn đào tạo nhân sự, bổ sung kỹ năng mềm và tình huống thực tế.
+- Thiết kế lại quầy bar theo mô hình dây chuyền một chiều để tối ưu hóa thao tác.
+- Triển khai hệ thống đánh giá qua mã QR tại mỗi bàn để ghi nhận phản hồi của khách hàng và khen thưởng nhân viên.
+- Áp dụng checklist vệ sinh định kỳ mỗi 30 phút.
+- Nghiêm cấm sử dụng điện thoại cá nhân trong giờ làm việc và cấp mới đồng phục cho nhân viên.
+- Nâng cấp băng thông wifi tại toàn bộ hệ thống chi nhánh.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn lại giáo trình đào tạo kỹ năng mềm cho nhân viên | Chị Lan (Phòng Nhân sự) | 25/05/2024 |
+| Thiết kế lại sơ đồ quầy bar và báo giá thi công | Chị Mai (Phòng Vận hành) | 28/05/2024 |
+| Xây dựng hệ thống đánh giá qua mã QR và form khảo sát | Team IT | 30/05/2024 |
+| Liên hệ nhà mạng nâng cấp băng thông wifi | Anh chủ chuỗi | 24/05/2024 |
+| Cấp phát đồng phục mới và triển khai quy định kỷ luật | Chị Lan (Phòng Nhân sự) | 01/06/2024 |
+| Triển khai checklist vệ sinh tại các chi nhánh | Quản lý các chi nhánh | 22/05/2024 |

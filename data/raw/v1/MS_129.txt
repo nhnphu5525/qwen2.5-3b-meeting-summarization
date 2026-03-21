@@ -1,0 +1,75 @@
+<|input|>
+[09:00] Chào ban giám đốc và các trưởng bộ phận, hôm nay chúng ta họp một buổi quan trọng để chốt lại chiến lược chuyển dịch từ xe xăng sang phân phối xe điện (EV) cho giai đoạn 5 năm tới của công ty mình.
+[09:02] Dạ sếp, em thấy đây là xu thế tất yếu rồi. Nhìn ra thế giới hay ngay tại Việt Nam mình, xe điện đang phát triển cực nhanh. Nếu mình không đi ngay từ bây giờ là sẽ bị bỏ lại phía sau mất.
+[09:04] Ờ, anh cũng đồng ý là xu thế. Nhưng mà vầy nè, mình đang làm đại lý cho 3 hãng xe xăng lớn, doanh số vẫn đang ổn định. Giờ mình đổ vốn vô làm xe điện thì bài toán dòng tiền xử lý sao hả Lan?
+[09:06] Dạ sếp, em đã ngồi tính toán kỹ rồi. Đầu tư cho hạ tầng trạm sạc, xưởng dịch vụ chuyên dụng cho xe điện và training nhân sự kỹ thuật là một con số khổng lồ á. Dự kiến trong 2 năm đầu mình sẽ phải chịu lỗ để xây dựng hệ sinh thái.
+[09:08] Lỗ 2 năm hả? Ờ, con số cụ thể là bao nhiêu em? Rồi mình định hợp tác với hãng xe điện nào? Hay là mình làm đại lý đa thương hiệu như hiện nay?
+[09:10] Dạ vầy nè anh, em đã có buổi làm việc sơ bộ với hai hãng xe điện lớn từ Trung Quốc là BYD với MG, đồng thời mình cũng đang đàm phán để làm đối tác hạ tầng cho VinFast. Theo em, mình nên đi theo hướng "Đại lý xe điện đa thương hiệu" (EV Multi-brand Hub) để khách hàng có nhiều sự lựa chọn.
+[09:12] Làm đa thương hiệu thì mình phải đầu tư trạm sạc chuẩn chung đúng không Nam? Chứ mỗi hãng một kiểu sạc thì xưởng mình thành cái đống rác dây nhợ mất.
+[09:14] Dạ sếp rành quá! Hiện tại các hãng xe Trung Quốc và VinFast đều đang dần chuẩn hóa theo chuẩn sạc CCS2. Nên mình chỉ cần đầu tư hệ thống trụ sạc nhanh DC công suất lớn là dùng chung được hết. Cái khó nhất là làm việc với bên điện lực để xin cấp trạm biến áp riêng cho khu vực showroom mình á.
+[09:16] Ờ, cái vụ điện lực để anh trực tiếp quan hệ. Còn cái vụ bảo hành bảo trì thì sao Hùng? Thợ xe xăng của mình giờ có sửa được xe điện không? Hay là phải tuyển mới toàn bộ?
+[09:18] Dạ vầy nè sếp, cấu tạo xe điện nó khác hoàn toàn xe xăng. Nó không có động cơ đốt trong, không có hộp số phức tạp nhưng lại cực kỳ rắc rối về phần mềm và hệ thống pin cao áp. Em định là mình sẽ chọn ra 10 bạn kỹ thuật viên giỏi nhất hiện tại để gửi đi đào tạo chuyên sâu ở nước ngoài trong vòng 3 tháng. Song song đó mình phải tuyển thêm mấy bạn chuyên về điện tử viễn thông và IT nữa.
+[09:20] Tuyển thêm IT hả? Sửa xe mà cũng cần IT nữa sao em?
+[09:22] Dạ sếp, xe điện giờ nó như cái điện thoại di động chạy trên bánh xe vậy đó. Lỗi phần mềm, lỗi kết nối sensor là chuyện thường ngày. Không có IT là không đọc được lỗi đâu sếp.
+[09:24] Ờ, nghe cũng hợp lý. Lan nè, em tính xem tổng mức đầu tư cho cái showroom xe điện đầu tiên ở quận 7 là bao nhiêu?
+[09:26] Dạ, tiền mặt bằng mình có sẵn rồi, nhưng tiền cải tạo, lắp trạm sạc nhanh, mua trang thiết bị chẩn đoán chuyên dụng và tiền cọc nhập xe mẫu dự kiến rơi vào khoảng 50 tỷ đồng cho một điểm sếp ạ.
+[09:28] 50 tỷ... Mà mình định mở chuỗi 5 điểm trong 3 năm tới đúng không? Tức là cần 250 tỷ. Con số này không nhỏ đâu nha.
+[09:30] Dạ sếp, bởi vậy em mới đề xuất mình nên thoái vốn bớt ở 2 showroom xe xăng đang có doanh số thấp để dồn lực cho EV. Mình phải chấp nhận "chặt tay cứu thân" thôi sếp ạ.
+[09:32] Chặt tay cứu thân hả... Ờ, Lan nói cũng có lý. Cái showroom ở Bình Chánh với Thủ Đức dạo này xe xăng bán chậm thiệt. Hay là mình chuyển đổi công năng hai chỗ đó sang làm xe điện luôn được không Nam?
+[09:34] Dạ được sếp, diện tích hai chỗ đó rất đẹp để làm Hub xe điện và trạm sạc nhanh cho khách đi tỉnh. Mình chỉ cần sửa lại nhận diện thương hiệu cho nó trẻ trung, xanh sạch hơn là ổn.
+[09:36] Ừ, ý tưởng hay đó. Mà này, cái vụ pin xe điện khách họ lo nhất là sau mấy năm nó chai rồi thay tốn tiền. Mình có chính sách gì để khách họ yên tâm mua xe không?
+[09:38] Dạ vầy nè sếp, các hãng xe giờ họ đều có chính sách thuê pin hoặc bảo hành pin 8-10 năm. Mình cũng nên nghiên cứu thêm dịch vụ "Thu mua xe điện cũ, đổi xe mới" (Trade-in) để khách họ không sợ mất giá. Đồng thời mình cũng có thể làm dịch vụ tái chế pin hoặc dùng pin cũ làm hệ thống lưu trữ điện mặt trời (BESS) cho chính showroom mình luôn.
+[09:40] Ờ, cái vụ dùng pin cũ làm lưu trữ điện mặt trời nghe hay đó Nam! Vừa bảo vệ môi trường vừa tiết kiệm tiền điện cho mình.
+[09:42] Dạ đúng rồi sếp. Xu thế kinh tế tuần hoàn mà. À, còn cái vụ marketing thì sao Linh? Em định làm sao để định vị mình là "Vua xe điện" ở khu vực phía Nam này?
+[09:44] Dạ sếp, em định là mình sẽ không quảng cáo theo kiểu bán xe truyền thống nữa. Mình sẽ tập trung vào trải nghiệm "Lối sống xanh". Sẽ có những buổi lái thử xe kết hợp với cắm trại, hội thảo về môi trường. Mình cũng sẽ xây dựng một cái App riêng cho cộng đồng chủ xe điện của mình, trên đó tích hợp luôn bản đồ trạm sạc, đặt lịch bảo dưỡng và tích điểm đổi quà.
+[09:46] Làm app hả? Lại tốn tiền nữa rồi. Nhưng mà thôi, thời đại này không có app là thua. Lan nhớ tính cái phí phát triển app vô ngân sách luôn nha.
+[09:48] Dạ vâng ạ. Mà sếp ơi, em lo nhất là cái chính sách thuế của nhà nước mình cho xe điện. Hiện tại đang được miễn thuế trước bạ, nhưng lỡ vài năm nữa họ thu lại thì sao?
+[09:50] Cái đó mình không kiểm soát được, nhưng theo anh biết thì chính phủ đang rất khuyến khích xe điện để thực hiện cam kết Net Zero. Nên anh nghĩ ít nhất trong 5 năm tới chính sách vẫn sẽ tốt thôi.
+[09:52] Dạ hy vọng là vậy. À còn một cái nữa, mình có nên nhập xe máy điện về bán luôn không sếp? Em thấy nhu cầu xe máy điện cũng đang bùng nổ lắm.
+[09:54] Xe máy điện hả? Ừm, cũng là một ý hay nhưng mà sợ nó làm loãng thương hiệu "Showroom ô tô" của mình không?
+[09:56] Em nghĩ là mình làm một khu vực riêng biệt "E-Mobility Corner" trong showroom cũng được sếp ạ. Bán mấy dòng xe máy điện cao cấp thôi, nhìn nó vẫn sang trọng và hiện đại.
+[09:58] Ờ, thôi cái vụ xe máy điện để sau đi, tập trung làm cho tốt ô tô điện cái đã. Lan với Nam hoàn thiện cái đề án chi tiết, bao gồm cả phương án thoái vốn xe xăng gửi anh duyệt trong cuộc họp tháng tới nha.
+[10:00] Dạ vâng sếp, tụi em sẽ làm kỹ cái này. Tinh thần là quyết tâm chuyển đổi xanh sếp nhỉ!
+[10:02] Ừ, không đổi là chết đó. Thôi chào mọi người, nghỉ trưa đi.
+[10:04] Dạ tụi em chào sếp ạ.
+
+<|output|>
+# Chiến lược chuyển dịch sang phân phối xe điện (EV) giai đoạn 2024-2029
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất lộ trình chuyển dịch mô hình kinh doanh từ xe động cơ đốt trong sang xe điện (EV).
+- Đánh giá nguồn lực tài chính, hạ tầng kỹ thuật và chiến lược hợp tác với các hãng xe điện.
+- Quyết định phương án thoái vốn ở các mảng kinh doanh kém hiệu quả để tập trung cho hệ sinh thái EV.
+
+### 2. Các vấn đề đã thảo luận
+- Xu hướng phát triển mạnh mẽ của thị trường xe điện toàn cầu và tại Việt Nam.
+- Mô hình kinh doanh: "Đại lý xe điện đa thương hiệu" (EV Multi-brand Hub), hợp tác với BYD, MG và VinFast.
+- Hạ tầng: Đầu tư hệ thống trạm sạc nhanh chuẩn CCS2 và xin cấp trạm biến áp riêng cho showroom.
+- Tài chính: Tổng mức đầu tư dự kiến 50 tỷ đồng cho một showroom điểm. Cần 250 tỷ cho chuỗi 5 điểm trong 3 năm.
+- Nhân sự: Đào tạo lại kỹ thuật viên xe xăng, tuyển mới chuyên gia IT và điện tử viễn thông.
+- Chiến lược thoái vốn: Chuyển đổi công năng các showroom xe xăng doanh số thấp (Bình Chánh, Thủ Đức) sang showroom xe điện.
+- Dịch vụ giá trị gia tăng: Chính sách thuê pin, thu cũ đổi mới (Trade-in), tái chế pin cũ làm lưu trữ điện mặt trời (BESS).
+- Marketing & Công nghệ: Định vị "Lối sống xanh", phát triển ứng dụng di động (App) quản lý cộng đồng và trạm sạc.
+
+### 3. Kết luận và quyết định
+- Phê duyệt chủ trương chuyển dịch sang phân phối xe điện là chiến lược trọng tâm trong 5 năm tới.
+- Đồng ý phương án chuyển đổi 02 showroom tại Bình Chánh và Thủ Đức sang mô hình EV Hub.
+- Giao bộ phận Tài chính lập phương án thoái vốn và cân đối dòng tiền cho khoản đầu tư 250 tỷ đồng.
+- Giao bộ phận Kỹ thuật cử 10 kỹ thuật viên đi đào tạo chuyên sâu về EV tại nước ngoài.
+- Xây dựng đề án phát triển ứng dụng di động phục vụ hệ sinh thái xe điện của công ty.
+- Hoàn thiện đề án chi tiết để trình Hội đồng quản trị phê duyệt vào kỳ họp tháng 06/2024.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Hoàn thiện báo cáo tài chính và phương án thoái vốn | Chị Lan (Phòng Tài chính) | 15/06/2024 |
+| Làm việc với điện lực về trạm biến áp cho các showroom | Anh Nam (Phòng Kỹ thuật) | 20/06/2024 |
+| Đàm phán hợp đồng đại lý với các hãng xe BYD, MG | Ban Giám đốc | 30/06/2024 |
+| Lên danh sách nhân sự đi đào tạo nước ngoài | Anh Hùng (Phòng Nhân sự) | 10/06/2024 |
+| Khảo sát và báo giá hệ thống sạc nhanh DC | Anh Nam (Phòng Kỹ thuật) | 05/06/2024 |
+| Xây dựng kịch bản truyền thông "Lối sống xanh" | Chị Linh (Phòng Marketing) | 15/06/2024 |
+| Tìm kiếm đơn vị phát triển ứng dụng di động (App) | Team IT | 25/06/2024 |
+| Hoàn thiện hồ sơ xin phép chuyển đổi công năng showroom | Chị Lan (Phòng Hành chính) | 30/06/2024 |

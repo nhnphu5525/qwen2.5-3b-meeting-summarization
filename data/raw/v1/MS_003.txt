@@ -1,0 +1,50 @@
+<|input|>
+[10:00] Chào bác sĩ Hùng, bác sĩ Lan và bộ phận IT. Hôm nay chúng ta họp bàn về lộ trình triển khai hệ thống Bệnh án điện tử (EMR) cho toàn bệnh viện.
+[10:02] Việc này là bắt buộc theo quy định của Bộ Y tế, nhưng tôi lo ngại các bác sĩ lớn tuổi sẽ gặp khó khăn khi thao tác trên máy tính thay vì viết tay như trước.
+[10:04] Tôi đồng ý. Hiện tại một ca khám bệnh chỉ có 15 phút, nếu nhập liệu quá chậm sẽ gây ùn tắc ở phòng chờ.
+[10:06] Chúng tôi đã thiết kế các form nhập liệu thông minh, có sẵn các mẫu chẩn đoán và đơn thuốc phổ biến để bác sĩ chỉ cần chọn thay vì gõ văn bản.
+[10:08] Liệu hệ thống có tích hợp được với máy xét nghiệm và chẩn đoán hình ảnh không? Kết quả trả về EMR luôn thì tốt.
+[10:10] Có ạ, hệ thống mới sẽ kết nối trực tiếp với máy xét nghiệm tự động và hệ thống PACS để xem phim X-quang, MRI ngay trên bệnh án.
+[10:12] Về vấn đề bảo mật dữ liệu bệnh nhân, bộ phận IT đã có phương án dự phòng chưa?
+[10:14] Chúng tôi đã thiết lập máy chủ dự phòng (backup) và phân quyền truy cập nghiêm ngặt. Chỉ bác sĩ điều trị trực tiếp mới được xem hồ sơ chi tiết.
+[10:16] Bệnh nhân có thể xem bệnh án của mình qua ứng dụng điện thoại không?
+[10:18] Dự kiến sau khi triển khai ổn định nội bộ, mình sẽ mở cổng thông tin cho bệnh nhân xem kết quả xét nghiệm qua App của bệnh viện.
+[10:20] Tôi đề nghị tổ chức tập huấn riêng cho từng khoa để bác sĩ nắm vững quy trình mới trước khi chính thức áp dụng vào tháng sau.
+[10:22] Chốt lại là tuần sau mình sẽ chạy thử nghiệm tại Khoa Nội trước nhé.
+[10:24] IT cử người trực 24/7 tại Khoa Nội để hỗ trợ bác sĩ xử lý sự cố ngay lập tức.
+[10:26] Vâng, chúng tôi đã sẵn sàng.
+[10:28] Mọi người cố gắng, vì đây là bước tiến quan trọng để nâng cao chất lượng dịch vụ của bệnh viện mình.
+[10:30] Kết thúc họp, cảm ơn mọi người.
+
+<|output|>
+# Triển khai hệ thống Bệnh án điện tử (EMR) tại bệnh viện
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận lộ trình triển khai hệ thống Bệnh án điện tử (EMR) theo quy định của Bộ Y tế.
+- Giải quyết các khó khăn về thao tác kỹ thuật và tốc độ nhập liệu của đội ngũ y bác sĩ.
+- Thống nhất phương án kết nối dữ liệu liên thông và bảo mật thông tin.
+
+### 2. Các vấn đề đã thảo luận
+- Lo ngại về tốc độ nhập liệu và sự thay đổi thói quen từ viết tay sang máy tính của các bác sĩ.
+- Đề xuất sử dụng các biểu mẫu thông minh và mẫu chẩn đoán có sẵn để tối ưu thời gian.
+- Khả năng tích hợp EMR với hệ thống máy xét nghiệm và lưu trữ hình ảnh (PACS).
+- Phương án bảo mật, phân quyền truy cập và sao lưu dữ liệu bệnh nhân.
+- Kế hoạch mở rộng ứng dụng cho bệnh nhân theo dõi hồ sơ sức khỏe cá nhân.
+
+### 3. Kết luận và quyết định
+- Chạy thử nghiệm hệ thống tại Khoa Nội bắt đầu từ tuần tới.
+- Tổ chức các buổi tập huấn chuyên sâu theo từng chuyên khoa.
+- Bộ phận IT trực hỗ trợ kỹ thuật tại chỗ trong thời gian đầu triển khai.
+- Hoàn thiện cổng kết nối với PACS trước khi áp dụng đại trà toàn bệnh viện vào tháng sau.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Tập huấn thao tác EMR cho bác sĩ Khoa Nội | Bộ phận IT | 25/03 |
+| Thiết lập máy chủ dự phòng và phân quyền | Team Bảo mật IT | 28/03 |
+| Kiểm tra kết nối liên thông với máy xét nghiệm | Team Kỹ thuật | 22/03 |
+| Hoàn thiện các mẫu chẩn đoán và đơn thuốc | BS Hùng, BS Lan | 26/03 |
+| Tổng kết đánh giá sau tuần chạy thử nghiệm | Ban Giám đốc | 05/04 |
