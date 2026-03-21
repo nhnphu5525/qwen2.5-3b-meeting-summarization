@@ -1,0 +1,42 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+[15:00] Chào chị Lan, anh Minh. Chúng ta bắt đầu buổi họp rà soát số liệu quyết toán thuế cho năm tài chính vừa rồi.
+[15:02] Có một số khoản chi phí tiếp khách vượt định mức 10% nhưng chứng từ chưa đầy đủ, chị cần các bộ phận bổ sung ngay.
+[15:04] Về phần tài sản cố định, có 3 máy in mới nhập từ tháng 11 nhưng chưa thấy trích khấu hao trong bảng cân đối.
+[15:06] Để em kiểm tra lại, có thể kế toán phần hành quên chưa cập nhật vào phần mềm.
+
+<|output|>
+# Rà soát số liệu quyết toán thuế và công nợ năm tài chính
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Kiểm tra tính hợp lệ và đầy đủ của chứng từ chi phí trước khi quyết toán thuế.
+
+### 2. Các vấn đề đã thảo luận
+- Chi phí tiếp khách vượt định mức và thiếu chứng từ đi kèm.
+- Sai sót trong việc trích khấu hao máy móc thiết bị mới nhập.
+
+### 3. Kết luận và quyết định
+- Yêu cầu bổ sung đầy đủ chứng từ trước ngày chốt sổ.
+- Cập nhật lại bảng trích khấu hao trên phần mềm kế toán.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thu hồi và kiểm tra chứng từ chi phí tiếp khách | Kế toán Lan | 25/03/2026 |
+| Cập nhật khấu hao máy in trên phần mềm | Anh Minh | 22/03/2026 |

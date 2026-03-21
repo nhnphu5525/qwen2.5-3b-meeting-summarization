@@ -1,0 +1,48 @@
+<|input|>
+# Cải thiện quy trình tiếp đón bệnh nhân tại khoa Khám bệnh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rút ngắn thời gian chờ đợi làm thủ tục tại khoa Khám bệnh.
+- Hiện đại hóa quy trình đăng ký và thanh toán thông qua công nghệ.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng ùn tắc vào giờ cao điểm do khâu bảo hiểm y tế chậm.
+- Giải pháp sử dụng máy lấy số tự động và ứng dụng đặt lịch khám online.
+
+### 3. Kết luận và quyết định
+- Lắp đặt thêm máy lấy số tự động trong tuần tới.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lắp đặt và cấu hình máy lấy số mới | Phòng IT | 25/03/2026 |
+[10:08] Đặt lịch qua app thì tốt, nhưng phải đảm bảo người đặt đúng giờ được vào khám ngay, nếu không họ sẽ phàn nàn.
+[10:10] IT cần nâng cấp đường truyền và server để xử lý dữ liệu bảo hiểm nhanh hơn.
+
+<|output|>
+# Cải thiện quy trình tiếp đón bệnh nhân tại khoa Khám bệnh
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Rút ngắn thời gian chờ đợi làm thủ tục tại khoa Khám bệnh.
+- Hiện đại hóa quy trình đăng ký và thanh toán thông qua công nghệ.
+
+### 2. Các vấn đề đã thảo luận
+- Tình trạng ùn tắc vào giờ cao điểm do khâu bảo hiểm y tế chậm.
+- Giải pháp sử dụng máy lấy số tự động và ứng dụng đặt lịch khám online.
+
+### 3. Kết luận và quyết định
+- Lắp đặt thêm máy lấy số tự động trong tuần tới.
+- Thí điểm đặt lịch khám qua ứng dụng tại Khoa Nhi.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Lắp đặt và cấu hình máy lấy số mới | Phòng IT | 25/03/2026 |
+| Triển khai thử nghiệm app đặt lịch tại Khoa Nhi | Phòng IT | 30/03/2026 |
+| Nâng cấp server xử lý dữ liệu bảo hiểm | Phòng IT | 28/03/2026 |

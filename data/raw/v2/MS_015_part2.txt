@@ -1,0 +1,56 @@
+<|input|>
+# Kế hoạch làm mới nhận diện thương hiệu dòng nước giải khát
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất chủ trương làm mới thương hiệu (Rebranding) để tiếp cận khách hàng trẻ.
+- Thay đổi thiết kế bao bì theo hướng bền vững và thân thiện với môi trường.
+
+### 2. Các vấn đề đã thảo luận
+- Sự cũ kỹ của bộ nhận diện hiện tại sau 10 năm sử dụng.
+- Đề xuất thay đổi màu sắc logo và sử dụng nhựa tái chế rPET cho vỏ chai.
+- Phân tích chi phí sản xuất tăng thêm khi dùng vật liệu mới và khả năng chấp nhận của thị trường.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án Rebranding với trọng tâm là phong cách sống năng động và bảo vệ môi trường.
+- Đồng ý chuyển đổi sang bao bì nhựa tái chế rPET.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Báo cáo chi tiết giá thành khi dùng nhựa rPET | Phòng Thu mua | 28/03/2026 |
+[09:12] Về thông điệp truyền thông, thay vì nói về hương vị như trước, mình nên nói về phong cách sống và sự tự do của tuổi trẻ.
+[09:14] Anh muốn thuê một đơn vị creative agency chuyên nghiệp để họ lên ý tưởng concept tổng thể. Mọi người có đề xuất bên nào không?
+[09:16] Em thấy Agency A đợt vừa rồi làm rất tốt cho nhãn hàng X, họ có gu thiết kế khá hiện đại.
+[09:18] Vậy Lan liên hệ lấy profile và báo giá của Agency A nhé.
+
+<|output|>
+# Kế hoạch làm mới nhận diện thương hiệu dòng nước giải khát
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Thảo luận và thống nhất chủ trương làm mới thương hiệu (Rebranding) để tiếp cận khách hàng trẻ.
+- Thay đổi thiết kế bao bì theo hướng bền vững và thân thiện với môi trường.
+- Xây dựng chiến lược truyền thông đa kênh cho bộ nhận diện mới.
+
+### 2. Các vấn đề đã thảo luận
+- Sự cũ kỹ của bộ nhận diện hiện tại sau 10 năm sử dụng.
+- Đề xuất thay đổi màu sắc logo và sử dụng nhựa tái chế rPET cho vỏ chai.
+- Phân tích chi phí sản xuất tăng thêm khi dùng vật liệu mới và khả năng chấp nhận của thị trường.
+- Lựa chọn Agency sáng tạo.
+
+### 3. Kết luận và quyết định
+- Phê duyệt dự án Rebranding với trọng tâm là phong cách sống năng động và bảo vệ môi trường.
+- Đồng ý chuyển đổi sang bao bì nhựa tái chế rPET.
+- Giao bộ phận Marketing liên hệ và lựa chọn đơn vị tư vấn sáng tạo phù hợp.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Liên hệ và lấy báo giá từ Creative Agency A | Lan (Marketing) | 25/03/2026 |
+| Báo cáo chi tiết giá thành khi dùng nhựa rPET | Phòng Thu mua | 28/03/2026 |
+| Dự thảo thông điệp truyền thông mới | Team Nội dung | 30/03/2026 |
