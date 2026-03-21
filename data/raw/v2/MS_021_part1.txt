@@ -1,0 +1,43 @@
+<|input|>
+# **Tiêu đề**
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+
+### 2. Các vấn đề đã thảo luận
+
+### 3. Kết luận và quyết định
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| | ||
+| | ||
+| | ||
+| | ||
+| | ||
+[09:00] Chào anh chị, sáng nay mình họp về việc rà soát các hợp đồng lao động mới để đảm bảo tuân thủ Bộ luật Lao động 2019.
+[09:02] Tôi thấy có một số điều khoản về thời giờ làm việc và nghỉ ngơi trong bản dự thảo còn hơi mập mờ.
+[09:04] Đúng vậy, mình cần làm rõ quy định về làm thêm giờ, đặc biệt là giới hạn tổng số giờ làm thêm trong tháng không quá 40 giờ.
+
+<|output|>
+# Rà soát tuân thủ pháp luật lao động trong hợp đồng
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Đảm bảo các mẫu hợp đồng lao động mới tuân thủ đúng Bộ luật Lao động 2019.
+- Rà soát các quy định về thời giờ làm việc, nghỉ ngơi.
+
+### 2. Các vấn đề đã thảo luận
+- Sự mập mờ trong điều khoản thời giờ làm việc và giới hạn giờ làm thêm (không quá 40h/tháng).
+
+### 3. Kết luận và quyết định
+- Chỉnh sửa mục thời giờ làm việc bám sát quy định pháp luật.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Soạn thảo lại mục thời giờ làm thêm | Phòng Pháp chế | 24/03/2026 |

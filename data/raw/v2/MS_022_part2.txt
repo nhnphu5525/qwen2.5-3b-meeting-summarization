@@ -1,0 +1,61 @@
+<|input|>
+# Xây dựng combo du lịch hè và chiến lược cạnh tranh giá
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hướng sản phẩm du lịch hè tập trung vào trải nghiệm thiên nhiên.
+- Tìm giải pháp bình ổn giá combo trong bối cảnh vé máy bay tăng cao.
+
+### 2. Các vấn đề đã thảo luận
+- Chuyển dịch xu hướng từ du lịch nghỉ dưỡng sang du lịch trải nghiệm (Trekking, lặn biển).
+- Áp lực từ giá vé máy bay tăng cao ảnh hưởng đến giá thành combo.
+
+### 3. Kết luận và quyết định
+- Ưu tiên phát triển 2 tuyến tour chính: Hà Giang và Phú Quý.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế lịch trình chi tiết tour trải nghiệm | Phòng Sản phẩm | 28/03/2026 |
+| Khảo sát dịch vụ thực tế tại Phú Quý | Phòng Sản phẩm | Chưa rõ |
+[14:08] Chúng ta nên ký hợp đồng giữ chỗ (series-booking) với các hãng hàng không ngay bây giờ để có giá tốt.
+[14:10] Anh Nam liên hệ với bên Bamboo và Vietjet xem họ có chính sách ưu đãi nào cho đại lý cấp 1 đợt này không.
+[14:12] Về truyền thông, nên mời một vài TikToker mảng du lịch đi trải nghiệm trước rồi làm clip review.
+[14:14] Chi phí mời Influencer đợt này hơi cao, Marketing cân đối lại ngân sách nhé.
+[14:16] Chốt lại: Thiết kế tour trải nghiệm thiên nhiên, đàm phán giá vé máy bay và lên kế hoạch Marketing qua Influencer.
+
+<|output|>
+# Xây dựng combo du lịch hè và chiến lược cạnh tranh giá
+
+## I. Nội dung chính
+
+### 1. Mục tiêu cuộc họp
+- Định hướng sản phẩm du lịch hè tập trung vào trải nghiệm thiên nhiên.
+- Tìm giải pháp bình ổn giá combo trong bối cảnh vé máy bay tăng cao.
+- Lên kế hoạch truyền thông qua các kênh mạng xã hội (TikTok).
+
+### 2. Các vấn đề đã thảo luận
+- Chuyển dịch xu hướng từ du lịch nghỉ dưỡng sang du lịch trải nghiệm (Trekking, lặn biển).
+- Áp lực từ giá vé máy bay tăng cao ảnh hưởng đến giá thành combo.
+- Đề xuất phương án ký hợp đồng giữ chỗ số lượng lớn với các hãng hàng không.
+- Sử dụng Influencer để quảng bá hình ảnh điểm đến.
+
+### 3. Kết luận và quyết định
+- Ưu tiên phát triển 2 tuyến tour chính: Hà Giang và Phú Quý.
+- Tiến hành đàm phán series-booking với các hãng hàng không để giữ giá.
+- Phê duyệt ngân sách cho chiến dịch review du lịch thực tế.
+
+## II. Danh sách công việc cần làm
+
+| Công việc | Người phụ trách | Hạn chót |
+| :--- | :--- | :--- |
+| Thiết kế lịch trình chi tiết tour trải nghiệm | Phòng Sản phẩm | 28/03/2026 |
+| Khảo sát dịch vụ thực tế tại Phú Quý | Phòng Sản phẩm | Chưa rõ |
+| Đàm phán giá vé series-booking | Anh Nam | 26/03/2026 |
+| Tìm kiếm và liên hệ TikToker du lịch | Phòng Marketing | 30/03/2026 |
+| Lập dự toán ngân sách cho Influencer | Phòng Tài chính | 02/04/2026 |
+| Chuẩn bị tài liệu quảng cáo cho đại lý lẻ | Phòng Kinh doanh | Chưa rõ |
+| Gửi báo giá cho các đối tác chiến lược | Phòng Kinh doanh | 05/04/2026 |
+| Hoàn thiện banner quảng bá website | Team Design | 01/04/2026 |
