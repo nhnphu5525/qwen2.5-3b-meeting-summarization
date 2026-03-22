@@ -29,9 +29,35 @@ class MeetingAssistantWindow(QMainWindow):
         self._running: bool = False
         self._user_scrolled_up: bool = False
 
+        # WhisperRealtime integration: tạo label trước khi build UI
+        self.model_status_label = QLabel()
+        self.model_status_label.setObjectName("modelStatusLabel")
+        self.model_status_label.setStyleSheet("color: #fbbf24; font-size: 13px;")
+        self.model_status_label.setText("Loading Whisper model...")
+
         self._build_ui()
         self._setup_timers()
         self._connect_signals()
+
+        try:
+            from modules.whisper_live_demo import WhisperRealtime
+            from modules.summarizer_qwen import QwenSummarizer
+            self._whisper = WhisperRealtime()
+            self._summarizer = QwenSummarizer(model_dir="models/qwen25-3b-v2")
+            self.model_status_label.setText("Whisper model loaded ✓")
+            self.model_status_label.setStyleSheet("color: #22c55e; font-size: 13px;")
+        except Exception as e:
+            self._whisper = None
+            self._summarizer = None
+            self.model_status_label.setText(f"Whisper model load failed: {e}")
+            self.model_status_label.setStyleSheet("color: #ef4444; font-size: 13px;")
+        self._asr_thread = None
+        self._asr_stop_event = None
+        self._last_transcript = ""
+        self._last_summary_transcript = ""
+        self._current_mode = "microphone"
+        self._current_device = None
+        self._current_file = None
 
     # ── UI Construction ──────────────────────────────────────────────────
 
@@ -45,6 +71,7 @@ class MeetingAssistantWindow(QMainWindow):
         root.setSpacing(14)
 
         root.addLayout(self._build_header())
+        root.addWidget(self.model_status_label)  # Thêm label trạng thái model
         root.addWidget(self._build_audio_input())
         root.addWidget(self._build_panels(), stretch=1)
         root.addLayout(self._build_controls())
@@ -156,6 +183,25 @@ class MeetingAssistantWindow(QMainWindow):
         self.transcript_panel.set_status("● Listening...", active=True)
         self.summary_panel.set_status("● Summarizing...", active=True)
 
+        # Lấy mode và device từ AudioInputWidget
+        self._current_mode = self.audio_input.mode
+        if self._current_mode == "microphone":
+            self._current_device = self.audio_input.selected_device_index
+            self._current_file = None
+        elif self._current_mode == "system":
+            self._current_device = self.audio_input.selected_loopback_device_index
+            self._current_file = None
+        elif self._current_mode == "file":
+            self._current_device = None
+            self._current_file = self.audio_input.selected_file
+
+        # Start WhisperRealtime ASR realtime
+        if self._whisper:
+            if self._current_mode == "file" and self._current_file:
+                # (Optional) Implement file mode if needed
+                pass
+            else:
+                self._whisper.start(duration=None, device=self._current_device)
         self._transcript_timer.start()
         self._summary_timer.start()
 
@@ -169,6 +215,10 @@ class MeetingAssistantWindow(QMainWindow):
 
         self._transcript_timer.stop()
         self._summary_timer.stop()
+
+        # Stop WhisperRealtime ASR
+        if self._whisper:
+            self._whisper.stop()
 
         self.transcript_panel.set_status("Paused", active=False)
         self.summary_panel.set_status("Paused", active=False)
@@ -189,16 +239,27 @@ class MeetingAssistantWindow(QMainWindow):
 
     @Slot()
     def _on_transcript_tick(self):
-        if self._transcript_idx >= len(MOCK_TRANSCRIPT_LINES):
-            self._transcript_timer.stop()
-            self.transcript_panel.set_status("● Completed", active=False)
+        # Luôn lấy transcript thực tế từ WhisperRealtime
+        if self._whisper:
+            text = self._whisper.get_transcript()
+            if text is not None and text != self._last_transcript:
+                self.transcript_panel.content.setPlainText(text)
+                self._last_transcript = text
+                # Tự động tóm tắt khi đủ 400 tokens
+                if self._summarizer:
+                    num_tokens = len(self._summarizer.tokenizer.encode(text))
+                    if num_tokens >= 400 and text != self._last_summary_transcript:
+                        import threading
+                        def run_summary():
+                            summary = self._summarizer.summarize(text)
+                            from .markdown_utils import markdown_to_html
+                            html = markdown_to_html(summary)
+                            self.summary_panel.content.setHtml(
+                                f'<div style="font-family: Segoe UI, sans-serif;">{html}</div>'
+                            )
+                            self._last_summary_transcript = text
+                        threading.Thread(target=run_summary, daemon=True).start()
             return
-
-        line = MOCK_TRANSCRIPT_LINES[self._transcript_idx]
-        self._transcript_idx += 1
-        self._transcript_text += line + "\n"
-
-        self._append_transcript_line(line)
 
     @Slot()
     def _on_summary_tick(self):
