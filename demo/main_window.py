@@ -4,7 +4,7 @@ from PySide6.QtWidgets import (
     QMainWindow, QWidget, QVBoxLayout, QHBoxLayout,
     QPushButton, QLabel, QSplitter, QTextEdit,
 )
-from PySide6.QtCore import Qt, QTimer, Slot
+from PySide6.QtCore import Qt, QTimer, Slot, Signal
 from PySide6.QtGui import QColor, QTextCursor, QTextCharFormat
 
 from .widgets import PanelWidget, AudioInputWidget
@@ -12,8 +12,15 @@ from .markdown_utils import markdown_to_html
 from .mock_data import MOCK_TRANSCRIPT_LINES, MOCK_SUMMARIES
 
 
+# Ngưỡng token để kích hoạt tóm tắt
+_SUMMARY_TOKEN_THRESHOLD = 400
+
+
 class MeetingAssistantWindow(QMainWindow):
     """Main application window."""
+
+    # Signal thread-safe để cập nhật summary panel từ background thread
+    _summary_ready = Signal(str)
 
     def __init__(self):
         super().__init__()
@@ -55,9 +62,14 @@ class MeetingAssistantWindow(QMainWindow):
         self._asr_stop_event = None
         self._last_transcript = ""
         self._last_summary_transcript = ""
+        self._summarizing = False  # Tránh trigger nhiều lần cùng lúc
+        self._last_summarized_token_count = 0  # Số token đã tóm tắt
         self._current_mode = "microphone"
         self._current_device = None
         self._current_file = None
+
+        # Kết nối signal thread-safe
+        self._summary_ready.connect(self._on_summary_ready)
 
     # ── UI Construction ──────────────────────────────────────────────────
 
@@ -180,6 +192,13 @@ class MeetingAssistantWindow(QMainWindow):
         self.btn_start.setEnabled(False)
         self.btn_stop.setEnabled(True)
 
+        # Reset summarizer để đảm bảo báo cáo bắt đầu từ template rỗng
+        if self._summarizer:
+            self._summarizer.reset()
+        self._last_summary_transcript = ""
+        self._last_summarized_token_count = 0
+        self._summarizing = False
+
         self.transcript_panel.set_status("● Listening...", active=True)
         self.summary_panel.set_status("● Summarizing...", active=True)
 
@@ -203,7 +222,9 @@ class MeetingAssistantWindow(QMainWindow):
             else:
                 self._whisper.start(duration=None, device=self._current_device)
         self._transcript_timer.start()
-        self._summary_timer.start()
+        # Chỉ chạy mock summary timer khi KHÔNG có Whisper/Summarizer thật
+        if not self._whisper or not self._summarizer:
+            self._summary_timer.start()
 
     @Slot()
     def _stop(self):
@@ -234,6 +255,12 @@ class MeetingAssistantWindow(QMainWindow):
         self.summary_panel.content.setHtml("")
         self.transcript_panel.set_status("", active=False)
         self.summary_panel.set_status("", active=False)
+        # Reset summarizer state cho incremental summarization
+        if self._summarizer:
+            self._summarizer.reset()
+        self._last_summary_transcript = ""
+        self._last_summarized_token_count = 0
+        self._summarizing = False
 
     # ── Mock Data Tick ───────────────────────────────────────────────────
 
@@ -245,19 +272,28 @@ class MeetingAssistantWindow(QMainWindow):
             if text is not None and text != self._last_transcript:
                 self.transcript_panel.content.setPlainText(text)
                 self._last_transcript = text
-                # Tự động tóm tắt khi đủ 400 tokens
-                if self._summarizer:
+                # Tự động tóm tắt tăng dần khi đủ token mới
+                if self._summarizer and not self._summarizing:
                     num_tokens = len(self._summarizer.tokenizer.encode(text))
-                    if num_tokens >= 400 and text != self._last_summary_transcript:
+                    new_tokens = num_tokens - self._last_summarized_token_count
+                    print(f"[DEBUG] tokens={num_tokens}, last_summarized={self._last_summarized_token_count}, new={new_tokens}, threshold={_SUMMARY_TOKEN_THRESHOLD}")
+                    if new_tokens >= _SUMMARY_TOKEN_THRESHOLD:
+                        self._summarizing = True
+                        current_token_count = num_tokens
+                        # Chỉ lấy phần transcript mới kể từ lần tóm tắt trước
+                        new_transcript = text[len(self._last_summary_transcript):] if self._last_summary_transcript else text
                         import threading
                         def run_summary():
-                            summary = self._summarizer.summarize(text)
-                            from .markdown_utils import markdown_to_html
-                            html = markdown_to_html(summary)
-                            self.summary_panel.content.setHtml(
-                                f'<div style="font-family: Segoe UI, sans-serif;">{html}</div>'
-                            )
-                            self._last_summary_transcript = text
+                            try:
+                                summary = self._summarizer.summarize(new_transcript)
+                                self._last_summary_transcript = text
+                                self._last_summarized_token_count = current_token_count
+                                # Dùng signal để thread-safe cập nhật UI
+                                self._summary_ready.emit(summary)
+                            except Exception as e:
+                                print(f"[Summarizer error] {e}")
+                            finally:
+                                self._summarizing = False
                         threading.Thread(target=run_summary, daemon=True).start()
             return
 
@@ -276,6 +312,17 @@ class MeetingAssistantWindow(QMainWindow):
         self.summary_panel.content.setHtml(
             f'<div style="font-family: Segoe UI, sans-serif;">{html}</div>'
         )
+
+    @Slot(str)
+    def _on_summary_ready(self, summary: str):
+        """Thread-safe slot: cập nhật summary panel từ signal."""
+        if not summary:
+            return
+        html = markdown_to_html(summary)
+        self.summary_panel.content.setHtml(
+            f'<div style="font-family: Segoe UI, sans-serif;">{html}</div>'
+        )
+        self.summary_panel.set_status("● Summarized", active=True)
 
     # ── Transcript helpers ───────────────────────────────────────────────
 
