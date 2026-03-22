@@ -150,4 +150,76 @@ QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
 QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
     background: transparent;
 }
+
+/* ── Audio Input Section ─────────────────────── */
+QFrame#audioInputFrame {
+    background-color: #1a1d27;
+    border: 1px solid #2a2d3a;
+    border-radius: 12px;
+    max-height: 140px;
+}
+QLabel#inputLabel {
+    color: #9ca3af;
+    font-size: 12px;
+    font-weight: 500;
+    min-width: 42px;
+}
+QRadioButton#radioOption {
+    color: #d1d5db;
+    font-size: 12.5px;
+    font-weight: 500;
+    spacing: 6px;
+}
+QRadioButton#radioOption::indicator {
+    width: 14px;
+    height: 14px;
+    border: 2px solid #4b5563;
+    border-radius: 8px;
+    background: transparent;
+}
+QRadioButton#radioOption::indicator:checked {
+    background: #7dd3fc;
+    border-color: #7dd3fc;
+}
+QComboBox#audioCombo {
+    background-color: #1e2230;
+    color: #d1d5db;
+    border: 1px solid #374151;
+    border-radius: 6px;
+    padding: 5px 10px;
+    font-size: 12px;
+    min-height: 28px;
+}
+QComboBox#audioCombo::drop-down {
+    border: none;
+    width: 24px;
+}
+QComboBox#audioCombo QAbstractItemView {
+    background-color: #1e2230;
+    color: #d1d5db;
+    border: 1px solid #374151;
+    selection-background-color: #334155;
+}
+QLineEdit#filePathEdit {
+    background-color: #1e2230;
+    color: #d1d5db;
+    border: 1px solid #374151;
+    border-radius: 6px;
+    padding: 5px 10px;
+    font-size: 12px;
+    min-height: 28px;
+}
+QPushButton#btnBrowse {
+    background-color: #334155;
+    color: #e2e8f0;
+    border: 1px solid #475569;
+    border-radius: 6px;
+    padding: 5px 16px;
+    font-size: 12px;
+    font-weight: 600;
+    min-height: 28px;
+}
+QPushButton#btnBrowse:hover {
+    background-color: #475569;
+}
 """

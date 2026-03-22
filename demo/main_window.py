@@ -7,7 +7,7 @@ from PySide6.QtWidgets import (
 from PySide6.QtCore import Qt, QTimer, Slot
 from PySide6.QtGui import QColor, QTextCursor, QTextCharFormat
 
-from .widgets import PanelWidget
+from .widgets import PanelWidget, AudioInputWidget
 from .markdown_utils import markdown_to_html
 from .mock_data import MOCK_TRANSCRIPT_LINES, MOCK_SUMMARIES
 
@@ -45,6 +45,7 @@ class MeetingAssistantWindow(QMainWindow):
         root.setSpacing(14)
 
         root.addLayout(self._build_header())
+        root.addWidget(self._build_audio_input())
         root.addWidget(self._build_panels(), stretch=1)
         root.addLayout(self._build_controls())
 
@@ -72,6 +73,10 @@ class MeetingAssistantWindow(QMainWindow):
         header.addStretch()
 
         return header
+
+    def _build_audio_input(self) -> AudioInputWidget:
+        self.audio_input = AudioInputWidget()
+        return self.audio_input
 
     def _build_panels(self) -> QSplitter:
         splitter = QSplitter(Qt.Horizontal)
@@ -134,6 +139,9 @@ class MeetingAssistantWindow(QMainWindow):
 
         vbar = self.transcript_panel.content.verticalScrollBar()
         vbar.valueChanged.connect(self._on_transcript_scroll)
+
+        self.audio_input.mode_changed.connect(self._on_audio_mode_changed)
+        self.audio_input.file_selected.connect(self._on_file_selected)
 
     # ── Control Handlers ─────────────────────────────────────────────────
 
@@ -238,3 +246,20 @@ class MeetingAssistantWindow(QMainWindow):
     def _on_transcript_scroll(self, value: int):
         vbar = self.transcript_panel.content.verticalScrollBar()
         self._user_scrolled_up = value < vbar.maximum()
+
+    # ── Audio input handlers ─────────────────────────────────────────────
+
+    @Slot(str)
+    def _on_audio_mode_changed(self, mode: str):
+        """Called when user switches between microphone / system audio / file."""
+        labels = {
+            "microphone": "Ready (mic)",
+            "system": "Ready (system audio)",
+            "file": "Ready (file)",
+        }
+        self.transcript_panel.set_status(labels.get(mode, ""), active=False)
+
+    @Slot(str)
+    def _on_file_selected(self, path: str):
+        """Called when user picks an audio file via browse dialog."""
+        self.transcript_panel.set_status(f"File loaded", active=False)
