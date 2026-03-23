@@ -12,7 +12,16 @@ def markdown_to_html(md: str) -> str:
     for line in lines:
         stripped = line.strip()
 
-        if stripped.startswith("## "):
+        if stripped.startswith("### "):
+            if in_list:
+                html_lines.append("</ul>")
+                in_list = False
+            text = _inline(stripped[4:])
+            html_lines.append(
+                f'<h3 style="color:#38bdf8; margin:16px 0 6px 0; '
+                f'font-size:14px; font-weight:600; letter-spacing:0.2px;">{text}</h3>'
+            )
+        elif stripped.startswith("## "):
             if in_list:
                 html_lines.append("</ul>")
                 in_list = False
